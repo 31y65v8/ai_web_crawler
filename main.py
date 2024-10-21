@@ -13,4 +13,5 @@ as crawler：将创建的爬虫实例命名为 crawler，可以在此上下文�
         #pass#占位符，表示在这里将来会添加具体的爬虫代码。当前没有实际的爬取操作。
 
 if __name__ == "__main__":#如果当前模块是主程序则执行以下代码块，防止模块被导入时自动执行某些代码
-    asyncio.run(main())#调用 asyncio.run() 函数以执行 main 异步函数。这会启动事件循环，并在其中运行 main，直到其完成。
+    asyncio.run(main())#调用 asyncio.run() 函数以执git push origin main
+行 main 异步函数。这会启动事件循环，并在其中运行 main，直到其完成。
