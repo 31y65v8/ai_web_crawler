@@ -1,25 +1,21 @@
-import asyncio
-from crawl4ai import AsyncWebCrawler
+from pathlib import Path
 
-async def main():
-    async with AsyncWebCrawler(verbose=True, user_agent="Mozilla/5.0") as crawler:
+import scrapy
+
+
+class QuotesSpider(scrapy.Spider):
+    name = "quotes"
+
+    def start_requests(self):
         urls = [
-            "https://www.google.com/search?q=artificial+intelligence",
-           # "https://www.google.com/search?q=ai",
-            "https://www.baidu.com/search?q=人工智能"
+            "https://quotes.toscrape.com/page/1/",
+            "https://quotes.toscrape.com/page/2/",
         ]
-
-        results = []
         for url in urls:
-            result = await crawler.arun(url=url)
-            results.append(result)
+            yield scrapy.Request(url=url, callback=self.parse)
 
-        # 在这里分析结果
-        for result in results:
-            print(f"URL: {result.url}")
-            print(f"更新日期: {result.last_modified}")
-            print(f"来源: {result.source}")
-            print(f"内容: {result.markdown[:500]}")  # 仅打印前500字
-
-asyncio.run(main())
-
+    def parse(self, response):
+        page = response.url.split("/")[-2]
+        filename = f"quotes-{page}.html"
+        Path(filename).write_bytes(response.body)
+        self.log(f"Saved file {filename}")
