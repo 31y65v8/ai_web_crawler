@@ -1,0 +1,23 @@
+Content-Length: 34721
+Server: Apache
+Content-Language: zh
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' *.redhat.com *.redhatstatic.com *.intercomcdn.com *.intercom.io *.qualtrics.com *.mountain.com *.trkn.us *.company-target.com analytics.twitter.com assets.adobedtm.com bam.nr-data.net connect.facebook.net consent.trustarc.com googleads.g.doubleclick.net hm.baidu.com img.en25.com in.ml314.com js.driftt.com ml314.com pixel.mintigo.com px.ads.linkedin.com s.ytimg.com s1795.t.eloqua.com script.hotjar.com scripts.demandbase.com snap.licdn.com static.ads-twitter.com static.hotjar.com www.googleadservices.com www.googletagmanager.com www.youtube.com secure.eloqua.com dpm.demdex.net api.demandbase.com autocomplete.demandbase.com tag.demandbase.com platform.twitter.com bat.bing.com j.6sc.co epsilon.6sense.com pubads.g.doubleclick.net https://js.sentry-cdn.com https://static.redhat.com https://www.dev.redhat.com https://www.preprod.redhat.com https://www.redhat.com; script-src-attr 'self' 'unsafe-inline'; script-src-elem 'self' 'unsafe-inline' *.redhat.com *.redhatstatic.com *.intercomcdn.com *.intercom.io *.qualtrics.com *.mountain.com *.trkn.us *.company-target.com analytics.twitter.com assets.adobedtm.com bam.nr-data.net connect.facebook.net consent.trustarc.com googleads.g.doubleclick.net hm.baidu.com img.en25.com in.ml314.com js.driftt.com ml314.com pixel.mintigo.com px.ads.linkedin.com s.ytimg.com s1795.t.eloqua.com script.hotjar.com scripts.demandbase.com snap.licdn.com static.ads-twitter.com static.hotjar.com www.googleadservices.com www.googletagmanager.com www.youtube.com secure.eloqua.com dpm.demdex.net api.demandbase.com autocomplete.demandbase.com tag.demandbase.com platform.twitter.com bat.bing.com j.6sc.co epsilon.6sense.com pubads.g.doubleclick.net https://js.sentry-cdn.com https://static.redhat.com https://www.dev.redhat.com https://www.preprod.redhat.com https://www.redhat.com; style-src 'self' 'unsafe-inline' *.redhat.com fonts.googleapis.com js.driftt.com autocomplete.demandbase.com https://static.redhat.com https://www.redhat.com; style-src-attr 'self' 'unsafe-inline'; frame-ancestors 'self' tracks.redhat.com; report-uri https://o425042.ingest.sentry.io/api/5370002/security/?sentry_key=676ea2c2d4a147c2834066d24c04a9e4&sentry_environment=prod
+Content-Encoding: gzip
+X-Redhat-Debug: 1
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html; charset=UTF-8
+Cache-Control: private, no-cache, must-revalidate
+Expires: Wed, 13 Nov 2024 08:06:49 GMT
+Date: Wed, 13 Nov 2024 08:06:49 GMT
+Vary: Accept-Encoding
+Set-Cookie: 612a22f2c33930c9fd381d0083130505=2a73e54119f4aca0983b3d1432154bcd; path=/; HttpOnly; Secure; SameSite=None
+X-Rh-Edge-Alb-Dc: prod_rhdc_mpp_aws_us_west_2
+X-Rh-Edge-Request-Id: fe04191
+X-Rh-Edge-Reference-Id: 0.348c941b.1731485208.fe04191
+X-Rh-Edge-Cache-Status: Miss from child, Miss from parent
+X-Rh-Appcode-Edge: REDH-003
+X-Rh-Appcode: REDH-002

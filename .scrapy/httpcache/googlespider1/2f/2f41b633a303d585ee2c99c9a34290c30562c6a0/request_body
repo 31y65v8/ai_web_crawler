@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "HWWAFSESID=b60f6a02e28d7c3780; HWWAFSESTIME=1731496434241",
+        "Referer": "https://www.jfdaily.com/wx/detail.do?id=734281",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.jfdaily.com/wx/detail.do?id=734281",
+    "wait": 6
+}

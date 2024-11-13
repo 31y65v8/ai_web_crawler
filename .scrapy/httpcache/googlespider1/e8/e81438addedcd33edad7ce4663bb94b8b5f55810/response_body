@@ -1,0 +1,773 @@
+<!DOCTYPE html><!--[if lt IE 7 ]><html id="htmlIE6" lang="zh-CN"> <![endif]--><!--[if IE 7 ]>	<html id="htmlIE7" lang="zh-CN"> <![endif]--><!--[if IE 8 ]>	<html id="htmlIE8" lang="zh-CN"> <![endif]--><!--[if IE 9 ]>	<html id="htmlIE9" lang="zh-CN"> <![endif]--><!--[if !(IE)]><!--><html id="htmlNotIE" lang="zh-CN"><!--<![endif]--><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="application-name" content="infoobs">
+    <meta name="google" content="nositelinkssearchbox">
+    <meta name="google" content="notranslate">
+    <meta name="generator" content="laravel">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+    <meta name="csrf-token" content="OmvzzZp4BwF2HU14vZxNfxRgjx3lrlwZfBRvziM4">
+    <meta name="author" content="gebaiwan@qq.com">
+    <meta name="format-detection" content="telephone=no">
+    <base href="/template/2203/">
+    <link rel="icon" href="/favicon.ico">
+    <title>什么是人工智能？人工智能的应用领域是什么？ | 信息化观察网 - 引领行业变革</title>
+<meta name="description" content="用来研究人工智能的主要物质基础以及能够实现人工智能技术平台的机器就是计算机，人工智能的发展历史是和计算机科学技术的发展史联系在一起的。">
+<meta name="keywords" content="人工智能, 智能, 机器">
+<meta property="article:published_time" content="2021-12-08T14:45:48+08:00">
+<link rel="canonical" href="https://www.infoobs.com/article/20211208/51409.html">
+<meta property="og:title" content="信息化观察网 - 引领行业变革">
+<meta property="og:description" content="信息化观察网，前身为部委观察内训，是以客观、独到、深度、权威的高品质调查和分析为理念，为政府决策提供最有价值的帮助为核心的服务平台。信息化观察网拥有百万活跃数据库，并通过行政级别、职务、行业、地区等30余项划分，内容覆盖人工智能、VR、大数据、智慧城市等热门领域，秉承引领行业变革的理念，发挥资源优势，不断加强在业界的领先地位。">
+<meta property="og:url" content="https://www.infoobs.com/article/20211208/51409.html">
+<meta property="og:site_name" content="信息化观察网">
+
+
+<script src="https://hm.baidu.com/hm.js?87af4817db2f55a9000a4cca28b067cd"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebPage","name":"\u4fe1\u606f\u5316\u89c2\u5bdf\u7f51 - \u5f15\u9886\u884c\u4e1a\u53d8\u9769","description":"\u4fe1\u606f\u5316\u89c2\u5bdf\u7f51\uff0c\u524d\u8eab\u4e3a\u90e8\u59d4\u89c2\u5bdf\u5185\u8bad\uff0c\u662f\u4ee5\u5ba2\u89c2\u3001\u72ec\u5230\u3001\u6df1\u5ea6\u3001\u6743\u5a01\u7684\u9ad8\u54c1\u8d28\u8c03\u67e5\u548c\u5206\u6790\u4e3a\u7406\u5ff5\uff0c\u4e3a\u653f\u5e9c\u51b3\u7b56\u63d0\u4f9b\u6700\u6709\u4ef7\u503c\u7684\u5e2e\u52a9\u4e3a\u6838\u5fc3\u7684\u670d\u52a1\u5e73\u53f0\u3002\u4fe1\u606f\u5316\u89c2\u5bdf\u7f51\u62e5\u6709\u767e\u4e07\u6d3b\u8dc3\u6570\u636e\u5e93\uff0c\u5e76\u901a\u8fc7\u884c\u653f\u7ea7\u522b\u3001\u804c\u52a1\u3001\u884c\u4e1a\u3001\u5730\u533a\u7b4930\u4f59\u9879\u5212\u5206\uff0c\u5185\u5bb9\u8986\u76d6\u4eba\u5de5\u667a\u80fd\u3001VR\u3001\u5927\u6570\u636e\u3001\u667a\u6167\u57ce\u5e02\u7b49\u70ed\u95e8\u9886\u57df\uff0c\u79c9\u627f\u5f15\u9886\u884c\u4e1a\u53d8\u9769\u7684\u7406\u5ff5\uff0c\u53d1\u6325\u8d44\u6e90\u4f18\u52bf\uff0c\u4e0d\u65ad\u52a0\u5f3a\u5728\u4e1a\u754c\u7684\u9886\u5148\u5730\u4f4d\u3002","url":"https:\/\/www.infoobs.com\/article\/20211208\/51409.html"}</script>
+    <link rel="stylesheet" href="https://static.gebaiwan.com/css/base.css">
+    <link rel="stylesheet" href="base.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_1521204_3zrpoj6ce8p.css">
+    <link rel="stylesheet" href="https://static.gebaiwan.com/bower_components/swiper/dist/css/swiper.min.css">
+    <link rel="stylesheet" href="https://static.gebaiwan.com/node_modules/tippy.js/dist/tippy.css">
+    <link rel="stylesheet" href="https://static.gebaiwan.com/bower_components/izimodal/css/iziModal.min.css">
+    <link rel="stylesheet" href="https://static.gebaiwan.com/bower_components/izitoast/dist/css/iziToast.min.css">
+    <link rel="stylesheet" href="https://static.gebaiwan.com/css/plugins-reboot.css">
+        <link rel="stylesheet" href="plugin-reboot.css">
+        <link rel="stylesheet" href="frontend/style/header.css">
+    <link rel="stylesheet" href="frontend/style/footer.css">
+    <link rel="stylesheet" href="frontend/style/article.css">
+    <link rel="stylesheet" href="frontend/style/article-content.css">
+<style>/* Default jquery-loading styles */
+
+.loading-overlay {
+  display: table;
+  opacity: 0.7;
+}
+
+.loading-overlay-content {
+  text-transform: uppercase;
+  letter-spacing: 0.4em;
+  font-size: 1.15em;
+  font-weight: bold;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.loading-overlay.loading-theme-light {
+  background-color: #fff;
+  color: #000;
+}
+
+.loading-overlay.loading-theme-dark {
+  background-color: #000;
+  color: #fff;
+}
+</style></head>
+<body class="thin article-show">
+
+ <main id="page_main">
+     
+    <header id="header">
+    <div class="ld-box">
+        <div class="header-inner">
+            <div class="logo">
+                <h1 class="sr-only">信息化观察网</h1>
+                <a href="/">
+                    <img src="frontend/images/logo.png?v=22.05.20" alt="信息化观察网">
+                </a>
+            </div>
+            <div class="menus-wrap">
+                <nav class="menu-box">
+                    <a href="/" class="item">首页</a>
+                    <a href="javascript:;" class="item menu-handles">资讯</a>
+                    <a href="https://www.infoobs.com/activities" class="item" target="_blank">活动</a>
+                    <a href="https://www.infoobs.com/case" class="item" target="_blank">方案</a>
+                    <a href="/category/97" class="item" target="_blank">访谈</a>
+                    <a href="https://www.infoobs.com/auditoriums" class="item" target="_blank">大讲堂</a>
+                </nav>
+                <ul class="menu-tags">
+                    <li><a href="/keyword/30" target="_blank">人工智能</a></li>
+                    <li><a href="/keyword/63" target="_blank">5G</a></li>
+                    <li><a href="/keyword/32" target="_blank">云计算</a></li>
+                    <li><a href="/keyword/29" target="_blank">大数据</a></li>
+                    <li><a href="/keyword/34" target="_blank">信息安全</a></li>
+                    <li><a href="/keyword/37" target="_blank">物联网</a></li>
+                    <li><a href="/keyword/64" target="_blank">区块链</a></li>
+                    <li><a href="/keyword/65" target="_blank">密码</a></li>
+                    <li><a href="/keyword/66" target="_blank">数字孪生</a></li>
+                </ul>
+            </div>
+            <div class="menu-plus">
+                <a href="https://www.infoobs.com/sign-in?referer=https://www.infoobs.com/user/post/create" class="login-btn btn btn-mid btn-danger"><i class="iconfont icon-quill-fill mr-1" aria-hidden="true"></i>投稿</a>
+                <a href="https://www.infoobs.com/search" class="search-btn btn btn-mid btn-outline-secondary" data-tippy-content="搜索资讯" data-tippy-placement="right" target="_blank"><i class="iconfont icon-search-line" aria-hidden="true"></i><span class="sr-only">搜索资讯</span></a>
+            </div>
+        </div>
+    </div>
+</header>
+
+    <section class="se-header" id="se_header">
+
+        <div class="min-menu-box">
+    <div class="ld-box">
+        <nav class="min-menus">
+            <a href="/" class="item">首页</a>
+            <a href="/category" class="item">资讯</a>
+            <a href="/activity/index.html" class="item">活动</a>
+            <a href="javascript:;" class="item">方案</a>
+            <a href="/category/97" class="item">访谈</a>
+        </nav>
+    </div>
+</div>
+
+        <div class="sh-box">
+            <div class="ld-box">
+                <div class="inner">
+                    <h2 class="title">什么是人工智能？人工智能的应用领域是什么？</h2>
+                                        <div class="plus">
+                        <time datetime="2021-12-08 14:45:48">2021-12-08 14:45</time>
+                                                    <div class="resources">
+                                                                    <div class="source-site">
+                                                                                    <a href="https://www.toutiao.com/a7039158246023741985/?channel=&amp;source=search_tab" target="_blank" rel="noopener">今日头条</a>
+                                                                            </div>
+                                                                                                    <div class="source-author">LingLingLing</div>
+                                                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="se-main">
+        <div class="art-main">
+            <div class="ld-box">
+                <div class="inner">
+                    <div class="art-main-lft">
+                        <div class="art-cont fontsize-16px" id="art_cont">
+                                                            <summary class="art-summary">
+                                    用来研究人工智能的主要物质基础以及能够实现人工智能技术平台的机器就是计算机，人工智能的发展历史是和计算机科学技术的发展史联系在一起的。
+                                </summary>
+                                                        <article class="public-article-show">
+                                <p>1956年的达特茅斯会议首次提出人工智能的定义：使一部机器的反应方式像一个人在行动时所依据的智能。经过超过半个世纪的发展，人工智能已经渡过了简单地模拟人类智能的阶段，发展为研究人类智能活动的规律，构建具有一定智能的人工系统或硬件，以使其能够进行需要人的智力才能进行的工作，并对人类智能进行拓展的边缘学科。虽说人工智能是一门边缘学科，属于自然科学和社会科学的交叉，不过其涉及哲学和认知科学，数学，神经生理学，心理学，计算机科学，信息论，控制论，不定性论等，也是非常高深的一门学问。人工智能就其本质而言，是对人的思维的信息过程的模拟。</p><p class="text-center"><img class="lazy-img" alt="2345截图20211028093243.png" src="/img/loading.gif" data-src="/uploads/211208/1638946051.png"></p><p><strong class="font-bold">人工智能的发展历程</strong></p><p>人工智能的发展可以分为三个阶段——计算智能、感知智能、认知智能。第一个发展阶段是在计算这个环节，它使得机器能够像人类一样进行计算，诸如神经网络和遗传算法的出现，使得机器能够更高效、快速处理海量的数据。第二个发展阶段就是感知智能，让机器能听懂我们的语言、看懂世界万物。语音和视觉识别就属于这一范畴，这些技术能够更好地辅助人类高效完成任务。第三个发展阶段是认知智能，在这一阶段，机器人将能够主动思考并采取行动，比如无人驾驶汽车、智能机器人，实现全面辅助甚至替代人类工作。目前，人工智能还处于感知智能的阶段。</p><p>用来研究人工智能的主要物质基础以及能够实现人工智能技术平台的机器就是计算机，人工智能的发展历史是和计算机科学技术的发展史联系在一起的。除了计算机科学以外，人工智能还涉及信息论、控制论、自动化、仿生学、生物学、心理学、数理逻辑、语言学、医学和哲学等多门学科。</p><p class="text-center"><img class="lazy-img" alt="2345截图20211028093243.png" src="/img/loading.gif" data-src="/uploads/211208/1638946037.png"></p><p><strong class="font-bold">人工智能应用的七大领域</strong></p><p>人工智能学科研究的主要内容包括：知识表示、自动推理和搜索方法、机器学习和知识获取、知识处理系统、自然语言理解、计算机视觉、智能机器人、自动程序设计等方面。人工智能具有广阔的前景，日前“AI+”已经成为公司，发展至今，下面是2019人工智能应用最为广泛的几大场景。</p><p><strong class="font-bold">家居</strong></p><p>智能家居主要是基于物联网技术，通过智能硬件、软件系统、云计算平台构成一套完整的智能家居生态圈。用户可以进行远程控制设备，设备间可以互联互通，并进行自我学习等，来整体优化家居环境的安全性、节能性、便捷性等。值得一提的是，近两年随着智能语音技术的发展，智能音箱成为一个爆发点。小米、天猫、Rokid等企业纷纷推出自身的智能音箱，不仅成功打开家居市场，也为未来更多的智能家居用品培养了用户习惯。但目前家居市场智能产品种类繁杂，如何打通这些产品之间的沟通壁垒，以及建立安全可靠的智能家居服务环境，是该行业下一步的发力点。</p><p><strong class="font-bold">零售</strong></p><p>人工智能在零售领域的应用已经十分广泛，无人便利店、智慧供应链、客流统计、无人仓/无人车等等都是热门方向。京东自主研发的无人仓采用大量智能物流机器人进行协同与配合，通过人工智能、深度学习、图像智能识别、大数据应用等技术，让工业机器人可以进行自主的判断和行为，完成各种复杂的任务，在商品分拣、运输、出库等环节实现自动化。图普科技则将人工智能技术应用于客流统计，通过人脸识别客流统计功能，门店可以从性别、年龄、表情、新老顾客、滞留时长等维度建立到店客流用户画像，为调整运营策略提供数据基础，帮助门店运营从匹配真实到店客流的角度提升转换率。</p><p class="text-center"><img class="lazy-img" alt="2345截图20211028093243.png" src="/img/loading.gif" data-src="/uploads/211208/1638946019.png"></p><p><strong class="font-bold">交通</strong></p><p>智能交通系统是通信、信息和控制技术在智能交通系统中集成应用的产物。ITS应用最广泛的地区是日本，其次是美国、欧洲等地区。目前，我国在ITS方面的应用主要是通过对交通中的车辆流量、行车速度进行采集和分析，可以对交通进行实施监控和调度，有效提高通行能力、简化交通管理、降低环境污染等。</p><p><strong class="font-bold">医疗</strong></p><p>目前，在垂直领域的图像算法和自然语言处理技术已基本满足医疗行业的需求，市场上出现了众多技术服务商，例如提供智能医学影像技术的德尚韵兴，研发人工智能细胞识别医学诊断系统的智微信科，提供智能辅助诊断服务平台的若水医疗，统计及处理医疗数据的易通天下等。尽管智能医疗在辅助诊疗、疾病预测、医疗影像辅助诊断、药物开发等方面发挥着重要作用，但由于各医院之间医学影像数据、电子病历等不流通，导致企业与医院之间合作不透明等问题，使得技术发展与数据供给之间存在矛盾。</p><p class="text-center"><img class="lazy-img" alt="2345截图20211028093243.png" src="/img/loading.gif" data-src="/uploads/211208/1638946003.png"></p><p><strong class="font-bold">教育</strong></p><p>科大讯飞、乂学教育等企业早已开始探索人工智能在教育领域的应用。通过图像识别，可以进行机器批改试卷、试题答题等；通过语音识别可以纠正、改进发音；而人机交互可以进行在线答疑解惑等功能。AI和教育的结合一定程度上可以改善教育行业师资分布不均衡、费用高昂等问题，从工具层面给师生提供更有效率的学习方式，但还不能对教育内容产生较多实质性的影响。</p><p><strong class="font-bold">物流</strong></p><p>物流行业通过利用智能搜索、推理规划、计算机视觉以及智能机器人等技术在运输、仓储、配送装卸等流程上已经进行了自动化改造，能够基本实现无人操作。比如利用大数据对商品进行智能配送规划，优化配置物流供给、需求匹配、物流资源等。目前物流行业大部分人力分布在“最后一公里”的配送环节，京东、苏宁、菜鸟争先研发无人车、无人机，力求抢占市场机会。</p><p class="text-center"><img class="lazy-img" alt="2345截图20211028093243.png" src="/img/loading.gif" data-src="/uploads/211208/1638945980.png"></p><p><strong class="font-bold">安防</strong></p><p>近些年来，中国安防监控行业发展迅速，视频监控数量不断增长，在公共和个人场景监控摄像头安装总数已经超过了1.75亿。而且，在部分一线城市，视频监控已经实现了全覆盖。不过，相对于国外而言，我国安防监控领域仍然有很大成长空间。</p><p>截至当前，安防监控行业的发展经历了四个发展阶段，分别为模拟监控、数字监控、网络高清、智能监控时代。每一次行业变革，都得益于算法、芯片和零组件的技术创新，以及由此带动的成本下降。因而，产业链上游的技术创新与成本控制成为安防监控系统功能升级、产业规模增长的关键，也成为产业可持续发展的重要基础。</p>
+                            </article>
+                            <div class="the-end"><span>THE<i class="iconfont icon-blank fontsize-12px"></i>END</span>
+                            </div>
+                            <div class="copyright-ps">
+                                                                    免责声明：凡注明为其它来源的信息均转自其它平台，由网友自主投稿和发布、编辑整理上传，对此类作品本站仅提供交流平台，不为其版权负责。本网站对有关资料所引致的错误、不确或遗漏，概不负任何法律责任。若有来源标注错误或侵犯了您的合法权益，请作者持权属证明与本站联系，我们将及时更正、删除，谢谢。联系邮箱：xiali@infoobs.com
+                                                            </div>
+                        </div>
+                        
+                                                    <div class="comment-post-box" id="comment_scroll_mark">
+                                                                    <div class="un-login">评论请先<a href="https://www.infoobs.com/sign-in?referer=https://www.infoobs.com/article/20211208/51409.html">登录</a>~
+                                    </div>
+                                                            </div>
+                            <div class="art-comment-box">
+                                <div class="ac-title"><h3>最新评论<small class="ml-2 color-30">（评论仅代表用户观点）</small></h3>
+                                    <a href="javascript:;">更多<i class="iconfont icon-angle-right"></i></a></div>
+                                <div class="ac-box" id="comments_box">
+                                                                            <div class="empty">暂无评论</div>
+                                                                    </div>
+                            </div>
+                                                
+                                                    <div class="art-recommend-box">
+                                <div class="ar-title"><h3>栏目推荐</h3>
+                                    <a href="javascript:;" class="refresh-handle" id="refresh_handle"><i class="iconfont icon-list-refresh-line mr-1"></i>换一批</a>
+                                </div>
+                                <div id="associate_box" class="ar-box">
+                                                                            <div class="item">
+                                            <div class="art-header">
+                                                <a href="https://www.infoobs.com/article/20240604/65223.html" target="_blank">
+                                                    <div class="art-thumb bg-wrap" style="background-image:url('/uploads/240604/1717468234.png')"></div>
+                                                </a>
+                                            </div>
+                                            <div class="art-main">
+                                                <div class="art-cont">
+                                                    <div class="art-title-box">
+                                                        <a href="https://www.infoobs.com/article/20240604/65223.html" target="_blank" title="全球组织面临IT技能短缺危机，预计2026年因此损失高达5.5万亿美元">
+                                                            <h3 class="art-title">全球组织面临IT技能短缺危机，预计2026年因此损失高达5.5万亿美元</h3>
+                                                        </a>
+                                                    </div>
+                                                                                                            <div class="art-tags">
+                                                                                                                            <a href="/keyword/229" target="_blank" class="tag-link"><span class="tag-label">IT</span></a>
+                                                                                                                            <a href="/keyword/115" target="_blank" class="tag-link"><span class="tag-label">数字化</span></a>
+                                                                                                                            <a href="/keyword/30" target="_blank" class="tag-link"><span class="tag-label">人工智能</span></a>
+                                                                                                                    </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="item">
+                                            <div class="art-header">
+                                                <a href="https://www.infoobs.com/article/20220615/54212.html" target="_blank">
+                                                    <div class="art-thumb bg-wrap" style="background-image:url('/uploads/220615/1655273366.png')"></div>
+                                                </a>
+                                            </div>
+                                            <div class="art-main">
+                                                <div class="art-cont">
+                                                    <div class="art-title-box">
+                                                        <a href="https://www.infoobs.com/article/20220615/54212.html" target="_blank" title="辽宁丹东：交管系统升级打造现代化智慧交通新模式">
+                                                            <h3 class="art-title">辽宁丹东：交管系统升级打造现代化智慧交通新模式</h3>
+                                                        </a>
+                                                    </div>
+                                                                                                            <div class="art-tags">
+                                                                                                                            <a href="/keyword/208" target="_blank" class="tag-link"><span class="tag-label">交通</span></a>
+                                                                                                                            <a href="/keyword/30" target="_blank" class="tag-link"><span class="tag-label">人工智能</span></a>
+                                                                                                                    </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="item">
+                                            <div class="art-header">
+                                                <a href="https://www.infoobs.com/article/20220712/54538.html" target="_blank">
+                                                    <div class="art-thumb bg-wrap" style="background-image:url('/uploads/220712/1657586775.png')"></div>
+                                                </a>
+                                            </div>
+                                            <div class="art-main">
+                                                <div class="art-cont">
+                                                    <div class="art-title-box">
+                                                        <a href="https://www.infoobs.com/article/20220712/54538.html" target="_blank" title="人机合智：安全运营中的人工智能">
+                                                            <h3 class="art-title">人机合智：安全运营中的人工智能</h3>
+                                                        </a>
+                                                    </div>
+                                                                                                            <div class="art-tags">
+                                                                                                                            <a href="/keyword/74" target="_blank" class="tag-link"><span class="tag-label">汽车</span></a>
+                                                                                                                            <a href="/keyword/34" target="_blank" class="tag-link"><span class="tag-label">信息安全</span></a>
+                                                                                                                            <a href="/keyword/30" target="_blank" class="tag-link"><span class="tag-label">人工智能</span></a>
+                                                                                                                            <a href="/keyword/199" target="_blank" class="tag-link"><span class="tag-label">机器学习</span></a>
+                                                                                                                    </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                            <div class="item">
+                                            <div class="art-header">
+                                                <a href="https://www.infoobs.com/article/20240115/63362.html" target="_blank">
+                                                    <div class="art-thumb bg-wrap" style="background-image:url('/uploads/240115/1705302189.jpg')"></div>
+                                                </a>
+                                            </div>
+                                            <div class="art-main">
+                                                <div class="art-cont">
+                                                    <div class="art-title-box">
+                                                        <a href="https://www.infoobs.com/article/20240115/63362.html" target="_blank" title="AI Agent：大模型的下一个高地">
+                                                            <h3 class="art-title">AI Agent：大模型的下一个高地</h3>
+                                                        </a>
+                                                    </div>
+                                                                                                            <div class="art-tags">
+                                                                                                                            <a href="/keyword/159" target="_blank" class="tag-link"><span class="tag-label">软件</span></a>
+                                                                                                                            <a href="/keyword/157" target="_blank" class="tag-link"><span class="tag-label">AI</span></a>
+                                                                                                                            <a href="/keyword/30" target="_blank" class="tag-link"><span class="tag-label">人工智能</span></a>
+                                                                                                                    </div>
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                        
+                    </div>
+                    <div class="art-main-rgt">
+                                                    <div class="text-lists">
+                                <div class="text-list-inner">
+                                    <div class="text-list-header">
+                                        <h2 class="title">
+                                            <i class="iconfont icon-fire-fill mr-2 text-danger" aria-hidden="true"></i>本月热门
+                                        </h2>
+                                    </div>
+                                    <div class="text-list-body">
+                                        <ul>
+                                                                                            <li class="item">
+                                                    <h3 class="title">
+                                                        <a href="https://www.infoobs.com/article/20241101/67489.html" title="AI 原生时代，字节想要复刻第三次增长奇迹" target="_blank">AI 原生时代，字节想要复刻第三次增长奇迹</a>
+                                                    </h3>
+                                                    <p>
+                                                        <time datetime="2024-11-01 09:18:18">11月1日</time>
+                                                    </p>
+                                                </li>
+                                                                                            <li class="item">
+                                                    <h3 class="title">
+                                                        <a href="https://www.infoobs.com/article/20241101/67504.html" title="2024 年预防网络攻击的 12 项网络安全最佳实践措施" target="_blank">2024 年预防网络攻击的 12 项网络安全最佳实践措施</a>
+                                                    </h3>
+                                                    <p>
+                                                        <time datetime="2024-11-01 16:07:33">11月1日</time>
+                                                    </p>
+                                                </li>
+                                                                                            <li class="item">
+                                                    <h3 class="title">
+                                                        <a href="https://www.infoobs.com/article/20241101/67492.html" title="从5G到6G：开启无线通信的未来" target="_blank">从5G到6G：开启无线通信的未来</a>
+                                                    </h3>
+                                                    <p>
+                                                        <time datetime="2024-11-01 09:46:51">11月1日</time>
+                                                    </p>
+                                                </li>
+                                                                                            <li class="item">
+                                                    <h3 class="title">
+                                                        <a href="https://www.infoobs.com/article/20241101/67499.html" title="2024年上半年中国云终端市场跟踪报告：出货量达到166.3万台，同比增长22.4%" target="_blank">2024年上半年中国云终端市场跟踪报告：出货量达到166.3万台，同比增长22.4%</a>
+                                                    </h3>
+                                                    <p>
+                                                        <time datetime="2024-11-01 14:06:06">11月1日</time>
+                                                    </p>
+                                                </li>
+                                                                                            <li class="item">
+                                                    <h3 class="title">
+                                                        <a href="https://www.infoobs.com/article/20241101/67506.html" title="DevSecOps建设标杆丨民生证券携手悬镜安全，共建敏捷安全开发体系" target="_blank">DevSecOps建设标杆丨民生证券携手悬镜安全，共建敏捷安全开发体系</a>
+                                                    </h3>
+                                                    <p>
+                                                        <time datetime="2024-11-01 16:48:03">11月1日</time>
+                                                    </p>
+                                                </li>
+                                                                                            <li class="item">
+                                                    <h3 class="title">
+                                                        <a href="https://www.infoobs.com/article/20241101/67497.html" title="ESIS 2024第三届中国电子半导体数智峰会正式启动，邀您共创电子半导体行业美好未来!" target="_blank">ESIS 2024第三届中国电子半导体数智峰会正式启动，邀您共创电子半导体行业美好未来!</a>
+                                                    </h3>
+                                                    <p>
+                                                        <time datetime="2024-11-01 11:20:59">11月1日</time>
+                                                    </p>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                                                <div id="rgt-stuck">
+                                                            <div class="text-lists">
+                                    <div class="text-list-inner">
+                                        <div class="text-list-header">
+                                            <h2 class="title">
+                                                <i class="iconfont icon-books-fill mr-2" aria-hidden="true"></i>精选文章
+                                            </h2>
+                                        </div>
+                                        <div class="text-list-body">
+                                            <ul>
+                                                                                                    <li class="item">
+                                                        <h3 class="title">
+                                                            <a href="https://www.infoobs.com/article/20221010/55527.html" title="惟实励新，嘉速起航 | 热烈庆祝上海嘉诚开业大吉!" target="_blank">惟实励新，嘉速起航 | 热烈庆祝上海嘉诚开业大吉!</a>
+                                                        </h3>
+                                                        <p>
+                                                            <time datetime="2022-10-10 17:09:41">10月10日</time>
+                                                        </p>
+                                                    </li>
+                                                                                                    <li class="item">
+                                                        <h3 class="title">
+                                                            <a href="https://www.infoobs.com/article/20241108/67593.html" title="喜讯!智邦国际荣获“数智化转型领导品牌”" target="_blank">喜讯!智邦国际荣获“数智化转型领导品牌”</a>
+                                                        </h3>
+                                                        <p>
+                                                            <time datetime="2024-11-08 14:28:33">11月8日</time>
+                                                        </p>
+                                                    </li>
+                                                                                                    <li class="item">
+                                                        <h3 class="title">
+                                                            <a href="https://www.infoobs.com/article/20230913/61180.html" title="中国移动参加2023中国电子政务安全大会 探讨政企数字化转型策略" target="_blank">中国移动参加2023中国电子政务安全大会 探讨政企数字化转型策略</a>
+                                                        </h3>
+                                                        <p>
+                                                            <time datetime="2023-09-13 09:30:17">9月13日</time>
+                                                        </p>
+                                                    </li>
+                                                                                                    <li class="item">
+                                                        <h3 class="title">
+                                                            <a href="https://www.infoobs.com/article/20230811/60423.html" title="iVX引领自动编程新时代：从百万应用到普适AST转换的技术突破" target="_blank">iVX引领自动编程新时代：从百万应用到普适AST转换的技术突破</a>
+                                                        </h3>
+                                                        <p>
+                                                            <time datetime="2023-08-11 15:10:18">8月11日</time>
+                                                        </p>
+                                                    </li>
+                                                                                                    <li class="item">
+                                                        <h3 class="title">
+                                                            <a href="https://www.infoobs.com/article/20220318/53006.html" title="中运智慧客运运营管理平台的建设及应用" target="_blank">中运智慧客运运营管理平台的建设及应用</a>
+                                                        </h3>
+                                                        <p>
+                                                            <time datetime="2022-03-18 09:44:28">3月18日</time>
+                                                        </p>
+                                                    </li>
+                                                                                                    <li class="item">
+                                                        <h3 class="title">
+                                                            <a href="https://www.infoobs.com/article/20241031/67482.html" title="全球首款!东南大学打造偏振体全息光波导AR眼镜“云雀”颠覆视觉体验" target="_blank">全球首款!东南大学打造偏振体全息光波导AR眼镜“云雀”颠覆视觉体验</a>
+                                                        </h3>
+                                                        <p>
+                                                            <time datetime="2024-10-31 16:57:33">10月31日</time>
+                                                        </p>
+                                                    </li>
+                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                                                                <div class="text-lists">
+                                        <div class="text-list-inner">
+                                            <div class="text-list-header">
+                                                <h2 class="title">
+                                                    <i class="iconfont icon-books-fill mr-2" aria-hidden="true"></i>热点资讯
+                                                </h2>
+                                            </div>
+                                            <div class="text-list-body">
+                                                <ul>
+                                                                                                            <li class="item">
+                                                            <h3 class="title">
+                                                                <a href="https://www.infoobs.com/article/20241113/67638.html" title="走进智能工厂，见证卓越智造的力量" target="_blank">走进智能工厂，见证卓越智造的力量</a>
+                                                            </h3>
+                                                            <p>
+                                                                <time datetime="2024-11-13 10:38:39">11月13日</time>
+                                                            </p>
+                                                        </li>
+                                                                                                            <li class="item">
+                                                            <h3 class="title">
+                                                                <a href="https://www.infoobs.com/article/20241112/67619.html" title="美妆界的数字化奇迹：漠小曼的电商转型与国潮崛起" target="_blank">美妆界的数字化奇迹：漠小曼的电商转型与国潮崛起</a>
+                                                            </h3>
+                                                            <p>
+                                                                <time datetime="2024-11-12 10:00:02">11月12日</time>
+                                                            </p>
+                                                        </li>
+                                                                                                            <li class="item">
+                                                            <h3 class="title">
+                                                                <a href="https://www.infoobs.com/article/20241111/67605.html" title="2024 数智化创新应用技术大会 | 一号邀请" target="_blank">2024 数智化创新应用技术大会 | 一号邀请</a>
+                                                            </h3>
+                                                            <p>
+                                                                <time datetime="2024-11-11 10:34:09">11月11日</time>
+                                                            </p>
+                                                        </li>
+                                                                                                            <li class="item">
+                                                            <h3 class="title">
+                                                                <a href="https://www.infoobs.com/article/20241111/67600.html" title="SRM趋势洞察：供应商关系管理将走向何方？" target="_blank">SRM趋势洞察：供应商关系管理将走向何方？</a>
+                                                            </h3>
+                                                            <p>
+                                                                <time datetime="2024-11-11 09:37:56">11月11日</time>
+                                                            </p>
+                                                        </li>
+                                                                                                            <li class="item">
+                                                            <h3 class="title">
+                                                                <a href="https://www.infoobs.com/article/20241108/67593.html" title="喜讯!智邦国际荣获“数智化转型领导品牌”" target="_blank">喜讯!智邦国际荣获“数智化转型领导品牌”</a>
+                                                            </h3>
+                                                            <p>
+                                                                <time datetime="2024-11-08 14:28:33">11月8日</time>
+                                                            </p>
+                                                        </li>
+                                                                                                    </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            <div class="prev-next">
+                                                                    <a href="https://www.infoobs.com/article/20211208/51408.html" target="_blank" title="元宇宙，会是云计算的下一个新战场吗？">
+                                        <div class="item prev-item">
+                                            <div class="icos">
+                                                <div class="ico"><i class="iconfont icon-angle-left"></i></div>
+                                                <div class="text">上一篇</div>
+                                            </div>
+                                            <div class="con"><h4>元宇宙，会是云计算的下一个新战场吗？</h4></div>
+                                        </div>
+                                    </a>
+                                                                                                    <a href="https://www.infoobs.com/article/20211208/51410.html" target="_blank" title="泄密无小事，数据防泄漏需重视">
+                                        <div class="item next-item">
+                                            <div class="icos">
+                                                <div class="ico"><i class="iconfont icon-angle-right"></i></div>
+                                                <div class="text">下一篇</div>
+                                            </div>
+                                            <div class="con"><h4>泄密无小事，数据防泄漏需重视</h4></div>
+                                        </div>
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav class="fast-bar" id="sidebar">
+            <div class="item">
+                <a href="javascript:;" class="fontsize-control-plus xq-disabled" data-tippy-content="增加字号" data-tippy-placement="left"><i class="iconfont icon-fontsize-plus" aria-hidden="true"></i></a>
+            </div>
+            <div class="item">
+                <a href="javascript:;" class="fontsize-control-minus" data-tippy-content="减小字号" data-tippy-placement="left"><i class="iconfont icon-fontsize-minus" aria-hidden="true"></i></a>
+            </div>
+            <div class="item">
+                                    <a href="https://www.infoobs.com/sign-in?referer=https://www.infoobs.com/article/20211208/51409.html" data-tippy-content="收藏" data-tippy-placement="left"><i class="iconfont icon-bookmark-line" aria-hidden="true"></i></a>
+                            </div>
+            <div class="item">
+                <a href="javascript:;" class="share-wechat" data-tippy-content="分享到微信" data-tippy-placement="left"><i class="iconfont icon-wechat-fill" aria-hidden="true"></i></a>
+            </div>
+            <div class="item">
+                <a href="javascript:;" class="share-card xq-disabled" data-tippy-content="卡片分享" data-tippy-placement="left"><i class="iconfont icon-share-fill" aria-hidden="true"></i></a>
+            </div>
+            <div class="item">
+                <a href="javascript:;" class="scroll-handle" data-tippy-content="评论" data-tippy-placement="left"><i class="iconfont icon-comment-line" aria-hidden="true"></i></a>
+            </div>
+            <div class="item" id="zBack2zTop" style="display:none">
+                <a href="javascript:;" class="xq-2-top-handle" data-tippy-content="返回顶部" onclick="xqBackToTop()" data-tippy-placement="left"><i class="iconfont icon-arrow-up" aria-hidden="true"></i></a>
+            </div>
+        </nav>
+    </section>
+
+    <div id="wechat_share_modal" style="display:none">
+        <div class="inner">
+            <div id="urlToQrCodeModalInner" title="https://www.infoobs.com/article/20211208/51409.html"><canvas width="140" height="140" style="display: none;"></canvas><img src="data:image/png;base64,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" style="display: block;"></div>
+            <div class="text text-center fontsize-12px mt-2">
+                <p>微信扫码打开后，</p>
+                <p>点击手机屏幕右上角分享</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="card_share_modal" style="display:none">
+        <div class="inner">
+            <div class="img" id="card_share_img"></div>
+            <p><a id="card_down_url" href="javascript:;" download="什么是人工智能？人工智能的应用领域是什么？.png" class="btn btn-outline-light"><i class="iconfont icon-download mr-1"></i>下载图片</a></p>
+        </div>
+    </div>
+
+    <div id="share_card_placeholder" style="position:absolute;z-index:-100;margin-top:-99999px" aria-hidden="true">
+        <div class="inner">
+            <div id="card_share_box">
+                                    <div class="thumb"><img src="/uploads/211208/1638946077.png" alt="什么是人工智能？人工智能的应用领域是什么？"></div>
+                                <div class="title">什么是人工智能？人工智能的应用领域是什么？</div>
+                                <div class="ewm-box">
+                    <div class="text">
+                        <div><span><i class="iconfont icon-copyright-line fontsize-12px mr-1"></i>2024 信息化观察网</span></div>
+                        <p>长按扫描二维码阅读原文</p>
+                    </div>
+                    <div id="urlToQrCodeModalInner">
+                        <!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="60" height="60" viewBox="0 0 60 60"><rect x="0" y="0" width="60" height="60" fill="#ffffff"></rect><g transform="scale(2.069)"><g transform="translate(0,0)"><path fill-rule="evenodd" d="M9 0L9 1L8 1L8 3L9 3L9 4L8 4L8 8L6 8L6 9L4 9L4 8L3 8L3 9L2 9L2 8L0 8L0 9L1 9L1 10L0 10L0 11L1 11L1 12L2 12L2 14L1 14L1 13L0 13L0 17L1 17L1 18L0 18L0 19L1 19L1 18L2 18L2 20L3 20L3 21L8 21L8 23L9 23L9 24L10 24L10 28L14 28L14 29L16 29L16 28L17 28L17 29L18 29L18 28L20 28L20 29L25 29L25 27L27 27L27 29L28 29L28 27L29 27L29 26L28 26L28 27L27 27L27 25L25 25L25 24L27 24L27 23L28 23L28 25L29 25L29 23L28 23L28 22L29 22L29 21L27 21L27 20L29 20L29 17L28 17L28 15L29 15L29 14L25 14L25 16L26 16L26 15L27 15L27 17L28 17L28 18L27 18L27 20L26 20L26 22L27 22L27 23L25 23L25 20L22 20L22 19L24 19L24 16L23 16L23 15L22 15L22 13L23 13L23 14L24 14L24 13L23 13L23 12L25 12L25 13L26 13L26 12L27 12L27 13L29 13L29 12L28 12L28 10L29 10L29 9L28 9L28 8L26 8L26 9L25 9L25 8L22 8L22 9L20 9L20 10L18 10L18 9L17 9L17 10L18 10L18 12L17 12L17 13L16 13L16 15L17 15L17 16L16 16L16 17L18 17L18 18L19 18L19 17L20 17L20 16L19 16L19 17L18 17L18 15L19 15L19 14L20 14L20 15L21 15L21 18L20 18L20 19L19 19L19 20L20 20L20 21L19 21L19 22L18 22L18 24L17 24L17 22L16 22L16 23L15 23L15 24L14 24L14 22L15 22L15 21L17 21L17 20L18 20L18 19L17 19L17 20L15 20L15 19L14 19L14 18L15 18L15 16L14 16L14 15L13 15L13 14L15 14L15 12L16 12L16 11L15 11L15 9L14 9L14 8L13 8L13 6L12 6L12 7L11 7L11 5L12 5L12 4L11 4L11 5L10 5L10 3L12 3L12 2L13 2L13 1L12 1L12 0ZM15 0L15 2L14 2L14 3L15 3L15 5L14 5L14 4L13 4L13 5L14 5L14 7L15 7L15 6L16 6L16 8L20 8L20 7L21 7L21 6L20 6L20 5L19 5L19 4L17 4L17 3L18 3L18 2L19 2L19 3L21 3L21 1L20 1L20 0ZM10 1L10 2L9 2L9 3L10 3L10 2L11 2L11 1ZM16 1L16 2L15 2L15 3L16 3L16 2L17 2L17 1ZM19 1L19 2L20 2L20 1ZM16 4L16 6L17 6L17 7L18 7L18 6L17 6L17 4ZM9 5L9 8L8 8L8 10L7 10L7 9L6 9L6 10L7 10L7 11L5 11L5 12L4 12L4 14L3 14L3 15L2 15L2 16L3 16L3 15L4 15L4 14L5 14L5 13L6 13L6 14L7 14L7 15L6 15L6 16L5 16L5 17L4 17L4 19L5 19L5 17L6 17L6 18L7 18L7 19L6 19L6 20L8 20L8 21L9 21L9 20L10 20L10 19L12 19L12 20L11 20L11 21L10 21L10 22L9 22L9 23L10 23L10 22L11 22L11 26L13 26L13 27L16 27L16 26L17 26L17 27L18 27L18 26L19 26L19 25L20 25L20 22L19 22L19 24L18 24L18 26L17 26L17 25L16 25L16 24L15 24L15 26L14 26L14 25L13 25L13 23L12 23L12 22L13 22L13 20L14 20L14 21L15 21L15 20L14 20L14 19L13 19L13 18L14 18L14 16L13 16L13 17L12 17L12 18L10 18L10 16L9 16L9 15L11 15L11 16L12 16L12 15L11 15L11 14L12 14L12 13L10 13L10 12L9 12L9 11L11 11L11 12L13 12L13 11L12 11L12 9L13 9L13 8L12 8L12 9L11 9L11 8L10 8L10 5ZM19 6L19 7L20 7L20 6ZM3 9L3 11L4 11L4 9ZM9 9L9 10L8 10L8 11L7 11L7 12L6 12L6 13L8 13L8 14L9 14L9 13L8 13L8 11L9 11L9 10L10 10L10 9ZM23 9L23 11L22 11L22 10L21 10L21 11L19 11L19 12L18 12L18 13L19 13L19 12L23 12L23 11L25 11L25 12L26 12L26 11L25 11L25 9ZM26 9L26 10L28 10L28 9ZM20 13L20 14L21 14L21 13ZM17 14L17 15L18 15L18 14ZM7 15L7 16L6 16L6 17L7 17L7 18L8 18L8 19L10 19L10 18L8 18L8 15ZM22 16L22 17L23 17L23 16ZM25 17L25 18L26 18L26 17ZM20 19L20 20L21 20L21 19ZM0 20L0 21L1 21L1 20ZM21 21L21 24L24 24L24 21ZM22 22L22 23L23 23L23 22ZM8 25L8 26L9 26L9 25ZM21 25L21 28L22 28L22 27L23 27L23 28L24 28L24 25L23 25L23 26L22 26L22 25ZM8 27L8 29L9 29L9 27ZM0 0L0 7L7 7L7 0ZM1 1L1 6L6 6L6 1ZM2 2L2 5L5 5L5 2ZM22 0L22 7L29 7L29 0ZM23 1L23 6L28 6L28 1ZM24 2L24 5L27 5L27 2ZM0 22L0 29L7 29L7 22ZM1 23L1 28L6 28L6 23ZM2 24L2 27L5 27L5 24Z" fill="#000000"></path></g></g></svg>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer id="footer">
+    <div class="ld-box">
+        <div class="friend-links">
+            <div class="item"><a class="item-href" href="http://www.cac.gov.cn/" target="_blank" rel="noopener nofollow">中央网信办</a></div>
+            <div class="item"><a class="item-href" href="https://www.ndrc.gov.cn/" target="_blank" rel="noopener nofollow">国务院发展和改革委员会</a></div>
+            <div class="item"><a class="item-href" href="http://www.most.gov.cn/" target="_blank" rel="noopener nofollow">科学技术部</a></div>
+            <div class="item"><a class="item-href" href="http://www.miit.gov.cn/" target="_blank" rel="noopener nofollow">工业和信息化部</a></div>
+            <div class="item"><a class="item-href" href="https://www.mps.gov.cn/" target="_blank" rel="noopener nofollow">公安部</a></div>
+            <div class="item"><a class="item-href" href="http://www.nrta.gov.cn/" target="_blank" rel="noopener nofollow">国家广播电视总局</a></div>
+            <div class="item"><a class="item-href" href="http://www.cas.ac.cn/" target="_blank" rel="noopener nofollow">中国科学院</a></div>
+            <div class="item"><a class="item-href" href="http://www.cae.cn/" target="_blank" rel="noopener nofollow">中国工程院</a></div>
+            <div class="item"><a class="item-href" href="https://www.drc.gov.cn/default.aspx" target="_blank" rel="noopener nofollow">国务院发展研究中心</a></div>
+            <div class="item"><a class="item-href" href="http://www.oscca.gov.cn/" target="_blank" rel="noopener nofollow">国家密码管理局</a></div>
+            <div class="item"><a class="item-href" href="http://www.acsi.gov.cn/" target="_blank" rel="noopener nofollow">国家信息化专家咨询委员会</a></div>
+            <div class="item"><a class="item-href" href="http://www.sic.gov.cn/" target="_blank" rel="noopener nofollow">国家信息中心</a></div>
+            <div class="item"><a class="item-href" href="https://www.ccidgroup.com/" target="_blank" rel="noopener nofollow">中国电子信息产业发展研究院</a></div>
+            <div class="item"><a class="item-href" href="http://www.cast.org.cn/" target="_blank" rel="noopener nofollow">中国科学技术协会</a></div>
+            <div class="item"><a class="item-href" href="http://www.ciia.org.cn/" target="_blank" rel="noopener nofollow">中国信息协会</a></div>
+            <div class="item"><a class="item-href" href="https://www.isc.org.cn/" target="_blank" rel="noopener nofollow">中国互联网协会</a></div>
+            <div class="item"><a class="item-href" href="http://www.ciiabd.org.cn/" target="_blank" rel="noopener">中国信息协会大数据分会</a></div>
+            <div class="item"><a class="item-href" href="https://web.csia.net.cn/" target="_blank" rel="noopener">中国半导体行业协会</a></div>
+            <div class="item"><a class="item-href" href="http://www.people.com.cn/" target="_blank" rel="noopener nofollow">人民网</a></div>
+            <div class="item"><a class="item-href" href="http://www.xinhuanet.com/" target="_blank" rel="noopener nofollow">新华网</a></div>
+            <div class="item"><a class="item-href" href="http://www.gmw.cn/" target="_blank" rel="noopener nofollow">光明网</a></div>
+            <div class="item"><a class="item-href" href="http://ccidnet.com/" target="_blank" rel="noopener">赛迪网</a></div>
+            <div class="item"><a class="item-href" href="http://www.cena.com.cn/" target="_blank" rel="noopener nofollow">中国电子信息产业网</a></div>
+            <div class="item"><a class="item-href" href="https://www.sina.com.cn/" target="_blank" rel="noopener nofollow">新浪</a></div>
+            <div class="item"><a class="item-href" href="https://www.sohu.com/" target="_blank" rel="noopener nofollow">搜狐</a></div>
+            <div class="item"><a class="item-href" href="https://www.163.com/" target="_blank" rel="noopener nofollow">网易</a></div>
+            <div class="item"><a class="item-href" href="https://www.ifeng.com/" target="_blank" rel="noopener nofollow">凤凰网</a></div>
+            <div class="item sr-only"><a class="item-href" href="http://www.infosws.cn/" target="_blank">信息化和软件服务网</a></div>
+        </div>
+        <div class="abouts">
+            <div class="item"><a href="/article/20200202/750.html">关于我们</a></div>
+            <div class="item"><a href="/article/20200202/752.html">合作服务</a></div>
+            <div class="item"><a href="/article/20200202/753.html">版权声明</a></div>
+            <div class="item"><a href="/article/20200202/754.html">诚聘英才</a></div>
+            <div class="item"><a href="https://www.infoobs.com/friends">合作伙伴</a></div>
+            <div class="item"><a href="/article/20200202/755.html">联系我们</a></div>
+        </div>
+        <div class="contacts">
+            <div class="item">商务合作：<a href="mailto:wanghao@infoobs.com">wanghao<i class="iconfont icon-at-line fontsize-12px" title="@"></i>infoobs.com</a></div>
+            <div class="item">媒体合作：<a href="mailto:xiali@infoobs.com">xiali<i class="iconfont icon-at-line fontsize-12px" title="@"></i>infoobs.com</a></div>
+        </div>
+        <div class="plus">
+            <div class="item">
+                <a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国">
+                    <img src="/img/2.jpg" alt="信用中国"></a>
+            </div>
+            
+        </div>
+        <div class="copyrights">
+            <div class="items">
+                <div class="item">Copyright <i class="iconfont icon-copyright-line fontsize-14px"></i> 2007-2024</div>
+                <div class="item"><a href="https://www.infoobs.com"><span class="sr-only">信息化观察网</span>infoobs.com</a> All rights reserved.</div>
+            </div>
+            <div class="items beian">
+                <div class="item"><a href="https://beian.miit.gov.cn" target="_blank">京ICP备17024783号-1</a></div>
+                <div class="item"><img src="/img/beian.png" alt="京公网安备"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802023927" target="_blank" rel="noopener">京公网安备 11010802023927号</a></div>
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+<aside id="widgets">
+    <div class="inner">
+        <a class="item go-head" href="javascript:;" onclick="xqBackToTop()"></a>
+        <a class="item wechat" href="javascript:;"></a>
+    </div>
+    <div class="wechat-img-box">
+        <div class="wechat-inner">
+            <img src="frontend/images/wechat.png" alt="官方微信">
+            <p>官方微信</p>
+        </div>
+    </div>
+</aside>
+ </main>
+
+<!--[if lt IE 9]>
+<script src="https://static.gebaiwan.com/plugins/ltie9/html5shiv.min.js"></script>
+<script src="https://static.gebaiwan.com/plugins/ltie9/respond.min.js"></script>
+<![endif]-->
+<script src="base.js"></script>
+<script src="https://static.gebaiwan.com/js/base-function.js"></script>
+<script src="https://static.gebaiwan.com/bower_components/axios/dist/axios.min.js"></script>
+<script src="https://static.gebaiwan.com/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="https://static.gebaiwan.com/plugins/nprogress/nprogress.js"></script>
+<script src="https://static.gebaiwan.com/node_modules/popper.js/dist/umd/popper.min.js"></script>
+<script src="https://static.gebaiwan.com/plugins/bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+<script src="https://static.gebaiwan.com/plugins/scroll-magic/js.min.js"></script>
+<script src="https://static.gebaiwan.com/plugins/scroll-magic/plugins/debug.addIndicators.min.js"></script>
+<script src="https://static.gebaiwan.com/node_modules/holderjs/holder.min.js"></script>
+<script src="https://static.gebaiwan.com/node_modules/sticky-kit/dist/sticky-kit.min.js"></script>
+<script src="https://static.gebaiwan.com/bower_components/swiper/dist/js/swiper.min.js"></script>
+<script src="https://static.gebaiwan.com/plugins/swiper-animate/js.min.js"></script>
+<script src="https://static.gebaiwan.com/node_modules/jquery.marquee/jquery.marquee.min.js"></script>
+<script src="https://static.gebaiwan.com/node_modules/jquery-easy-loading/dist/jquery.loading.min.js"></script>
+<script src="https://static.gebaiwan.com/bower_components/izitoast/dist/js/iziToast.min.js"></script>
+<script src="https://static.gebaiwan.com/bower_components/izimodal/js/iziModal.min.js"></script>
+<script src="https://static.gebaiwan.com/node_modules/@popperjs/core/dist/umd/popper.min.js"></script>
+<script src="https://static.gebaiwan.com/node_modules/tippy.js/dist/tippy.umd.min.js"></script>
+<script src="https://static.gebaiwan.com/node_modules/vanilla-lazyload/dist/lazyload.iife.min.js"></script>
+    <script src="https://static.gebaiwan.com/plugins/qrcodejs-master/qrcode.min.js"></script>
+    <script src="https://static.gebaiwan.com/bower_components/jquery.scrollTo/jquery.scrollTo.min.js"></script>
+    <script src="https://static.gebaiwan.com/node_modules/art-template/lib/template-web.js"></script>
+    <script src="https://static.gebaiwan.com/node_modules/zooming/build/zooming.min.js"></script>
+    <script src="https://res2.wx.qq.com/open/js/jweixin-1.6.0.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://static.gebaiwan.com/node_modules/html2canvas/dist/html2canvas.min.js"></script>
+<script src="/template/2203/plugin_reset.js"></script>
+    
+        <script type="text/html" id="associateTpl">
+            {{each data item index}}
+            <div class="item">
+                <div class="art-header">
+                    <a href="{{item.href}}" target="_blank">
+                        <div class="art-thumb bg-wrap" style="background-image:url('/uploads/{{item.thumb}}')"></div>
+                    </a>
+                </div>
+                <div class="art-main">
+                    <div class="art-cont">
+                        <div class="art-title-box">
+                            <a href="{{item.href}}" target="_blank" title="{{item.title}}">
+                                <h3 class="art-title">{{item.title}}</h3>
+                            </a>
+                        </div>
+                        {{if item.keywords}}
+                        <div class="art-tags">
+                            {{each item.keywords value key}}
+                            <a href="/keyword/{{ value.id }}" target="_blank" class="tag-link"><span class="tag-label">{{ value.name }}</span></a>
+                            {{/each}}
+                        </div>
+                        {{/if}}
+                    </div>
+                </div>
+            </div>
+            {{/each}}
+        </script>
+        <script type="text/html" id="commentTpl">
+            <div class="item">
+                <div class="item-inner">
+                    <div class="avatar"><img src="{{member.info.avatar}}" alt="{{member.nickname}}"></div>
+                    <div class="cons">
+                        <div class="author">{{member.nickname}}</div>
+                        <div class="con">{{content}}</div>
+                        <div class="time">
+                            <time datetime="">{{created_at_humans}}</time>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </script>
+    
+    <script>
+		let get_associate_articles_url = 'https://www.infoobs.com/article/51409/associate';
+		let comment_store_url = 'https://www.infoobs.com/user/post/51409/comment';
+		let article_collect_url = 'https://www.infoobs.com/user/post/51409/collection';
+		let current_url = 'https://www.infoobs.com/article/20211208/51409.html'
+
+		wx.config({"debug":false,"beta":false,"jsApiList":["updateAppMessageShareData","updateTimelineShareData"],"openTagList":[],"appId":"wx83c39c131352a1e5","nonceStr":"PZ4VKmegUx","timestamp":1731502523,"url":"https:\/\/www.infoobs.com\/article\/20211208\/51409.html","signature":"03632ddc423f14b1da36c5e4e538f2cc4b8ae932"});
+		wx.ready(function () {
+			wx.updateAppMessageShareData({
+				title: '什么是人工智能？人工智能的应用领域是什么？', // 分享标题
+				desc: '用来研究人工智能的主要物质基础以及能够实现人工智能技术平台的机器就是计算机，人工智能的发展历史是和计算机科学技术的发展史联系在一起的。', // 分享描述
+				link: 'https://www.infoobs.com/article/20211208/51409.html', // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+				imgUrl: 'https://www.infoobs.com/uploads/211208/1638946077.png', // 分享图标
+				success: function () {
+				}
+			})
+			wx.updateTimelineShareData({
+				title: '什么是人工智能？人工智能的应用领域是什么？', // 分享标题
+				link: 'https://www.infoobs.com/article/20211208/51409.html', // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+				imgUrl: 'https://www.infoobs.com/uploads/211208/1638946077.png', // 分享图标
+				success: function () {
+					// 设置成功
+				}
+			})
+			wx.error(function (res) {
+				console.log(res)
+			});
+		});
+    </script>
+    <script src="frontend/style/article-show.js"></script>
+<script>
+    $(function (){
+        let $widgets_aside = $('aside#widgets');
+        if ($widgets_aside.length){
+        	$widgets_aside.on('mouseover mouseleave', '.item.wechat', function (e){
+                if (e.type === 'mouseover'){
+                	$widgets_aside.addClass('open-wechat')
+                }else
+	                $widgets_aside.removeClass('open-wechat');
+            })
+        }
+    });
+	//百度统计
+	var _hmt = _hmt || [];
+	(function() {
+		//百度主动推送
+		var bp = document.createElement('script');
+		var curProtocol = window.location.protocol.split(':')[0];
+		if (curProtocol === 'https'){
+			bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+		}else{
+			bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+		}
+		var bp_s = document.getElementsByTagName("script")[0];
+		bp_s.parentNode.insertBefore(bp, bp_s);
+		/* 360的document.write在chrome失效，21-05-24 10:37取消
+        //360主动推送
+        var qh = document.createElement('script');
+        if (curProtocol === 'https'){
+            qh.src = 'https://jspassport.ssl.qhimg.com/11.0.1.js?a27ce92c920998b4d80a4c193c1048f5';
+        }else{
+            qh.src = 'http://js.passport.qihucdn.com/11.0.1.js?a27ce92c920998b4d80a4c193c1048f5';
+        }
+        var qh_s = document.getElementsByTagName("script")[0];
+        qh_s.parentNode.insertBefore(qh, qh_s);*/
+		//百度统计
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?87af4817db2f55a9000a4cca28b067cd";
+		var hm_s = document.getElementsByTagName("script")[0];
+		hm_s.parentNode.insertBefore(hm, hm_s);
+	})();
+	window.requestAnimFrame = (function(){
+		return  window.requestAnimationFrame       ||
+			window.webkitRequestAnimationFrame ||
+			window.mozRequestAnimationFrame    ||
+			window.oRequestAnimationFrame      ||
+			window.msRequestAnimationFrame     ||
+			function( callback ){
+				window.setTimeout(callback, 1000 / 60);
+			};
+	})();
+	requestAnimationFrame(function(){
+		var firstPaintTime = Date.now() - performance.timing.navigationStart;
+		console.log('firstPaintTime:'+firstPaintTime);
+	});
+</script>
+
+
+</body></html>

@@ -1,0 +1,1523 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="keywords" content="其他人工智能资讯,ATYUN,AiTechYun">
+    <meta name="description" content="其他资讯 | ATYUN.COM 官网-人工智能教程资讯全方位服务平台">
+    <title>2023全球十大人工智能公司排行 | ATYUN.COM 官网-人工智能教程资讯全方位服务平台</title>
+    <link href="https://www.atyun.com/static/dist/css/base.css" rel="stylesheet" type="text/css">
+    <link href="https://www.atyun.com/static/dist/css/common.css" rel="stylesheet" type="text/css">
+    <link href="https://www.atyun.com/static/dist/css/lightbox.css" rel="stylesheet" type="text/css">
+    <link href="https://www.atyun.com/static/plus/css/swiper-bundle.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="https://www.atyun.com/static/plus/css/default.min.css">
+    <link href="https://www.atyun.com/static/dist/css/main.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://www.atyun.com/static/dist/css/iconfont.css">
+    <link href="https://www.atyun.com/static/skin/css/default.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-QCDG8JX6F5&amp;cx=c&amp;_slc=1"></script><script src="https://hm.baidu.com/hm.js?287eb8e0b5b51ea633ceab47b9c269fc"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://www.atyun.com/static/dist/js/jquery.min.js"></script>
+    <script src="https://www.atyun.com/static/dist/js/lightbox.js"></script>
+    <script src="https://www.atyun.com/static/plus/js/swiper-bundle.min.js"></script>
+    <script defer="defer" src="https://www.atyun.com/static/plus/js/marked.min.js"></script>
+    <script defer="defer" src="https://www.atyun.com/static/plus/js/markdown-it.min.js"></script>
+    <script defer="defer" src="https://www.atyun.com/static/plus/js/highlight.min.js"></script>
+    <script defer="defer" src="https://www.atyun.com/static/plus/js/clipboard.min.js"></script>
+    <style>
+        pre code.hljs::-webkit-scrollbar{
+            height: 10px;
+        }
+        /*滚动条宽度*/
+
+        pre code.hljs::-webkit-scrollbar-track {
+            background: #eee;
+        }
+        .hljs.language-javascript{
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+<div class="wrapper">
+    <div class="recommend_bg" style="display: none;">
+            <a href="https://www.atyun.com/enterprise_service.html" target="_blank"><img class="recommend_bg_img" src="https://www.atyun.com/uploadfile/202308/7829e2189635acc.png"></a>
+                <div class="recommend_bg_close flex_box flex_h_cent flex_y_cent">
+            <div class="gg">广告</div>
+            <img class="close_recommend" src="https://www.atyun.com/static/dist/images/clear.svg" data-attachment_id="280">
+        </div>
+    </div>
+<script>
+var homepage_background_json = {"attachment_id":"280","attachment_title":"\u5e7f\u544a","attachment_link":"https:\/\/www.atyun.com\/enterprise_service.html","attachment_url":"https:\/\/www.atyun.com\/uploadfile\/202308\/7829e2189635acc.png","link_type":"\u5e7f\u544a"};
+// 判断是否关闭过广告
+if (homepage_background_json.attachment_id) {
+	var raw_json_storage = localStorage.getItem(`close_ad_${homepage_background_json.attachment_id}`);
+	var json_storage = JSON.parse(raw_json_storage);
+	if (!json_storage || JSON.stringify(homepage_background_json) != raw_json_storage) {
+		$(".recommend_bg").show();
+	}
+}
+$("body").on("click", ".close_recommend", function(event) {
+	event.stopPropagation(); // 停止事件冒泡
+	$(".recommend_bg").hide();
+	let attachment_id = $(this).data('attachment_id');
+	localStorage.setItem(`close_ad_${attachment_id}`, 1);
+
+	homepage_background_json = JSON.stringify(homepage_background_json);
+	localStorage.setItem(`close_ad_${attachment_id}`, homepage_background_json); 
+	return false;
+});	
+</script>
+	<header class="header_stickey">
+	<div class="navigation flex_box">
+		<div class="flex_one flex_box flex_h_cent navigation_left">
+			<div class="logo"><a href="https://www.atyun.com/"><img src="https://www.atyun.com/static/dist/images/logo.svg"></a></div>
+			<div class="navigation_bar">
+				<ul class="flex_box">
+											<li class="flex_box flex_h_cent flex_y_cent">
+															<a href="https://www.atyun.com/c/news" data-navigation_id="navigation_news" class="nav-item active">资讯</a>
+													</li>
+											<li class="flex_box flex_h_cent flex_y_cent">
+															<a href="https://www.atyun.com/c/study" data-navigation_id="navigation_study" class="flex_box flex_h_cent nav-item"><span>学习</span></a>
+								<ul class="propup">
+																		<li><a href="https://www.atyun.com/c/zhicheng">基础知识</a></li>
+																		<li><a href="https://www.atyun.com/c/lilunshijian">理论实践</a></li>
+																		<li><a href="https://www.atyun.com/c/xxjc">学习教程</a></li>
+									
+								</ul>
+													</li>
+											<li class="flex_box flex_h_cent flex_y_cent">
+															<a href="https://b.atyun.com" data-navigation_id="navigation_company" class="nav-item">企业</a>
+													</li>
+											<li class="flex_box flex_h_cent flex_y_cent">
+															<a href="https://job.atyun.com/" data-navigation_id="navigation_employ" class="nav-item">招聘</a>
+													</li>
+											<li class="flex_box flex_h_cent flex_y_cent">
+															<a href="javascript:;" data-navigation_id="navigation_download" class="flex_box flex_h_cent nav-item"><span>下载</span></a>
+								<ul class="propup">
+																		<li><a href="https://www.atyun.com/models.html">模型</a></li>
+																		<li><a href="https://www.atyun.com/datasets.html">数据集</a></li>
+									
+								</ul>
+													</li>
+											<li class="flex_box flex_h_cent flex_y_cent">
+															<a href="https://www.atyun.com/ai_map.html" data-navigation_id="navigation_ai_map" class="nav-item">AI工具箱</a>
+													</li>
+											<li class="flex_box flex_h_cent flex_y_cent">
+															<a href="https://www.atyun.com/enterprise_service.html" data-navigation_id="navigation_service" class="flex_box flex_h_cent nav-item"><span>企业服务</span></a>
+								<ul class="propup">
+																		<li><a href="https://eva.atyun.com/">EVA</a></li>
+																		<li><a href="https://e-hr.atyun.com/">智能HR</a></li>
+																		<li><a href="https://videoai.atyun.com/">视频AI</a></li>
+									
+								</ul>
+													</li>
+					
+				</ul>
+			</div>
+		</div>
+		<div class="navigation_right flex_box flex_y_cent flex_h_cent">
+			<div class="search point"><span class="iconfont icon-search"></span></div>
+							<div class="register point"><a href="https://www.atyun.com/member/register.html">注册</a></div>
+				<div class="login point"><a href="https://www.atyun.com/member/login.html?redirect_to=https://www.atyun.com/58219.html">登录</a></div>
+					</div>
+	</div>
+	<!--手机头-->
+	<div class="navigation_wap flex_box flex_h_cent">
+		<a href="https://www.atyun.com/"><div class="logo flex_box flex_h_cent">
+			<img src="https://www.atyun.com/static/dist/images/logo.svg">
+		</div></a>
+		<div class="flex_box">
+			<div class="search point"><span class="iconfont icon-search"></span></div>
+			<div class="navigation_menu"></div>
+		</div>
+	</div>
+	<!--手机菜单-->
+	<div class="mask_pop wap_menu no-transition">
+		<div class="mask_cont no-transition">
+			<div class="wap_menu_list">
+								<div class="wap_login_box flex_box flex_h_cent">
+					<img src="https://www.atyun.com/static/dist/images/wap_atyun.svg">
+					<a class="login_wap" href="https://www.atyun.com/member/login.html?redirect_to=https://www.atyun.com/58219.html">登录</a>
+					<a href="https://www.atyun.com/member/register.html">注册</a>
+				</div>
+								<div class="wap_nav_list">
+																	<a href="https://www.atyun.com/c/news" data-navigation_id="navigation_news" class="wap_nav_item">资讯</a>
+																							<div class="wap_nav_item" href="javascript:;">
+							<div class="wap_nav_p">学习</div>
+							<div class="wap_nav_sub no-transition">
+																<a href="https://www.atyun.com/c/zhicheng">基础知识</a>
+																<a href="https://www.atyun.com/c/lilunshijian">理论实践</a>
+																<a href="https://www.atyun.com/c/xxjc">学习教程</a>
+								
+							</div>
+						</div>
+																							<a href="https://b.atyun.com" data-navigation_id="navigation_company" class="wap_nav_item">企业</a>
+																							<a href="https://job.atyun.com/" data-navigation_id="navigation_employ" class="wap_nav_item">招聘</a>
+																							<div class="wap_nav_item" href="javascript:;">
+							<div class="wap_nav_p">下载</div>
+							<div class="wap_nav_sub no-transition">
+																<a href="https://www.atyun.com/models.html">模型</a>
+																<a href="https://www.atyun.com/datasets.html">数据集</a>
+								
+							</div>
+						</div>
+																							<a href="https://www.atyun.com/ai_map.html" data-navigation_id="navigation_ai_map" class="wap_nav_item">AI工具箱</a>
+																							<div class="wap_nav_item" href="javascript:;">
+							<div class="wap_nav_p">企业服务</div>
+							<div class="wap_nav_sub no-transition">
+																<a href="https://eva.atyun.com/">EVA</a>
+																<a href="https://e-hr.atyun.com/">智能HR</a>
+																<a href="https://videoai.atyun.com/">视频AI</a>
+								
+							</div>
+						</div>
+											
+				</div>
+							</div>
+		</div>
+	</div>
+	<!--搜索框-->
+	<div class="mask_layer">
+		<div class="search_cont">
+			<div class="search_close point"><img src="https://www.atyun.com/static/dist/images/close.svg"></div>
+<!--			<form>-->
+				<div class="flex_box flex_h_cent flex_y_cent search_box">
+					<input type="text" id="aty_search_txt" name="search" value="" placeholder="请输入搜索内容">
+					<button type="button" class="search_btn point" onclick="aty_search()">搜索</button>
+				</div>
+<!--			</form>-->
+
+
+						<div class="flex_box flex_h_cent flex_y_cent search_tab_list">
+									<a href="https://www.atyun.com/search.html?search_value=ChatGPT" class="search_tab_item">ChatGPT</a>
+									<a href="https://www.atyun.com/search.html?search_value=人工智能应用" class="search_tab_item">人工智能应用</a>
+									<a href="https://www.atyun.com/search.html?search_value=人工智能未来" class="search_tab_item">人工智能未来</a>
+									<a href="https://www.atyun.com/search.html?search_value=计算机视觉" class="search_tab_item">计算机视觉</a>
+				
+			</div>
+						<div class="flex_box flex_y_cent search_others">
+								<div class="search_news">
+					<div class="search_others_tit">热门新闻</div>
+					<div class="search_news_list flex_box flex_y_cent flex_h_cent">
+												<div class="search_news_item flex_one">
+							<a href="https://www.atyun.com/40648.html">
+								<div class="search_news_item_cover">
+									<img src="https://www.atyun.com/uploadfile/2019/05/机器人-1024x488.jpg">
+																		<span class="search_news_source">机器人</span>
+																		<span class="search_news_source">康奈尔大学</span>
+									
+								</div>
+								<p>康奈尔大学推出新的社交机器人，更柔软，更人性化</p>
+							</a>
+						</div>
+												<div class="search_news_item flex_one">
+							<a href="https://www.atyun.com/55628.html">
+								<div class="search_news_item_cover">
+									<img src="https://www.atyun.com/uploadfile/2023/07/b-2.png">
+																		<span class="search_news_source">行业</span>
+																		<span class="search_news_source">人工智能</span>
+									
+								</div>
+								<p>为什么数据污染对LLM来说是一个大问题</p>
+							</a>
+						</div>
+												<div class="search_news_item flex_one">
+							<a href="https://www.atyun.com/44448.html">
+								<div class="search_news_item_cover">
+									<img src="https://www.atyun.com/uploadfile/2019/09/42dc065dfc6041809107604256c64fda.jpeg">
+																		<span class="search_news_source">行业</span>
+																		<span class="search_news_source">人工智能</span>
+									
+								</div>
+								<p>所以，能动手就别吵吵了</p>
+							</a>
+						</div>
+						
+					</div>
+				</div>
+												<div class="search_tools">
+					<div class="search_others_tit">常用工具</div>
+					<div class="search_tools_list">
+												<a href="https://www.atyun.com/ai_map/42.html">
+							<div class="search_tools_item flex_box flex_h_cent">
+								<div class="search_tools_item_logo">
+									<img src="https://www.atyun.com/uploadfile/202307/a85b34429f3c63a.png">
+								</div>
+								<div class="search_tools_item_right">
+									<div>ChatGPT</div>
+									<p>OpenAI旗下AI对话工具</p>
+								</div>
+							</div>
+						</a>
+												<a href="https://www.atyun.com/ai_map/15.html">
+							<div class="search_tools_item flex_box flex_h_cent">
+								<div class="search_tools_item_logo">
+									<img src="https://www.atyun.com/uploadfile/202307/8f6bdff63b6cb30.png">
+								</div>
+								<div class="search_tools_item_right">
+									<div>Midjourney</div>
+									<p>AI图像和插画生成工具，测试测试测试测试测试测测试</p>
+								</div>
+							</div>
+						</a>
+												<a href="https://www.atyun.com/ai_map/16.html">
+							<div class="search_tools_item flex_box flex_h_cent">
+								<div class="search_tools_item_logo">
+									<img src="https://www.atyun.com/uploadfile/202307/8cfea53f9b14.png">
+								</div>
+								<div class="search_tools_item_right">
+									<div>Stable Diffusion</div>
+									<p>StabilityAI推出的文本到图像生成AI</p>
+								</div>
+							</div>
+						</a>
+												<a href="https://www.atyun.com/ai_map/27.html">
+							<div class="search_tools_item flex_box flex_h_cent">
+								<div class="search_tools_item_logo">
+									<img src="https://www.atyun.com/uploadfile/202307/b3c428e0fb78004.png">
+								</div>
+								<div class="search_tools_item_right">
+									<div>GitHub Copilot</div>
+									<p>GitHub AI编程工具</p>
+								</div>
+							</div>
+						</a>
+												<a href="https://www.atyun.com/ai_map/73.html">
+							<div class="search_tools_item flex_box flex_h_cent">
+								<div class="search_tools_item_logo">
+									<img src="https://www.atyun.com/uploadfile/202309/68d6f04f623458f.png">
+								</div>
+								<div class="search_tools_item_right">
+									<div>文心一言</div>
+									<p>百度推出的基于文心大模型的AI对话互动工具</p>
+								</div>
+							</div>
+						</a>
+												<a href="https://www.atyun.com/ai_map/74.html">
+							<div class="search_tools_item flex_box flex_h_cent">
+								<div class="search_tools_item_logo">
+									<img src="https://www.atyun.com/uploadfile/202309/f34282edc515b58.png">
+								</div>
+								<div class="search_tools_item_right">
+									<div>讯飞星火认知大模型</div>
+									<p>科大讯飞推出的类ChatGPT的讯飞星火认知大模型</p>
+								</div>
+							</div>
+						</a>
+												<a href="https://www.atyun.com/ai_map/110.html">
+							<div class="search_tools_item flex_box flex_h_cent">
+								<div class="search_tools_item_logo">
+									<img src="https://www.atyun.com/uploadfile/202407/83483ac5939aff7.png">
+								</div>
+								<div class="search_tools_item_right">
+									<div>心流</div>
+									<p>阿里旗下推出的AI搜索助手</p>
+								</div>
+							</div>
+						</a>
+						
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+</header>
+<!--您尚未登录账户-->
+<div class="mask_pop" id="nav_login_warning">
+	<div class="mask_cont flex_box flex_h_cent flex_y_cent">
+		<div class="warning_mask">
+			<div class="warning_mask_cont">
+				<img class="close_mask_pop" src="https://www.atyun.com/static/dist/images/close_b.svg">
+				<div class="warning_main"><img src="https://www.atyun.com/static/dist/images/warn_icon.svg"><span>您尚未登录账户</span></div>
+				<div class="warning_main_sub">请先登录您的atyun账户，方可使用该功能</div>
+			</div>
+			<form>
+				<div class="btn_groups">
+					<button class="btn btn_cancel">取消</button>
+					<button class="btn btn_blue btn_sure">确认</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<!--仅限企业账户使用-->
+<div class="mask_pop" id="nav_warning">
+	<div class="mask_cont flex_box flex_h_cent flex_y_cent">
+		<div class="nav_warning_mask flex_box_column flex_h_cent flex_y_cent">
+			<img class="nav_warning_icon" src="https://www.atyun.com/static/dist/images/warning_big.svg">
+			<div class="nav_warning_tit">仅限企业账户使用</div>
+			<div class="nav_warning_sub">该功能仅限企业账号使用，开通企业账号可享受更多服务，是否现在注册企业账号？</div>
+			<a class="nav_warning_btn">立即注册企业账号</a>
+			<div class="nav_warning_btn_close">暂不需要</div>
+		</div>
+	</div>
+</div>
+<!--您的企业账号申请正在审核中-->
+<div class="mask_pop" id="nav_checking">
+	<div class="mask_cont flex_box flex_h_cent flex_y_cent">
+		<div class="warning_mask">
+			<div class="warning_mask_cont">
+				<img class="close_mask_pop" src="https://www.atyun.com/static/dist/images/close_b.svg">
+				<div class="warning_main"><img src="https://www.atyun.com/static/dist/images/warn_icon.svg"><span>您的企业账号申请正在审核中</span></div>
+				<div class="warning_main_sub">审核通过后即可使用此功能，请耐心等待~</div>
+			</div>
+			<form>
+				<div class="btn_groups">
+					<button class="btn btn_cancel">取消</button>
+					<button class="btn btn_blue btn_sure">确认</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+<style>
+  .authority_toTest{
+    padding: 14px 20px;
+    border: 1px solid #8ADDAE;
+    border-radius: 4px;
+    background: #E7FFF0;
+    position: fixed;
+    top:30%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index:101;
+    flex-wrap:nowrap;
+  }
+  .authority_toTest.red{
+    border: 1px solid #F25858 !important;
+    background: #FFEFEF !important;
+  }
+  .authority_toTest.blue{
+    border: 1px solid #1493F4 !important;
+    background: #E8F5FF; !important;
+  }
+  .authority_toTest_icon{
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+  }
+
+  .authority_toTest_icon img{
+    width: 100%;
+    height: 100%;
+  }
+  .authority_toTest_text{
+    color: #25AD61;
+    font-weight: 500;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  .red .authority_toTest_text{
+    color:#F25858!important;
+  }
+  .blue .authority_toTest_text{
+    color:#1493F4!important;
+  }
+  .authority_toTest_text{
+    padding-right: 42px;
+  }
+  .authority_toTest_close{
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+  }
+  .authority_toTest_close img{
+    width: 100%;
+    height: 100%;
+  }
+  .fail_icon{display: none;}
+  .info_icon{display: none;}
+  .close_b_icon{display: none;}
+  .close_r_icon{display: none;}
+  .red .close_icon{display: none;}
+  .red .close_b_icon{display: none;}
+  .red .close_r_icon{display: block;}
+  .red .fail_icon{display: block;}
+  .red .success_icon{display: none;}
+  .red .info_icon{display: none;}
+  .blue .close_icon{display: none;}
+  .blue .close_b_icon{display: block;}
+  .blue .close_r_icon{display: none;}
+  .blue .fail_icon{display: none;}
+  .blue .success_icon{display: none;}
+  .blue .info_icon{display: block;}
+</style>
+<div class="authority_toTest flex_box flex_h_cent call_alert" style="display: none;">
+  <div class="authority_toTest_icon">
+    <img src="https://www.atyun.com/static/dist/images//tips/success_alert.svg" alt="" class="success_icon">
+    <img src="https://www.atyun.com/static/dist/images//tips/fail_alert.svg" class="fail_icon" alt="">
+    <img src="https://www.atyun.com/static/dist/images//tips/info_alert.svg" class="info_icon" alt="">
+  </div>
+  <div class="authority_toTest_text" id="call_alert_msg"></div>
+  <div class="authority_toTest_close" onclick="close_alert()">
+    <img class="close_icon" src="https://www.atyun.com/static/dist/images//tips/close_alert.svg" alt="">
+    <img class="close_r_icon" src="https://www.atyun.com/static/dist/images//tips/close_alert_r.svg" alt="">
+    <img class="close_b_icon" src="https://www.atyun.com/static/dist/images//tips/close_alert_b.svg" alt="">
+  </div>
+</div>
+<script>
+  $(".call_alert").hide();
+  function call_alert(msg,status = 'success'){
+    $(".authority_toTest").removeClass('red');
+    $(".authority_toTest").removeClass('blue');
+    if(status=='fail'){
+      $(".authority_toTest").addClass('red');
+    }
+    if(status=='info'){
+      $(".authority_toTest").addClass('blue');
+    }
+    $("#call_alert_msg").html(msg);
+    $(".call_alert").show();
+    setTimeout(function () {
+      $(".call_alert").hide();
+      if (status == 'success'){
+        window.location.reload();
+      }
+    },2000)
+  }
+  function close_alert(){
+    $(".call_alert").hide();
+  }
+  $(".confirm_delete_cancel_pop").click(function () {
+    $(".confirm_delete_pop").hide();
+  })
+</script>
+<script src="https://www.atyun.com/static/dist/js/header.js"></script>
+<script src="https://www.atyun.com/static/dist/js/select.js"></script>
+<script type="text/javascript">
+	$(function() {
+
+		const navigation_id = 'navigation_news';
+		$('.nav-item').each(function() {
+			if ($(this).data('navigation_id') === navigation_id) {
+				$(this).addClass('active');
+			}
+		});
+
+		let selectcomponent= new demo({
+			el:'.atyun_edit_select',
+			fn:{
+				change(res){
+					console.log(res)
+				}
+			}
+		});
+	});
+	$(document).ready(function (){
+
+		$("#aty_search_txt").keydown(function (event) {
+			event.stopPropagation(); // 停止事件冒泡
+			if (event.keyCode == 13) {
+				//这里写事件，例如写个 a();
+				console.log('huiche--------------')
+				aty_search();
+			}
+		});
+
+
+	});
+
+
+    function aty_search(){
+        var aty_search_txt = $("#aty_search_txt").val();
+		window.location.href = "https://www.atyun.com/search.html?search_value="+aty_search_txt;
+
+    }
+
+
+
+
+</script>
+    <div class="cont_box flex_box article_page">
+        <div class="left_side flex_one flex_box_column">
+            <div class="article_cont">
+                <div class="article_tit">
+                    <h2>2023全球十大人工智能公司排行</h2>
+                    <div class="flex_box flex_h_cent article_tit_info">
+                        <span>2023年12月27日 由 daydream 发表</span>
+                        <span>1735</span>
+                        <span>0</span>
+                    </div>
+                </div>
+                <div class="article_details">
+                	<p>今年无疑是科技行业中生成式人工智能（AI）的一年。</p><p><br></p><p>生成式AI是一个持续主导科技新闻头条的话题，并已彻底进入全球文化风潮。甚至英国的查尔斯三世国王也对AI表示了担忧。这个话题变得如此主流，再难以超越不过了。</p><p><br></p><p>生成式AI是一种能够从接收到的输入数据中生成包括文本、图像、音频和代码在内的各种内容的技术。在这些技术中应用最广泛的是ChatGPT，它于2022年11月迅速爆红。</p><p><br></p><p>在这个快速扩张的领域，显然有几家行业巨头正在争夺至高无上的地位。</p><p><br></p><p>以下是截至12月11日按市值排名的全球10家最大的生成式AI公司。这份榜单的资格需要公司正在创建生成式AI软件或提供对其构建至关重要的组件。</p><p><br></p><p><img title="微信截图_20231227114454" alt="微信截图_20231227114454" src="https://www.atyun.com/uploadfile/202312/5bbd5e0938d80d0.png"><br></p><p><br></p><h3><b>全球最大的10家生成式AI公司（及其业务内容）</b></h3><p><br></p><p><b>国际商业机器公司（IBM），1485.1亿美元，美国</b></p><p><br></p><p>IBM是科技行业值得尊敬的老前辈，成立于1911年。他们在90年代经历了一些艰难的岁月，但自那以后已经恢复，并且很好地利用了对AI的日益增长的需求。目前，Meta和IBM正在领导一个由超过50家公司和团体组成的合作体，共同创建一个开放源代码的AI产业机构。被亲切地称为“大蓝色”的IBM还宣布计划在针对商业客户的生成式AI初创公司中投资5亿美元。</p><p><br></p><p><b>Intuit，1640.1亿美元，美国</b></p><p><br></p><p>金融技术创新者Intuit一直在运用机器学习和AI系统来增强其流行产品如QuickBooks、TurboTax和MailChimp的服务。在生成式AI领域，这家加利福尼亚公司今年早些时候推出了一款名为Intuit Assist的客户聊天机器人，并推出了GenOS，一个操作系统，帮助Intuit的技术专家“通过Intuit Assist设计、构建和部署突破性的生成式AI体验。”</p><p><br></p><p><b>阿里巴巴集团，1819.1亿美元，中国</b></p><p><br></p><p>作为中国最大的公司之一，阿里巴巴是该榜单上唯一一家非美国公司。中国在10月份的AI相关专利申请中出现了激增，全球AI专利申请中有超过40%在中国境内。</p><p><br></p><p>作为中国的亚马逊和eBay，阿里巴巴通过其云计算服务、电子商务活动和金融服务附属公司蚂蚁集团，在AI上投入巨资。</p><p><br></p><p><b>高级微设备公司（AMD），2151亿美元，美国</b></p><p><br></p><p>AMD是半导体行业的重要参与者。他们供应的中央处理单元（CPUs）和图形处理单元（GPUs）使它们与较大的竞争对手Nvidia相抗衡。他们是淘金热中卖镐头的人。他们提供用于生成式AI应用的高级AI芯片。公司最近宣布了其新的MI300X芯片，微软和Meta已承诺使用。</p><p><br></p><p><b>Adobe，2828.6亿美元，美国</b></p><p><br></p><p>Adobe主要以其软件产品如Photoshop、InDesign和Premiere Pro而闻名，也是另一家硅谷公司，正努力在生成式AI领域取得主导地位。Adobe在10月公布了Firefly Image 2，这是他们现有AI驱动的图像生成工具的重大升级。改进后的模型通过改进模型架构、训练算法和图像生成能力，提供了更高质量的输出。Adobe在其Adobe Sensei平台上引入了许多更多的生成式AI功能。</p><p><br></p><p><b>Meta Platforms，8239.4亿美元，美国</b></p><p><br></p><p>Meta的产品因其核心平台Facebook、Instagram和WhatsApp的广泛使用而服务于全球数十亿人。创始人和首席执行官扎克伯格，像其他科技巨头一样，现在正在朝新的地平线迈进，并在生成式AI领域迈出了步伐。从名为Llama的聊天机器人，到AI图像生成器，最近的Audiobox，这家世界领先的社交媒体公司正在大力投资这一领域。</p><p><br></p><p><b>NVIDIA，1.13万亿美元，美国</b></p><p><br></p><p>像AMD一样，Nvidia为生成式AI软件需要的关键组件提供商。这家芯片制造商今年表现非常好，其价值翻了三倍，超越了标普500指数中的其他公司。</p><p><b><br></b></p><p><b>亚马逊，1.50万亿美元，美国</b></p><p><br></p><p>杰夫·贝佐斯想要更多。他不满足于他的电子商务帝国、通过AWS（亚马逊网络服务）的领先云计算服务和数字媒体分支，亚马逊公司首席执行官将目光投向了AI。该公司已在AWS上推出了两个大型语言模型（LLM），并最近宣布了一个名为‘Q’的企业聊天机器人。</p><p><br></p><p>这家公司还大举投资于OpenAI的竞争者Anthropic。它已向这家由OpenAI前高管创立的美国初创公司注资40亿美元，OpenAI是ChatGPT背后的团队。</p><p><br></p><p><b>Alphabet，1.66万亿美元，美国</b></p><p><br></p><p>Alphabet是谷歌的母公司，拥有生成式AI领域中最著名的聊天机器人之一。Bard可能是仅次于ChatGPT的知名度，最近升级了Gemini模型。Alphabet的工作不止于此。大多数生成式AI初创公司都在使用Google Cloud来开发生成式AI应用程序，因此该公司可以挑战第一的位置。</p><p><br></p><p><b>微软，2.74万亿美元，美国</b></p><p><br></p><p>单独OpenAI的市值还没有能够让它进入这个榜单，但他们的支持者微软肯定可以，几乎达到3万亿美元的估值。OpenAI以开发强大的AI模型而闻名，它继续改进其GPT产品，据报道拥有1.805亿用户并且每月获得近20亿次访问量。微软和OpenAI目前领先，但可以肯定的是，生成式AI领域的竞争只会加剧。</p>
+                                             <div style="font-size: 12px;color:#4A4A4A;text-align: right;padding-top: 44px;">文章来源：https://readwrite.com/the-10-biggest-ai-companies-in-the-world-after-2023/</div>
+                                    </div>
+                <!--新增时间轴 start-->
+                                <script>
+                    var timelineData=[];
+                    function timeline_sort(){
+                        var is_sort = $('#is_sort').val();
+                        if(is_sort == '1'){
+                            //正序  需要变倒序
+                            if(timelineData){
+                                var _html = '';
+                                for(var i=timelineData.length-1;i>-1;i--){
+                                    var data = timelineData[i];
+                                    if(data.is_title_one == '1'){
+                                        _html += '<div class="timeline_date">'
+                                        _html += '<div class="timeline_date_tit"><span>'+ data.title_one +'</span></div>'
+                                        _html += '</div>'
+                                    }else{
+                                        _html += '<div class="timeline_item">'
+                                        _html += '  <div class="timeline_item_tit">'
+                                        _html += '      <span>'+ data.title_two +'</span>'
+                                        _html += '   </div>'
+                                        _html += '   <div class="timeline_item_details">'+ data.content +'</div>'
+                                        if(data.related_report_title){
+                                            _html += '<div class="timeline_item_link"><span>相关报道：</span>'
+                                            _html += '<a target="_blank" href="'+ data.related_report_link +'">'+ data.related_report_title +'</a>'
+                                            _html += '</div>'
+                                        }
+                                        _html += '</div>'
+                                    }
+                                }
+                                $("#timeline_name").html('时间倒叙')
+                                $("#timeline_data").html(_html)
+                                $('#is_sort').val(2);
+                            }
+                        }else{
+                            //倒序  需要变正叙
+                            if(timelineData){
+                                var html = '';
+                                for (var l=0;l<timelineData.length;l++){
+                                    var datas = timelineData[l];
+                                    if(datas.is_title_one == '1'){
+                                        html += '<div class="timeline_date">'
+                                        html += '<div class="timeline_date_tit"><span>'+ datas.title_one +'</span></div>'
+                                        html += '</div>'
+                                    }else{
+                                        html += '<div class="timeline_item">'
+                                        html += '  <div class="timeline_item_tit">'
+                                        html += '      <span>'+ datas.title_two +'</span>'
+                                        html += '   </div>'
+                                        html += '   <div class="timeline_item_details">'+ datas.content +'</div>'
+                                        if(datas.related_report_title){
+                                            html += '<div class="timeline_item_link"><span>相关报道：</span>'
+                                            html += '<a target="_blank" href="'+ datas.related_report_link +'">'+ datas.related_report_title +'</a>'
+                                            html += '</div>'
+                                        }
+                                        html += '</div>'
+                                    }
+                                }
+                                $("#timeline_name").html('时间正叙')
+                                $("#timeline_data").html(html)
+                                $('#is_sort').val(1);
+                            }
+                        }
+                        var list=$(".timeline_item_details img");
+                        for(let i=0;i<list.length;i++){
+                            var item=list[i]
+                            let a=document.createElement('a');
+                            a.setAttribute('href',list[i].src);
+                            a.setAttribute('data-lightbox','example-set');
+                            $(item).wrap(a);
+                        }
+                    }
+
+                    var list=$(".timeline_item_details img");
+                    for(let i=0;i<list.length;i++){
+                        var item=list[i]
+                        let a=document.createElement('a');
+                        a.setAttribute('href',list[i].src);
+                        a.setAttribute('data-lightbox','example-set');
+                        $(item).wrap(a);
+                    }
+                    lightbox.option({
+                        'resizeDuration': 200,
+                        'wrapAround': true,
+                        'disableScrolling':true,
+                        imageLoading: 'https://www.atyun.com/static/dist/images/loading.gif',
+                        imageBtnClose: 'https://www.atyun.com/static/dist/images/close.gif',
+                        imageBtnPrev: 'https://www.atyun.com/static/dist/images/prev.gif',
+                        imageBtnNext: 'https://www.atyun.com/static/dist/images/next.gif',
+                    })
+                </script>
+                <!--新增时间轴 end-->
+                <div class="article_tag flex_box flex_h_cent">
+                    <span>标签：</span>
+                    <div class="flex_box flex_h_cent flex_one article_tag_list">
+                                                	<a href="/t/人工智能">人工智能</a>
+                                                	<a href="/t/IBM">IBM</a>
+                                                	<a href="/t/阿里巴巴">阿里巴巴</a>
+                        
+                    </div>
+                    <div class="flex_box flex_h_cent article_tag_discuss">
+                        <a href="#discuss_box">0 评论</a>
+                    </div>
+                </div>
+                <div class="article_bottom flex_box flex_h_cent flex_y_cent">
+                    <div class="flex_one article_bottom_left flex_box">
+                        <div class="qrcode"><img src="https://www.atyun.com/static/dist/images/tmp/qrcode.png"></div>
+                        <div class="flex_box_column flex_y_cent qrcode_info flex_one">
+                            <div>欢迎关注ATYUN官方公众号</div>
+                            <div>商务合作及内容投稿请联系邮箱:<span>bd@atyun.com</span></div>
+                        </div>
+                    </div>
+                    <div class="flex_one article_bottom_right flex_box_column flex_y_cent">
+                    	                        <div class="flex_box flex_h_cent">
+                            <span>上一篇</span>
+                            <a href="https://www.atyun.com/58217.html">Pika Labs的文本转视频AI平台向所有人开放</a>
+                        </div>
+                                                                        <div class="flex_box flex_h_cent">
+                            <span>下一篇</span>
+                            <a href="https://www.atyun.com/58222.html">据报道，谷歌正在用AI取代部分销售人员</a>
+                        </div>
+                                            </div>
+                </div>
+            </div>
+            <div class="discuss_cont">
+                <input type="hidden" class="_html_csrf_token" name="_html_csrf_token" value="eGRDWENGdjROenU5LzFEQkFmeWJXM3Z1SG5GYWxCSkdnQlQ4bkZ0ZE1Tbz06Om6ixi7fQ7XibHbur2GF5QU=">
+                <div id="discuss_box"></div>
+                <div class="discuss_cont_tit flex_box flex_h_cent">
+                	评论
+                	                		<a href="https://www.atyun.com/member/login.html?redirect_to=https://www.atyun.com/58219.html">登录</a>
+                	                </div>
+                <div class="discuss_user_cont">
+                	                		<div class="discuss_user_login">要发表评论，您必须先<a href="https://www.atyun.com/member/login.html?redirect_to=https://www.atyun.com/58219.html"> 登录 </a>。</div>
+                	                </div>
+                <div class="discuss_other_cont">
+                	
+                </div>
+            </div>
+        </div>
+        <div class="right_side">
+            <div class="right_cont_box">
+            <!-- 右侧tab切换 -->
+            <div class="right_box tab_list industry">
+                <div class="industry_top_tab">
+                    <ul class="flex_box">
+                        <li class="flex_one no-transition active"><a href="https://www.atyun.com/models.html">热门模型</a></li>
+                        <li class="flex_one no-transition"><a href="https://www.atyun.com/datasets.html">常用数据集合</a></li>
+                    </ul>
+                </div>
+                <div class="cent_box">
+                    <div class="list_box">
+                        <div class="tag_box no-transition">
+                            <div>
+                                                                    <a href="https://www.atyun.com/models/info/jonatasgrosman/wav2vec2-large-xlsr-53-english.html">jonatasgrosman/wav2vec2-large-xlsr-53-english</a>
+                                                                    <a href="https://www.atyun.com/models/info/facebook/dino-vitb16.html">facebook/dino-vitb16</a>
+                                                                    <a href="https://www.atyun.com/models/info/bert-base-uncased.html">bert-base-uncased</a>
+                                                                    <a href="https://www.atyun.com/models/info/xlm-roberta-large.html">xlm-roberta-large</a>
+                                                                    <a href="https://www.atyun.com/models/info/xlm-roberta-base.html">xlm-roberta-base</a>
+                                                                    <a href="https://www.atyun.com/models/info/gpt2.html">gpt2</a>
+                                                                    <a href="https://www.atyun.com/models/info/microsoft/resnet-50.html">microsoft/resnet-50</a>
+                                                                    <a href="https://www.atyun.com/models/info/facebook/dino-vits8.html">facebook/dino-vits8</a>
+                                
+                            </div>
+                        </div>
+                        <!-- 右侧轮播2 -->
+                        <div class="right_box tab_swiper no-transition ad2">
+    <div class="right_swiper">
+        <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                <a href="https://www.atyun.com/57905.html">
+                    <div class="link_txt">Sam Altman离职事件时间线</div>
+                    <img src="https://www.atyun.com/uploadfile/202311/6eae04a592f90ee.png">
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="https://www.atyun.com/60653.html">
+                    <div class="link_txt">每个人都应该知道的48个AI术语</div>
+                    <img src="https://www.atyun.com/uploadfile/202410/b45ca0812f86c2c.png">
+                </a>
+            </div>
+            
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+    </div>
+</div>
+
+                        <div class="tag_box no-transition">
+                            <div>
+                                                                <a href="https://www.atyun.com/datasets/info/openwebtext.html">openwebtext</a>
+                                                                <a href="https://www.atyun.com/datasets/info/glue.html">glue</a>
+                                                                <a href="https://www.atyun.com/datasets/info/shunk031/JGLUE.html">shunk031/JGLUE</a>
+                                                                <a href="https://www.atyun.com/datasets/info/piqa.html">piqa</a>
+                                                                <a href="https://www.atyun.com/datasets/info/wikitext.html">wikitext</a>
+                                                                <a href="https://www.atyun.com/datasets/info/sciq.html">sciq</a>
+                                                                <a href="https://www.atyun.com/datasets/info/EleutherAI/lambada_openai.html">EleutherAI/lambada_openai</a>
+                                                                <a href="https://www.atyun.com/datasets/info/facebook/flores.html">facebook/flores</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- AI热点 -->
+            <div class="right_box_top">
+    <div class="right_list_box">
+        <div class="title_box flex_box flex_h_cent">
+            <div class="title_txt ai_hot_ad">AI热点</div>
+        </div>
+        <div class="cent_box">
+            <div class="industry_ai_hot_list flex_box flex_h_cent">
+                                                            <a class="industry_ai_hot_item" href="/t/行业">行业</a>
+                                                                                <a class="industry_ai_hot_item" href="/t/学习">学习</a>
+                                                                                <a class="industry_ai_hot_item" href="/t/机器学习">机器学习</a>
+                                                                                <a class="industry_ai_hot_item" href="/t/人工智能">人工智能</a>
+                                                                                <a class="industry_ai_hot_item" href="/t/公司板">公司板</a>
+                                                                                <a class="industry_ai_hot_item" href="/t/人工智能未来">人工智能未来</a>
+                                                                                <a class="industry_ai_hot_item" href="/t/机器人">机器人</a>
+                                                                                <a class="industry_ai_hot_item" href="/t/视觉识别">视觉识别</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+            </div>
+        </div>
+    </div>
+</div>
+            <!-- AI工具 -->
+            <div class="right_box_top">
+                <div class="right_list_box">
+                    <div class="title_box flex_box flex_h_cent">
+                        <div class="title_txt">AI工具</div>
+                        <div class="title_more flex_one"><a href="https://www.atyun.com/ai_map.html">更多工具 »</a></div>
+                    </div>
+                    <div class="cent_box" style="padding-top: 5px;">
+                                                    <a href="/ai_map/42.html">
+                                <div class="flex_box_column flex_h_cent">
+                                    <div class="ai_tools_item flex_box flex_h_cent">
+                                        <div class="ai_tools_item_logo">
+                                            <img src="https://www.atyun.com/uploadfile/202307/a85b34429f3c63a.png">
+                                        </div>
+                                        <div class="ai_tools_item_right flex_one">
+                                            <div>ChatGPT</div>
+                                            <p>OpenAI旗下AI对话工具</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                                                    <a href="/ai_map/15.html">
+                                <div class="flex_box_column flex_h_cent">
+                                    <div class="ai_tools_item flex_box flex_h_cent">
+                                        <div class="ai_tools_item_logo">
+                                            <img src="https://www.atyun.com/uploadfile/202307/8f6bdff63b6cb30.png">
+                                        </div>
+                                        <div class="ai_tools_item_right flex_one">
+                                            <div>Midjourney</div>
+                                            <p>AI图像和插画生成工具，测试测试测试测试测试测测试</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                                                    <a href="/ai_map/16.html">
+                                <div class="flex_box_column flex_h_cent">
+                                    <div class="ai_tools_item flex_box flex_h_cent">
+                                        <div class="ai_tools_item_logo">
+                                            <img src="https://www.atyun.com/uploadfile/202307/8cfea53f9b14.png">
+                                        </div>
+                                        <div class="ai_tools_item_right flex_one">
+                                            <div>Stable Diffusion</div>
+                                            <p>StabilityAI推出的文本到图像生成AI</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                                                    <a href="/ai_map/27.html">
+                                <div class="flex_box_column flex_h_cent">
+                                    <div class="ai_tools_item flex_box flex_h_cent">
+                                        <div class="ai_tools_item_logo">
+                                            <img src="https://www.atyun.com/uploadfile/202307/b3c428e0fb78004.png">
+                                        </div>
+                                        <div class="ai_tools_item_right flex_one">
+                                            <div>GitHub Copilot</div>
+                                            <p>GitHub AI编程工具</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                                                    <a href="/ai_map/73.html">
+                                <div class="flex_box_column flex_h_cent">
+                                    <div class="ai_tools_item flex_box flex_h_cent">
+                                        <div class="ai_tools_item_logo">
+                                            <img src="https://www.atyun.com/uploadfile/202309/68d6f04f623458f.png">
+                                        </div>
+                                        <div class="ai_tools_item_right flex_one">
+                                            <div>文心一言</div>
+                                            <p>百度推出的基于文心大模型的AI对话互动工具</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!-- 右侧广告1 -->
+			<div class="right_box_top">
+    <div class="right_link">
+                <div class="tag flex_box flex_h_cent">
+            <span>广告</span>
+            <img class="close_ad close_ad1" src="https://www.atyun.com/static/dist/images/clear_white.svg">
+        </div>
+                            <a href="https://www.atyun.com/56586.html" target="_blank">
+                <img src="https://www.atyun.com/uploadfile/202406/977bfaa48e38d87.png" style="width:100%;">
+            </a>
+            </div>
+</div>
+<script>
+    $("body").on("click", ".close_ad1", function(event) {
+        event.stopPropagation(); // 停止事件冒泡
+        $(this).parents('.right_box_top').hide();
+        return false;
+    });
+</script>
+            <!-- 本周热门 -->
+            <div class="right_box_top">
+    <div class="right_list_box">
+        <div class="title_box flex_box flex_h_cent">
+            <div class="title_txt">本周热门</div>
+            <div class="title_more flex_one"><a href="/c/news">更多资讯 »</a></div>
+        </div>
+        <div class="cent_box">
+            <div class="hot_list">
+                <ul>
+                                        <li><a href="https://www.atyun.com/60918.html">百度推出零代码AI开发平台“秒哒”</a></li>
+                                        <li><a href="https://www.atyun.com/60902.html">LLM压缩策略：提升AI性能的三大方法</a></li>
+                                        <li><a href="https://www.atyun.com/60917.html">百度发布小度AI眼镜，定位全球首款中文大模型原生设备</a></li>
+                                        <li><a href="https://www.atyun.com/60901.html">【指南】基于PyTorch从零打造GPT模型</a></li>
+                                        <li><a href="https://www.atyun.com/60906.html">Salesforce AI研究推出Moirai-MoE：引领时间序列预测新突破</a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <!-- 热门企业 -->
+            <div class="right_box_top">
+    <div class="right_list_box">
+        <div class="title_box flex_box flex_h_cent">
+            <div class="title_txt">热门企业</div>
+            <div class="title_more flex_one"><a href="https://b.atyun.com/">更多企业 »</a></div>
+        </div>
+        <div class="cent_box">
+            <div class="hot_commpany">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="commany_list">
+                            <ul>
+                                                                                                        <li>
+                                        <a href="https://b.atyun.com/baiduai">
+                                            <div class="logo_box"><img src="https://www.atyun.com/uploadfile/2018/10/未命名_副本_副本11.jpg"></div>
+                                            <div class="name_box">百度AI</div>
+                                        </a>
+                                    </li>
+                                                                                                                                            <li>
+                                        <a href="https://b.atyun.com/iflytek">
+                                            <div class="logo_box"><img src="https://www.atyun.com/uploadfile/2018/09/未命名_副本_副本.jpg"></div>
+                                            <div class="name_box">科大讯飞</div>
+                                        </a>
+                                    </li>
+                                                                    
+                            </ul>
+                        </div>
+                    </div>
+                    
+                                    </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <!-- 热门职位 -->
+            <div class="right_box_top">
+    <div class="right_list_box">
+        <div class="title_box flex_box flex_h_cent">
+            <div class="title_txt">热门职位</div>
+            <div class="title_more flex_one"><a href="https://job.atyun.com/">更多职位 »</a></div>
+        </div>
+        <div class="cent_box">
+            <div class="hot_job">
+                <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                        <div class="job_box flex_box">
+                            <div class="commpany_pic">
+                                <a href="https://job.atyun.com/174.html"><img src="https://www.atyun.com/uploadfile/2017/06/QQ截图20170612141203.png"></a>
+                            </div>
+                            <div class="job_txt flex_one">
+                                <div class="job_title"><a href="https://job.atyun.com/174.html">深度学习软件工程师</a></div>
+                                <div class="job_com">Maluuba</div>
+                                <div class="job_price">
+                                                                            <span>20000~40000/月</span>
+                                                                        
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="swiper-slide">
+                        <div class="job_box flex_box">
+                            <div class="commpany_pic">
+                                <a href="https://job.atyun.com/4.html"><img src="https://www.atyun.com/uploadfile/2017/06/未命名_副本_副本.jpg"></a>
+                            </div>
+                            <div class="job_txt flex_one">
+                                <div class="job_title"><a href="https://job.atyun.com/4.html">Unity技术经理</a></div>
+                                <div class="job_com">Cisco</div>
+                                <div class="job_price">
+                                                                            <span>25000~30000/月</span>
+                                                                        深圳市
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="swiper-slide">
+                        <div class="job_box flex_box">
+                            <div class="commpany_pic">
+                                <a href="https://job.atyun.com/7.html"><img src="https://www.atyun.com/uploadfile/2017/06/QQ截图20170612171730.png"></a>
+                            </div>
+                            <div class="job_txt flex_one">
+                                <div class="job_title"><a href="https://job.atyun.com/7.html">高级数据分析工程师</a></div>
+                                <div class="job_com">PilotAILabs</div>
+                                <div class="job_price">
+                                                                            <span>30000~60000/年</span>
+                                                                        深圳市
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <!-- 右侧广告3 -->
+			<div class="right_box_top">
+    <div class="right_link">
+                    <div class="tag flex_box flex_h_cent">
+                <span>广告</span>
+                <img class="close_ad close_ad3" src="https://www.atyun.com/static/dist/images/clear_white.svg">
+            </div>
+                            <a href="https://www.atyun.com/59979.html" target="_blank">
+                <img src="https://www.atyun.com/uploadfile/202407/3d6d2a1c144466c.png" style="width:100%;">
+            </a>
+            </div>
+</div>
+<script>
+    $("body").on("click", ".close_ad3", function(event) {
+        event.stopPropagation(); // 停止事件冒泡
+        $(this).parents('.right_box_top').hide();
+        return false;
+    });
+</script>
+            </div>
+        </div>
+    </div>
+    <!--写评论-->
+    <div class="mask_pop" id="wap_discuss_pop">
+        <div class="replay_wap">
+            <div class="replay_wap_tit"><span>写评论</span><span class="cancel_reply_wap">取消</span></div>
+            <textarea class="replay_wap_area wap_discuss_input" placeholder="请输入评论内容"></textarea>
+            <div class="replay_wap_btn_groups">
+                <button class="replay_wap_btn wap_discuss_button">发布</button>
+            </div>
+        </div>
+    </div>
+    <!--写回复-->
+    <div class="mask_pop" id="replay_discuss_wap">
+        <div class="replay_wap">
+            <div class="replay_wap_tit"><span>回复</span><span class="cancel_reply_wap">取消</span></div>
+            <textarea class="replay_wap_area wap_reply_input" placeholder="回复："></textarea>
+            <div class="replay_wap_btn_groups">
+                <button class="replay_wap_btn wap_reply_button">发布</button>
+            </div>
+        </div>
+    </div>
+	<footer>
+	<div class="footer-container">
+		<div class="hot-tag-cont">
+			<div class="hot-tag">
+				<div class="hot-tag-cont-tit">热门标签</div>
+				<div class="hot-tag-list flex_box">
+																		<a class="hot-tag-item" href="https://www.atyun.com/t/行业">行业</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/学习">学习</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/机器学习">机器学习</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/人工智能">人工智能</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/公司板">公司板</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/人工智能未来">人工智能未来</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/机器人">机器人</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/视觉识别">视觉识别</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/人工智能应用">人工智能应用</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/谷歌">谷歌</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/智能设备">智能设备</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/人工智能教程">人工智能教程</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/深度学习">深度学习</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/自动驾驶">自动驾驶</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/计算机视觉">计算机视觉</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/医疗">医疗</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/语音识别">语音识别</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/开源项目">开源项目</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/神经网络">神经网络</a>
+																								<a class="hot-tag-item" href="https://www.atyun.com/t/图像识别">图像识别</a>
+											
+				</div>
+			</div>
+		</div>
+		<div class="foot-nav-cont">
+			<div class="foot-nav">
+				<div class="foot-nav-menu flex_box">
+					<div class="foot-nav-menu-left">
+						<img src="https://www.atyun.com/static/dist/images/foot_logo.svg">
+						<p>ATYUN.COM 官网</p>
+						<p>人工智能教程资讯全方位服务平台</p>
+					</div>
+					<div class="foot-nav-menu-middle">
+						<div class="foot-nav-menu-item">
+							<div class="foot-nav-menu-item-tit">AI资讯</div>
+							<a href="https://www.atyun.com/c/news">行业资讯</a>
+							<a href="https://www.atyun.com/c/news_机器学习">机器学习</a>
+							<a href="https://www.atyun.com/c/news_视觉识别">计算机视觉</a>
+							<a href="https://www.atyun.com/c/news_语音识别">自然语言处理</a>
+						</div>
+						<div class="foot-nav-menu-item">
+							<div class="foot-nav-menu-item-tit">资源</div>
+							<a href="https://www.atyun.com/ai_map.html">AI MAP</a>
+							<a href="https://www.atyun.com/models.html">数据模型</a>
+							<a href="https://www.atyun.com/datasets.html">数据集</a>
+						</div>
+						<div class="foot-nav-menu-item">
+							<div class="foot-nav-menu-item-tit">常用工具</div>
+							<a href="https://www.atyun.com/ai_map.html?tab=tab1">AI写作工具</a>
+							<a href="https://www.atyun.com/ai_map.html?tab=tab4">AI编程工具</a>
+							<a href="https://www.atyun.com/ai_map.html?tab=tab5">AI设计工具</a>
+							<a href="https://www.atyun.com/ai_map.html?tab=tab3">AI视频工具</a>
+						</div>
+						<div class="foot-nav-menu-item">
+							<div class="foot-nav-menu-item-tit">服务</div>
+							<a href="https://www.atyun.com/enterprise_service.html">EVA</a>
+							<a href="https://www.atyun.com/enterprise_service.html">智能HR</a>
+						<!--	<a href="https://www.atyun.com/ai_map.html">AI MAP</a>-->
+							<a href="https://b.atyun.com/">公司版</a>
+							<a href="https://job.atyun.com/">招聘</a>
+							<a href="https://www.atyun.com/contact_us.html">联系我们</a>
+						</div>
+					</div>
+					<div class="foot-nav-menu-right">
+						<div class="flex_box_column flex_h_cent">
+							<img src="https://www.atyun.com/static/dist/images/tmp/qrcode.png">
+							<p>ATYUN公众平台</p>
+							<div class="platform">
+								<img onclick="shareToqq(event)" src="https://www.atyun.com/static/dist/images/QQ.svg">
+								<wb-share-button data:pic="https://www.atyun.com/static/static/dist/images/logo.svg"><img src="https://www.atyun.com/static/dist/images/sina.svg"></wb-share-button>
+								<!--<img onclick="shareToSinaWB(event)" src="https://www.atyun.com/static/dist/images/sina.svg" />-->
+								<img onclick="shareToQzone(event)" src="https://www.atyun.com/static/dist/images/zone.svg">
+							</div>
+						</div>
+					</div>
+				</div>
+				<!--友情链接-->
+				<div class="foot-nav-link">
+					<div class="foot-nav-link-tit">友情链接</div>
+					<div class="foot-nav-link-list flex_box flex_h_cent">
+													<a href="https://www.atyun.com/">人工智能</a>
+													<a href="https://www.ctoutiao.com/cat/40/">人工智能创业</a>
+													<a href="https://www.atyun.com/enterprise_service.html">EVA</a>
+													<a href="https://www.atyun.com/enterprise_service.html">智能HR</a>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="copyright">© 2016 ATYUN.COM - AI TECH YUN</div>
+	</div>
+</footer>
+<div class="fix_bar">
+	<a class="go_top" href="javascript:;"></a>
+</div>
+<script src="https://open.weibo.com/views/js/wbsdk.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+	wb.init({
+		appkey: '1f1e4a435b9263509454adb920ae6ee8'
+	});
+	var _title,_source,_sourceUrl,_pic,_showcount,_desc,_summary,_site,
+			_url = 'https://www.atyun.com',
+			_pic = 'https://www.atyun.com'+'/static/dist/images/logo.svg';
+	//分享到QQ空间
+	function shareToQzone(event){
+		event.preventDefault();
+		var _shareUrl = 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?';
+		_shareUrl += 'url=' + encodeURIComponent(_url||document.location);   //参数url设置分享的内容链接|默认当前页location
+		_shareUrl += '&showcount=' + _showcount||0;      //参数showcount是否显示分享总数,显示：'1'，不显示：'0'，默认不显示
+		_shareUrl += '&desc=' + encodeURIComponent(_desc||'分享的描述');    //参数desc设置分享的描述，可选参数
+		_shareUrl += '&summary=' + encodeURIComponent(_summary||'分享摘要');    //参数summary设置分享摘要，可选参数
+		_shareUrl += '&title=' + encodeURIComponent(_title||document.title);    //参数title设置分享标题，可选参数
+		_shareUrl += '&site=' + encodeURIComponent(_site||'');   //参数site设置分享来源，可选参数
+		_shareUrl += '&pics=' + encodeURIComponent(_pic||'');   //参数pics设置分享图片的路径，多张图片以＂|＂隔开，可选参数
+		window.open(_shareUrl,'_blank');
+	}
+	//分享到qq
+	function shareToqq(event){
+		event.preventDefault();
+		var _shareUrl = 'https://connect.qq.com/widget/shareqq/iframe_index.html?';
+		_shareUrl += 'url=' + encodeURIComponent(_url||location.href);   //分享的链接
+		_shareUrl += '&title=' + encodeURIComponent(_title||document.title);     //分享的标题
+		window.open(_shareUrl,'_blank');
+	}
+
+	/*$(window).scroll(function () {
+		if($(window).scrollTop() >= 500) {
+			$('.fix_bar').fadeIn(200);
+		} else {
+			$('.fix_bar').fadeOut(200);
+		}
+		setAdPosition();
+	});
+	$(window).resize(function (){
+		//恢复右侧广告位
+		setAdResize();
+	})
+	//设置广告栏fixed
+	function setAdPosition(){
+		var winHeight=document.body.clientHeight;
+		if($(".right_cont_box").offset()==undefined){
+			return
+		}
+		if($(".right_side").offset()==undefined){
+			return
+		}
+		var se = document.documentElement.clientHeight //浏览器可见区域高度。
+		var rightheight=document.getElementsByClassName("right_cont_box")[0].offsetHeight;
+		if (document.body.clientWidth > 1024) {
+			var scrollTop = $(window).scrollTop();
+			var bottom = 30;
+			if ($(document).scrollTop() >= $(document).height() - $(window).height() - document.getElementsByClassName("footer-container")[0].offsetHeight) {
+				var top = document.getElementsByClassName("footer-container")[0].getBoundingClientRect().top //元素顶端到可见区域顶端的距离
+
+				if (top <= se) {
+					bottom += se - top;
+				}
+			}
+			if (se<scrollTop) {
+				$(".right_cont_box").css({
+					'position': 'fixed',
+					'bottom': bottom + "px",
+					'left': $(".right_cont_box").offset().left,
+					'width':'320px',
+				});
+			} else {
+				$(".right_cont_box").css({'position': 'relative', 'bottom': 0, 'left': 'auto'});
+			}
+		}
+	}
+	function setAdResize(){
+		if($(".right_cont_box").offset()==undefined){
+			return
+		}
+		if($(".right_side").offset()==undefined){
+			return
+		}
+		var left=$(".right_side").offset().left;
+		if (document.body.clientWidth > 1024) {
+			if ($(".right_cont_box").css('position') == 'fixed') {
+				$(".right_cont_box").css({'width':'320px','left': left + "px"});
+			}
+		}else{
+			$(".right_cont_box").css({'position':'relative','bottom':0,'left': 'auto','width':'100%'});
+		}
+	}*/
+
+	$('.go_top').click(function(){
+		$('body,html').animate({scrollTop:0},500)
+	});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80501021-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?287eb8e0b5b51ea633ceab47b9c269fc";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+<script>
+    var replying = false;
+    // wap 回复作者
+    $("body").on("click", ".discuss_btn_wap", function() {
+        $('#wap_discuss_pop').show();
+    });
+    // wap 取消回复
+    $("body").on("click", ".cancel_reply_wap", function() {
+        $(this).parents('.mask_pop').hide();
+        $(".wap_reply_input").val("");
+        replying = false;
+    });
+    // PC 回复某条评论
+    $("body").on("click", ".reply", function(event) {
+        event.stopPropagation(); // 停止事件冒泡
+        /*if(replying){
+            return ;
+        }*/
+        $(".sub_reply_box_key").remove();
+        let parent_id = $(this).data('parent_id');
+        if (document.body.clientWidth>1024) {
+            const html = `
+            <div class="sub_reply_box_${parent_id} sub_reply_box_key">
+                <textarea class="commentSubInput" placeholder="请输入留言内容"></textarea>
+                <div class="flex_box flex_h_cent discuss_btns">
+                    <button class="cancel_reply">取消回复</button>
+                    <button class="submitSubCommentButton" data-parent_id="${parent_id}">发表评论</button>
+                </div>
+            </div>
+            `;
+            $(this).parent().after(html);
+        } else {
+            $(".wap_reply_button").data("parent_id", parent_id);
+            $("#replay_discuss_wap").show();
+        }
+        replying = true;
+        return false;
+    });
+    // PC 取消回复某条评论
+    $("body").on("click", ".cancel_reply", function(event) {
+        event.stopPropagation(); // 停止事件冒泡
+        $(this).parent().parent().remove();
+        replying = false;
+        return false;
+    });
+    var swiper_right = new Swiper(".right_swiper", {
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        simulateTouch : false,
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+        },
+        effect: "fade",
+    });
+    var swiper_right = new Swiper(".right_swiper2", {
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        simulateTouch : false,
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+        },
+        effect: "fade",
+    });
+    var swiper_commpany = new Swiper(".hot_commpany", {
+        spaceBetween: 20,
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        simulateTouch : false,
+        autoplay: {
+            delay: 5000,
+            disableOnInteraction: false,
+        },
+        loop:document.querySelector('.hot_commpany .swiper-slide').length>1,
+    });
+    var swiper_job = new Swiper(".hot_job", {
+        spaceBetween: 20,
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        simulateTouch : false,
+        autoplay: {
+            delay: 5000,
+            disableOnInteraction: false,
+        },
+        loop:true,
+    });
+    $(function(){
+        function markcode(){
+            var pre=$(".article_details").find('pre');
+            console.log(pre)
+            pre.each(function(l) {
+                var cont=$(this).html()
+                console.log(cont)
+                cont = '<code>'+cont+'</code>';
+                cont = cont.replaceAll('</pre>', '</code></pre>');
+                cont = cont.replaceAll('<br>', '\\\\\n');
+                //console.log(cont)
+                $(this).html(cont);
+                if(l==pre.length-1) {
+                    const codeBlock = $(".article_details").find('pre code');
+                    if (codeBlock && codeBlock.length) {
+                        codeBlock.each(function (i) {
+                            hljs.highlightBlock($(this)[0]);
+                            let cont2 = $(this).html();
+                            cont2 = cont2.replaceAll('\\\\', '');
+                            cont2 = cont2.replaceAll('\n\n', '\\\\\n');
+                            cont2 = cont2.replaceAll('\\\\', '');
+                            $(this).html(cont2);
+                        })
+                    }
+                }
+            })
+        }
+        // 配置markdownIt
+        // 添加代码块处理插件
+        markcode();
+        $("img").hover(function() {
+            $(this).removeAttr("title");
+        });
+        $('.industry_top_tab li').mouseover(function () {
+            var which = $('.industry_top_tab li').index($(this));
+            if (which == 0) {
+                $(this).addClass('active').next().removeClass('active');
+                $('.industry .tag_box').eq(0).slideDown();
+            } else {
+                $(this).addClass('active').prev().removeClass('active');
+                $('.industry .tag_box').eq(0).slideUp();
+            }
+        });
+        let isPosting = false; // 是否正在提交
+        
+  		const news_id = '58219';
+
+  		// 一级评论提交
+  		$("body").on('click', '.submitCommentButton', function() {
+  			let inputObject = $('.commentInput');
+			post_comment(0, inputObject);
+  		});
+
+  		// 二级评论提交
+		$("body").on('click', '.submitSubCommentButton', function() {
+			let inputObject = $(this).parent().siblings('.commentSubInput');
+            //console.log(inputObject)
+  			let parent_id = $(this).data('parent_id');
+  			var res = post_comment(parent_id, inputObject);
+            //wy 2023.7.13
+            if(res){
+                inputObject.parent('div').remove();
+                replying = false;
+            }
+		});
+
+        // wap 点击提交一级评论
+        $("body").on("click", ".wap_discuss_button", function() {
+            let inputObject = $('.wap_discuss_input');
+            post_comment(0, inputObject);
+        });
+
+        // wap 二级评论提交
+		$("body").on('click', '.wap_reply_button', function() {
+            let inputObject = $(".wap_reply_input");
+  			let parent_id = $(this).data('parent_id');
+  			post_comment(parent_id, inputObject);
+		});
+  		// 提交评论
+  		function post_comment(parent_id, inputObject) {
+  			const comment = inputObject.val(); // 获取评论内容
+            var _html_csrf_token = $("._html_csrf_token").val();
+			if (comment.trim() === '') {
+                call_alert('评论内容不能为空','fail');
+				return;
+			}
+  			if (isPosting) {
+				return;
+			}
+			isPosting = true; // 开始请求数据
+			let data = {
+				act: 'post_comment',
+				news_id,
+				parent_id,
+				comment,
+                _html_csrf_token
+			}
+			$.ajax({
+	            type: "POST",
+	            cache:"false",
+	            url: "/news/ajax.html?r=" + Math.random(),
+	            dataType: "json",
+	            data: data,
+	            success: function(json){
+	            	if (json.error == 0) {
+	            		inputObject.val("");
+	            		let data = json.data;
+                        //console.log(data)
+	            		if (data.comment_id) {
+		                    if (parent_id > 0) {
+                                // 隐藏wap评论框
+                                $("#replay_discuss_wap").hide();
+		                    	const commentHtml = `
+			                   	<div class="discuss_item_sub flex_box">
+	                                <div class="discuss_item_sub_right flex_one">
+	                                    <div class="discuss_sub_nick flex_box flex_h_cent"><div class="discuss_item_sub_left">
+	                                    <img src="${data.head_picture}" />
+	                                </div>${data.nick_name}<span>回复</span></div>
+	                                    <div class="discuss_sub_details">${data.content}</div>
+	                                    <div class="discuss_sub_info flex_box">
+	                                        <div>${data.created}</div>
+	                                    </div>
+	                                </div>
+	                            </div>
+	                            `;
+	                            $('.sub_reply_box_' + parent_id).remove();
+	                            $('.sub_repley_' + parent_id).prepend(commentHtml);
+	                            replying=false;
+	                        } else {
+                                // 隐藏wap评论框
+                                $('#wap_discuss_pop').hide();
+	                        	const commentHtml = `
+			            		<div class="discuss_item flex_box">
+                                    <div class="discuss_item_left">
+			                            <img src="${data.head_picture}" />
+			                        </div>
+			                        <div class="discuss_item_right flex_one">
+			                            <div class="discuss_nick  flex_box flex_h_cent">${data.nick_name}</div>
+			                            <div class="discuss_details">${data.content}</div>
+			                            <div class="discuss_info flex_box">
+			                                <div>${data.created}</div>
+			                                <div class="flex_box flex_h_cent reply" data-parent_id="${data.comment_id}"><a href="javascript:;">回复</a></div>
+			                            </div>
+			                            <div class="discuss_reply_box sub_repley_${data.comment_id}">
+
+										</div>
+			                        </div>
+			                    </div>
+			                    `;
+			                    $('.discuss_other_cont').prepend(commentHtml);
+	                        }
+	            		} else {
+                            call_alert('您的评论已提交，待系统审核后会自动发布');
+	            		}
+	            	} else {
+                        call_alert(json.mess);
+	            	}
+	            },
+	            complete: function () {
+					isPosting = false; // 请求数据完成
+			    }
+	        });
+
+            //wy 2023.7.13
+            return true;
+  		}
+    });
+</script>
+
+
+<div id="lightboxOverlay" tabindex="-1" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" tabindex="-1" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""><div class="lb-nav"><a class="lb-prev" role="button" tabindex="0" aria-label="Previous image" href=""></a><a class="lb-next" role="button" tabindex="0" aria-label="Next image" href=""></a></div><div class="lb-loader"><a class="lb-cancel" role="button" tabindex="0"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close" role="button" tabindex="0"></a></div></div></div></div></body></html>

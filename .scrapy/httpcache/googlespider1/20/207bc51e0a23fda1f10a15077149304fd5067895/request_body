@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://today.line.me/tw/v2/article/zNBJm5P",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://today.line.me/tw/v2/article/zNBJm5P",
+    "wait": 6
+}

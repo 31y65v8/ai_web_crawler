@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "https_waf_cookie=43d72a2c-37b3-435e01202b69fbd07ddb1c33dffecfa24cb4; waf_captcha_marker=ece34508eb31d1d7c2b9adb8b4662d63cc48a634a381a871c6f413ffa2001d6c; uuid_tt_dd=10_20289270190-1731502152641-868292; dc_session_id=10_1731502152641.254787; dc_sid=1825449d2dd19f8911869e7dd0e1cfc8",
+        "Referer": "https://blog.csdn.net/weixin_47712251/article/details/130172259",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://blog.csdn.net/weixin_47712251/article/details/130172259",
+    "wait": 6
+}

@@ -1,0 +1,21 @@
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 13 Nov 2024 11:15:26 GMT
+Content-Encoding: gzip
+Content-Language: en-US
+Set-Cookie: XSRF-TOKEN=d28fa7da-f6d1-41ad-9f43-92dfb00ea181; Path=/; Secure
+Set-Cookie: SESSION=ZDJiMmRkMGUtMTNhNi00ZjczLWIyYjUtZmMwNDc4MDViMDZk; Path=/; Secure; HttpOnly; SameSite=Lax
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Cache-Control: no-store
+Content-Security-Policy: default-src https: wss:; script-src 'self' about: 'unsafe-inline' 'unsafe-eval' wss: https://*.idc.com https://*.google.com https://*.googleapis.com https://*.gstatic.com https://*.gstatic.cn https://*.google-analytics.com https://*.googletagmanager.com https://*.googleadservices.com https://*.youtube.com https://*.ytimg.com https://*.insideidc.com https://d1f8f9xcsvx3ha.cloudfront.net https://platform.twitter.com https://cdn.syndication.twimg.com https://*.hotjar.com https://*.hotjar.io https://*.addevent.com https://addthisevent.com https://munchkin.marketo.net https://*.recaptcha.net https://consent.trustarc.com https://consent.truste.com https://api.map.baidu.com https://*.typekit.net https://*.pusher.com https://acsbapp.com/ https://*.vidyard.com https://*.userguiding.com https://idc.widget.insent.ai/ https://*.usabilla.com https://d6tizftlrpuof.cloudfront.net/ https://snap.licdn.com/ https://www.ssa.gov/ https://kf.tag.foundryco.com/ https://*.fullstory.com https://*.maze.co; img-src data: blob: https: wss:; style-src 'unsafe-inline' https: wss: blob:; font-src https: data: wss: 'self'; connect-src 'self' https: wss:; frame-ancestors 'self'; report-uri https://idcqaenforce.report-uri.com/r/d/csp/enforce;
+X-Xss-Protection: 1; mode=block; report=https://idcqaenforce.report-uri.com/r/d/xss/enforce
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Vary: accept-encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 fe1f71a38555d37376d318601a210ec4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SIN52-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: rX58FHIe3xDEwdQk83L3ckeTZd0rFQd9gbUC9emmbwe9X0mapq8LKw==

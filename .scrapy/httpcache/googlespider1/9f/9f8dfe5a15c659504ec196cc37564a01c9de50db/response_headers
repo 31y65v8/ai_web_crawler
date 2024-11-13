@@ -1,0 +1,23 @@
+Content-Length: 55582
+Date: Wed, 13 Nov 2024 12:19:01 GMT
+Content-Type: text/html;charset=utf-8
+Ey-Domain: ey-com
+Content-Security-Policy: default-src http: https: data: blob:; media-src http: https: data: blob:; img-src http: https: data: blob:; script-src http: https: data: 'self' 'unsafe-inline' assets.adobedtm.com players.brightcove.net edge.api.brightcove.com metrics.brightcove.com vjs.zencdn.net edge-player.wirewax.com manifest.prod.boltdns.net bcboltbde696aa-a.akamaihd.net cdn.cookielaw.org; style-src http: https: data: 'self' 'unsafe-inline' assets.adobedtm.com players.brightcove.net players.brightcove.net edge.api.brightcove.com metrics.brightcove.com vjs.zencdn.net edge-player.wirewax.com manifest.prod.boltdns.net bcboltbde696aa-a.akamaihd.net cdn.cookielaw.org; connect-src http: https: data:; worker-src http: https: data: blob:; font-src http: https: data:; frame-ancestors ey.com www.ey.com beta.ey.com apps.ey.com aemapps-preview.ey.com aemapps.ey.com;
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Access-Control-Allow-Origin: *
+X-Frame-Options: SAMEORIGIN
+Ey-Vhost: 01-eycomvhost
+Cache-Control: max-age=60, s-maxage=300
+Expires: Wed, 13 Nov 2024 12:23:59 GMT
+Content-Encoding: gzip
+Allow: GET, POST, HEAD
+X-Content-Type-Options: nosniff
+X-Served-By: cache-qpg1281-QPG
+X-Cache: TCP_MISS
+X-Timer: S1731500339.126619,VS0,VS0,VE2384
+Vary: User-Agent,Accept-Encoding
+X-Azure-Ref: 20241113T121859Z-r16cb59f896t8n9xhC1SG1x7sc00000000x0000000012r6k
+X-Fd-Int-Roxy-Purgeid: 61
+Rule-Name: IEtoVE
+Accept-Ranges: bytes

@@ -1,0 +1,1146 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1240,initial-scale=0.825,minimum-scale=0.825,maximum-scale=0.825,user-scalable=no">
+<!--    <meta name="viewport" content="width=1240,initial-scale=0.8,minimum-scale=0.8,maximum-scale=0.8,user-scalable=no">-->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙 - 智东西</title>
+    <meta name="keywords" content="小度">
+    <meta name="description" content="首款内置中文大模型的原生AI眼镜正式亮相。">
+        <link rel="stylesheet" href="//oss.zhidx.com/static/themes/zhidxcom/css/base.css?a=1">
+    <script src="https://hm.baidu.com/hm.js?6a105aad5d4cd3c47e5745e226ca9ccc"></script><script type="text/javascript" src="//oss.zhidx.com/static/common/lib/jquery.min.js"></script>
+    <script src="//oss.zhidx.com/static/themes/zhidxcom/js/base.js?a=1"></script>
+    <link rel="stylesheet" href="//oss.zhidx.com/static/common/lib/layui/css/layui.css">
+
+    <script src="//oss.zhidx.com/static/common/lib/layui/layui.js"></script>
+    <script src="//oss.zhidx.com/static/common/lib/lazyload.min.js"></script>
+    <style>
+        .author-desc,.author-desp {
+            text-align: justify !important;
+        }
+    </style>
+    <script>
+        //var ajaxurl = '//';
+        var ajaxurl = '/wp-admin/admin-ajax.php';
+
+        //启用延迟加载
+        window.addEventListener('load', function() {
+            lazyload()
+        })
+    </script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?6a105aad5d4cd3c47e5745e226ca9ccc";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <script>
+        if (window.outerWidth < 1240) {
+            var ratio = window.outerWidth / 1240
+            document.querySelector('meta[name="viewport"]').setAttribute('content', [
+                'width=1240',
+                'initial-scale=' + ratio,
+                'minimum-scale=' + ratio,
+                'maximum-scale=' + ratio,
+                'user-scalable=no'
+            ].join(','))
+//            console.log('viewport', )
+        }
+    </script>
+<link id="layuicss-layer" rel="stylesheet" href="https://oss.zhidx.com/static/common/lib/layui/css/modules/layer/default/layer.css?v=3.1.1" media="all"></head>
+<body>
+    <div style="display:none" data-login=""></div>
+    <link rel="stylesheet" href="//oss.zhidx.com/static/themes/zhidxcom/css/tips.css?a=1">
+<!-- 登录 -->
+<div class="my-layer login-layer" style="display: none;">
+    <div class="qrcode-tips qrcode-login">
+        <div class="close">
+            <img src="//oss.zhidx.com/static/themes/zhidxcom/images/close-icon.png" alt="">
+        </div>
+        <div class="title">扫码关注智东西plus服务号登录</div>
+        <div class="qrcode-2">
+            <img id="qrcode" src="//oss.zhidx.com/static/themes/zhidxcom/images/qrcode-fail.jpg" alt="">
+        </div>
+        <div class="desp">
+            请使用微信扫描二维码
+        </div>
+    </div>
+</div>
+
+<div class="my-layer bind-phone-tips">
+    <div class="info-tips bind-phone">
+        <div class="close">
+            <img src="//oss.zhidx.com/static/themes/zhidxcom/images/close-icon.png" alt="">
+        </div>
+        <div class="content">
+            <div class="title">绑定手机号</div>
+            <form class="form-list bind-phone-form">
+                <div class="form-item">
+                    <input type="text" name="phone" placeholder="请输入手机号码">
+                </div>
+                <div class="form-item">
+                    <input type="text" class="code-input" name="code" placeholder="请输入验证码"><div class="get-code code-btn" data-isnew="1">获取验证码</div>
+                </div>
+            </form>
+            <div class="form-btn">确认绑定</div>
+        </div>
+    </div>
+</div>
+    <script !src="">
+        function is_mobile() {
+            return /Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent);
+        }
+
+        function is_wechat() {
+            return  navigator.userAgent.toLowerCase().indexOf('micromessenger') !== -1;
+        }
+
+        /**
+         * pc端获取登录信息
+         */
+        function getPcLoginInfo(callback) {
+            $.get('/api/index/login_info.php', function(res) {
+                if (res.state === 1) {
+                    $('.user-wrapper').html(res.result)
+                    userOption()
+                    callback && callback()
+                }
+            }, 'json');
+        }
+
+        var bindPhoneObj = {
+            callback: null,
+            fetchData: function(){
+                var that = this;
+                $.post('/api/index/bind_phone.php', $('.bind-phone-form').serialize(), function(res) {
+                    $('.close').trigger('click');
+                    myhandleResponse(res, function() {
+                        that.callback && that.callback()
+                    })
+                }, 'json')
+            }
+        };
+
+        function myhandleResponse(res, success, fail) {
+            if (res.state === 1) {
+                layer.msg(res.result, {icon: 1, time: 2000}, function () {
+                    success && success()
+                })
+            } else {
+                layer.msg(res.result, {icon: 2}, function() {
+                    fail && fail();
+                });
+            }
+        }
+
+        function check_phone(callback) {
+            $.get('/api/index/check_phone.php', function (res) {
+                if (res.state ===  0) {
+                    $('.bind-phone-tips').css('display', 'block');
+                    bindPhoneObj.callback = callback;
+                } else if (res.state === 1) {
+                    callback && callback()
+                }
+            }, 'json');
+        }
+
+        function pc_login(callback) {
+            layer.load(2);
+            var img = new Image();
+            img.src = '/api/index/generate_qrcode.php';
+            img.onload = function() {
+                layer.closeAll()
+                $('.login-layer').css('display', 'block');
+                $('.login-layer #qrcode').attr('src', img.src);
+                timer = setInterval(function () {
+                    $.get('/api/index/check_login.php', function (res) {
+                        if (res.state === 1) {
+                            if (timer) {
+                                clearInterval(timer);
+                                $('.close').trigger('click');
+                            }
+                            getPcLoginInfo(function() {
+                                layer.msg(res.result, {
+                                    icon :1,
+                                    time: 2000
+                                }, function() {
+                                    check_phone(callback)
+                                })
+                            })
+                        }
+                    }, 'json')
+                }, 3000)
+            };
+            img.onerror = function () {
+                layer.closeAll();
+                $('.login-layer').css('display', 'block');
+            }
+        }
+
+        window.addEventListener('load', function() {
+            (function($) {
+                if (! is_mobile()) {
+                    getPcLoginInfo();
+                }
+                if (sessionStorage.getItem('check_phone')) {
+
+                    sessionStorage.setItem('check_phone', '');
+                }
+
+
+                if (!num) {
+                    var num = 0;
+                }
+                var numTimer = null;
+                if (num > 0) {
+                    setNumTimer(num)
+                }
+
+                function setNumTimer(num) {
+                    numTimer = setInterval(function() {
+                        num --;
+                        $('.code-btn').html(num + 's后再次发送')
+                        if (num == 0) {
+                            $('.code-btn').html('获取验证码')
+                            clearInterval(numTimer)
+                        }
+                    }, 1000);
+                }
+                var timer = null;
+                layui.use(['layer'], function() {
+//获取验证码
+                    $('.get-code').on('click', function() {
+                        var is_new = $(this).data('isnew')
+                        is_new = is_new ? 1 : 0;
+                        if (num > 0) {
+                            console.log('num: ', num)
+                            return;
+                        }
+                        var phone = $('input[name="phone"]').val();
+                        if (!phone) {
+                            layer.msg('请输入您的手机号码', {icon: 2})
+                            return;
+                        }
+                        if (! /^1[^1,2][0-9]{9}$/.test(phone)) {
+                            layer.msg('请输入正确的手机号', {icon: 2});
+                            return;
+                        }
+                        layer.load(2);
+                        $.post('/api/index/get_code.php', {
+                            phone: phone,
+                            is_new: is_new,
+                        }, function(res) {
+                            layer.closeAll();
+                            myhandleResponse(res, function() {
+                                setNumTimer(60)
+                            });
+                        }, 'json')
+                    });
+                    $('.form-btn').click(function() {
+                        bindPhoneObj.fetchData();
+                    });
+
+                    var layer = layui.layer;
+                    $('body').on('click', '[data-login]', function () {
+                        pc_login()
+                    });
+                    $('body').on('click', '[data-logout]', function() {
+                        $.get('/api/index/logout.php', function (res) {
+                            if (res.state === 1) {
+                                getPcLoginInfo(function() {
+                                    layer.msg(res.result, {
+                                        icon :1,
+                                        time: 2000
+                                    })
+                                })
+                            }
+                        }, 'json')
+                    });
+                    $('.close').on('click', function() {
+                        $('.my-layer').css('display', 'none')
+                        if (timer) {
+                            clearInterval(timer)
+                        }
+                    })
+                })
+            })(jQuery)
+        })
+    </script>
+<link rel="stylesheet" href="//oss.zhidx.com/static/themes/zhidxcom/css/nav-zhidx.css?a=4">
+<script src="//oss.zhidx.com/static/ab/zhidxad.js?b=a1" async=""></script>
+<header id="new-header">
+    <div class="header-top" style="min-width:1200px;">
+        <div class="w1200 margin-auto content">
+            <div class="top-option">
+                <div class="item">
+                    欢迎来智东西
+                </div>
+                <div class="item split">
+                    <img src="//oss.zhidx.com/static/themes/zhidxcom/images/top-option-split.png">
+                </div>
+                <div class="user-wrapper">    <div class="item pointer" data-login="">登录</div>
+    <div class="item pointer" data-login="">免费注册</div>
+    <div class="item pointer" data-login="">我的订阅</div></div>
+                <div class="item split">
+                    <img src="//oss.zhidx.com/static/themes/zhidxcom/images/top-option-split.png">
+                </div>
+                <div class="item header-sub">
+                    关注我们
+                    <img src="//oss.zhidx.com/static/themes/zhidxcom/images/top-option-cursor.png" class="icon">
+                    <div class="sub-content">
+                        <div class="list w1200">
+                            <div class="item">
+                                <img src="//oss.zhidx.com/static/themes/zhidxcom/images/zdx-wechat.png" alt="">
+                                <div class="name">智东西</div>
+                            </div>
+                            <div class="item">
+                                <img src="//oss.zhidx.com/static/themes/zhidxcom/images/cdx-wechat.png" alt="">
+                                <div class="name">车东西</div>
+                            </div>
+                            <div class="item">
+                                <img src="//oss.zhidx.com/static/themes/zhidxcom/images/xindongxi-wechat.png?a=1" alt="">
+                                <div class="name">芯东西</div>
+                            </div>
+                            <div class="item">
+                                <img src="https://oss.zhidx.com/gtic/24/09/66e542403c06c-aiorang-wechat.jpg" alt="">
+                                <div class="name">智猩猩</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="website-wrapper">
+                <div class="item">
+                    <a href="https://zhidx.com" target="_blank">智东西</a>
+                </div>
+                <div class="item">
+                    <a href="https://chedongxi.com" target="_blank">车东西</a>
+                </div>
+                <div class="item">
+                    <a href="https://zhidx.com/aichip001" target="_blank">芯东西</a>
+                </div>
+<!--                <div class="item split">-->
+<!--                    <img src="--><!--/images/top-option-split.png">-->
+<!--                </div>-->
+                <div class="item split">
+                    <a href="https://aiorang.com/" target="_blank">智猩猩</a>
+                </div>
+                <div class="item course" style="display: none;">
+                    <a href="https://aiorang.com" target="_blank">
+                        公开课
+                        <img src="//oss.zhidx.com/static/themes/zhidxcom/images/top-option-cursor.png" class="icon">
+                    </a>
+                    <div class="options-wrapper">
+                        <div class="course-options">
+                            <div class="course-item border-left"><a href="https://aiorang.com/" target="_blank">智猩猩</a></div>
+                            <div class="course-item">
+                                <a href="javascript:;">公开课小程序</a>
+                                <div class="mini-programs">
+                                    <img src="https://oss.zhidx.com/gtic/20/08/5f2aa733d91fc-gh_4cff094b8cff_258.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <a href="https://gtic.zhidx.com/" target="_blank">线下大会</a>
+                </div>
+                <div class="item margin0">
+                    <a href="http://aipfia.zhidx.com/2022/index.html" target="_blank">AI生产力创新奖</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-nav">
+        <div class="w1200 margin-auto content">
+            <a href="/" class="logo">
+                <img src="//oss.zhidx.com/static/themes/zhidxcom/images/zhidx-logo.png" alt="">
+            </a>
+            <div class="nav-wrapper">
+                                                        <a href="/news" target="_blank" class="">快讯</a>
+                                            <a href="javascript:;"><span class="i"></span></a>
+                                                                            <a href="/p/category/zhidongxi/topnews" target="_blank" class="">头条</a>
+                                                                            <a href="/p/category/人工智能" target="_blank" class="">人工智能</a>
+                                                                            <a href="https://zhidx.com/aichip001" target="_blank" class="">芯东西</a>
+                                                                            <a href="/p/category/intelligent-home" target="_blank" class="">AIoT</a>
+                                                                            <a href="/p/category/digital-new-capital-construction" target="_blank" class="">云与智慧城市</a>
+                                                                            <a href="/p/category/机器人无人机" target="_blank" class="">机器人</a>
+                                                                            <a href="/p/category/vr-ar" target="_blank" class="">VR/AR</a>
+                                                                                <a href="javascript:;"><span class="i"></span></a>
+                                        <a href="https://huodong.zhidx.com" target="_blank" class="">活动</a>
+                                                </div>
+            <form class="search-wrapper" action="/" target="_self">
+                <input type="text" name="s" placeholder="请输入搜索内容">
+                <button class="search-btn">
+                    <img src="//oss.zhidx.com/static/themes/zhidxcom/images/zhidx-search-icon.png">
+                </button>
+            </form>
+        </div>
+    </div>
+</header>
+<!--<a href="https://gtic.zhidx.com/2020/aichip/" target="_blank" style="display: block;height: 100px;width:100%; background: url(https://oss.zhidx.com/gtic/2020/gtic-2020.jpg?a=4) no-repeat center/1920px auto, #04121b;"></a>-->    <link rel="stylesheet" href="//oss.zhidx.com/static/themes/zhidxcom/css/index.css?a=1">
+    <link rel="stylesheet" href="//oss.zhidx.com/static/themes/zhidxcom/css/single.css?a=1">
+    <link rel="stylesheet" href="//oss.zhidx.com/static/themes/zhidxcom/css/share.min.css">
+    <script src="//oss.zhidx.com/static/themes/zhidxcom/js/jquery.share.min.js"></script>
+    <style>
+        .post-content video,
+        .post-content iframe {
+            min-width: 800px;
+            /*height: 400px;*/
+            height: auto;
+            margin: 0 auto;
+        }
+
+        /*.post-content > div {*/
+        /*    padding-bottom: 14px;*/
+        /*    padding-top: 14px;*/
+        /*    letter-spacing: .5px;*/
+        /*    text-align: justify;*/
+        /*}*/
+        .post-content {
+            word-break: break-all;
+        }
+
+        .post-content > div, .post-content > section {
+            padding-bottom: 14px;
+            padding-top: 14px;
+            letter-spacing: .5px;
+            text-align: justify;
+        }
+		.post-content li {
+			padding-left: 8px;
+		}
+		.post-content li:before {
+			content: '';
+			display: inline-block;
+			width: 6px;
+			height: 6px;
+			background: #333;
+			border-radius: 50%;
+			vertical-align: middle;
+			margin-right: 8px;
+		}
+		.post-content .article-mark {
+			font-size: 12px;
+			vertical-align: top;
+			line-height: 20px;
+		}
+    </style>
+    <section id="main">
+        <div id="new-info">
+            <div id="info-right">
+                <div class="info-right-item author-info">
+                    <div class="author-pic">
+                        <!--                    <img src="images/author-header.png" alt="">-->
+                        <img src="//oss.zhidx.com/uploads/2021/10/616991a2c4582_616991a2c16f8_616991a2c16ca_WechatIMG17999.jpeg?x-oss-process=image/resize,m_fill,w_150,h_150" width="96" height="96" alt="程 茜" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo">                    </div>
+                    <div class="author-name"><a href="https://zhidx.com/p/author/chengqian" title="由程 茜发布" rel="author">程 茜</a></div>
+                    <!--                <div class="author-posts">共发表-->
+                    <!--篇文章</div>-->
+                    <div class="author-desc" style="height: auto;min-height: 48px;">
+                                                                    </div>
+                </div>
+                <script src="//oss.zhidx.com/static/themes/zhidxcom/js/tagcloud.js"></script>
+<div class="info-right-item">
+    <div class="info-right-item-top">
+        <div class="irit-title">标签</div>
+        <a href="/p/category/tag_list" class="irit-other">更多</a>
+    </div>
+    <div class="info-right-item-bb"></div>
+    <div class="info-right-tag">
+    <a href="https://zhidx.com/p/tag/%E7%99%BE%E5%BA%A6" class="tag2" style="margin: 7px 8px 5px 0px;">百度</a><a href="https://zhidx.com/p/tag/%E5%BE%AE%E8%BD%AF" class="tag2" style="margin: 4px 10px 9px 2px;">微软</a><a href="https://zhidx.com/p/tag/%E5%8D%8E%E4%B8%BA" class="tag3" style="margin: 7px 10px 8px 3px;">华为</a><a href="https://zhidx.com/p/tag/%E5%B0%8F%E7%B1%B3" class="tag3" style="margin: 8px 3px 0px 6px;">小米</a><a href="https://zhidx.com/p/tag/%E8%85%BE%E8%AE%AF" class="tag3" style="margin: 3px 2px 6px 7px;">腾讯</a><a href="https://zhidx.com/p/tag/iPhone" class="tag3" style="margin: 8px 8px 1px 10px;">iPhone</a><a href="https://zhidx.com/p/tag/5G" class="tag3" style="margin: 0px 10px 6px 5px;">5G</a><a href="https://zhidx.com/p/tag/IDx" class="tag3" style="margin: 5px 5px 4px 9px;">IDx</a><a href="https://zhidx.com/p/tag/%E9%AB%98%E9%80%9A" class="tag3" style="margin: 5px 0px 8px 6px;">高通</a><a href="https://zhidx.com/p/tag/%E8%8B%B1%E7%89%B9%E5%B0%94" class="tag3" style="margin: 8px 1px 0px;">英特尔</a><a href="https://zhidx.com/p/tag/%E7%89%B9%E6%96%AF%E6%8B%89" class="tag3" style="margin: 3px 1px 10px 2px;">特斯拉</a><a href="https://zhidx.com/p/tag/%E9%80%9A%E7%94%A8" class="tag3" style="margin: 8px 1px 0px 10px;">通用</a><a href="https://zhidx.com/p/tag/%E8%8B%B9%E6%9E%9C" class="tag3" style="margin: 6px 9px 3px 7px;">苹果</a><a href="https://zhidx.com/p/tag/%E5%A4%A7%E4%BC%97" class="tag2" style="margin: 9px 2px 5px 3px;">大众</a><a href="https://zhidx.com/p/tag/%E4%B8%89%E6%98%9F" class="tag1" style="margin: 8px 5px 9px 8px;">三星</a><a href="https://zhidx.com/p/tag/360" class="tag3" style="margin: 3px 8px 9px 4px;">360</a><a href="https://zhidx.com/p/tag/%E8%B0%B7%E6%AD%8C" class="tag1" style="margin: 2px 4px 7px 3px;">谷歌</a>    </div>
+</div>
+<script>
+    (function() {
+        function randsort(num) {
+            return Math.random() > 0.5 ? 1 : -1;
+        }
+
+        function rand(num) {
+            return Math.floor(Math.random() * (num + 1));
+        }
+
+        var indexList = [];
+        var objList = document.querySelectorAll('.info-right-tag a');
+        var length = document.querySelectorAll('.info-right-tag a').length;
+        for (var i = 0; i < length; i++) {
+            indexList.push(i)
+        }
+        indexList.sort(rand);
+        var w = document.querySelector('.info-right-tag').offsetWidth;
+        indexList.forEach(function (e) {
+            objList[e].style.cssText = [
+                'margin:' + [
+                    rand(10) + 'px',
+                    rand(10) + 'px',
+                    rand(10) + 'px',
+                    rand(10) + 'px'
+                ].join(' ') + ';'
+            ].join('')
+        });
+    })();
+</script>                            </div>
+            <div id="info-left">
+                <div class="post-title">
+                    AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙                </div>
+                <div class="post-related">
+                    <!--                <span class="name">-->                    <!--</span>-->
+                    <span class="leibie"><a href="https://zhidx.com/p/category/zhidongxi/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd" rel="category tag">人工智能</a>  <a href="https://zhidx.com/p/category/zhidongxi" rel="category tag">智东西</a>  <a href="https://zhidx.com/p/category/zhidongxi/topnews" rel="category tag">智东西头条</a></span><span class="time">2024/11/13 </span>
+                </div>
+                <div class="post-content">
+                    <div style="margin-top: 15px;">
+<!--                        -->                                                <img src="//oss.zhidx.com/uploads/2024/11/6734655fca102_6734655fc7070_6734655fc704c_toutu.jpg">
+                    </div>
+                    <p class="p1"><strong>智东西（公众号：zhidxcom）</strong><br>
+<strong>作者 | 程茜</strong><br>
+<strong>编辑 | 漠影</strong></p>
+<p class="p2"><span class="s1">就在昨天，百度旗下小度科技的</span>首款内置中文大模型的原生AI眼镜正式亮相<span class="s1">！</span></p>
+<p class="p1">从去年以来，Ai Pin、Rabbit R1等创新形态的AI硬件设备展露头角，掀起大模型智能终端的新风口。其中，AI眼镜赛道更是异军突起，以Meta与雷朋为代表联手推出的AI眼镜全年销量预计将达到200万台。</p>
+<p class="p1">同时根据贝哲斯智能眼镜市场研究报告，预计到<span class="s1">2029</span>年，全球智能眼镜市场规模将达到<span class="s1">1067.78</span>亿元，期间年均复合增长率为18.56%‌ <span class="s2">。</span></p>
+<p>市场爆发前夜，小度作为最新官宣入局的公司，此次推出的新品更是将大模型与眼镜进行了更为深度的融合。</p>
+<p>小度原生AI眼镜重量45g，可支持连续听歌5小时，用户可以随时进行AI交互，化身AI导游、AI百科、AI翻译、AI助理、AI音乐DJ。</p>
+<p><img class="alignnone wp-image-454824 size-large" src="https://oss.zhidx.com/uploads/2024/11/6734397691fc1_673439768ed6e_673439768ed19_IMG_3680.jpg/_zdx?a" alt="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" width="1024" height="634"></p>
+<p>背靠百度，并已在智能硬件赛道布局多年的小度，有强大的AI能力支持，还有多元化的智能硬件产品线布局，以及完善的生态系统、内容资源，都成为其入局AI眼镜赛道的差异化优势。</p>
+<p class="p1">当下深入AI眼镜赛道的有三类玩家，专注于AI眼镜的创企、AR/VR厂商、手机和互联网大厂，但总的来看，小度目前是其中少数集成了软硬件一体化能力的企业。</p>
+<p>那么，小度为什么在这一节点入局AI眼镜？小度AI眼镜的差异化优势是什么？小度将在大模型时代讲出智能硬件产业的什么新故事？我们试图从其历史布局中找出这些问题的答案。</p>
+<h2 class="p1"><strong>一、三类玩家火拼，小度官宣入局，差异化优势是什么？</strong></h2>
+<p>Ai Pin、Rabbit R1等所谓“新物种”发售以来频频翻车，可以看出，想要把大模型塞进硬件并不容易。这一背景下，发展更为成熟的AI眼镜涌入人们的视野，成为AI硬件行业关注的一个焦点。</p>
+<p>去年9月，Meta联手雷朋发布了第二代Meta智能眼镜，市场调研机构IDC预测，其今年年化销售有望超过200万台‌，相比第一代智能眼镜增速明显。</p>
+<p>与此同时，国内积极投身这一赛道的玩家频出，整个产业大致可以分为三类企业。</p>
+<p>首先是最新诞生的专注于做AI眼镜的创企，包括小米生态链企业蜂巢科技，该公司已推出搭载多个大模型的界环AI音频眼镜；此外前坚果投影CPO王骁逸此前也被曝创业，其创业项目Even Realities已在今年7月推出首款智能眼镜G1。</p>
+<p><img class="alignnone wp-image-454718 size-large" src="https://oss.zhidx.com/uploads/2024/11/6733481eb8d45_6733481eb3b70_6733481eb3b4b_WX20241112-202037@2x.png/_zdx?a" alt="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" width="1024" height="688"></p>
+<p class="p1">▲<span class="s1">界环</span>AI音频眼镜</p>
+<p class="p8">另一类企业是AR眼镜厂商，如雷鸟创新、李未可科技、星纪魅族等，李未可科技今年上半年推出首款AI眼镜MetaLensChat，星纪魅族的StarV Air2智能眼镜上线了诸多AI功能。</p>
+<p class="p5">第三类玩家就是手机、互联网大厂，华为、小米、荣耀、小度纷纷加码布局，包括华为智能眼镜2、小米MIJIA智能音频眼镜、OPPO的智能眼镜Air Glass 3、荣耀也被曝出已经申请了多个智能眼镜相关的商标。小度正是最新官宣入局这一领域的企业。</p>
+<p><img class="alignnone wp-image-454819 size-large" src="https://oss.zhidx.com/uploads/2024/11/6734385469e28_6734385466dbd_6734385466d9a_29667288_20241111203842_223937_951886725_WTA2100.jpg/_zdx?a" alt="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" width="1024" height="683"></p>
+<p>▲小度原生AI眼镜</p>
+<p class="p8">这类设备中，最受关注的就是AR眼镜和AI眼镜两类，其主要区别在于AR眼镜主要依赖光学显示技术和空间感知技术，AI眼镜则是以AI技术为支撑，后者也成为当下市场发展前景更广阔的、热度更高的赛道。</p>
+<p class="p8">在AI眼镜这一赛道之中，其最终设备的具体形态也各有不同，主要为<span class="s3">“</span>AI+硬件”、<span class="s3">“</span>AI原生硬件”两种。<span class="s3">“</span>AI+硬件”更好理解，就是传统的眼镜产品直接加上AI功能。</p>
+<p class="p5"><span class="s4">“</span><span class="s1">AI原生硬件”则是</span>将AI技术底座系统变成一个由大模型驱动的引擎，在这个基础上搭载硬件应用，这样哪些模型放在端上、哪些放在云上，如何让硬件的传感器、芯片、存储的组合更适配我们的需求，如何在成本与性能之间做平衡。</p>
+<p>小度走的就是第二条路线，这也是在大模型深入千行百业的背景下，让眼镜与AI融合更加自然的方式。这是因为相比于广义上的智能眼镜，AI眼镜的智能化属性也更强，与用户需求的契合度也更高。</p>
+<h2 class="p1"><strong>二、AI原生DuerOS作底座，大模型让眼镜能看能拍、还能AI实时问答<span class="s5">&nbsp;</span></strong></h2>
+<p class="p1">先来从基本面看下小度AI眼镜的能力。</p>
+<p>这幅眼镜的重量仅为45g，续航时间达到56小时，能连续听歌5小时以上，且配备了支持自定义功能使用的实体按键。同时，为了保证用户的语音交互体验，它还搭载四阵列麦克风以及定制的开放式放漏音扬声器单元。</p>
+<p>这些硬件能力所具备的优势，已然成为承载其AI功能发挥优势的关键所在。</p>
+<p>小度AI眼镜的AI能力已经直接融入其中，底座就是今年四月，小度基于文心大模型重构的DuerOS操作系统。</p>
+<p>眼镜最基础的能力是“看”，这幅眼镜搭载的1600万像素摄像头，成为链接用户需求和眼镜AI功能的重要桥梁之一。用户还可以随时随地通过语音交互，让眼镜拍照、录视频。</p>
+<p><img class="alignnone wp-image-454826 size-large" src="https://oss.zhidx.com/uploads/2024/11/67343a6abf760_67343a6abc663_67343a6abc63c_WechatIMGa453d84e19cb900f18f5d4720f18d5f4.png/_zdx?a" alt="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" width="1024" height="437"></p>
+<p>在此之上，基于大模型能力，小度AI眼镜的能力实现了五大方面的延伸。</p>
+<p>用户佩戴这幅眼镜，就可以在旅行中边走边问，AI导游会融合百度地图的位置服务能力，并结合视觉和定位技术，去回答用户的问题。</p>
+<p>不仅限于旅行途中，日常生活中用户路边随意看到的事物，都可以通过“AI问答”获得答案，小度AI眼镜与百度搜索、百度百科联手，让用户真正实现“所见即所知”。</p>
+<p><img class="alignnone wp-image-454825 size-full" src="https://oss.zhidx.com/uploads/2024/11/67343a457fa8e_67343a457b394_67343a457b349_2024-11-13-13-31-12.2024-11-13-13_33_12.gif" alt="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" width="800" height="444"></p>
+<p>此外，小度AI眼镜还能成为用户旅行中的氛围烘托神器，可以基于用户此时面前的场景，智能推荐应景的音乐。</p>
+<p>工作和学习方面，这一眼镜也集成了AI能力，这体现在翻译和笔记备忘两个场景中。</p>
+<p>如在跨语言交流场景下，小度AI眼镜可以实时翻译，并智能分析拍照内容，帮用户进行快速总结和提炼；还有用户开会、读书过程中，如果需要进行摘抄记录，就无需使用其他设备，用手指一点，眼镜就可以将这部分重点内容加入备忘录。</p>
+<p><img class="alignnone wp-image-454934 size-large" src="https://oss.zhidx.com/uploads/2024/11/67346575ed715_67346575ea5a3_67346575ea56c_WechatIMG7031194e62c1fab9e57fbe824d53d6c0.png/_zdx?a" alt="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" width="1024" height="438"></p>
+<p>可以看出，小度AI眼镜的功能，不仅扩宽了眼镜这一硬件设备的应用边界，延伸了人们的感官，还将大模型的功能全面集成其中，将AI能力与本来的硬件功能融合在一起。</p>
+<p>这背后，是其对AI眼镜这一产品形态以及洞察人们需求的考量，也是其选择做原生AI眼镜的关键原因所在。在研发之初，小度就充分考虑了软硬件一体化的产品设计，将软件和硬件进行深度集成，实现应用场景的智能化和优化，从而提供更优秀的产品体验。</p>
+<p>基于此，拥有更加多元化的AI功能或许会成为小度AI眼镜，在这一市场站稳脚跟的关键。</p>
+<h2 class="p1"><strong>三、眼镜深度绑定AI，小度拿出软硬件一体化能力</strong></h2>
+<p class="p5">事实上，已经在智能硬件赛道中横亘多年的小度，在AI眼镜这条路上仍是一名初学者。那为什么小度是拿出全球首款搭载中文大模型的原生AI眼镜的企业？</p>
+<p class="p1">想要回答这个问题，可以从两方面看。</p>
+<p class="p1"><span class="s9">首先，</span>从整个头戴式智能设备领域来看，AR、VR设备受限于产品形态、佩戴舒适度、价格等，例如部分VR设备需要连接外部设备，使用场景受限；一些AR设备的外观设计不够时尚和轻便，影响了用户的佩戴意愿。因此，这一市场距离大规模爆发较远。</p>
+<p>相比之下，AI眼镜展现出了独特的优势。AI眼镜的独特轻便优势以及不俗的智能能力，使其在用户日常生活中出现的频率逐渐增高。</p>
+<p>因此，在当前市场环境下，对于头戴式智能设备市场而言，迫切需要一款具有代表性的AI眼镜产品。</p>
+<p>其次就是小度自身，小度一直沿着“AI+硬件”的发展路径，其全系产品已经上线大模型能力。</p>
+<p>小度打造的DuerOS AI原生操作系统，在自然语言交互、多模态感知、拟人化呈现等方面有明显提升。以AI对话聊天为例，应用了大模型能力之后，相比传统的语音对话，用户跟小度进行多轮交互的次数，提升了700%。</p>
+<p>从AI安全监护、AI健康问诊、AI智能菜谱到AI老师辅学，小度的陪伴已经深入到人们家庭生活的方方面面。</p>
+<p><img class="alignnone wp-image-454828 size-large" src="https://oss.zhidx.com/uploads/2024/11/67343abc99df5_67343abc949a8_67343abc94982_IMG_3679-拷贝.jpg/_zdx?a" alt="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" width="1024" height="410"></p>
+<p>稳坐国内智能音箱市场头把交椅的小度，凭借这一品类展开了在智能硬件市场的布局。时至今日，其产品线已经横贯闺蜜机、智能学习机、健身镜、智能⽿机等等。</p>
+<p>深谙智能硬件市场变革的小度，果断入局，其AI硬件产业发展趋势、软硬件一体的产品定义能力，同样决定了小度是否能占据一席之地。</p>
+<p>手握AI+硬件这两大核心能力的小度，在理解用户需求、融合软硬件能力方面都独树一帜。</p>
+<p>这也是当下企业在AI硬件这一赛道制胜的关键。</p>
+<p>正如开篇所提到的，一些AI硬件发售之后频频翻车。在小度看来，就是由于其自身技术不成熟，软、硬件能力不匹配，导致其产品功能无法全面释放AI能力，体验欠佳；还有一个原因是，企业对于用户核心需求了解不够透彻，没有充分考虑清楚其产品是否有应用场景、应用价值。</p>
+<p>只有搞清楚这两个要点，才能让AI硬件“物超所值”。</p>
+<p><img class="alignnone wp-image-454820 size-large" src="https://oss.zhidx.com/uploads/2024/11/673438803ec0c_6734388039a28_67343880399ce_IMG_3682.jpg/_zdx?a" alt="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" width="1024" height="335"></p>
+<p>所以在充分洞察到软硬件产业链的成熟，以及消费者对随身智能产品的需求之后，小度才正式宣布将于明年上半年发布其AI眼镜。</p>
+<p>不过，值得一提的是，对于面向消费者的设备而言，用户的实际体验效果才是终极考验。小度AI眼镜能否在交互响应速度、对话流畅等方面被用户所接受，现在还是未知。</p>
+<p class="p1">但当下可以确定的是，AI与眼镜等硬件的深度绑定已经成为必然，让AI从底层重塑其功能体验已经成为共识。</p>
+<h2 class="p1"><strong>结语：AI眼镜爆发前夜，小度入局</strong></h2>
+<p class="p1">未来的AI硬件将不再是单一功能的设备，而是会集成多种功能于一体。AI眼镜作为一种具有创新性和实用性的智能穿戴设备，具有巨大的市场潜力。</p>
+<p>小度在大模型能力、智能硬件方面均有积累，虽然是首次进军AI眼镜，但依托其软硬件一体化的产品定义能力，将为这一赛道注入新的活力。</p>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	$.post('https://zhidx.com/wp-admin/admin-ajax.php', {action: 'wpt_view_count', id: '454713'});
+});
+</script>                </div>
+                <div class="post-share">
+                    <div class="praise" data-postid="454713">
+                        <img src="//oss.zhidx.com/static/themes/zhidxcom/images/praise.png" alt="">
+                        <span>10</span>
+                    </div>
+                    <div class="social-share share-component" data-title="AI眼镜风口来了！剑指千亿级规模、百万台销量，小度狂飙" id="share" data-sites="weibo,qq,qzone,wechat"><a class="social-share-icon icon-weibo" href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fzhidx.com%2Fp%2F454713.html&amp;title=AI%E7%9C%BC%E9%95%9C%E9%A3%8E%E5%8F%A3%E6%9D%A5%E4%BA%86%EF%BC%81%E5%89%91%E6%8C%87%E5%8D%83%E4%BA%BF%E7%BA%A7%E8%A7%84%E6%A8%A1%E3%80%81%E7%99%BE%E4%B8%87%E5%8F%B0%E9%94%80%E9%87%8F%EF%BC%8C%E5%B0%8F%E5%BA%A6%E7%8B%82%E9%A3%99&amp;pic=https%3A%2F%2Foss.zhidx.com%2Fstatic%2Fthemes%2Fzhidxcom%2Fimages%2Fclose-icon.png&amp;appkey=" target="_blank"></a><a class="social-share-icon icon-qq" href="http://connect.qq.com/widget/shareqq/index.html?url=https%3A%2F%2Fzhidx.com%2Fp%2F454713.html&amp;title=AI%E7%9C%BC%E9%95%9C%E9%A3%8E%E5%8F%A3%E6%9D%A5%E4%BA%86%EF%BC%81%E5%89%91%E6%8C%87%E5%8D%83%E4%BA%BF%E7%BA%A7%E8%A7%84%E6%A8%A1%E3%80%81%E7%99%BE%E4%B8%87%E5%8F%B0%E9%94%80%E9%87%8F%EF%BC%8C%E5%B0%8F%E5%BA%A6%E7%8B%82%E9%A3%99&amp;source=AI%E7%9C%BC%E9%95%9C%E9%A3%8E%E5%8F%A3%E6%9D%A5%E4%BA%86%EF%BC%81%E5%89%91%E6%8C%87%E5%8D%83%E4%BA%BF%E7%BA%A7%E8%A7%84%E6%A8%A1%E3%80%81%E7%99%BE%E4%B8%87%E5%8F%B0%E9%94%80%E9%87%8F%EF%BC%8C%E5%B0%8F%E5%BA%A6%E7%8B%82%E9%A3%99%20-%20%E6%99%BA%E4%B8%9C%E8%A5%BF&amp;desc=%E9%A6%96%E6%AC%BE%E5%86%85%E7%BD%AE%E4%B8%AD%E6%96%87%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8E%9F%E7%94%9FAI%E7%9C%BC%E9%95%9C%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8%E3%80%82&amp;pics=https%3A%2F%2Foss.zhidx.com%2Fstatic%2Fthemes%2Fzhidxcom%2Fimages%2Fclose-icon.png" target="_blank"></a><a class="social-share-icon icon-qzone" href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fzhidx.com%2Fp%2F454713.html&amp;title=AI%E7%9C%BC%E9%95%9C%E9%A3%8E%E5%8F%A3%E6%9D%A5%E4%BA%86%EF%BC%81%E5%89%91%E6%8C%87%E5%8D%83%E4%BA%BF%E7%BA%A7%E8%A7%84%E6%A8%A1%E3%80%81%E7%99%BE%E4%B8%87%E5%8F%B0%E9%94%80%E9%87%8F%EF%BC%8C%E5%B0%8F%E5%BA%A6%E7%8B%82%E9%A3%99&amp;desc=%E9%A6%96%E6%AC%BE%E5%86%85%E7%BD%AE%E4%B8%AD%E6%96%87%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8E%9F%E7%94%9FAI%E7%9C%BC%E9%95%9C%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8%E3%80%82&amp;summary=%E9%A6%96%E6%AC%BE%E5%86%85%E7%BD%AE%E4%B8%AD%E6%96%87%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8E%9F%E7%94%9FAI%E7%9C%BC%E9%95%9C%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8%E3%80%82&amp;site=AI%E7%9C%BC%E9%95%9C%E9%A3%8E%E5%8F%A3%E6%9D%A5%E4%BA%86%EF%BC%81%E5%89%91%E6%8C%87%E5%8D%83%E4%BA%BF%E7%BA%A7%E8%A7%84%E6%A8%A1%E3%80%81%E7%99%BE%E4%B8%87%E5%8F%B0%E9%94%80%E9%87%8F%EF%BC%8C%E5%B0%8F%E5%BA%A6%E7%8B%82%E9%A3%99%20-%20%E6%99%BA%E4%B8%9C%E8%A5%BF" target="_blank"></a><a class="social-share-icon icon-wechat" href="javascript:;" tabindex="-1"><div class="wechat-qrcode"><h4>微信扫一扫：</h4><div class="qrcode"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAA9hAAAPYQGoP6dpAAACUklEQVR4nO2d0U7DMAwAM9T//2V4BKJuqbGdHtPdI9uSipNj1U7axxjjc+zlkfz9fL3zeKvPs/O18rFzMlmjEBgKgXGc/C275s6s1uDoGr3KGdXjRz+P8uv6jBAYCoGhEBhnOWSmeg1efb96vu77iNLrNUJgKASGQmBcySHdRGtT0fFmqu8jSjFCYCgEhkJgEHJItHa0yjnZWtetOcYIgaEQGAqBcSWHdK+p1f2QbE6JUvr/MUJgKASGQmCc5ZDd+7Rmqtf83bWyFEYIDIXAUAgMYm8gWlvK1qKsZclzFAJDITAeo7+2kx2/e9/WTPb8SepzIwSGQmAoBMYx9vcLqvdNVdemsvchqd8bITAUAkMhMM7uQ7LnvqtzRHU/Y0X2+lbjvfy+EQJDITAUAuNsvSxdE5/MkYHWLykd3wiBoRAYCoFxZb3r7g+s5suSvd7q+V5ihMBQCAyFwDhG/HxFlOrfZ++TqnOcPfV3RiEwFAKj4nlZ3bWk6HwraM/1tZZFRiEwFALjSk99ZndtazX/TPV4UeyHvBMKgaEQGBXPy9qdU3bf92QJ1QqNEBgKgaEQGHevr2P07wPbfSYxNZ4RAkMhMBQC46yn3s3d/ZDu5/q6L+udUAgMhcD4Sz8kSvcZxeq9urvPGFrLIqMQGAqBQXiPYTaHVecUz4fINwqBoRAYhHdQreh+33r191PP6zJCYCgEhkJg/IccMnN3rW2mNAcZITAUAkMhMAjvMZy5ey/wredFjBAYCoGhEBgd7w+5MudPqvsttHPoIYwQGAqBoRAYX7w7fNuejBUrAAAAAElFTkSuQmCC"></div><div class="help"><p>微信里点“发现”，扫一下</p><p>二维码便可将本文分享至朋友圈。</p></div></div></a></div>
+                </div>
+                <div class="post-tag">
+                    <a href="https://zhidx.com/p/tag/%e5%b0%8f%e5%ba%a6">小度</a>                </div>
+
+
+                <div id="single-suffix"></div>
+                <script type="html/text" id="single-suffix-tmp">
+                <a class="suffix" style="display:block;" href="{{link}}" {{target}}><img src="{{img}}" alt=""></a>
+                </script>
+                <script>
+                    (function () {
+                        var url = "https://oss.zhidx.com/static/single/index.json"
+                        var tmp = document.querySelector("#single-suffix-tmp").innerHTML
+                        fetch(url).then(rest => rest.json()).then(rest => {
+                            document.querySelector("#single-suffix").innerHTML = tmp.replace(/{{link}}/, rest.link || "javascript:;").replace(/{{img}}/, rest.pc)
+                                .replace(/{{target}}/, rest.link ? 'target="_blank"' : '')
+                        })
+                    })()
+                </script>
+                <div class="post-comments" id="comments">
+                    <link rel="stylesheet" href="//oss.zhidx.com/static/common/lib/layui/css/layui.css">
+<script src="//oss.zhidx.com/static/common/lib/layui/layui.js"></script>
+
+<div class="comment-box">
+    <div class="cb-title">
+        来, 说两句
+    </div>
+    <form action="" class="commentform">
+        <div>
+            <textarea class="comment-textarea" name="comment"></textarea>
+        </div>
+        <div>
+            <input type="button" value="发布" class="comment_submit">
+        </div>
+        <input type="hidden" name="comment_post_ID" value="454713">
+        <input type="hidden" name="comment_parent" value="0">
+    </form>
+</div>
+<div id="comments-list">
+
+<ul>
+    </ul>
+</div>
+<script type="text-html" id="reply-template">
+    <div class="comment-box" style="width:850px">
+    <div class="cb-title">
+        回复：{{author}}
+    </div>
+    <form action="" class="commentform">
+        <div>
+            <textarea class="comment-textarea" name="comment"></textarea>
+        </div>
+        <div>
+            <input type="button" value="发布" class="comment_submit">
+        </div>
+        <input type="hidden" name="comment_post_ID" value="454713">
+        <input type="hidden" name="comment_parent" value="{{parent}}">
+    </form>
+</div>
+</script>
+    <script>
+        jQuery("img[src*='ZDX-Card-for-PC-e1']").css('display', 'none');
+    </script>
+                </div>
+
+                <style>
+    .about-title {
+        font-size:30px;
+        line-height: 30px;
+        padding: 25px 0 10px;
+    }
+    .ilr-tag {
+        background-image: url('//oss.zhidx.com/static/themes/zhidxcom/images/tag-icon.png') !important;
+        background-position-x: 10px !important;
+    }
+</style>
+<div class="post-aboute">
+    <h3 class="about-title">相关推荐</h3>
+    <ul class="info-list" id="about-list">
+
+    
+    <li>
+        <div class="info-list-img">
+            <a href="https://zhidx.com/p/454484.html" target="_blank" title="AI硬件轰炸“双十一”：苹果小米华为猛赚，字节讯飞争销冠，联想稳坐AI PC“一哥”"><img width="220" height="162" src="//oss.zhidx.com/uploads/2024/11/673205aa852be_673205aa821a2_673205aa81e87_头图3.0.png/w400" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="AI硬件轰炸“双十一”：苹果小米华为猛赚，字节讯飞争销冠，联想稳坐AI PC“一哥”"></a>
+        </div>
+        <div class="info-left-content">
+            <div class="info-left-title">
+                <a href="https://zhidx.com/p/454484.html" target="_blank" title="AI硬件轰炸“双十一”：苹果小米华为猛赚，字节讯飞争销冠，联想稳坐AI PC“一哥”">AI硬件轰炸“双十一”：苹果小米华为猛赚，字节讯飞争销冠，联想稳坐AI PC“一哥”</a>
+            </div>
+            <div class="info-left-desc">
+                这个“双十一”买买买，抢到手的热门AI单品竟是……
+            </div>
+            <div class="info-left-related">
+                <div class="ilr-author">
+                    <div class="ilr-author-img">
+                        <img src="//oss.zhidx.com/uploads/2024/08/66c5bb4c0a8d2_66c5bb4c07871_66c5bb4c0784b_智东西个人主页头像.jpg?x-oss-process=image/resize,m_fill,w_150,h_150" width="96" height="96" alt="徐 豫" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo">
+                    </div>
+                    <div class="ilr-author-name"><a href="https://zhidx.com/p/author/xuyu" title="由徐 豫发布" rel="author">徐 豫</a></div>
+                </div>
+                <div class="ilr-time">
+                    11-13
+                </div>
+                <div class="ilr-comment ilr-tag">
+                    
+                </div>
+            </div>
+        </div>
+    </li>
+
+    <li>
+        <div class="info-list-img">
+            <a href="https://zhidx.com/p/454223.html" target="_blank" title="百度将发布AI眼镜，首搭中文大模型，售价或低于2100元"><img width="220" height="162" src="//oss.zhidx.com/uploads/2024/11/672d85b00fe2f_672d85b00d0de_672d85b00d096_IMG_9610.png/w400" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="百度将发布AI眼镜，首搭中文大模型，售价或低于2100元"></a>
+        </div>
+        <div class="info-left-content">
+            <div class="info-left-title">
+                <a href="https://zhidx.com/p/454223.html" target="_blank" title="百度将发布AI眼镜，首搭中文大模型，售价或低于2100元">百度将发布AI眼镜，首搭中文大模型，售价或低于2100元</a>
+            </div>
+            <div class="info-left-desc">
+                文小言排名下降，百度试图靠硬件突围。
+            </div>
+            <div class="info-left-related">
+                <div class="ilr-author">
+                    <div class="ilr-author-img">
+                        <img src="//oss.zhidx.com/uploads/2024/11/672b0879876d3_672b087984508_672b0879844dd_20240913-DSC07383.jpg?x-oss-process=image/resize,m_fill,w_150,h_150" width="96" height="96" alt="依婷" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo">
+                    </div>
+                    <div class="ilr-author-name"><a href="https://zhidx.com/p/author/huangyiting" title="由依婷发布" rel="author">依婷</a></div>
+                </div>
+                <div class="ilr-time">
+                    11-08
+                </div>
+                <div class="ilr-comment ilr-tag">
+                    
+                </div>
+            </div>
+        </div>
+    </li>
+
+    <li>
+        <div class="info-list-img">
+            <a href="https://zhidx.com/p/449552.html" target="_blank" title="GenAI浪潮下，智能硬件如何实现低延时AI语音交互"><img width="220" height="162" src="//oss.zhidx.com/uploads/2024/10/670a3b8725964_670a3b8722779_670a3b8722754_图片1.png/w400" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="GenAI浪潮下，智能硬件如何实现低延时AI语音交互"></a>
+        </div>
+        <div class="info-left-content">
+            <div class="info-left-title">
+                <a href="https://zhidx.com/p/449552.html" target="_blank" title="GenAI浪潮下，智能硬件如何实现低延时AI语音交互">GenAI浪潮下，智能硬件如何实现低延时AI语音交互</a>
+            </div>
+            <div class="info-left-desc">
+                GenAI推动智能硬件变革，声网AI x IoT方案实现低延时AI语音交互。
+            </div>
+            <div class="info-left-related">
+                <div class="ilr-author">
+                    <div class="ilr-author-img">
+                        <img src="//oss.zhidx.com/uploads/2024/08/66bef004b71ed_66bef004b3aca_66bef004b3a96_微信截图_20240816110228.jpg" width="71" height="72" alt="杨, 欢" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo">
+                    </div>
+                    <div class="ilr-author-name"><a href="https://zhidx.com/p/author/yanghuan" title="由杨, 欢发布" rel="author">杨, 欢</a></div>
+                </div>
+                <div class="ilr-time">
+                    10-12
+                </div>
+                <div class="ilr-comment ilr-tag">
+                    
+                </div>
+            </div>
+        </div>
+    </li>
+
+    <li>
+        <div class="info-list-img">
+            <a href="https://zhidx.com/p/438491.html" target="_blank" title="又一国产AI机器人炸场！腾讯机器人实验室1号员工创业，一年从原型机到落地，CEO解读技术路线"><img width="220" height="162" src="//oss.zhidx.com/uploads/2024/08/66c435ec410b1_66c435ec3dde9_66c435ec3ddc5_未标题-1.png/w400" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="又一国产AI机器人炸场！腾讯机器人实验室1号员工创业，一年从原型机到落地，CEO解读技术路线"></a>
+        </div>
+        <div class="info-left-content">
+            <div class="info-left-title">
+                <a href="https://zhidx.com/p/438491.html" target="_blank" title="又一国产AI机器人炸场！腾讯机器人实验室1号员工创业，一年从原型机到落地，CEO解读技术路线">又一国产AI机器人炸场！腾讯机器人实验室1号员工创业，一年从原型机到落地，CEO解读技术路线</a>
+            </div>
+            <div class="info-left-desc">
+                能逗猫、会泡茶的AI机器人是怎么炼成的？
+            </div>
+            <div class="info-left-related">
+                <div class="ilr-author">
+                    <div class="ilr-author-img">
+                        <img src="//oss.zhidx.com/uploads/2023/08/64cbadae9f079_64cbadae99373_64cbadae99340_Snipaste_2022-05-29_18-47-00.png?x-oss-process=image/resize,m_fill,w_150,h_150" width="96" height="96" alt="香草" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo">
+                    </div>
+                    <div class="ilr-author-name"><a href="https://zhidx.com/p/author/wangxuechun" title="由香草发布" rel="author">香草</a></div>
+                </div>
+                <div class="ilr-time">
+                    08-20
+                </div>
+                <div class="ilr-comment ilr-tag">
+                    
+                </div>
+            </div>
+        </div>
+    </li>
+
+    <li>
+        <div class="info-list-img">
+            <a href="https://zhidx.com/p/431560.html" target="_blank" title="25位大厂高管转战生成式AI创业！吸金猛，不差钱，覆盖全产业链"><img width="220" height="162" src="//oss.zhidx.com/uploads/2024/07/6683b05d8a17f_6683b05d86aff_6683b05d86ad6_111.png/w400" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="25位大厂高管转战生成式AI创业！吸金猛，不差钱，覆盖全产业链"></a>
+        </div>
+        <div class="info-left-content">
+            <div class="info-left-title">
+                <a href="https://zhidx.com/p/431560.html" target="_blank" title="25位大厂高管转战生成式AI创业！吸金猛，不差钱，覆盖全产业链">25位大厂高管转战生成式AI创业！吸金猛，不差钱，覆盖全产业链</a>
+            </div>
+            <div class="info-left-desc">
+                改变中国AI大模型创业格局的25人。
+            </div>
+            <div class="info-left-related">
+                <div class="ilr-author">
+                    <div class="ilr-author-img">
+                        <img src="//oss.zhidx.com/uploads/2020/08/5f2a7294b9528_5f2a7294b60e1_5f2a7294b60a3_微信图片_20200805164903.jpg?x-oss-process=image/resize,m_fill,w_150,h_150" width="96" height="96" alt="李水青" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo">
+                    </div>
+                    <div class="ilr-author-name"><a href="https://zhidx.com/p/author/libingqian" title="由李水青发布" rel="author">李水青</a></div>
+                </div>
+                <div class="ilr-time">
+                    07-01
+                </div>
+                <div class="ilr-comment ilr-tag">
+                    
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+    <div class="info-left-other load-over" disabled="false">加载更多...</div>
+</div>
+<script type="text/html" id="tmp">
+    <li>
+        <div class="info-list-img">
+            <a href="{{link}}" target="_blank" title="{{title}}">{{pic}}</a>
+        </div>
+        <div class="info-left-content">
+            <div class="info-left-title">
+                <a href="{{link}}" target="_blank" title="{{title}}">{{title}}</a>
+            </div>
+            <div class="info-left-desc">
+                {{desc}}
+            </div>
+            <div class="info-left-related">
+                <div class="ilr-author">
+                    <div class="ilr-author-img">
+                        {{author_pic}}
+                    </div>
+                    <div class="ilr-author-name">{{author_name}}</div>
+                </div>
+                <div class="ilr-time">
+                    {{publish_time}}
+                </div>
+                <div class="ilr-comment ilr-tag">
+                    {{taglink}}
+                </div>
+            </div>
+        </div>
+    </li>
+</script>
+<script>
+    (function($) {
+        var page = 1;
+        var tmp = $('#tmp').html()
+        function fetchData() {
+            $.post('/wp-admin/admin-ajax.php', {
+                action: 'post_about',
+                postid: '454713',
+                page: page,
+            }, function(jsonObj) {
+                if (jsonObj.state === 0) {
+                    var htmlList = jsonObj.result.map(function(e) {
+                         return tmp.replace(/{{title}}/g, e.title)
+                            .replace(/{{desc}}/, e.desp)
+                            .replace(/{{publish_time}}/, e.publish_time)
+                            .replace(/{{pic}}/, e.pic)
+                            .replace(/{{author_pic}}/, e.author_pic)
+                            .replace(/{{author_name}}/, e.author_name)
+                            .replace(/{{link}}/g, e.link)
+                             .replace(/{{taglink}}/, e.tagname ? '<a href="/p/category/tag_list">'+e.tagname+'</a>' : '')
+                    });
+                    page ++;
+                    if (htmlList.length > 0) {
+                        $('#about-list').get(0).innerHTML += htmlList.join('')
+                    }
+                    loadOver(jsonObj.result.length, 5);
+                }
+            }, 'json')
+        }
+        fetchData()
+        $('.info-left-other').click(function() {
+            fetchData();
+        })
+    })(jQuery)
+</script>            </div>
+        </div>
+    </section>
+    <script>
+        jQuery('.post-content').html(jQuery('.post-content').html().replace(/dev.(?:wp|zhidx).com/g, 'zhidx.com'));
+    </script>
+    <script src="//oss.zhidx.com/static/themes/zhidxcom/js/single.js?a=1"></script>
+    <script>
+        //    jQuery('.post-content img').css('maxWidth', '850px');
+        jQuery('.post-content img').each(function (i, e) {
+            e.onload = function () {
+                if (e.width > 850) {
+                    e.style.width = '850px';
+                }
+            }
+        });
+        (function () {
+            document.querySelectorAll('.post-content p').forEach(item => {
+                if (item.textContent && item.textContent[0] === '▲') {
+                    item.style.paddingTop = '0'
+                    item.style.marginTop = '-7px'
+                }
+            })
+        })();
+    </script>
+<style>
+    .sub-m {
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+        left: 0;
+        top: 0;
+        background: rgba(0, 0, 0, .65);
+        display: none;
+    }
+    .sub {
+        width: 494px;
+        height: 408px;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        top: 0;
+        margin: auto;
+        border-radius: 5px;
+        background: #fff;
+    }
+    .sub-close {
+        position: absolute;
+        right: 14px;
+        top: 14px;
+        cursor: pointer;
+        font-size: 20px;
+        line-height: 20px;
+        color: #666;
+    }
+    .sub-title {
+        font-size: 28px;
+        color: #353535;
+        font-weight: 500;
+        text-align: center;
+        line-height: 28px;
+        padding: 40px 0;
+    }
+    .sub-desp {
+        text-align: center;
+        line-height: 30px;
+        font-size: 16px;
+        color: #353535;
+        width: 336px;
+        margin: 0 auto;
+    }
+    .sub-qrcode img {
+        display: block;
+        margin: 0 auto;
+        width: 150px;
+        height: 150px;
+        padding-top: 40px;
+        padding-bottom: 2px;
+    }
+    .sub-qrcode-desp {
+        text-align: center;
+        font-size: 14px;
+        color: #b2b2b2;
+        line-height: 14px;
+    }
+</style>
+<div class="sub-m">
+    <div class="sub">
+        <div class="sub-close">✕</div>
+        <div class="sub-title">订阅</div>
+        <div class="sub-desp">
+            智东西晚报通过智东西Plus服务号每天定时推送
+            一次订阅，不错过每天行业重磅信息
+        </div>
+        <div class="sub-qrcode">
+            <img src="https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQFc8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyYnNkV2R1OXpmejExMDAwMGcwN3QAAgTfopBcAwQAAAAA" alt="">
+            <div class="sub-qrcode-desp">扫码关注，立即订阅</div>
+        </div>
+    </div>
+</div>
+<script>
+    (function($) {
+        $(function() {
+            $('.sub-close').on('click', function() {
+                $('.sub-m').css('display', 'none');
+            })
+            $('.sub-btn').on('click', function() {
+                $('.sub-m').css('display', 'block');
+            })
+            $('.sub-know').on('click', function() {
+                $('.sub-tips').css('display', 'none');
+                window.localStorage.setItem('sub_know', 1);
+            });
+            if (window.localStorage) {
+                if (window.localStorage.getItem('sub_know') != 1) {
+                    $('.sub-tips').css('display', 'block');
+                }
+            }
+        })
+    })(jQuery)
+</script><script>
+    document.querySelectorAll('.post-content img').forEach(imgObj => {
+        const width = parseInt(imgObj.getAttribute('width'))
+        const height = parseInt(imgObj.getAttribute('height'))
+        if (width < 300 || height < 60) {
+            imgObj.style.cssText = `
+            width:${width}px !important;
+            height: ${height}px;
+            display: inline-block;
+            margin: 0;
+            `
+        }
+    })
+</script>
+<link rel="stylesheet" href="//oss.zhidx.com/static/themes/zhidxcom/css/footer.css">
+<footer id="footer">
+    <ul id="footer-info">
+        <li class="footer-realize">
+            <div class="footer-title">欢迎来撩</div>
+            <ul class="content">
+                <li>
+                    <a href="https://zhidx.com/about" target="_blank">关于我们</a>
+                </li>
+                                    <li>
+                        <a href="javascript:;">加入我们</a>
+                        <div class="show-wrapper">
+                            <div class="show">
+                                                                    <div class="wechat-qrcode">
+                                        <img src="https://oss.zhidx.com/gtic/20/08/5f29622a64c0d-1000.jpg" alt="">
+                                    </div>
+                                                                <div class="desp">
+                                    扫码加我直接扔简历                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                    <li>
+                        <a href="javascript:;">寻求报道</a>
+                        <div class="show-wrapper">
+                            <div class="show">
+                                                                    <div class="info">
+                                        邮件地址：news@zhidx.com                                    </div>
+                                                                <div class="desp">
+                                    快把您的需求发给我                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                    <li>
+                        <a href="javascript:;">商务合作</a>
+                        <div class="show-wrapper">
+                            <div class="show">
+                                                                    <div class="wechat-qrcode">
+                                        <img src="https://oss.zhidx.com/gtic/24/07/66861d9ecf1e7-20240704115545.png/w1200" alt="">
+                                    </div>
+                                                                <div class="desp">
+                                    扫码加我直接开聊                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                    <li>
+                        <a href="javascript:;">会议咨询</a>
+                        <div class="show-wrapper">
+                            <div class="show">
+                                                                    <div class="wechat-qrcode">
+                                        <img src="https://oss.zhidx.com/gtic/24/10/671891a7881a9-%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241023140311.jpg/w1200" alt="">
+                                    </div>
+                                                                <div class="desp">
+                                                                    </div>
+                            </div>
+                        </div>
+                    </li>
+                                    <li>
+                        <a href="javascript:;">媒体合作</a>
+                        <div class="show-wrapper">
+                            <div class="show">
+                                                                    <div class="wechat-qrcode">
+                                        <img src="https://oss.zhidx.com/gtic/21/07/60fada53ccc15-WechatIMG316.jpeg/w1200" alt="">
+                                    </div>
+                                                                <div class="desp">
+                                    扫码加我直接开聊                                </div>
+                            </div>
+                        </div>
+                    </li>
+                            </ul>
+        </li>
+        <li class="footer-wechat">
+            <div class="footer-title">公众号</div>
+            <ul>
+                <li>
+                    <img src="//oss.zhidx.com/static/themes/zhidxcom/images/zdx-wechat.png" class="footer-wechat-img" alt="智东西公众号">
+                    <div class="footer-wechat-title">智东西</div>
+                </li>
+                <li>
+                    <img src="//oss.zhidx.com/static/themes/zhidxcom/images/cdx-wechat.png" class="footer-wechat-img" alt="车东西公众号">
+                    <div class="footer-wechat-title">车东西</div>
+                </li>
+                <li>
+                    <img src="//oss.zhidx.com/static/themes/zhidxcom/images/xindongxi-wechat.png" class="footer-wechat-img" alt="智猩猩">
+                    <div class="footer-wechat-title">芯东西</div>
+                </li>
+                <li>
+                    <img src="https://oss.zhidx.com/gtic/24/09/66e542403c06c-aiorang-wechat.jpg" class="footer-wechat-img" alt="智猩猩">
+                    <div class="footer-wechat-title">智猩猩</div>
+                </li>
+            </ul>
+        </li>
+    </ul>
+            <div id="friend-link">
+            <div class="footer-title"></div>
+        </div>
+        <div id="colophon">
+        <div>智东西 版权所有<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802034975" style="color: #999;"><img src="https://oss.zhidx.com/uploads/2021/06/60c9b7290ece3_60c9b7290bfe3_60c9b7290bfb4_beian.png">京公网安备 11010802034975号</a> <a href="http://beian.miit.gov.cn/?spm=a2c4g.11186623.7y9jhqsfz.110.4f6d7243Z9KLvk" style="color: #999;" target="_blank">京ICP备16059766-1号</a> Copyright ©2014-2024 zhidx.com. All Rights Reserved</div>
+        <div>北京市海淀区学清路10号院1号楼学清嘉创大厦A座</div>
+    </div>
+</footer>
+<script src="https://oss.zhidx.com/static/common/lib/feedback.js?b=1"></script>
+
+<script>
+    var navTimer;
+    jQuery(".zixun").each(function(i, e) {
+        e.onmouseover = function() {
+            if (this.navTimer) {
+                clearTimeout(this.navTimer);
+            }
+            document.querySelectorAll('.zixun').forEach(function(item) {
+                item.querySelector('.zixun-show').style.display = 'none';
+                item.querySelector('a').className = '';
+                item.style.cssText = '';
+            });
+            this.style.cssText = " height: 80px;border: none;background: rgba(235, 235, 235, .85) !important;";
+            this.querySelector('.zixun-show').style.display = 'inline-block';
+            this.querySelector('.zixun>a').className = 'zixun-select';
+        }
+    })
+    jQuery(".zixun").each(function(i, e) {
+        e.onmouseout = function() {
+            var that = this;
+            this.navTimer = setTimeout(function() {
+                that.querySelector('.zixun-show').style.display = 'none';
+                that.querySelector('a').className = '';
+                that.style.cssText = '';
+            }, 300);
+        }
+    });
+    layui.use(['layer'], function() {
+        var layer = layui.layer
+        jQuery('.sw-coop').click(function() {
+            var img = new Image();
+            img.src = 'https://oss.zhidx.com/uploads/dw-uploads/sw-coop-img.jpeg';
+            img.style = 'width:400px;height:auto;'
+            img.onload = function() {
+                //商务合作
+                layer.open({
+                    type: 1,
+                    title: false,
+                    closeBtn: false,
+                    shadeClose: true,
+                    area: ['auto'],
+                    content: img.outerHTML
+                })
+            }
+        })
+    })
+</script>
+
+</body></html>

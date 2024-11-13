@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>新闻动态 - 地球系统数值模拟装置官方网站</title><meta name='keywords' content='地球系统,地球数值模拟,地球模拟装置' /><meta name='description' content='“地球系统数值模拟装置”（Earth System Numerical Simulation Facility）为国家“十二五”重大科技基础设施建设项目，中国科学院大气物理研究所为项目建设法人，清华大学为共建单位。是我国首个具有自主知识产权，以地球系统各圈层数值模拟软件为核心，软、硬件指标相适应，规模及综合技术水平位于世界前列的专用地球系统数值模拟装置。' />
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="author" content="技术支持：广佳网络www.gangjiakeji.cn" />
+    <meta name="Copyright" content="广佳网络www.gangjiakeji.cn" />
+    <link rel='stylesheet'  href='/css/style.css?v=2.1231'>
+    <link rel="stylesheet" href="/css/swiper.min.css">
+    <script src="/js/jquery-1.10.1.min.js"></script>   
+</head>
+<body>
+<div class="top" style="background:url(/images/headbg.jpg) no-repeat center;">
+   <div class="head">
+      <div class="w1440">
+         <div id="dateDisplay" class="date"></div>
+         <!--隐藏菜单-->
+        <div class="menu-handler" id="menu-handler">
+            <span class="burger burger-1 trans"></span>
+            <span class="burger burger-2 trans-fast"></span>
+            <span class="burger burger-3 trans"></span>
+        </div>
+         <div class="head_r">
+            <!-- <a href="" target="_blank">内网系统</a> -->
+            <a href="/en/index.html" target="_blank">English</a>
+         </div>
+      </div>
+   </div>
+   <div class="w1440">
+        <a href="/" class="logo"><img src="/images/logo.png"></a>
+        <div class="serch">
+        <input class="searchKey" type="text" placeholder="请输入关键字">
+        <a href="javascript:;" class="btnSearch"></a>
+        </div>
+        
+   </div>
+   <div id="headNav" class="nav">
+      <div class="serch">
+        <input class="searchKey" type="text" placeholder="请输入关键字">
+        <a href="javascript:;" class="btnSearch"></a>
+      </div>
+      <div class="nav_mid">
+        <ul><li><a href='/'>首页</a></li><li><a href='/about/index.html'>装置简介</a><ol><li><a href='/about/index_47.html'>装置简介</a></li><li><a href='/about/history.html'>建设大事记</a></li><li><a href='/about/syscomposition.html'>系统构成</a></li><li><a href='/about/index_10.html'>组织架构</a></li></ol></li><li><a href='/opensharing/index.html'>开放共享</a><ol><li><a href='/opensharing/index.html'>用户申请</a></li><li><a href='/opensharing/index_14.html'>管理办法</a></li><li><a href='/opensharing/index_15.html'>致谢标准</a></li></ol></li><li class='cur'><a href='/news/index.html'>新闻中心</a><ol><li><a href='/news/index_17.html'>新闻动态</a></li><li><a href='/news/scientific.html'>科研动态</a></li><li><a href='/news/media.html'>传媒扫描</a></li></ol></li><li><a href='/achievements/index.html'>成果应用</a><ol><li><a href='/achievements/39.html'>CAS-ESM次季节-季节预测系统</a></li><li><a href='http://project.lasg.ac.cn/LFS/' target='_blank'>全球高分辨率海洋环境预报系统（LFS）</a></li><li><a href='/achievements/36.html'>公里级大气环境预报溯源系统</a></li><li><a href='https://earthlab-data.iap.ac.cn/GMST/' target='_blank'>全球平均表面温度（GMST）统计集合预测系统</a></li><li><a href='https://earthlab-data.iap.ac.cn/rumla/' target='_blank'>“演天”气象预报大模型</a></li></ol></li><li><a href='https://earthlab-data.iap.ac.cn/'>数据中心</a></li><li><a href='/achievements/50.html'>国际合作</a></li><li><a href='/resdown/index.html'>资源下载</a><ol><li><a href='/resdown/index.html'>模式资料</a></li><li><a href='/resdown/materials.html'>培训资料</a></li><li><a href='/resdown/manual.html'>用户手册</a></li><li><a href='/resdown/publicize.html'>宣传资料</a></li><li><a href='/resdown/imgs.html'>园区掠影</a></li></ol></li><li><a href='/garden/hot.html'>科普园地</a><ol><li><a href='/garden/hot.html'>热点</a></li><li><a href='/garden/timeaxis.html'>时间轴</a></li><li><a href='/garden/index.html'>交互</a></li></ol></li></ul>
+      </div>
+      <a href="/contact.html">联系我们</a>
+   </div>
+</div>
+
+    
+<div class="intro w1440">
+    <div class="left">
+        <div class="left_t section">
+            <h4>新闻中心</h4>
+            <ul><li class='cur'><a href='/news/index_17.html'>新闻动态</a></li><li><a href='/news/scientific.html'>科研动态</a></li><li><a href='/news/media.html'>传媒扫描</a></li></ul>
+        </div>
+        
+    </div>
+    <div class="right">
+        <div class="intro_right">
+            <div class="tit">
+                <span>新闻动态</span>
+                <p>当前的位置：<a href="/">首页</a><a href="/news/index.html">新闻中心</a><a class="cur">新闻动态</a></p>
+            </div>
+            <div class="xq_con transy section">
+                <div class="xq_c_t section">
+                    <h1>“第二届地球系统数值模拟科学大会”暨“地球系统数值模拟装置运行期第三届科技委和用户委会议”在京举行</h1>
+                    <p><span>时间：2024-11-12</span></p>
+                </div>
+                <div class="xq_c_e section">
+                    <p style="line-height: 2em;"><span style="font-size: 18px;">冬之伊始，色彩斑斓。2024年11月7-9日，“第二届地球系统数值模拟科学大会”暨“地球系统数值模拟装置运行期第三届科技委和用户委会议”在北京密云顺利召开。</span></p><p style="line-height: 2em; text-align: left;"><span style="font-size: 18px;">宋君强院士、陈大可院士、张远航院士，王金南院士、Roy Harrison院士、穆穆院士、陈德亮院士、夏军院士、宫辉力教授、刘俊国教授、李俊研究员、宋宇教授、陈飞教授、张荣华教授、阳坤教授、北京市密云区人民政府米曦亮副区长，中国环境监测总站肖建军副站长、刘冰主任，中国气象科学研究院张朝林副院长、李建副院长，国家自然科学基金委地学部李薇处长、中国科学院可持续发展局任小波处长、国家气象中心张小玲总工、中国气象局预报司发展规划处郭文刚副处长、怀柔科学城管委会设施平台处高浚淇副处长等来自高校、科研院所、院主管部门、相关业务部门共100余家单位的近400人参加了本次会议。</span></p><p style="text-align: center;"><img src="/upload/img/202411/126386700493754875901952498.jpg" title="20241112001.jpg" alt="20241112001.jpg"/></p><p style="line-height: 2em; text-align: center;"><span style="font-size: 18px;">图1 会议现场</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">会议开幕式由中国科学院大气物理研究所（以下简称大气所）曹军骥所长主持。他首先代表大气所、地球系统数值模拟装置（以下简称装置）对北京市密云区、怀柔科学城管委会、中国环境监测总站、国家自然科学基金委、中国科学院等各方领导的到来表示热烈的欢迎和深切的感谢。他表示，在刚刚过去的大设施运行评比中，地球系统数值模拟装置斩获二等奖的佳绩，衷心感谢各方一直以来对于装置工作的大力支持与帮助。此次大会也是乘势而上，召集地球环境相关领域的知名高校、科研院所、业务部门、企业等，共同探讨和交流最新的研究成果和技术发展趋势，推动大气环境改善与可持续发展，为“美丽地球”贡献中国智慧、中国方案和中国力量。随后，米曦亮、肖建军、张朝林、李薇、任小波分别代表密云区、中国环境监测总站、中国气象科学研究院、国家自然科学基金委地球科学部、中国科学院可持续发展局向大会致辞。</span></p><p style="text-align: center;"><img src="/upload/img/202411/126386700496026604427549670.jpg" title="20241112002.jpg" alt="20241112002.jpg"/></p><p style="line-height: 2em; text-align: center;"><span style="font-size: 18px;">图2 领导嘉宾致辞</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">会上，依托地球系统数值模拟装置，在国家自然科学基金集成项目支持下，我国自主研发的新一代空气质量模式——排放与大气过程集成耦合社区模式EPICC-Model正式发布，并宣布开放其源代码，宋君强、张远航、王金南、Roy Harrison、肖建军、张朝林、李薇、任小波、刘俊国、阳坤、曹军骥、王自发出席发布仪式。这标志着我国空气质量模式研发步入协同开发、合作共赢的崭新阶段，将推动我国模式软件研发范式的转变，对加快我国模式发展具有重要意义。</span></p><p style="text-align: center;"><img src="/upload/img/202411/126386700498003514418405930.jpg" title="20241112003.jpg" alt="20241112003.jpg"/></p><p style="line-height: 2em; text-align: center;"><span style="font-size: 18px;">图3 EPICC-Model开源发布</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">大会的首个特邀报告由英国皇家会士院士、伯明翰大学的Roy Harrison教授开启，他的报告围绕“Can biomass burning smoke mass be measured reliably in the atmosphere?”展开。随后，张远航院士、王金南院士、李俊研究员、王自发研究员分别就大气环境系统治理与减污降碳、面向美丽中国的生态环境科技展望、融合卫星和数值模式数据的短临天气预报技术及EPICC-Model模式等方面的最新进展和未来趋势进行了深入交流与讨论。</span></p><p style="text-align: center;"><img src="/upload/img/202411/126386700503400100123122718.jpg" title="20241112004.jpg" alt="20241112004.jpg"/></p><p style="line-height: 2em; text-align: center;"><span style="font-size: 18px;">图4 8号上午大会特邀报告</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">中午，与会代表们实地参观了地球系统数值模拟装置科普展厅“地球模拟实验室”，详细了解了装置的建设背景、设计理念、研发历程、性能指标、科普拓展，以及装置在应对气候变化、防灾减灾、环境治理、可持续发展和生态安全等前沿科学问题中所发挥的重要作用。</span></p><p style="text-align: center;"><img src="/upload/img/202411/126386700505662505221977320.jpg" title="20241112005.jpg" alt="20241112005.jpg"/></p><p style="line-height: 2em; text-align: center;"><span style="font-size: 18px;">图5 参观地球系统数值模拟装置</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">下午的大会特邀报告，穆穆院士、陈德亮院士、刘俊国教授、陈飞教授、夏军院士、俞永强研究员分别就北极对欧亚极端事件次季节尺度可预报性的影响、青藏高原近几十年水循环的变化、气候变化下洪涝数值模拟与雨洪资源利用、在WRF中模拟人类活动的影响、数字流域与长江模拟研发及应用、高分辨率海洋环流模式及其耦合模式等方面的最新研究进展进行了详细交流与讨论。</span></p><p style="text-align: center;"><img src="/upload/img/202411/126386700507507285779508052.jpg" title="20241112006.jpg" alt="20241112006.jpg"/></p><p style="line-height: 2em; text-align: center;"><span style="font-size: 18px;">图6 8号下午大会特邀报告</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">11月9日，科学大会进行了分主题会议，包括地球系统理论与模式发展、区域环境变化与调控、地球系统预测与全球变化、极端天气气候灾害模拟与应对、AI与地球系统科学等五个专题，共计81个口头报告。来自所内外的专家学者交流了当前地球系统模式及区域环境模式的最新研究进展，从地球系统模式的动力框架与物理过程参数化、区域环境模式的物理过程参数化与调控机制、地球系统预测、资料同化技术、极端天气气候灾害模拟以及人工智能、大数据与大模型等不同的角度探讨了未来全球与区域模式的发展方向，围绕地球系统数值模拟的热点问题和未来可能的合作进行了广泛交流。
+另外，此次科学大会还通过墙报形式展示了各研究领域的最新科研成果。
+
+本次大会召开前，7日下午通过线下线上相结合的方式,召开了“地球系统数值模拟装置运行期第三届科技委和用户委会议”，会议由宋君强院士主持。大气所党委书记、副所长陆日宇研究员首先致欢迎词，并简要介绍了会议背景，然后曾晓东研究员向两委委员汇报了地球系统数值模拟装置2024年运行工作总结和2025年运行工作计划。最后，丁一汇院士（线上）、陈大可院士、钱德沛院士、宫辉力教授、张强教授等科技委和用户委成员各抒己见，指出了装置运行工作存在的挑战，并明确了装置2025年工作计划的重点。未来装置将以更加开放的思维和举措加强兄弟单位合作，运行应用好装置，提升国际影响力，更好地服务于国家重大战略需求和关键科学问题的攻关。
+本届大会联合了地学多个领域的科研、工程技术及应用开发人员，交流最新研究进展、前沿技术和应用案例，重点探讨我国大气环境与极端气象研究的最新进展，探索地球系统数值模拟与应用科学的发展方向，满足国家重大需求，促进我国地球系统科学整体向国际一流水平跨越。在EPICC-Model开源的契机下，凝聚全国乃至全球科学家力量，面向水土气污染综合治理、新污染物和重金属治理等问题，开展新技术攻关，推动科学与工程技术的加速融合，为“美丽中国”和全球环境治理提供强有力的科学工具。</span></p><p style="text-align: center;"><img src="/upload/img/202411/126386700509194690888852645.jpg" title="20241112007.jpg" alt="20241112007.jpg"/></p><p style="line-height: 2em; text-align: center;"><span style="font-size: 18px;">图7 大会合影</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">此外，本次会议评选出16个优秀口头报告、5个优秀墙报，优秀口头报告获奖者名单：</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">“地球系统理论与模式发展”分会场：汤帅奇、徐露露、赵雅昕；</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">“区域环境变化与调控”分会场：申文祥、 王文丁、武姿辰；</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">“地球系统预测与全球变化”分会场<span style="font-size: 18px; text-wrap: wrap;">：</span>陈桂万、李晓静、袁丽娜、崔敏；</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">“极端天气气候灾害模拟与应对”分会场<span style="font-size: 18px; text-wrap: wrap;">：</span>王志彪、季鹏、张梦卓；</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">“AI与地球系统科学”分会场<span style="font-size: 18px; text-wrap: wrap;">：</span>童宣、宋子江、张雨元；</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">优秀墙报获奖者名单<span style="font-size: 18px; text-wrap: wrap;">：</span>赵懿君、田玉芳、胡岳、罗烨泓、范鹏。</span></p><p style="line-height: 2em;"><span style="font-size: 18px;">本届大会由中国科学院可持续发展研究局主办，中国科学院大气物理研究所承办，清华大学地球系统科学系、地球系统数值模拟与应用重点实验室、大气环境与极端气象重点实验室、CAS-TWAS-WMO Forum、IAMAS中国委员会、北京市密云区委区政府、北京怀柔科学城管理委员会和陶诗言基金会等协办。</span></p><p style="line-height: 2em; text-align: right;"><span style="font-size: 18px;">（怀科办、地球系统数值模拟科学中心联合供稿）</span></p>
+                </div>
+                <div class="xq_page">
+                    <p>
+                        <a href='http://earthlabscience.iap.ac.cn/#/' target='_blank'><i>上一篇</i>第二届“地球系统数值模拟科学大会” 第三轮会议通知</a>
+                    </p>
+                    <button onclick="closeWindow()">【关闭窗口】</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer section">
+    <div class="w1440">
+        <div class="fo_t section"><a href='/about/index.html'>装置简介</a><a href='/opensharing/index.html'>开放共享</a><a href='/news/index.html'>新闻中心</a><a href='/achievements/index.html'>成果应用</a><a href='https://earthlab-data.iap.ac.cn/'>数据中心</a><a href='/achievements/50.html'>国际合作</a><a href='/resdown/index.html'>资源下载</a><a href='/garden/hot.html'>科普园地</a><a href='/contact.html'>联系我们</a></div>
+        <div class="fo_e section">
+            <dl>
+                <dt>版权所有：地球系统数值模拟装置    ICP备案号：<a href="http://beian.miit.gov.cn/" target="_blank">京ICP备14024088号</a></dt>
+                <dd><span> 地址：北京市朝阳区北辰西路81号院（100029）</span>
+<a href="tel:010-82995193">电话：010-82995193</a>
+<a href="mailto:earthlab@mail.iap.ac.cn">邮箱：earthlab@mail.iap.ac.cn</a>   <span>技术支持：<a href="http://www.guangjiakeji.cn" target="_blank">广佳网络</a></span></dd>
+            </dl>
+            <img src="/images/img.png">
+        </div>
+    </div>
+</div>
+<script src="/js/swiper.min.js"></script>
+
+
+<div class="frbtn">
+<div id="backToTop"><img src="/images/gotop.png"></div>
+</div>
+<script src='/js/my.js?v=1.01'></script>
+<script>
+    $(function () {
+        $('.btnSearch').click(function () {
+            let key = $(this).prev(".searchKey").val();
+            if (key.length >= 1) {
+                location.href = '/search.html?key=' + key;
+            }
+        })
+    })
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET,HEAD,PUT,POST,DELETE
+Access-Control-Allow-Origin: https://developer.baidu.com
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Content-Encoding: gzip
+Content-Security-Policy-Report-Only: default-src https: 'unsafe-inline' 'unsafe-eval' data: blob:;report-uri https://report-uri.baidu.com/report?app=BaiduYun
+Content-Type: text/html; charset=utf-8
+Date: Wed, 13 Nov 2024 12:49:10 GMT
+Etag: "uapx8x0ziya20"
+Vary: Accept-Encoding
+X-Powered-By: Next.js

@@ -1,0 +1,16 @@
+Content-Length: 40734
+Date: Wed, 13 Nov 2024 13:21:02 GMT
+Server: Apache
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=315360000; includeSubDomains
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Permissions-Policy: camera=(),microphone=()
+Content-Security-Policy: base-uri 'self'; connect-src 'self'; default-src 'self'; font-src 'self' data: https:; frame-src 'self' https://*.google.com https://*.googleapis.com https://www.youtube.com https://airtw.epa.gov.tw https://airtw.moenv.gov.tw https://www.facebook.com https://embed.windy.com https://weatherwidget.io; frame-ancestors 'self'; form-action 'self'; img-src * data:; media-src 'self'; object-src https:; script-src https: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; style-src-elem https: 'unsafe-inline'
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.chgsh.chc.edu.tw
+Last-Modified: Wed, 13 Nov 2024 11:24:16 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: cookiesession1=678B28BBB21E0E8EB815AD7BD9DEF8A4;Expires=Thu, 13 Nov 2025 13:21:02 GMT;Path=/;HttpOnly

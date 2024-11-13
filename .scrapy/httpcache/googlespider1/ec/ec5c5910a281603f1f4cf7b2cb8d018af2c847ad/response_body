@@ -1,0 +1,2955 @@
+<!DOCTYPE html><html lang="zh-CN" xmlns:wb="http://open.weibo.com/wb"><head>
+
+  <meta charset="utf-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="baidu-site-verification" content="codeva-SZ4tpjS31n">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+  <meta name="renderer" content="webkit">
+
+  <meta name="keywords" content="AI,智能化,自动化,零售行业,AI大模型">
+
+  <meta property="qc:admins" content="366320147065613663757">
+
+  <meta property="wb:webmaster" content="98334fcb2178f312">
+
+  <meta name="description" content="随着技术的不断进步，零售行业正经历着由人工智能(AI)引领的转型浪潮。人工智能(AI)的应用前景广阔，以多种创新方式重塑行业的运作模式。通过全方位提升购物体验，优化运营效率，推动零售业迈向智能化、个性化和自动化的未来，推动整个行业的持续增长和创新发展。">
+
+  <meta property="qc:admins" content="67021420076561366375">
+
+  <title>人工智能（AI）在零售行业的实践应用和展望 - ENI文章 - ENI经济和信息化网_互联网大潮下的经济和信息化</title>
+
+  <!-- JavaScript -->
+
+
+
+  <script src="https://hm.baidu.com/hm.js?a8c1fd6f9356e96e5bd491e6ef1d3501"></script><script src="/statics/static/js/web2017/jquery-1.9.1.min.js?20200224"></script>
+
+  <script src="/statics/static/bootstrap3.3.5/js/bootstrap.min.js?20200224"></script>
+
+  <script src="/statics/static/js/web2017/index.js?20231111001"></script>
+
+  <script src="/statics/static/js/web2017/eni.util.js?20200224"></script>
+
+ 
+  <link rel="stylesheet" href="/statics/static/bootstrap3.3.5/css/bootstrap.min.css?20200224">
+
+  
+  <script src="/statics/static/js/web2017/jquery.flexslider-min.js?20200224"></script>
+
+  
+  <link rel="stylesheet" href="/statics/static/css/web2017/common.css?20220607001">
+
+  <!--|| (ROUTE_M=="content" && ROUTE_C=="content" && ROUTE_A=="edit")-->
+
+  <!-- content-content-add -->
+
+  
+<script src="/statics/static/js/web2017/lrtk_banner.js?20200224"></script>
+
+ <link href="/statics/static/css/web2017/lrtk_banner.css?20200224" type="text/css" rel="stylesheet">
+
+ 
+  <link rel="stylesheet" href="/statics/static/css/web2017/webindex.css?20231111001">
+
+
+
+ 
+  
+
+
+
+
+
+
+
+  
+
+
+<!-- <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script> -->
+
+<script type="text/javascript">
+
+    var mobileAgent = new Array("iphone", "ipod", "ipad", "android", "mobile", "blackberry", "webos", "incognito", "webmate", "bada", "nokia", "lg", "ucweb", "skyfire");
+
+    var browser = navigator.userAgent.toLowerCase();
+
+    var isMobile = false;
+
+    for (var i=0; i<mobileAgent.length; i++){
+
+      if(browser.indexOf(mobileAgent[i])!=-1){
+
+        isMobile = true;
+
+        //location.href = 'http://m.enicn.com/index.php';
+
+        break;
+
+      }
+
+    }
+
+  </script><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a8c1fd6f9356e96e5bd491e6ef1d3501";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><script type="text/javascript">
+    var global_username="";
+    $(function(){
+
+      $.ajax({
+
+        type:'GET',
+
+        url:'https://www.enicn.com/api.php?op=user',
+
+        dataType:'json',
+
+        success:function(msg){
+
+          // var username='liangchengdudu';
+
+          if(msg.islogin){
+
+            var username=msg.username;
+
+            if(username.length>6){
+
+              var username=username.substring(0,5)+'...';
+
+            }
+
+			       global_username=username;
+
+            $('.current_username').html(username);
+
+            $('.user_loginbutton').hide();
+
+            $('.pc_userinfo').show();
+
+            //$('.reg_button').hide();
+
+            //$('#userinfo').html("欢迎您：<a href=\"/index.php?m=accounts&c=index\">"+username +"&nbsp;&nbsp;"  +msg.groupname+"</a>&nbsp;&nbsp;<strong>蚁鼻儿</strong>："+msg.amount+"&nbsp;&nbsp;<strong>学分</strong>："+msg.point +"&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"/index.php?m=member&c=index&a=logout\"  style=\"padding-left:4px\">退出</a>").show();
+
+            //$('.mobile_user').addClass('mobile_displayblock');
+
+            $('.mobile_userinfo').addClass('mobile_displayblock');
+
+			$('.mobile_logo').css('padding-left','45px');
+
+			$('.mobile_logo').css('text-align','left');
+
+            $('.moblile_button').css('display','none');
+
+            $('.moblile_userbutton').addClass('mobile_displayblock');
+
+
+
+          }
+
+        }
+
+      });
+
+    });
+
+  </script><script type="text/javascript">
+
+    $(function(){
+
+       $("#sub").bind("click",function(event){
+
+             var val = $("#q").val();  //获取元素的值
+
+             if(val==""){     //判断值是否为空
+
+                 $("#errormsg").html("<p>搜索关键字不能为空.</p>");  //提示信息
+
+                 event.preventDefault();  //阻止默认行为 ( 表单提交 )或者return false;
+
+             }
+
+       })
+
+    })	
+
+  </script></head>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+
+  <!--[if lt IE 9]>
+
+  <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js?20181202"></script>
+
+  <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js?20181202"></script>
+
+  <![endif]-->
+
+  <!-- 客户端判断 -->
+
+  
+
+  <!-- 百度统计 -->
+
+ 
+
+
+  <!-- 用户信息调取 -->
+
+  
+
+  
+
+  
+<body>
+
+  <!-- HHEAD START-->
+
+  
+      
+  <div id="nav">
+
+    <div class="header">
+
+      <div class="container header_top">
+
+        <div class="col-md-3 col-xs-12 mobile_center l55 mobile_logo">
+
+          <a href="/">
+
+            <img src="/statics/static/images/2017web/logo.jpg" onerror="this.src='/eni_default.jpg'" title="" alt=""></a>
+
+        </div>
+
+        <div class="col-md-4 menulist mobile_center pl0 pr0 l55">
+
+          <ul class="lileft dropdown-menu-part">
+
+
+
+            <!--<li>-->
+
+            <!--  <span class="f16 weight8" style="color:#478243; padding-right:10px;">原创</span>-->
+
+            <!--</li>-->
+
+            <!--<li>-->
+
+              <!--<a href="https://www.enicn.com/index.php?m=content&c=index&a=videolist&type=1" title="CIO说" target="_blank">CIO说</a>｜-->
+            <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=interviewlist&key=CIO" title="CIO说" target="_blank">CIO说</a>｜-->
+
+            <!--</li>-->
+
+            <!--<li>-->
+
+              <!--<a href="https://www.enicn.com/index.php?m=content&c=index&a=videolist&type=2" title="e领袖" target="_blank">e领袖</a>｜-->
+            <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=interviewlist&key=e领袖" title="e领袖" target="_blank">e领袖</a>｜-->
+
+            <!--</li>-->
+
+            <!--<li>
+
+            <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=videolist&type=3" title="多棱镜" target="_blank">多棱镜</a>｜-->
+
+            <!--</li> -->
+
+            <!--<li>-->
+
+              <!--<a href="https://www.enicn.com/index.php?m=content&c=index&a=speciallist&type=1" title="专题" target="_blank">专题</a>-->
+            <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=speciallist&type=1" title="专题" target="_blank">专题</a>-->
+
+            <!--</li>-->
+
+            <div class="clear"></div>
+
+			<span id="userinfo"></span>
+
+          </ul>
+
+		  
+
+        </div>
+
+        <div class="col-md-5 login l55">
+
+          <ul class="lileft right">
+
+           
+
+            <!--<li class="liactive mr15">-->
+
+            <!--  <a href="https://www.enicn.com/Enicn/2021/zt_1222/454.html" class="active" target="_blank">专精特新直播专场</a>-->
+
+            <!--</li>-->
+
+            <li class="login_button user_loginbutton pl15">
+
+              <!--<a href="/index.php?m=member&c=index&a=login">登录</a>-->
+
+              <!--<a href="/index.php?m=member&c=index&a=register2020&siteid=1">登录</a>-->
+
+              <a href="/index.php?m=member&amp;c=index&amp;a=mobile_login">登录</a>
+
+            </li>
+
+            <li class="login_button user_loginbutton">
+
+              <a href="javascript:;">|</a>
+
+            </li>
+
+            <li class="reg_button user_loginbutton">
+
+              <!--<a href="/index.php?m=member&c=index&a=register&siteid=1">注册</a>-->
+
+              <!--<a href="/index.php?m=member&c=index&a=register2020&siteid=1">注册</a>-->
+
+              <a href="/index.php?m=member&amp;c=index&amp;a=register2020new&amp;siteid=1">注册</a>
+
+            </li>
+
+			<li class="wp-service wp-fav-nav none pc_userinfo ml25">
+
+				<span class="service-in">
+
+					<a href="https://www.enicn.com/index.php?m=accounts&amp;c=index" class="current_username"></a>
+
+					<i class="ico-dis"></i>
+
+				</span>
+
+				<div class="top-nav-dis service-infor fav-nav-drop">
+
+					<i class="ico-arw-bodder"></i>
+
+					<p class="top-nav-list">
+
+						<span>
+
+							<a href="https://www.enicn.com/index.php?m=accounts&amp;c=index">我的空间</a>
+
+						</span>
+
+						<span>
+
+							<a href="https://www.enicn.com/index.php?m=accounts&amp;c=index">查看蚁鼻</a>
+
+						</span>
+
+						<span>
+
+							<a href="https://www.enicn.com/index.php?m=member&amp;c=index&amp;a=logout">退出登录</a>
+
+						</span>
+
+					</p>
+
+				</div>
+
+			</li>
+
+            <div class="clear"></div>
+
+          </ul>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="container header_bottom">
+
+      <ul class="menulist f16 l65 dropdown-menu-part site-navbar">
+
+        <li class="left">
+
+          <a href="/">首页</a>
+
+        </li>
+
+        <li class="left">
+
+          <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=news" target="_blank">资讯</a>
+
+        </li>
+
+        <li class="left relative morenav">
+
+          <a href="javascript:;" data-hover-target="zg-innovate">
+
+            产业创新<i class="caret"></i>
+
+          </a>
+
+          <div class="zg-innovate dropdown-menu read-dropdown" style="width: 135px; text-align:center;">
+
+            <div class="read-nav">
+
+              <ul class="l3">
+
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=3&amp;keywords=汽车及零部件" target="_blank" class="transition">汽车及零部件</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=1&amp;keywords=集成电路" target="_blank" class="transition">集成电路</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=5&amp;keywords=生物制药" target="_blank" class="transition">生物制药</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=6&amp;keywords=快速消费品" target="_blank" class="transition">快速消费品</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=12&amp;keywords=新能源" target="_blank" class="transition">新能源</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=8&amp;keywords=泛家居" target="_blank" class="transition">泛家居</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=4&amp;keywords=军工" target="_blank" class="transition">军工</a></li>                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=1&amp;keywords=机械/装备行业" target="_blank" class="current transition">机械/装备行业</a></li>
+              </ul>
+              
+             
+
+            </div>
+
+          </div>
+
+        </li>
+
+        <li class="left relative morenav">
+
+          <a href="javascript:;" data-hover-target="zg-industry">
+
+            ENI专访 <i class="caret"></i>
+
+          </a>
+
+          <div class="zg-industry dropdown-menu read-dropdown" style="width: 120px; text-align:center;">
+
+            <div class="read-nav">
+
+              <ul class="l3">
+
+                <li>
+
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=interviewlist&amp;key=CIO" title="CIO说" target="_blank">CIO说</a>
+
+                </li>
+
+                <li>
+
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=interviewlist&amp;key=e%E9%A2%86%E8%A2%96" title="e领袖" target="_blank">e领袖</a>
+
+                </li>
+
+                <!--<li>-->
+
+                <!--  <a class="current" href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="工业互联网" target="_blank">工业互联网</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="人工智能" target="_blank">人工智能</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="大数据" target="_blank">大数据</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="物联网" target="_blank">物联网</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="云计算" target="_blank">云计算</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="应用软件" target="_blank">应用软件</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="安全" target="_blank">安全</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="区块链" target="_blank">区块链</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="集成电路" target="_blank">集成电路</a>-->
+
+                <!--</li>-->
+
+              </ul>
+
+            </div>
+
+          </div>
+
+        </li>
+
+        <!--<li class="left relative morenav">-->
+
+        <!--  <a href="javascript:;" data-hover-target="zg-it">-->
+
+        <!--  转型理念 <i class="caret"></i>-->
+
+        <!--  </a>-->
+
+        <!--  <div class="zg-it dropdown-menu read-dropdown" style="width: 120px; text-align:center;">-->
+
+        <!--    <div class="read-nav">-->
+
+        <!--      <ul class="l3">-->
+
+        <!--        <li>-->
+        <!--          <a class="current" href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="数字化" target="_blank">数字化</a>-->
+        <!--        </li>-->
+        <!--        <li>-->
+        <!--          <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="智能化" target="_blank">智能化</a>-->
+        <!--        </li>-->
+        <!--        <li>-->
+        <!--          <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="两化融合" target="_blank">两化融合</a>-->
+        <!--        </li>-->
+        <!--        <li>-->
+        <!--          <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="互联网+" target="_blank">互联网+</a>-->
+        <!--        </li>-->
+        <!--      </ul>-->
+
+        <!--    </div>-->
+
+        <!--  </div>-->
+
+        <!--</li>-->
+        <li class="left relative morenav">
+
+          <a href="javascript:;" data-hover-target="zg-industry">
+
+            专题 <i class="caret"></i>
+
+          </a>
+        </li><li class="left">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=eshow" target="_blank">一手</a>
+
+        </li>
+
+        <li class="left relative">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=eproindex" target="_blank">
+
+            E-PRO
+
+            <!-- <i class="caret"></i> -->
+
+          </a>
+
+          <!-- <div class="dropdown-menu read-dropdown" style="width: 120px; text-align:center;">
+
+            <div class="read-nav">
+
+              <ul class="l3">
+
+                <li>
+
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&c=index&a=infolist2021&type=keyword&key=行业专家" title="行业专家">行业专家</a>
+
+                </li>
+
+                <li>
+
+                  <a href="https://www.enicn.com/index.php?m=content&c=index&a=infolist2021&type=keyword&key=CIO" title="CIO">CIO</a>
+
+                </li>
+
+              </ul>
+
+            </div>
+
+          </div> -->
+
+        </li>
+
+        <li class="left">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=newistudy" target="_blank">I-学吧</a>
+
+        </li>
+
+        <li class="left relative morenav">
+
+          <a href="javascript:;" data-hover-target="zg-activity">
+
+            活动
+
+            <i class="caret"></i>
+
+          </a>
+
+          
+          
+          <div class="zg-activity dropdown-menu read-dropdown" style="width: 135px; text-align:center;">
+
+            <div class="read-nav">
+
+              <ul class="l3">
+
+                <li>
+                  <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=245&amp;activityType=made" title="定制活动" target="_blank">定制活动</a>
+                </li>
+                <li>
+                  <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=112" title="信息化大会" target="_blank">智能大会</a>
+                </li>
+                <li>
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=245" title="CIO智行社" target="_blank">CIO智行社</a>
+                </li>
+                <li>
+                  <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=246" title="CIO直播间" target="_blank">CIO直播间</a>
+                </li>
+                <li>
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity" title="全部活动" target="_blank">全部活动</a>
+                </li>
+
+                <!--<li>
+
+                   <a href="https://www.enicn.com/index.php?m=content&c=index&a=activity&activityType=made" title="定制活动" target="_blank">定制活动</a>
+
+                </li>
+
+                <li>
+
+                   <a href="https://www.enicn.com/index.php?m=content&c=index&a=activity&catid=247" title="合作推广" target="_blank">合作推广</a>
+
+                </li> -->
+
+              </ul>
+
+            </div>
+
+          </div>
+
+        </li>
+
+       <!-- <li class="left">
+
+          <a href="https://www.enicn.com/index.php?m=content&c=index&a=mylevel" target="_blank">会员指南</a>
+
+        </li> -->
+
+        <li class="left">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=jifen" target="_blank">奖学金</a>
+
+        </li>
+
+        <div class="clear"></div>
+
+      </ul>
+      <div class="container box" id="navbox" style="position: relative;top:-10px;height:0px;opacity:0;overflow:hidden;background: rgb(255, 255, 255);z-index: 999;">
+        <div class="cont" style="display:none;">
+          <ul class="sublist clearfix">
+            <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=3&amp;keywords=汽车及零部件" target="_blank" class="transition">汽车及零部件</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=1&amp;keywords=集成电路" target="_blank" class="transition">集成电路</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=5&amp;keywords=生物制药" target="_blank" class="transition">生物制药</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=6&amp;keywords=快速消费品" target="_blank" class="transition">快速消费品</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=12&amp;keywords=新能源" target="_blank" class="transition">新能源</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=8&amp;keywords=泛家居" target="_blank" class="transition">泛家居</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=4&amp;keywords=军工" target="_blank" class="transition">军工</a></li>                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=1&amp;keywords=机械/装备行业" target="_blank" class="current transition">机械/装备行业</a></li>
+          </ul>
+          
+          <ul class="l3">
+
+               
+              </ul>
+              
+        </div>
+        <div class="cont" style="display:none;position: absolute; left: 350px;">
+          <ul class="sublist clearfix">
+                  <li>
+                    <a class="current" href="/index.php?m=content&amp;c=index&amp;a=interviewlist&amp;key=CIO" title="CIO说" target="_blank">CIO说</a>
+                  </li>
+                  <li>
+                    <a class="current" href="/index.php?m=content&amp;c=index&amp;a=interviewlist&amp;key=e%E9%A2%86%E8%A2%96" title="e领袖" target="_blank">e领袖</a>
+                  </li>
+                  <!--<li>-->
+                  <!--  <a class="current" href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="工业互联网" target="_blank">工业互联网</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                  <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="人工智能" target="_blank">人工智能</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                  <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="大数据" target="_blank">大数据</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                  <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="物联网" target="_blank">物联网</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                  <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="云计算" target="_blank">云计算</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                  <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="应用软件" target="_blank">应用软件</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                  <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="安全" target="_blank">安全</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                  <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="区块链" target="_blank">区块链</a>-->
+                  <!--</li>-->
+                  <!--<li>-->
+                  <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="集成电路" target="_blank">集成电路</a>-->
+                  <!--</li>-->
+          </ul>
+        </div>
+        <div class="cont" style="display:none;position: absolute;left: 450px;">
+          <ul class="sublist clearfix">
+              <li>
+                <a class="current" href="/index.php?m=content&amp;c=index&amp;a=speciallisttwo&amp;type=1" title="小E知识点" target="_blank">小E知识点</a>
+              </li>
+              <li>
+                <a href="/index.php?m=content&amp;c=index&amp;a=speciallisttwo&amp;type=3" title="方案专区" target="_blank">方案专区</a>
+              </li>
+          </ul>
+        </div>
+        <div class="cont" style="display:none;position: absolute; right: 100px;">
+          <ul class="sublist clearfix">
+            <li>
+              <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity" title="全部活动" target="_blank">全部活动</a>
+            </li>
+            <li>
+              <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=246" title="CIO直播" target="_blank">CIO直播间</a>
+            </li>
+            <li>
+              <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=245" title="CIO智行社" target="_blank">CIO智行社</a>
+            </li>
+            
+            <li>
+              <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=112" title="信息化大会" target="_blank">智能大会</a>
+            </li>
+            <li>
+              <a href="/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=245&amp;activityType=made" title="定制活动" target="_blank">定制活动</a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+    <i class="glyphicon glyphicon-menu-hamburger m-icon-nav click_more_nav"></i>
+
+      <li class="navto-search navto_search_model">
+
+          <a href="javascript:;" class="search-show">
+
+          <i class="glyphicon glyphicon-search"></i>
+
+          </a>
+
+      </li>
+
+	  <li class="wp-service wp-fav-nav pcdisplay_none mobile_userinfo">
+
+			<span class="service-in">
+
+				<a href="#" class="current_username"></a>
+
+				<i class="ico-dis"></i>
+
+			</span>
+
+			<div class="top-nav-dis service-infor fav-nav-drop">
+
+				<i class="ico-arw-bodder"></i>
+
+				<p class="top-nav-list">
+
+					<span>
+
+						<a href="https://www.enicn.com/index.php?m=accounts&amp;c=index">我的空间</a>
+
+					</span>
+
+					<span>
+
+						<a href="https://www.enicn.com/index.php?m=accounts&amp;c=index">查看蚁鼻</a>
+
+					</span>
+
+					<span>
+
+						<a href="https://www.enicn.com/index.php?m=member&amp;c=index&amp;a=logout">退出登录</a>
+
+					</span>
+
+				</p>
+
+			</div>
+
+		</li>
+
+	  <!--
+
+      <li class="navto-search  mobile_user mobile_loginout">
+
+          <a href="https://www.enicn.com/index.php?m=member&c=index&a=logout" class="search-show">
+
+          <i class="glyphicon glyphicon-off"></i>
+
+          </a>
+
+      </li>
+
+	  
+
+      <li class="navto-search mobile_user mobile_usercenter">
+
+          <a href="https://www.enicn.com/index.php?m=accounts&c=index" class="search-show">
+
+          <i class="glyphicon glyphicon-user"></i>
+
+          </a>
+
+      </li>-->
+
+      <!--<li class="navto-search  mobile_index">
+
+          <a href="./" class="search-show">首页</a>
+
+      </li>-->
+
+	  <!--横向导航-->
+    
+
+
+  <section class="info_nav display  mobile_displayblock">
+
+      <ul class="flex-layout category-head" id="category-head">
+
+        <li role="presentation"><a href="https://www.enicn.com/">首页</a></li>
+
+        <li role="presentation"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=eshow">一手</a></li>
+
+        <li role="presentation"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=eproindex">E-PRO</a></li>
+
+        <li role="presentation"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=newistudy">I学吧</a></li>
+
+        <li role="presentation"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity">活动</a></li>
+
+        <li role="presentation"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=speciallist&amp;type=1">专题</a></li>
+
+        <!--<li role="presentation" ><a href="https://www.enicn.com/index.php?m=content&c=index&a=mylevel">会员指南</a></li>-->
+
+        <li role="presentation"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=jifen">奖学金</a></li>
+
+		<div class="clear"></div>
+
+	  </ul>
+
+	  <i class="glyphicon glyphicon-plus m-icon-nav_more click_more_nav"></i>
+
+    </section>
+
+  </div>
+
+  <!-- mobile搜索框 -->
+
+  <div class="search-wrap">
+
+    <div class="search-input-box">
+
+        <form action="https://www.enicn.com/index.php" method="get" target="_blank">
+
+            <input type="hidden" name="m" value="content">
+
+            <input type="hidden" name="c" value="index">
+
+            <input type="hidden" name="a" value="infolist2021">
+
+            <input type="hidden" name="typeid" value="1" id="typeid">
+
+            <input type="hidden" name="siteid" value="1" id="siteid">
+
+            <input type="hidden" name="type" value="keyword" id="type">
+
+            <button class="input-sm-search" onclick="return search_box()">
+
+            <i class="icon icon-sm-search glyphicon glyphicon-search"></i>
+
+            </button>
+
+            <input type="search" id="top-search" class="search-input" name="key" placeholder="输入关键词">
+
+            <a class="close-box js-search-cancel">取消</a>
+
+        </form>
+
+    </div>
+
+    <div class="search-act search-history-act">
+
+        搜索历史
+
+    </div>
+
+    <ul class="search-ul search-history">
+
+        <li><a href="/search.html?s=数码">数码</a></li>
+
+        <li><a href="/search.html?s=互联网">互联网</a></li>
+
+        <li><a href="/search.html?s=数码">数码</a></li>
+
+        <li><a href="/search.html?s=数互联网码">互联网</a></li>
+
+    </ul>
+
+    <div class="search-act search-hot">
+
+        热搜词
+
+    </div>
+
+    <ul class="search-ul search-hot">
+
+        
+            
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%95%B0%E5%AD%97%E5%8C%96" target="_blank">数字化</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E5%A4%A7%E6%95%B0%E6%8D%AE" target="_blank">大数据</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" target="_blank">人工智能</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BA%92%E8%81%94%E7%BD%91" target="_blank">互联网</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0" target="_blank">智能制造</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B" target="_blank">数字化转型</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=5G" target="_blank">5G</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E5%88%B6%E9%80%A0%E4%B8%9A" target="_blank">制造业</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91" target="_blank">工业互联网</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BF%A1%E6%81%AF%E5%8C%96" target="_blank">信息化</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E7%89%A9%E8%81%94%E7%BD%91" target="_blank">物联网</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%99%BA%E8%83%BD%E5%8C%96" target="_blank">智能化</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BA%91%E8%AE%A1%E7%AE%97" target="_blank">云计算</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=AI" target="_blank">AI</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BA%92%E8%81%94%E7%BD%91%2B" target="_blank">互联网+</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=CIO" target="_blank">CIO</a></li>
+
+              
+            
+              
+              <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82" target="_blank">智慧城市</a></li>
+
+              
+            
+          
+          
+            
+            <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=区块链" target="_blank">区块链</a>
+
+            </li>
+
+            
+          
+
+
+
+
+    </ul>
+
+</div>
+
+
+
+<!-- mobile导航开始 -->
+
+<div class="user-wrap">
+
+	 <ul class="navbar-nav-ul">
+
+       <!--  <li>
+
+            <a class="js-open-app js-hmt-detection" data-detection="一手" href="https://www.enicn.com/index.php?m=content&c=index&a=eshow">一手</a>
+
+        </li> -->
+
+        <!-- <li> -->
+
+            <!-- <div class="nums-nav nums-nav-active" style="display: block;"></div> -->
+
+            <!-- <a class="js-hide-num-active" href="https://www.enicn.com/index.php?m=content&c=index&a=eproindex">E-PRO</a> -->
+
+        <!-- </li> -->
+
+        <!-- <li><a href="https://www.enicn.com/index.php?m=content&c=index&a=newistudy">I学吧</a></li>
+
+        <li><a href="https://www.enicn.com/index.php?m=content&c=index&a=mylevel">会员指南</a></li>
+
+        <li><a href="https://www.enicn.com/index.php?m=content&c=index&a=jifen">奖学金</a></li> -->
+
+        <!-- <li><a href="https://www.enicn.com/index.php?m=content&c=index&a=interviewlist">访谈</a></li> -->
+
+        <!-- <li><a href="https://www.enicn.com/index.php?m=content&c=index&a=speciallist&type=1">专题</a></li> -->
+
+        <!-- <li><a href="https://www.enicn.com/index.php?m=content&c=index&a=infolist2021&type=news">资讯</a></li> -->
+
+        <!-- <li><a href="/">首页</a></li> -->
+
+    </ul>
+
+	 <div class="placeholder-line"></div>
+
+	 <div class="information">
+
+        <a class="active_zg" href="javascript:;">原创</a>
+
+    </div>
+
+    <ul class="subclass-ul">
+
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=videolist&amp;type=1" target="_blank" class="transition">CIO说</a></li>
+
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=videolist&amp;type=2" target="_blank" class="transition">e领袖</a></li>
+
+      <li><a href="https://www.enicn.com/index.php?index.php?m=content&amp;c=index&amp;a=speciallist&amp;type=1" target="_blank" class="transition">专题</a></li>
+
+    </ul>
+
+	 <div class="information">
+
+        <a class="active_zg" href="javascript:;">活动</a>
+
+    </div>
+
+    <ul class="subclass-ul">
+
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity" target="_blank" class="transition">全部活动</a></li>
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=246" target="_blank" class="transition">CIO直播间</a></li>
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=245" target="_blank" class="transition">CIO知行社</a></li>
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=112" target="_blank" class="transition">智能大会</a></li>
+      <li><a href="/index.php?m=content&amp;c=index&amp;a=makeact" target="_blank" class="transition">定制活动</a></li>
+
+    </ul>
+
+
+
+    <div class="information">
+
+        <a class="active_zg" href="javascript:;">产业创新</a>
+
+    </div>
+
+    <ul class="subclass-ul">
+
+       <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=3&amp;keywords=汽车及零部件" target="_blank" class="transition">汽车及零部件</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=1&amp;keywords=集成电路" target="_blank" class="transition">集成电路</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=5&amp;keywords=生物制药" target="_blank" class="transition">生物制药</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=6&amp;keywords=快速消费品" target="_blank" class="transition">快速消费品</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=12&amp;keywords=新能源" target="_blank" class="transition">新能源</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=8&amp;keywords=泛家居" target="_blank" class="transition">泛家居</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=4&amp;keywords=军工" target="_blank" class="transition">军工</a></li>                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=1&amp;keywords=机械/装备行业" target="_blank" class="current transition">机械/装备行业</a></li>
+
+    </ul>
+
+	 <div class="information">
+
+        <a class="active_zg" href="javascript:;">转型理念</a>
+
+    </div>
+
+    <ul class="subclass-ul">
+
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=artticlelist&amp;type=0" target="_blank" class="transition">数字化</a></li>
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=artticlelist&amp;type=0" target="_blank" class="transition">智能化</a></li>
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=artticlelist&amp;type=0" target="_blank" class="transition">两化融合</a></li>
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">管理软件</a></li>-->
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=artticlelist&amp;type=0" target="_blank" class="transition">互联网+</a></li>
+
+    </ul>
+
+    <div class="information">
+
+        <a class="active_zg" href="javascript:;">ENI专访</a>
+
+    </div>
+
+    <ul class="subclass-ul">
+
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=interviewlist&amp;key=CIO" target="_blank" class="transition">CIO说</a></li>
+      <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=interviewlist&amp;key=e%E9%A2%86%E8%A2%96" target="_blank" class="transition">e领袖</a></li>
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">工业互联网</a></li>-->
+
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">人工智能</a></li>-->
+
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">大数据</a></li>-->
+
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">物联网</a></li>-->
+
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">云计算</a></li>-->
+
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">应用软件</a></li>-->
+
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">安全</a></li>-->
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">区块链</a></li>-->
+      <!--<li><a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" target="_blank" class="transition">集成电路</a></li>-->
+
+    </ul>
+
+
+
+
+
+
+
+
+
+            <div class="join-footer-box bgW">
+
+            <a href="/vip/member">
+
+                <i class="icon2 icon2-join"></i>加入会员，解锁专属内容
+
+                <i class="icon2 icon2-right-arrow2 full-right"></i>
+
+            </a>
+
+        </div>
+
+        <div class="placeholder-line"></div>
+
+    <div class="user-face-wrap">
+
+      <div class="text-center">
+
+          <div class="moblile_button">
+
+          <!--<a class="login-link c3" href="https://www.enicn.com/index.php?m=member&c=index&a=login">登录</a>->
+
+          <!--<a class="login-link b1" href="https://www.enicn.com/index.php?m=member&c=index&a=register&siteid=1">极速注册</a>-->
+
+			  <a class="login-link c3" href="https://www.enicn.com/index.php?m=member&amp;c=index&amp;a=mobile_login">登录</a>
+
+			  <a class="login-link b1" href="https://www.enicn.com/index.php?m=member&amp;c=index&amp;a=register2020new&amp;siteid=1">极速注册</a>
+
+          </div>
+
+          <div class="moblile_userbutton">
+
+          <a class="login-link c3" href="https://www.enicn.com/index.php?m=member&amp;c=index&amp;a=logout">退出</a>
+
+          <a class="login-link b1" href="https://www.enicn.com/index.php?m=accounts&amp;c=index">会员中心</a>
+
+          </div>
+
+      </div>
+
+      </div>
+
+</div>
+
+
+ <link href="/statics/static/css/web2017/cont.css" type="text/css" rel="stylesheet">
+
+<div class="container pr0" id="main">
+
+    <div class="col-md-9 p0 pr15 mobile_pl15">
+
+        <!-- <div class="mt15 min_module">
+
+        <div class="eshow_taglist">
+
+          <ul class="lileft">
+
+            <li><span class="l pointer">访谈</span></li>
+
+            <div class="clear"></div>
+
+          </ul>
+
+        </div>
+
+        </div> -->
+
+        <!--左边开始-->
+
+        <div class="columnlist_con mt20 mr50 pr20  mt25 mobile_right0" style="display: block;">
+
+   <div class="cont-tit"><span>当前位置：<a href="/">首页</a> &gt;文章发布 &gt; 正文</span></div>
+
+
+
+   <div class="conts">
+
+    <div class="wz-tit">人工智能（AI）在零售行业的实践应用和展望</div>
+
+    <div class="wz-sec"></div>
+
+
+
+	<div class="wz-at">
+
+	  <span>来源：智慧零售与餐饮&nbsp;&nbsp;作者：
+
+	  	
+      佚名 
+
+	  
+       
+
+	  
+</span><span>
+
+      
+
+
+      2024-06-17 15:11:12
+      
+      </span>
+
+	</div>
+
+	<div class="wz-fontsize">
+
+	 <div id="big"></div>
+
+	 <div id="small"></div>
+
+	</div>
+
+		<div class="wz-text">随着技术的不断进步，零售行业正经历着由人工智能(AI)引领的转型浪潮。人工智能(AI)的应用前景广阔，以多种创新方式重塑行业的运作模式。通过全方位提升购物体验，优化运营效率，推动零售业迈向智能化、个性化和自动化的未来，推动整个行业的持续增长和创新发展。</div>
+    <style>
+      .wz-zw img{
+        max-width: 100%;
+        height: auto;
+      }
+    </style>
+	<div class="wz-zw">
+
+	  <div class="linguo"><script language="javascript" src="https://www.enicn.com/index.php?m=poster&amp;c=index&amp;a=show_poster&amp;id=14"></script></div>
+
+	 
+	 
+
+	                      
+
+	  
+			
+	  
+			
+	  
+			
+	  
+			
+	  
+			
+	  
+			
+	  
+			
+	  
+			
+	  
+	  
+	  
+
+				<p>随着技术的不断进步，零售行业正经历着由<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>(AI)引领的转型浪潮。<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>(AI)的应用前景广阔，以多种创新方式重塑行业的运作模式。通过全方位提升购物体验，优化运营效率，推动零售业迈向智能化、个性化和自动化的未来，推动整个行业的持续增长和创新发展。</p>
+<p><strong>本文将探讨<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>（AI）在零售行业的实践应用、成功案例、未来展望及面临的挑战。</strong></p>
+<p><strong>01&nbsp;&nbsp;</strong><strong><a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>（AI）在零售行业的应用方向</strong></p>
+<p><a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>AI可应用在从研发、生产、管理到市场营销、销售的生命周期各环节。</p>
+<p>根据研发、市场营销和销售流程中的内部自动化水平以及面向消费者界面的自动化程度高低，可分为<strong>四种运营模型</strong>：</p>
+<p><strong>全自动化</strong>：产品生产销售全流程均受数据驱动，并享有产品与营销的高度个性化水平。</p>
+<p><strong>用户驱动</strong>：企业内部尚未广泛使用<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E6%95%B0%E5%AD%97%E5%8C%96" style="color:#57A306" target="_blank">数字化</a>操作，但强调多渠道与个性化的客户互动。</p>
+<p><strong>提效增益</strong>：企业内部业务流程自动化程度高，但较少强调与顾客/用户的互动。</p>
+<p><strong>传统依赖</strong>：主体业务较为依赖手工工序，其影响力主要依托传统零售渠道的深耕与运作。</p>
+<p><strong>企业追求自动化水平提升的同时，优化客户体验同样至关重要，两者需共同推进。</strong><a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>AI可以从用户购物体验、平台支持、供应链订单管理等方面全链路提升零售企业的运营管理，也能为顾客提供更加丰富、便捷和个性化的购物体验。企业从成本导向转变为客户/用户体验导向的过程中可达成更佳的投资回报率。</p>
+<p><strong>1、提升顾客购物体验</strong></p>
+<p>对话式AI技术能够模拟并增强实体店内的购物体验。顾客可以利用AI聊天机器人预订商品、查询库存状况、了解店铺信息，进行个性化预约。对话式AI技术为顾客提供了随时待命的个人购物助手。</p>
+<p><strong>2、简化客户反馈分析，告别人工筛选大量客户反馈的时代</strong></p>
+<p>AI能够处理并学习来自不同数据源的信息，包括社交媒体、评论、调查和客户服务互动。零售业高管现在可以轻松获取关于客户需求和痛点的深入洞察，为产品、服务和客户体验的战略性改进提供数据支持。</p>
+<p><strong>3、实时订单追踪</strong></p>
+<p>对话式AI聊天机器人与订单管理系统整合时，顾客可以实时接收到关于订单状态和配送时间的更新。这种透明度极大提升了客户体验，并增强了顾客对零售商服务的信任，对话式AI让顾客随时掌握最新动态。</p>
+<p><strong>4、个性化购物协助</strong></p>
+<p>AI通过分析客户的偏好、购买历史和可用数据，提供个性化的购物协助，不仅改变购物体验，提高客户满意度，还通过精准的产品推荐和服装建议等推动销售增长。</p>
+<p><strong>5、快速获取产品信息</strong></p>
+<p>对话式AI使顾客能够通过对话界面快速查询产品的详细信息。AI聊天机器人能够从零售商店的数据库或产品目录中检索信息，帮助顾客做出更明智的购买决策。</p>
+<p><strong>6、全天候可用性</strong></p>
+<p>借助对话式AI的全天候24/7可用性，客户可以立即获得答案，这不仅提升了客户体验，还有可能将夜间的查询转化为销售。持续的支持确保了客户满意度和业务的持续增长，超越了传统的营业时间限制。</p>
+<p><strong>02&nbsp;&nbsp;</strong><strong>AI大模型：在零售企业中的主要应用</strong></p>
+<p><strong>1、内部：推进全面智能化改革</strong></p>
+<p>企业通过使用AI大模型，推进企业内部的全面智能化改革。这不仅需要模型本身，更需要全栈的生态能力作为技术支撑。需要强大的插件生态和底层能力。既提升AI模型的性能，也为企业的长期发展提供了持续的动力。</p>
+<p><strong>以蒙牛的全面智能化改革为例，分为3个层面：</strong></p>
+<p>(1)打造技术中台(AI中台)</p>
+<p>作为支撑整个智能化革新的基础设施，在模型的调度层到模型相应的精调和适配能力。</p>
+<p>(2)构建智能调度系统(企业大脑)</p>
+<p>智能调度系统能够对企业内部的API进行高效管理。通过能力调度层，蒙牛能够将原有的<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E6%95%B0%E5%AD%97%E5%8C%96" style="color:#57A306" target="_blank">数字化</a>能力整合并优化，从而提升整体的运营效率。</p>
+<p>(3)搭建企业知识“银行”</p>
+<p>在知识银行，蒙牛将所有的结构化和非结构化数据进行了沉淀，形成了一个AI友好的知识库。这不仅为蒙牛的AI模型提供了丰富的学习材料，也为未来的创新和发展奠定了坚实的基础。</p>
+<p><strong>2、内部：替代大量重复劳动、打造超级个体</strong></p>
+<p>消费行业尤其是餐饮业，长期以来面临着人力密集型的挑战，大模型的应用场景也由此展开。一类是替代大量重复的劳动力所做的体力工作;另一类则是打造“以一挡百”的超级个体。</p>
+<p>(1)星巴克通过<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>AI替代大量重复的劳动力所做的体力工作。</p>
+<p>星巴克应用<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>技术，实现盘点订单、人员安排和供应链物流的自动化。帮助咖啡师减少了大部分机械重复的手工劳动，有更多的时间和精力来联结顾客，极大提升了公司业绩。</p>
+<p>(2)蒙牛通过生成式AI提高效率，在内部打造“超级员工”。</p>
+<p>蒙牛有多个广泛应用的AI助手。例如，广告投放前的搜索引擎优化，蒙牛做了AI SEO专家。在AI营养师场景中，一名运维人员可以通过AI服务300万终端用户，大大提升了单个员工的工作效率。生成式AI之前，为众多消费者提供“营养师”需要大量的人力成本，而大模型在节约成本的前提下保证了服务质量。</p>
+<p align="center"><img align="" alt="\" border="0" src="https://www.enicn.com/uploadfile/2024/0617/20240617033105536.jpg" width="612"></p>
+<p><strong>3、外部：服务消费者</strong></p>
+<p>在消费行业中，企业的难点之一是与海量的消费者建立联系，满足其千差万别的需求。通过深度学习，AI能够理解每位消费者的偏好和行为模式，从而提供定制化的推荐和服务。<strong>存量时代，客户经营呈现出了精细化、场景化、私域化、一体化、智能化五大特征。</strong></p>
+<p><strong>营销全链路的客户转化问题可归纳为三个：营销精准性问题、营销效率性问题、营销最适化问题</strong>，可以分成5步解决问题：</p>
+<p>(1)数据开发治理</p>
+<p>解决不同平台入口和营销渠道数据的全量、及时、准确的采集与整合，打破数据孤岛。</p>
+<p>(2)客户画像构建</p>
+<p>及时、准确绘制高精度营销专属客户画像数据标签，为客户经营分析和客户需求洞察和奠定数据基础。</p>
+<p>(3)AI智能客户洞悉</p>
+<p>支持营销策划人员通过自然语言交互方式，快速定位客户经营异常原因，定位造成经营异常的目标客群特征画像。智能客户洞悉工具、应用大模型增强分析技术，自助分析并定位业务问题，实现营销分析与客户洞察效率提升。</p>
+<p>(4)AI智能客户筛选</p>
+<p>以客户营销场景为出发点，构建智能营销数据挖掘模型体系，从海量数据中识别客户潜在价值、预测客户的潜在产品需求。自动化建模工具、应用机器学习/深度学习算法预测，自动化预测客户潜在需求，实现营销的名单精准性提升。</p>
+<p>(5)AI智能自动化营销</p>
+<p>支持营销策划人员从定义的业务目标出发，快速筛选营销活动目标客群，经过营销Offer配置、选择联系渠道、分析营销活动结果，对营销活动的方案进行调整。</p>
+<p>营销自动化工具应用大模型AIGC技术自动产生营销内容，营销优化策略，并实现全流程营销闭环自动化，助力营销资源最适化与营销效率提升。</p>
+<p><strong>应用案例1：蒙牛借助“AI营养师”，提供个性化和增值的服务</strong></p>
+<p>2023年8月，蒙牛推出了“AI营养师”服务，这一创新举措旨在为消费者提供更加个性化和增值的服务体验。</p>
+<p>蒙牛在产品包装上增加了二维码。当消费者买了产品后，扫码都可以带回去一个定制化的 AI 营养师。这个营养师了解消费者、了解消费者家人的需求，可以定制化需求，管理各种营养跟健康的场景。这种一对一的服务模式不仅增强了消费者的购买体验，还帮助他们更好地了解和管理自己及家人的营养状况。</p>
+<p>通过AI营养师，蒙牛成功地将传统的产品销售转变为提供综合营养解决方案的服务模式。</p>
+<p>这种模式的转变同样帮助蒙牛开辟了新的收入渠道，并加强了与消费者之间的联系。这种服务导向的模式可能会带来新的收入来源，如增值服务、定制化产品或高级会员计划。</p>
+<p><strong>应用案例2：零售餐饮企业利用AI，复购率提升20%</strong></p>
+<p>西北菜连锁餐饮集团的AI应用为例进行了分享，该餐饮集团目前在全国50多个城市拥有数百家门店和上万名员工，销售渠道中门店经营占95%，京东、淘宝旗舰店、抖音、小程序商城等线上渠道占5%。该餐饮集团于2019年推出第一款特色菜产品开启了餐饮零售探索之路，规模和业绩在迅速增长了三年后，2023年业绩出现严重下滑。</p>
+<p>业绩下滑原因和制定对应的提升业绩营销策略是企业管理者亟需解决的问题。该集团先是采用了传统的BI报表分析工具，经过两周分析，得出来的结论仅为2023总体销售趋势下滑严重，各渠道的销售金额均出现大幅的下降，原爆品销量下滑严重。下滑的具体原因仍未得知。</p>
+<p>应用AI大模型智能决策平台，营销人员仅2天就分析出了导致业绩下滑的根本原因。仅1个季度即实现商家线上渠道复购率提升20%，GMV提升10%，彻底扭转了业绩下滑趋势。</p>
+<p><strong>应用案例3：户外服装品牌利用AI营销年营收提升12%</strong></p>
+<p>某户外服装品牌，一直以来主要依赖传统线下门店和线上商城获客，2020年其将会员从线下转到线上。从公共领域到私人领域的过程中，发现消费者的复购率相比同行数据明显偏低，整体收入不及预期。如何持续提高会员的活跃度和复购率，挖掘会员潜在需求，并提升营销效率，成为该企业的难点和痛点。</p>
+<p>通过使用AI大模型，其营销策划人员实现了从定义业务目标出发，快速筛选营销活动目标客群，不断实施及优化营销活动方案，并应用大模型AIGC技术自动产生营销内容，营销优化策略，实现了全流程营销闭环自动化。最终该企业实现了年营收提升12%，复购率提升19%。</p>
+<p><strong>03&nbsp;&nbsp;</strong><strong>生成式AI（AIGC）：在零售业中的主要应用</strong></p>
+<p>生成式AI(AIGC)通过提高生产效率、推动创新能力和改变竞争格局三大方式，有望解锁万亿级美元价值，也是当前企业最重要的赛道之一。</p>
+<p>到2030年前零售和消费品行业，生成式AI将为零售和消费品行业创造4000亿至6600亿美元的价值，价值潜力占行业总收入的1.2%至2.0%。</p>
+<p><strong>1、生成式AI的具体应用场景</strong></p>
+<p>(1)客户支持</p>
+<p>自动化零售商通过整合生成式AI驱动的聊天机器人和虚拟助理，能够简化客户服务流程，实现自动化的客户支持任务，如自动回答常见问题，从而释放客户服务代表去处理更复杂和创造性的任务。</p>
+<p>(2)在线购物体验增强</p>
+<p>对话式AI能够模拟实体店内的购物体验，通过零售聊天机器人和虚拟助理，客户可以在线预订产品、查询库存、了解店铺信息，甚至从名人照片中识别产品，从而在数字环境中重现实体店铺的便利性。</p>
+<p><strong>案例展示：丝芙兰</strong></p>
+<p>丝芙兰利用对话式聊天机器人为客户提供了创新的购物体验，顾客能轻松预订产品并到店提货，实时查询库存，了解店铺运营时间和退货政策，甚至识别照片中的产品。此外，顾客还能通过机器人预约到店服务，享受个性化的美容体验。这一技术的应用不仅提高了顾客的购物便利性，也增强了品牌的服务水平和顾客忠诚度。</p>
+<p>(3)订单追踪与管理结合</p>
+<p>现有的订单管理系统，AI聊天机器人和虚拟助理能够提供实时的订单状态更新、预计交货时间等信息，增强客户对零售商服务的信任感。</p>
+<p>(4)个性化购物体验</p>
+<p>AI聊天机器人和虚拟助理能够根据客户的偏好、购买历史和其他数据提供个性化的购物协助，包括产品推荐、着装建议、尺寸选择和礼物推荐等，以提升客户满意度和销售额。</p>
+<p><strong>案例展示：H&amp;M和沃尔玛</strong></p>
+<p>H&amp;M 通过引入充当虚拟造型师的<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>聊天机器人，引领零售创新。他们的聊天机器人会引导用户参与风格测验，根据他们的回答来策划个性化的服装推荐。聊天机器人还会根据用户的喜好进行调整，如果用户不喜欢建议的选项，则提供替代服装;如果用户认可某套服装，则建议互补的服装和配饰。凭借其卓越的智能，H&amp;M 的聊天机器人功能重新定义了在线购物，使其更加个性化、互动性更强且令人愉悦。</p>
+<p>沃尔玛作为全球最大的零售商之一，沃尔玛采用对话式<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>来增强客户的店内购物体验。随着语音激活智能虚拟代理“沃尔玛语音订单”的推出，消费者可以轻松地将商品添加到购物车、重新订购产品，甚至只需使用语音命令即可接收个性化推荐。通过利用对话式<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>的力量，沃尔玛简化了购物流程，提高了便利性，并增强了其在电子商务领域的竞争优势。</p>
+<p align="center"><img align="" alt="图片" border="0" src="https://www.enicn.com/uploadfile/2024/0617/20240617033124798.jpg" width="650"></p>
+<p style="text-align: center;"><span style="color:#a9a9a9;">沃尔玛的生成式AI购物助手测试页面</span></p>
+<p>(5)个性化促销活动</p>
+<p>利用客户数据分析，对话式AI能够为每位客户定制个性化的促销和折扣，通过提供有针对性的优惠和激励措施，提高客户参与度和忠诚度。</p>
+<p><strong>案例展示：屈臣氏</strong></p>
+<p>屈臣氏知名连锁零售商屈臣氏在自己的私域小程序内引入了AI聊天服务来实现精准营销。当用户描述自己的消费需求或者痛点之后，AI可以为用户一对一推送满足其需要的产品。这既提高了用户的购物效率，还有助于品牌实现个性化促销。</p>
+<p>(6)产品信息获取</p>
+<p>AI驱动的聊天机器人和虚拟助理能够快速访问并提供产品详细信息，帮助客户做出更明智的购买决策，增强购物体验。</p>
+<p>(7)支付与退款处理</p>
+<p>对话式AI还能够协助处理支付和退款事务，为客户提供便捷的交易管理方式，同时确保交易的<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E5%AE%89%E5%85%A8" style="color:#57A306" target="_blank">安全</a>性和用户友好性。</p>
+<p><strong>2、生成式AI的有效应用路径</strong></p>
+<p>零售企业要想在一些业务场景中引入生成式AI，必须进行科学设计和引导，以下是我们对于企业有效设计生成式AI的路径建议：</p>
+<p>(1)确认和引导</p>
+<p>确保对话中的每次交互都能确认用户所说内容，能通过明确理解并给予反馈来引导对话继续。这种策略不仅可以增强用户的信心，也能确保对话顺利进行。</p>
+<p>(2)战略性脚本编写</p>
+<p>并非所有客户交互都需要自动化，也不是所有交互都应升级至人工客服代理。零售企业可以根据查询的复杂性和性质，设计对话路径，战略性地引导用户至自助服务解决方案或实时支持，以优化资源和提升效率。</p>
+<p>(3)积极且简洁的语言</p>
+<p>使用积极、简洁的语言进行沟通，以主动语态吸引用户，使说明易于理解和遵循。这种沟通方式有助于减少用户的挫败感和困惑。</p>
+<p>(4)设计上的同理心</p>
+<p>零售企业制定的任何回应都必须体现出对用户情绪的理解和关怀。这不仅仅是解决问题，更是关注用户在整个交互过程中的感受。这可能包括使用反映用户情绪的语言，或在适当时提供安慰和支持等。</p>
+<p>(5)持续的测试与优化</p>
+<p>定期对AI聊天机器人(或其他产品形态)进行测试和优化，利用设计模式和用户反馈来确保对话的相关性和有效性。这种持续的改进过程有助于维持高水平的互动质量。</p>
+<p><strong>3、生成式AI重塑购物体验以提升销售额和投资回报率</strong></p>
+<p>(1)AI购物助手</p>
+<p>虚拟购物助手的兴起，正是对话式AI工具的应用。客户通过输入或说出想要的内容、分享照片，Ai就能帮助客户找到想要的东西。特别是在大型电子商务网站上，使得导航变得更加容易。</p>
+<p>家乐福推出了一款基于ChatGPT的智能辅助聊天机器人Hopla。根据预算、饮食偏好和菜单想法提供实时产品建议。Hopla充当智能礼宾，提供产品、服务和商店信息的及时可靠支持。</p>
+<p>(2)个性化客户旅程</p>
+<p>生成式AI能够帮助企业提供个性化的客户旅程。例如，该技术可以通过分析每位购物者的个人购买习惯和偏好，提供个性化产品推荐，创建定制促销活动和优惠。</p>
+<p>假设客户经常购买可持续产品，AI可能会在下次访问时生成与环保商品相关的特别折扣或捆绑优惠。通过AI,以上操作自动且规模化地完成。生成式AI具有从客户互动中适应和学习的能力。这使得个性化过程随着时间的推移得以完善，持续改进确保营销内容保持相关性和影响力。</p>
+<p>生成式AI可以用来开发高度个性化的忠诚计划，这些计划会根据每个会员与品牌的互动而不断发展，显著提高营销投资回报率。会员可能会得到个性化挑战、根据其偏好量身定制的奖励，或者专门策划的独特体验，而不是只通用的积分系统。</p>
+<p>亚马逊的推荐引擎利用AI驱动的推荐，推动销售并提高用户满意度。生成式AI还可以预测客户未来的需求和偏好。所有这些功能都作为增强购物体验的推动力。</p>
+<p>(3)个性化产品设计帮助客户设计独特、个性化的产品。</p>
+<p>时尚科技专家Space Runners开发了一款生成式AI工具，让人们可以通过简单的文本提示设计自己独特的服装。这款名为Ablo的AI设计工具让个人有效地成为自己的时尚品牌，对于品牌来说，Ablo为他们与客户之间提供了令人惊叹的共创机会。</p>
+<p>(4)视觉搜索与虚拟试穿</p>
+<p>生成式AI创新零售行业，提供视觉搜索和虚拟试穿体验。由AI驱动的系统使客户能够在虚拟环境中预览服装和化妆品等产品。使购物体验更加互动和便利。</p>
+<p align="center"><img align="" alt="图片" border="0" src="https://www.enicn.com/uploadfile/2024/0617/20240617033207412.png" width="650"></p>
+<p>丝芙兰(Sephora)通过Sephora Virtual Artist应用，消费者使用面部识别技术尝试各种化妆品产品到目前为止，虚拟试穿功能一直相当基础。例如，从一个小列表中选择身体形状，看看特定服装在客户身上会是什么样子。</p>
+<p>谷歌把视觉搜索与虚拟试穿功能带到了新高度。谷歌推出了使用生成式AI展示服装的虚拟试穿技术，可以在“多位真实模特身上展示服装”。生成式AI模型只需一张服装物品的照片，就能准确展示它在各种真实模特身上的紧贴、披肩等效果，这些模特的尺码从XXS到4XL，代表不同肤色和种族。该功能适用于Anthropologie和H&amp;M等品牌。</p>
+<p>(5)客户评论摘要</p>
+<p>客户有查看产品评论的需求，结果发现有数百条评论提供了各种意见。亚马逊尝试使用AI生成的评论摘要，由生成式AI能够理解和总结冗长的文本，AI会将顾客评论压缩成一个易于理解的段落，并突出买家的关键术语和情绪。</p>
+<p>(6)元宇宙商店</p>
+<p>生成式AI可以帮助创建沉浸式、互动和个性化的虚拟购物体验。这与元宇宙沉浸式虚拟世界的概念相吻合。</p>
+<p>耐克是元宇宙领域的真正领导者，其在Roblox元宇宙平台上的部分游戏、部分展厅Nikeland。Nikeland包括建筑物、竞技场和游戏，以及一个配有数字产品的虚拟展厅。借助生成式AI技术，使虚拟商店和体验更具响应性。当用户浏览虚拟商店时，AI可以生成个性化的产品展示位置，甚至为用户定制购物历史和偏好的虚拟销售助手。</p>
+<p>(7)实体门店AI化</p>
+<p>生成式AI可以改善实体店的购物体验，根据实时数据变化的响应式商店展示。</p>
+<p>以服装店为例，如果一股冷风正在移动到某个地区，服装店数字窗口展示可能会调整以展示冬季装备，并生成一个实时的雪景背景来吸引人们。将这与个性化客户数据结合起来。</p>
+<p>Coach已经尝试了智能镜技术。为了庆祝Tabby Bag活动的推出，该品牌在其纽约苏豪区店铺安装了一个智能镜。使用该镜子的顾客可以看到自己与包包的不同数字变体，以及其他数字效果，如蝴蝶翅膀，顾客还可以下载自己的图像进行在线分享。Coach品牌受益于用户在社交媒体上分享他们的图像，获得了免费的社交营销。</p>
+<p>(8)改善库存管理和供应链</p>
+<p>生成式AI可以帮助零售商进行供应链管理和库存优化。首先，基于历史销售数据、市场趋势和外部因素预测需求模式。交易商可以主动优化库存水平，避免缺货或库存过剩。实现节省成本，确保产品有足够库存。</p>
+<p>其次，生成式AI技术将库存优化提升到新的水平。需求预测数据使得确定每种产品的理想库存水平成为可能。因此，它可以为最大效率微调供应链。随着特定产品需求的激增，AI动态调整库存水平，交易商可以迅速应对市场动态变化。</p>
+<p>最后，生成式AI技术通过自动化任务(如订单履行、货物跟踪和处理退货)简化物流运营。这种自动化加快了流程，释放了人力资源，提高了客户服务。</p>
+<p><strong>04&nbsp;&nbsp;</strong><strong>未来前景</strong></p>
+<p>未来，企业面临针对创意内容、媒介多元、<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E6%95%B0%E5%AD%97%E5%8C%96" style="color:#57A306" target="_blank">数字化</a>转型和渠道模式改变的主要趋势，同时需进行端到端整合实现通过自动化、高度个性化和动态透明度来提升企业整体运营效率。</p>
+<p>包括：评估AI驱动的端到端自动化机会，以提升面向消费者界面的综合效率;厘清AI所涉及的赋能场景与交叉的业务流程，致力于降低运营全局的复杂性;对标提升技术部署(包含观念转变、人力储备与组织转型)，最大程度实现智能化与自动化。</p>
+<p><strong>1、全面智能化购物体验</strong></p>
+<p>未来，AI技术将在零售业中得到更加广泛和深入的应用。全面智能化的购物体验将涵盖从商品推荐、客户服务到库存管理、供应链优化的各个环节，提升消费者的购物满意度和零售商的运营效率。</p>
+<p><strong>2、无人店铺与自动化</strong></p>
+<p>无人店铺和自动化技术将进一步发展，减少人力成本，提高运营效率。智能货架、自动结算和机器人导购等技术将使购物过程更加便捷和高效。</p>
+<p><strong>3、个性化营销与精准广告</strong></p>
+<p>AI将推动个性化营销和精准广告的发展。通过对用户行为和偏好的深度分析，AI能够提供更加精准和个性化的营销策略，提升广告效果和客户转化率。</p>
+<p><strong>4、可持续发展与绿色零售</strong></p>
+<p>AI技术在供应链优化和库存管理中的应用，将推动零售业的可持续发展。通过减少库存积压和浪费，提高资源利用效率，AI将帮助零售商实现绿色零售和可持续发展目标。</p>
+<p><strong>05&nbsp;&nbsp;</strong><strong>面临的挑战</strong></p>
+<p><strong>1、数据隐私与<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E5%AE%89%E5%85%A8" style="color:#57A306" target="_blank">安全</a></strong></p>
+<p>在个性化推荐和客户行为分析中，大量的用户数据被收集和分析。如何保护用户数据隐私和<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E5%AE%89%E5%85%A8" style="color:#57A306" target="_blank">安全</a>，防止数据泄露和滥用，是AI应用中的重大挑战。</p>
+<p><strong>2、技术成本与普及</strong></p>
+<p>尽管AI技术在零售业中展现了巨大的潜力，但高昂的技术成本和设备费用是普及的主要障碍。如何降低技术成本，让更多零售商受益，是一个亟待解决的问题。</p>
+<p><strong>3、技术适应性与可操作性</strong></p>
+<p>不同零售商的业务模式和需求差异较大，AI技术需要具备较高的适应性和可操作性。如何根据具体的零售环境和需求，优化AI技术和解决方案，是一个重要的技术挑战。</p>
+<p><strong>4、人才与技能</strong></p>
+<p>AI技术的应用需要专业的人才和技能。如何培养和吸引AI领域的人才，提高零售从业人员的技术水平，是推动AI技术在零售业中应用的关键。</p>
+<p><strong>06&nbsp;&nbsp;</strong><strong>结语</strong></p>
+<p>正蓬勃发展的<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>(AI)作为一项突破性技术以惊人的速度改变着消费品与零售行业。激烈的商业竞争要求企业必须不断适应新的技术与变化的市场需求。在零售业中的应用展示了其巨大的技术潜力和广泛的应用前景。从个性化推荐、智能客服到库存管理和智能门店，AI正在全方位提升购物体验和运营效率。</p>
+<p>尽管面临数据隐私、技术成本、技术适应性和人才技能等挑战，AI在零售业中的未来依然充满希望。通过技术创新和制度完善，AI将为零售业带来更多的变革和创新，推动未来购物体验的智能化、个性化和自动化发展。</p>
+<p>企业需要保持敏捷性、做好准备迎接<a href="http://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;typeid=1&amp;siteid=1&amp;type=keyword&amp;serachType=2&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" style="color:#57A306" target="_blank">人工智能</a>驱动的未来浪潮：只有灵活应对技术变革和市场动态，企业才能够在竞争中立于不败之地，并实现持续的创新与增长。</p>
+
+				<!--内容关联投票-->
+
+				
+
+
+			
+            
+
+            <div class="text-center yema dot2">
+
+
+
+  
+    <span class="zy dot2"></span>
+
+  
+  
+    
+
+
+
+
+
+
+  </div>
+
+            
+
+            <div id="pages" class="text-c"></div>
+
+	</div>
+
+	
+
+
+	
+     <div style="padding:15px 25px;text-indent:2em; color:#999;">免责声明：本文系网络转载，版权归原作者所有。本文所用图片、文字如涉及作品版权问题，请联系删除！本文内容为原作者观点，并不代表本网站观点。</div>
+
+     
+
+
+    <span class="bianji">编辑：刘婧</span>
+
+
+
+	<div class="wz-key">关键词：
+
+    
+    
+	<!--<a href="https://www.enicn.com/index.php?m=content&c=tag&a=lists&tag=AI" class="blue">AI</a>&nbsp;-->
+
+	<a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=AI" class="blue 123456" target="_blank">AI</a>&nbsp;
+
+	
+	<!--<a href="https://www.enicn.com/index.php?m=content&c=tag&a=lists&tag=%E6%99%BA%E8%83%BD%E5%8C%96" class="blue">智能化</a>&nbsp;-->
+
+	<a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%99%BA%E8%83%BD%E5%8C%96" class="blue 123456" target="_blank">智能化</a>&nbsp;
+
+	
+	<!--<a href="https://www.enicn.com/index.php?m=content&c=tag&a=lists&tag=%E8%87%AA%E5%8A%A8%E5%8C%96" class="blue">自动化</a>&nbsp;-->
+
+	<a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E8%87%AA%E5%8A%A8%E5%8C%96" class="blue 123456" target="_blank">自动化</a>&nbsp;
+
+	
+	<!--<a href="https://www.enicn.com/index.php?m=content&c=tag&a=lists&tag=%E9%9B%B6%E5%94%AE%E8%A1%8C%E4%B8%9A" class="blue">零售行业</a>&nbsp;-->
+
+	<a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E9%9B%B6%E5%94%AE%E8%A1%8C%E4%B8%9A" class="blue 123456" target="_blank">零售行业</a>&nbsp;
+
+	
+	<!--<a href="https://www.enicn.com/index.php?m=content&c=tag&a=lists&tag=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B" class="blue">AI大模型</a>&nbsp;-->
+
+	<a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B" class="blue 123456" target="_blank">AI大模型</a>&nbsp;
+
+	</div>
+
+
+
+	<div class="wz-con" data-val="AI 智能化 自动化 零售行业 AI大模型">
+
+		<!--  -->
+
+		
+		
+	  <ul class="wzlist" data-wh="  a.keywords like '%AI%' or  a.keywords like '%智能化%' or  a.keywords like '%自动化%' or  a.keywords like '%零售行业%' or a.keywords like '%AI大模型%'">
+
+
+
+		
+	   <li class="keytit">更多相关内容<span></span></li>
+
+	   
+       <li><a href="https://www.enicn.com/Enicn/2024/article_0617/76504.html" target="_blank">人工智能（AI）在零售行业的实践...</a></li>
+
+	   
+       <li><a href="https://www.enicn.com/Enicn/2024/article_0617/76501.html" target="_blank">路透社报告：消费者对AI创建的新...</a></li>
+
+	   
+       <li><a href="https://www.enicn.com/Enicn/2024/article_0617/76500.html" target="_blank">尖端芯片给AI装上“超级引擎”</a></li>
+
+	   
+       <li><a href="https://www.enicn.com/Enicn/2024/article_0617/76497.html" target="_blank">英特尔酷睿Ultra处理器赋能AI技...</a></li>
+
+	   
+       <li><a href="https://www.enicn.com/Enicn/2024/article_0613/76434.html" target="_blank">5G、AI、云计算如何共生共长？</a></li>
+
+	   
+       <li><a href="https://www.enicn.com/Enicn/2024/article_0617/76491.html" target="_blank">IDC：预计到2028年AIPC年出货量...</a></li>
+
+	   
+
+
+	   
+		</ul>
+
+
+
+          
+	<ul class="wzlist">
+
+	   <li class="keytit">频道最新文章</li>
+
+       
+
+
+
+	<li>
+
+      <a href="https://www.enicn.com/Enicn/2024/article_0617/76504.html" target="”_blank”" title="”人工智能（AI）在零售行业的实践应用和展望”">人工智能（AI）在零售行业的实践...</a>
+
+ 		</li>
+
+
+
+
+
+
+	<li>
+
+      <a href="https://www.enicn.com/Enicn/2024/article_0617/76503.html" target="”_blank”" title="”中小型制造企业数字化转型之路：工业软件选型策略”">中小型制造企业数字化转型之路：...</a>
+
+ 		</li>
+
+
+
+
+
+
+	<li>
+
+      <a href="https://www.enicn.com/Enicn/2024/article_0617/76502.html" target="”_blank”" title="”IDC：今年一季度中国可穿戴设备市场出货3367万台同比增长36.2%”">IDC：今年一季度中国可穿戴设备...</a>
+
+ 		</li>
+
+
+
+
+
+
+	<li>
+
+      <a href="https://www.enicn.com/Enicn/2024/article_0617/76501.html" target="”_blank”" title="”路透社报告：消费者对AI创建的新闻内容持疑”">路透社报告：消费者对AI创建的新...</a>
+
+ 		</li>
+
+
+
+
+
+
+	<li>
+
+      <a href="https://www.enicn.com/Enicn/2024/article_0617/76500.html" target="”_blank”" title="”尖端芯片给AI装上“超级引擎””">尖端芯片给AI装上“超级引擎”</a>
+
+ 		</li>
+
+
+
+
+
+
+	<li>
+
+      <a href="https://www.enicn.com/Enicn/2024/article_0617/76499.html" target="”_blank”" title="”中国5月规模以上工业增加值同比5.6%" 前值6.70%”="">中国5月规模以上工业增加值同比5...</a>
+
+ 		</li>
+
+
+
+
+
+
+
+    </ul>
+
+	</div>
+
+
+
+	<div class="tip">
+
+	<!--<a href="javascript:$('#errors').submit();">[错误报告]</a> -->
+
+	<!--<a href="">[推荐]</a> -->
+
+
+
+	 
+	 
+	 <a href="javascript:;"> [已收藏]</a>
+
+	 
+	 
+
+
+	<!--<a href="">[打印]</a>-->
+
+	<a href="javascript:window.opener=null;window.open('','_self');window.close();">[关闭]</a>
+
+	<a href="">[返回顶部]</a>
+
+	</div>
+
+
+
+	<div class="wz-pl  mobile_displaynone">       
+      <iframe src="https://www.enicn.com/index.php?m=comment&amp;c=index&amp;a=init&amp;commentid=content_273-76504-1&amp;iframe=1" width="100%" height="232" id="comment_iframe" frameborder="0" scrolling="no"></iframe>
+
+
+
+        </div>
+
+   </div>
+
+
+
+
+
+</div>
+
+<!--左边结束-->
+
+
+
+
+
+
+
+    </div>
+
+      <div class="row col-md-3 mt25 p0  mobile_left15 mobile_right30 ">
+
+      <div class="search row text-center mt25 search_model">
+
+        <div class="col-xs-2"></div>
+
+         <div class="col-lg-12 col-md-12 col-xs-8">
+
+          <form action="https://www.enicn.com/index.php" method="get" target="_blank">
+
+          <div class="input-group">
+
+            <input type="hidden" name="m" value="content">
+
+            <input type="hidden" name="c" value="index">
+
+            <input type="hidden" name="a" value="infolist">
+
+            <input type="hidden" name="typeid" value="1" id="typeid">
+
+            <input type="hidden" name="siteid" value="1" id="siteid">
+
+            <input type="hidden" name="type" value="keyword" id="siteid">
+
+      <div class="input-group-btn" style="padding-top:2px;">
+
+        <select name="serachType" class="form-control" style="width:70px;padding:3px 10px;border-top-left-radius: 5px;border-bottom-left-radius: 5px;background: #EAEAEA url('/statics/static/images/arrow.jpg') no-repeat 100% 50%;background-size:13px 13px;
+
+        appearance:none;-moz-appearance:none;-webkit-appearance:none;">
+
+        <option value="2">关键词</option>
+
+        <option value="1">全文</option>
+
+        </select>
+
+      </div>
+
+            <input type="text" class="form-control" placeholder="Search for..." name="key" id="q">
+
+            <span class="input-group-btn">
+
+              <button class="btn btn-default glyphicon glyphicon-search" type="submit" id="sub"></button>
+
+            </span>
+
+          </div>
+
+          <div id="errormsg" class="l25"></div>
+
+          </form>
+
+        </div>
+
+      </div>
+
+      <div class="row text-center mt25 search_model_kewords">
+
+        <ul class="lileft hottag mobile_ml50">
+
+          
+            
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%95%B0%E5%AD%97%E5%8C%96" target="_blank">数字化</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E5%A4%A7%E6%95%B0%E6%8D%AE" target="_blank">大数据</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD" target="_blank">人工智能</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BA%92%E8%81%94%E7%BD%91" target="_blank">互联网</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0" target="_blank">智能制造</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B" target="_blank">数字化转型</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=5G" target="_blank">5G</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E5%88%B6%E9%80%A0%E4%B8%9A" target="_blank">制造业</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91" target="_blank">工业互联网</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BF%A1%E6%81%AF%E5%8C%96" target="_blank">信息化</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E7%89%A9%E8%81%94%E7%BD%91" target="_blank">物联网</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%99%BA%E8%83%BD%E5%8C%96" target="_blank">智能化</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BA%91%E8%AE%A1%E7%AE%97" target="_blank">云计算</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=AI" target="_blank">AI</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E4%BA%92%E8%81%94%E7%BD%91%2B" target="_blank">互联网+</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=CIO" target="_blank">CIO</a></li>
+
+              
+            
+              
+              <li class="col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82" target="_blank">智慧城市</a></li>
+
+              
+            
+          
+          
+            
+              <li class=" col-md-3 col-xs-4"><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=keyword&amp;key=区块链" target="_blank">区块链</a></li>
+
+            
+          
+          <div class="clear"></div>
+
+        </ul>
+
+      </div>
+
+      <div class="eshow row text-center mt25">
+
+        <span class="sudi_tag pl15 f16"><a href="/index.php?m=content&amp;c=index&amp;a=eshow" target="_blank">e-show 一手</a></span>
+
+      </div>
+
+      <div class="row eshow_list mt25">
+
+        <ul>
+
+          <li class="mt10">
+
+            <div class="col-md-12 col-sm-12 col-xs-12 mt15">
+                            
+              
+                
+                
+
+              <p class="e-s-color"><a href="https://www.enicn.com/Enicn/2024/article_0612/76418.html" target="_blank"><img src="/statics/static/images/dot-shou.jpg" title="" alt="">&nbsp;&nbsp;谈谈在数据驱动中数据建模的重要性及...</a></p>
+
+              
+                
+                
+
+              <p class="e-s-color"><a href="https://www.enicn.com/Enicn/2024/article_0612/76415.html" target="_blank"><img src="/statics/static/images/dot-shou.jpg" title="" alt="">&nbsp;&nbsp;谈谈利用主数据改进数据分析的重要性</a></p>
+
+              
+                
+                
+
+              <p class="e-s-color"><a href="https://www.enicn.com/Enicn/2024/article_0611/76391.html" target="_blank"><img src="/statics/static/images/dot-shou.jpg" title="" alt="">&nbsp;&nbsp;王爱民：企业自主开发数字化转型装置...</a></p>
+
+              
+                
+                
+
+              <p class="e-s-color"><a href="https://www.enicn.com/Enicn/2024/article_0607/76362.html" target="_blank"><img src="/statics/static/images/dot-shou.jpg" title="" alt="">&nbsp;&nbsp;龙凤堂蒋军：从降本增效到全产业链管控</a></p>
+
+              
+                
+                
+
+              <p class="e-s-color"><a href="https://www.enicn.com/Enicn/2024/article_0605/76361.html" target="_blank"><img src="/statics/static/images/dot-shou.jpg" title="" alt="">&nbsp;&nbsp;龙凤堂蒋军：数字化转型要有“标准化...</a></p>
+
+              
+                
+                
+
+              <p class="e-s-color"><a href="https://www.enicn.com/Enicn/2024/article_0604/76265.html" target="_blank"><img src="/statics/static/images/dot-shou.jpg" title="" alt="">&nbsp;&nbsp;人工智能大模型发展八大趋势与行业应...</a></p>
+
+                          
+            </div>
+
+            <div class="clear"></div>
+
+          </li>
+
+        </ul>
+
+      </div>
+
+
+
+      <div class="row text-center mt25">
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4 auto more_sudi"><a href="/index.php?m=content&amp;c=index&amp;a=eshow" target="_blank">查看更多</a></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+      <div class="row text-center mt25">
+
+      <script language="javascript" src="https://www.enicn.com/index.php?m=poster&amp;c=index&amp;a=show_poster&amp;id=47"></script>
+
+      </div>
+
+
+
+
+
+
+
+
+
+      <div class="activity row text-center mt25">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=activity" target="_blank" class="xl weight8 pr20">活动</a>
+
+        <span class="activitytag">
+
+          <span class="act_current">直播间</span>&nbsp;&nbsp;|
+
+          <span>CIO智行社</span>  
+
+        </span>
+
+      </div>
+
+      <div class="row activity_list " style="display: block;">
+
+        <ul class="">
+
+          
+              
+              
+              
+              
+              <li class="pl5 mt10 mb10">
+
+                <div class="col-md-8 col-sm-8 col-xs-8">
+
+                  <p><span class="weight8 pr10">
+
+                  <a href="https://www.enicn.com/Enicn/2024/in_0521/659.html" target="_blank">数智化赋能企业创新性&amp;敏捷性提升</a></span></p>
+
+                  <p class="f12">
+
+                  <a class="pr5">2024-06-19</a>
+
+                  <a class="pr5">线上</a>
+
+                  <!-- <a  href="JavaScript:;" class="pr5">+<span class="xxl yibier"></span>蚁鼻儿</a> -->
+
+                  <a href="https://www.enicn.com/Enicn/2024/in_0521/659.html" target="_blank"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-4 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2024/in_0521/659.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2024/0521/20240521021043606.jpg" onerror="this.src='/eni_default.jpg'" title="数智化赋能企业创新性&amp;敏捷性提升" alt="数智化赋能企业创新性&amp;敏捷性提升" class="activity_img"></a></div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+              <li class="pl5 mt10 mb10">
+
+                <div class="col-md-8 col-sm-8 col-xs-8">
+
+                  <p><span class="weight8 pr10">
+
+                  <a href="https://www.enicn.com/Enicn/2024/in_0429/655.html" target="_blank">全业务数据驱动&amp;生态链智能协同：汽车产业价值体系重构下的数智化建设</a></span></p>
+
+                  <p class="f12">
+
+                  <a class="pr5">2024-06-13</a>
+
+                  <a class="pr5"></a>
+
+                  <!-- <a  href="JavaScript:;" class="pr5">+<span class="xxl yibier"></span>蚁鼻儿</a> -->
+
+                  <a href="https://www.enicn.com/Enicn/2024/in_0429/655.html" target="_blank"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-4 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2024/in_0429/655.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2024/0429/20240429105636289.jpg" onerror="this.src='/eni_default.jpg'" title="全业务数据驱动&amp;生态链智能协同：汽车产业价值体系重构下的数智化建设" alt="全业务数据驱动&amp;生态链智能协同：汽车产业价值体系重构下的数智化建设" class="activity_img"></a></div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+              <li class="pl5 mt10 mb10">
+
+                <div class="col-md-8 col-sm-8 col-xs-8">
+
+                  <p><span class="weight8 pr10">
+
+                  <a href="https://www.enicn.com/Enicn/2024/in_0529/660.html" target="_blank">“大数据+AI”双驱动：打造企业出海远航强动力</a></span></p>
+
+                  <p class="f12">
+
+                  <a class="pr5">2024-06-05</a>
+
+                  <a class="pr5">线上</a>
+
+                  <!-- <a  href="JavaScript:;" class="pr5">+<span class="xxl yibier"></span>蚁鼻儿</a> -->
+
+                  <a href="https://www.enicn.com/Enicn/2024/in_0529/660.html" target="_blank"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-4 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2024/in_0529/660.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2024/0529/20240529040101220.jpg" onerror="this.src='/eni_default.jpg'" title="“大数据+AI”双驱动：打造企业出海远航强动力" alt="“大数据+AI”双驱动：打造企业出海远航强动力" class="activity_img"></a></div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+            
+
+
+        </ul>
+
+        <div class="row text-center mt25">
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4 auto more_sudi"><a href="/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=246" target="_blank">查看更多</a></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+      </div>
+
+      </div>
+
+      <div class="row activity_list">
+
+        <ul class="">
+
+            
+              
+              
+              
+              
+              <li class="pl5 mt10 mb10">
+
+                <div class="col-md-8 col-sm-8 col-xs-8">
+
+                  <p><span class="weight8 pr10">
+
+                  <a href="https://www.enicn.com/Enicn/2024/cio_0514/657.html" target="_blank"> AI就绪，制造升级 深圳制造业数智化CIO沙龙</a></span></p>
+
+                  <p class="f12">
+
+                  <a class="pr5">2024-06-15</a>
+
+                  <a class="pr5">深圳 </a>
+
+                  <!--<a  href="JavaScript:;" class="pr5">+<span class="xxl yibier"></span>蚁鼻儿</a>-->
+
+                  <a href="https://www.enicn.com/Enicn/2024/cio_0514/657.html" target="_blank"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-4 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2024/cio_0514/657.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2024/0611/20240611091944736.jpg" onerror="this.src='/eni_default.jpg'" title=" AI就绪，制造升级 深圳制造业数智化CIO沙龙" alt=" AI就绪，制造升级 深圳制造业数智化CIO沙龙" class="activity_img"></a></div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+              <li class="pl5 mt10 mb10">
+
+                <div class="col-md-8 col-sm-8 col-xs-8">
+
+                  <p><span class="weight8 pr10">
+
+                  <a href="https://www.enicn.com/Enicn/2024/cio_0510/656.html" target="_blank">向“新”而行 数智化成就制造业新质生产力</a></span></p>
+
+                  <p class="f12">
+
+                  <a class="pr5">2024-06-29</a>
+
+                  <a class="pr5">青岛</a>
+
+                  <!--<a  href="JavaScript:;" class="pr5">+<span class="xxl yibier"></span>蚁鼻儿</a>-->
+
+                  <a href="https://www.enicn.com/Enicn/2024/cio_0510/656.html" target="_blank"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-4 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2024/cio_0510/656.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2024/0603/20240603014242860.jpg" onerror="this.src='/eni_default.jpg'" title="向“新”而行 数智化成就制造业新质生产力" alt="向“新”而行 数智化成就制造业新质生产力" class="activity_img"></a></div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+              <li class="pl5 mt10 mb10">
+
+                <div class="col-md-8 col-sm-8 col-xs-8">
+
+                  <p><span class="weight8 pr10">
+
+                  <a href="https://www.enicn.com/Enicn/2024/cio_0417/654.html" target="_blank">数据驱动 智能转型 “AI+”：打造智慧军工新质生产力</a></span></p>
+
+                  <p class="f12">
+
+                  <a class="pr5">2024-06-29</a>
+
+                  <a class="pr5">西安</a>
+
+                  <!--<a  href="JavaScript:;" class="pr5">+<span class="xxl yibier"></span>蚁鼻儿</a>-->
+
+                  <a href="https://www.enicn.com/Enicn/2024/cio_0417/654.html" target="_blank"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-4 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2024/cio_0417/654.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2024/0612/20240612054348875.jpg" onerror="this.src='/eni_default.jpg'" title="数据驱动 智能转型 “AI+”：打造智慧军工新质生产力" alt="数据驱动 智能转型 “AI+”：打造智慧军工新质生产力" class="activity_img"></a></div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+            
+
+
+        </ul>
+
+        <div class="row text-center mt25">
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4 auto more_sudi"><a href="/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=245" target="_blank">查看更多</a></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+      </div>
+
+      </div>
+
+
+
+      
+
+
+
+
+
+      <div class="row mt25 aixueba text-center">
+
+        <span class="aixueba_tag pl15 f16"><a href="/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=112">智能应用大会</a></span>
+
+      </div>
+
+      <div class="row">
+
+        <ul class="">
+
+          
+              
+               
+              
+             
+
+              
+			  
+              <li class="pl5 mt10 mb10">
+
+                
+
+                <div class="col-md-12 col-sm-12 col-xs-12 p0 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2024/xxhdh_0111/619.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2024/0118/20240118090607682.jpg" onerror="this.src='/eni_default.jpg'" title="“凝心聚力，数创未来”—2024年度克难奋进、启航新征程" alt="“凝心聚力，数创未来”—2024年度克难奋进、启航新征程" class="w_100"></a></div>
+
+                <div class="col-md-12 col-sm-12 col-xs-12 p0 mt15">
+
+                 
+
+                  <p class="f12">
+
+                  <a class="pl15"><strong>时间：2024-01-20</strong></a>
+
+                  <a class="pl15"><strong>地点：东莞</strong></a>
+
+                  <a href="https://www.enicn.com/Enicn/2024/xxhdh_0111/619.html" target="_blank" class="pl15"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+              <li class="pl5 mt10 mb10">
+
+                
+
+                <div class="col-md-12 col-sm-12 col-xs-12 p0 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2023/xxhdh_1212/610.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2023/1213/20231213093457672.jpg" onerror="this.src='/eni_default.jpg'" title="“聚数智力量、创万物互联” 2023龙江数实融合发展大会" alt="“聚数智力量、创万物互联” 2023龙江数实融合发展大会" class="w_100"></a></div>
+
+                <div class="col-md-12 col-sm-12 col-xs-12 p0 mt15">
+
+                 
+
+                  <p class="f12">
+
+                  <a class="pl15"><strong>时间：2023-12-14</strong></a>
+
+                  <a class="pl15"><strong>地点：哈尔滨</strong></a>
+
+                  <a href="https://www.enicn.com/Enicn/2023/xxhdh_1212/610.html" target="_blank" class="pl15"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+              <li class="pl5 mt10 mb10">
+
+                
+
+                <div class="col-md-12 col-sm-12 col-xs-12 p0 mobile_padding_left0"><a href="https://www.enicn.com/Enicn/2023/xxhdh_1027/601.html" target="_blank"><img src="https://www.enicn.com/uploadfile/2023/1107/20231107120051160.jpg" onerror="this.src='/eni_default.jpg'" title="2023年苏南制造业数智化峰会" alt="2023年苏南制造业数智化峰会" class="w_100"></a></div>
+
+                <div class="col-md-12 col-sm-12 col-xs-12 p0 mt15">
+
+                 
+
+                  <p class="f12">
+
+                  <a class="pl15"><strong>时间：2023-11-25</strong></a>
+
+                  <a class="pl15"><strong>地点：昆山</strong></a>
+
+                  <a href="https://www.enicn.com/Enicn/2023/xxhdh_1027/601.html" target="_blank" class="pl15"><span class="baoming">报名</span></a>
+
+                  </p>
+
+                </div>
+
+                <div class="clear"></div>
+
+              </li>
+
+              
+            
+
+
+        </ul>
+
+        <div class="row text-center mt25">
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4 auto more_sudi"><a href="/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=112" target="_blank">查看更多</a></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+        </div>
+
+      </div>
+
+      <div class="row mt25 epro text-center">
+
+        <span class="epro_tag pl15 f16"><a href="/index.php?m=content&amp;c=index&amp;a=eproindex" target="_blank">E-PRO</a></span>
+
+      </div>
+
+   
+              
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+      <div class="row p0 mobile_wap_pl15">
+
+      <div class="text-center mt20">梅姐<span class="pl25">东莞永益食品 电商总监<!--  --></span></div>
+
+      <div class="mt20">
+
+        <div class="col-md-3 col-sm-3 col-xs-2 p0 epro_img mobile_epro_avatar_setting"><a href="/index.php?m=content&amp;c=personal&amp;a=eprocen&amp;inviteid=263659" target="_blank">
+
+        <img src="https://www.enicn.com/phpsso_server/uploadfile/avatar/26/9/258961/90x90.jpg" onerror="this.src='/statics/images/member/nophoto.gif'" class="borderradius50 " title="" alt=""></a></div>
+
+        <div class="col-md-9 col-sm-9 col-xs-9  p0 epro_con"><a href="/index.php?m=content&amp;c=personal&amp;a=eprocen&amp;inviteid=263659" target="_blank"><p class="dot2">汉语言文学教育、计算机应用与开发双专业，21年工作经验，其中16年IT从业，12年电商从业，服务过美资、国企、民企三种企业，其中两家为上市...</p></a>
+
+        </div>
+
+      </div>
+
+      </div>
+
+  
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+      <div class="row p0 mobile_wap_pl15">
+
+      <div class="text-center mt20">唐龙<span class="pl25">原德勤信息安全专家<!-- 专家/顾问 --></span></div>
+
+      <div class="mt20">
+
+        <div class="col-md-3 col-sm-3 col-xs-2 p0 epro_img mobile_epro_avatar_setting"><a href="/index.php?m=content&amp;c=personal&amp;a=eprocen&amp;inviteid=263642" target="_blank">
+
+        <img src="https://www.enicn.com/phpsso_server/uploadfile/avatar/26/9/258944/90x90.jpg" onerror="this.src='/statics/images/member/nophoto.gif'" class="borderradius50 " title="" alt=""></a></div>
+
+        <div class="col-md-9 col-sm-9 col-xs-9  p0 epro_con"><a href="/index.php?m=content&amp;c=personal&amp;a=eprocen&amp;inviteid=263642" target="_blank"><p class="dot2">毕业于北京航空航天大学，软件硕士，曾就职于赛门铁克、中国惠普、IBM、中国平安、德勤等高级管理职位。专注在 IT 战略咨询、 网络安全...</p></a>
+
+        </div>
+
+      </div>
+
+      </div>
+
+  
+  
+      <div class="row text-center mt25">
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4 auto more_sudi"><a href="/index.php?m=content&amp;c=index&amp;a=eproindex" target="_blank">查看更多</a></div>
+
+        <div class="col-md-4 col-sm-4 col-xs-4"></div>
+
+      </div>
+
+      
+
+  </div>
+  </div>
+
+<div class="share_qrcode">
+
+  <p>分享到微信 <span class="close">×</span></p>
+
+  <div style="margin:10px auto;width: 150px;height: 150px" id="qrcode">
+
+
+
+  <canvas width="150" height="150"></canvas><img alt="Scan me!" style="display: none;"></div>
+
+  <p style="color: #666">
+
+    打开微信，点击底部的“发现”，<br>
+
+    使用“扫一扫”即可将网页分享至朋友圈。
+
+  </p>
+
+</div>
+
+<script src="/statics/static/js/web2017/qrcode.js"></script>
+
+<script src="/statics/static/js/web2017/footer.js"></script>
+
+<!-- 统计代码 -->
+
+<script language="JavaScript" src="https://www.enicn.com/api.php?op=count&amp;id=76504&amp;modelid=1"></script>
+
+
+
+<script type="text/javascript">
+
+    $(function(){
+
+     var userid=null;
+
+          $.ajax({
+
+            type:'GET',
+
+            url:'https://www.enicn.com/api.php?op=user',
+
+            async:false,
+
+            dataType:'json',
+
+            success:function(msg){
+
+              if(msg.islogin){
+
+                var objuserid=msg.userid;
+
+                if(objuserid>0){
+
+                  userid=objuserid;
+
+                }
+
+              }
+
+            }
+
+          });
+
+        var _opForm = function(op) { $(".fromSubit").find('input,button').prop('disabled', op); };
+
+        $("#flie_download").click(function(){
+
+            var url=$("#flie_download_url").val();
+
+            if(userid==null){
+
+                alert("请先登录！");
+
+                var currenturl = window.location.href;
+
+                window.location="https://www.enicn.com/index.php?m=member&c=index&a=mobile_login&forward="+currenturl;
+
+            }else{
+
+              window.location.href=url;
+
+            }
+
+            
+
+        })
+
+    });
+
+    </script>
+
+<!-- FOOTER START -->
+
+<div class="footer mt20 ">
+
+	<div class="container">
+
+	<div class="mt15 col-md-1 footer_info p0 tc" style="border:#c4c4c4 solid 1px;color:#6d6d6d;background-color:#f0f0f0">
+
+	<b>友情链接</b></div>
+
+	<div class="mt15 col-md-11 p0" style="">
+
+		<marquee behavior="scroll" direction="left" loop="infinite" scrollamount="5" scrolldelay="50" onmouseout="this.start()" onmouseover="this.stop()">
+
+			
+			
+				<a href="http://www.soyouit.com/" target="_blank" class="pl20 qing">中国IT产经新闻网</a>
+
+			
+				<a href="http://www.c114.com.cn" target="_blank" class="pl20 qing">C114通信网</a>
+
+			
+				<a href="http://www.amdaily.com" target="_blank" class="pl20 qing">先进制造业</a>
+
+			
+				<a href="http://www.topcio.cn/" target="_blank" class="pl20 qing">CIO智库</a>
+
+			
+				<a href="http://www.rfidworld.com.cn/" target="_blank" class="pl20 qing">RFID世界网</a>
+
+			
+				<a href="http://www.chuangtianxia.cn/" target="_blank" class="pl20 qing">创天下</a>
+
+			
+				<a href="http://www.cniteyes.com" target="_blank" class="pl20 qing">移动信息化研究中心</a>
+
+			
+				<a href="http://www.csdn.net/" target="_blank" class="pl20 qing">CSDN</a>
+
+			
+				<a href="http://www.enet.com.cn/" target="_blank" class="pl20 qing">eNet硅谷动力</a>
+
+			
+				<a href="http://www.d1net.com/" target="_blank" class="pl20 qing">企业网D1Net</a>
+
+			
+				<a href="http://www.softic.com.cn/" target="_blank" class="pl20 qing">软件IC网</a>
+
+			
+				<a href="http://www.cbdio.com/" target="_blank" class="pl20 qing">数据观</a>
+
+			
+				<a href="http://www.heimoo.com/" target="_blank" class="pl20 qing">ToNews</a>
+
+			
+				<a href="http://www.yidonghua.com/" target="_blank" class="pl20 qing">移动信息化</a>
+
+			
+				<a href="http://www.zdnet.com.cn/" target="_blank" class="pl20 qing">ZD至顶网</a>
+
+			
+				<a href="http://www.e-works.net.cn/" target="_blank" class="pl20 qing">e-works</a>
+
+			
+				<a href="http://www.chinacompanynet.cn/" target="_blank" class="pl20 qing">中国企业电子商务网</a>
+
+			
+				<a href="http://www.ciotimes.com/" target="_blank" class="pl20 qing">CIO时代网</a>
+
+			
+				<a href="http://www.topoint.com.cn/" target="_blank" class="pl20 qing">支点网</a>
+
+			
+				<a href="http://www.soft6.com/" target="_blank" class="pl20 qing">中国软件网</a>
+
+			
+				<a href="http://industry.ccidnet.com/" target="_blank" class="pl20 qing">赛迪网</a>
+
+			
+			
+		</marquee>
+
+	</div>
+
+	</div>
+
+	
+
+  <div class="container tc">
+
+    <div class="mt25 footer_title mobile_center">
+
+      <a href="https://www.enicn.com/Enicn/aboutus.htm" target="_blank">关于ENI</a>
+
+      &nbsp;&nbsp;|
+
+      <a href="https://www.enicn.com/Enicn/aboutus.htm#service" target="_blank">ENI服务</a>
+
+      &nbsp;&nbsp;|
+
+      <a href="https://www.enicn.com/Enicn/aboutus.htm#contactus" target="_blank">联系方式</a>
+
+      &nbsp;&nbsp;|
+
+      <a href="https://www.enicn.com/Enicn/copyright.htm" target="_blank">版权声明</a>
+
+    </div>
+
+    <div class="mt15 col-md-12 footer_info">北京亦贤锦程科技发展有限公司 版权所有 <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备15003908号</a>　Copyright (C) 2002-2018 enicn.com, All Rights Reserved</div>
+
+    <div class="mt15 col-md-12 footer_info">客户服务、商务合作电邮：eni@enicn.com <br><br></div>
+
+  </div>
+
+</div>
+
+<!-- FOOTER END -->
+
+<div class="m-mask"></div>
+
+<!-- 返回顶部 begin -->
+
+<div id="back-top" style="display: none;">
+
+<a href="#top">
+
+<span></span>
+
+</a>
+
+</div>
+
+<!-- 底部 begin -->
+
+
+
+<ul class="m-navbar">
+
+        <li class="left">
+
+          <a href="/">首页</a>
+
+        </li>
+
+        <li class="left">
+
+          <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=news" target="_blank">资讯</a>
+
+        </li>
+
+        <li class="left relative morenav">
+
+          <a href="javascript:;" data-hover-target="zg-innovate">
+
+            产业创新<i class="caret"></i>
+
+          </a>
+
+          <div class="zg-innovate dropdown-menu read-dropdown" style="width: 135px; text-align:center;">
+
+            <div class="read-nav">
+
+              <ul class="l3">
+
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=3&amp;keywords=汽车及零部件" target="_blank" class="transition">汽车及零部件</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=1&amp;keywords=集成电路" target="_blank" class="transition">集成电路</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=5&amp;keywords=生物制药" target="_blank" class="transition">生物制药</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=6&amp;keywords=快速消费品" target="_blank" class="transition">快速消费品</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=12&amp;keywords=新能源" target="_blank" class="transition">新能源</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=8&amp;keywords=泛家居" target="_blank" class="transition">泛家居</a></li>
+                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=4&amp;keywords=军工" target="_blank" class="transition">军工</a></li>                <li><a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=infolist2021&amp;type=Industry&amp;key=1&amp;keywords=机械/装备行业" target="_blank" class="current transition">机械/装备行业</a></li>
+              </ul>
+              
+             
+
+            </div>
+
+          </div>
+
+        </li>
+
+        <li class="left relative morenav">
+
+          <a href="javascript:;" data-hover-target="zg-industry">
+
+            ENI专访 <i class="caret"></i>
+
+          </a>
+
+          <div class="zg-industry dropdown-menu read-dropdown" style="width: 120px; text-align:center;">
+
+            <div class="read-nav">
+
+              <ul class="l3">
+
+                <li>
+
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=interviewlist&amp;key=CIO" title="CIO说" target="_blank">CIO说</a>
+
+                </li>
+
+                <li>
+
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=interviewlist&amp;key=e%E9%A2%86%E8%A2%96" title="e领袖" target="_blank">e领袖</a>
+
+                </li>
+
+                <!--<li>-->
+
+                <!--  <a class="current" href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="工业互联网" target="_blank">工业互联网</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="人工智能" target="_blank">人工智能</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="大数据" target="_blank">大数据</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="物联网" target="_blank">物联网</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="云计算" target="_blank">云计算</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="应用软件" target="_blank">应用软件</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="安全" target="_blank">安全</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="区块链" target="_blank">区块链</a>-->
+
+                <!--</li>-->
+
+                <!--<li>-->
+
+                <!--  <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="集成电路" target="_blank">集成电路</a>-->
+
+                <!--</li>-->
+
+              </ul>
+
+            </div>
+
+          </div>
+
+        </li>
+
+        <!--<li class="left relative morenav">-->
+
+        <!--  <a href="javascript:;" data-hover-target="zg-it">-->
+
+        <!--  转型理念 <i class="caret"></i>-->
+
+        <!--  </a>-->
+
+        <!--  <div class="zg-it dropdown-menu read-dropdown" style="width: 120px; text-align:center;">-->
+
+        <!--    <div class="read-nav">-->
+
+        <!--      <ul class="l3">-->
+
+        <!--        <li>-->
+        <!--          <a class="current" href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="数字化" target="_blank">数字化</a>-->
+        <!--        </li>-->
+        <!--        <li>-->
+        <!--          <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="智能化" target="_blank">智能化</a>-->
+        <!--        </li>-->
+        <!--        <li>-->
+        <!--          <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="两化融合" target="_blank">两化融合</a>-->
+        <!--        </li>-->
+        <!--        <li>-->
+        <!--          <a href="https://www.enicn.com/index.php?m=content&c=index&a=artticlelist&type=0" title="互联网+" target="_blank">互联网+</a>-->
+        <!--        </li>-->
+        <!--      </ul>-->
+
+        <!--    </div>-->
+
+        <!--  </div>-->
+
+        <!--</li>-->
+        <li class="left relative morenav">
+
+          <a href="javascript:;" data-hover-target="zg-industry">
+
+            专题 <i class="caret"></i>
+
+          </a>
+        </li><li class="left">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=eshow" target="_blank">一手</a>
+
+        </li>
+
+        <li class="left relative">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=eproindex" target="_blank">
+
+            E-PRO
+
+            <!-- <i class="caret"></i> -->
+
+          </a>
+
+          <!-- <div class="dropdown-menu read-dropdown" style="width: 120px; text-align:center;">
+
+            <div class="read-nav">
+
+              <ul class="l3">
+
+                <li>
+
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&c=index&a=infolist2021&type=keyword&key=行业专家" title="行业专家">行业专家</a>
+
+                </li>
+
+                <li>
+
+                  <a href="https://www.enicn.com/index.php?m=content&c=index&a=infolist2021&type=keyword&key=CIO" title="CIO">CIO</a>
+
+                </li>
+
+              </ul>
+
+            </div>
+
+          </div> -->
+
+        </li>
+
+        <li class="left">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=newistudy" target="_blank">I-学吧</a>
+
+        </li>
+
+        <li class="left relative morenav">
+
+          <a href="javascript:;" data-hover-target="zg-activity">
+
+            活动
+
+            <i class="caret"></i>
+
+          </a>
+
+          
+          
+          <div class="zg-activity dropdown-menu read-dropdown" style="width: 135px; text-align:center;">
+
+            <div class="read-nav">
+
+              <ul class="l3">
+
+                <li>
+                  <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=245&amp;activityType=made" title="定制活动" target="_blank">定制活动</a>
+                </li>
+                <li>
+                  <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=112" title="信息化大会" target="_blank">智能大会</a>
+                </li>
+                <li>
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=245" title="CIO智行社" target="_blank">CIO智行社</a>
+                </li>
+                <li>
+                  <a href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity&amp;catid=246" title="CIO直播间" target="_blank">CIO直播间</a>
+                </li>
+                <li>
+                  <a class="current" href="https://www.enicn.com/index.php?m=content&amp;c=index&amp;a=activity" title="全部活动" target="_blank">全部活动</a>
+                </li>
+
+                <!--<li>
+
+                   <a href="https://www.enicn.com/index.php?m=content&c=index&a=activity&activityType=made" title="定制活动" target="_blank">定制活动</a>
+
+                </li>
+
+                <li>
+
+                   <a href="https://www.enicn.com/index.php?m=content&c=index&a=activity&catid=247" title="合作推广" target="_blank">合作推广</a>
+
+                </li> -->
+
+              </ul>
+
+            </div>
+
+          </div>
+
+        </li>
+
+       <!-- <li class="left">
+
+          <a href="https://www.enicn.com/index.php?m=content&c=index&a=mylevel" target="_blank">会员指南</a>
+
+        </li> -->
+
+        <li class="left">
+
+          <a href="/index.php?m=content&amp;c=index&amp;a=jifen" target="_blank">奖学金</a>
+
+        </li>
+
+        <div class="clear"></div>
+
+      </ul></body></html>

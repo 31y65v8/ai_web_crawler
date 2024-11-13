@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "AWSALB=CTQ3GbGzZC7axa5xsw3bWY6CTmwJo16gKkQBmNqStyMCJVDEp4ghofIvs2MnvtdWXIDLqAzyHfDk6wBELe/FZaw4hV6OOeYMFFnOrdxbk+lOVwBEzf8ifFqItdI+; AWSALBCORS=CTQ3GbGzZC7axa5xsw3bWY6CTmwJo16gKkQBmNqStyMCJVDEp4ghofIvs2MnvtdWXIDLqAzyHfDk6wBELe/FZaw4hV6OOeYMFFnOrdxbk+lOVwBEzf8ifFqItdI+; JSESSIONID=E24C34AFA281AE5321E5AC1E60AF6008; GUEST_LANGUAGE_ID=zh_CN; COOKIE_SUPPORT=true",
+        "Referer": "https://www.wipo.int/zh/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.wipo.int/zh/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth",
+    "wait": 6
+}

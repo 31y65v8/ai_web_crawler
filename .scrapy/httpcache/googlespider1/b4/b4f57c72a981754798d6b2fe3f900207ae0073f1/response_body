@@ -1,0 +1,980 @@
+<!DOCTYPE html><html lang="cn" class="wf-montserrat-n7-inactive wf-rubik-n4-inactive wf-rubik-n5-inactive wf-inactive"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,shrink-to-fit=no">
+    <meta name="keywords" content="ai技术, 人工智能ai, 人工智能ai技术">
+    <meta name="description" content="人工智能，通常被称为AI，是现代科技领域中最具革新力量的一个部分。人工智能AI技术是指设计和创建的一种计算机系统，能够模拟人类的思维过程，进行学习、理解、推理、感知、以及与环境互动等功能。其在不同的行业和领域都有广泛的应用，从自动驾驶汽车到医疗诊断，从物流自动化到客户服务，人工智能的应用无所不在。">
+    <meta property="og:url" content="">
+    <meta property="og:title" content="AI技术是什么技术？AI技术入门教程！">
+    <meta property="og:description" content="人工智能，通常被称为AI，是现代科技领域中最具革新力量的一个部分。人工智能AI技术是指设计和创建的一种计算机系统，能够模拟人类的思维过程，进行学习、理解、推理、感知、以及与环境互动等功能。其在不同的行业和领域都有广泛的应用，从自动驾驶汽车到医疗诊断，从物流自动化到客户服务，人工智能的应用无所不在。">
+    <meta property="og:image" content="">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="boardmix">
+    <title>AI技术是什么技术？AI技术入门教程！</title>
+    <link rel="canonical" href="">
+    <meta name="renderer" content="webkit">
+<!-- Google Tag Manager -->
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M44N5CX3"></script><script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+			"gtm.start": new Date().getTime(),
+			event: "gtm.js",
+		});
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s),
+			dl = l != "dataLayer" ? "&l=" + l : "";
+		j.async = true;
+		j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, "script", "dataLayer", "GTM-M44N5CX3");
+</script>
+<!-- End Google Tag Manager -->
+<link rel="icon" href="https://cms.boardmix.cn/images/board.ico">
+<link rel="stylesheet" href="https://boardmix.cn/assets/bootstrap-edraw.min.css" title="boardmix">
+<link rel="stylesheet" href="https://boardmix.cn/assets/board-common.css" title="boardmix">
+<style> .business-apply { background: #ff0a56 url(https://boardmix-cms.oss-cn-hangzhou.aliyuncs.com/2024/board-banner-top.png) center center/auto 59px no-repeat;}
+body,h1,h2,h3,h4,h5,h6,html,p,span { font-display:swap;}.article .article-use-btn,article .article-use-btn{
+    transition: all 0.2s ease-in-out;background: linear-gradient(-90deg,#a65ef7 0,#4c53ff 100%),#fff;
+    display: inline-flex;align-items: center;  justify-content: center; min-height: 48px;border-radius: 52px;
+ margin-left: auto;margin-right: auto; font-weight: 500;line-height: 1.44445; font-size: 16px; color: #fff!important; padding: 0 23px; max-width: 320px;
+    height: 48px; text-decoration: none;}.article .article-use-btn:hover,article .article-use-btn:hover{box-shadow: 0 2px 30px rgb(0 0 0 / 10%), 0 5px 10px rgb(0 0 0 / 5%); transform: translateY(-6px);text-decoration:none;}.article .article-use-btn:active,article .article-use-btn:active{transform:scale(0.98)}button,button:focus{border:none;outline:0}.ppt-modal-overlay{position:fixed;left:0;right:0;bottom:0;top:0;display:flex;justify-content:center;align-items:center;z-index:102;opacity:0;transition:all .2s cubic-bezier(.4,0,.2,1);visibility:hidden}.ppt-modal-overlay.active{opacity:1;visibility:visible}.ppt-modal-overlay iframe{position:relative;z-index:calc(var(--header-z-index) + 3);opacity:0}.ppt-modal-overlay iframe{position:relative;width:100%;height:100%;z-index:103}.ppt-modal-overlay.active iframe{animation:login-animate .2s .2s ease-in-out forwards}@keyframes login-animate{0%{transform:translateY(-10%);opacity:0}to{transform:translateY(0);opacity:1}}.header--product-item{    padding-right: 12px;}.header--float-products {
+    min-width: 150px; width: 100%;}</style>
+<link rel="stylesheet" href="https://boardmix-public.oss-cn-hangzhou.aliyuncs.com/cms/commonjs/article.css" title="boardmix">
+<style>.wsc-main img{height: auto;}</style><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:700%7CRubik:400,500" media="all"> 
+ </head>
+  <body data-pro="edraw" data-cat="template" data-nav="basic" data-sys="linux" data-dev="desktop">
+    <a href="https://boardmix.cn/price/" target="_blank" class="business-apply"><div class="business-apply--btn-close" style="opacity:1"><div class="fb-icon-wrap"><img class="close-business-apply" src="https://cms.boardmix.cn/images/close.svg" alt="close"></div></div></a><header class="header" style="font-size:14px"><div class="header--container"><a class="header--brand" href="/"><img src="https://cms.boardmix.cn/images/board-logo@32.svg" class="logo-black" alt="logo"><img src="https://cms.boardmix.cn/images/white-logo.svg" class="logo-white" alt="logo " style="width:144px"></a><div class="header--expand"><div class="header-avatar"><div class="header-avatar--user"><img src="" class="header-avatar--user-img d-none" alt="头像"><span class="header-avatar--user-label d-none"></span></div><a href="/app/" class="header-login-mobile">登录/注册</a></div><i class="wsc-icon aria-expanded-false-show expand-icon wsc-icon-loaded" data-icon="symbol-menu"><svg class="wsc-svg-symbol-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="butt" stroke-linejoin="bevel" stroke-width="2">
+    <path d="M4 8 L28 8 M4 16 L28 16 M4 24 L28 24"></path>
+</svg></i><i class="wsc-icon aria-expanded-true-show shrink-icon d-none wsc-icon-loaded" data-icon="symbol-close" style="width:14px;left:-4px"><svg class="wsc-svg-symbol-close" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="butt" stroke-linejoin="bevel" stroke-width="2">
+    <path d="M2 30 L30 2 M30 30 L2 2"></path>
+</svg></i></div><div class="header--menu--mask"></div><div class="header--content"><div class="header--first"><div class="header--item header--products"><div class="d-flex" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" role="tab"><span>产品</span><div class="header--products--arrow"><svg class="dropdown--arrow" viewBox="0 0 20 20"><use href="#header-dropdown--arrow"></use></svg></div></div><div class="header--products--float-box"><div class="header--float-products header--float-text"><a href="https://boardmix.cn/ai-whiteboard/" target="_blank" data-track="4" class="menu-track"><div class="header--product-item"><div class="header--product-item--content"><div class="header--product-item--sub-title">博思白板</div></div></div></a><a href="https://pptgo.cn/" target="_blank" data-track="5" class="menu-track"><div class="header--product-item"><div class="header--product-item--content"><div class="header--product-item--sub-title">博思AIPPT</div></div></div></a></div></div></div><div class="header--item header--products"><div class="d-flex" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" role="tab"><span>解决方案</span><div class="header--products--arrow"><svg class="dropdown--arrow" viewBox="0 0 20 20"><use href="#header-dropdown--arrow"></use></svg></div></div><div class="header--products--float-box"><div class="header--float-products header--float-solution" style="height:auto"><div class="header--float-solution-lf"><div class="header--float-solution-lf-title header--float-solution-lf-scene">应用场景</div><a href="https://boardmix.cn/how-consultants-use-boardmix/" class="header--float-solution-lf-item">团队协同提效</a><a href="https://boardmix.cn/mindmapping/" class="header--float-solution-lf-item">思维和灵感梳理</a><a href="https://boardmix.cn/flow-chart/" class="header--float-solution-lf-item">流程整理</a><a href="https://boardmix.cn/how-product-managers-use-boardmix/" class="header--float-solution-lf-item">任务管理</a><a href="https://boardmix.cn/how-designers-use-boardmix/" class="header--float-solution-lf-item">素材整理</a><a href="https://boardmix.cn/how-educators-use-boardmix/" class="header--float-solution-lf-item">在线白板</a><a href="https://boardmix.cn/online-board/" class="header--float-solution-lf-item">涂鸦画板</a></div><div style="margin:0 32px 0 50px"><div class="header--float-solution-lf-title header--float-solution-lf-scene">AIGC</div><a href="https://boardmix.cn/ai-art-generator/" class="header--float-solution-lf-item">AI生成图片</a><a href="https://boardmix.cn/ai-powerpoint/" class="header--float-solution-lf-item">AI PPT一键生成</a><a href="https://boardmix.cn/ai-writing/" class="header--float-solution-lf-item">AI写作</a><a href="https://boardmix.cn/ai-chatbot/" class="header--float-solution-lf-item">AI对话</a></div><div class="header--float-solution-rt"><div class="header--float-solution-lf-title">模板中心</div><a href="https://boardmix.cn/templates/"><img src="https://cms.boardmix.cn/images/assets/header-template2.png" style="max-width:220px" alt="模板中心"></a></div></div></div></div><div class="header--item header--item-community"><a href="https://boardmix.cn/community/" data-track="2" class="menu-track">社区资源</a></div><div class="header--item"><a href="https://boardmix.cn/download/" data-track="3" class="menu-track">下载</a></div><div class="header--item header--item-price"><a href="https://boardmix.cn/price/" data-track="14" class="menu-track">会员</a></div><div class="header--item header--products"><div class="d-flex" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" role="tab"><span>企业服务</span><div class="header--products--arrow"><svg class="dropdown--arrow" viewBox="0 0 20 20"><use href="#header-dropdown--arrow"></use></svg></div></div><div class="header--products--float-box"><div class="header--float-products header--float-text"><a href="https://boardmix.cn/sdk/" target="_blank" data-track="4" class="menu-track"><div class="header--product-item"><div class="header--product-item--content"><div class="header--product-item--sub-title">sdk集成</div></div></div></a><a href="https://boardmix.cn/privatedeploy/" target="_blank" data-track="4" class="menu-track"><div class="header--product-item"><div class="header--product-item--content"><div class="header--product-item--sub-title">私有化部署</div></div></div></a><a href="https://boardmix.cn/customer-cases/" target="_blank" data-track="5" class="menu-track"><div class="header--product-item"><div class="header--product-item--content"><div class="header--product-item--sub-title">客户案例</div></div></div></a><a href="https://boardmix.cn/organization-application/" target="_blank" data-track="5" class="menu-track"><div class="header--product-item"><div class="header--product-item--content"><div class="header--product-item--sub-title">企业版申请试用</div></div></div></a></div></div></div><div class="header--item header--products"><div class="d-flex" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" role="tab"><span>支持</span><div class="header--products--arrow"><svg class="dropdown--arrow" viewBox="0 0 20 20"><use href="#header-dropdown--arrow"></use></svg></div></div><div class="header--products--float-box"><div class="header--float-products header--float-text"><a href="https://boardmix.cn/help/" target="_blank" data-track="4" class="menu-track"><div class="header--product-item"><div class="header--product-item--content"><div class="header--product-item--sub-title">帮助中心</div></div></div></a><a href="https://boardmix.cn/article/" target="_blank" data-track="5" class="menu-track"><div class="header--product-item"><div class="header--product-item--content"><div class="header--product-item--sub-title">知识分享社区</div></div></div></a></div></div></div></div><div class="header--second"><a href="/app/" class="after-login" style="display:none">进入工作台</a><button class="header--login before-login global-login-button menu-track" data-track="4" style="display:none">登录/注册</button><div class="header--wondershare ml-3">万兴科技（300624.SZ）生态成员</div></div></div></div></header>
+    <div id="nav-howto" class="w-100 bg-gray-1" style="height: 64px;top: 0;position: fixed;opacity: 0;transition: all .3s;">
+      <div class="content article-container py-3">
+        <div class="d-flex justify-content-between align-items-center container-md container-xl px-lg-0">
+          <div class="font-weight-medium" style="color: rgba(0, 0, 0, 0.88)">AI技术是什么技术？AI技术入门教程！</div>
+          <div class="d-flex flex-column flex-sm-row align-items-center justify-content-center">
+            <div class="toWorkbench-box">
+              <a href="https://boardmix.cn/app/"><span class="toWorkbench-text">在线使用boardmix</span>
+                <svg width="10.000000" height="10.000000" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <path d="M5.75 5L2.25 1.69434L3.25 0.75L7.75 5L3.25 9.25L2.25 8.30566L5.75 5Z" fill="#FFFFFF"></path>
+                  <defs></defs>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <main class="wsc-main bg-white p-0 overflow-hidden">
+      <section class="banner">
+        <div class="banner-container">
+          <div class="nav-top">
+            <h1 class="tow-lines">AI技术是什么技术？AI技术入门教程！</h1>
+            <div class="banner-btn">
+              <a href="https://boardmix.cn/app/" class="banner-btn-txt"><span class="">博思白板，个人免费使用</span>
+                <svg class="btn-arrow" width="17.482712" height="11.395752" viewBox="0 0 17.4827 11.3958" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <path d="M12.7403 0.364014L17.1238 4.74731C17.3631 4.98657 17.4827 5.27563 17.4827 5.61401C17.4827 5.95239 17.3631 6.24121 17.1238 6.48047L12.5723 11.032C12.0871 11.5171 11.3245 11.5171 10.8393 11.032C10.3843 10.5769 10.3559 9.87842 10.754 9.39282C10.7805 9.3606 10.8089 9.3291 10.8393 9.29883L13.193 6.94507L1.22547 6.94507C0.539207 6.94507 0 6.40601 0 5.71973C0 5.03345 0.539207 4.49414 1.22547 4.49414L13.4044 4.49414L11.0072 2.09692C10.522 1.61182 10.522 0.849121 11.0072 0.364014C11.4925 -0.121338 12.2551 -0.121338 12.7403 0.364014L12.7403 0.364014Z" fill-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000"></path>
+                  <defs></defs>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="position-relative article">
+        <div class="content">
+          <nav class="nav-fsize" style="color: rgba(0, 0, 0, 0.5);">
+            <a href="https://boardmix.cn/article/" class="px-breadcrumb">boardmix 所有文章</a>
+            <span class="mx-2">&gt;</span>
+            <a href="https://boardmix.cn/resource/index.html" class="px-breadcrumb">资源干货</a>
+            <span class="mx-2">&gt;</span>
+            <span style="color: #121212">AI技术是什么技术？AI技术入门教程！</span>
+          </nav>
+          <div class="document">
+<div class="section">
+<p class="paragraph text-align-type-left"><span data-font-family="default">人工智能，通常被称为AI，是现代科技领域中最具革新力量的一个部分。人工智能AI技术是指设计和创建的一种计算机系统，能够模拟人类的思维过程，进行学习、理解、推理、感知、以及与环境互动等功能。其在不同的行业和领域都有广泛的应用，从自动驾驶汽车到医疗诊断，从物流自动化到客户服务，人工智能的应用无所不在。</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><img src="https://cms.boardmix.cn/images/pictures/what-is-ai-technology1.png" alt="人工智能ai技术" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h2 id="part1" class="paragraph text-align-type-left MsoNormal tco-title-heading 2"><span> 1.&nbsp;</span> <span data-font-family="default">什么是AI技术？</span><span lang="EN-US"><o:p></o:p></span></h2>
+<p class="paragraph text-align-type-left"><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default">人工智能AI技术是指使计算机系统模拟、延伸和扩展人的智能的一系列技术。它包括多个子领域，如机器学习、深度学习、自然语言处理、计算机视觉、机器人技术等。人工智能的目标是创造出能够执行复杂任务的智能系统，这些任务通常需要人类智能，如学习、推理、规划、感知、理解语言等。</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><img src="https://cms.boardmix.cn/images/pictures/what-is-ai-technology2.png" alt="人工智能ai技术" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;机器学习：</strong>这是AI的一个核心领域，它使计算机能够从数据中学习并做出决策或预测。机器学习算法通常分为监督学习、无监督学习和强化学习。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;深度学习：</strong>这是机器学习的一个分支，它使用类似于人脑的神经网络结构来学习数据的复杂模式。深度学习在图像和语音识别等领域取得了显著成就。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;自然语言处理（NLP）：</strong>这个领域专注于让计算机理解、解释和生成人类语言。NLP技术使得机器能够执行翻译、情感分析、文本摘要等任务。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;计算机视觉：</strong>这个领域的目标是使计算机能够从图像或多维数据中“理解”和解释视觉信息。这包括面部识别、物体检测和图像分类等。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;机器人技术：</strong>结合AI和机械工程，机器人技术使得机器人能够执行复杂的任务，甚至模仿人类行为。</span><span lang="EN-US"><o:p></o:p></span></li>
+</ul>
+<p class="paragraph text-align-type-left"><span data-font-family="default">人工智能AI技术的发展正在不断推动各行各业的变革，从医疗诊断到自动驾驶汽车，从个性化推荐系统到智能家居，AI的应用前景非常广泛。随着技术的进步，AI的能力也在不断增强，这既带来了巨大的机遇，也引发了关于隐私、就业和社会伦理等方面的讨论。</span><span lang="EN-US"><o:p></o:p></span></p>
+<h2 id="part2" class="paragraph text-align-type-left MsoNormal tco-title-heading 2"><span> 2.&nbsp;</span> <span data-font-family="default">AI技术包括什么？</span><span lang="EN-US"><o:p></o:p></span></h2>
+<p class="paragraph text-align-type-left"><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default">人工智能AI技术涵盖了多个领域和子技术，主要包括但不限于以下几个方面：</span><span lang="EN-US"><o:p></o:p></span></p>
+<ul>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;机器学习（Machine Learning）：</strong>这是AI的核心领域之一，涉及统计学、系统辨识、逼近理论、神经网络、优化理论等，目的是让计算机通过数据学习和改进性能。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;知识图谱（Knowledge Graph）：</strong>知识图谱是一种结构化的语义知识库，通过节点和边组成的图数据结构来描述概念及其相互关系。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;自然语言处理（Natural Language Processing, NLP）：</strong>这个领域研究如何让计算机理解、生成和处理人类语言，包括机器翻译、情感分析、文本分类等。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;人机交互（Human-Computer Interaction, HCI）：</strong>研究人和计算机之间的信息交换方式，包括语音交互、情感交互、体感交互等。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;计算机视觉（Computer Vision）：</strong>使用计算机模仿人类视觉系统，让计算机能够处理、分析和理解图像和视频数据。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;生物特征识别（Biometric Recognition）：</strong>通过个体的生理或行为特征进行身份识别，如指纹、虹膜、面部识别等。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;虚拟现实（Virtual Reality, VR）和增强现实（Augmented Reality, AR）：</strong>这些技术通过计算机生成的数字化环境与用户进行交互，提供沉浸式体验。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;机器人技术（Robotics）：</strong>结合AI和机械工程，使机器人能够执行复杂任务，如自主导航、物体识别和操作等。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;强化学习（Reinforcement Learning）：</strong>一种让智能体通过与环境的交互来学习最优行为策略的方法。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left MsoNormal"><span data-font-family="default"><strong>&nbsp;深度学习（Deep Learning）：</strong>一种基于神经网络的机器学习方法，通过多层次的神经元和权重连接来学习特征和进行决策。</span><span lang="EN-US"><o:p></o:p></span></li>
+</ul>
+<p class="paragraph text-align-type-left"><span data-font-family="default">这些技术在不同的应用场景中相互结合，推动了人工智能AI技术在医疗、教育、金融、交通、娱乐等多个领域的广泛应用。随着技术的不断进步，AI的应用范围和能力也在不断扩展。</span><span lang="EN-US"><o:p></o:p></span></p>
+<h2 id="part3" class="paragraph text-align-type-left MsoNormal tco-title-heading 2"><span> 3.&nbsp;</span> <span data-font-family="default">入门级AI工具推荐</span><span lang="EN-US"><o:p></o:p></span></h2>
+<p class="paragraph text-align-type-left"><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default">boardmix&nbsp;AI&nbsp;是集成在智能办公软件&nbsp;boardmix&nbsp;博思白板&nbsp;中的&nbsp;AI&nbsp;助手，它提供了一系列强大的功能，旨在提高团队协作效率和创意创作的便利性。</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default">以下是&nbsp;boardmix&nbsp;AI&nbsp;的一些主要特点和功能：</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default"><strong>AI生成图片：</strong>支持文生图（文本生成图像）和图生图（图像生成图像），用户可以通过输入描述或上传图片，让 AI 生成高质量的图片。此外，boardmix AI 提供了多种基础风格模型，包括照片写实、人物拟真、二次元、2.5D渲染和产品设计等，用户可以根据需要选择合适的风格，👉 <strong><span style="color: rgb(0, 34, 255);"><a href="https://boardmix.cn/app/" style="color: rgb(0, 34, 255);">点击免费使用boardmix AI生图。</a></span></strong></span></p>
+<p class="paragraph text-align-type-left"><img src="https://cms.boardmix.cn/images/pictures/what-is-ai-technology3.png" alt="人工智能ai技术" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default"><strong>AI生成PPT：</strong>用户只需输入主题，AI 就能自动生成包含模板、内容和排版的完整 PPT。用户可以通过简单的操作，如输入主题或者选择模板，让 AI 自动生成演示文稿的幻灯片。此外，boardmix AI 提供了多种预设的 PPT 模板，用户可以根据不同的场合和需求选择合适的模板，👉 <strong><span style="color: rgb(0, 34, 255);"><a href="https://boardmix.cn/app/" style="color: rgb(0, 34, 255);">点击AI一键生成PPT。</a></span></strong></span></p>
+<p class="paragraph text-align-type-left"><img src="https://cms.boardmix.cn/images/pictures/what-is-ai-technology4.png" alt="人工智能ai技术" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default"><strong>AI写作：</strong>boardmix&nbsp;AI&nbsp;利用深度学习和自然语言处理技术，为用户提供快速、高效的内容创作服务。boardmix&nbsp;AI&nbsp;能够生成各种类型的内容，包括文章、学术论文摘要、广告文案、设计绘图方案和数字营销内容等。此外，用户可以通过智能指令让boardmix&nbsp;AI帮助创作，例如修复拼写和语法错误、总结归纳、提升写作水平、续写或精简内容、梳理大纲、多语言翻译等。</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><img src="https://cms.boardmix.cn/images/pictures/what-is-ai-technology5.png" alt="人工智能ai技术" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default"><strong>AI对话：</strong>boardmix&nbsp;AI&nbsp;能够理解和回应用户的提问，提供信息、建议和解答，帮助用户在各种场景下进行决策和创作。无论是在内容创作、项目管理、教育学习还是日常咨询中，boardmix&nbsp;AI&nbsp;都能提供相应的对话支持。此外，用户可以实时与&nbsp;AI&nbsp;对话，获取即时的反馈和建议，提高工作效率。</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><img src="https://cms.boardmix.cn/images/pictures/what-is-ai-technology6.png" alt="人工智能ai技术" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default">其它AI能力：</span><span lang="EN-US"><o:p></o:p></span></p>
+<ul>
+<li class="paragraph text-align-type-left"><span data-font-family="default">&nbsp;AI 生成内容：boardmix AI 能够根据用户的需求，自动生成各种内容，如 PPT、思维导图、流程图、代码、文本等。用户只需提供主题或简要描述，AI 就能快速生成相应的内容。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left"><span data-font-family="default">&nbsp;AI 思维发散：通过 AI 技术帮助用户进行头脑风暴，激发创意思维。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left"><span data-font-family="default">&nbsp;AI 在线翻译：支持多语言翻译，方便用户处理国际交流中的文本。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left"><span data-font-family="default">&nbsp;AI 绘制图表：帮助用户快速绘制各种图表，如流程图、组织结构图等。</span><span lang="EN-US"><o:p></o:p></span></li>
+<li class="paragraph text-align-type-left"><span data-font-family="default">&nbsp;AI 智能抠图：提供智能抠图功能，用户可以轻松地从图片中提取所需元素。</span><span lang="EN-US"><o:p></o:p></span></li>
+</ul>
+<p class="paragraph text-align-type-left"><span data-font-family="default">总之，boardmix&nbsp;AI的这些功能使得它成为一个多功能的智能办公工具，不仅能够提高工作效率，还能激发用户的创造力。它适用于多种办公场景，如团队协作、项目管理、内容创作等，并且支持在线使用，方便用户随时随地进行工作。&nbsp;</span><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><span lang="EN-US"><o:p></o:p></span></p>
+<p class="paragraph text-align-type-left"><span data-font-family="default">随着技术的进步，人工智能AI技术在未来的潜力无法估量。无论是在办公室自动化，物流优化，甚至是教育和娱乐等领域，AI都将引领未来的发展趋势。人工智能对于全球社会和经济的影响只会越来越深入，而对人工智能AI技术的理解和掌握将成为决定个人和组织成功的关键因素。所以，无论你是一个技术专家，还是一个对未来充满好奇的探索者，了解人工智能AI技术，理解其能力和可能性，都将是一个值得投入时间和精力的重要任务。</span><span lang="EN-US"><o:p></o:p></span></p>
+</div>
+</div>
+        </div>
+        <div class="article-nav">
+          <nav id="list-howto" class="list-group update-version">
+<div class="border-bottom">
+文章目录
+</div>
+<a href="#part1" class="list-group-item with-hand active">
+1.什么是AI技术？
+</a>
+<a href="#part2" class="list-group-item with-hand ">
+2.AI技术包括什么？
+</a>
+<a href="#part3" class="list-group-item with-hand ">
+3.入门级AI工具推荐
+</a>
+</nav>
+        </div>
+
+        <!--<div class="exhibition-right d-none">-->
+        <div class="exhibition-right">
+          <div class="exhibition-content">
+            <a href="https://boardmix.cn/community/" class="exhibition-content-item content-item-img w100">
+              <img class="w100" src="https://cms.boardmix.cn/images/exhibition-img.png" alt="">
+            </a>
+            <div class="exhibition-content-item content-item-scene">
+              <h3>全部场景</h3>
+              <div class="flex">
+                
+                <a href="https://boardmix.cn/skills/index.html" class="flex-item">软件技巧</a>
+                
+                <a href="https://boardmix.cn/collaboration/index.html" class="flex-item">团队协作</a>
+                
+                <a href="https://boardmix.cn/product-story/index.html" class="flex-item">用户故事</a>
+                
+                <a href="https://boardmix.cn/resource/index.html" class="flex-item">资源干货</a>
+                
+                <a href="https://boardmix.cn/brainstorming/index.html" class="flex-item">头脑风暴</a>
+                
+                <a href="https://boardmix.cn/design-research/index.html" class="flex-item">设计探索</a>
+                
+                <a href="https://boardmix.cn/online-education/index.html" class="flex-item">创新教学</a>
+                
+                <a href="https://boardmix.cn/diagramming/index.html" class="flex-item">绘图</a>
+                
+                <a href="https://boardmix.cn/agile-workflows/index.html" class="flex-item">敏捷开发流程</a>
+                
+                <a href="https://boardmix.cn/project-management/index.html" class="flex-item">项目管理</a>
+                
+                <a href="https://boardmix.cn/strategy-planning/index.html" class="flex-item">战略规划与分析</a>
+                
+                <a href="https://boardmix.cn/online-notes/index.html" class="flex-item">个人笔记</a>
+                
+                <a href="https://boardmix.cn/online-meeting/index.html" class="flex-item">在线研讨会</a>
+                
+                <a href="https://boardmix.cn/team-collaboration/index.html" class="flex-item">团队实时协作</a>
+                
+                <a href="https://boardmix.cn/inspiration-collection/index.html" class="flex-item">灵感收集与知识梳理</a>
+                
+                <a href="https://boardmix.cn/examination/index.html" class="flex-item">考研考公冲刺</a>
+                
+                <a href="https://boardmix.cn/ai-drawing/index.html" class="flex-item">AI绘画</a>
+                
+              </div>
+            </div>
+            
+            </div>
+            <div class="exhibition-content-item content-item-conversation">
+              <h3>最新话题</h3>
+              <div class="exhibition-item">
+                <ul>
+					<li class="exhibition-item-li one-line"><a class="exhibition-item-li-link" href="https://boardmix.cn/article/free-mind-map-templates/">漂亮实用的免费思维导图模板，可在线编辑！</a></li>
+					<li class="exhibition-item-li one-line"><a class="exhibition-item-li-link" href="https://boardmix.cn/article/flowchart-tool-vision/">这款流程图工具visio替代，有多好用我不说！</a></li>
+					<li class="exhibition-item-li one-line"><a class="exhibition-item-li-link" href="https://boardmix.cn/article/maslow-hierarchy-of-needs-model/">图解马斯洛需求层次模型包括什么内容？</a></li>
+					<li class="exhibition-item-li one-line"><a class="exhibition-item-li-link" href="https://boardmix.cn/article/what-is-yang-triangle-theory/">如何用杨三角能力模型提升组织竞争力！</a></li>
+					<li class="exhibition-item-li one-line"><a class="exhibition-item-li-link" href="https://boardmix.cn/article/what-is-pyramid-principles/">金字塔原理揭秘，养成结构化思维方式！</a></li>
+				  </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+
+      <section class="px-container related-container function--container">
+        <div class="banner-btn" style="position: relative;">
+          <img src="https://cms.boardmix.cn/images/mind-map/About-us.png" alt="aboutus">
+          <span class="call-us" style="">试试，新一代AI效率神器<br class="function--phone-br">
+          @ boardmix</span>
+          <a href="https://boardmix.cn/app/" class="banner-btn-txt function--help" style="position:absolute;top: 45px;"><span class="">在线使用</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="px-container related-container">
+        <h3 class="related-title">相关文章 </h3>
+        <div class="row font-weight-medium hover-art mb-4 related-list">
+			<div class="col-xl-4 py-3 relative-article item">
+			  <a href="https://boardmix.cn/article/decisiontreemodel/" class="d-block nav-link p-0">
+				<div class="related-img-box">
+				  <img src="https://cms.boardmix.cn/images/cover/decisiontreemodel.png" class="related-img" alt="玩转职场的高效决策方法，那必须得是决策树模型！">
+				  <div class="related-tag">
+					个人笔记
+				  </div>
+				</div>
+				<h6 class="title tow-lines">玩转职场的高效决策方法，那必须得是决策树模型！</h6>
+				<!-- <p class="desc tow-lines">决策树是一种简单高效并且能够对时间做出强有力解释的决策模型</p> -->
+				</a><a href="https://boardmix.cn/article/decisiontreemodel/" class="learn-more">了解更多
+				  <svg width="6.502930" class="learn-arrow" height="10.750000" viewBox="0 0 6.50293 10.75" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<path d="M0.205566 0.240234C-0.081543 0.545898 -0.0664062 1.0127 0.239746 1.2998L4.64795 5.43262L0.247559 9.44238C-0.0625 9.72461 -0.0844727 10.1914 0.19873 10.502C0.481445 10.8125 0.947754 10.834 1.2583 10.5508L6.2583 5.99512Q6.27979 5.97461 6.30029 5.95312Q6.35079 5.89926 6.38981 5.83658Q6.42882 5.7739 6.45486 5.70482Q6.4809 5.63573 6.49297 5.56289Q6.50503 5.49005 6.50265 5.41626Q6.50027 5.34247 6.48354 5.27056Q6.4668 5.19865 6.43637 5.13138Q6.40593 5.06412 6.36295 5.00408Q6.31998 4.94405 6.26611 4.89355L1.26611 0.206055C0.959473 -0.0810547 0.493164 -0.0664062 0.205566 0.240234Z" fill-rule="evenodd" fill="#565DFF"></path>
+					<defs></defs>
+				  </svg>
+				</a>
+			</div>
+			<div class="col-xl-4 py-3 relative-article item">
+			  <a href="https://boardmix.cn/article/jueceshufenxi/" class="d-block nav-link p-0">
+				<div class="related-img-box">
+				  
+				  <img src="https://cms.boardmix.cn/images/cover/jueceshufenxi.png" class="related-img" alt="项目风险应对工具之决策树分析法">
+				  
+				  <div class="related-tag">
+					项目管理
+				  </div>
+				</div>
+				<h6 class="title tow-lines">项目风险应对工具之决策树分析法</h6>
+				<!-- <p class="desc tow-lines">决策树分析法的应用场景非常广泛，在项目管理的过程中，项目经理可以应用这个方法进行项目风险管理中的实施定量风险分析</p> -->
+				</a><a href="https://boardmix.cn/article/jueceshufenxi/" class="learn-more">了解更多
+				  <svg width="6.502930" class="learn-arrow" height="10.750000" viewBox="0 0 6.50293 10.75" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<path d="M0.205566 0.240234C-0.081543 0.545898 -0.0664062 1.0127 0.239746 1.2998L4.64795 5.43262L0.247559 9.44238C-0.0625 9.72461 -0.0844727 10.1914 0.19873 10.502C0.481445 10.8125 0.947754 10.834 1.2583 10.5508L6.2583 5.99512Q6.27979 5.97461 6.30029 5.95312Q6.35079 5.89926 6.38981 5.83658Q6.42882 5.7739 6.45486 5.70482Q6.4809 5.63573 6.49297 5.56289Q6.50503 5.49005 6.50265 5.41626Q6.50027 5.34247 6.48354 5.27056Q6.4668 5.19865 6.43637 5.13138Q6.40593 5.06412 6.36295 5.00408Q6.31998 4.94405 6.26611 4.89355L1.26611 0.206055C0.959473 -0.0810547 0.493164 -0.0664062 0.205566 0.240234Z" fill-rule="evenodd" fill="#565DFF"></path>
+					<defs></defs>
+				  </svg>
+				</a>
+			</div>
+			<div class="col-xl-4 py-3 relative-article item">
+			  <a href="https://boardmix.cn/article/improveteamdecision/" class="d-block nav-link p-0">
+				<div class="related-img-box">
+				  
+				  <img src="https://cms.boardmix.cn/images/cover/improveteamdecision.png" class="related-img" alt="如何提高团队决策效率？决策树来帮你！">
+				  
+				  <div class="related-tag">
+					绘图
+				  </div>
+				</div>
+				<h6 class="title tow-lines">如何提高团队决策效率？决策树来帮你！</h6>
+				<!-- <p class="desc tow-lines">做好决策直接关系到团队工作效率与工作完成度</p> -->
+				</a><a href="https://boardmix.cn/article/improveteamdecision/" class="learn-more">了解更多
+				  <svg width="6.502930" class="learn-arrow" height="10.750000" viewBox="0 0 6.50293 10.75" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<path d="M0.205566 0.240234C-0.081543 0.545898 -0.0664062 1.0127 0.239746 1.2998L4.64795 5.43262L0.247559 9.44238C-0.0625 9.72461 -0.0844727 10.1914 0.19873 10.502C0.481445 10.8125 0.947754 10.834 1.2583 10.5508L6.2583 5.99512Q6.27979 5.97461 6.30029 5.95312Q6.35079 5.89926 6.38981 5.83658Q6.42882 5.7739 6.45486 5.70482Q6.4809 5.63573 6.49297 5.56289Q6.50503 5.49005 6.50265 5.41626Q6.50027 5.34247 6.48354 5.27056Q6.4668 5.19865 6.43637 5.13138Q6.40593 5.06412 6.36295 5.00408Q6.31998 4.94405 6.26611 4.89355L1.26611 0.206055C0.959473 -0.0810547 0.493164 -0.0664062 0.205566 0.240234Z" fill-rule="evenodd" fill="#565DFF"></path>
+					<defs></defs>
+				  </svg>
+				</a>
+			</div>
+			<div class="col-xl-4 py-3 relative-article item">
+			  <a href="https://boardmix.cn/article/pmbizhi3luoji/" class="d-block nav-link p-0">
+				<div class="related-img-box">
+				  
+				  <img src="https://cms.boardmix.cn/images/cover/pmbizhi3luoji.png" class="related-img" alt="产品经理必知的3个逻辑，KT决策、框架效果、FBM模型！">
+				  
+				  <div class="related-tag">
+					资源干货
+				  </div>
+				</div>
+				<h6 class="title tow-lines">产品经理必知的3个逻辑，KT决策、框架效果、FBM模型！</h6>
+				<!-- <p class="desc tow-lines">三个方法助于产品经理决策、理清产品思路、提供参考</p> -->
+				</a><a href="https://boardmix.cn/article/pmbizhi3luoji/" class="learn-more">了解更多
+				  <svg width="6.502930" class="learn-arrow" height="10.750000" viewBox="0 0 6.50293 10.75" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<path d="M0.205566 0.240234C-0.081543 0.545898 -0.0664062 1.0127 0.239746 1.2998L4.64795 5.43262L0.247559 9.44238C-0.0625 9.72461 -0.0844727 10.1914 0.19873 10.502C0.481445 10.8125 0.947754 10.834 1.2583 10.5508L6.2583 5.99512Q6.27979 5.97461 6.30029 5.95312Q6.35079 5.89926 6.38981 5.83658Q6.42882 5.7739 6.45486 5.70482Q6.4809 5.63573 6.49297 5.56289Q6.50503 5.49005 6.50265 5.41626Q6.50027 5.34247 6.48354 5.27056Q6.4668 5.19865 6.43637 5.13138Q6.40593 5.06412 6.36295 5.00408Q6.31998 4.94405 6.26611 4.89355L1.26611 0.206055C0.959473 -0.0810547 0.493164 -0.0664062 0.205566 0.240234Z" fill-rule="evenodd" fill="#565DFF"></path>
+					<defs></defs>
+				  </svg>
+				</a>
+			</div>
+			<div class="col-xl-4 py-3 relative-article item">
+			  <a href="https://boardmix.cn/article/decisionmakingtree/" class="d-block nav-link p-0">
+				<div class="related-img-box">
+				  
+				  <img src="https://cms.boardmix.cn/images/cover/decisionmakingtree.png" class="related-img" alt="什么是决策树？学会使用决策树分析和预测！">
+				  
+				  <div class="related-tag">
+					绘图
+				  </div>
+				</div>
+				<h6 class="title tow-lines">什么是决策树？学会使用决策树分析和预测！</h6>
+				<!-- <p class="desc tow-lines">决策是一个思考、分析、解决问题的思维过程，当面临多重选择时，可以利用决策树模型将各种可能性“可视化”出来</p> -->
+				</a><a href="https://boardmix.cn/article/decisionmakingtree/" class="learn-more">了解更多
+				  <svg width="6.502930" class="learn-arrow" height="10.750000" viewBox="0 0 6.50293 10.75" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<path d="M0.205566 0.240234C-0.081543 0.545898 -0.0664062 1.0127 0.239746 1.2998L4.64795 5.43262L0.247559 9.44238C-0.0625 9.72461 -0.0844727 10.1914 0.19873 10.502C0.481445 10.8125 0.947754 10.834 1.2583 10.5508L6.2583 5.99512Q6.27979 5.97461 6.30029 5.95312Q6.35079 5.89926 6.38981 5.83658Q6.42882 5.7739 6.45486 5.70482Q6.4809 5.63573 6.49297 5.56289Q6.50503 5.49005 6.50265 5.41626Q6.50027 5.34247 6.48354 5.27056Q6.4668 5.19865 6.43637 5.13138Q6.40593 5.06412 6.36295 5.00408Q6.31998 4.94405 6.26611 4.89355L1.26611 0.206055C0.959473 -0.0810547 0.493164 -0.0664062 0.205566 0.240234Z" fill-rule="evenodd" fill="#565DFF"></path>
+					<defs></defs>
+				  </svg>
+				</a>
+			</div>
+			<div class="col-xl-4 py-3 relative-article item">
+			  <a href="https://boardmix.cn/article/whatispest/" class="d-block nav-link p-0">
+				<div class="related-img-box">
+				  
+				  <img src="https://cms.boardmix.cn/images/cover/whatispest.png" class="related-img" alt="什么是PEST分析法，企业市场决策都用它！">
+				  
+				  <div class="related-tag">
+					战略规划与分析
+				  </div>
+				</div>
+				<h6 class="title tow-lines">什么是PEST分析法，企业市场决策都用它！</h6>
+				<!-- <p class="desc tow-lines">PEST 分析是一种重要的市场研究工具，可以提供有用的洞察</p> -->
+				</a><a href="https://boardmix.cn/article/whatispest/" class="learn-more">了解更多
+				  <svg width="6.502930" class="learn-arrow" height="10.750000" viewBox="0 0 6.50293 10.75" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<path d="M0.205566 0.240234C-0.081543 0.545898 -0.0664062 1.0127 0.239746 1.2998L4.64795 5.43262L0.247559 9.44238C-0.0625 9.72461 -0.0844727 10.1914 0.19873 10.502C0.481445 10.8125 0.947754 10.834 1.2583 10.5508L6.2583 5.99512Q6.27979 5.97461 6.30029 5.95312Q6.35079 5.89926 6.38981 5.83658Q6.42882 5.7739 6.45486 5.70482Q6.4809 5.63573 6.49297 5.56289Q6.50503 5.49005 6.50265 5.41626Q6.50027 5.34247 6.48354 5.27056Q6.4668 5.19865 6.43637 5.13138Q6.40593 5.06412 6.36295 5.00408Q6.31998 4.94405 6.26611 4.89355L1.26611 0.206055C0.959473 -0.0810547 0.493164 -0.0664062 0.205566 0.240234Z" fill-rule="evenodd" fill="#565DFF"></path>
+					<defs></defs>
+				  </svg>
+				</a>
+			</div>
+		  </div>
+        
+      </section>
+    </main>
+    <div class="ed-footer-wrapper"><div class="fic-to-top__home fic-to-top backToTop"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.6863 27.3137C7.68685 30.3143 11.7565 32 16 32C20.2435 32 24.3132 30.3143 27.3137 27.3137C30.3143 24.3132 32 20.2435 32 16C32 11.7565 30.3143 7.68685 27.3137 4.6863C24.3132 1.6857 20.2435 0 16 0C11.7565 0 7.68685 1.6857 4.6863 4.6863C1.6857 7.68685 0 11.7565 0 16C0 20.2435 1.6857 24.3132 4.6863 27.3137Z" fill="white"></path><rect width="16" height="16" transform="translate(8 8)" fill="white"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M15.9868 10.2402C15.6668 10.2402 15.3788 10.3682 15.1548 10.5922L9.29883 16.8642C8.91484 17.2802 9.01084 17.6322 9.07485 17.7602C9.13884 17.8882 9.33084 18.2082 9.87484 18.2082H12.4348V22.8162C12.4348 23.4562 12.9788 24.0002 13.6188 24.0002H18.3228C18.9628 24.0002 19.5068 23.4882 19.5068 22.8162V18.2402H22.0988C22.6428 18.2402 22.8348 17.9202 22.8988 17.7922C22.9948 17.6322 23.0908 17.2802 22.7068 16.8642L16.8188 10.6242C16.6268 10.3682 16.3068 10.2402 15.9868 10.2402Z" fill="#474747"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M22.8349 8.512C22.8349 8.224 22.6109 8 22.3229 8H9.68286C9.39486 8 9.13885 8.224 9.13885 8.512C9.13885 8.8 9.39486 9.024 9.68286 9.024H22.3229C22.6109 9.024 22.8349 8.8 22.8349 8.512Z" fill="#474747"></path></svg></div><div style="    position: fixed;
+    z-index: 999999999; right: 24px; bottom: 64px; width: 54px;  height: 54px;
+    background: #8939FF url(https://cms.boardmix.cn/images/service-icon.svg) center center / contain no-repeat; border-radius: 12px;
+    cursor: pointer;display:none" id="customerservice"></div><footer class="ed-footer ed-footer-new"><div class="footer-middle"><div class="company-introduction"><img src="https://cms.boardmix.cn/images/new-home/footer-logo.png" class="ed-logo" alt="boardmix logo"><dl><dt>解决方案<i class="el-icon-arrow-down"><img src="https://cms.boardmix.cn/images/new-home/footer-arrow-down.svg" style="height:20px;width:60px" alt="箭头"></i></dt><dd><a href="https://boardmix.cn/collaboration/" target="_blank" data-track="6" class="menu-track">团队协作提效</a></dd><dd><a href="https://boardmix.cn/online-meeting/" target="_blank" data-track="6" class="menu-track">在线研讨会</a></dd><dd><a href="https://boardmix.cn/brainstorming/" target="_blank" data-track="6" class="menu-track">头脑风暴</a></dd><dd><a href="https://boardmix.cn/design-research/" target="_blank" data-track="6" class="menu-track">设计探索</a></dd><dd><a href="https://boardmix.cn/agile-workflows/" target="_blank" data-track="6" class="menu-track">敏捷开发流程</a></dd><dd><a href="https://boardmix.cn/inspiration-collection/" target="_blank" data-track="6" class="menu-track">灵感收集与知识梳理</a></dd><dd><a href="https://boardmix.cn/online-notes/" target="_blank" data-track="6" class="menu-track">个人笔记</a></dd></dl><dl><dt>探索<i class="el-icon-arrow-down"><img src="https://cms.boardmix.cn/images/new-home/footer-arrow-down.svg" style="height:20px;width:60px" alt="箭头"></i></dt><dd><a href="https://boardmix.cn/community/" target="_blank" data-track="9" class="menu-track">模板社区</a></dd><dd><a href="https://boardmix.cn/help/" target="_blank" data-track="10" class="menu-track">帮助中心</a></dd><dd><a href="https://boardmix.cn/releases/" target="_blank" data-track="11" class="menu-track">最新功能</a></dd></dl><dl><dt>关于我们<i class="el-icon-arrow-down"><img src="https://cms.boardmix.cn/images/new-home/footer-arrow-down.svg" style="height:20px;width:60px" alt="箭头"></i></dt><dd><a href="https://boardmix.cn/contact-us/" target="_blank" data-track="12" class="menu-track">联系我们</a></dd><dd><a href="https://boardmix.cn/about-us/" target="_blank" data-track="12" class="menu-track">关于我们</a></dd></dl><dl><dt>服务<i class="el-icon-arrow-down"><img src="https://cms.boardmix.cn/images/new-home/footer-arrow-down.svg" style="height:20px;width:60px" alt="箭头"></i></dt><dd><a href="https://boardmix.cn/download/" target="_blank">产品下载</a></dd><dd><a href="https://boardmix.cn/privatedeploy/" target="_blank">私有化部署</a></dd><dd><a href="https://boardmix.cn/private-policy/" target="_blank">隐私政策</a></dd><dd><a href="https://boardmix.cn/term-services/" target="_blank">使用条款</a></dd></dl><dl class="mobile-hide dl-with-logo"><dd class="d-flex logo-container"><div class="position-relative footer-logo"><div class="logo-hover-icon"><img class="weixin-logo img-fluid" src="https://cms.boardmix.cn/images/new-home/weixin-logo-v2.svg" alt="weixin logo"></div><div class="code-img-container position-absolute"><img src="https://cms.boardmix.cn/images/wx-code.png" class="wx-code" alt="wx code"></div></div><div class="position-relative footer-logo"><div class="logo-hover-icon"><img class="weibo-logo img-fluid" src="https://cms.boardmix.cn/images/new-home/weibo-logo-v2.svg" alt="weibo logo"></div><div class="code-img-container position-absolute"><img src="https://cms.boardmix.cn/images/common/weibo-code.png" class="position-absolute wb-code" alt="weibo"></div></div></dd></dl></div></div><div class="footer-logo-image mobile-hide"><img src="https://cms.boardmix.cn/images/new-home/bm-footer-logo.png" alt="logo"></div><div class="footer-logo-image-mobile mobile-show"><img class="mobile-img-left" src="https://cms.boardmix.cn/images/new-home/bm-footer-logo.png" alt="logo"></div><div class="footer-logo-image-mobile mobile-show" style="margin-top:24px"><img class="mobile-img-right" src="https://cms.boardmix.cn/images/new-home/bm-footer-logo-color.png" alt="logo"></div><div class="logo-container-mobile mobile-show"><div class="position-relative footer-logo"><div class="logo-hover-icon"><img class="weixin-logo img-fluid" src="https://cms.boardmix.cn/images/new-home/weixin-logo-v2.svg" alt="weixin logo"></div><div class="code-img-container position-absolute"><img src="https://cms.boardmix.cn/images/wx-code.png" class="wx-code" alt="wx code"></div></div><div class="position-relative footer-logo"><div class="logo-hover-icon"><img class="weibo-logo img-fluid" src="https://cms.boardmix.cn/images/new-home/weibo-logo-v2.svg" alt="weibo logo"></div><div class="code-img-container position-absolute"><img src="https://cms.boardmix.cn/images/common/weibo-code.png" class="position-absolute wb-code" alt="weibo"></div></div></div><div class="footer-copyright"><div class="footer-copyright-left"><span>博思云创版权所有2024</span><span>&nbsp;|&nbsp;</span><br class="mobile-show"><a rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502008643">粤公网安备44030502008643</a><span>&nbsp;|&nbsp;</span><a rel="nofollow" href="https://beian.miit.gov.cn/#/Integrated/index">粤ICP备2021147974号-2</a></div><div class="footer-logo-image footer-copyright-logo-image"><img src="https://cms.boardmix.cn/images/new-home/bm-footer-logo-color.png" alt="logo-color"></div></div></footer><div style="position:absolute;width:0;height:0;overflow:hidden"><svg id="header-dropdown--arrow" width="20.000000" height="20.000000" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs></defs><g opacity="0.700000"><path id="矢量 455 (边框)" d="M6.53033 12.5518C6.23337 12.8486 5.76666 12.8486 5.4697 12.5518C5.1727 12.2549 5.1727 11.7881 5.4697 11.4912L9.4697 7.49121C9.64645 7.31445 9.82324 7.22559 10 7.22559C10.1768 7.22559 10.3536 7.31445 10.5303 7.49121L14.5303 11.4912C14.8273 11.7881 14.8273 12.2549 14.5303 12.5518C14.2334 12.8486 13.7667 12.8486 13.4697 12.5518L10 9.08203L6.53033 12.5518Z" fill-rule="evenodd" fill="currentColor"></path></g></svg></div></div>	<div class="ppt-modal-overlay ppt-center" id="modalOverlay">
+		<iframe id="modalIframe" frameborder="0"></iframe>
+	</div>
+    <!-- Google Tag Manager (noscript) -->
+<noscript>&lt;iframe
+		src="https://www.googletagmanager.com/ns.html?id=GTM-M44N5CX3"
+		height="0"
+		width="0"
+		style="display: none; visibility: hidden"
+	&gt;&lt;/iframe
+&gt;</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script src="https://boardmix.cn/assets/wsc-vendor.js"></script>
+<script src="https://boardmix.cn/assets/wsc-common.js"></script><aside class="parameter" id="wsc-load"></aside>
+<script src="https://boardmix-cms.oss-cn-hangzhou.aliyuncs.com/assets/cas-client-bosyun.www.js"></script>
+<script>
+                  var {
+		sensors
+	} = bosyunSensors.sensorsInit("www", "board", bosyunSensors.StorageAPI.cookie);
+        window.casClient = bosyunCas.casClient;
+ 
+	$(function () {
+		wsc.common.init();
+	});
+</script>
+<script>
+	let $globalHelper;
+	var sensors = window["sensors"];
+	function track(event, properties) {
+		if (sensors != undefined) {
+			sensors.track(`BM-${event}`, properties);
+		}
+	}
+	function setOnlineService(src, id) {
+		var qiDianScript = document.createElement("script");
+		qiDianScript.id = id;
+		qiDianScript.src = src;
+		qiDianScript.charset = "utf-8";
+		qiDianScript.async = true;
+		qiDianScript.defer = true;
+		$(".header").before(qiDianScript);
+	}
+	function getQueryString(name) {
+		const reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+		const r = window.location.search.substr(1).match(reg);
+		if (r !== null) {
+			return decodeURIComponent(r[2]);
+		}
+		return null;
+	}
+	function getCookie(name) {
+		var arr = document.cookie.match(
+			new RegExp("(^| )" + name + "=([^;]*)(;|$)")
+		);
+		if (arr != null) {
+			return unescape(arr[2]);
+		}
+		return null;
+	}
+	const encodeValue = (value) => {
+  const hasChinese = /[\u4e00-\u9fa5]/g.test(value);
+  return hasChinese ? btoa(encodeURIComponent(value)) : value;
+};
+	function getUtmBaggage() {
+		if (typeof getUtmBaggage.cache !== "undefined") {
+			return getUtmBaggage.cache;
+		}
+		const utmList = [];
+		[
+			"utm_campaign",
+			"utm_source",
+			"utm_medium",
+			"utm_term",
+			"utm_content",
+		].forEach((key) => {
+			const value = getQueryString(key);
+			if (value) {
+				utmList.push(`${key}=${encodeValue(value)}`);
+			}
+		});
+		const utmBaggage = utmList.join("&");
+		getUtmBaggage.cache = utmBaggage;
+		return utmBaggage;
+	}
+	const LOGIN_PAGE = "/user/login/";
+	const BOSYUN_USER_API = "/api/user/";
+
+	class GlobalHelper {
+		modalOverlay = undefined;
+		modalIframe = undefined;
+		currentModalClass = "";
+		constructor() {
+			this.modalOverlay = document.getElementById("modalOverlay");
+			this.modalIframe = document.getElementById("modalIframe");
+		}
+
+		openGlobalModal(payload) {
+			const { src, className } = payload;
+			if (src) {
+				this.currentModalClass = className;
+				this.modalOverlay.classList.add("active", className);
+				this.modalIframe.src = src;
+			}
+		}
+
+		closeGlobalModal() {
+			if (this.modalOverlay && this.modalIframe) {
+				this.modalOverlay.classList.remove(
+					"active",
+					this.currentModalClass
+				);
+				this.currentModalClass = "";
+				this.modalIframe.src = "";
+			}
+		}
+
+		_handleLoginIframeMessage(messageData, payload) {
+			const { data, event } = messageData;
+			if (data) {
+				switch (event) {
+					case "login-success":
+						casClient.setLocalCookie(data);
+						this.closeGlobalModal();
+						if (payload?.loginCallBack) {
+							payload.loginCallBack();
+						} else {
+							window.location.href =
+								payload?.redirectUrl ?? "/app/";
+						}
+						break;
+					case "third_login":
+						window.location.href = data;
+						break;
+				}
+			} else if (event === "close") {
+				this.closeGlobalModal();
+			}
+		}
+
+		_initCasClient() {
+			casClient &&
+				casClient.init({
+					redirect_url:
+						location.origin + location.pathname + location.search,
+					ux_mode: "redirect",
+					channel:
+						sessionStorage.getItem("bm-from-channel") || undefined,
+					login_page: LOGIN_PAGE,
+					userapi_url: BOSYUN_USER_API,
+					product: "pptgo",
+					responseType: "none",
+				});
+		}
+
+		_initSensor() {
+			if (typeof initSensors !== undefined) {
+				const isProd = location.host === "boardmix.cn";
+				const ua = isProd ? "UA_BoardMix_Web" : "UA_BoardMix_Web_test";
+				const abtestUrl = isProd
+					? "https://abtest-tx-beijing-01.saas.sensorsdata.cn/api/v2/abtest/online/results?project-key=6B20C9D90188A3E0573F163EA769C81211D22F5D"
+					: "https://abtest-tx-beijing-01.saas.sensorsdata.cn/api/v2/abtest/online/results?project-key=08B50C3533CC4CB27765C5281EC1BC19D9CD04CC";
+				initSensors(ua, abtestUrl);
+			}
+		}
+
+		openLoginDialog(payload) {
+		  const utmBaggage = getUtmBaggage();
+			this.openGlobalModal({
+				src: `/user/login/?current_type=dialog&product=board&${utmBaggage}`,
+			});
+			let _this = this;
+			window.addEventListener("message", function (e) {
+				const { protocol, host } = window.location;
+				const parentOrigin = `${protocol}//${host}`;
+				if (e.origin !== parentOrigin) {
+					return;
+				}
+				_this._handleLoginIframeMessage(e.data, payload);
+			});
+		}
+
+		defaultABTestConfig = {
+			LoginPageType: {
+				type: "String",
+				default: "Webpage",
+			},
+		};
+		getABTestResult(key) {
+			const config = this.defaultABTestConfig[key];
+			if (config && window.sensorsABTest) {
+				return new Promise((resolve) => {
+					window.sensorsABTest?.fastFetchABTest({
+						param_name: key,
+						default_value: config.default,
+						value_type: config.type,
+						callback: function (result) {
+							resolve(result);
+						},
+					});
+				});
+			} else {
+				return config.default;
+			}
+		}
+
+		init() {
+			this._initCasClient();
+		}
+	}
+</script>
+<script>
+	$(function () {
+		$globalHelper = new GlobalHelper();
+		$globalHelper.init();
+
+		let userInfo = JSON.parse(getCookie("BOSYUNCurrent"));
+		if (userInfo) {
+			$(".header--login").hide();
+			$(".after-login").show();
+		} else {
+			$(".header--login").show();
+		}
+
+		const sceneObj = {
+			"/app/home/flowchart": "flowchart",
+			"/app/home/mindmap": "mindmap",
+			"/app/home/ui": "ui",
+			"/app/home/ppt": "ppt",
+			"/app/home/aichat": "aichat",
+		};
+
+		function getSceneTab(target) {
+			const key = Object.keys(sceneObj).find((key) =>
+				target.includes(sceneObj[key])
+			);
+			if (key !== undefined) {
+				return sceneObj[key];
+			} else {
+				return undefined;
+			}
+		}
+		function objectToQueryString(obj) {
+			return Object.keys(obj)
+				.map((key) => key + "=" + obj[key])
+				.join("&");
+		}
+
+		$('a[href*="/app"]:not([data-raw-link])').click(function (e) {
+			e.preventDefault();
+			const utmBaggage = getUtmBaggage();
+			const landingLink = "/app/landing/";
+			const currentHref = $(this).attr("href");
+			const sceneTab = getSceneTab(currentHref);
+
+			function turnToApp() {
+				let targetHref = currentHref;
+				let landingParams = {};
+				if (utmBaggage) {
+					landingParams.action = "utm";
+
+					if (sceneTab) {
+						landingParams.scene = sceneTab;
+					}
+				}
+
+				if (Object.keys(landingParams).length > 0) {
+					targetHref = `${landingLink}?${utmBaggage}&${objectToQueryString(
+						landingParams
+					)}`;
+				}
+
+				if ($(this).attr("target") == "_blank") {
+					window.open(targetHref);
+				} else {
+					location.href = targetHref;
+				}
+			}
+
+			if (window.innerWidth < 768) {
+				var userInfo = JSON.parse(getCookie("BOSYUNCurrent"));
+				if (userInfo != null) {
+					turnToApp();
+				} else {
+					location.href = `https://boardmix.cn/user/login/?response_type=none&redirect_uri=${location.href}&from=1&product=board&ux_mode=redirect&${utmBaggage}`;
+				}
+			} else {
+				turnToApp();
+			}
+		});
+			$("main [href^='/app/landing'][data-raw-link]").click(function(e){
+		  const target = "https://boardmix.cn" + $(this).attr("href")
+		  const utmBaggage = getUtmBaggage();
+		  const userInfo = JSON.parse(getCookie("BOSYUNCurrent"));
+		  if(!userInfo){
+		    e.preventDefault();
+		    location.href = `https://boardmix.cn/user/login/?response_type=none&redirect_uri=${encodeURIComponent(target)}&from=1&product=board&ux_mode=redirect&${utmBaggage}`;
+		  }
+		});
+		
+
+
+		(function () {
+			$(".global-login-button").click(function () {
+				const utmBaggage = getUtmBaggage();
+						location.href =
+							`/user/login/?response_type=none&redirect_uri=https://boardmix.cn/app/&from=1&product=board&ux_mode=redirect&${utmBaggage}`;
+			});
+		})();
+
+		var timeout = null;
+		window.addEventListener("scroll", function () {
+			if (timeout !== null) clearTimeout(timeout);
+			timeout = setTimeout(
+				function () {
+					var scrollTop = this.scrollY;
+					if (scrollTop > 400) {
+						$(".fic-to-top").addClass("fic-to-top__show");
+					} else {
+						$(".fic-to-top").removeClass("fic-to-top__show");
+					}
+				}.bind(this),
+				500
+			);
+		});
+		$(".backToTop").click(function (e) {
+			e.preventDefault();
+			$("html, body").animate(
+				{
+					scrollTop: 0,
+				},
+				"300"
+			);
+		});
+		$(".close-business-apply").click(function (event) {
+			event.stopPropagation();
+			event.preventDefault();
+			$(".business-apply").remove();
+			$(".business-apply--btn-close").remove();
+			$(".header").css("top", 0);
+		});
+
+		function toggleHeaderExpand() {
+			$(".header--expand").toggleClass("header--expand__active");
+			$(".header--content").toggleClass("header--content__expand");
+			$(".header--menu--mask").toggleClass("show");
+			$(".expand-icon").toggleClass("d-none");
+			$(".shrink-icon").toggleClass("d-none");
+		}
+		$(".header--expand").click(function () {
+			toggleHeaderExpand();
+		});
+		$(".header--menu--mask").click(function () {
+			toggleHeaderExpand();
+		});
+
+		function handleMobileHeaderClick() {
+			if (window.innerWidth < 1181) {
+				$(".header #collapse1").addClass("collapse");
+				$(".header #collapse2").addClass("collapse");
+			} else {
+				$(".header #collapse1").removeClass("collapse");
+				$(".header #collapse2").removeClass("collapse");
+			}
+		}
+		handleMobileHeaderClick();
+		$(window).resize(function () {
+			handleMobileHeaderClick();
+		});
+
+		const SensorsEvent = "offcialWebsite";
+		const sensorsList = {
+			0: "所有产品-pixso首页",
+			1: "所有产品-Board首页",
+			2: "社区资源",
+			3: "下载",
+			4: "支持-帮助中心",
+			5: "支持-反馈中心",
+			6: "解决方案-思维导图",
+			7: "解决方案-流程图",
+			8: "探索-使用技巧",
+			9: "探索-最新功能",
+			10: "探索-帮助中心",
+			11: "关于我们-产品故事",
+			12: "关于我们-关于我们",
+			13: "产品",
+			14: "会员",
+			15: "私有化部署",
+		};
+		const sensorsCreateList = {
+			0: "创建白板",
+			1: "创建BoardMix白板",
+			3: "免费使用",
+			4: "登录/注册",
+			5: "进入工作台",
+			6: "会员-免费使用",
+			7: "会员-个人",
+			8: "会员-团队",
+			9: "立即购买终身",
+			10: "立即购买专业",
+			11: "抢先体验团队",
+			12: "抢先体验企业",
+			13: "成为终身会员",
+		};
+
+		$(".menu-track").click(function () {
+			var _this = $(this);
+			var sensorsIndex = _this.attr("data-track");
+			if (sensorsIndex == undefined) {
+				sensorsIndex = _this.parent("a").attr("data-track");
+			}
+			if (sensorsIndex != undefined) {
+				var sensorsType = sensorsList[sensorsIndex];
+				track(SensorsEvent, {
+					offcial_website_type: sensorsType,
+				});
+			}
+		});
+
+		$(".create-track").click(function () {
+			var _this = $(this);
+			var sensorsIndex = _this.attr("data-track");
+			if (sensorsIndex == undefined) {
+				sensorsIndex = _this.parent("a").attr("data-track");
+			}
+			if (sensorsIndex != undefined) {
+				var sensorsType = sensorsCreateList[sensorsIndex];
+				track(SensorsEvent, {
+					offcial_website_button_type: sensorsType,
+				});
+			}
+		});
+		if ($("main").attr("data-service") !== "custom") {
+			var qiDianTimer = setTimeout(function () {
+				setOnlineService(
+					"https://wp.qiye.qq.com/qidian/3009110804/965b8651ab6dedc3f8f44a3940219105",
+					"qd3009110804965b8651ab6dedc3f8f44a3940219105"
+				);
+				$(".ed-footer-wrapper #customerservice").fadeIn();
+				clearTimeout(qiDianTimer);
+				qiDianTimer = null;
+			});
+		}
+
+		if (window.innerWidth < 980) {
+			(function () {
+				const chineseReg = `[\u4E00-\u9FA5]+`;
+				const letterReg = `[a-zA-Z]+`;
+				function hasLetter(str) {
+					return new RegExp(`${letterReg}`, "g").test(str);
+				}
+				function hasChinese(str) {
+					return new RegExp(`${chineseReg}`, "g").test(str);
+				}
+				function getChineseUsername(name) {
+					const res = getAllChinese(name);
+					if (res) {
+						return res.substr(-2);
+					}
+					return "";
+				}
+				function getAllChinese(str) {
+					return str.match(new RegExp(chineseReg, "g")).join("");
+				}
+				function getAllLetter(str) {
+					return str.match(new RegExp(letterReg, "g")).join("");
+				}
+				function getEnglishUsername(name) {
+					let res = "";
+					name.split(" ")
+						.slice(0, 3)
+						.forEach((str) => {
+							const letter = getAllLetter(str);
+							res += letter ? letter[0].toLocaleUpperCase() : "";
+						});
+					return res;
+				}
+				function getSpecialCharacterUsername(name) {
+					return [...name].slice(0, 1).join("");
+				}
+				function cutOffUserName(name) {
+					const normalName = name.normalize();
+					if (hasChinese(normalName)) {
+						return getChineseUsername(normalName);
+					} else if (hasLetter(normalName)) {
+						return getEnglishUsername(normalName);
+					}
+					return getSpecialCharacterUsername(normalName);
+				}
+				const avatarColors = [
+					"#616FFE",
+					"#945DFA",
+					"#FE9935",
+					"#07C6C2",
+					"#2E9CFE",
+					"#FE59B4",
+				];
+				function getAvatarBgColor(id) {
+					const pos = Number.isNaN(Number(id))
+						? 0
+						: Number(id) % avatarColors.length;
+					return avatarColors[pos];
+				}
+				let avatarWrap = $(".header-avatar--user");
+				let avatarImg = $(".header-avatar--user-img");
+				var avatarLabel = $(".header-avatar--user-label");
+				let userName = $(".header-avatar--user-name");
+				var headerLoginMobile = $(".header-login-mobile");
+				function initMobileUserAvatar(userInfo) {
+					if (userInfo) {
+						if (userInfo.avatar_url) {
+							avatarImg
+								.attr("src", userInfo.avatar_url)
+								.removeClass("d-none");
+						} else {
+							avatarWrap.css(
+								"background-color",
+								getAvatarBgColor(userInfo.user_id)
+							);
+							avatarLabel
+								.text(cutOffUserName(userInfo.nick_name))
+								.removeClass("d-none");
+						}
+						userName.text(userInfo.nick_name);
+					}
+				}
+				function getCookie(name) {
+					var arr = document.cookie.match(
+						new RegExp("(^| )" + name + "=([^;]*)(;|$)")
+					);
+					if (arr != null) {
+						return unescape(arr[2]);
+					}
+					return null;
+				}
+				var userInfo = JSON.parse(getCookie("BOSYUNCurrent"));
+				$(".header-avatar").click(function (e) {});
+				if (userInfo) {
+					headerLoginMobile.hide();
+					avatarWrap.css("display", "flex");
+					initMobileUserAvatar(userInfo);
+				}
+			})();
+		}
+	});
+</script>
+    <script>
+      $(function() {
+        $('body').scrollspy({
+          target: '#list-howto'
+        })
+        if ($('#part1').prev().length == 0 && $('.article-nav').children().length != 0) {
+          $('.section').css('top', '-27px');
+        }
+         $('.related-list').children().eq(6).hide()
+        $('.related-list').children().eq(7).hide()
+        var list_howto_top = $('#list-howto').offset().top;
+        let relatedTitleTop = $('.related-title').offset().top - 300;
+        let isNewVersion = $('#list-howto').hasClass('update-version')
+        let clientWidth = document.body.clientWidth;
+
+        function fixListHowTo() {
+          var scroll = $(window).scrollTop();
+          if (clientWidth > 577) {
+            // if (scroll >= list_howto_top - 120 && scroll < $('.related-title').offset().top - 400) {
+            if (scroll >= list_howto_top - 120 && scroll < $('.related-title').offset().top - 900) {
+              $('#list-howto').css({
+                'position': 'fixed',
+                'top': '8.75rem',
+                'bottom': 'auto'
+              })
+            } else {
+              $('#list-howto').css({
+                'position': 'relative',
+                'top': 'auto',
+                'bottom': 'auto'
+              })
+            }
+            if (scroll >= 400) {
+              $('#nav-howto').addClass('subtitle-show')
+              $('.header').addClass('header-hide')
+            } else {
+              $('#nav-howto').removeClass('subtitle-show')
+              $('.header').removeClass('header-hide')
+            }
+          }
+        }
+
+        function listHowToFn() {
+          $(window).off('scroll', fixListHowTo)
+          if ($(window).width() >= 768) {
+            if ($('#list-howto').length == 0) return;
+            $(window).on('scroll', fixListHowTo)
+          }
+        }
+        listHowToFn();
+        $(window).resize(function() {
+          listHowToFn();
+        })
+      })
+    </script>
+    <script>
+      /**线索api回传 */
+      try {
+        if (new URL(location.href).searchParams.get("utm_source") === 'baidu') {
+          localStorage.setItem('bdUrl', location.href);
+          console.log('set bdurl successful');
+        }
+      } catch (e) {
+        console.log(e);
+      }
+    </script>
+  
+
+  </body></html>

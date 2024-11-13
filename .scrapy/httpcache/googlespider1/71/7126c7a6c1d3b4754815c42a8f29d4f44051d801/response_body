@@ -1,0 +1,439 @@
+<!DOCTYPE html><html lang="zh-hans" dir="ltr" class="js"><head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//cdn.eetrend.com">
+<!--[if IE 9]>
+<link rel="prefetch" href="//cdn.eetrend.com" />
+<![endif]-->
+<link rel="canonical" href="https://imgtec.eetrend.com/blog/2020/100047819.html">
+<link rel="canonical" href="/blog/2020/100047819.html">
+<link rel="shortlink" href="/node/100047819">
+<link rel="shortcut icon" href="https://cdn.eetrend.com/sites/all/themes/Imgtec/cropped-favicon-32x32.jpg" type="image/jpeg">
+  <title>一文了解人工智能的三大领域及其工业应用 | 电子创新网 Imgtec 社区</title>
+  <link type="text/css" rel="stylesheet" href="https://cdn.eetrend.com/files/cdn/css/https/css_VGL9turpHzU7bdnZpNrwquNDeTO1muToVRc3SPA6j_8.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.eetrend.com/files/cdn/css/https/css_n2pO3dODBrtmNPxWSc_OhjolUs8PEzCORVjzz57Go3c.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.eetrend.com/files/cdn/css/https/css_4q1nji0kFWjC9M6eylsN4sxmug5l8sZPLiGPugEplyg.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.eetrend.com/files/cdn/css/https/css_p1_gN2jfyM5P2uHgBdS8Cq2JHvU8sfxYW5BGP19M02I.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.eetrend.com/files/cdn/css-static/https/css_VGL9turpHzU7bdnZpNrwquNDeTO1muToVRc3SPA6j_8.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.eetrend.com/files/cdn/css-static/https/css_n2pO3dODBrtmNPxWSc_OhjolUs8PEzCORVjzz57Go3c.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.eetrend.com/files/cdn/css-static/https/css_4q1nji0kFWjC9M6eylsN4sxmug5l8sZPLiGPugEplyg.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://cdn.eetrend.com/files/cdn/css-static/https/css_p1_gN2jfyM5P2uHgBdS8Cq2JHvU8sfxYW5BGP19M02I.css" media="all">
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MV8JW5T"></script><script src="https://cdn.eetrend.com/files/jss-static/js_XexEZhbTmj1BHeajKr2rPfyR8Y68f4rm0Nv3Vj5_dSI.js"></script>
+<script src="https://cdn.eetrend.com/files/jss-static/js_VSKym_zvLDl1YMcD5l44PH639lM-s2e_cUdppITeDjA.js"></script>
+<script src="https://cdn.eetrend.com/files/jss-static/js_3EbP3zx42Bj4EPgdL-ttrx2AL5Hcgvr5EhEEw4hD7RA.js"></script>
+<script src="https://cdn.eetrend.com/files/jss-static/js_8ttSiWfIQRTeNXYm9cb6LhPx3rmzmyjRo6zpQPMuS0M.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"Imgtec","theme_token":"kL8mdnc2S1-voxhlUiNivKRENMgmmxzzIDVBskmheRs","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/autoupload\/js\/autoupload.js":1,"public:\/\/languages\/zh-hans_44wlkukAZzKCqtCKyR9rumkLi4aPWtPCVI3_-wvuTXo.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/Imgtec\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/coffee.css":1,"sites\/all\/themes\/Imgtec\/css\/bootstrap.imgtec.css":1,"sites\/all\/themes\/Imgtec\/css\/style.css":1}},"superfish":{"5":{"id":"5","sf":{"pathLevels":"2","animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main-menu-for-Imgtec"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MV8JW5T');</script>
+  <!-- End Google Tag Manager -->
+
+
+
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=480971"></script></head>
+<body class="navbar-is-fixed-top html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-100047819 node-type-blog domain-imgtec-eetrend-com">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">跳转到主要内容</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/" title="首页">
+          <img src="https://cdn.eetrend.com/sites/all/themes/Imgtec/Imagination_Logo-white.svg" alt="首页">
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse" id="navbar-collapse">
+        <nav role="navigation">
+                                                      <ul class="menu nav navbar-nav secondary"><li class="first leaf"><a href="/user/login?current=node/100047819" title="">登录</a></li>
+<li class="last leaf"><a href="/user/register" title="">注册</a></li>
+</ul>                                  <div class="region region-navigation">
+    <div class="visible-lg">
+    <section id="block-superfish-5" class="block block-superfish clearfix">
+
+            
+    <ul id="superfish-5" class="menu sf-menu sf-menu-main-menu-for-imgtec sf-horizontal sf-style-coffee sf-total-items-10 sf-parent-items-4 sf-single-items-6 superfish-processed sf-js-enabled sf-shadow"><li id="menu-3667-5" class="first odd sf-item-1 sf-depth-1 sf-total-children-11 sf-parent-children-0 sf-single-children-11 menuparent"><a href="/exclusive/product.html" title="" class="sf-depth-1 menuparent sf-with-ul">产品<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: auto;"><li id="menu-3673-5" class="first odd sf-item-1 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product.html" title="" class="sf-depth-2" style="float: none; width: auto;">所有产品</a></li><li id="menu-3864-5" class="middle even sf-item-2 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/GPU.html" title="" class="sf-depth-2" style="float: none; width: auto;">图形处理器（GPU）</a></li><li id="menu-3866-5" class="middle odd sf-item-3 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/AI.html" title="" class="sf-depth-2" style="float: none; width: auto;">人工智能（AI）</a></li><li id="menu-3676-5" class="middle even sf-item-4 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/Raytracing.html" title="" class="sf-depth-2" style="float: none; width: auto;">光线追踪</a></li><li id="menu-4804-5" class="middle odd sf-item-5 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/Functional-safety.html" title="" class="sf-depth-2" style="float: none; width: auto;">功能安全</a></li><li id="menu-4805-5" class="middle even sf-item-6 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/Software.html" title="" class="sf-depth-2" style="float: none; width: auto;">软件解决方案</a></li><li id="menu-4803-5" class="middle odd sf-item-7 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/IMG-DXS-GPU.html" title="" class="sf-depth-2" style="float: none; width: auto;">IMG DXS GPU</a></li><li id="menu-4617-5" class="middle even sf-item-8 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/IMG-DXD.html" title="" class="sf-depth-2" style="float: none; width: auto;">IMG DXD GPU</a></li><li id="menu-4596-5" class="middle odd sf-item-9 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/IMG-CXM-GPU.html" title="" class="sf-depth-2" style="float: none; width: auto;">IMG CXM GPU</a></li><li id="menu-4589-5" class="middle even sf-item-10 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/IMG-DXT-GPU.html" title="" class="sf-depth-2" style="float: none; width: auto;">IMG DXT GPU</a></li><li id="menu-3674-5" class="last odd sf-item-11 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/product/IMG-B-Series.html" title="" class="sf-depth-2" style="float: none; width: auto;">IMG B Series GPU</a></li></ul></li><li id="menu-3668-5" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/exclusive/Market.html" title="" class="sf-depth-1 menuparent sf-with-ul">应用市场<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: auto;"><li id="menu-3671-5" class="first odd sf-item-1 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/Market.html" title="" class="sf-depth-2" style="float: none; width: auto;">所有市场</a></li><li id="menu-3672-5" class="middle even sf-item-2 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/Market/Automotive.html" title="" class="sf-depth-2" style="float: none; width: auto;">汽车</a></li><li id="menu-3900-5" class="middle odd sf-item-3 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/Market/Consumer.html" title="" class="sf-depth-2" style="float: none; width: auto;">消费电子</a></li><li id="menu-3677-5" class="middle even sf-item-4 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/Market/Mobile.html" title="" class="sf-depth-2" style="float: none; width: auto;">移动设备</a></li><li id="menu-3901-5" class="last odd sf-item-5 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/Market/Data-Center%26Desktop.html" title="" class="sf-depth-2" style="float: none; width: auto;">数据中心和桌面级应用</a></li></ul></li><li id="menu-2509-5" class="middle odd sf-item-3 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/technology" title="" class="sf-depth-1 menuparent sf-with-ul">技术<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: auto;"><li id="menu-2511-5" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/blog" title="" class="sf-depth-2" style="float: none; width: auto;">博客</a></li></ul></li><li id="menu-2508-5" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/news" title="" class="sf-depth-1">动态</a></li><li id="menu-2513-5" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/activity" title="" class="sf-depth-1">活动</a></li><li id="menu-3669-5" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/exclusive/Developer.html" title="" class="sf-depth-1">开发者</a></li><li id="menu-2510-5" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="/download" title="" class="sf-depth-1">下载</a></li><li id="menu-2512-5" class="middle even sf-item-8 sf-depth-1 sf-no-children"><a href="/video" title="" class="sf-depth-1">视频</a></li><li id="menu-3437-5" class="middle odd sf-item-9 sf-depth-1 sf-no-children"><a href="https://university.imgtec.com/?utm_source=imgtec&amp;utm_medium=menu&amp;utm_campaign=markets_link" title="" class="sf-depth-1">大学计划</a></li><li id="menu-3670-5" class="last even sf-item-10 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/exclusive/about-imagination.html" title="" class="sf-depth-1 menuparent sf-with-ul">公司<span class="sf-sub-indicator"> »</span></a><ul class="sf-hidden" style="float: none; width: auto;"><li id="menu-2515-5" class="first odd sf-item-1 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/about-imagination.html" title="" class="sf-depth-2" style="float: none; width: auto;">关于我们</a></li><li id="menu-3849-5" class="middle even sf-item-2 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/exclusive/why-choose-imagination.html" title="" class="sf-depth-2" style="float: none; width: auto;">为什么选择 Imagination</a></li><li id="menu-2668-5" class="middle odd sf-item-3 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="/content/contact-us.html" title="" class="sf-depth-2" style="float: none; width: auto;">联系我们</a></li><li id="menu-3682-5" class="last even sf-item-4 sf-depth-2 sf-no-children" style="white-space: normal; float: left; width: 100%;"><a href="https://www.imaginationtech.com/" title="" class="sf-depth-2" style="float: none; width: auto;">Imagination Tech 官网</a></li></ul></li></ul>
+    </section>
+  </div>
+<div class="hidden-lg">
+  <section id="block-menu-menu-main-menu-for-imgtec" class="block block-menu clearfix">
+
+            
+    <ul class="menu nav"><li class="first collapsed"><a href="/exclusive/product.html" title="">产品</a></li>
+<li class="collapsed"><a href="/exclusive/Market.html" title="">应用市场</a></li>
+<li class="expanded dropdown"><a href="/technology" title="" class="dropdown-toggle" data-toggle="dropdown">技术 <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf"><a href="/blog" title="">博客</a></li>
+</ul></li>
+<li class="leaf"><a href="/news" title="">动态</a></li>
+<li class="leaf"><a href="/activity" title="">活动</a></li>
+<li class="leaf"><a href="/exclusive/Developer.html" title="">开发者</a></li>
+<li class="leaf"><a href="/download" title="">下载</a></li>
+<li class="leaf"><a href="/video" title="">视频</a></li>
+<li class="leaf"><a href="https://university.imgtec.com/?utm_source=imgtec&amp;utm_medium=menu&amp;utm_campaign=markets_link" title="">大学计划</a></li>
+<li class="last collapsed"><a href="/exclusive/about-imagination.html" title="">公司</a></li>
+</ul>
+  </section>
+  </div>
+  </div>
+                  </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-9">
+                  <a id="main-content"></a>
+                    <h1 class="page-header">一文了解人工智能的三大领域及其工业应用</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-100047819" class="node node-blog node-promoted node-sticky clearfix">
+    <header>
+                    <span class="submitted">
+            <span class="username">demi</span> 在 周五, 02/28/2020 - 09:46 提交    </span>
+      </header>
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><p>作者：何从庆<br>
+来源：<a href="https://mp.weixin.qq.com/s/iVaKBVcosjjQBezNBurRFQ"><u>AI算法之心</u></a></p>
+<p>人工智能是一门新兴的技术学科，它研究和开发用于模拟人类智能的扩展和扩展的理论、方法、技术和应用系统。人工智能研究的目标是让机器执行一些复杂的任务，这些任务需要聪明的人来完成。也就是说，我们希望机器可以代替我们来解决一些复杂的任务，不仅仅是重复的机械活动，而是一些需要人类智慧才能参与的任务。在本文中，我将解释人工智能技术的三个主要方向，即语音识别，计算机视觉和自然语言处理。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>语音识别</strong></font></p>
+<p>「语音识别(Speech Recognition)」 使计算机能够进行聆听，包括我们可以在日常生活中使用的iPhone上的Siri；在Google语音输入中，您可以说出一个句子，然后变成文字；与Google地图通话可说出我要去的地方，它可以自动为你生成导航。这些是语音识别的一些应用。</p>
+<p>语音识别可以分为三个方面：<br>
+  -  语音合成， 包括在线和离线语音合成；<br>
+  -  语音识别， 包括语音听写和其他方面；<br>
+  -  语义理解 是使用神经网络提取语音的含义，包括语音评估和我们一些常用机器翻译的某些功能。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>计算机视觉</strong></font></p>
+<p>「计算机视觉(Computer vision)」 使计算机可以代替人眼的某些功能。例如，有一种非常有用的文档分析技术，称为OCR。我们可以让计算机扫描文档并阅读。例如，我们可以获得发票，以便计算机可以立即对其进行扫描，然后从发票中提取有关金额，税率和我们关心的其他信息。在智能医疗诊断领域中有一些关于计算机视觉的研究。尽管它尚未在市场上出售，但我相信将来会有广泛的应用场景。同时，在军事领域，无人驾驶飞机正在取代人类的观察和测量导弹的弹道。</p>
+<p>计算机视觉的流行方向是：</p>
+<p>  &nbsp; • &nbsp;   对象识别和检测。 计算机可以快速检测出我们通常从照片中看到的内容。例如，如果我们拍出一个旅游区的风景照片，我们可以立即识别出上面的植物，人，动物或车辆，计算机也可以。</p>
+<p></p><center><img width="600" src="http://imgtec.eetrend.com/files/2020-02/%E5%8D%9A%E5%AE%A2/100047819-90988-1221.jpg" alt=""></center><br>
+<p>  &nbsp; • &nbsp;   对象运动跟踪。 我们已经在某个帧上捕获了对象的图像。在随后的视频中，我们可以不断跟踪该对象的变化和状况。这不是一件容易的事。难以准确识别物体，因为物体会不断受到阳光和光线的影响。</p>
+<p>另一个是计算机查看图片和说话的功能。例如，给定图片，计算机可以识别图片中包含的内容，然后告诉一些预制的内容。现在，许多展厅已经使用了这项技术。它可以预制解释性单词和指导性单词。参观者仅需使用手机或其他设备即可扫描展品或展区中的某些指定位置，以听到相关的指导词。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>自然语言处理</strong></font></p>
+<p>从现在开始，我们的计算机可以听我们说的话并看到我们看到的内容。但是我们想要更多。我们更喜欢与计算机进行交互，使用自然语言进行交流，这是自然语言处理的目的。现在，自然语言处理已用于机器翻译，信息检索和对话系统中。</p>
+<p> -  机器翻译：主要包括机器同声翻译。<br>
+ -  信息检索：例如，当我告诉计算机我要寻找的内容时，它可以为我搜索相关的内容。<br>
+ -  智能客服：我们通过语音与计算机互动，并让计算机回答我们的问题。</p>
+<p>自然语言处理不是那么简单。我们必须解决以下问题。第一个是语言的歧义，有时可以用两种或多种可能的含义或方式来理解一个句子。例如，“I went to the bank.” ， bank 可以是存放金钱的地方，也可以是河岸。</p>
+<p>另外，我们需要解决 语言的鲁棒性。 我们经常在日常演讲中说一些错别字，或者说少一些单词，或者说多于原始含义的单词，这会影响语言的健壮性。另外，可能还有其他昵称可能指向同一个人。</p>
+<p>另一个是 知识依赖。 我们通常使用知识图来解决知识依赖问题。假设“大鸭梨”（又称大梨）是一种水果，也是北京一家非常有名的烤鸭店的名字。就像“七日游”一样，它可以代表时间，也可以代表酒店的名称。这些都依赖于一些背景知识，我们需要使用知识库或知识图来解决此问题。</p>
+<p>另一个是 上下文。  根据对话的上下文，我们可以准确地判断该说些什么。例如，“我想吃大鸭梨”，“大鸭梨”可能代表一种水果。“我们去大鸭梨”，然后“大鸭梨”代表一家餐馆。在不同的对话中，不同的表达方式表现出不同的含义。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>总结</strong></font></p>
+<p>在我们转向人工智能的工业应用之前，让我们总结一下在上一部分中学到的知识。我们学习了语音识别。计算机可以听到我们的声音并做出一些响应，例如将我们说的话翻译成文本。然后我们研究了计算机视觉，计算机可以通过查看图像来识别图像中的某些对象，并且还可以跟踪连续图像中对象的变化，这些是计算机解决的一些热门话题。最后，我们了解了自然语言处理，也就是说，计算机不仅需要听我们说的话，他们还可以理解我的话，然后他们才能给我们一些反馈。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>民事安全</strong></font></p>
+<p>首先，先介绍下有关民事安全领域的信息。随着智能家居的普及，人工智能逐渐在民安领域中发挥了作用。例如，家庭安全摄像机可以从视频中学习并通过日常拍摄来识别属于我们家庭的摄像机。当我们的家庭进入视频监控范围时，它不会触发警报。但是，当外人非法进入时，它将立即向我们发出警报，例如向我们发送短信或发出响亮的警报声。这些是智能安全摄像机的一些简单应用。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>交通</strong></font></p>
+<p>在交通领域，我们可以通过人工智能分析交通视频，并利用数据做出决策。我们可以分析当前道路是否拥堵以及情况如何，然后使用人工智能自动做出决策。例如，让AI调整交通信号中的时间以指挥交通，或者实施大规模的交通联动调度以提高整个城市的运营效率。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>公共安全</strong></font></p>
+<p>在公共安全领域，人工智能还具有使用图像识别和面部识别的特别明显的应用。例如，我们在大量视频信息中发现了嫌疑人的线索；或给定特定特征，人工智能从与视频特征匹配的人员或物品中提取信息，这是快速而准确的。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>自动驾驶</strong></font></p>
+<p>人工智能在自动驾驶领域也有许多应用。自动驾驶实际上需要很多技术，包括对环境的感知。我们通过一系列设备（例如相关的摄像机，激光测距仪，微传感器，车辆雷达等）感知周围环境，然后通过人工智能将这些信息整合在一起，以确定周围环境的状况。在基于环境感知的结果收集了行为决策所需的所有信息之后，有必要使用人工智能来决定汽车接下来应该做什么，是应用制动器还是加速器。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>智能机器人</strong></font></p>
+<p>智能机器人在服务行业，教育行业和医疗行业中具有巨大的应用潜力。例如，现在许多银行都设有自动问答机器人，该机器人可以引导来银行进行业务，排队排队或只是介绍一些业务的人，这提高了银行的效率，并且为了方便客户，大多数人去银行开展业务。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>人工智能在电信行业中的应用</strong></font></p>
+<p>人工智能在电信行业中有哪些应用？电信行业也欢迎人工智能时代的到来。许多移动公司抓住了时代的机遇，开发并构建了用于人工智能核心功能的网络平台。这个人工智能网络平台具有大数据分析和机器学习功能。它会自动检测移动网络的状况，自动进行故障排除，并执行流量分类，异常检测和预测。同时，你可以优化资源利用率并执行相关的网络优化，以增强移动网络的智能性，并通过优化来增强用户体验。</p>
+<p>中国移动还独立开发了智能手机客户服务问答机器人，该机器人使用人工智能技术（例如机器学习，深度学习和自然语言处理）来自动化业务流程，更智能地回答用户问题，解决业务咨询，业务处理和流量查询和问题的其他方面，例如客户服务，网络覆盖范围，计费和其他相关服务。</p>
+<p>此外，就订户而言，人工智能和机器学习还将帮助电信运营商解决诸如描述和分析用户信息，提高转换率，分析内容使用趋势以及网络活动等功能。借助人工智能和数据分析，运营商还可以在合适的时间识别目标客户并为客户提供各种服务。</p>
+<p>移动公司还专注于五个主要领域：网络，安全性，管理，客户服务和市场营销，它们使用人工智能技术来扩大应用范围。</p>
+<p>在网络领域，人工智能技术已在网络自助机器人，智能VoLTE语音质量测量，智能家庭宽带安装中得到了大规模应用。</p>
+<p>在安全领域，反欺诈系统已经能够拦截诈骗电话，在中国，每月的拦截量超过1400万。</p>
+<p>在管理领域，合同和帐单的审计点也已实施。智能机器已经取代了人工审核，每年可以节省数亿美元的成本。</p>
+<p>在客户服务领域，智能客户服务问答机器人目前每月可回答超过2.1亿次。</p>
+<p>结合自身在垂直行业中的业务优势，电信公司正在积极在各个行业中部署AI应用程序，包括智能教育，智能医疗，智能交通，智能工业，智能农业等方面。</p>
+<p><font size="4" style="line-height: 45px;" color="#c200ff"><strong>总结</strong></font></p>
+<p>最后，我们总结了这部分的学习内容。在这一部分中，我们已经学习并了解了民用安全领域的人工智能安全摄像机。通过视频识别，交通领域的人工智能可以通过机器学习为我们的交通决策提供基础，甚至可以自动做出决策。在公共安全领域，图像的识别可以为检测公共安全案件和犯罪嫌疑人的位置提供快速的基础。自动驾驶汽车不仅使用人工智能技术使汽车能够感知周围环境，而且还可以使汽车做出下一步的决定，并操纵汽车以达到自动驾驶的目的。智能机器人在我们的生活中也很常见。他们通常扮演客户服务的角色来帮助我们。最后，我们简要介绍了人工智能在电信行业中的应用和发展，主要介绍了移动公司和人工智能客户服务机器人使用的人工智能网络平台。</p>
+<p>翻译：<a href="https://towardsdatascience.com/three-major-fields-of-artificial-intelligence-and-their-industrial-applications-8f67bf0c2b46">https://towardsdatascience.com/three-major-fields-of-artificial-intellig...</a></p>
+<p>来源：<a href="https://mp.weixin.qq.com/s/iVaKBVcosjjQBezNBurRFQ"><u>AI算法之心</u></a>，转载此文目的在于传递更多信息，版权归原作者所有。</p>
+</div>
+      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<ul class="list-inline">
+    <li>
+      <a href="tag/人工智能"><span class="glyphicon glyphicon-tag"></span> 人工智能</a>
+          </li>
+  </ul>  
+<div>
+    <div class="bdsharebuttonbox"><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+    <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+      <footer>
+            <ul class="links list-inline"><li class="blog_usernames_blog first"><a href="/blogs/demi.html" title="demi的最新日志">demi的博客</a></li>
+<li class="comment_forbidden"><span><a href="/user/login?destination=node/100047819%23comment-form">登录</a> 或 <a href="/user/register?destination=node/100047819%23comment-form">注册</a> 后发表评论</span></li>
+<li class="statistics_counter last"><span>围观 1231 </span></li>
+</ul>    </footer>
+      </article>
+
+</section>
+<section id="block-views-relate-node-hidden-lg" class="hidden-lg block block-views clearfix">
+
+        <h2 class="block-title">最新文章</h2>
+    
+  <div class="view view-relate-node view-id-relate_node view-display-id-hidden_lg view-dom-id-b552e7238fdec630602d9785d72307c6">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row-odd views-row-first">  
+  <div class="box">        <span><a href="/blog/2021/100089331.html"><div class="article-title">Science最新发布：全世界最前沿的125个科学问题！</div> </a></span>  </div></li>
+          <li class="views-row-even">  
+  <div class="box">        <span><a href="/blog/2022/100565573.html"><div class="article-title">工业4.0背后的驱动力：人工智能和大数据</div> </a></span>  </div></li>
+          <li class="views-row-odd">  
+  <div class="box">        <span><a href="/blog/2020/100049132.html"><div class="article-title">人工智能、区块链、算法...这30个大数据热词你都了解吗？</div> </a></span>  </div></li>
+          <li class="views-row-even">  
+  <div class="box">        <span><a href="/blog/2024/100582607.html"><div class="article-title">游戏引擎技术的核心，图形渲染、物理模拟、人工智能</div> </a></span>  </div></li>
+          <li class="views-row-odd">  
+  <div class="box">        <span><a href="/blog/2022/100558663.html"><div class="article-title">斯坦福大学发布《2022 年人工智能指数报告》</div> </a></span>  </div></li>
+          <li class="views-row-even views-row-last">  
+  <div class="box">        <span><a href="/blog/2019/100044274.html"><div class="article-title">为什么物联网需要人工智能才能成功？</div> </a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-views-relate-node-visible-lg" class="visible-lg block block-views clearfix">
+
+        <h2 class="block-title">最新文章</h2>
+    
+  <div class="view view-relate-node view-id-relate_node view-display-id-visible_lg view-dom-id-30487abdf4d80141dd72a9d3851fc49a">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-3">
+  
+  <tbody>
+          <tr>
+                  <td class="article-table-box">
+              
+  <div class="box">        <span><a href="/blog/2019/100043054.html"><img src="https://cdn.eetrend.com/files/styles/medium/public/2019-05/%E5%8D%9A%E5%AE%A2/100043054-69206-929.jpg?itok=gaVmOmA-"><div class="article-title">影响大数据、机器学习和人工智能未来发展的8个因素</div> </a></span>  </div>          </td>
+                  <td class="article-table-box">
+              
+  <div class="box">        <span><a href="/blog/2022/100558466.html"><img src="https://cdn.eetrend.com/files/styles/medium/public/2022-03/%E5%8D%9A%E5%AE%A2/100558466-245703-3198929840_s.jpg?itok=uisZMkC7"><div class="article-title">IDC发布最新人工智能支出指南：2025年中国人工智能市场总规模预计将超184亿美元</div> </a></span>  </div>          </td>
+                  <td class="article-table-box">
+              
+  <div class="box">        <span><a href="/content/2018/100014716.html"><img src="https://cdn.eetrend.com/files/styles/medium/public/2018-09/wen_zhang_/100014716-49890-173.jpg?itok=Mf-_vW4U"><div class="article-title">Imagination参加2018世界人工智能大会，全方位展示业界领先图形处理和神经网络加速技术</div> </a></span>  </div>          </td>
+              </tr>
+          <tr>
+                  <td class="article-table-box">
+              
+  <div class="box">        <span><a href="/blog/2024/100578813.html"><img src="https://cdn.eetrend.com/files/styles/medium/public/2024-03/%E5%8D%9A%E5%AE%A2/100578813-336642-an_quan_.jpg?itok=2TgsqKIX"><div class="article-title">人工智能导致网络钓鱼攻击暴增12倍</div> </a></span>  </div>          </td>
+                  <td class="article-table-box">
+              
+  <div class="box">        <span><a href="/blog/2021/100102283.html"><img src="https://cdn.eetrend.com/files/styles/medium/public/2021-04/%E5%8D%9A%E5%AE%A2/100102283-198878-aiiot.jpg?itok=bj0B4xPP"><div class="article-title">2021年值得关注的七大物联网趋势</div> </a></span>  </div>          </td>
+                  <td class="article-table-box">
+              
+  <div class="box">        <span><a href="/blog/2024/100582770.html"><img src="https://cdn.eetrend.com/files/styles/medium/public/2024-07/%E5%8D%9A%E5%AE%A2/100582770-353065-6004274504_s.jpg?itok=Q8fF7kSq"><div class="article-title">2024年的七大大数据趋势</div> </a></span>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+  </div>
+    </section>
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-second">
+    <section id="block-user-login" class="block block-user visible-lg clearfix">
+
+      
+  <form action="/user/login" method="post" id="user-login-form" accept-charset="UTF-8"><div><div id="user-login-block-container">
+  <div id="user-login-block-form-fields" class="daniel">
+    <div class="form-item form-item-name form-type-textfield form-group"><input placeholder="用户名或电子邮件地址" class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60"></div>    <div class="form-item form-item-pass form-type-password form-group"><input placeholder="密码" class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128"></div>    <button type="submit" id="edit-submit" name="op" value="登录" class="btn btn-primary form-submit">登录</button>
+    <a href="/user/register" title="创建新用户帐号。"><button type="button" class="btn btn-secondary">注册</button></a>
+    <a href="/user/password" title="通过电子邮件找回登录密码。"><button type="button" class="btn btn-secondary">忘记密码</button></a>
+        <input type="hidden" name="form_build_id" value="form-_tW98nkBvPxWDsSZhyvRvEbasbFFA04yfG1-PfUzzwk">
+<input type="hidden" name="form_id" value="user_login_block">
+<div class="captcha"><input type="hidden" name="captcha_sid" value="110489103">
+<input type="hidden" name="captcha_token" value="c988860be04417648636ebd1d2020c0e">
+<img class="img-responsive" src="https://cdn.eetrend.com//image_captcha?sid=110489103&amp;ts=1731502594" width="259.2" height="72" alt="Image CAPTCHA" title="Image CAPTCHA"><div class="form-item form-item-captcha-response form-type-textfield form-group"> <label class="control-label" for="edit-captcha-response">请输入上面图片验证码 <span class="form-required" title="此字段为必选项。">*</span></label>
+<input class="form-control form-text required" title="输入图片中的字符。" data-toggle="tooltip" type="text" id="edit-captcha-response" name="captcha_response" value="" size="15" maxlength="128"></div></div><div class="form-actions form-wrapper form-group" id="edit-actions"></div> 
+  </div>
+  <!--
+  <div class="links">
+    <a href="/user/register">Create an Account</a> | <a href="/user/password">Forgot Password</a>
+  </div>
+    -->
+</div></div></form>
+</section>
+<section id="block-menu-menu-xilinx-left-block03" class="block block-menu clearfix">
+
+        <h2 class="block-title">产品介绍</h2>
+    
+  <ul class="menu nav"><li class="first leaf"><a href="https://www.imaginationtech.com/products/gpu/" title="">POWERVR GRAPHICS</a></li>
+<li class="leaf"><a href="https://www.imaginationtech.com/products/design-optimisation-kit/" title="">DESIGN OPTIMIZATION KIT</a></li>
+<li class="leaf"><a href="https://www.imaginationtech.com/products/automotive/" title="">POWERVR AUTOMOTIVE</a></li>
+<li class="last leaf"><a href="https://www.imaginationtech.com/products/ai/" title="">POWERVR VISION &amp; AI</a></li>
+</ul>
+</section>
+<section id="block-views-banner-admin-block-1" class="block block-views clearfix">
+
+        <h2 class="block-title">招聘，加入我们</h2>
+    
+  <div class="view view-banner-admin view-id-banner_admin view-display-id-block_1 view-dom-id-faf3b58cd8c34a540390339c1789e594">
+        
+  
+  
+      <div class="view-content">
+        <div class="banner-list">
+      
+          <ul><li><a href="http://imgtec.eetrend.com/recrument"><img src="https://cdn.eetrend.com/files/2019-10/Banner/100016915-82880-join.jpg" title="招聘，加入我们"></a></li>
+</ul>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-block-66" class="block block-block clearfix">
+
+      
+  <p><img src="http://imgtec.eetrend.com/sites/imgtec.eetrend.com/files/images/code.jpg"></p>
+
+</section>
+<section id="block-views-banner-admin-block-2" class="block block-views clearfix">
+
+        <h2 class="block-title">近期热门活动</h2>
+    
+  <div class="view view-banner-admin view-id-banner_admin view-display-id-block_2 view-dom-id-ab8c857f52d2a9633dfbe9a513e64145">
+        
+  
+  
+      <div class="view-content">
+        <div class="banner-list">
+      
+          <ul><li><a href="https://imgtec.eetrend.com/content/2024/100584821.html"><img src="https://cdn.eetrend.com/files/2024-09/Banner/100016916-361979-00111.jpg" title="下载白皮书嬴奖品！分布式功能安全的创新与突破"></a></li>
+<li><a href="https://imgtec.eetrend.com/content/2024/100584531.html"><img src="https://cdn.eetrend.com/files/2024-09/Banner/100016916-361299-eetrend_community_600x338.jpg" title="IMG DXS GPU"></a></li>
+<li><a href="https://imgtec.eetrend.com/content/2024/100577666.html"><img src="https://cdn.eetrend.com/files/2024-01/Banner/100016916-332049-xia_zai_-gpu-white-paper.png" title="【白皮书下载】GPU计算在汽车中的应用"></a></li>
+<li><a href="https://imgtec.eetrend.com/content/2023/100575801.html"><img src="https://cdn.eetrend.com/files/2024-01/Banner/100016916-331387-06-00.png" title="在线课程 | Imagination中国区技术支持总监全面解读IMG DXD GPU"></a></li>
+<li><a href="https://imgtec.eetrend.com/content/2023/100576901.html"><img src="https://cdn.eetrend.com/files/2024-01/Banner/100016916-331385-imgbb.jpg" title="【白皮书下载】Imagination如何完成系统开发流程通过ASIL-D认证"></a></li>
+<li><a href="https://imgtec.eetrend.com/content/2023/100568446.html"><img src="https://cdn.eetrend.com/files/2024-04/Banner/100016916-340307-600-2.png" title="【下载】IMG DXT GPU 让光线追踪触手可及"></a></li>
+<li><a href="https://imgtec.eetrend.com/content/2023/100571770.html"><img src="https://cdn.eetrend.com/files/2024-01/Banner/100016916-331386-cc0.jpg" title=" 【白皮书下载】云游戏的崛起"></a></li>
+</ul>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-block-67" class="block block-block clearfix">
+
+        <h2 class="block-title">官方权威教程</h2>
+    
+  <p><a href="http://imgtec.eetrend.com/video">官方权威教程</a><br>
+<a href="http://i.youku.com/imgtec"><img src="http://imgtec.eetrend.com/sites/imgtec.eetrend.com/files/images/youku.png"></a></p>
+
+</section>
+<section id="block-block-68" class="block block-block clearfix">
+
+        <h2 class="block-title">Imagination 微博</h2>
+    
+  <p><iframe class="share_self" frameborder="0" height="550" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&amp;width=0&amp;height=550&amp;fansRow=2&amp;ptype=1&amp;speed=0&amp;skin=2&amp;isTitle=1&amp;noborder=1&amp;isWeibo=1&amp;isFans=1&amp;uid=3178703462&amp;verifier=c1a65d9b&amp;dpc=1" width="100%"></iframe></p>
+</section>
+  </div>
+      </aside>  <!-- /#sidebar-second -->
+    
+  </div>
+</div>
+
+  <footer class="footer">
+    <div class="container"> 
+        <div class="region region-footer">
+    <section id="block-block-58" class="block block-block clearfix">
+
+      
+  <div style="font-size:12px;">
+<div> --## 电子创新网图库均出自电子创新网，版权归属电子创新网，欢迎其他网站、自媒体使用，使用时请注明“图片来自电子创新网图库”，不过本图库图片仅限于网络文章使用，不得用于其他用途，否则我们保留追诉侵权的权利。  ##-- </div>
+<p></p>
+<div>--<a href="https://www.eetrend.com">电子创新网合作网站</a>--</div>
+<div id="copyright"><a href="https://motor.eetrend.com">电机控制系统设计</a> | <a href="https://imgtec.eetrend.com">Imagination Technologies 中文技术社区</a> | <a href="https://component.eetrend.com">电子创新元件网</a> | <a href="https://fpga.eetrend.com">FPGA 开发圈</a> | <a href="https://mcu.eetrend.com">MCU 加油站</a> | <a href="https://eda.eetrend.com"> EDA 星球</a></div>
+<div>本网站转载的所有的文章、图片、音频视频文件等资料的版权归版权所有人所有，本站采用的非本站原创文章及图片等内容无法一一联系确认版权者。如果本网所选内容的文章作者及编辑认为其作品不宜公开自由传播，或不应无偿使用，请及时通过电子邮件或电话通知我们，以迅速采取适当措施，避免给双方造成不必要的经济损失。</div>
+<div><a href="httpss://beian.miit.gov.cn">粤ICP备12070055号</a></div>
+</div>
+
+</section>
+<section id="block-block-110" class="block block-block clearfix">
+
+      
+  <!-- Current nid is 100047819 -->
+<!-- query rows is  1 -->
+<!-- No -->
+
+</section>
+  </div>
+    </div>
+  </footer>
+  <script src="https://cdn.eetrend.com/files/js/js_VU7P4CTgUZdF2SyFko5LLAg9ZK0OSVjXVaAFnTLgVt0.js"></script>
+<script src="https://cdn.eetrend.com/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script>
+
+<div style="display:none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F513d000ca91d82653d0868dcc63cc8da' type='text/javascript'%3E%3C/script%3E"));
+</script><script src=" https://hm.baidu.com/h.js?513d000ca91d82653d0868dcc63cc8da" type="text/javascript"></script><a href="http://tongji.baidu.com/hm-web/welcome/ico?s=513d000ca91d82653d0868dcc63cc8da" target="_blank"><img border="0" src="https://hmcdn.baidu.com/static/hmt/icon/21.gif" width="20" height="20"></a>
+</div> 
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV8JW5T"
+height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+</body></html>

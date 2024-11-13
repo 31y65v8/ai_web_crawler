@@ -1,0 +1,1399 @@
+<!DOCTYPE html><html><head>
+    <script type="text/javascript" src="https://sdk.51.la/perf/js-sdk-perf.min.js"></script><script type="text/javascript" charset="UTF-8" async="" src="https://sdk.51.la/js-sdk-pro.min.js" id="LA_COLLECT"></script><script src="https://hm.baidu.com/hm.js?f436a65771c8d04cd5ad32f9427e0eaf"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-TEQE4Y0F1C"></script>
+    <script>
+        window.dataLayer = window.dataLayer || []
+        function gtag() {
+            dataLayer.push(arguments)
+        }
+        gtag('js', new Date())
+        gtag('config', 'G-TEQE4Y0F1C')
+    </script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="zh-CN">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="wap-font-scale" content="no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+
+    <meta name="copyright" content="Copyright 2014-2022 - www.uweb.net.cn">
+    <meta name="Author" content="广州网站建设-优网科技 www.uweb.net.cn">
+    <meta name="Robots" content="all">
+    <meta name="Keywords" content="AI 技术、应用场景、医疗保健、企业运营、发展潜力">
+    <meta name="Description" content="你知道AI技术的应用场景有哪些？">
+    <meta name="renderer" content="webkit">
+
+    <title>你知道AI技术的应用场景有哪些？ - 大模型知识库|大模型训练|开箱即用的企业大模型应用平台|智能体开发|53AI</title>
+
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/core.css?v=1.0.69">
+        <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/build_news_detail.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-0.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-1.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-2.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-3.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-4.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-5.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-6.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-7.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-8.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-9.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-10.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-11.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-12.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-13.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-14.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-15.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-16.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-17.css?v=1.0.69">
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <script src="https://static.53ai.com/assets/static/script/jquery.js?v=1.0.69"></script>
+        <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?f436a65771c8d04cd5ad32f9427e0eaf";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <meta name="baidu-site-verification" content="codeva-3I1YXtCboH">
+
+    <!-- 51la V6流量统计系统  -->
+    <script>
+        !function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"3Iyobc7H0GMuU5hn",ck:"3Iyobc7H0GMuU5hn"});
+    </script>
+    <!-- 51la 性能监控系统 -->
+    <script>
+        !(function(c,i,e,b){
+            var h=i.createElement("script");
+            var f=i.getElementsByTagName("script")[0];
+            h.type="text/javascript";
+            h.crossorigin=true;
+            h.onload=function(){new c[b]["Monitor"]().init({id:"3IyLyrjpToQ0AqHa"});};
+            f.parentNode.insertBefore(h,f);h.src=e;})(window,document,"https://sdk.51.la/perf/js-sdk-perf.min.js","LingQue");
+    </script>
+        <script id="wescrm_micro_service_script" defer="" src="https://wkf.wescrm.com/public/static/plugins/wescrm-micro-service.js"></script>
+</head>
+
+<body data-aos-easing="ease" data-aos-duration="1600" data-aos-delay="0">
+<div class="sticky-wrapper" style="height: 61.4375px;"><div class="header stuck">
+    <div class="header-relative">
+        <div class="wp1280">
+            <div class="header-nav">
+                <div class="header-left">
+                    <a href="/" class="logo"><img alt="大模型知识库|大模型训练|开箱即用的企业大模型应用平台|智能体开发|53AI" data-src="https://static.53ai.com/assets/static/images/logo.png" class="lazy"> </a>
+                    <div class="logo-tag">
+                <span class="icon">
+                  <img alt="" data-src="https://static.53ai.com/uploads/20240311/eb21a9e0409ab946254c64427055a5fa.png" class="lazy">
+                </span>
+                        <span class="txt">支持私有云部署</span>
+                    </div>
+                </div>
+                <div class="header-right">
+                    <div class="nav-list">
+                                                <div class="nav-item ">
+                            <div class="nav-link">
+                                <a href="/" target="_self">首页</a>
+                            </div>
+                                                    </div>
+                                                <div class="nav-item not-relative">
+                            <div class="nav-link">
+                                <a href="/product.html" target="_self">产品服务</a>
+                            </div>
+                                                        <div class="dropdown-product">
+                                <div class="flex-box wp1280">
+                                    <ul class="list">
+                                        <li>
+                                            <div class="title">
+                                                <div class="t">开箱即用的企业大模型应用平台</div>
+                                            </div>
+                                            <div class="link-list">
+                                                                                                <div class="link-item">
+                                                    <div class="link-item-flex">
+                                                        <div class="link-item-left">
+                                                            <img alt="" data-src="https://static.53ai.com/uploads/20240529/f87e241ff2dd3924718463507d38fcd1.png" class="lazy">
+                                                        </div>
+                                                        <div class="link-item-right">
+                                                            <div class="item-head">
+                                                                <span>工作+AI</span>
+                                                                <br>
+                                                                <span class="subtit">大模型提升全员工作效率</span>
+                                                            </div>
+                                                                                                                        <a href="/product/gongzuoduihua">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/7f7fb3a563c7530b68e88add9f84a335.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/39185f663b28883aa8de355676d00838.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">工作对话</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/neirongchuangzuo">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/fef10f390be59cbf4758c8bdc29b543b.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/a4de80d25bb700416c04905f92e5d89b.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">内容创作</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/zhinengwendang">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/87c26e340e1ab72d144f01222b54416a.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/088ab85a974ebb3c60b5907ef75d3852.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">方案撰写</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/mofacaidan">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/3b2ecb11c2ed3414aa1dd9f060c9b07e.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/818975be79b3c7bf409d26750da48dd2.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">魔法菜单</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                                                                                <div class="link-item">
+                                                    <div class="link-item-flex">
+                                                        <div class="link-item-left">
+                                                            <img alt="" data-src="https://static.53ai.com/uploads/20240529/e3d1b654d90fe4a02dfda2b7bda13b74.png" class="lazy">
+                                                        </div>
+                                                        <div class="link-item-right">
+                                                            <div class="item-head">
+                                                                <span>业务+AI</span>
+                                                                <br>
+                                                                <span class="subtit">大模型掌握企业知识与流程</span>
+                                                            </div>
+                                                                                                                        <a href="/product/jiqiren">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/1815cb1b02a7c713455d9ea21c04a54d.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/e23b099525c800ed821a4f49287d5339.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">智能问答</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/jinengtuozhan">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/de8fcfa0c133a540d928bb0105c87874.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/55787c1b82bb850ad6b118645bec7ced.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">拓展能力</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/siyoumoxing">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/0652389e299c43463020c0659bedc02b.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/cc1c95ffbf6069fba0f6977b36e16093.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">私有模型</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                                                                                <div class="link-item">
+                                                    <div class="link-item-flex">
+                                                        <div class="link-item-left">
+                                                            <img alt="" data-src="https://static.53ai.com/uploads/20240529/3294c40ae237a976140829e8c3e481c6.png" class="lazy">
+                                                        </div>
+                                                        <div class="link-item-right">
+                                                            <div class="item-head">
+                                                                <span>AIx业务</span>
+                                                                <br>
+                                                                <span class="subtit">大模型驱动产品智能化改造</span>
+                                                            </div>
+                                                                                                                        <a href="/product/zijianyingyong">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/119e72b8cc4579450b59bd6bbdb0f504.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/d440209b9c1afda99d91101920ce06a0.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">应用智改</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/LLMFlow">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/8e80a680ffd13c17b19ac753bd344d58.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/8a55810e147bec67f510cb64241d2118.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">LLMFlow</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/ChatBI">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/b3d4c54aadc1a3fa88de3080f1429c53.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/454df06679465b9ed7e517a33c515648.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">ChatBI</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/xitongguanli">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/48ff0070564e7e5204ce01302f8639ed.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/f56b3b28ed3bdf19179f29de6d181e88.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">统管平台</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                                                                            </div>
+                                        </li>
+                                    </ul>
+                                    <ul class="list">
+                                                                                <li>
+                                            <div class="title">
+                                                <div class="t">大模型咨询</div>
+                                            </div>
+                                            <div class="link-list">
+                                                <div class="img-item">
+                                                    <a href="/consulting.html" class="img-box">
+                                                        <img alt="" data-src="https://static.53ai.com/uploads/20240529/d84e48f5bedc6e502af93d083ba4f487.jpg" class="lazy">
+                                                        <div class="text-box">
+                                                            <div class="en">Consulting</div>
+                                                            <div class="cn">AI咨询与内训</div>
+                                                        </div>
+                                                        <div class="more">了解更多 &gt;</div>
+                                                    </a>
+
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                                <li>
+                                            <div class="title">
+                                                <div class="t">大模型定制</div>
+                                            </div>
+                                            <div class="link-list">
+                                                <div class="img-item">
+                                                    <a href="/fine-tuning.html" class="img-box">
+                                                        <img alt="" data-src="https://static.53ai.com/uploads/20240529/dd3f64536669acc24e5e3f9587d3c460.jpg" class="lazy">
+                                                        <div class="text-box">
+                                                            <div class="en">Fine-Tuning</div>
+                                                            <div class="cn">模型微调与定制</div>
+                                                        </div>
+                                                        <div class="more">了解更多 &gt;</div>
+                                                    </a>
+
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                                                    </div>
+                                                <div class="nav-item is-active ">
+                            <div class="nav-link">
+                                <a href="/news.html" target="_self">AI知识库</a>
+                            </div>
+                                                        <div class="hover-menu">
+                                <div class="box">
+                                                                        <a href="/news/qianyanjishu" target="_self">前沿技术</a>
+                                                                        <a href="/news/agentplatform" target="_self">Agent框架</a>
+                                                                        <a href="/news/hangyeyingyong" target="_self">行业应用</a>
+                                                                        <a href="/news/qiyejingying" target="_self">企业经营</a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                                <div class="nav-item ">
+                            <div class="nav-link">
+                                <a href="/prompt.html" target="_self">结构化提示词</a>
+                            </div>
+                                                        <div class="hover-menu">
+                                <div class="box">
+                                                                        <a href="/prompt/LangGPTzhilu" target="_self">LangGPT之路</a>
+                                                                        <a href="/prompt/Sorayanjiufenxi" target="_self">提示词合集</a>
+                                                                        <a href="/prompt/tongwangAGIzhilu" target="_self">应用案例</a>
+                                                                        <a href="/prompt/shequndaren" target="_self">社区达人</a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                                <div class="nav-item ">
+                            <div class="nav-link">
+                                <a href="/about.html" target="_self">关于我们</a>
+                            </div>
+                                                        <div class="hover-menu">
+                                <div class="box">
+                                                                        <a href="/about/introduction" target="_self">公司介绍 </a>
+                                                                        <a href="/about/cooperation" target="_self">渠道合作</a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                            </div>
+                    <div class="header-btn-box">
+                        <a href="https://chat.53ai.com" target="_blank" class="login-btn">登录</a>
+                        <a href="/trial.html" class="register-btn">
+                            预约演示
+                            <svg t="1723254254337" class="icon" viewBox="0 0 1365 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="27397" width="25" height="25">
+                                <path d="M0 1024V0H1024v1024z" fill="#ffffff" fill-opacity="0" p-id="27398"></path>
+                                <path d="M424.106667 108.032a42.666667 42.666667 0 0 0-4.949334 54.357333l4.949334 5.973334 308.565333 308.48L424.106667 785.322667a42.666667 42.666667 0 0 0-4.949334 54.442666l4.949334 5.973334a42.666667 42.666667 0 0 0 54.442666 4.864l5.973334-4.864L853.333333 476.842667 484.437333 108.032a42.666667 42.666667 0 0 0-60.330666 0z" fill="#ffffff" p-id="27399"></path>
+                                <path d="M990.773333 108.032a42.666667 42.666667 0 0 0-4.949333 54.357333l4.949333 5.973334 308.565334 308.48L990.773333 785.322667a42.666667 42.666667 0 0 0-4.949333 54.442666l4.949333 5.973334a42.666667 42.666667 0 0 0 54.442667 4.864l5.973333-4.864L1420 476.842667 1051.104 108.032a42.666667 42.666667 0 0 0-60.330667 0z" fill="#ffffff99" p-id="27400"></path>
+                            </svg>
+                        </a>
+                    </div>
+                    <div class="header-mobile">
+                        <div class="nav-menu menu-btn">
+                            <div class="menu-icon show">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/menu_icon.svg" class="lazy">
+                            </div>
+                            <div class="menu-icon close">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/menu_close.png" class="lazy">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-mobile-con navMobile" id="navMobile">
+    <div class="nav-mobile-back" id="m-back">
+
+    </div>
+    <div class="nav-mobile" id="navScroller">
+        <div class="mobile-menu">
+            <div class="menu-left " id="leftScroll">
+                <ul class="scroller-wp">
+                                        <li class="menu-item " data-id="list-0">
+                        <a href="/">首页</a>
+                    </li>
+                                        <li class="menu-item " data-id="grid-21">
+                        <a href="javascript:">产品服务</a>
+                    </li>
+                                        <li class="menu-item active" data-id="list-44">
+                        <a href="javascript:">AI知识库</a>
+                    </li>
+                                        <li class="menu-item " data-id="list-66">
+                        <a href="javascript:">结构化提示词</a>
+                    </li>
+                                        <li class="menu-item " data-id="list-145">
+                        <a href="javascript:">关于我们</a>
+                    </li>
+                                    </ul>
+            </div>
+            <div class="menu-right" id="rightScroll">
+                <div class="scroller-wp">
+                                        <div class="grid-list child-list" id="grid-21">
+                        <div class="grid-item">
+                            <h1 class="title">开箱即用的企业大模型应用平台</h1>
+                                                        <div class="box">
+                                <div class="flex-head">
+                                    <img alt="" data-src="https://static.53ai.com/uploads/20240529/f87e241ff2dd3924718463507d38fcd1.png" class="lazy">
+                                    <h1>工作+AI</h1>
+                                </div>
+                                <div class="bottom">
+                                                                        <a href="/product/gongzuoduihua" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/39185f663b28883aa8de355676d00838.png">
+                                        <p class="info">工作对话</p>
+                                    </a>
+                                                                        <a href="/product/neirongchuangzuo" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/a4de80d25bb700416c04905f92e5d89b.png">
+                                        <p class="info">内容创作</p>
+                                    </a>
+                                                                        <a href="/product/zhinengwendang" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/088ab85a974ebb3c60b5907ef75d3852.png">
+                                        <p class="info">方案撰写</p>
+                                    </a>
+                                                                        <a href="/product/mofacaidan" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/818975be79b3c7bf409d26750da48dd2.png">
+                                        <p class="info">魔法菜单</p>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="box">
+                                <div class="flex-head">
+                                    <img alt="" data-src="https://static.53ai.com/uploads/20240529/e3d1b654d90fe4a02dfda2b7bda13b74.png" class="lazy">
+                                    <h1>业务+AI</h1>
+                                </div>
+                                <div class="bottom">
+                                                                        <a href="/product/jiqiren" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/e23b099525c800ed821a4f49287d5339.png">
+                                        <p class="info">智能问答</p>
+                                    </a>
+                                                                        <a href="/product/jinengtuozhan" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/55787c1b82bb850ad6b118645bec7ced.png">
+                                        <p class="info">拓展能力</p>
+                                    </a>
+                                                                        <a href="/product/siyoumoxing" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/cc1c95ffbf6069fba0f6977b36e16093.png">
+                                        <p class="info">私有模型</p>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="box">
+                                <div class="flex-head">
+                                    <img alt="" data-src="https://static.53ai.com/uploads/20240529/3294c40ae237a976140829e8c3e481c6.png" class="lazy">
+                                    <h1>AIx业务</h1>
+                                </div>
+                                <div class="bottom">
+                                                                        <a href="/product/zijianyingyong" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/d440209b9c1afda99d91101920ce06a0.png">
+                                        <p class="info">应用智改</p>
+                                    </a>
+                                                                        <a href="/product/LLMFlow" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/8a55810e147bec67f510cb64241d2118.png">
+                                        <p class="info">LLMFlow</p>
+                                    </a>
+                                                                        <a href="/product/ChatBI" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/454df06679465b9ed7e517a33c515648.png">
+                                        <p class="info">ChatBI</p>
+                                    </a>
+                                                                        <a href="/product/xitongguanli" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/f56b3b28ed3bdf19179f29de6d181e88.png">
+                                        <p class="info">统管平台</p>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+
+                        <div class="grid-item">
+                                                        <h1 class="title">
+                                <a href="/consulting.html">
+                                    大模型咨询                                </a>
+                            </h1>
+                                                        <h1 class="title">
+                                <a href="/fine-tuning.html">
+                                    大模型定制                                </a>
+                            </h1>
+                                                    </div>
+
+                    </div>
+                                        <div class="list-menu child-list" id="list-44" style="display: block;">
+                                                <a href="/news/qianyanjishu" class="list-item">
+                            <p>前沿技术</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/news/agentplatform" class="list-item">
+                            <p>Agent框架</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/news/hangyeyingyong" class="list-item">
+                            <p>行业应用</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/news/qiyejingying" class="list-item">
+                            <p>企业经营</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                            </div>
+                                        <div class="list-menu child-list" id="list-66">
+                                                <a href="/prompt/LangGPTzhilu" class="list-item">
+                            <p>LangGPT之路</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/prompt/Sorayanjiufenxi" class="list-item">
+                            <p>提示词合集</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/prompt/tongwangAGIzhilu" class="list-item">
+                            <p>应用案例</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/prompt/shequndaren" class="list-item">
+                            <p>社区达人</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                            </div>
+                                        <div class="list-menu child-list" id="list-145">
+                                                <a href="/about/introduction" class="list-item">
+                            <p>公司介绍 </p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/about/cooperation" class="list-item">
+                            <p>渠道合作</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                            </div>
+                                    </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+
+<!--<link rel="stylesheet" href="https://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/tencent_portfolio_light.lu7pnlw3ee695674.css">-->
+<style>
+    body {
+        letter-spacing: 0;
+    }
+</style>
+
+<div class="art-banner-box ">
+    <div class="art-banner">
+        <picture>
+            <!-- mb -->
+            <source srcset="https://static.53ai.com/uploads/20240712/7bdae439d6aec72b6169255295310346.jpg" media="(max-width: 1024px)">
+            <!-- pc -->
+            <img src="https://static.53ai.com/uploads/20240717/b4d4dcfc73a94e6379e5f22698fa6744.webp" alt="AI知识库">
+        </picture>
+    </div>
+    <div class="wp1280">
+        <div class="text-container">
+            <p>53AI知识库</p><p>学习大模型的前沿技术与行业应用场景</p><p><br></p>
+            <div class="part-btns">
+        <a href="javascript:;" class="btn adviser-btn" data-name="userJ">立即咨询</a>
+        <a href="javascript:;" class="btn adviser-btn" data-name="userC">预约演示</a>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="news-detail">
+    <div class="wp1280">
+        <div class="detail">
+            <div class="left aos-init aos-animate" data-aos="fade-up">
+                <div class="top">
+                    <div class="breadcrumb">
+                        <a href="/">
+                            <i class="iconfont icon-home"></i>
+                            <span>首页</span>
+                        </a>
+                                                <a href="/news.html">
+                            <span>AI知识库</span>
+                        </a>
+                                                <a href="/news/qianyanjishu">
+                            <span>前沿技术</span>
+                        </a>
+                                            </div>
+                    <div class="posts-btn">
+                        <img src="https://static.53ai.com/assets/static/images/edit-icon.png" alt="">
+                        <p>我要投稿</p>
+                        <i class="iconfont icon-arrow-right-o"></i>
+                    </div>
+                </div>
+                <div class="detail-wrapper">
+                    <div class="detail-title">
+                        你知道AI技术的应用场景有哪些？                    </div>
+                    <div class="detail-data">
+                        <div class="box">
+                            <span>发布日期：2024-04-11 22:36:08</span>
+                            <span>浏览次数： 4623</span>
+                            <span>来源：AI数智汇</span>                        </div>
+
+                    </div>
+                    <div class="detail-content">
+                                                <p>
+    <br>
+</p>
+                        <section style=";"><span style="font-size: 15px;letter-spacing: 1px;">人工智能（AI）是一种使机器或计算机能够模仿人类思维能力的技术，它通过多种技术实现，包括规划、行动、理解、学习和感知等方面，使机器具备类似人类的智能AI的应用场景非常广泛，涵盖了从日常生活到专业领域的多个方面。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">在设计领域，AI被用于生成设计素材、自动布局、基于AI的设计代码、字体设计以及3D打印设计等。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">在医疗领域，AI的应用也非常显著，特别是在疾病诊治方面，如基于深度学习的医学影像分析技术，可以帮助医生提高诊断效率和精度。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">在企业中，AI的应用案例包括云定价优化、语音助手、聊天机器人等，这些应用有助于降低云计算成本、提高工作效率和服务质量</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">AI技术也在不断进步，例如GPT-4等大模型的出现，为AI领域带来了新的突破。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">麦肯锡的报告指出，AI工具的应用范围已经相当广泛，能够解决具体的商业问题。而在更广泛的行业应用中，AI进入生成式阶段，推动了行业从数字化向智能化的转型升级。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">AI技术的应用场景极为广泛，从设计、医疗到企业运营等多个领域都有其身影。随着技术的不断进步和创新，AI在未来的发展潜力巨大，将在更多领域发挥重要作用。这些应用场景展示了AI技术在多个领域的广泛应用，从提高工作效率到改善用户体验，AI技术正逐渐成为推动社会发展的重要力量。</span></section><figure data-size="normal" style=";"><p><img class="rich_pages wxw-img" data-imgfileid="100003563" data-ratio="0.728744939271255" src="https://api.ibos.cn/v4/weapparticle/accesswximg?aid=79273&amp;url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X2pwZy9RaG9mbFNQVkd5VldPUjZwaWN1WGt3aWJycHU4QTRtaWFyamliZVlzV3gzQ2lhQU1ta2V2aWMySVlIOFExdEIzT09WakoweEtPbU9nVmFRQW9uRm5ZZ2pFM0cyUS82NDA/d3hfZm10PW90aGVyJmFtcA==;from=appmsg" data-type="other" data-w="988" height="720" style=";" width="988"><span style="letter-spacing: 1px;font-weight: 600;"><br></span></p>
+<p><span style="letter-spacing: 1px;font-weight: 600;">医疗保健中的具体应用案例有哪些？</span></p></figure><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">AI技术在医疗保健中的具体应用案例包括：</span></section><section style="line-height: 1.75em;"><strong><span style="font-size: 15px;letter-spacing: 1px;">提供早期诊断：</span></strong><span style="font-size: 15px;letter-spacing: 1px;">通过AI算法和实时预测分析处理的数据，加快诊断速度。</span><span style="font-size: 15px;letter-spacing: 1px;">减少再入院：通过跟踪不按处方用药的患者，减少因疾病管理不当导致的再入院情况。</span></section><section style="line-height: 1.75em;"><strong><span style="font-size: 15px;letter-spacing: 1px;">检测欺诈性支付活动：</span></strong><span style="font-size: 15px;letter-spacing: 1px;">利用AI技术来识别和预防医疗保健领域的欺诈性支付活动。</span></section><section style="line-height: 1.75em;"><strong><span style="font-size: 15px;letter-spacing: 1px;">药物发现和临床试验优化：</span></strong><span style="font-size: 15px;letter-spacing: 1px;">生成式人工智能(GPT-AI)在医学影像和数据增强、药物发现以及临床试验优化方面的应用。</span></section><section style="line-height: 1.75em;"><strong><span style="font-size: 15px;letter-spacing: 1px;">精神健康：</span></strong><span style="font-size: 15px;letter-spacing: 1px;">运用人工智能技术从语言、表情、声音等数据进行情感识别，以支持精神健康领域的诊断和治疗。</span></section><section style="line-height: 1.75em;"><strong><span style="font-size: 15px;letter-spacing: 1px;">移动医疗：</span></strong><span style="font-size: 15px;letter-spacing: 1px;">结合人工智能技术提供远程医疗服务，使患者能够接受到及时有效的医疗咨询和服务。</span></section><section style="line-height: 1.75em;"><strong><span style="font-size: 15px;letter-spacing: 1px;">健康干预：</span></strong><span style="font-size: 15px;letter-spacing: 1px;">运用AI对患者的健康状况进行监测和干预，帮助预防疾病的发生和发展。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">这些应用案例展示了AI技术在医疗保健领域的多样化用途，从提高诊断效率到优化治疗方案，再到预防疾病的发生，AI技术正逐步成为医疗保健领域的重要助手。</span></section><p><mpcps class="js_editor_new_cps" data-templateid="list" data-traceid="96f94e75-ce51-4efd-81d9-e442f5d79b34" data-goodssouce="1" data-pid="307_2408257572" data-appuin="3907650410"></mpcps></p>
+<section style=";"><span style="font-size: 15px;letter-spacing: 1px;"></span></section><section style=";"><span style="letter-spacing: 1px;font-weight: 600;">智能农业中AI技术如何实现作物管理和提高产量？</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">在智能农业中，AI技术通过多种方式实现作物管理和提高产量。AI、机器学习（ML）以及物联网传感器能够提供丰富的实时数据，这些数据对于提高农业生产效率、增加农作物产量以及降低食品生产成本至关重要。例如，英特尔技术的应用可以帮助农户优化农作物产量。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">人工智能技术在种植业中的应用还包括数据管理和建模，尽管当前我国在这方面的技术还有待提高，但其目标是提升农作物的产量和质量，优化农业生产效率和品质。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">具体到作物管理，AI技术可以通过实时监测种植环境、病虫害情况以及智能化灌溉等手段，有效提高农作物的产量、质量和效益。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">例如，印度南部特伦甘纳邦政府与多家农业援助组织及技术企业合作，利用AI工具帮助辣椒种植户提高作物产量。此外，智慧农业的推广应用也极大提高了农业生产的效率，通过技术相结合，田间管理变得更加数字化、智能化、可视化。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">AI技术在智能农业中的应用主要通过提供实时数据支持、优化作物种植的数据管理和建模、实时监测种植环境和病虫害情况以及智能化灌溉等方式，实现作物管理和提高产量的目标。</span></section><p><mpcps class="js_editor_new_cps" data-templateid="list" data-traceid="381668a6-ed82-4abb-a76d-ff56da072d85" data-goodssouce="1" data-pid="101_100017791004" data-appuin="3907650410"></mpcps></p>
+<section style=";"><span style="font-size: 15px;letter-spacing: 1px;"></span></section><h3 style=";"><span style="font-size: 15px;letter-spacing: 1px;">工业制造中AI技术的应用有哪些最新进展？</span></h3>
+<section style=";"><span style="font-size: 15px;letter-spacing: 1px;">工业制造中AI技术的应用最新进展主要包括以下几个方面：</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;"><span style="font-size: 15px;">生成式人工智能（GenAI）的广泛应用</span>：2024年，制造业企业开始更广泛地采用生成式人工智能技术，将其作为数字化工具箱的核心组成部分及质量管理的关键推动者。这表明GenAI技术在提高生产效率、优化产品设计和质量控制等方面发挥着重要作用。</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;"><span style="font-size: 15px;">物联网（IoT）、智能边缘计算和云技术的投资增加</span>：利用机器人技术推动“质量4.0”和下一代生产力提高的新用例将促进物联网、智能边缘和云技术领域的投资。从而提高了生产效率和产品质量。</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;"><span style="font-size: 15px;">机器视觉（MV）和人工智能的加速发展</span>：5G技术的应用将加速机器视觉和人工智能的发展。机器视觉作为智能制造的重要组成部分，通过高精度图像处理技术实现对生产过程的实时监控和分析，有助于提高生产效率和产品质量。</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;"><span style="font-size: 15px;">物理世界的数字化</span>：物理学数字化的普及将加速工业企业的发展，提高其设计、优化、制造和销售产品的效率，并使其能够更加轻松地创建用于训练新一代AI的虚拟训练场和合成数据。这一趋势有助于企业更好地利用AI技术进行产品创新和市场拓展。</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;"><span style="font-size: 15px;">工业互联网（IIoT）、云计算的深度整合</span>：技术如工业互联网（IIoT）、云计算、人工智能和机器学习现已深入整个制造过程，这些技术的深度整合为制造业带来了前所未有的联接性和智能化。这种整合不仅提高了生产效率，还增强了企业的灵活性和响应速度。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">工业制造中AI技术的应用最新进展主要体现在生成式人工智能的广泛应用、物联网和智能边缘技术的投资增加、机器视觉与人工智能的加速发展、物理世界的数字化以及工业互联网和云计算的深度整合等方面。这些进展共同推动了制造业向更高效、更智能的方向发展。</span></section><h3 style=";"><span style="font-size: 15px;letter-spacing: 1px;">教育行业中AI技术如何改善学习体验和教学方法？</span></h3>
+<section style=";"><span style="font-size: 15px;letter-spacing: 1px;">在教育行业中，AI技术通过多种方式改善了学习体验和教学方法。AI技术能够提供个性化学习方案，这是其对教育领域最显著的贡献之一。通过分析学生的学习习惯、能力和进度，AI可以为每个学生定制学习路径，从而提高学习效率和效果。例如，智能算法可以根据学生的学习表现调整教学内容和难度，确保每位学生都能在自己的节奏下学习。</span></section><section style=";"><strong><span style="font-size: 15px;letter-spacing: 1px;">AI技术在提高教学质量和效率方面发挥着重要作用。</span></strong><span style="font-size: 15px;letter-spacing: 1px;">自动评分系统可以减轻教师的工作负担，使他们有更多时间专注于教学设计和学生指导，我小侄子跟我说，他们老师拿手机扫描完试卷即可出分的时候，就让我非常吃惊了。AI还可以帮助教师更好地理解学生的学习需求，通过数据分析识别出学习难点和潜在问题，从而采取针对性的教学策略。</span></section><section style=";"><strong><span style="font-size: 15px;letter-spacing: 1px;">AI技术还促进了教育内容的创新和多样化。</span></strong><span style="font-size: 15px;letter-spacing: 1px;">例如，在艺术教育中，AI可以帮助教师设计更具吸引力和互动性的教学活动，使学生能够以更直观和有趣的方式学习艺术知识和技能。AI技术的应用也拓宽了教育资源的获取渠道，如通过虚拟现实(VR)和增强现实(AR)技术，为学生提供沉浸式学习体验。</span></section><section style=";"><strong><span style="font-size: 15px;letter-spacing: 1px;">AI技术在教育行业中的应用带来了许多积极影响，但也存在一些挑战和担忧。</span></strong></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">比如说过度依赖AI可能会削弱学生的批判性思维能力和人际交往能力。教育机构和技术开发者需要谨慎考虑如何平衡AI技术的利弊，确保其在促进教育创新的同时，不会损害学生的全面发展。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">AI技术通过个性化学习、提高教学质量、促进内容创新和多样化等方式，在教育行业中改善了学习体验和教学方法。但也需要关注其可能带来的负面影响，并寻求有效的解决方案。</span></section><h3 style=";"><span style="font-size: 15px;letter-spacing: 1px;">自然语言处理技术在提高语音识别准确率方面的最新研究是什么？</span></h3>
+<section style=";"><span style="font-size: 15px;letter-spacing: 1px;">自然语言处理技术在提高语音识别准确率方面的最新研究主要集中在以下几个方面：</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;"><span style="font-size: 15px;">深度学习和神经网络的应用</span>：随着深度学习和神经网络等技术的不断发展，语音识别的准确率得到了进一步的提升。这表明了深度学习在提高语音识别准确率方面的关键作用。</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;"><span style="font-size: 15px;">大模型的应用</span>：通义实验室在过去一年中，在语音识别声学模型、语音端点检测、语音识别热词定制化和时间戳预测上取得了最新的研究和应用进展。这些进展表明，大模型在提高语音识别准确率方面发挥着重要作用。</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;">预先训练的语言模型（PLM）</span><span style="font-size: 15px;letter-spacing: 1px;">：</span><span style="font-size: 15px;letter-spacing: 1px;">研究人员推出了几种参数有效的微调方法，可以优化输入提</span>示<span style="font-size: 15px;letter-spacing: 1px;">或调整少量模型参数，这对于提高语音识别系统的性能具有重要意义。</span><span style="font-size: 15px;letter-spacing: 1px;">这说明了预先训练的语言模型在提升语音识别准确率方面的潜力。</span></section><section style="line-height: 1.75em;"><span style="font-size: 15px;letter-spacing: 1px;"><span style="font-size: 15px;">语义分析和情感分析</span>：自然语言处理技术使语音识别系统能够不仅仅转换文字，还能理解语言的含义和上下文。这涉及到语义分析、情感分析等高级特性，使得系统能够更加智能化地响应用户的需求。</span></section><section style=";"><span style="font-size: 15px;letter-spacing: 1px;">自然语言处理技术在提高语音识别准确率方面的最新研究主要集中在利用深度学习和神经网络技术、开发和应用大模型、利用预先训练的语言模型进行微调以及通过语义分析和情感分析来增强系统的智能化水平。这些研究成果共同推动了语音识别技术的发展，提高了系统的准确率和用户体验。</span></section><section class="mp_profile_iframe_wrp"><mp-common-profile class="js_uneditable custom_select_card mp_profile_iframe" data-pluginname="mpprofile" data-id="MzkwNzY1MDQxMA==" data-headimg="https://api.ibos.cn/v4/weapparticle/accesswximg?aid=79273&amp;url=aHR0cDovL21tYml6LnFwaWMuY24vc3pfbW1iaXpfcG5nL1Fob2ZsU1BWR3lVbDN3SmE5UGJ5VEZoaEpYbGVHODBpYVJia2xDaWNlZWFwRTdUczBYSk9XcElxQmpBYks2emFoV2lhMDdvTElvQ0RYa09BVUl2V3VVYzVRLzA/d3hfZm10PXBuZw==" data-nickname="AI数智汇" data-alias="aishuzhihui01" data-signature="专注分享AI人工智能、数据治理、数字化转型领域洞见与技术。" data-from="0" data-is_biz_ban="0"></mp-common-profile><span style="font-size: var(--articleFontsize);letter-spacing: 0.034em;"></span></section><p style="display: none;"><mp-style-type data-value="3"></mp-style-type></p>
+                    </div>
+                    <div class="share-con">
+
+                        <span>分享：</span>
+                        <div class="share-box">
+                            <div class="share-box-item share-to-wechat share-btn" data-share-title="企微" data-share="wechat" title="分享到企微">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/share_icon_1.png" class="lazy">
+                            <div class="wechat-ewm"><div class="img" id="wechatEwm-udj2ch"><canvas width="113" height="113"></canvas></div><p>用微信扫描二维码</p></div></div>
+                            <div class="share-box-item share-to-wechat share-btn" data-share-title="微信" data-share="wechat" title="分享到微信">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/share_icon_2.png" class="lazy">
+                            <div class="wechat-ewm"><div class="img" id="wechatEwm-erbuzt"><canvas width="113" height="113"></canvas></div><p>用微信扫描二维码</p></div></div>
+                            <div class="share-box-item share-to-wechat share-btn" data-share-title="钉钉" data-share="wechat" title="分享到钉钉">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/share_icon_3.png" class="lazy">
+                            <div class="wechat-ewm"><div class="img" id="wechatEwm-9dzjok"><canvas width="113" height="113"></canvas></div><p>用微信扫描二维码</p></div></div>
+                            <div class="share-box-item share-to-wechat share-btn" data-share-title="飞书" data-share="wechat" title="分享到飞书">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/share_icon_4.png" class="lazy">
+                            <div class="wechat-ewm"><div class="img" id="wechatEwm-eywx8f"><canvas width="113" height="113"></canvas></div><p>用微信扫描二维码</p></div></div>
+                        </div>
+                    </div>
+                    <div class="detail-ai">
+                        <div class="ai-tit"><p style="text-align: center;"><strong></strong></p><p><strong><br></strong></p><p><strong>53AI，企业落地应用大模型首选服务商</strong></p><div class="line"></div></div><p><strong>产品：</strong>大模型应用平台+智能体定制开发+落地咨询服务</p><p><strong>承诺：</strong>先做场景<span style="text-wrap: wrap;">POC</span>验证，看到效果再签署服务协议。<strong>零风险落地应用大模型</strong>，已交付160+中大型企业</p>                    </div>
+                    
+                    <div class="article-labels">
+                                            </div>
+
+                </div>
+                <div class="detail-navigation">
+                    <div class="box">
+                                                <a href="/news/qianyanjishu/655.html">上一篇：RAFT：一种适应特定领域RAG的大模型训练新方法！</a>
+                        
+                                                <a href="/news/qianyanjishu/652.html">下一篇：一文读懂人工智能背后的技术：知识图谱</a>
+                        
+                    </div>
+                    <div class="box">
+                        <a href="/news/qianyanjishu" class="back-list">
+                        <span>返回列表</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="more-news">
+                    <h1 class="title">相关资讯</h1>
+                    <div class="hr"></div>
+                    <div class="list">
+                                                <a href="/news/qianyanjishu/2024071054182.html" class="list-item">
+                            <p class="date">2024-07-10</p>
+                            <div class="title">
+                                <p>科研助力神器：Scholar GPT，百倍提升你的研究效率！</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/qianyanjishu/2024070958961.html" class="list-item">
+                            <p class="date">2024-07-09</p>
+                            <div class="title">
+                                <p>Doc2X：一款功能超级强大的文档解析与转换工具</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/qianyanjishu/2024070651869.html" class="list-item">
+                            <p class="date">2024-07-06</p>
+                            <div class="title">
+                                <p>我对多智能体协作过程自动演化架构设计</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/qianyanjishu/2024070672186.html" class="list-item">
+                            <p class="date">2024-07-06</p>
+                            <div class="title">
+                                <p>可穿戴AI，底层逻辑的变化</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/qianyanjishu/2024070628415.html" class="list-item">
+                            <p class="date">2024-07-06</p>
+                            <div class="title">
+                                <p>一文彻底搞懂Transformer - Word Embedding（词嵌入）</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/qianyanjishu/2024070689245.html" class="list-item">
+                            <p class="date">2024-07-06</p>
+                            <div class="title">
+                                <p>AI动态 | 腾讯元宝AI搜索能力升级：深度搜索模式上线</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/qianyanjishu/2024070678165.html" class="list-item">
+                            <p class="date">2024-07-06</p>
+                            <div class="title">
+                                <p>智能手表 + AI ，都已经这么智能了？？</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/qianyanjishu/2024070621639.html" class="list-item">
+                            <p class="date">2024-07-06</p>
+                            <div class="title">
+                                <p>死磕10万卡GPU算力集群，腾讯星脉网络2.0有什么秘密武器？</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="new-right">
+    <div class="sec-1 aos-init aos-animate" data-aos="fade-up">
+        <div class="new-right-swiper ">
+            <div class="swiper swiper-container-initialized swiper-container-horizontal">
+                <div class="swiper-wrapper" style="-webkit-transition: 300ms; transition: 300ms;">
+                                        <div class="swiper-slide">
+                        <img alt="智能化改造方案" class="pc lazy" data-src="https://static.53ai.com/uploads/20240531/5002026623535870b7a07ff223f9f34a.jpg">
+                        <img alt="智能化改造方案" class="m lazy" data-src="https://static.53ai.com/uploads/20240531/5002026623535870b7a07ff223f9f34a.jpg">
+                        <a href="https://www.53ai.com/" target="_blank">了解更多</a>
+                    </div>
+                                        <div class="swiper-slide">
+                        <img alt="大模型落地应用平台" class="pc lazy" data-src="https://static.53ai.com/uploads/20240529/72a2c0f952f63ef0a546b91beb4bbb32.jpg">
+                        <img alt="大模型落地应用平台" class="m lazy" data-src="https://static.53ai.com/uploads/20240530/5002026623535870b7a07ff223f9f34a.jpg">
+                        <a href="https://www.53ai.com/" target="_blank">了解更多</a>
+                    </div>
+                                    </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+            <div class="pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+        </div>
+        <div class="right-more-btn">
+            <h1 class="title">160+中大型企业正在使用53AI</h1>
+            <div class="more">
+                                <a href="javascript:;" class="btn adviser-btn" data-name="userJ">立即咨询</a>
+                                <a href="javascript:;" class="btn adviser-btn" data-name="userC">预约演示</a>
+                            </div>
+        </div>
+        <div class="right-list">
+                        <a href="/news/dongtai/2024052786793.html" class="item">
+                <h1 class="title">百度智能云邀53AI：共创AI新纪元，启航智能新时代</h1>
+                <p class="date">2024-05-27</p>
+            </a>
+                        <a href="/news/dongtai/2399.html" class="item">
+                <h1 class="title">钉钉恒星计划：53AI与百余位企业家及钉钉生态伙伴，共议“AI 浪潮下的新机遇”</h1>
+                <p class="date">2024-05-22</p>
+            </a>
+                    </div>
+    </div>
+        <div class="sec-2 aos-init aos-animate" data-aos="fade-up">
+        <h1 class="sec-title">热点资讯</h1>
+        <div class="news-right">
+                        <a href="/news/qianyanjishu/2144.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        最强 GPT 免费使用！GPT4O 开启多模态新时代！                    </h1>
+                    <p class="date">2024-05-14</p>
+                </div>
+            </a>
+                        <a href="/news/qianyanjishu/1427.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        全民AI时代：手把手教你用Ollama &amp; AnythingLLM搭建AI知识库，无需编程，跟着做就行！                    </h1>
+                    <p class="date">2024-04-26</p>
+                </div>
+            </a>
+                        <a href="/news/zhinengyingjian/303.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        万字长文解析：大模型需要怎样的硬件算力                    </h1>
+                    <p class="date">2024-03-30</p>
+                </div>
+            </a>
+                        <a href="/news/qianyanjishu/737.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        OLLama详细的 api 介绍 不完全指南 python 直接调用 OLLama api 翻译助手演示                    </h1>
+                    <p class="date">2024-04-12</p>
+                </div>
+            </a>
+                        <a href="/news/qianyanjishu/2015.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        微调神器LLaMA-Factory官方保姆级教程来了，从环境搭建到模型训练评估全覆盖                    </h1>
+                    <p class="date">2024-05-10</p>
+                </div>
+            </a>
+                        <a href="/news/RAG/2024071808762.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        GraphRAG+Ollama 本地部署，保姆教程，踩坑无数，闭坑大法                    </h1>
+                    <p class="date">2024-07-18</p>
+                </div>
+            </a>
+                        <a href="/news/qianyanjishu/2406.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        【开源看AI】4.9K star！Khoj：完美融合本地文档和在线网页的AI第二大脑                    </h1>
+                    <p class="date">2024-05-22</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024052823549.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        一文带你了解大模型——智能体（Agent）                    </h1>
+                    <p class="date">2024-05-28</p>
+                </div>
+            </a>
+                        <a href="/news/qianyanjishu/1328.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        更改ollama模型存储路径                    </h1>
+                    <p class="date">2024-04-25</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/1417.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        全面对比dify、coze、streamlit、chainlit                    </h1>
+                    <p class="date">2024-04-26</p>
+                </div>
+            </a>
+                    </div>
+    </div>
+    <div class="sec-2 aos-init aos-animate" data-aos="fade-up">
+        <h1 class="sec-title">大家都在问</h1>
+        <div class="news-right">
+                        <a href="/news/OpenSourceLLM/2024111337024.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        这家小公司的700 亿参数模型竟然比Open o1还强？                    </h1>
+                    <p class="date">2024-11-13</p>
+                </div>
+            </a>
+                        <a href="/news/OpenSourceLLM/2024111303951.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        Ollama 更新！本地跑 LLama3.2，轻量级+视觉能力，能媲美GPT-4o？                    </h1>
+                    <p class="date">2024-11-13</p>
+                </div>
+            </a>
+                        <a href="/news/tishicijiqiao/2024111328764.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        为什么你编写不出优秀的ChatGPT提示词?                    </h1>
+                    <p class="date">2024-11-13</p>
+                </div>
+            </a>
+                        <a href="/news/zhinengyingjian/2024111282315.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        百亿豪赌混战，谁会赢在“AI手机时代”？                    </h1>
+                    <p class="date">2024-11-12</p>
+                </div>
+            </a>
+                        <a href="/news/zhinengyingjian/2024111160739.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        又一国产AI眼镜即将诞生|巨头不断布局这个赛道想象空间到底有多大？                    </h1>
+                    <p class="date">2024-11-11</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024110892764.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        AI 2.0时代，谁是未来的“掘金者”和“卖铲人”？                    </h1>
+                    <p class="date">2024-11-08</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024110717695.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        如何泛化AI的深度推理能力？                    </h1>
+                    <p class="date">2024-11-07</p>
+                </div>
+            </a>
+                        <a href="/news/RAG/2024110670436.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        RAG vs ICL：AI大模型的记忆术和临场发挥，谁才是最强辅助？                    </h1>
+                    <p class="date">2024-11-06</p>
+                </div>
+            </a>
+                    </div>
+    </div>
+    
+    <div class="sec-2 labels aos-init aos-animate" data-aos="fade-up">
+        <h1 class="sec-title">热门标签</h1>
+        <div class="label-right">
+                        <a href="/news/neirongchuangzuo">
+                内容创作            </a>
+                        <a href="/news/LargeLanguageModel">
+                大模型技术            </a>
+                        <a href="/news/gerentixiao">
+                个人提效            </a>
+                        <a href="/news/langchain">
+                langchain            </a>
+                        <a href="/news/llamaindex">
+                llamaindex            </a>
+                        <a href="/news/MultimodalLargeModel">
+                多模态技术            </a>
+                        <a href="/news/RAG">
+                RAG技术            </a>
+                        <a href="/news/zhinengkefu">
+                智能客服            </a>
+                        <a href="/news/knowledgegraph">
+                知识图谱            </a>
+                        <a href="/news/finetuning">
+                模型微调            </a>
+                        <a href="/news/RAGFlow">
+                RAGFlow            </a>
+                        <a href="/news/coze">
+                coze            </a>
+                        <a href="/news/dify">
+                Dify            </a>
+                        <a href="/news/fastgpt">
+                Fastgpt            </a>
+                        <a href="/news/Bisheng">
+                Bisheng            </a>
+                        <a href="/news/Qanything">
+                Qanything            </a>
+                        <a href="/news/AIqiche">
+                AI+汽车            </a>
+                        <a href="/news/AIjinrong">
+                AI+金融            </a>
+                        <a href="/news/AIgongye">
+                AI+工业            </a>
+                        <a href="/news/AIpeixun">
+                AI+培训            </a>
+                        <a href="/news/AISaaS">
+                AI+SaaS            </a>
+                        <a href="/news/tishicikuangjia">
+                提示词框架            </a>
+                        <a href="/news/tishicijiqiao">
+                提示词技巧            </a>
+                        <a href="/news/AIdianshang">
+                AI+电商            </a>
+                        <a href="/news/AImianshi">
+                AI面试            </a>
+                        <a href="/news/shuziyuangong">
+                数字员工            </a>
+                        <a href="/news/zhinengbaobiao">
+                ChatBI            </a>
+                        <a href="/news/zhishiguanli">
+                知识管理            </a>
+                        <a href="/news/OpenSourceLLM">
+                开源大模型            </a>
+                        <a href="/news/zhinengyingxiao">
+                智能营销            </a>
+                        <a href="/news/zhinengyingjian">
+                智能硬件            </a>
+                        <a href="/news/zhinenghuagaizao">
+                智能化改造            </a>
+                        <a href="/news/AIyiliao">
+                AI+医疗            </a>
+                        <a href="/news/MaxKB">
+                MaxKB            </a>
+                    </div>
+    </div>
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+<div class="join-dialog">
+    <div class="container">
+        <div class="join-dialog-box">
+            <div class="join-dialog-title">
+                <div id="joinScrollTitle">
+
+                </div>
+                <div class="close-btn iconfont icon-close" title="关闭"></div>
+            </div>
+            <div class="join-dialog-con">
+                <div class="join-dialog-scroll">
+                    <div class="join-dialog-scroll-wp" id="joinScrollCon">
+                        <p id="join-edu"></p>
+                        <p id="join-nums"></p>
+                        <p id="join-loc"></p>
+                        <p id="join-end"></p>
+                        <br>
+                        <div class="content">
+
+                        </div>
+                    </div>
+                <div class="bscroll-vertical-scrollbar" style="position: absolute; z-index: 9999; overflow: hidden; width: 7px; bottom: 2px; top: 2px; right: 1px; display: none;"><div class="bscroll-indicator" style="box-sizing: border-box; position: absolute; background-color: rgba(0, 0, 0, 0.498039); border: 1px solid rgba(255, 255, 255, 0.901961); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; width: 100%; background-position: initial initial; background-repeat: initial initial;"></div></div></div>
+            </div>
+                        <div class="join-dialog-btn">
+                <a href="mailto:ceo@53ai.com">应聘简历请发送至： ceo@53ai.com</a>
+            </div>
+                    </div>
+    </div>
+</div>
+
+<div class="posts-pup">
+    <div class="mask"></div>
+    <div class="box">
+        <div class="close">
+            <i class="iconfont icon-close"></i>
+        </div>
+        <div id="submitForm" class="form"></div>
+    </div>
+</div>
+<script>
+    $(function () {
+        new ShareTo()
+        rightSwiperFun ()
+        newDetail()
+        recruDialog('.join-swiper .swiper-slide',function (id) {
+            $.ajax({
+                type: 'post',
+                url: '/detail/' + id,
+                success: function (res) {
+                    $('#joinScrollTitle').html(res.data.title)
+                    $('#joinScrollCon .content').html(res.data.content)
+                    $('#join-edu').html('<span>学历要求：</span>' + res.data.education)
+                    $('#join-nums').html('<span>招聘人数：</span>' + res.data.nums)
+                    $('#join-loc').html('<span>工作地点：</span>' + res.data.location)
+                    $('#join-end').html('<span>结束时间：</span>' + res.data.end)
+                }
+            })
+        })
+        convertRemToPx(document.querySelector('.detail-content'))
+    })
+</script>
+<script>
+    $(window).on('load', function () {
+        let WescrmMicroService = new window.WescrmMicroService(
+            {
+                guid: "B3C789A0-9D59-43FA-1253-76B5E0EAA973",
+                settingid: "166",
+                formid: "1063",
+                shareurl: "https://m.wescrm.com/kmp/?pagepath=pages%2Fform%2Fquestionnaire%2Fweb-view%3Fcardid%3D2032709%26formid%3D1063%26fromcardid%3D2032709%26fromguid%3DB3C789A0-9D59-43FA-1253-76B5E0EAA973%26fromuid%3D2%26guid%3DB3C789A0-9D59-43FA-1253-76B5E0EAA973%26settingid%3D166%26sharecardid%3D2032709%26sharetime%3D1726027423082%26sharetype%3Dwescrm-website-visit%26shareuid%3D2%26sourceapp%3Dqwy-admin%26traceid%3D7239483724734140416%26uid%3D2&corpid=wwa0d41064fbd22504&suiteid=wwc2a5580a6a08876b&autoHeight=1",
+            }
+        )
+        WescrmMicroService.renderForm({ target: "#submitForm", width: "100%"})
+        WescrmMicroService.wescrmFormLoaded().then(() => {
+            $('.loader').fadeOut()
+        })
+    })
+</script>
+
+
+<div class="footer ">
+    <div class="custom-footer">
+        <div class="footer-bottom">
+            <div class="footer-nav">
+                <div class="wp">
+                    <div class="footer-nav-wrapper">
+                                                <div class="item">
+                            <div class="title"><a href="/product.html">产品服务</a></div>
+                            <div class="nav-box">
+
+                                                                <div class="nav-list">
+                                    <dt><a href="/product/quanyuanAI">工作+AI</a></dt>
+                                                                        <dd><a href="/product/gongzuoduihua">工作对话</a></dd>
+                                                                        <dd><a href="/product/neirongchuangzuo">内容创作</a></dd>
+                                                                        <dd><a href="/product/zhinengwendang">方案撰写</a></dd>
+                                                                        <dd><a href="/product/mofacaidan">魔法菜单</a></dd>
+                                                                    </div>
+                                                                <div class="nav-list">
+                                    <dt><a href="/product/yewuAI">业务+AI</a></dt>
+                                                                        <dd><a href="/product/jiqiren">智能问答</a></dd>
+                                                                        <dd><a href="/product/jinengtuozhan">拓展能力</a></dd>
+                                                                        <dd><a href="/product/siyoumoxing">私有模型</a></dd>
+                                                                    </div>
+                                                                <div class="nav-list">
+                                    <dt><a href="/product/AIXyewu">AIx业务</a></dt>
+                                                                        <dd><a href="/product/zijianyingyong">应用智改</a></dd>
+                                                                        <dd><a href="/product/LLMFlow">LLMFlow</a></dd>
+                                                                        <dd><a href="/product/ChatBI">ChatBI</a></dd>
+                                                                        <dd><a href="/product/xitongguanli">统管平台</a></dd>
+                                                                    </div>
+                                
+                                <div class="nav-list">
+                                                                        <dt><a href="/consulting.html" class="img-box " data-name="">大模型咨询</a></dt>
+                                                                        <dt><a href="/fine-tuning.html" class="img-box " data-name="">大模型定制</a></dt>
+                                                                    </div>
+
+                            </div>
+                        </div>
+                        
+                        <div class="item">
+                            <div class="title"><a href="/news.html">AI知识库</a></div>
+                                                        <div class="nav-box nav-item-box">
+                                                                <div class="nav-list"><dd><a href="/news/qianyanjishu">前沿技术</a></dd><dd><a href="/news/agentplatform">Agent框架</a></dd><dd><a href="/news/hangyeyingyong">行业应用</a></dd><dd><a href="/news/qiyejingying">企业经营</a></dd></div>
+                                                                
+                                                                
+                                                                
+                                                            </div>
+                                                    </div>
+
+                        
+                        <div class="item">
+                            <div class="title"><a href="/prompt.html">结构化提示词</a></div>
+                                                        <div class="nav-box nav-item-box">
+                                                                <div class="nav-list"><dd><a href="/prompt/LangGPTzhilu">LangGPT之路</a></dd><dd><a href="/prompt/Sorayanjiufenxi">提示词合集</a></dd><dd><a href="/prompt/tongwangAGIzhilu">应用案例</a></dd><dd><a href="/prompt/shequndaren">社区达人</a></dd></div>
+                                                                
+                                                                
+                                                                
+                                                            </div>
+                                                    </div>
+
+                        
+                        <div class="item">
+                            <div class="title"><a href="/about.html">关于我们</a></div>
+                                                        <div class="nav-box nav-item-box">
+                                                                <div class="nav-list"><dd><a href="/about/introduction">公司介绍 </a></dd><dd><a href="/about/cooperation">渠道合作</a></dd></div>
+                                                                
+                                                            </div>
+                                                    </div>
+
+                                            </div>
+                </div>
+            </div>
+            <div class="wp">
+                <div class="copyright">
+    <div class="left">
+        <div class="item link">
+            <span>友情链接：</span>
+            <div class="link-box">
+                                <a href="https://www.waytoagi.com/" target="_blank">通往AGI之路</a>
+                                <a href="https://www.yuncan.com/" target="_blank">云璨信息</a>
+                                <a href="https://www.wescrm.com" target="_blank">企微SCRM</a>
+                                <a href="https://www.mingpian.top" target="_blank">小名片</a>
+                                <a href="https://www.uweb.net.cn" target="_blank">优网科技</a>
+                            </div>
+        </div>
+        <div class="item">
+            <div class="box">CopyRight © 2012-2024  深圳市博思协创网络科技有限公司  版权所有</div>
+            <div class="box">
+                <a target="_blank" href="https://beian.miit.gov.cn/#/Integrated/index"><img alt="" data-src="https://static.53ai.com/assets/static/images/bei.png" class="lazy">粤ICP备17114055号</a>
+            </div>
+        </div>
+        <div class="item contact">
+            <p>广州：广州市华景路37号(华景软件园)暨南大学科技大厦6楼（整层） 杨小姐&nbsp; &nbsp;186 6662 7370</p><p>深圳：深圳市福田区泰然四路29号天安创新科技广场一期A座1204&nbsp; &nbsp; 陈先生&nbsp; 186 8244 3374</p><p>上海：上海市浦东新区金新路58号1602室&nbsp; &nbsp; 戴先生&nbsp; &nbsp;186 1639 7587</p>        </div>
+    </div>
+    <div class="right">
+        <div class="footer-qrcode">
+                        <div class="item">
+                <div class="icon">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/66538f2d97be880ea397fe9ac2c9e104.png" class="lazy">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/57be88d183a075b534eced4e5b2bb733.jpg" class="lazy">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="icon">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/8c010e9294459f2ac532411f331f31fc.png" class="lazy">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/7db8529c20049cc39a407fb0ceff6365.png" class="lazy">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="icon">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/d7a96a52f6d245d62ce5bb79e5675bdf.png" class="lazy">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/8d883014d85a9cd915b6616c7b57ed81.png" class="lazy">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="icon">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/d4f5a00d143a06bee58515247c144d8e.png" class="lazy">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/8d883014d85a9cd915b6616c7b57ed81.png" class="lazy">
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="right-bar">
+    <div class="item">
+        <div class="icon">
+            <i class="iconfont icon-lianximaijia"></i>
+        </div>
+        <p>联系我们</p>
+        <div class="contact-hover">
+            <div class="box"><div class="tel"><div class="tel-item"><div class="icon"><em class="iconfont icon-dianhua1-mianxing"></em></div><div class="info"><div class="p">售前咨询</div><a href="tel:18666627370" class="num">186 6662 7370</a></div></div><div class="tel-item"><div class="icon"><em class="iconfont icon-dianhua1-mianxing"></em></div><div class="info"><div class="p">预约演示</div><a href="tel:18588820121" class="num">185 8882 0121</a></div></div></div><div class="qrcode-box"><div class="img"><img src="https://static.53ai.com/uploads/20230625/355ac27b9f23b6e31bad2516473f8ed4.png" width="133" height="134" style="width: 133px; height: 134px;" alt=""></div><div class="text"><p>微信扫码</p><p>与创始人交个朋友</p></div></div></div>
+        </div>
+    </div>
+    <div class="item back-top">
+        <div class="icon">
+            <i class="iconfont icon-zhiding"></i>
+        </div>
+        <p>回到顶部</p>
+    </div>
+</div>
+
+
+
+<noscript>
+    &lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGVMSDSS" height="0" width="0"
+            style="display: none; visibility: hidden"&gt;&lt;/iframe&gt;
+</noscript>
+
+
+<div class="adviser-popup-mask">&nbsp;</div>
+<div class="adviser-popup">
+    <div class="iconfont icon-guanbi adviser-popup-close"></div>
+    <div class="adviser-popup-top">
+        <div class="title">扫码咨询</div>
+        <div class="adviser-popup-box">
+            <div class="avatar">
+                <img alt="" data-src="" class="lazy">
+            </div>
+            <div class="info">
+                <div class="info-top">
+                    <span class="info-top-name"></span>
+                    <span class="info-top-tag tag"></span>
+                </div>
+                <a href="" class="info-tel"><i class="iconfont icon-dianhua"></i><span></span></a>
+            </div>
+        </div>
+    </div>
+    <div class="adviser-popup-bottom">
+        <p class="text tips-text"></p>
+        <div class="qrcode">
+            <img alt="" data-src="" class="lazy">
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(window).on('load', function () {
+        const WescrmMicroService = new window.WescrmMicroService({
+            guid: "B3C789A0-9D59-43FA-1253-76B5E0EAA973",
+            settingid: "68",
+            formid: "955",
+            siteid:  '103',
+            shareurl: "https://work.wescrm.com/#/public/form/questionnaire?cardid=2024014&formid=955&fromcardid=2024014&fromguid=B3C789A0-9D59-43FA-1253-76B5E0EAA973&fromuid=17&guid=B3C789A0-9D59-43FA-1253-76B5E0EAA973&settingid=68&sharecardid=2024014&sharetime=1712128709766&sharetype=wescrm-website-visit&shareuid=17&sourceapp=qwy-admin&traceid=7181188295886376960&uid=17&styleMode=2&autoHeight=1",
+        })
+        // 产品体验弹窗
+        WescrmMicroService.getChannelInfo({ userScopeBatch: '0' }).then(({ data }) => {
+            let user = {
+                realname: data.realname,
+                mobile: data.mobile,
+                avatar: data.avatar,
+                qrcode: data.qrcode
+            }
+            window.localStorage.setItem('userJ', JSON.stringify(user))
+        })
+        // 技术交流弹窗
+        WescrmMicroService.getChannelInfo({ userScopeBatch: '1' }).then(({ data }) => {
+            let user = {
+                realname: data.realname,
+                mobile: data.mobile,
+                avatar: data.avatar,
+                qrcode: data.qrcode
+            }
+            window.localStorage.setItem('userC', JSON.stringify(user))
+        })
+        // 右侧导航微信扫码二维码
+        WescrmMicroService.getChannelInfo({ userScopeBatch: '2' }).then(({ data }) => {
+            // 侧边栏
+            const rightBarImg = document.querySelector('.contact-hover img')
+            rightBarImg.src = data.qrcode
+        })
+    })
+</script>
+<script>
+    $(function () {
+        $('.adviser-btn').click(function () {
+            let userName = $(this).data('name')
+            let data = window.localStorage.getItem(userName)
+            data = JSON.parse(data)
+
+            $('.adviser-popup .info-top-name').text(data.realname)
+            $('.adviser-popup .tag').text('专属顾问')
+            $('.adviser-popup .info-tel').attr('href', 'tel:' + data.mobile)
+            $('.adviser-popup .info-tel span').text(data.mobile)
+            $('.adviser-popup .avatar img').attr('src', data.avatar)
+            $('.adviser-popup .tips-text').text('欢迎扫码，在线体验53AI产品')
+            $('.adviser-popup .qrcode img').attr('src', data.qrcode)
+
+            $('.adviser-popup-mask').fadeIn(300, function () {
+                $('.adviser-popup').fadeIn()
+            })
+        })
+
+        $('.adviser-popup-close, .adviser-popup-mask').click(function () {
+            $('.adviser-popup').fadeOut(300, function () {
+                $('.adviser-popup-mask').fadeOut()
+            })
+        })
+    })
+</script>
+<script>
+    window.lazyLoadOptions = {
+        // Your custom settings go here
+    };
+    window.addEventListener(
+        "LazyLoad::Initialized",
+        function (event) {
+            window.lazyLoadInstance = event.detail.instance;
+        },
+        false
+    );
+</script>
+<script type="text/javascript">
+    var _yfx_trackdata = _yfx_trackdata || []; 
+
+    function handleClick(event, action) {
+        event.preventDefault();
+        _yfx_trackdata.push(['event', action]);
+    }
+
+    $(".login-btn, .register-btn").on('click', function(e) {
+        handleClick(e, '用户点击了：' + $(this).text());
+        setTimeout(() => {
+            location.href = $(this).attr('href'); // Delay redirection
+        }, 100);
+    });
+
+    $(".btn.adviser-btn").on('click', function(e) {
+        handleClick(e, '用户点击了：' + $(this).text());
+    });
+</script>
+<script src="https://static.53ai.com/assets/static/script/lazyload.min.js"></script>
+<!--<script src="https://chat.53ai.com/plugin.min.js"></script>-->
+<script src="https://static.53ai.com/assets/static/script/core.js?v=1.0.69"></script>
+<script src="https://static.53ai.com/assets/static/script/script.js?v=1.0.69"></script>
+<script src="https://static.53ai.com/assets/static/script/third-iframe.js?v=1.0.69"></script>
+
+</body></html>

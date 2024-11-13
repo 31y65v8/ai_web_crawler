@@ -1,0 +1,694 @@
+<!DOCTYPE html><html lang="zh-cn"><head><style class="vjs-styles-defaults">
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid {
+        padding-top: 56.25%
+      }
+    </style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="renderer" content="webkit">
+    <title>硬核产品、多行业落地案例，寒武纪强势亮相2021 WAIC - 公司新闻 - 寒武纪</title>
+    <meta name="keywords" content="寒武纪；人工智能；寒武纪芯片；ai芯片；语音识别；自然语言；计算机视觉；智能交通；智能教育；智能金融">
+    <meta name="description" content="寒武纪携旗下覆盖“云边端”全线智能芯片产品及众多行业落地案例、解决方案惊艳亮相2021世界人工智能大会，引发众多媒体与参展观众的关注。">
+        <meta name="robots" content="all">
+        <link rel="shortcut icon" href="/favicon.ico">
+	<link href="/statics/zhang/content/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="/statics/zhang/scripts/swiper/css/swiper.css" rel="stylesheet" type="text/css">
+	<link href="/statics/zhang/scripts/layui/css/layui.css" rel="stylesheet" type="text/css">
+	<link href="/statics/zhang/content/animation.css" rel="stylesheet" type="text/css">
+	<link href="/statics/zhang/content/iconfont/iconfont.css" rel="stylesheet" type="text/css">
+	<link href="/statics/zhang/content/font-awesome.css" rel="stylesheet" type="text/css">
+	<link href="/statics/zhang/scripts/video.js/video-js.css" rel="stylesheet" type="text/css">
+	<link href="/statics/zhang/scripts/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css">
+  <link href="/statics/zhang/content/style.css" rel="stylesheet" type="text/css">
+  <link href="/statics/zhang/content/cp-p3.css" rel="stylesheet">
+    <script src="https://hm.baidu.com/hm.js?08bf0a6e04a9cb9128b9e26f3355b392"></script><script src="/statics/zhang/scripts/jquery-1.12.4.min.js"></script>
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?08bf0a6e04a9cb9128b9e26f3355b392";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+ 
+<link id="layuicss-layer" rel="stylesheet" href="/statics/zhang/scripts/layui/css/modules/layer/default/layer.css?v=3.1.1" media="all"></head>
+<body>
+
+    <header>
+  <div class="container">
+    <div class="logo">
+      <a href="/"><img src="/statics/zhang/images/header-logo.png" alt="寒武纪科技"></a>
+    </div>
+    <div class="logo2">
+      <a href="/"><img src="/statics/zhang/images/header-logo2.png" alt="寒武纪科技"></a>
+    </div>
+    <button type="button" class="navbar-toggle" id="daohang">
+      <span class="sr-only">切换导航</span>
+      <span class="icon-bar bar-1"></span>
+      <span class="icon-bar bar-2"></span>
+      <span class="icon-bar bar-3"></span>
+    </button>
+    <nav id="navli">
+      <ul>
+        
+                
+                
+                <li class="">
+          <!-- 首页 加入我们  关于我们  可以点击-->
+          <a href="javaScript:;" class="no_pointer iright">产品技术</a>
+                    <div class="navli-nav cp">
+            <p class="fanhui">
+              <span class="layui-icon layui-icon-left"></span>返回
+            </p>
+                                                <ul>
+              <li>
+                <a href="javaScript:;" class="no_pointer iright">智能加速卡</a>
+                <ul>
+                                                      <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=360">思元370系列</a>
+                                                            <ul>
+                                            <li>
+                        <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=365">MLU370-S4/S8智能加速卡</a>
+                      </li>
+                                            <li>
+                        <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=371">MLU370-X4智能加速卡</a>
+                      </li>
+                                            <li>
+                        <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=406">MLU370-X8智能加速卡</a>
+                      </li>
+                                          </ul>
+                                                          </li>
+                                    <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=334">思元290</a>
+                                                            <ul>
+                                            <li>
+                        <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=340">MLU290-M5智能加速卡</a>
+                      </li>
+                                          </ul>
+                                                          </li>
+                                    <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=15">思元270系列</a>
+                                                            <ul>
+                                            <li>
+                        <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=36">MLU270-S4智能加速卡</a>
+                      </li>
+                                            <li>
+                        <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=37">MLU270-F4智能加速卡</a>
+                      </li>
+                                          </ul>
+                                                          </li>
+                                                    </ul>
+              </li>
+            </ul>
+                        <ul>
+              <li>
+                <a href="javaScript:;" class="no_pointer iright">智能加速系统</a>
+                <ul>
+                                                      <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=330">玄思1000智能加速器整机</a>
+                                                                              </li>
+                                                    </ul>
+              </li>
+            </ul>
+                        <ul>
+              <li>
+                <a href="javaScript:;" class="no_pointer iright">智能边缘计算模组</a>
+                <ul>
+                                                      <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=55">思元220系列</a>
+                                                            <ul>
+                                            <li>
+                        <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=56">MLU220-SOM智能模组</a>
+                      </li>
+                                            <li>
+                        <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=57">MLU220-M.2边缘端智能加速卡</a>
+                      </li>
+                                          </ul>
+                                                          </li>
+                                                    </ul>
+              </li>
+            </ul>
+                        <ul>
+              <li>
+                <a href="javaScript:;" class="no_pointer iright">终端智能处理器IP</a>
+                <ul>
+                                                      <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=12">Cambricon-1M</a>
+                                                                              </li>
+                                    <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=13">Cambricon-1H</a>
+                                                                              </li>
+                                                    </ul>
+              </li>
+            </ul>
+                        <ul>
+              <li>
+                <a href="javaScript:;" class="no_pointer iright">软件开发平台</a>
+                <ul>
+                                                      <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=71">Cambricon NeuWare</a>
+                                                                              </li>
+                                    <li>
+                    <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=378">MagicMind</a>
+                                                                              </li>
+                                                    </ul>
+              </li>
+            </ul>
+                                              </div>
+                  </li>
+                
+                
+                <li class="">
+          <!-- 首页 加入我们  关于我们  可以点击-->
+          <a href="javaScript:;" class="no_pointer iright">开放平台</a>
+                    <div class="navli-nav ">
+            <p class="fanhui">
+              <span class="layui-icon layui-icon-left"></span>返回
+            </p>
+                        <ul>
+                                          <li>
+                <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=148">AI菜单</a>
+                              </li>
+                                        </ul>
+                      </div>
+                  </li>
+                
+                <li class="">
+          <!-- 首页 加入我们  关于我们  可以点击-->
+          <a href="javaScript:;" class="no_pointer iright">开发者</a>
+                    <div class="navli-nav cp2">
+            <p class="fanhui">
+              <span class="layui-icon layui-icon-left"></span>返回
+            </p>
+                        <ul>
+                                          <li>
+                <a href="https://developer.cambricon.com/" target="_blank">开发者社区</a>
+                              </li>
+                            <li>
+                <a href="http://forum.cambricon.com/list-1-1.html" target="_blank">开发者论坛</a>
+                              </li>
+                            <li>
+                <a href="https://developer.cambricon.com/index/document/index/classid/3.html" target="_blank">文档中心</a>
+                              </li>
+                                        </ul>
+                      </div>
+                  </li>
+                
+                <li class="active">
+          <!-- 首页 加入我们  关于我们  可以点击-->
+          <a href="javaScript:;" class="no_pointer iright">新闻中心</a>
+                    <div class="navli-nav ">
+            <p class="fanhui">
+              <span class="layui-icon layui-icon-left"></span>返回
+            </p>
+                        <ul>
+                                          <li>
+                <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=127">公司新闻</a>
+                              </li>
+                                        </ul>
+                      </div>
+                  </li>
+                
+                <li class="">
+          <!-- 首页 加入我们  关于我们  可以点击-->
+          <a href="http://joinus.cambricon.com/campus_apply/cambricon/1112#/?_k=ox9u4o">加入我们</a>
+                    <div class="navli-nav">
+            <!-- 加入我们-->
+            <p class="fanhui">
+              <span class="layui-icon layui-icon-left"></span>返回
+            </p>
+            <ul>
+                                          <li>
+                <a href="https://app.mokahr.com/campus-recruitment/cambricon/44201" target="_blank">校园招聘</a>
+              </li>
+                            <li>
+                <a href="https://app.mokahr.com/m/apply/cambricon/1113" target="_blank">社会招聘</a>
+              </li>
+                            <li>
+                <a href="https://app.mokahr.com/recommendation-recruitment/cambricon/46261" target="_blank">校招内推</a>
+              </li>
+                            <li>
+                <a href="https://app.mokahr.com/recommendation-recruitment/cambricon/42452" target="_blank">社招内推</a>
+              </li>
+                          </ul>
+          </div>
+                  </li>
+                
+                <li class="">
+          <!-- 首页 加入我们  关于我们  可以点击-->
+          <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=7">关于我们</a>
+                    <div class="navli-nav">
+            <!-- 关于我们-->
+            <p class="fanhui">
+              <span class="layui-icon layui-icon-left"></span>返回
+            </p>
+            <ul>
+                                          <li>
+                <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=7#nav1">使命与愿景</a>
+              </li>
+                                          <li>
+                <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=7#nav2">寒武纪介绍</a>
+              </li>
+                                          <li>
+                <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=7#nav3">联系我们</a>
+              </li>
+                                          <li>
+                <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=7#nav4">公司地址</a>
+              </li>
+                                          <li>
+                <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=326">投资者关系</a>
+              </li>
+            </ul>
+          </div>
+                  </li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                      </ul>
+    </nav>
+  </div>
+</header>
+<script type="text/javascript">
+  $('#navli a').each(function() {
+    if ($(this).attr("href") == 'javaScript:;') {
+      $(this).addClass("no_pointer");
+      $(this).addClass("iright");
+    }
+  });
+</script>
+<div class="page-banner" style="background-image:url( /uploadfile/2019/1207/20191207083943152.png );">
+    <div class="txt wow fadeInUpa" style="visibility: visible; animation: fadeInUpa; -webkit-animation: fadeInUpa;">
+        <h2>                新闻中心                
+        </h2>
+                 <p>
+                        </p>
+            </div>
+</div>
+<div class="page-nav ">
+  <div class="container">
+    <div class="page-nav-left">
+      <a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=127" class="fanhui-nav">
+        公司新闻      </a>
+    </div>
+  </div>
+</div>
+
+
+<div class="page-news-show">
+  <div class="container">
+    <div class="left">
+      <div class="tit">
+        <h1>
+          硬核产品、多行业落地案例，寒武纪强势亮相2021 WAIC        </h1>
+        <span class="time">
+          2021-07-09 21:35:00        </span>
+        <span class="source">
+          来源：        </span>
+      </div>
+      <div class="body">
+        <div>7月7日—10日，2021世界人工智能大会（简称WAIC）在上海举办，寒武纪携旗下覆盖“云边端”全线智能芯片产品及众多行业落地案例、解决方案惊艳亮相2021世界人工智能大会，引发众多媒体与参展观众的关注。</div>
+
+<div>2021 WAIC以“智联世界、众智成城”为主题，旨在联通汇聚世界人工智能发展的最新成果和观点，为全球人工智能协同共治描绘新蓝图，为人工智能健康发展注入新活力。大会吸引了国内外众多顶级科学家、企业家、专家学者、投资人、初创团队等数万人的参与。</div>
+
+<div>&nbsp;</div>
+
+<div>
+<div><img alt="\" src="/uploadfile/2021/0715/20210715071301758.jpg" style="float:left; height:533px; margin-bottom:1px; margin-top:1px; width:800px"></div>
+
+<div style="text-align:center">▲寒武纪展台</div>
+
+<div>&nbsp;</div>
+
+<div>众所周知，随着新一轮科技革命进程加快，人工智能已在全球范围内形成发展的巨浪。作为人工智能领域发展的基础设施——智能芯片，它的任何研发与创新，都将成为影响全球人工智能领域发展快慢的关键要素。因此，智能芯片当仁不让的成为2021世界人工智能大会的关注重点。</div>
+
+<div>在中国智能芯片设计领域，寒武纪堪称标杆。此次展会上，寒武纪以“云边端车”为主题，在其2021 WAIC的展台上，首次展示“云边端车”全新布局，并集中展示了寒武纪成立5年来交出的成绩单，包括“云边端”全覆盖的智能处理器和芯片产品、众多行业落地案例、解决方案及多样化的AI硬件产品形态，亮点颇多。</div>
+
+<div>&nbsp;</div>
+</div>
+
+<p style="text-align:center"><strong><span style="font-size:18px"><span style="color:#0059c4">亮点1：云边端车新布局，强大的产品能力</span></span></strong></p>
+
+<div>本次大会上，寒武纪创始人、CEO陈天石博士在演讲中首次详细阐释了寒武纪“云边端车”新布局，一经发布即成为媒体关注的焦点。陈天石博士认为，智能驾驶是一个复杂体系，一个系统性的任务，需要基于统一的软硬件生态，进行“云边端车”四位一体的联动。这标志着寒武纪既有的云边端协同发展的技术、平台与生态将进一步拓展至车载智能芯片领域。</div>
+
+<div>在演讲中，陈天石首次披露了研发中的寒武纪行歌车载智能芯片的关键数据：超200TOPS AI性能、7nm制程、车规级、独立安全岛、成熟软件工具链，并通过开放的软件平台支持客户算法持续更新迭代，高效支撑高等级智能驾驶的需求。</div>
+
+<div>进入“车载智能芯片”领域，代表了寒武纪产品生态进一步扩容，业务更显张力。“云边端车”协同也凸显了寒武纪过去在“云边端”上积累的优势。</div>
+
+<div>&nbsp;</div>
+
+<div style="text-align:center"><img alt="\" src="/uploadfile/2021/0715/20210715071546466.png" style="float:left; height:447px; width:800px">▲寒武纪最新布局，“云边端车”协同。</div>
+
+<div>&nbsp;</div>
+
+<div>展台现场的企业发展历程区，展示了寒武纪过去5年的研发历程：寒武纪已研发推出了覆盖终端（1A处理器，1H处理器，1M处理器）、边缘端（思元220芯片及MLU220-M.2、MLU220-SOM）、云端（思元100芯片及MLU100，思元270芯片及MLU270-S4/F4、思元290芯片及MLU290-M5、MLU-X1000）的智能芯片及加速卡产品，保持每年推出1-2款产品的节奏。</div>
+
+<div>在静态展区，寒武纪的云端思元270芯片及加速卡、思元290芯片及加速卡、边缘端思元220芯片及加速卡悉数亮相，吸引展会观众纷纷驻足围观。</div>
+
+<div>&nbsp;</div>
+
+<div style="text-align:center"><img alt="\" src="/uploadfile/2021/0715/20210715071642556.jpg" style="float:left; height:533px; width:800px">▲寒武纪展台全线产品展示。</div>
+
+<div style="text-align:center">&nbsp;</div>
+
+<div style="text-align:center"><img alt="\" src="/uploadfile/2021/0715/20210715071722649.jpg" style="float:left; height:533px; width:800px">▲观众参观寒武纪全线产品展示区。</div>
+
+<div style="text-align:center">&nbsp;</div>
+
+<div style="text-align:center"><img alt="\" src="/uploadfile/2021/0715/20210715071758158.jpg" style="float:left; height:533px; width:800px">▲合作硬件展示区吸引众多询问。</div>
+
+<div style="text-align:center">&nbsp;</div>
+
+<div style="text-align:center"><img alt="\" src="/uploadfile/2021/0715/20210715071857115.jpg" style="float:left; height:533px; width:800px">▲观众阅读产品规格。</div>
+
+<div>&nbsp;</div>
+
+<div>值得一提的是，世界人工智能大会组委会还发布了2021年度SAIL奖榜单，寒武纪凭借“寒武纪思元290智能芯片及加速卡、玄思1000智能加速器”，从众多参评项目中脱颖而出，斩获SAIL之星大奖。</div>
+
+<div>&nbsp;</div>
+
+<div style="text-align:center"><img alt="\" src="/uploadfile/2021/0715/20210715071959641.jpg" style="float:left; height:566px; width:800px">▲寒武纪斩获SAIL之星大奖。</div>
+
+<div>
+<div>&nbsp;</div>
+
+<div><u><em>思元290芯片是寒武纪的首颗训练芯片，采用台积电7nm先进制程工艺，集成460亿个晶体管，基于MLUv02扩展架构，全面支持AI训练、推理或混合型人工智能计算加速任务。相比于思元270芯片，思元290芯片实现峰值算力提升4倍、内存带宽提高12倍、芯片间通讯带宽提高19倍。</em></u></div>
+
+<div><u><em>寒武纪MLU290-M5智能加速卡搭载思元290智能芯片，采用开放加速模块OAM设计，具备64个MLU Core，1.23TB/s内存带宽以及全新MLU-Link™多芯互联技术，&nbsp;在350W的最大散热功耗下提供8位定点AI性能高达512TOPS。</em></u></div>
+
+<div><u><em>寒武纪玄思1000智能加速器，在2U机箱内集成4颗思元290智能芯片，高速本地闪存、Mellanox InfiniBand网络，对外提供高速MLU-Link™接口，打破智能芯片、服务器、POD与集群的传统数据中心横向扩展架构，实现AI算力在计算中心级纵向扩展，是AI算力的高集成度平台。</em></u></div>
+
+<div>&nbsp;</div>
+
+<div><img alt="\" src="/uploadfile/2021/0715/20210715072136852.jpg" style="float:left; height:533px; text-align:center; width:800px"></div>
+
+<div style="text-align:center">▲获SAIL奖的玄思1000（左）与MLU290-M5拆解展示。</div>
+
+<div style="text-align:center">&nbsp;</div>
+
+<div>SAIL奖是世界人工智能大会的最高荣誉，是为了表彰为人工智能产业做出贡献的企业，同时树立人工智能标杆。据悉，来自人工智能、互联网、国内外学术科研机构等众多项目及产品参与评选，尤其以AI芯片、关键通用技术类项目居多，参评项目各具特色，极具实力。寒武纪思元290系列产品展现了突出的技术突破和应用创新实力，获此殊荣实至名归。</div>
+</div>
+
+<div>&nbsp;</div>
+
+<p style="text-align:center"><strong><span style="font-size:18px"><span style="color:#0059c4">亮点2：赋能行业升级，集中展示8大行业落地案例、解决方案</span></span></strong></p>
+
+<div>人工智能，落地为王。人工智能要想改变社会，不能仅停留于理论和概念层面，更重要的是要实现商业化、场景化落地。寒武纪不仅产品研发及技术积累上保持领先，在技术落地，赋能行业升级方面，也扎实稳健，在互联网、金融、交通等领域均有规模化落地。</div>
+
+<div>本次展会，寒武纪和行业合作伙伴一起，甄选了十多个代表性的落地案例、行业解决方案进行重点展示，覆盖了智慧交通、智慧能源、智慧电力、智慧物流、智慧畜牧、智慧医疗等几大领域，全方位立体地展示了寒武纪技术落地的实力及广阔的生态布局。</div>
+
+<div>&nbsp;</div>
+
+<div style="text-align:center"><img alt="\" src="/uploadfile/2021/0715/20210715072340828.jpg" style="float:left; height:533px; text-align:center; width:800px">▲观众驻足观看解决方案讲解视频。</div>
+
+<div style="text-align:center">&nbsp;</div>
+
+<div>智慧交通领域，寒武纪与行业头部合作伙伴联合展出了车路协同、智慧铁建等解决方案，借助寒武纪多样化智能计算设备，有效提升云端及边缘端算力，帮助客户增强智慧轨道及交通系统的可靠性，切实推动交通行业的智能化升级。</div>
+
+<div>智慧电力领域，寒武纪展出的变电站在线巡视系统、输电线路巡检方案，用智能装备取代人工例行巡检，还能将视频图像高速传输，有效节省成本，让运维工作更简单，支撑电网企业数字化、智能化转型。</div>
+
+<div>智慧医疗领域，寒武纪携手知名行业客户打造的超声智能筛查解决方案，以超声视频AI为切入点，对超声视频流进行实时智能分析，实现毫米级读取超声影像，快速、精准地抓取病灶，大大减轻医生阅片负担。该方案能有效赋能基层医疗机构，为边远地区的医院等提供高效的AI辅助筛查。</div>
+
+<div>&nbsp;</div>
+
+<p style="text-align:center"><strong><span style="font-size:18px"><span style="color:#0059c4">亮点3：携手硬件合作伙伴，打造多样化AI+硬件产品形态</span></span></strong></p>
+
+<div>本次展会，寒武纪还联合众多知名合作伙伴，集中展示了搭载寒武纪芯片板卡产品的13种AI硬件产品，囊括了主流服务器、工控机、激光雷达、毫米波雷达、边缘计算设备等硬件产品形态。</div>
+
+<div>&nbsp;</div>
+
+<div style="text-align:center"><img alt="\" src="/uploadfile/2021/0715/20210715072506946.jpg" style="float:left; height:533px; width:800px">▲寒武纪联合各家合作伙伴，展示硬件产品。</div>
+
+<div>&nbsp;</div>
+
+<div>此次展会，寒武纪全方位展示了成立五年多以来，AI芯片从概念到赋能产业升级的发展历程。寒武纪联合创始人、副总裁刘道福表示：“目前，寒武纪已与智能产业的众多上下游企业建立了良好的合作关系，深入产品适配和方案整合，我们希望与越来越多的企业深入合作，为推动各行业智能化升级与转型贡献力量。”</div>
+      </div>
+    </div>
+    <div class="right">
+      <div class="page-news-show-right-more">
+        <h3>更多新闻</h3>
+        <ul>
+                              <li><a href="/index.php?m=content&amp;c=index&amp;a=show&amp;catid=127&amp;id=53">关于警惕冒用寒武纪公司名义进行虚假招聘的声明<span>2024-10-09</span></a></li>
+                    <li><a href="/index.php?m=content&amp;c=index&amp;a=show&amp;catid=127&amp;id=52">公司声明<span>2022-10-25</span></a></li>
+                    <li><a href="/index.php?m=content&amp;c=index&amp;a=show&amp;catid=127&amp;id=51">2022 WAIC：寒武纪展现全算力产品实力 用“芯”助力行业快速升级<span>2022-09-02</span></a></li>
+                    <li><a href="/index.php?m=content&amp;c=index&amp;a=show&amp;catid=127&amp;id=48">寒武纪发布新款AI训练卡MLU370-X8<span>2022-03-21</span></a></li>
+                            </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<script language="JavaScript" src="/api.php?op=count&amp;id=41&amp;modelid=1"></script>
+<footer>
+  <div class="foot1">
+      <div class="container">
+          <div class="foot-logo">
+              <a href="/">
+                  <img src="/statics/zhang/images/header-logo.png" alt="寒武纪科技">
+              </a>
+          </div>
+          <div class="foot-nav">
+              <ul>
+                  <li><a href="/uploadfile/poster/寒武纪-LOGO.zip">品牌资料</a></li>
+                  <li><a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=148" target="_blank">开放平台</a></li>
+                  <li><a href="https://developer.cambricon.com/">开发者</a></li>
+                  <li><a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=7">关于我们</a></li>
+              </ul>
+          </div>
+          <div class="foot-icon">
+              <ul>
+                  <li><a href="javascript:;"><i class="icons-wx"></i><p><img src="/statics/zhang/images/index/weixin.png" alt="官方微信"></p></a></li>
+                  <li><a href="javascript:;"><i class="icons-wb"></i><p><img src="/statics/zhang/images/index/weibo.png" alt="官方微博"></p></a></li>
+                  <li><a href="https://www.linkedin.com/company/cambricon/?viewAsMember=true" target="_blank"><i class="icons-in"></i></a></li>
+                  <li><a href="https://www.zhihu.com/org/han-wu-ji-ke-ji/activities" target="_blank"><i class="icons-zh"></i></a></li>
+              </ul>
+          </div>
+      </div>
+  </div>
+  <div class="foot2">
+      <div class="container">
+          <div class="foot-nav">
+              <ul>
+                  <li><a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=156">用户协议</a></li>
+                  <li><a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=157">法律声明</a></li>
+                  <li><a href="/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=158">隐私政策</a></li>
+              </ul>
+          </div>
+          <div class="foot-copy">
+              <p>版权所有 © 2016-2024  Cambricon.com 备案/许可证号: <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备17003415号-1</a></p>
+          </div>
+      </div>
+
+  </div>
+</footer>
+
+
+<script type="text/javascript" src="/statics/zhang/scripts/layui/layui.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/layui/config.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/swiper/js/swiper.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/video.js/video.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/jquery.appear.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/jquery.countTo.js"></script>
+<script type="text/javascript" src="/statics/zhang/content/bootstrap/js/bootstrap.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/jquery.tap.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/gd.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/wow/wow.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/statics/zhang/scripts/page.js"></script>
+
+
+<ul class="layui-fixbar" style="right: 20px; bottom: 5px;"><li class="layui-icon layui-fixbar-top" lay-type="top" style=""></li></ul></body></html>

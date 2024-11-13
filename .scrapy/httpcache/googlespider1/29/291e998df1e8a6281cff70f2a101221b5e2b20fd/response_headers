@@ -1,0 +1,12 @@
+Content-Security-Policy: manifest-src 'self';
+Content-Type: text/html; charset=utf-8
+Date: Wed, 13 Nov 2024 12:48:09 GMT
+Referrer-Policy: origin
+Server: nginx
+Set-Cookie: Path=/; HttpOnly; Secure
+Set-Cookie: openstack_cookie_insert=53898669; expires=Thu, 14-Nov-2024 12:48:11 GMT; path=/
+Vary: Accept-Encoding
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1;mode=block

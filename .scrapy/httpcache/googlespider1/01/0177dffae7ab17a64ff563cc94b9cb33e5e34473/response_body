@@ -1,0 +1,234 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <script src="/Areas/201606280001/Scripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="/Areas/201606280001/Scripts/Search.js" type="text/javascript"></script>
+    <script src="/Areas/201606280001/Scripts/swfobject.js" type="text/javascript"></script>
+    <link href="/Areas/201606280001/Content/css/index.css" rel="stylesheet" type="text/css" />
+    <title>中国工业经济</title>
+    
+</head>
+<body style="filter:grayscale(0)">
+
+
+    <div id="head">
+        <embed src="/Areas/201606280001/Content/images/banner.swf" width="1000" height="120" wmode="transparent"
+            align="" type="application/x-shockwave-flash" menu="false"></embed>
+        <a style="position:absolute;left:0px;top:50px" href="/CommonBlock/SiteContentDetail?contentID=13334">
+            <img width="280" src="/Areas/201606280001/Content/images/01.png" />
+        </a>
+        <a style="position: absolute; right: 0px;top:50px" href="http://ciejournal.ajcass.org/CommonBlock/SiteContentDetail?contentID=10236
+">
+            <img width="280" src="/Areas/201606280001/Content/images/02.png" />
+        </a>
+    </div>
+    <div id="nav">
+        <ul>
+            <li><a href="http://ciejournal.ajcass.org">本站首页</a></li>
+            <li><a href="/CommonBlock/GetSiteDescribeDetail/1307?channelID=1307">关于本刊</a></li>
+            <li><a href="/CommonBlock/SiteContentDetail?contentID=147144">投稿须知</a></li>
+            <li><a href="/CommonBlock/GetSiteDescribeDetail/1250?channelID=1250">订阅指南</a></li>
+            <li><a href="/CommonBlock/GetSiteDescribeDetail/1243?channelID=1243">联系我们</a></li>
+            <li><a href="/Home/En">English</a></li>
+        </ul>
+    </div>
+    
+<link href="/Areas/201606280001/Content/css/magazine.css" rel="stylesheet" type="text/css" />
+<div id="content">
+    
+<link href="/Areas/201606280001/Content/css/magazine.css" rel="stylesheet" type="text/css" />
+<div class="left" id="left" style="width: 180px; padding-left: 0px; border-right:none; height:813px;">
+    <div class="zxbg">
+        <div class="tit_1">
+            <h3>
+                在线办公</h3>
+        </div>
+        <div class="botton">
+            <ul>
+                <li><a href="/Admin/user/login?group=author" target="_blank">作者投稿</a></li>
+                <li><a href="/Admin/user/login?group=author" target="_blank">作者查稿</a></li>
+                <li><a href="/Admin/user/login?group=expert" target="_blank">专家审稿</a></li>
+                <li><a href="/Admin/user/login?group=editor" target="_blank">编辑办公</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="qkjs">
+        <div class="tit_1">
+            <h3>
+                期刊检索</h3>
+        </div>
+        <div class="input">
+            <select name="select" id="Year" class="input12" style="width: 79px; height: 25px;"
+                onchange="">
+                <option value="" selected="selected">全部年</option>
+                    <option value="2024" >2024 年</option>            
+                    <option value="2023" >2023 年</option>            
+                    <option value="2022" >2022 年</option>            
+                    <option value="2021" >2021 年</option>            
+                    <option value="2020" >2020 年</option>            
+                    <option value="2019" >2019 年</option>            
+                    <option value="2018" >2018 年</option>            
+                    <option value="2017" >2017 年</option>            
+                    <option value="2016" >2016 年</option>            
+                    <option value="2015" >2015 年</option>            
+
+            </select>
+            <select name="select" id="Issue" class="input12" style="width: 79px; height: 25px;
+                margin-left: 4px;" onchange="">
+                <option value="">全部期</option>
+                <option value="1">No.1</option>
+                <option value="2">No.2</option>
+                <option value="3">No.3</option>
+                <option value="4">No.4</option>
+                <option value="5">No.5</option>
+                <option value="6">No.6</option>
+                <option value="7">No.7</option>
+                <option value="8">No.8</option>
+                <option value="9">No.9</option>
+                <option value="10">No.10</option>
+                <option value="11">No.11</option>
+                <option value="12">No.12</option>
+            </select>
+            <select name="select" id="MenuTree" class="input12" style="width: 168px; height: 25px;"
+                onchange="">
+                <option value="">选择栏目</option>
+                    <option value="417">国民经济</option>        
+                    <option value="418">产业经济</option>        
+                    <option value="419">企业管理</option>        
+
+            </select>
+            <input type="text" id="Title" class="input13" style="width: 162px; height: 24px;"
+                placeholder="标题" />
+            <input type="text" id="Authors" class="input13" style="width: 162px; height: 24px;"
+                placeholder="作者姓名" />
+            <input type="text" id="WorkUnit" class="input13" style="width: 162px; height: 24px;"
+                placeholder="作者单位" />
+            <input type="text" id="Key" class="input13" style="width: 74px; height: 24px;" placeholder="关键词" />
+            <input type="button" class="button" value="搜索" id="btnSearch" />
+        </div>
+    </div>
+    <div class="gybk">
+        <div class="tit_1" style="margin-bottom: 10px">
+            <h3>
+                关于本刊</h3>
+        </div>
+<p>出版者：中国工业经济杂志社</p><p>编辑者：《中国工业经济》编辑部</p><p>国外刊号：M862</p><p>邮发代号：82—143</p><p>创刊时间：1984年10月</p><p>地址：北京市东城区东厂胡同一号（100006）</p><p>电 话：010-68032678&nbsp;</p><p>&nbsp; &nbsp;&nbsp;010-68047499</p><p>邮 箱：gjbjb@sina.com</p><p>gjbjb@ciejournal.ajcass.org</p><p><br/></p>
+    </div>
+    <div class="ewm">
+        <span>
+            <img src="/Areas/201606280001/Content/images/ewm.png" style="height: 110px; width: 110px;"></span>
+        <p>
+            扫一扫，关注微信公众号</p>
+        <p>
+            微信号：bj-2992828</p>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $("#btnSearch").click(function () {
+            var year = $("#Year").val();
+            var issue = $("#Issue").val();
+            var jChannelID = $("#MenuTree").val();
+            var title = escape($("#Title").val());
+            var authors = escape($("#Authors").val());
+            var workUnit = escape($("#WorkUnit").val());
+            var keyWords = escape($("#Key").val());
+            window.open("/Magazine/GetIssueContentList?year=" + year + "&issue=" + issue + "&tags=" + keyWords + "&authors=" + authors + "&workUnit=" + workUnit + "&keyWords=" + title + "&channelID=" + jChannelID);
+        });
+    })
+</script>
+    <div class="right" id="right" style="width: 790px; min-height: 812px; border-left:none;">
+        <div class="title">
+            <span>当前位置：<a href="/Home/Index">首页</a> &gt; <a>期刊列表</a> &gt; <a>期刊详情</a></span></div>
+        <div class="neirong" style="margin-left: 0px; height: auto; margin-top: 10px;">
+            <a href="/UploadFile/Issue/fl5r0dgw.pdf" target="_blank">
+                <img src="/Areas/201606280001/Content/images/ckqw.png" alt="查看全文" /></a>
+            <a href="javascript:;" onclick="DownLoadFile(71835,'人工智能技术会诱致劳动收入不平等吗——模型推演与分类评估')">
+                <img src="/Areas/201606280001/Content/images/xzqw.png" alt="下载全文" /></a>
+<a href="/UploadFile/Issue/goqr1wuv.zip" target="_blank">
+                <img src="/Areas/201606280001/Content/images/xzfj.jpg" alt="查看附件" /></a>
+            <div style="float: right; font-size: 14px; margin-right: 5px;">
+                <a href="https://tools.boyuanxc.cn/Tools/AdbeRdr11000_zh_CN.exe">下载PDF阅读器</a></div>
+            <br />
+            <span style="color: #044693; font-size: 16px; font-weight: bold;">人工智能技术会诱致劳动收入不平等吗——模型推演与分类评估</span>
+            <table style="text-align: center; font-size: 12px;">
+                <tr style="text-align: left;">
+                    <td valign="middle" align="left" style="width: 110px; font-weight: bold;">
+                        摘要：
+                    </td>
+                    <td style="line-height: 28px; font-size: 12px;">学术界近期开始关注人工智能技术对收入不平等的影响，但其收入分配效应的形成机理研究尚处于初始阶段，而且定量评估明显不足，尤其缺乏来自发展中国家的经验证据。本文基于Acemoglu and Restrepo（2018a）的人工智能技术模型，引入高技术与低技术两部门分类，推演人工智能技术的收入分配效应，结合中国2001—2016年全国及省级层面数据，分类测算其劳动收入分配的岗位更迭效应和生产率效应。结果发现：①人工智能技术在引发劳动岗位更迭的同时，非对称地改变不同技术部门生产率影响劳动收入分配，诱致高、低技术部门劳动收入差距年均扩大0.75%。②人工智能技术的岗位更迭效应倾向于在低技术部门通过自动化扩张、在高技术部门以新岗位创造方式，加剧收入不平等，而生产率效应存在门槛特征。③人工智能技术在资本和非技术密集型地区的收入分配效应更为突出，且对劳动和技术密集型地区的影响不断增大。为应对人工智能技术对劳动力市场就业结构和收入不平等的冲击，政府应健全就业培训和失业保障制度，制定差异化的区域政策，积极引导人工智能技术朝人机协作和收入平等方向发展。
+                    </td>
+                </tr>
+                <tr style="text-align: left; height: 15px;">
+                </tr>
+                <tr style="text-align: left;">
+                    <td valign="top" style="font-weight: bold;">
+                        作者：
+                    </td>
+                    <td style="font-size: 12px;">王林辉，胡晟明，董直庆
+                    </td>
+                </tr>
+                <tr style="text-align: left; height: 15px;">
+                </tr>
+                <tr style="text-align: left;">
+                    <td valign="top" style="font-weight: bold;">
+                        期刊：
+                    </td>
+                    <td>
+                        中国工业经济
+                    </td>
+                </tr>
+                <tr style="text-align: left; height: 15px;">
+                </tr>
+                <tr style="text-align: left;">
+                    <td valign="top" style="font-weight: bold;">
+                        年.期:页码
+                    </td>
+                    <td style="font-size: 12px;">
+                       2020.4:97-115
+                    </td>
+                </tr>
+                <tr style="text-align: left; height: 15px;">
+                </tr>
+                <tr style="text-align: left;">
+                    <td valign="top" style="font-weight: bold;">
+                        关键词：
+                    </td>
+                    <td style="font-size: 12px;">
+                        人工智能技术； 劳动收入分配； 岗位更迭效应； 生产率效应
+                    </td>
+                </tr>
+                <tr style="height: 15px;">
+                </tr>
+                <tr style="height: 15px;">
+                </tr>
+                <tr style="text-align: left;">
+                    <td valign="top" colspan="2" style="font-weight: bold;">
+                        <h3 style="font-size: 14px;">
+                            欢迎阅读《中国工业经济》！您是该文第<font>20939</font>位读者！</h3>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function DownLoadFile(contentID, fileName) {
+        window.open("/Admin/Upload/FileDownload/?ContentID=" + contentID + "&fileName=" + fileName);
+    }
+</script>
+
+     <div class="cl"></div>
+    <div id="bottom_2">
+        <p>
+            中国工业经济杂志社版权所有 主办：<a href="http://gjs.cass.cn/" target="_blank">中国社会科学院工业经济研究所</a></p>
+        <p>
+            国际标准刊号：ISSN 1006-480X &nbsp;&nbsp;&nbsp;国内统一刊号：CN11-3536/F &nbsp;&nbsp;&nbsp;国内邮发代号：82-143</p>
+ <p style="color: #fff;text-align:center;"><a href="https://www.boyuancb.com/" style="color: #fff;text-decoration: none; ">本系统由北京博渊星辰网络科技有限公司设计开发</a> 技术支持电话：010-63361626</p>
+ss
+    </div>
+</body>
+</html>

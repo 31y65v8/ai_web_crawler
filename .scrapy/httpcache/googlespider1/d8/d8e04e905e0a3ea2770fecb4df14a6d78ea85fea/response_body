@@ -1,0 +1,361 @@
+<!DOCTYPE html><html data-log-pv="{&quot;mpc&quot;:30}"><head>
+        <title>AI for Technology：技术智能在高技术领域的应用实践与未来展望_Science_中国科学院院_输出</title>
+        <meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved.">
+<meta name="mediaid" content="中国科学院院刊">
+<meta property="og:type" content="news">
+<meta property="og:image" content="//q2.itc.cn/images01/20240220/54f34138c5f943e78407cf3f05332a85.jpeg">
+<meta property="og:url" content="www.sohu.com/a/758917556_120052222">
+<meta property="og:release_date" content="2024-02-20 17:19">
+<meta itemprop="dateUpdate" content="2024-02-20 17:19">
+<meta itemprop="datePublished" content="2024-02-20 17:19">
+<link rel="canonical" href="https://www.sohu.com/a/758917556_120052222">
+<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/758917556_120052222">
+
+<meta name="keywords" content="中国科学院院,技术,规律,输出,Science,for,领域,实践,应用,智能,陈云霁,高技术,精度,for,领域">
+<meta name="description" content="文章总结了AI在高技术领域的应用——“技术智能”（AI for
+Technology）的典型特征和科学问题，并以CPU芯片全自动设计为例介绍过往的成功案例。从技术路线来看，AI for Science主要利用…">
+<meta property="og:description" content="文章总结了AI在高技术领域的应用——“技术智能”（AI for
+Technology）的典型特征和科学问题，并以CPU芯片全自动设计为例介绍过往的成功案例。从技术路线来看，AI for Science主要利用…">
+<meta property="og:title" content="AI for Technology：技术智能在高技术领域的应用实践与未来展望_Science_中国科学院院_输出">
+        <meta charset="utf-8"><meta name="data-spm" content="smpc"><meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="dns-prefetch" href="//statics.itc.cn"><link rel="dns-prefetch" href="//g1.itc.cn"><link rel="dns-prefetch" href="//js.sohu.com"><link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png"><link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png"><link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png"><link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png"><link rel="preload" href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" as="style"><link href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" rel="stylesheet">    <script type="text/javascript" async="" src="https://pos.baidu.com/auto_dup?di=0&amp;uuid=403667d5f739a7c5&amp;dri=0&amp;dis=0&amp;dai=0&amp;ps=0x0&amp;enu=encoding&amp;exps=110011&amp;ant=0&amp;psi=20421d4a9a090145&amp;dcb=___baidu_union_callback&amp;dtm=AUTO_JSONP&amp;dvi=0.0&amp;dci=-1&amp;dpt=none&amp;tpr=1731502192007&amp;ti=AI%20for%20Technology%EF%BC%9A%E6%8A%80%E6%9C%AF%E6%99%BA%E8%83%BD%E5%9C%A8%E9%AB%98%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B_Science_%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2_%E8%BE%93%E5%87%BA&amp;ari=2&amp;ver=1107&amp;kws=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%2C%E6%8A%80%E6%9C%AF%2C%E8%A7%84%E5%BE%8B%2C%E8%BE%93%E5%87%BA%2CScience%2Cfor%2C%E9%A2%86%E5%9F%9F&amp;dps=%E6%96%87%E7%AB%A0%E6%80%BB%E7%BB%93%E4%BA%86AI%E5%9C%A8%E9%AB%98%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E2%80%94%E2%80%94%E2%80%9C%E6%8A%80%E6%9C%AF%E6%99%BA%E8%83%BD%E2%80%9D%EF%BC%88AI%20for%0ATechnology%EF%BC%89%E7%9A%84%E5%85%B8%E5%9E%8B%E7%89%B9%E5%BE%81%E5%92%8C%E7%A7%91%E5%AD%A6%E9%97%AE%E9%A2%98%EF%BC%8C%E5%B9%B6%E4%BB%A5CPU%E8%8A%AF&amp;dbv=0&amp;drs=3&amp;pcs=1024x768&amp;pss=1180x8730&amp;cfv=0&amp;cpl=1&amp;chi=1&amp;cce=true&amp;cec=UTF-8&amp;tlm=1731502192&amp;prot=2&amp;rw=768&amp;ltu=https%3A%2F%2Fwww.sohu.com%2Fa%2F758917556_120052222&amp;ltr=https%3A%2F%2Fwww.sohu.com%2Fa%2F758917556_120052222&amp;ecd=1&amp;dft=0&amp;uc=1024x768&amp;pis=-1x-1&amp;sr=1024x768&amp;tcn=1731502192&amp;dc=4&amp;aa=1"></script><script src="https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42" id="ttzz"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="//pv.sohu.com/suv/?t?=1731502191915737_1024_768?r?=https%3A%2F%2Fwww.sohu.com%2Fa%2F758917556_120052222?url?=https%3A%2F%2Fwww.sohu.com%2Fa%2F758917556_120052222?SUV?=?mpc?=30"></script></head>
+            <body class="article-page" data-region="154" data-spm="content" data-newsid="758917556">
+        <div class="wrapper-box">
+            <header id="main-header" class="error-head">
+	<div class="head-container">
+		<div class="head-nav" data-spm="nav">
+			<ul>
+			    <li class="index">
+					<a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com">
+						<span class="sohu-logo"></span>
+					</a>
+				</li>
+														<li class="nav-item"><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
+																																																																																																																									<li class="nav-item more-nav">
+					<div class="more-tag" href="javascript:void(0)">
+						<span>更多</span>
+						<div class="cor"></div>
+					</div>
+					<more-nav id="moreNav"></more-nav>
+				</li>
+				
+			</ul>
+		</div>
+		<head-right id="headRight"></head-right>
+	</div>
+</header>            <div class="location-without-nav"></div>
+            <div class="area clearfix" id="article-container">
+                <div class="column left">
+	                    <div class="user-info" id="user-info" data-spm="author">
+            <div class="user-pic">
+            <!-- fromWhere为10是马甲号作者不可点击进入个人页面 -->
+                            <a href="https://mp.sohu.com/profile?xpt=OTUyMGQ1NzQtZGJiNi00YjlkLTliZjYtNjA2ZDY2YWQyZWM1" target="_blank">
+                    <img data-src="//p5.itc.cn/q_70/images03/20221207/c66286b2f1d4495498eb729be1f40cac.jpeg" alt="">
+                </a>
+                    </div>
+        <h4>
+                    <a href="https://mp.sohu.com/profile?xpt=OTUyMGQ1NzQtZGJiNi00YjlkLTliZjYtNjA2ZDY2YWQyZWM1" target="_blank">中国科学院院刊</a>
+                    </h4>
+    <!-- 积分 -->
+        <div style="height: 25px">
+        <medal id="fox-integration"></medal>
+    </div>
+        <dl class="user-num">
+        <dd><span class="value" data-value="1103" data-role="info-article-num"><em class="num"></em></span>文章</dd>
+        <dd><span class="value" data-value="" data-role="info-read-num"><em class="num"></em></span>总阅读</dd>
+    </dl>
+
+    <!-- 企业认证 -->
+            <ul class="company">
+                    </ul>
+    
+    <!-- 非马甲号作者 -->
+            <div class="user-more">
+            <a href="https://mp.sohu.com/profile?xpt=OTUyMGQ1NzQtZGJiNi00YjlkLTliZjYtNjA2ZDY2YWQyZWM1" target="_blank">查看TA的文章&gt;</a>
+        </div>
+    </div>        		<div class="article-do" id="article-do" data-spm="share">
+		<div class="article-done">
+    <div class="title">评论</div>
+    <dl>
+        <dd class="comment-do" id="leftComment">
+            <a href="javascript:void(0)" data-spm-acode="8089">
+                <em class="comment-icon icon"></em>
+                <span class="num" data-role="comment-count"></span>
+            </a>
+        </dd>
+    </dl>
+</div>
+		<div id="share">
+			<share>
+		</share></div>
+	</div>
+</div>
+                <div class="left main">
+                    <div data-spm="content">
+                        <div class="text">
+                            
+<div class="text-title">
+    <h1>
+                    <span class="original-logo">原创</span>
+            <span class="title-info-title">AI for Technology：技术智能在高技术领域的应用实践与未来展望</span>
+                <span class="article-tag">
+                 </span>
+    </h1>
+            <div class="article-info">
+        <span class="time" id="news-time" data-val="1708420789000">
+                        2024-02-20 17:19        </span>
+                                <div class="area"><span>发布于：</span><span>湖南省</span></div>
+    </div>
+</div>
+
+<article class="article" id="mp-editor">
+    <!-- 政务处理 -->
+                      <p class="ql-align-center"><img max-width="600" data-src="rktmUZKiSD+eswOQv1Y0i16NZ7MGQSTK55xT6Vd34w62PHNxS0lFLjTvFi3ZTRXehaLplM9bgSTIlAW4bz4kCLWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">本文刊载于《中国科学院院刊》2024年第1期专题：大力推进科研范式变革</span></p><p><strong>陈云霁1,2* 郭崎1</strong></p><p>1 中国科学院计算技术研究所 处理器芯片全国重点实验室 </p><p>2 中国科学院大学 计算机科学与技术学院</p><p>以智能化科研（AI for Science）为核心的第五科研范式已经在多个自然科学和高技术领域得到了广泛应用。与人工智能（AI）在自然科学领域的应用强调发现新原理、新机理和新规律不同，高技术领域更强调用AI技术来发明创造新方案、新工具和新产品，以解决特定的领域问题。文章总结了AI在高技术领域的应用——“技术智能”（AI for Technology）的典型特征和科学问题，并以CPU芯片全自动设计为例介绍过往的成功案例。最后，文章指出技术智能的目标不仅是加速创新流程并减少人工投入，同时也希望其具备更强的创造能力，最终超过人类的水平。</p><p><strong>1.技术智能的概念与内涵</strong></p><p>随着深度学习等技术近年来的突破，人工智能（AI）在数学、物理学、化学、生物学、材料学、制药等自然科学和高技术领域的研究中得到了广泛应用。例如，DeepMind利用机器学习方法辅助发现数学猜想和定理证明；生物学领域中AlphaFold2已经可以预测超过350000种人类基因组蛋白质，以及超过100万个物种的2.14亿个蛋白质，几乎涵盖了地球上所有已知的蛋白质，解决了困扰结构生物学50年的难题；DeepMind和瑞士等离子体中心合作提出将强化学习用于优化托卡马克内部的核聚变等离子体控制；华盛顿大学戴维·贝克教授团队利用AI技术精准地从头设计出能够穿过细胞膜的大环多肽分子，创新了口服药物设计的新思路。这一系列人工智能技术的成功应用都标志着以AI for Science（智能化科研）为核心的第五科研范式已经成为提升科研效率，推进科学发现和科技创新的强大工具，有望带来人类社会的重大变革。</p><p>虽然AI for Science应用领域非常广泛，但在不同学科领域的应用又有所差别。笔者认为可以将其进一步细分为广义和狭义的AI for Science。其中，<strong>广义的AI for Science是多种人工智能技术在科学技术领域的广泛应用，</strong>既包括了自然科学领域的规律和知识发现（如数学猜想的证明、物理规律的发现等），也涵盖了解决高技术领域的关键技术难题（如超短临天气预报、托卡马克控制、生物制药等）。<strong>狭义的AI for Science重点强调自然科学领域的内在规律、知识和结构发现，</strong>如发现行星运动的开普勒定律、发现人类基因组蛋白质结构等。与狭义的AI for Science不同，AI用于解决高技术领域的关键技术难题主要依赖于发明和创造出新的人造物（artifacts），包括新方案、新方法、新工具和新产品等。AI在高技术领域的应用，由于其应用目的、技术路线等方面和狭义的AI for Science有所不同，笔者认为更适合将其归类到AI for Technology（技术智能）的范畴。</p><p>表1总结了狭义的AI for Science和AI for Technology的区别。<strong>从应用目的来看，</strong>如前所述，AI for Science目的是希望发现自然科学领域人类目前未知的运行机制、机理、规律、结构等；而AI for Technology更强调的是发明创造出满足特定需求的方案、方法、工具和物品等。以信息论来进行类比，AI for Science可以看作是信息编码和压缩的过程，通过AI将大量观察数据编码成符号化的规律或知识；AI for Technology可以看作是信息解码和解压缩的过程，通过AI将大量满足需求规范的样例解码成人造物的具体设计细节和组成成分。<strong>从输出结果来看，</strong>AI for Science本身具有强烈的探索性，其输出结果是事先未知的；AI for Technology是设计出符合预定义需求规范的人造物，其输出结果是精确已知的。<strong>从技术路线来看，</strong>AI for Science主要利用了AI的强大建模能力，实现对大量观察数据的准确拟合；而AI for Technology则更侧重于利用AI的生成能力，以生成满足需求规范的目标人造物。<strong>从算法精度要求上看，</strong>AI for Science追求的是大量数据下统计意义的可接受性，要求输出的结果可以合理地解释自然现象（输入数据），如输入数据符合特定的统计分布规律；而AI for Technology强调的是单个个体的精确，要求输出的个体结果能够精确地满足预定义需求规范，如计算机程序自动设计要求输出的程序代码能够正确满足功能和性能规范。从这个角度看，AI for Technology对AI算法提出了更高的精度要求。</p><p class="ql-align-center">表1　狭义的AI for Science与AI for Technology的对比</p><p class="ql-align-center"><img max-width="600" data-src="vrQqgk+FQSQmr7dDCa0gdhMshWqoiPhtIkL1IQRk63DRSFGylETzWfi3S/SoDJM9fWbiGqj10r6ufICxr1PkZLWTzmKYPwYvFkmu9a+AK6w="></p><p>实际上，有关AI for Technology的研究自AI诞生以来就一直备受关注。1969年，诺贝尔经济学奖及图灵奖获得者、人工智能的奠基人之一赫伯特·西蒙（Herbet Simon）在其《人工科学》（The Sciences of the Artificial）一书中对“自然物”和“人造物”进行了区分，并明确了发明创造满足人类需求的人造物本身也是门科学（artificial science），可以通过基于计算机程序的通用问题求解系统（general problem solver）来建模人类解决问题的流程，以实现“无人干预的设计”。赫伯特·西蒙和另一位人工智能的奠基人艾伦·纽威尔（Allen Newell）实现了通用问题求解系统，以自动解决多种不同类型的问题。这本质上是把人类求解问题的过程建模成由机器自动完成的搜索过程。其中的重要组成部分是“生成器—测试”（Generator-Test）的循环，即通过生成器产生大量的潜在候选，然后通过测试来确定候选是否满足需求规范，反复迭代直到找到满足需求的候选。</p><p>参考上述流程，<strong>可以将AI for Technology建模成为“搜索+验证”的流程。“搜索+验证”流程的核心是通过搜索算法挑选合适的候选，自动验证所挑选的候选是否满足需求规范，如果不满足则需要自动修改和调整以生成新的候选，直到最终的输出结果满足需求。</strong>近年来，随着AI技术的快速演进，有望同时提升上述搜索和验证的效率，在扩大应用领域的同时加速整个问题求解的流程。</p><p><strong>2.AI for Technology的科学问题及关键挑战</strong></p><p><strong>实现AI for Technology中“搜索+验证”的循环迭代，本质上是要解决如何在庞大的高维空间中找到精确满足复杂约束的最优解问题。</strong></p><p><strong>1.对于实际的工程技术问题，其待搜索空间通常包含海量的潜在候选。</strong>以围棋为例，棋盘有361个位置，而每个位置有3种可能，其状态空间为3361；以蛋白质设计为例，长度为200的氨基酸蛋白，其可能序列有20200种可能；以软件程序设计为例，长度仅为100条指令的小程序（以广为使用的SPEC CPU程序为例，实际程序的指令数通常为上百万条），其状态空间就已经达到了26400。这意味着计算机程序需要在庞大高维空间中进行搜索。</p><p><strong>2. 搜索的目标是要得到满足人类需求的输出，而人类需求涉及功能、性能甚至是心理感受等多个维度，这也使得搜索目标的约束异常复杂。</strong>以手机的设计为例，除了核心的功能和性能等参数，还涉及需要满足视觉、触觉和交互等主观感受的约束。</p><p><strong>3. 传统人工求解方法由于搜索空间庞大同时“搜索+验证”的迭代周期太长，</strong>在求解问题时通常仅限于找到满足约束的解，而人工智能方法可以极大加速“搜索+验证”过程，从而找到满足约束的最优解。</p><p>上述科学问题的求解面临诸多挑战，主要体现在搜索效率、约束表达和验证精度上。</p><p><strong>挑战一：如何对庞大的高维空间进行有效剪枝。</strong>对于传统的人工方法而言，由于人脑搜索能力和验证开销等限制，必须引入专家领域知识对空间进行大幅裁剪，从而在剪枝后的有限空间中进行搜索和验证。对于AI技术而言，由于没有领域知识或难以形式化表达，需要在庞大的高维空间中直接进行搜索。这种方式可以比人类专家考虑更多的潜在候选，从而找到人类专家未知的更优解。但是，由于空间过于庞大，即使是计算机程序也无法做到对整个空间的全遍历，因此通过AI技术对空间进行精确剪枝，从而在不丢失最优解的前提下将空间压缩多个数量级至关重要。</p><p><strong>挑战二：如何准确地表达人类模糊二义甚至是不完整的需求规范。</strong>很多情况下，人类需求通常采用自然语言来进行描述，天然具有模糊二义性。同时，初始的用户需求经常具有不完整性，需要通过不断地迭代交互来细化和明确需求规范。例如，赫伯特西蒙就以舰艇设计为例说明了设计约束的复杂性，需要指挥官、作战人员、设计人员和各组件设计负责人等的不断交互迭代才能转变成为方便计算机求解的“结构良好问题”（well-structured problem）。近来热门的大语言模型由于建模了大量人类常识和经验，有望在从需求描述到问题形式化定义的转换过程中提供有效支撑。</p><p><strong>挑战三：如何保证输出个体精确满足复杂约束。</strong>如前所述，AI for Technology要求输出的单个人造物能够精确地满足预定义的需求规范，即在单个样本上就要达到绝对正确。这与主流AI算法（如神经网络）主要强调统计意义上的精确性（对一张图片的识别错误影响不大）是矛盾的。即便是大语言模型在很多场景下提高了输出结果的精度，也无法在理论上提供精度的保证，导致在很多关键场景下仍然无法应用。因此需要通过算法理论的创新，能够在理论上保证输出精度或给出算法的理论下界，使得用户对输出结果是否满足需求规范有明确判断。</p><p><strong>3.AI for Technology的应用实践：CPU芯片的全自动设计</strong></p><p>笔者将AI for Technology的基本思想应用到了信息技术的核心物质载体——中央处理器（CPU）的设计和实现中，首次成功实现了在无人干预情况下由机器全自动设计出一款32位CPU——“启蒙1号”。与传统流程一般需要2—3年才能设计出一款工业级的CPU芯片不同，笔者团队仅在5小时内就完成了“启蒙1号”的全部前端设计，极大地提高CPU芯片的设计效率，有望变革传统的芯片设计流程。</p><p>与传统基于人工的CPU设计流程从需求规范出发，并且主要由工程师完成架构设计、逻辑设计、功能验证等流程不同，<strong>笔者团队提出的CPU设计方法本质上是以验证为中心的设计方法：在验证计划指导下从随机电路出发，由机器全自动完成包括验证、调试和修复的反复迭代直到获得满足设计需求的目标电路</strong>（图1）<strong>。</strong>其中，自动验证主要是检查结果是否满足需求并自动生成新的验证用例，自动调试是根据出错的结果搜索并定位出错的电路逻辑，自动修复则是在出错的电路逻辑基础上进一步搜索正确的电路逻辑。因此，自动调试和自动修复都可以看作是搜索的过程，与自动验证一起组成的完整流程遵循前面所介绍AI for Technology的“搜索+验证”核心流程。</p><p class="ql-align-center"><img max-width="600" data-src="i+xuDLks9VorTFRP5fQEOeanCWxKg4KpuGd/htJnlI8WvSowGD27xJWVW/8PzxVqY4prmeYpg7PpdrRC8KZPILWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">图1 传统设计流程与以验证为中心的自动设计流程对比</span></p><p>以验证为中心的自动设计流程在“搜索+验证”方面所遇到的挑战同样也是巨大的。对于搜索而言，启蒙1号有1798个输入和1826个输出变量，需探索2（2^1798×1826）≈10（10^540）个电路组合方案，这一空间远比围棋的搜索空间要大得多。<strong>对于验证而言，</strong>CPU设计对于功能错误是零容忍，否则芯片有任何功能错误，都将带来巨大的损失。参考英特尔奔腾系列处理器的验证经验，在流片前需要正确运行超过10万亿条指令，这意味着AI算法生成电路的精度要高于99.99999999999%。这远比常见的AI算法能达到的精度要高得多，像典型的图像识别、语音识别类算法的精度也就在90%左右。这使得包括神经网络、强化学习和决策树等在内的多种不同方法在面对这个问题时束手无策。仍然以大语言模型为例：首先神经网络方法无法从理论上保证精度，更多的训练样本也难以确保满足特定验证用例的需求；其次出错的情况下仍然需要通过提示（prompt）等方式人工参与验证和调试，无法做到全流程的自动化。</p><p><strong>为了保证验证的精度，笔者提出了基于二元猜测图</strong>（Binary Speculation Diagram，BSD）<strong>的设计方法。</strong>BSD方法是建立在传统的二元决策图（Binary Decision Diagram，BDD）的基础上，通过将传统BDD中的确定性子图替换成BSD中通过蒙特卡洛采样来确定的猜测节点。该方法天然具有良好的可解释性和“单调性”（即算法每次对电路的修改都能够比之前的设计更接近正确的设计），从而解决前述“自动调试”和“自动修复”的问题。具体而言，首先，BDD算法的树状结构能够很快搜索确定节点所对应的逻辑函数与外部输入输出之间的关系，从而自动定位错误以解决自动调试的问题；其次，随着BDD的不断搜索展开，其所对应的逻辑函数理论上可以不断逼近原始函数，从而解决自动修复的问题。</p><p><strong>为了提高搜索的效率，在不丢失最优解的前提下对该原始的庞大搜索空间进行有效剪枝，笔者团队设计了布尔函数距离来度量BSD中不同节点间的相似度，并对相似的BSD节点进行归并。</strong>具体而言，首先通过蒙特卡洛采样方式来确定不同BSD节点间的布尔函数距离；然后将布尔函数距离接近的BSD节点进行聚类以统一其展开顺序；最后将布尔函数距离为0的BSD节点进行归并。通过反复的节点展开和归并，该方法将原始的设计空间从10（10^540）降低到了106，笔者团队在理论上证明了BSD节点的归并并不会带来精度的下降，从而在保证精度的前提下实现了电路逻辑的高效生成。</p><p><strong>CPU全自动设计是AI for Technology的典型应用，即通过AI技术来发明创造出CPU设计。</strong>实际上笔者发现自动设计出来的CPU不仅满足了由指令集架构（ISA）所预定义的功能需求，同时机器学习过程中甚至自主地发现了包含控制器和运算器等在内的冯诺依曼架构。对于机器而言，由于事先并没有关于冯诺依曼架构的任何预定义知识，这在一定程度上也同时呈现出了AI for Science用于“科学发现”和“结果未知”的特征。</p><p><strong>4.AI for Technology的未来展望</strong></p><p>为了让AI for Technology能够在更多的高技术领域得到深度应用，未来可以从“搜索+验证”的核心流程入手，考虑如何进一步提高搜索和验证的效率，在加速创新流程的同时具备更强的创造能力，最终期望超过人类的发明创造水平。具体可以分别从人工智能范式的交叉融合、与第三科研范式的交叉融合等方面进行探索研究。</p><p><strong>从搜索的角度看，其核心目的是提高搜索算法本身的效率，使其能够以更快速度逼近最优解。</strong>梯度下降法在神经网络等领域取得了巨大的成功，但是很多实际问题本身并不可微或者可微近似会带来极大的精度损失，导致难以直接应用梯度下降法。这种情况下应考虑多种人工智能范式的交叉融合。例如，AlphaGo中蒙特卡洛树搜索结合了以深度学习为代表的连接主义和以强化学习为代表的行为主义。这标志着连接主义和行为主义已经在实际应用中呈现出了交叉融合的趋势。前面所介绍的CPU设计例子主要是基于以BDD为代表的符号主义来进行搜索。未来通过符号主义、连接主义和行为主义的深度交叉融合，有望大幅度提升搜索效率，从而在更大的搜索空间中找到更优的结果。</p><p><strong>从验证的角度看，对输出结果是否满足需求规范进行判断通常要在真实环境中进行实验验证。</strong>例如，新材料的设计需要通过实际实验来对其力学特性和耐久特性等进行充分测试。这势必会造成验证的资源投入和时间开销太大。为加速验证收敛，可以借助计算机模拟来构建响应模型，通过与响应模型的交互来判断是否满足需求规范。仍以CPU设计为例，实践中无法对每种可能的处理器设计都通过实际流片来进行验证，而是通过构建准确的模拟器来判断是否满足需求。因此，未来通过与基于计算机模拟的第三科研范式进行深入融合，构建起高效且准确的响应模型，有望进一步加速验证乃至整个创新流程。</p><p><strong>陈云霁</strong> 中国科学院计算技术研究所研究员、副所长、处理器芯片全国重点实验室主任。主要研究领域：处理器体系结构、机器学习等。</p><p><strong>文章源自：</strong></p><p>陈云霁, 郭崎. AI for Technology：技术智能在高技术领域的应用实践与未来展望. 中国科学院院刊, 2024, 39(1): 34-40. Doi: 10.16418/j.issn.1000-3045.20231123004.<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>          <!-- 政务账号添加来源标示处理 -->
+      <!-- 政务账号添加来源标示处理 -->
+      <p data-role="editor-name">责任编辑：<span></span></p>
+</article>
+<div id="articleTransfer"><transfer></transfer></div>
+<!-- 评论禁言通知 -->
+<div id="bannedNotice"><banned-notice></banned-notice></div>
+  <div class="statement">平台声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>    <div class="bottom-relate-wrap clear type-3">
+            <div id="article-like" data-like-type="type-3">
+            <article-like>
+        </article-like></div>
+        <div class="read-wrap">
+        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
+    </div>
+    <div id="articleReport">
+        <report>
+    </report></div>
+</div>
+
+                            <div id="sohu-play-content"></div>
+                        </div>
+                    </div>
+                    <div data-spm="middle-banner-ad">
+                                            </div>
+                                            <div id="articleAllsee" style="height:629px"><all-see-list></all-see-list></div>
+                                        <div class="_0u4o3bh76zbp"></div>
+                    <div class="god-article-bottom" id="god_bottom_banner" data-spm="ad-text-bottom" style="display:block">
+</div>
+<div class="user-god clear" id="user-post" style="display:none">
+
+</div>                    <!-- 评论 -->
+                    <div id="meComment" style="min-height: 100px;">
+                        <me-comment>
+                    </me-comment></div>
+                    <div id="commentList">
+                        <comment-list></comment-list>
+                    </div>
+                    <div id="discuss"></div>
+                    <!-- 推荐阅读 -->
+                                        <div style="min-height:1500px" id="groomRead">
+                        <groom-read>
+                    </groom-read></div>
+                                    </div>
+                <!-- 右侧边栏 -->
+                <div class="sidebar right" id="right-side-bar" data-a="${isBaiDuAd}">
+                    <right-side-bar>
+                </right-side-bar></div>
+             </div>
+            <div id="float-btn"> <float-btn> </float-btn></div>
+            <div class="left-bottom-float-fullScreenSleepContainer" style="display:none;">
+    <div class="left-bottom-float-fullScreenSleep" style="display:none;" data-spm="ad-fullScreenSleep">
+        <div class="close-tag"></div>
+    </div>
+</div>
+<div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
+</div>        </div>
+        <script type="text/javascript">
+                        window.deployEnv = "prod"
+                    </script>
+        <script src="//js.sohu.com/pv.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/vendors-8717d0.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/main_article-068610.js"></script>        <script>
+try{
+        window.sohu_mp.article({
+        channel_id: "30",
+        news_id: "758917556",
+        cms_id: "$mpNews.cmsId",
+        media_id: "120052222",
+        passport: "1251058233653952512@sohu.com",
+        weboUrl: "https://mp.sohu.com/profile?xpt=OTUyMGQ1NzQtZGJiNi00YjlkLTliZjYtNjA2ZDY2YWQyZWM1",
+        title: "AI for Technology：技术智能在高技术领域的应用实践与未来展望",
+        channel_url:"//it.sohu.com",
+        integralLevel: "4",
+        categoryId:"880",
+        //abData_fd用于abtest
+        abData:"",
+        // abData_discuss:"4", // 讨论
+        abData_discuss:"", // 讨论
+        abData_fd:"",
+        abData_tw:"",
+        originalId:"$mpNews.originalId",
+        originalStatus:"1",
+        isBaiDuAd: "",
+        isPure: "${pure}",
+        reprint: false,
+        reprintSign: "",
+        secureScore: '100',
+        sGrade: '0',
+        editor:'',
+        hideAd:'',
+        keywords: "[中国科学院院, 技术, 规律, 输出, Science, for, 领域, 实践, 应用, 智能, 陈云霁, 高技术, 精度, for, 领域]",
+        mpNewsExt:{
+            "modelId":""
+        },
+        imgsList: [
+                                             {
+                    "url" : "//q5.itc.cn/images01/20240220/56d05f23298448d38ccf1cda32331984.jpeg",
+                    "width" : "1080",
+                    "height" : "720",
+                }
+                                                , {
+                    "url" : "//q8.itc.cn/images01/20240220/b050cc8cf8ca40fea1bb982f659a29a8.jpeg",
+                    "width" : "977",
+                    "height" : "437",
+                }
+                                                , {
+                    "url" : "//q9.itc.cn/images01/20240220/7ec949e13b9143b0b6b772951d1aeb8e.jpeg",
+                    "width" : "818",
+                    "height" : "237",
+                }
+                                        ],
+        topNavigation: [
+                                             {
+                    "url" : "http://news.sohu.com/",
+                    "name" : "新闻",
+                }
+                                                , {
+                    "url" : "http://sports.sohu.com/",
+                    "name" : "体育",
+                }
+                                                , {
+                    "url" : "http://auto.sohu.com/",
+                    "name" : "汽车",
+                }
+                                                , {
+                    "url" : "http://www.focus.cn/",
+                    "name" : "房产",
+                }
+                                                , {
+                    "url" : "http://travel.sohu.com/",
+                    "name" : "旅游",
+                }
+                                                , {
+                    "url" : "http://learning.sohu.com/",
+                    "name" : "教育",
+                }
+                                                , {
+                    "url" : "http://fashion.sohu.com/",
+                    "name" : "时尚",
+                }
+                                                , {
+                    "url" : "http://it.sohu.com/",
+                    "name" : "科技",
+                }
+                                                , {
+                    "url" : "http://business.sohu.com/",
+                    "name" : "财经",
+                }
+                                                , {
+                    "url" : "http://yule.sohu.com/",
+                    "name" : "娱乐",
+                }
+                                                , {
+                    "url" : "http://baobao.sohu.com/",
+                    "name" : "母婴",
+                }
+                                                , {
+                    "url" : "https://healthnews.sohu.com/",
+                    "name" : "健康",
+                }
+                                                , {
+                    "url" : "http://history.sohu.com/",
+                    "name" : "历史",
+                }
+                                                , {
+                    "url" : "http://mil.sohu.com/",
+                    "name" : "军事",
+                }
+                                                , {
+                    "url" : "http://chihe.sohu.com/",
+                    "name" : "美食",
+                }
+                                                , {
+                    "url" : "http://cul.sohu.com/",
+                    "name" : "文化",
+                }
+                                                , {
+                    "url" : "http://astro.sohu.com/",
+                    "name" : "星座",
+                }
+                                                , {
+                    "url" : "https://www.sohu.com/xchannel/TURBd01EQXhPVGt5",
+                    "name" : "专题",
+                }
+                                                , {
+                    "url" : "http://game.sohu.com/",
+                    "name" : "游戏",
+                }
+                                                , {
+                    "url" : "http://fun.sohu.com/",
+                    "name" : "搞笑",
+                }
+                                                , {
+                    "url" : "http://acg.sohu.com/",
+                    "name" : "动漫",
+                }
+                                                , {
+                    "url" : "http://pets.sohu.com/",
+                    "name" : "宠物",
+                }
+                                        ],
+    });
+}
+catch(e){
+    var html = '<div class="err-js">' +
+                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
+                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
+                '><em class="icon-cached"></em>刷新</a></div>';
+    $(document.body).prepend(html);
+    console.error("发生错误",e);
+}
+</script>
+<!-- 文章安全分低于等于10分不执行seo优化 -->
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>
+        <!-- 头条SEO上报JS -->
+        <script>
+            (function(){
+                var el = document.createElement("script");
+                el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42";
+                el.id = "ttzz";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(el, s);
+            })(window)
+        </script>
+    
+</body></html>

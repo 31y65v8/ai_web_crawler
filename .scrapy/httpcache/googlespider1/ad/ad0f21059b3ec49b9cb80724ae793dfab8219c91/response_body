@@ -1,0 +1,1578 @@
+<!DOCTYPE html><html lang="zhCN" data-dpr="1" style="font-size: 100px;"><head><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script>(function () { var exp = new Date(); exp.setTime(exp.getTime() + 600000); document.cookie = "HMY_JC=95306221c2457952885412211b7310329a80fb5a2a9202ed721c2a4973e39427c3,"+"; expires="+exp.toGMTString()+"; path=/"; })()</script>
+    <!-- 页面常量定义 -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    window.highConcurrency = false; //高压开关，适用于双十一等文章详情页流量大的时候开启
+    var WEB_URL = 'https://www.ebrun.com';
+    var WAP_URL = 'https://m.ebrun.com';
+    var RESOURCE_URL = 'https://imgs.ebrun.com';
+    var IMGS_URL = 'https://imgs.ebrun.com';
+    var U_URL = 'https://u.ebrun.com';
+    var API_URL = 'https://api.ebrun.com';
+    var IMAGE_ONERROR = 'https://imgs.ebrun.com' + '/master/images/img_system_logo.png';
+    var DATE_LOCAL = '2024-11-13 16:04:53';
+</script>
+<meta http-equiv="Cache-control" content="no-cache;max-age=0">
+<meta http-equiv="expires" content="0">
+    <!-- 页面常量定义 结束 -->
+
+    <meta charset="UTF-8">
+    <!-- 头部自定义meta -->
+    <!-- saved from url=(0014)about:internet -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge, chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://imgs.ebrun.com/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://imgs.ebrun.com/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://imgs.ebrun.com/images/favicons/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="https://imgs.ebrun.com/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://imgs.ebrun.com/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://imgs.ebrun.com/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://imgs.ebrun.com/images/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#0062b0">
+<meta name="msapplication-TileImage" content="https://imgs.ebrun.com/images/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-config" content="https://imgs.ebrun.com/images/favicons/browserconfig.xml">
+
+
+    <!-- 头部自定义meta 结束 -->
+    <title>麦肯锡发布5个行业34个AI应用场景 - 电商服务 - 亿邦动力</title>
+    <meta name="description" content="有人觉得现在去谈人工智能的商业化为时尚早，但也有人觉得人工智能已经在企业的许多业务场景中发挥至关重要的作用。">
+    <meta name="keywords" content="亿邦专栏,AI,数字化转型,AI技术">
+
+    <!-- 头部 JS+CSS 引入 -->
+    
+<script src="https://imgs.ebrun.com/lib/jQuery/jquery-3.2.1.min.js"></script>
+<script src="https://imgs.ebrun.com/lib/photoswipe.min.js"></script>
+<script src="https://imgs.ebrun.com/wapsite/js/vendor/swiper-4.1.0.min.js"></script>
+<script src="https://imgs.ebrun.com/lib/vue.min.js"></script>
+<script src="https://imgs.ebrun.com/wapsite/js/vendor/special.js" type="text/javascript"></script>
+
+<link href="https://imgs.ebrun.com/wapsite/css/swiper-4.1.0.min.css" rel="stylesheet">
+<link href="https://imgs.ebrun.com/wapsite/2021/css/public.css" rel="stylesheet">
+<link href="https://imgs.ebrun.com/wapsite/2021/css/detail.css" rel="stylesheet">
+
+    <!-- 头部 JS+CSS 引入 结束 -->
+
+    <!-- 被JSCoder要求放在顶部的JS字面量 开始 -->
+    <script>
+        var articleId = '252671';
+        var articleTitle = '麦肯锡发布5个行业34个AI应用场景';
+        var description = '有人觉得现在去谈人工智能的商业化为时尚早，但也有人觉得人工智能已经在企业的许多业务场景中发挥至关重要的作用。';
+        var keywords = '亿邦专栏,AI,数字化转型,AI技术';
+        var resource_icon = 'https://imgs.ebrun.com/resources/2017_11/2017_11_06/20171106_1509949783281.jpg';
+        var caller_resource_type = 'article';
+        var pcUrl = 'https://www.ebrun.com/20171107/252671.shtml';
+        var articleUrl = 'https://m.ebrun.com/252671.html';
+        var wapUrl = 'https://m.ebrun.com/252671.html';
+        var getStyleType = '2';
+        var price = '0.0';
+        window.end_time = '2020-12-03 23:59:59';
+        //window.hot_labels_ids = []; //别删:在相应的模块里会有这个字面量的定义,这里只是备注
+    </script>
+    <!-- 被JSCoder要求放在顶部的JS字面量 结束 -->
+
+</head>
+
+<body style="font-size: 0.18rem;"><script>(function () { document.cookie = "HOY_TR=FBLGQVKUIJTCRSWE,917A806B523CDEF4,xtqzwnyvprkfujbs; max-age=31536000; path=/";document.cookie = "HBB_HC=67dd095df4835cdb892ed40d4876c90210b937cb0a2a7832c009365762413d4e4dc9fe7209dd23586464503a99ab209bb8; max-age=600; path=/"; })()</script><script src="/_ws_sbu/sbu_hc.js"></script>
+
+<!-- 广告.文章详情页.顶部通栏.容器 开始 -->
+<div id="ebj_1954" class="max-ad ad">
+    <a href="//j.ebrun.com/ac.php?aId=10499&amp;pId=1954&amp;url=https%3A%2F%2Fwww.ebrun.com%2Fmeeting%2F202410%2F4303.html" target="_blank" rel="nofollow"><img alt="" src="//imgs.ebrun.com/uploads/2024/10/20241024175548962.jpg" width="686" height="82" border="0"></a>
+<span>广告</span></div>
+<!-- 广告.文章详情页.顶部通栏.容器 结束 -->
+
+<!-- WAP文章详情页.通用头 开始 -->
+<!-- 文章详情页.通用头 开始 -->
+<header class="header clearfix">
+    <!-- WAP头部.logo 开始 -->
+    <a class="header-logo" href="https://m.ebrun.com/" title="" rel="nofollow" data-acpos="wap_head_nav_logo" eb="m_home_nav_logo">
+        <img src="https://imgs.ebrun.com/wapsite/2021/images/logoNew.png" alt="">
+    </a>
+    <!-- WAP头部.logo 结束 -->
+
+    <!-- WAP头部.搜索入口以及快捷导航 开始 -->
+    <!-----搜索按钮-->
+<a href="https://m.ebrun.com/search.php" class="header-search" rel="nofollow" data-acpos="wap_head_nav_search" eb="m_home_nav_search"></a>
+<!-----菜单按钮--打开下拉-->
+<a id="open-nav" href="javascript:void(0)" data-acpos="wap_head_nav_more" class="header-nav-icon"></a>
+<!-------关闭下拉-->
+<ul class="close-nav">
+    <li></li>
+    <li></li>
+</ul>
+
+<!----下拉菜单部分---->
+<div class="header-nav">
+    <div class="header-nav-center">
+        <!-----登录部分-未登录-->
+        <div class="user-login">
+            <img src="https://imgs.ebrun.com/wapsite/images/default_avatar.png" onerror="javascript:this.src='https://imgs.ebrun.com/wapsite/images/default_avatar.png'; ">
+            <a class="go-login" href="javascript:void(0)" rel="nofollow" eb="m_home_nav_login" data-acpos="wap_head_nav_more_login" onclick="window.location.href='/auth/login-phone?_t=' + new Date().getTime() + '&amp;jump=' + encodeURIComponent(window.location.href);">登录/注册</a>
+            <span class="go-login-info">点击登录，体验更多服务</span>
+        </div>
+
+        <div class="header-line"></div>
+
+        <!-------链接部分----->
+        <ul class="header-nav-list">
+            <li id="information">
+                <a data-attr="news" class="header-nav-list-title" href="https://m.ebrun.com/information" data-acpos="wap_head_nav_more_nav" data-acnum="1" data-keyword="资讯" rel="nofollow" eb="m_home_nav_more">资讯</a>
+                <div>
+                    <a data-attr="news" href="https://m.ebrun.com/information" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="2" data-keyword="最新" eb="m_home_nav_more">最新</a>
+                    <a data-attr="retail" href="https://m.ebrun.com/information/retail" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="3" data-keyword="未来零售" eb="m_home_nav_more">未来零售</a>
+                    <a data-attr="cross" href="https://m.ebrun.com/information/cross" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="4" data-keyword="跨境电商" eb="m_home_nav_more">跨境电商</a>
+                    <a data-attr="industry" href="https://m.ebrun.com/information/industry" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="5" data-keyword="产业互联网" eb="m_home_nav_more">产业互联网</a>
+                    <a class="current" data-attr="quick-news" href="https://m.ebrun.com/newest" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="6" data-keyword="快讯" eb="m_home_nav_more">快讯</a>
+                    <a data-attr="sole" href="https://m.ebrun.com/exclusive" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="7" data-keyword="独家重磅" eb="m_home_nav_more">独家重磅</a>
+                    <a data-attr="special-topic" href="https://m.ebrun.com/topic" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="8" data-keyword="专题" eb="m_home_nav_more">专题</a>
+                    <a data-attr="special-column" href="https://m.ebrun.com/zl" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="9" data-keyword="专栏" eb="m_home_nav_more">专栏</a>
+                </div>
+            </li>
+            <li>
+                <a class="header-nav-list-title" href="https://m.ebrun.com/knowledge" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="10" data-keyword="知识" eb="m_home_nav_more">知识</a>
+                <div>
+                    <a href="https://m.ebrun.com/knowledge/question/" data-acpos="wap_head_nav_more_nav" data-acnum="11" data-keyword="问答" rel="nofollow" eb="m_home_nav_more">问答</a>
+                    <a href="https://m.ebrun.com/topic/knowledge/" data-acpos="wap_head_nav_more_nav" data-acnum="12" data-keyword="手册" rel="nofollow" eb="m_home_nav_more">手册</a>
+                </div>
+            </li>
+            <li>
+                <a class="header-nav-list-title" href="https://m.ebrun.com/conference" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="13" data-keyword="会展" eb="m_home_nav_more">会展</a>
+                <div>
+                    <a href="https://m.ebrun.com/conference/list?city=110100&amp;kinds=all&amp;status=0&amp;cost=1&amp;from=0" data-acpos="wap_head_nav_more_nav" data-acnum="14" data-keyword="免费" rel="nofollow" eb="m_home_nav_more">免费</a>
+                    <a href="https://m.ebrun.com/conference/list?city=110100&amp;kinds=all&amp;status=1&amp;cost=0&amp;from=0" data-acpos="wap_head_nav_more_nav" data-acnum="15" data-keyword="正在报名" rel="nofollow" eb="m_home_nav_more">正在报名</a>
+                    <a href="https://m.ebrun.com/topic/hyjh" data-acpos="wap_head_nav_more_nav" data-acnum="16" data-keyword="精彩回顾" rel="nofollow" eb="m_home_nav_more">精彩回顾</a>
+                </div>
+            </li>
+            <li>
+                <a class="header-nav-list-title" href="https://m.ebrun.com/ebs/" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="17" data-keyword="课程" eb="m_home_nav_more">课程</a>
+                <div>
+                    <a href="https://m.ebrun.com/ebs?lco=yx" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="18" data-keyword="游学课" eb="m_home_nav_more">游学课</a>
+                    <a href="https://m.ebrun.com/ebs?lco=zc" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="19" data-keyword="增长实验室" eb="m_home_nav_more">增长实验室</a>
+                    <a href="https://m.ebrun.com/ebs?lco=zt" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="20" data-keyword="专题课" eb="m_home_nav_more">专题课</a>
+                    <a href="https://m.ebrun.com/ebs?lco=wxk" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="21" data-keyword="微小课" eb="m_home_nav_more">微小课</a>
+                </div>
+            </li>
+            <li>
+                <a class="header-nav-list-title" href="https://m.ebrun.com/yjy?report_type=1" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="22" data-keyword="智库" eb="m_home_nav_more">智库</a>
+                <div>
+                    <a href="https://m.ebrun.com/yjy?report_type=2" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="23" data-keyword="商业模式解读" eb="m_home_nav_more">商业模式解读</a>
+                    <a href="https://m.ebrun.com/yjy?report_type=3" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="24" data-keyword="行业研究" eb="m_home_nav_more">行业研究</a>
+                    <a href="https://m.ebrun.com/yjy?report_type=4" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="25" data-keyword="政策解读" eb="m_home_nav_more">政策解读</a>
+                </div>
+            </li>
+            <li>
+                <a class="header-nav-list-title" href="https://m.ebrun.com/fws" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="26" data-keyword="数字化" eb="m_home_nav_more">数字化</a>
+                <div>
+                    <a href="https://m.ebrun.com/fws/zhinengkefu/" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="27" data-keyword="智能客服" eb="m_home_nav_more">智能客服</a>
+                    <a href="https://m.ebrun.com/fws/mendianshuzihua" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="28" data-keyword="门店数字化" eb="m_home_nav_more">门店数字化</a>
+                    <a href="https://m.ebrun.com/fws/siyuliuliang" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="29" data-keyword="私域流量" eb="m_home_nav_more">私域流量</a>
+                    <a class="header-more" href="https://m.ebrun.com/fws" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="30" eb="m_home_nav_more"></a>
+                </div>
+            </li>
+            <li>
+                <a class="header-nav-list-title" href="https://m.ebrun.com/cyd" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="31" data-keyword="产业带" eb="m_home_nav_more">产业带</a>
+                <div>
+                    <a href="https://m.ebrun.com/cyd/30.html" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="33" data-keyword="顺德家电" eb="m_home_nav_more">
+    顺德家电
+</a>
+<a href="https://m.ebrun.com/cyd/39.html" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="34" data-keyword="青岛食品" eb="m_home_nav_more">
+    青岛食品
+</a>
+<a href="https://m.ebrun.com/cyd/41.html" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="35" data-keyword="叠石桥家纺" eb="m_home_nav_more">
+    叠石桥家纺
+</a>
+ 
+                    <a class="header-more" href="https://m.ebrun.com/cyd/" rel="nofollow" data-acpos="wap_head_nav_more_nav" data-acnum="32" eb="m_home_nav_more"></a>
+                </div>
+            </li>
+        </ul>
+        <div class="header-line"></div>
+        <!----平台互通部分---->
+        <div class="header-interflow">
+            <div id="open-meet-ewm" data-ac="click" data-acpos="wap_head_nav_more_apps" data-acnum="1" class="do_open_wxa" data-wxa-type="meeting" data-wxa-path="" data-wxa-query="" data-wxa-days="30">
+                <img src="//imgs.ebrun.com/wapsite/2021/images/wx-mini-meet.png" alt="">
+                <p>会议小程序</p>
+                <p>专业电商会议平台</p>
+            </div>
+            <div id="open-card-ewm" data-ac="click" data-acpos="wap_head_nav_more_apps" data-acnum="2" class="do_open_wxa" data-wxa-type="card" data-wxa-path="" data-wxa-query="" data-wxa-days="30">
+                <img src="//imgs.ebrun.com/wapsite/2021/images/wx-mini-card.png" alt="">
+                <p>名片小程序</p>
+                <p>连接靠谱电商人</p>
+            </div>
+            <div onclick="call_app({index:true})" data-ac="click" data-acpos="wap_head_nav_more_apps" data-acnum="3">
+                <img src="//imgs.ebrun.com/wapsite/2021/images/wx-mini-app.png" alt="">
+                <p>亿邦App</p>
+                <p>连接未来商业</p>
+            </div>
+        </div>
+    </div>
+    <div class="header-nav-center-fixed"></div>
+</div>
+    <!-- WAP头部.搜索入口以及快捷导航 结束 -->
+</header>
+<!-- 文章详情页.通用头 结束 -->
+<!-- WAP文章详情页.通用头 结束 -->
+
+<!-- 页面加载效果 开始 -->
+<div id="ebLoad" class="ebLoad ebLoadOpacity" style="display: none;">
+    <span>加载中</span>
+</div>
+<!-- 页面加载效果 结束 -->
+
+<!-- top_ad -->
+<div class="top-advice isclose hide" id="ebj_1"></div>
+<!-- top_ad 结束 -->
+
+<main>
+
+    <!-- 周报/早报/晚报/对谈录/冒险王 配图 开始 -->
+        <!-- 周报/早报/晚报/对谈录/冒险王 配图 结束 -->
+
+    <!-- 文章内容主体 开始 -->
+    <article>
+        <div class="public-section">
+            <h1 class="article-title">麦肯锡发布5个行业34个AI应用场景</h1>
+
+                        <div class="article-attr article--column-attr">
+
+                                    <!-- 专栏作者头像 开始 -->
+                    <div>
+                        <img src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/20171106_1509949783489.jpg" onerror="javascript:this.src='https://imgs.ebrun.com/wapsite/images/default_avatar.png'; ">
+                    </div>
+                    <!-- 专栏作者头像 结束 -->
+                    <span class="author">诸刚强</span>
+                                                            <img class="badge" src="https://imgs.ebrun.com/wapsite/2021/images/author_badge.png">
+                                    
+                <span>2017/11/07 09:00</span>
+            </div>
+            
+            <!-- 专栏群组 开始 -->
+                        <!-- 专栏群组 结束 -->
+
+            <!-- 编者按 开始 -->
+                        <!-- 编者按 结束 -->
+        </div>
+
+        <div class="article-content">
+            <div id="content" class="cmsDiv">
+                <p>这正是现在大家看待AI的两种态度。有人觉得现在去谈人工智能的商业化为时尚早，但也有人觉得人工智能已经在企业的许多业务场景中发挥至关重要的作用。无论如何，作为一个刷爆朋友圈，并且曝光度与日俱增的热门话题，许多企业都已经对AI“蠢蠢欲动”，甚至“先下手为强”了。</p>
+<p>不仅大大小小的科技公司都开始纷纷自觉贴上人工智能的标签，许多企业也开始尝试利用人工智能技术不断优化企业的运营。</p>
+<p>这样的方式不仅给消费者带来了便利，也使得可口可乐公司可以更好地收集消费者相关的数据、了解消费者行为，并相应地调整其产品和服务，改善公司的管理运营。</p>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110643515099497838654_origin.jpg" target="_blank"><span class="imgLoad" style="width: 415px; height: 312px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110643515099497838654.jpg" data-width="415" data-height="312"></span></a></p>
+<h2>图解行业场景中的人工智能应用</h2>
+<p>这仅仅是人工智能一个非常小的商用案例。关于人工智能的商业化，麦肯锡全球研究院跨越14个行业、10个国家，对3073名企业高管进行了调查，并分析了160个案例，最终发布了《人工智能：下一个数字前沿？》报告，其中，报告详细描述了5个应用案例，并对零售、电力、医疗3个行业应用进行了图解：</p>
+<h4>1.零售：连接消费者，改善购物体验</h4>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110640415099497838835_origin.jpg" target="_blank"><span class="imgLoad" style="width: 447px; height: 600px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110640415099497838835.jpg" data-width="447" data-height="600"></span></a></p>
+<p>? 图像识别、机器学习和自然语言处理等技术等发展使得智能服务机器人能够轻松与顾客打招呼、交流，可以预测订单，提供引导；</p>
+<p>? 通过机器学习，可以根据消费者到个人资料进行个性化促销; 在顾客浏览店铺商品时，店内的信标（Beacon）也可以通过手机向他们发送优惠信息</p>
+<p>? 基于深度学习的计算机视觉技术，可以识别购物者打包的商品; 加上传感器所获取的数据，AI使得自动结帐和付款成为可能</p>
+<p>? 使用深度学习技术的无人机快递完成了零售业务链最后一英里的交付，能够实现避障并处理收货人不在的状况</p>
+<h4>2.电力：更少的电站，更智能的电网</h4>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110690915099497838931_origin.jpg" target="_blank"><span class="imgLoad" style="width: 440px; height: 600px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110690915099497838931.jpg" data-width="440" data-height="600"></span></a></p>
+<p>? 通过传感器和机器学习系统，可以通过对风力条件的实时调整，最大限度地提高发电效率</p>
+<p>? 通过机器学习可以预测电力的供需峰值，从而最大限度地利用间歇性可再生能源</p>
+<p>? 智能电线与机器学习的结合，可以实现实时的电力调度，改善电网负载</p>
+<p>? 无人机和小型机器人可以在不关停电路的情况下，检测和预测设备故障</p>
+<p>? 机器可以替代人工自动记录数据并检查设备状态，从而减少对技术人员的需求数量，使他们可以花更多时间解决其它问题</p>
+<h4>3、医疗：更快的诊断，更好的治疗</h4>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110637015099497839092_origin.jpg" target="_blank"><span class="imgLoad" style="width: 448px; height: 600px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110637015099497839092.jpg" data-width="448" data-height="600"></span></a></p>
+<p>? 机器学习程序可以通过可穿戴设备远程分析患者的健康状况，并将数据与其医疗记录进行比较，提供健康建议并预警疾病风险</p>
+<p>? 使用机器学习和其他相关的AI技术，设备可以进行自主诊断并帮患者做简单的体征指标检查，而无需人力辅助，从而减轻医生和护士的工作压力</p>
+<p>? 根据患者的历史医疗数据和记录，基于AI的诊断工具可以更准确地诊断疾病</p>
+<p>? 根据医疗和环境等因素，AI算法可以预测患者行为和疾病的概率，从而优化医院运营、排班计划和库存管理</p>
+<h4>4、制造：更智能、更灵活</h4>
+<p>? 对于工程和研发人员而言，人工智能工具的使用意味着更快的周转时间和更少的迭代次数，效率得到大大提升</p>
+<p>? 获取全球各地的供应商信息，降低采购过程中的成本，更好地管理供应链，使得收益最大化</p>
+<p>? 项目经理可以使用基于人工智能的高级分析，从而提高审查流程的有效性</p>
+<p>?AI可以帮助企业重新审视制造流程和生产线，并针对性地进行优化和调整，从而以降低成本、减少资源浪费，加快企业上市速度</p>
+<p>? 制造商可以利用AI技术为客户提供更优质的售后服务</p>
+<p>? 工作人员与工厂的生产线必须更好地进行协同作业，从而挖掘AI的全部潜力，实现其中的价值</p>
+<h4>5、教育：不断优化教学形式和效果</h4>
+<p>? 解决教育资源分布不均的问题，并根据市场需求帮助政府机构不断优化教育制度，提高人才与市场的匹配度</p>
+<p>? 为学生提供更有针对性的教学计划，改善学习成果，并帮助学校不断改进课程组合，提高毕业生就业率</p>
+<p>? 通过自适应学习系统，在合适的时间以最佳方式向每个学生提供适当的内容，打造个性化教学</p>
+<p>? 自然语言、计算机视觉和深度学习可以帮助教师回答学生的常规问题或担任教学助教，使得教师可以把更多的时间花在更具价值的教学环节中</p>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110611015099497839273_origin.jpg" target="_blank"><span class="imgLoad" style="width: 550px; height: 440px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110611015099497839273.jpg" data-width="550" data-height="440"></span></a></p>
+<p style="text-align: center;">目前人工智能应用程度最高的企业，也是增加投资意愿最强的企业</p>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110612515099497839331_origin.jpg" target="_blank"><span class="imgLoad" style="width: 549px; height: 478px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110612515099497839331.jpg" data-width="549" data-height="478"></span></a></p>
+<p style="text-align: center;">也可以看到，已经采用了AI策略的公司的利润率得到了明显提升</p>
+<p>正因如此，越来越多的企业CEO开始重视人工智能技术的影响，并亲自主导相关项目的开展。据IBM商业价值研究院在今年6月份发布的一项调查结果显示，73%受调查的企业CEO认为，人工智能将为企业的未来起到重要的作用，其中，50%的CEO计划在2019年前采用相关技术。</p>
+<h2>企业应用AI技术的10个关键思考点</h2>
+<p>当然，还未采用人工智能技术的企业也不必感到焦虑和恐慌。企业未来战略如何布局，如何更好地运用这些技术，在运用过程中如何推进，这些都成为目前摆在企业面前的问题。基于麦肯锡的报告，我们总结了企业在应用AI技术的过程中的10个关键思考点。</p>
+<p><span class="ebrun_forecolor">1.不要听信所有炒作</span>：其实并非每个企业都已在使用人工智能。虽然人们对AI的投资正在升温，但企业对人工智能技术的采用仍然有些滞后。虽然AI的总投资额（包括内部和外部的）在2016年达到了260亿美元到390亿美元，其中外部投资是2013年的三倍。然而，AI的应用仍处于初步阶段，在麦肯锡的调查对象中，只有20%的受访者在一个或一个以上的业务或是核心业务中大规模使用AI技术。（调查涵盖了五个范畴下的AI技术系统：机器人和自动驾驶汽车、计算机视觉、语言、虚拟代理和机器学习）</p>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110624715099497839395_origin.jpg" target="_blank"><span class="imgLoad" style="width: 550px; height: 349px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110624715099497839395.jpg" data-width="550" data-height="349"></span></a></p>
+<p><span class="ebrun_forecolor">2.要相信AI可以提升公司的营收和利润这类“炒作”</span>。根据麦肯锡的调查，AI早期采用者（即大规模使用AI或在核心业务采用AI的公司）中有30%的用户表示他们已经实现了收入的增长，利用AI获得了更高的市场份额，或提升了产品和服务能力。此外，AI早期采用者中预计自己公司的利润率增长到比同行高出5%的人相较其他人要多3.5倍。证据表明，人工智能已经能够直接提高企业利润，使得AI投资的投资回报率（ROI）与其相关数字技术范畴的投资回报率相同，如大数据和高级分析。</p>
+<p><span class="ebrun_forecolor">3.没有领导的支持，你的AI转型计划可能会失败</span>。成功的人工智能采用者往往拥有领导对新技术最强有力的支持。调查反馈显示，已经成功大规模部署AI技术的调查对象得到公司管理层的支持率几乎是那些没有采用任何AI技术支持的公司的2倍。此外，除了从其公司CEO和IT部门主管那里获得了强有力的支持，他们还获得了来自全部管理层高管和董事会的支持。</p>
+<p><span class="ebrun_forecolor">4.不要一个人独立专研AI，你还需要合作伙伴的才干和能力</span>。经历数十年的“寒冬”，人工智能领域最近才开始加速其创新的步伐，而具备专业技术和能力人才也出现了稀缺的情况。即便是亚马逊和谷歌这样的大型数字原生代公司也开始转向通过外部市场的企业和人才，以增强其自身的AI技能。例如Google对DeepMind公司的收购，正是因为DeepMind能够运用其机器学习能力帮助Google提升搜索优化等核心业务。另外，据调查显示，AI的早期使用者主要是通过购买外部适用的技术解决方案来实现，只有少数的调查对象完全是由公司内部人才开发和实施人工智能解决方案。</p>
+<p><span class="ebrun_forecolor">5.避免让技术团队独立进行人工智能项目和计划</span>。在IT、数字或创新领域分别任命不同的部门主管，划分人工智能的管理职责，可能会导致“拿着锤子找钉子”的结果出现，为确保企业能够把关注点放在最有价值的案例上，人工智能项目应该由业务和技术部门主管共同评估和领导。</p>
+<p><span class="ebrun_forecolor">6.采用投资组合的方式加速公司的AI历程</span>。AI工具如今的应用范围已相当广泛，能够解决具体商业问题，例如用于预测性维护等等。各组织机构可以考虑在融合AI技术时采用一种基于投资组合的方法。</p>
+<p><span class="ebrun_forecolor">7.机器学习是一种强大的工具，但它并非适用于所有事物</span>。机器学习及其最为突出的子领域深度学习已经吸引了众多媒体的关注，并获得了占据2016年所有外部投资近60%份额的融资。</p>
+<p>但即便如此，机器学习也只是众多能够解决企业问题的人工智能技术中的一项。并不存在什么放之四海而皆可用的人工智能解决方案。例如，为实现客户服务中心效率的提高所采用的AI技术可能与用于识别信用卡诈骗风险所采用的技术迥然不同。因此，在一个企业的数字与AI技术应用历程的特定阶段，寻找合适的工具解决每一个增值的业务问题才是至关重要的。</p>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110673515099497839534_origin.jpg" target="_blank"><span class="imgLoad" style="width: 549px; height: 477px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110673515099497839534.jpg" data-width="549" data-height="477"></span></a></p>
+<p style="text-align: center;">不同的人工智能技术之间是有交集的</p>
+<p><span class="ebrun_forecolor">8.数字化能力应该优先于AI。</span>调查发现，在AI应用方面领先的行业，如高科技、电信和汽车等，也是数字化程度最高的行业。同样，所有早期应用AI技术的企业都已在包括云基础架构和大数据的数字化能力方面进行了投资。事实上，没有数字化转型经验的企业似乎很难轻易地跳跃到AI领域。通过一连串的统计分析，我们发现在数字化方面经验较多的企业在融合AI技术时创造出利润的可能性相比其他公司要高出50%。</p>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110631515099497839624_origin.jpg" target="_blank"><span class="imgLoad" style="width: 550px; height: 514px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110631515099497839624.jpg" data-width="550" data-height="514"></span></a></p>
+<p style="text-align: center;">数字化程度更高的行业和价值链更快采用了人工智能技术</p>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110669415099497839671_origin.jpg" target="_blank"><span class="imgLoad" style="width: 549px; height: 248px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110669415099497839671.jpg" data-width="549" data-height="248"></span></a></p>
+<p><span class="ebrun_forecolor">9.要大胆勇敢</span>。在一项关于数字化颠覆（digital disruption）的独立研究中，我们发现要扭转数字化颠覆的“魔咒”，采取更“激进”的数字化战略是最重要的因素。采用这样策略的企业将从根本上调整其业务的投资组合，开发新的商业模式，以构建一个比其数字化前更加强大的增长途径。截至目前，这一因素似乎也适用于AI：AI的早期应用者中恰好采取积极、“激进”策略的企业较其他企业拥有更好的利润前景。</p>
+<p style="text-align:center"><a href="http://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110642115099497839814_origin.jpg" target="_blank"><span class="imgLoad" style="width: 549px; height: 488px;"><img src="https://imgs.ebrun.com/images/xqydefault.png" alt="" data-src="https://imgs.ebrun.com/resources/2017_11/2017_11_06/2017110642115099497839814.jpg" data-width="549" data-height="488"></span></a></p>
+<p style="text-align: center;">AI转型与数字化转型所需的相似的条件和要素</p>
+<p><span class="ebrun_forecolor">10.人与流程是最大的挑战</span>。多数情况下，对管理层而言，将AI纳入到企业的流程和决策过程的挑战其实远远超过了实施AI的技术性挑战。作为领导者，需要决定哪些任务由机器处理，哪些任务由人类执行，而且无论是新任务还是传统任务，实施能够让员工持续学习的程序将是至关重要的。随着AI技术与先进的可视化技术、协作和设计思维的继续融合，企业未来需要将主要关注点从流程效率转向决策管理的有效性，而这将进一步要求领导者打造一个持续改进和学习的文化氛围。</p>
+<p>毫无疑问，AI就是下一个数字前沿。尽管一些公司仍未从之前的数字化颠覆中“缓”过来，但新的数字化颠覆正在成型。不过目前我们仍在早期阶段，还有时间将AI打造成自己的竞争优势。不妨先从这10条建议入手，开始规划自己的人工智能战略吧。</p>
+<p><strong>此为亿邦专栏作者文章，如要转载请签订内容转载协议，联系run@ebrun.com</strong></p>
+            </div>
+
+            <!-- JS处理文章区域内的所有图片 -->
+            <script>
+    /* 给每个img上的span赋值 */
+    var New = document.getElementById('content');
+    /*获取可显示区域的宽度*/
+    var cliWidth = document.body.clientWidth * 0.88;
+    var oImg = New.getElementsByTagName('img');
+    for (var i = 0; i < oImg.length; i++) {
+        //图片的宽高对比换算下
+        var imgParent = oImg[i].parentNode;
+        if (imgParent.nodeName === 'SPAN') {
+            var imgWidth = oImg[i].getAttribute('data-width');
+            var imgHeight = oImg[i].getAttribute('data-height');
+            if (imgHeight == '1' && imgWidth == '1') {
+                imgParent.style.display = 'none'
+            } else if (cliWidth < imgWidth) {
+                //换算一个高度
+                var spanHeight = (cliWidth * imgHeight) / imgWidth;
+                imgParent.style.width = cliWidth + 'px';
+                imgParent.style.height = spanHeight + 'px';
+            } else {
+                imgParent.style.width = imgWidth + 'px';
+                imgParent.style.height = imgHeight + 'px';
+            }
+        }
+    }
+</script>
+            <!-- JS处理文章区域内的所有图片 结束 -->
+
+            <p class="article-come">文章来源：亿邦动力网</p>
+
+            <!-- 付费阅读栏&点击查看全文 开始 -->
+            <div id="payButton" class="article-pay hidden">
+    <div>
+        <a href="javascript:void(0);" onclick="goToCreateOrder();">
+            单篇购买<span id="price"></span>
+        </a>
+    </div>
+</div>
+<div id="fullButton" class="articleAll" style="display: block;">
+    <div></div>
+    <a id="fullText" data-show="true" data-acpos="wap_articledetail_contentall" href="javascript:void(0);">点击查看全文<span></span></a>
+</div>
+<script>
+    var $articleContent = document.getElementsByClassName('article-content')[0]
+    var $articleHeight = $articleContent.offsetHeight;
+    var $fontSize = parseInt(document.getElementsByTagName('html')[0].style.fontSize);
+    var $articleFull = document.getElementsByClassName('articleAll')[0];
+    var $articleClick = document.getElementById('fullText');
+    //var $gotoApp = document.getElementById('appFullButton');
+
+    if ($articleHeight >= $fontSize * 14) {
+        $articleFull.style.display = 'block';
+    }
+    $articleClick.addEventListener('click', function () {
+        $articleContent.style.maxHeight = '100%';
+        $articleFull.style.display = 'none';
+        //$gotoApp.style.display = 'none';
+    })
+    var payButton = document.getElementById('payButton');
+    var payPrice = document.getElementById('price');
+    if (price != undefined && price > 0) {
+        payButton.style.display = 'block';
+        $articleFull.style.display = 'none';
+        payPrice.innerHTML = '¥' + price;
+    }
+</script>
+            <!-- 付费阅读栏&点击查看全文 结束 -->
+        </div>
+    </article>
+    <!-- 文章内容主体 结束 -->
+
+    <!-- 广告.文章详情页.文章结尾banner.容器 开始 -->
+    <div id="ebj_1955" class="list-ad">
+    <a href="//j.ebrun.com/ac.php?aId=10500&amp;pId=1955&amp;url=https%3A%2F%2Fwww.ebrun.com%2Fmeeting%2F202410%2F4303.html" target="_blank" rel="nofollow"><img alt="" src="//imgs.ebrun.com/uploads/2024/10/20241024175857424.jpg" width="686" height="75" border="0"></a>
+<span>广告</span></div>
+    <!-- 广告.文章详情页.文章结尾banner.容器 结束 -->
+
+    <!-- 正文下的分享 开始 -->
+    
+<section data-show="true" data-acpos="wap_articledetail_contentshare" class="weChat-share">
+    <div data-ac="share" data-acpos="wap_articledetail_contentshare" data-keyword="sessions" class="article-share-wechat">
+        <img src="https://imgs.ebrun.com/wapsite/2021/images/article_chat.png">
+        <span>微信</span>
+    </div>
+    <div data-ac="share" data-acpos="wap_articledetail_contentshare" data-keyword="friends" class="article-share-wechat">
+        <img src="https://imgs.ebrun.com/wapsite/2021/images/article_friend.png">
+        <span>朋友圈</span>
+    </div>
+</section>
+
+<!-- PS: 本模块会使用页面里的 `吸底功能条.微信分享指引.遮罩` -->
+
+    <!-- 正文下的分享 结束 -->
+
+    <aside id="app" v-cloak="">
+
+        <!-- 专栏文章上一篇和下一篇 开始 -->
+                <!-- 专栏文章上一篇和下一篇 结束 -->
+
+        <!-- 内容互通 -->
+        
+        <!-- 内容互通 结束 -->
+
+        <!-- 签名模块 开始 -->
+                <section>
+            <a href="javascript:void(0);" class="qianming">
+                <dl>
+                    <dt><img src="https://imgs.ebrun.com/resources/2020_12/2020_12_03/2020120350416069588294812.jpg" alt=""></dt>
+                    <dd>
+                        <div>
+                            <p class="qianming-tit">直播带货、私域流量、零售业、产业互联网、国际电商等同行</p>
+                        </div>
+                        <span>欢迎加入群聊</span>
+                        <em></em>
+                    </dd>
+                </dl>
+            </a>
+        </section>
+                <!-- 签名模块 结束 -->
+
+        <!-- 社群二维码导流栏 开始 -->
+                        <section class="member-panel">
+    <!-- 零售电商，智能商业 -->
+    <img src="https://imgs.ebrun.com/master/images/daoliu.png" alt="">
+    <div class="wrap">
+        <p class="title special-title">全新【亿邦跨境领航联盟】行业交流群正式启航！</p>
+        <p class="title special-title">行业大咖在线指导，每周群内商机分享；数百同行交流互动，共同成长；私人助教全程陪伴，1v1解决当下问题。</p>
+        <p class="tips">扫码加小编，回复暗号【领航】进群~</p>
+    </div>
+</section>
+                        <!-- 社群二维码导流栏 结束 -->
+
+        <!-- 文章关联的标签列表 开始 -->
+        <div data-show="true" data-acpos="wap_articledetail_label" class="label-link-hidden">
+            <div class="label-link">
+                                <a href="https://m.ebrun.com/label/145.html" data-acpos="wap_articledetail_label" eb="mcom_detail_func_relativelabel" acpos="m.ebrun.com_mcom_detail_func_relativelabel">专栏</a>
+                                <a href="https://m.ebrun.com/label/175.html" data-acpos="wap_articledetail_label" eb="mcom_detail_func_relativelabel" acpos="m.ebrun.com_mcom_detail_func_relativelabel">雅各布专栏</a>
+                                <a href="https://m.ebrun.com/label/93.html" data-acpos="wap_articledetail_label" eb="mcom_detail_func_relativelabel" acpos="m.ebrun.com_mcom_detail_func_relativelabel">人工智能</a>
+                            </div>
+        </div>
+        <!-- 文章关联的标签列表 结束 -->
+
+        <!-- (XX标签)热点 -->
+        <!-- SSI /inc/2018/articles/145_hot_wap.inc NOT FOUND -->
+        <!-- (XX标签)热点 结束 -->
+
+        <!-- 相关阅读 -->
+        
+<section id="recommed">
+    <div class="com-title">
+        <span class="title-line"></span>
+        <a href="javascript:void(0);">
+            <h3>相关阅读</h3>
+        </a>
+    </div>
+    <div class="feed-list">
+        <a v-for="(item, index) in about_read" :href="item.url" data-show="true" data-acpos="wap_articledetail_relativenews" :data-acnum="index + 1" eb="mcom_detail_lcol_relativenews" acpos="m.ebrun.com_mcom_detail_lcol_relativenews" acnum="{{ 1 + index }}">
+            <dl>
+                <dt>
+                    <img :src="item.cover_url" alt="">
+                </dt>
+                <dd>
+                    <p>{{ item.title }}</p>
+                    <span v-format-time="">{{ item.time }}</span>
+                </dd>
+            </dl>
+        </a>
+    </div>
+</section>
+
+        <!-- 相关阅读 结束 -->
+
+        <!-- 热门话题 -->
+        <!-- wap.文章详情页.热门话题 开始 -->
+<section>
+    <div class="com-title">
+        <span class="title-line"></span>
+        <a href="javascript:void(0);">
+            <h3>热门话题</h3>
+        </a>
+    </div>
+    <div class="futureSwiperContainer" id="topic-swiper">
+        <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                <a href="https://m.ebrun.com/label/365126.html" data-show="true" data-acpos="wap_articledetail_hottopics" data-acnum="1" data-keyword="未来零售" eb="mcom_detail_lcol_htopics" acpos="m.ebrun.com_mcom_detail_lcol_htopics">
+                    <dl class="topic">
+                        <dt>
+                            <span>未来零售</span>
+                                                        <span class="look">+89</span>
+                                                        <span class="hot" v-hot-tag="">10780</span>
+                        </dt>
+                        <dd>最新：字节社交再变阵：抖音内测“朋友圈” 升级朋友功能</dd>
+                    </dl>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="https://m.ebrun.com/label/2288.html" data-show="true" data-acpos="wap_articledetail_hottopics" data-acnum="2" data-keyword="电商快讯" eb="mcom_detail_lcol_htopics" acpos="m.ebrun.com_mcom_detail_lcol_htopics">
+                    <dl class="topic">
+                        <dt>
+                            <span>电商快讯</span>
+                                                        <span class="look">+307</span>
+                                                        <span class="hot" v-hot-tag="">5889</span>
+                        </dt>
+                        <dd>最新：16点聊电商：三态股份：第三季度收入4.49亿元 押注AI SaaS软件新业务</dd>
+                    </dl>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="https://m.ebrun.com/label/6.html" data-show="true" data-acpos="wap_articledetail_hottopics" data-acnum="3" data-keyword="跨境电商" eb="mcom_detail_lcol_htopics" acpos="m.ebrun.com_mcom_detail_lcol_htopics">
+                    <dl class="topic">
+                        <dt>
+                            <span>跨境电商</span>
+                                                        <span class="look">+28</span>
+                                                        <span class="hot" v-hot-tag="">4377</span>
+                        </dt>
+                        <dd>最新：三态股份：第三季度收入4.49亿元 押注AI SaaS软件新业务</dd>
+                    </dl>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="https://m.ebrun.com/label/2304.html" data-show="true" data-acpos="wap_articledetail_hottopics" data-acnum="4" data-keyword="业界" eb="mcom_detail_lcol_htopics" acpos="m.ebrun.com_mcom_detail_lcol_htopics">
+                    <dl class="topic">
+                        <dt>
+                            <span>业界</span>
+                                                        <span class="look">+49</span>
+                                                        <span class="hot" v-hot-tag="">3155</span>
+                        </dt>
+                        <dd>最新：Shopee双11大促引爆购物热潮，开场2分钟即售出1100万件商品</dd>
+                    </dl>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="https://m.ebrun.com/label/2324.html" data-show="true" data-acpos="wap_articledetail_hottopics" data-acnum="5" data-keyword="产业互联网" eb="mcom_detail_lcol_htopics" acpos="m.ebrun.com_mcom_detail_lcol_htopics">
+                    <dl class="topic">
+                        <dt>
+                            <span>产业互联网</span>
+                                                        <span class="look">+22</span>
+                                                        <span class="hot" v-hot-tag="">2519</span>
+                        </dt>
+                        <dd>最新：字节 快手 Vidu“打野”升级 AI视频小步快跑</dd>
+                    </dl>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="https://m.ebrun.com/label/132.html" data-show="true" data-acpos="wap_articledetail_hottopics" data-acnum="6" data-keyword="短视频" eb="mcom_detail_lcol_htopics" acpos="m.ebrun.com_mcom_detail_lcol_htopics">
+                    <dl class="topic">
+                        <dt>
+                            <span>短视频</span>
+                                                        <span class="look">+17</span>
+                                                        <span class="hot" v-hot-tag="">2126</span>
+                        </dt>
+                        <dd>最新：字节社交再变阵：抖音内测“朋友圈” 升级朋友功能</dd>
+                    </dl>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="https://m.ebrun.com/label/133.html" data-show="true" data-acpos="wap_articledetail_hottopics" data-acnum="7" data-keyword="直播电商" eb="mcom_detail_lcol_htopics" acpos="m.ebrun.com_mcom_detail_lcol_htopics">
+                    <dl class="topic">
+                        <dt>
+                            <span>直播电商</span>
+                                                        <span class="look">+14</span>
+                                                        <span class="hot" v-hot-tag="">2005</span>
+                        </dt>
+                        <dd>最新：字节社交再变阵：抖音内测“朋友圈” 升级朋友功能</dd>
+                    </dl>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="https://m.ebrun.com/label/143.html" data-show="true" data-acpos="wap_articledetail_hottopics" data-acnum="8" data-keyword="独家" eb="mcom_detail_lcol_htopics" acpos="m.ebrun.com_mcom_detail_lcol_htopics">
+                    <dl class="topic">
+                        <dt>
+                            <span>独家</span>
+                                                        <span class="look">0</span>
+                                                        <span class="hot" v-hot-tag="">1113</span>
+                        </dt>
+                        <dd>最新：腰尾部UP主占比超70% B站公布10月带货GMV超百万UP主榜单</dd>
+                    </dl>
+                </a>
+            </div>
+                    </div>
+        <div id="topic-pagination" class="swiper-pagination"></div>
+    </div>
+</section>
+<!-- wap.文章详情页.热门话题 结束 -->
+        <!-- 热门话题 结束 -->
+
+        <!-- 交流学习 -->
+        <section>
+    <div class="com-title">
+        <span class="title-line"></span>
+        <a href="javascript:void(0);">
+            <h3>交流学习</h3>
+        </a>
+    </div>
+    <div class="futureSwiperContainer" id="exchange-swiper">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <a href="https://m.ebrun.com/app/demand.html?id=1562&amp;type=3" data-show="true" data-acpos="wap_articledetail_conference" data-acnum="1" eb="mcom_detail_pcol_activity" acpos="m.ebrun.com_mcom_detail_pcol_activity" acnum="1">
+                    <div class="exchange-top">
+                        <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://unit.ebrun.com/storage/photos/202410/28/HHvc4pQWQGAdjVvIX2aUSw2kK6t7jD1MQy8tCs0l.jpeg">
+                        <span> 课程 </span>
+                    </div>
+                    <div class="exchange-bottom">
+                        <p>锚定细分赛道，成为百亿级估值企业</p>
+                        <span>2024/11/15</span>
+                        <span>深圳</span>
+                    </div>
+                </a>
+            </div>
+            <div class="swiper-slide">
+                <a href="https://m.ebrun.com/app/demand.html?id=1571&amp;type=3" data-show="true" data-acpos="wap_articledetail_conference" data-acnum="2" eb="mcom_detail_pcol_activity" acpos="m.ebrun.com_mcom_detail_pcol_activity" acnum="2">
+                    <div class="exchange-top">
+                        <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://unit.ebrun.com/storage/photos/202411/12/wEtTdeCySZIWyxdQkT8yZvzw12EOAHcDXKE43bVi.jpeg">
+                        <span> 课程 </span>
+                    </div>
+                    <div class="exchange-bottom">
+                        <p>2024马蹄年会 主题「 向上生长 」</p>
+                        <span>2024/12/04</span>
+                        <span>上海</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div id="exchange-pagination" class="swiper-pagination"></div>
+    </div>
+</section>
+
+        <!-- 交流学习 结束 -->
+
+        <!-- 更多资讯(四个FEED流) -->
+        <section class="tabSeo">
+    <div class="deputy-nav-seize">
+        <div class="deputy-nav-follow">
+            <div class="deputy-nav">
+                <a v-for="(item, index) in navData" @click="deputyNavClick(index, item.type)" :class="{'current': index == navIndex}" :data-acpos="item.acpos" :data-acnum="item.acnum" :data-keyword="item.text">
+                    {{item.text}}
+                </a>
+            </div>
+        </div>
+        <div class="seoOpacity">
+            <a>推荐</a>
+            <a>未来零售</a>
+            <a>跨境电商</a>
+            <a>产业互联网</a>
+            <a>专题</a>
+        </div>
+    </div>
+
+    <!-- 推荐FEED流 -->
+    <div class="deputyNavTab" v-show="navIndex == 0">
+        <div class="feed-list">
+            <a href="https://m.ebrun.com/565664.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="1" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731485038443.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>字节社交再变阵：抖音内测“朋友圈” 升级朋友功能</p>
+            <span v-format-time="">2024-11-13 16:03:58</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565661.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="2" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731484182108.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>三态股份：第三季度收入4.49亿元 押注AI SaaS软件新业务</p>
+            <span v-format-time="">2024-11-13 15:49:42</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565651.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="3" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731481821182.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>今年双11最大赢家 竟然是LV？</p>
+            <span v-format-time="">2024-11-13 15:10:21</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565643.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="4" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731479187412.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>今年双11 电商进入新的纳什均衡</p>
+            <span v-format-time="">2024-11-13 14:26:27</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565636.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="5" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731477180652.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>双11美妆：日韩美妆回归 国货分级明显</p>
+            <span v-format-time="">2024-11-13 13:53:00</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565635.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="6" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731473738425.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>字节 快手 Vidu“打野”升级 AI视频小步快跑</p>
+            <span v-format-time="">2024-11-13 12:55:38</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565629.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="7" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731469664909.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>万亿低空经济透视：一个超级风口的迅速起飞与终极驱动</p>
+            <span v-format-time="">2024-11-13 11:47:45</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565620.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="8" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731468157625.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>视频号直播新功能内测“K歌房”：利于涨粉变现 提升用户活跃度与黏性</p>
+            <span v-format-time="">2024-11-13 11:22:37</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565613.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="9" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731466447228.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>大健云仓Q3财报公布：总收入超三亿美元 同比大涨80%</p>
+            <span v-format-time="">2024-11-13 10:54:07</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565612.html" data-show="true" data-keyword="推荐" data-acpos="wap_articledetail_feed" data-acnum="10" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731466294289.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>李子柒终于回归 4小时涨粉超200万</p>
+            <span v-format-time="">2024-11-13 10:51:34</span>
+        </dd>
+    </dl>
+</a>
+ 
+        </div>
+    </div>
+    <!-- 推荐FEED流 结束 -->
+
+    <!-- 未来零售FEED流 -->
+    <div class="deputyNavTab" v-show="navIndex == 1">
+        <div class="feed-list">
+            <a href="https://m.ebrun.com/565664.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="1" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731485038443.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>字节社交再变阵：抖音内测“朋友圈” 升级朋友功能</p>
+            <span v-format-time="">2024-11-13 16:03:58</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565651.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="2" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731481821182.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>今年双11最大赢家 竟然是LV？</p>
+            <span v-format-time="">2024-11-13 15:10:21</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565643.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="3" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731479187412.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>今年双11 电商进入新的纳什均衡</p>
+            <span v-format-time="">2024-11-13 14:26:27</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565636.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="4" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731477180652.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>双11美妆：日韩美妆回归 国货分级明显</p>
+            <span v-format-time="">2024-11-13 13:53:00</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565635.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="5" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731473738425.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>字节 快手 Vidu“打野”升级 AI视频小步快跑</p>
+            <span v-format-time="">2024-11-13 12:55:38</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565629.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="6" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731469664909.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>万亿低空经济透视：一个超级风口的迅速起飞与终极驱动</p>
+            <span v-format-time="">2024-11-13 11:47:45</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565620.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="7" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731468157625.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>视频号直播新功能内测“K歌房”：利于涨粉变现 提升用户活跃度与黏性</p>
+            <span v-format-time="">2024-11-13 11:22:37</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565612.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="8" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731466294289.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>李子柒终于回归 4小时涨粉超200万</p>
+            <span v-format-time="">2024-11-13 10:51:34</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565610.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="9" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731465507650.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>复盘史上最长双11：168位抖音主播销售额破亿 大主播“冰火两重天”</p>
+            <span v-format-time="">2024-11-13 10:38:27</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565604.html" data-show="true" data-keyword="未来零售" data-acpos="wap_articledetail_feed" data-acnum="10" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731464210119.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>东南亚：小家电出海的天堂 还是噩梦？</p>
+            <span v-format-time="">2024-11-13 10:16:50</span>
+        </dd>
+    </dl>
+</a>
+ 
+        </div>
+    </div>
+    <!-- 未来零售FEED流 结束 -->
+
+    <!-- 跨境电商FEED流 -->
+    <div class="deputyNavTab" v-show="navIndex == 2">
+        <div class="feed-list">
+            <a href="https://m.ebrun.com/565661.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="1" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731484182108.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>三态股份：第三季度收入4.49亿元 押注AI SaaS软件新业务</p>
+            <span v-format-time="">2024-11-13 15:49:42</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565613.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="2" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731466447228.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>大健云仓Q3财报公布：总收入超三亿美元 同比大涨80%</p>
+            <span v-format-time="">2024-11-13 10:54:07</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565606.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="3" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731464360355.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>连亏十余年 非洲最大跨境电商平台关闭多地业务</p>
+            <span v-format-time="">2024-11-13 10:19:20</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565604.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="4" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731464210119.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>东南亚：小家电出海的天堂 还是噩梦？</p>
+            <span v-format-time="">2024-11-13 10:16:50</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/564331.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="5" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_11/20241111_1731314447570.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>中企出海 一场勇敢者的游戏</p>
+            <span v-format-time="">2024-11-13 08:30:00</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565477.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="6" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_12/20241112_1731386414453.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>全球注册会员破1.3 亿 霸王茶姬的品牌全球化之路做对了什么？</p>
+            <span v-format-time="">2024-11-12 12:40:14</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565472.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="7" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_12/20241112_1731384816658.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>世界疯抢中国“地沟油”：化身可再生柴油 每吨7200元</p>
+            <span v-format-time="">2024-11-12 12:13:36</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/564414.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="8" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_12/20241112_1731376139568.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>TikTok美区爆品周榜：单日狂销10000单 30天破百万美金 按摩仪疯狂“吸金”成新晋顶流</p>
+            <span v-format-time="">2024-11-12 09:48:59</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/564318.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="9" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_11/20241111_1731309780796.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>里斯战略咨询全球CEO 中国区主席张云出席2024亿邦品牌全球化峰会</p>
+            <span v-format-time="">2024-11-11 15:23:19</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/564300.html" data-show="true" data-keyword="跨境电商" data-acpos="wap_articledetail_feed" data-acnum="10" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_11/20241111_1731304280962.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>成立一年营收破亿 Casper的床垫比宜家卖得都火</p>
+            <span v-format-time="">2024-11-11 13:51:21</span>
+        </dd>
+    </dl>
+</a>
+ 
+        </div>
+    </div>
+    <!-- 跨境电商FEED流 结束 -->
+
+    <!-- 产业互联网FEED流 -->
+    <div class="deputyNavTab" v-show="navIndex == 3">
+        <div class="feed-list">
+            <a href="https://m.ebrun.com/565635.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="1" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_13/20241113_1731473738425.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>字节 快手 Vidu“打野”升级 AI视频小步快跑</p>
+            <span v-format-time="">2024-11-13 12:55:38</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565517.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="2" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_12/20241112_1731399877346.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>李开复为什么这么忙</p>
+            <span v-format-time="">2024-11-12 16:24:37</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565509.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="3" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_12/20241112_1731398105082.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>当微软不再能靠OpenAI猛拉它的云业务 Google Cloud“趁虚而入”了</p>
+            <span v-format-time="">2024-11-12 15:55:05</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565503.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="4" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_12/20241112_1731395955820.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>SaaS销售：猛攻大客户 还是中低端市场？</p>
+            <span v-format-time="">2024-11-12 15:19:16</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565465.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="5" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_12/20241112_1731383061032.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>带动产业带反内卷 1688选品中心已开业7个</p>
+            <span v-format-time="">2024-11-12 11:44:21</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/565463.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="6" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_12/20241112_1731381513636.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>李彦宏过去一年关于AI的23个断言</p>
+            <span v-format-time="">2024-11-12 11:18:33</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/564341.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="7" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_11/20241111_1731318290590.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>千寻智能Spirit AI完成天使+轮融资｜产业融资快报</p>
+            <span v-format-time="">2024-11-11 17:44:50</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/564309.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="8" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_11/20241111_1731306231802.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>第柒在线：打造一条AI驱动的零售供应链｜2024千峰访谈</p>
+            <span v-format-time="">2024-11-11 14:23:52</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/564189.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="9" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_08/20241108_1731051121033.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>中国为什么需要手表制造？</p>
+            <span v-format-time="">2024-11-11 08:30:00</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/564245.html" data-show="true" data-keyword="产业互联网" data-acpos="wap_articledetail_feed" data-acnum="10" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_10/20241110_1731236473407.jpeg" alt="">
+        </dt>
+        <dd>
+            <p>1688加码河南产业带 多点DMALL冲刺港交所｜产业互联网周报</p>
+            <span v-format-time="">2024-11-10 19:00:36</span>
+        </dd>
+    </dl>
+</a>
+ 
+        </div>
+    </div>
+    <!-- 产业互联网FEED流 结束 -->
+
+    <!-- 专题FEED流 -->
+    <div class="deputyNavTab" v-show="navIndex == 4">
+        <div class="feed-list">
+            <a href="https://m.ebrun.com/tc/2366.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="1" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_10/2024_10_12/20241012_1728720401153.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>耐心生长 | 2024亿邦双11特别专题</p>
+            <span v-format-time="">2024-10-12 12:11:22</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/2374.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="2" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_11/2024_11_01/20241101_1730440122325.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>耐心生长 | 2024跨境旺季特别专题</p>
+            <span v-format-time="">2024-10-30 10:10:54</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/2243.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="3" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_02/2024_02_01/20240201_1706753498666.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>亿邦特别专题 | 产业平台增长情报</p>
+            <span v-format-time="">2024-01-31 10:52:50</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/1969.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="4" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_01/2024_01_15/20240115_1705285933664.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>专题|2024亿邦超品洞察</p>
+            <span v-format-time="">2022-11-29 09:06:22</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/1817.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="5" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_02/2024_02_22/20240222_1708571925861.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>专题|唯品会2024增长战略：促进品质消费高质量发展</p>
+            <span v-format-time="">2022-06-13 09:20:37</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/1691.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="6" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2022_06/2022_06_07/20220607_1654583026684.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>全球跨境电商服务商图谱</p>
+            <span v-format-time="">2022-01-13 10:18:03</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/1971.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="7" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2023_06/2023_06_15/20230615_1686792211896.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>2023全球跨境电商服务商资源手册</p>
+            <span v-format-time="">2022-12-01 11:07:37</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/2353.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="8" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2024_09/2024_09_09/20240909_1725847823067.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>供应链变革与AI落地·2024千峰系列访谈</p>
+            <span v-format-time="">2024-09-09 10:10:23</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/2224.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="9" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2023_12/2023_12_27/20231227_1703645797414.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>专题 | 工业品行业观察</p>
+            <span v-format-time="">2023-12-27 10:56:37</span>
+        </dd>
+    </dl>
+</a>
+<a href="https://m.ebrun.com/tc/2120.html" data-show="true" data-keyword="专题" data-acpos="wap_articledetail_feed" data-acnum="10" eb="mcom_detail_pcol_article" acpos="m.ebrun.com_mcom_detail_pcol_article">
+    <dl>
+        <dt>
+            <img src="https://imgs.ebrun.com/wapsite/2021/images/lazyImg.png" data-src="https://imgs.ebrun.com/resources/2023_08/2023_08_08/20230808_1691480791572.jpeg" alt="">
+                <span>专题</span>
+        </dt>
+        <dd>
+            <p>东南亚出海洞察 · 探寻市场一线的真相</p>
+            <span v-format-time="">2023-08-07 16:46:43</span>
+        </dd>
+    </dl>
+</a>
+ 
+        </div>
+    </div>
+    <!-- 专题FEED流 结束 -->
+
+</section>
+
+<a class="go-index" href="https://m.ebrun.com/" data-show="true" data-acpos="wap_articledetail_homepage" eb="mcom_detail_nav_homepage" acpos="m.ebrun.com_mcom_detail_nav_homepage">去首页<span></span></a>
+
+        <!-- 更多资讯(四个FEED流) 结束 -->
+
+        <!-- 底部面包屑导航 开始 -->
+        <section data-show="true" data-acpos="wap_articledetail_nav" class="bread">
+            <a href="https://m.ebrun.com/" data-acpos="wap_articledetail_nav" eb="mcom_detail_func_nav" acpos="m.ebrun.com_mcom_detail_func_nav">亿邦动力 &gt;</a>
+                                    <a href="https://m.ebrun.com/label/145.html" data-acpos="wap_articledetail_nav" eb="mcom_detail_func_nav" acpos="m.ebrun.com_mcom_detail_func_nav">专栏 &gt;</a>
+                                                                                    <span>正文</span>
+        </section>
+        <!-- 底部面包屑导航 结束 -->
+
+    </aside>
+
+</main>
+
+
+<!-- 吸底功能条(收藏/分享/点赞/评论) -->
+<!-- 漂浮的分享窗 -->
+<section id="bottom-float-share" class="fixed-share hide article-share-wechat" data-acpos="wap_articledetail_floatingshare" data-keyword="friends" data-dmp-url="" style="display: none;">
+    <p>这么好看,分享一下?</p>
+    <span class="hide">朋友圈</span>
+    <span class="fixed-share-button">分享</span>
+</section>
+<!-- 漂浮的分享窗 -->
+<!-- 新增的下载按钮  -->
+<section class="download-box new-download-app-btn" onclick="call_app()" id="open-app" data-ac="click" data-acpos="wap_articledetail_app_download">
+    <div class="app-img"></div>
+    <p>APP内打开</p>
+</section>
+<!-- 新增下载按钮结束 -->
+<!-----文章的分享等的---->
+<!--
+* @Author: your name
+* @Date: 2020-04-10 17:51:08
+* @LastEditTime: 2021-06-17 10:52:36
+* @LastEditors: Please set LastEditors
+* @Description: In User Settings Edit
+* @FilePath: /oa/Users/daxiaojie/Downloads/m.ebrun.com/template/detail/detailShare/detailShare.html
+-->
+<section>
+    <div class="article-tools clearfix">
+
+        <!-- 返回首页 -->
+        <div class="back-home">
+            <span><a href="https://m.ebrun.com" data-ac="click" data-acpos="wap_articledetail_bottomhomepage"><i></i></a></span>
+        </div>
+        <!-- 点赞 -->
+        <div class="detail-thumb">
+            <span><i></i></span>
+            <em id="loveCount">1</em>
+            <span class="plusflex">+1</span>
+        </div>
+        <!-- 分享 -->
+        <div data-ac="click" data-acpos="wap_articledetail_share" data-dmp-url="" class="detail-share">
+            <span>
+                <i></i>
+            </span>
+        </div>
+
+        <div class="detail-collection" data-flag="1">
+            <span>
+                <i></i>
+            </span>
+            <span class="plusflex">+1</span>
+        </div>
+
+        <div data-url="detail" class="detail-comment sendComment">
+            <span>
+                <i></i>
+            </span>
+            <!------这里的data-url需要把跳转详情页的链接给我，有过有评论我需要直接跳转------>
+            <em id="current-comment-num"></em>
+        </div>
+    </div>
+    <div class="article-share hide">
+        <div class="article-share-two">
+            <!------------------非微信环境直接去掉这个开始-------------------------->
+            <a class="article-share-wechat" data-keyword="sessions" href="javascript:;">
+                <img src="//imgs.ebrun.com/wapsite/2021/images/icon_chat.png">
+                <span>微信好友</span>
+            </a>
+            <a class="article-share-wechat" data-keyword="friends" href="javascript:;">
+                <img src="//imgs.ebrun.com/wapsite/2021/images/icon_friend.png">
+                <span>朋友圈</span>
+            </a>
+            <!------------------非微信环境直接去掉这个结束-------------------------->
+            <a id="share_weibo" data-keyword="weibo" href="javascript:;" title="" target="_self">
+                <img src="//imgs.ebrun.com/wapsite/2021/images/article_weibo.png">
+                <span>新浪微博</span>
+            </a>
+            <a id="share_qzone" data-keyword="qzone" href="javascript:;" title="" target="_self">
+                <img src="//imgs.ebrun.com/wapsite/2021/images/article_qq.png">
+                <span>QQ空间</span>
+            </a>
+        </div>
+        <a class="article-share-close" href="javascript:;">关闭</a>
+    </div>
+    <div class="wechat-share">
+        <img class="chat hide" src="//imgs.ebrun.com/wapsite/2021/images/share_wechat.png">
+        <img class="friend hide" src="//imgs.ebrun.com/wapsite/2021/images/share_friend.png">
+        <img class="web hide" src="//imgs.ebrun.com/wapsite/2021/images/share_web.png">
+    </div>
+</section>
+
+<!-- 吸底功能条(收藏/分享/点赞/评论) 结束 -->
+
+
+<!-- 查看大图.遮罩 -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <!--<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>-->
+                <!--<button class="pswp__button pswp__button--share" title="Share"></button>-->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 查看大图.遮罩 结束 -->
+
+
+<!-- JS关闭页面加载效果(立即执行) -->
+
+<script>
+    var ebMainLoad = document.querySelectorAll('#ebLoad');
+    if (ebMainLoad.length > 0) {
+        ebMainLoad[0].className = 'ebLoad ebLoadOpacity';
+        setTimeout(function () {
+            ebMainLoad[0].style.display = 'none';
+        }, 200)
+    }
+</script>
+
+<!-- JS关闭页面加载效果(立即执行) 结束 -->
+
+
+<!-- 提示信息的容器 -->
+<div class="toast">
+    收藏成功
+</div>
+<!-- 提示信息的容器 结束 -->
+<input type="hidden" name="_userId">
+<input type="hidden" name="_nickname">
+<!-- 文章评论的弹层 -->
+<!-- 文章评论的弹层 -->
+<div class="writeComment hide">
+    <div class="writeComemntHead">
+        <a class="comment-close" href="javascript:void(0);"></a>
+        <a id="comment-send" class="writeComment-send" href="javascript:void(0);">发送</a>
+    </div>
+    <dl class="writeComment-con">
+        <dt><textarea id="reviewBox" placeholder="电商江湖 等你说话"></textarea></dt>
+        <dd><span>/140</span> <span id="wordLength">0</span></dd>
+    </dl>
+</div>
+<!-- 文章评论的弹层 结束 -->
+
+<!-- 文章评论的弹层 结束 -->
+
+
+<!-- 通用底部(附带右侧悬浮栏) -->
+
+<!-- 右侧悬浮栏 -->
+<div id="top" data-ac="click" data-acpos="wap_side_top"></div>
+<a href="javascript:void(0);" class="ebWebview right-open-app old-right-open-app" data-acpos="wap_side_app" eb="ebrun_com_func_app" acpos="m.ebrun.com_ebrun_com_func_app" acnum="3" onclick="call_app()" id="open-app" style="display: none;"></a>
+
+<script>
+    var url_regs = [
+        /^https?:\/\/m\.ebrun\.com\/(\d+)(\.s?html?)?/i, //wap文章, 图说
+        /^https?:\/\/m\.ebrun\.com\/ebrungo\/zb\/(\d+)_?\d*(\.s?html?)?/i, //机器人直播
+    ];
+    for (var i = 0; i < url_regs.length; i += 1) {
+        ma = document.URL.match(url_regs[i]);
+
+        if (ma && ma.length) {
+            $('.old-right-open-app').hide();
+            $('.new-download-app-btn').show();
+            $('#bottom-float-share').hide();
+            break;
+        }
+    }
+
+</script>
+<!-- 右侧悬浮栏 结束 -->
+
+<footer class="footer ebWebview">
+    <div>
+        <a href="https://m.ebrun.com/" target="_self" rel="nofollow">移动版</a>
+        <span></span>
+        <a href="https://www.ebrun.com/#fromapp" target="_self" rel="nofollow">电脑版</a>
+        <span></span>
+        <a href="javascript:void (0);" onclick="call_app({index:true});" eb="ebrun_home_func_app" acpos="m.ebrun.com_ebrun_home_func_app" acnum="1" target="_self" rel="nofollow">APP</a>
+    </div>
+    <p>©2007-<script type="text/javascript">copyright=new Date();update=copyright.getFullYear();document.write(update);</script>2024 亿邦动力版权所有</p>
+    <p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010602006906" target="_blank">京公网安备11010602006906号</a></p>
+</footer>
+<!-- 通用底部(附带右侧悬浮栏) 结束 -->
+
+
+<!-- 底部 广告数据JS+登陆状态JS+页面交互JS+统计代码JS 引入 -->
+
+<!-- 页面交互JS -->
+<script src="https://imgs.ebrun.com/wapsite/js/api/detail_api.js"></script>
+<script src="https://imgs.ebrun.com/wapsite/2021/js/public.js"></script>
+<script src="https://imgs.ebrun.com/wapsite/2021/js/detail.js"></script>
+<script src="https://imgs.ebrun.com/wapsite/2021/dev/detail_dev.js"></script>
+<!-- 页面交互JS 结束 -->
+
+
+<!-- PS:登陆状态JS已经合并到 detail_dev.js 里  -->
+
+
+<!-- 广告数据JS -->
+
+<!-- 广告系统.数据源.HTML结构 -->
+
+<div id="ebjh_1954" class="ebj0 hide"></div>
+<div id="ebjh_1955" class="ebj0 hide"></div>
+
+<!-- 广告系统.数据源.HTML结构 结束 -->
+
+<script type="text/javascript" src="https://imgs.ebrun.com/js/2017/adtrack.js"></script>
+<!-- 广告数据JS 结束 -->
+
+
+<!-- 统计代码JS -->
+<!-- 引入亿邦统计JS-SDK -->
+<script type="text/javascript" src="https://imgs.ebrun.com/lib/analy/analy_build.js"></script>
+<!-- 引入亿邦统计JS-SDK 结束 -->
+<script type="text/javascript" src="https://imgs.ebrun.com/js/track.js"></script>
+<script type="text/javascript" src="https://imgs.ebrun.com/js/analy.js"></script>
+<script type="text/javascript">
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cdiv id='cnzz_stat_icon_30080313'%3E%3C/div%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/c.php%3Fid%3D30080313' type='text/javascript'%3E%3C/script%3E"));
+</script><div id="cnzz_stat_icon_30080313"></div><script src=" https://w.cnzz.com/c.php?id=30080313" type="text/javascript"></script>
+<script type="text/javascript">
+    //百度站长推荐统计
+    (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+
+    //百推荐统计
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F87daad7faca22f66ec178d201d855ddb' type='text/javascript'%3E%3C/script%3E"));
+</script><script src=" https://hm.baidu.com/h.js?87daad7faca22f66ec178d201d855ddb" type="text/javascript"></script>
+<!-- 统计代码JS 结束 -->
+
+<!-- 底部 广告数据JS+登陆状态JS+页面交互JS+统计代码JS 引入 结束 -->
+
+
+
+
+</body></html>

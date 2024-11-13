@@ -8,7 +8,7 @@ X-Permitted-Cross-Domain-Policies: value="master-only"
 Service-Worker-Allowed: /
 Content-Security-Policy: frame-ancestors 'self' http://hybris.com https://hybris.com https://discovery-center.cloud.sap https://www.discovery-center.cloud.sap http://*.hybris.com https://*.hybris.com http://sap.lookbookhq.com https://sap.lookbookhq.com http://*.sap.com https://*.sap.com http://*.sap.cn https://*.sap.cn https://www.gigya.com *.lookbookhq.com https://cloudplatform.sap.com https://cal.sap.com https://developers.sap.com *.omtrdc.net;default-src 'self' blob: https: data: 'unsafe-inline' 'unsafe-eval' github.com api.github.com raw.githubusercontent.com *.cloud.sap *.liveperson.net http://*.sap.com https://*.sap.com http://*.sap.cn https://*.sap.cn *.adobedtm.com *.company-target.com *.omtrdc.net *.w55c.net platform.twitter.com *.siteintercept.qualtrics.com *.doubleclick.net cdnjs.cloudflare.com charts3.equitystory.com http://sap-espresso.com http://*.akamai.net ust-servlet.dataxu.net https://*.cdn.sap.com *.2mdn.net *.2o7.net *.qualtrics.com https://*.akamaihd.net http://*.akamaihd.net *.lpsnmedia.net *.truste.com *.newrelic.com *.nr-data.net https://*.youtube.com https://*.youtu.be https://*.ytimg.com *.twitter.com http://*.twimg.com https://*.twimg.com *.adobe.com *.demdex.net *.liveperson.com *.liveengage.net *.liveengage.com *.liveper.sn *.licdn.com *.cloud.sap *.hana.ondemand.com http://dc1cp8nqqrmxi.cloudfront.net http://*.edgesuite.net https://bcmcps.enter.sap *.d41.co
 X-Content-Type-Options: nosniff
-Cache-Control: max-age=55467
-Expires: Tue, 12 Nov 2024 23:12:09 GMT
-Date: Tue, 12 Nov 2024 07:47:42 GMT
+Cache-Control: max-age=85447
+Expires: Thu, 14 Nov 2024 07:36:19 GMT
+Date: Wed, 13 Nov 2024 07:52:12 GMT
 Vary: Accept-Encoding

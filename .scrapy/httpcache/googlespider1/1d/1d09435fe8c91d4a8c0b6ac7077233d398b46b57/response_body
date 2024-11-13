@@ -1,0 +1,214 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>什么是人工智能?人工智能的分类和应用介绍</title>
+    <meta name="keywords" content="什么是人工智能?人工智能的分类和应用介绍" />
+    <meta name="description" content="什么是人工智能?人工智能的分类和应用介绍" />
+    <link rel="stylesheet" type="text/css" href="/style/cz.css?v=2" />
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/lrtk.js"></script>
+<script>
+    function setbigfont()
+    {
+        $(".PageSRigCon").find("p").css("font-size", "18px");
+        $(".PageSRigCon p>span").css("font-size", "18px");
+        $(".PageSRigCon2").find("p").css("font-size", "18px");
+        $(".PageSRigCon2 p>span").css("font-size", "18px");
+    }
+    function setmidfont()
+    {
+        $(".PageSRigCon").find("p").css("font-size", "15px");
+        $(".PageSRigCon p>span").css("font-size", "15px");
+        $(".PageSRigCon2").find("p").css("font-size", "15px");
+        $(".PageSRigCon2 p>span").css("font-size", "15px");
+    }
+    function setsmallfont()
+    {
+        $(".PageSRigCon").find("p").css("font-size", "12px");
+        $(".PageSRigCon p>span").css("font-size", "12px");
+        $(".PageSRigCon2").find("p").css("font-size", "12px");
+        $(".PageSRigCon2 p>span").css("font-size", "12px");
+    }
+    function checkprint()
+    {
+       window.print()
+      return false
+    }
+</script>
+
+
+</head>
+<body>
+      <!--header  start-->
+<div id="header">
+    <div clas="main" style="height:200px"></div>
+</div>
+<!--header  end-->
+<!--nav start-->
+
+<div class="nav">
+    <ul class="nav_menu">
+        <li class="nav_menu-item"><a href="/Home/Index">网站首页</a></li>
+<li class="nav_menu-item"><a> 关于学会</a><ul class="nav_submenu"><li class="nav_submenu-item"> <a href="/Home/Show?channelId=19">学会简介</a></li><li class="nav_submenu-item"> <a href="/Home/Show?channelId=20">学会章程</a></li><li class="nav_submenu-item"> <a href="/Home/Show?channelId=21">组织机构</a></li><li class="nav_submenu-item"> <a href="/Home/Show?channelId=22">主要领导</a></li></ul> </li><li class="nav_menu-item"><a href="/Home/List?channelId=2" > 学会动态</a> </li><li class="nav_menu-item"><a href="/Home/List?channelId=3" > 通知公告</a> </li><li class="nav_menu-item"><a href="/Home/List?channelId=5" > 新闻资讯</a> </li><li class="nav_menu-item"><a href="/Home/List?channelId=10" > 技术产权</a> </li><li class="nav_menu-item"><a href="/Home/List?channelId=11" > 学术科普</a> </li><li class="nav_menu-item"><a> 专业分会</a><ul class="nav_submenu"><li class="nav_submenu-item"> <a href="/Home/List?channelId=13">分会简介</a></li><li class="nav_submenu-item"> <a href="/Home/Product?channelId=35" > 专家检索</a></li></ul> </li><li class="nav_menu-item"><a> 会员中心</a><ul class="nav_submenu"><li class="nav_submenu-item"> <a href="/Home/Show?channelId=28">会员名录</a></li><li class="nav_submenu-item"> <a href="/Home/Show?channelId=40">入会申请</a></li><li class="nav_submenu-item"> <a href="/Home/Show?channelId=47">入会条件</a></li><li class="nav_submenu-item"> <a href="/Home/Show?channelId=48">权利义务</a></li></ul> </li><li class="nav_menu-item"><a> 联系我们</a><ul class="nav_submenu"><li class="nav_submenu-item"> <a href="/Home/Show?channelId=44">联系方式</a></li><li class="nav_submenu-item"> <a href="/Home/Message?channelId=45">在线留言</a></li><li class="nav_submenu-item"> <a href="/Home/Show?channelId=52">免责声明</a></li></ul> </li>
+
+        
+    </ul>
+</div>
+<!--nav end-->
+<!--banner start-->
+<div class="main">
+    <div class="wrapper">
+
+        <div id="slider-wrap">
+            <ul id="slider">
+
+<li onclick="golink('http://www.jsmes.org/Home/Preview?channelId=3&id=3406&orderbyid=1')" style="background: url('/cfile/20200304094335.jpg') no-repeat;cursor:pointer !important"> <div > <h3>--热烈祝贺我会联办的科普活动被中国科协评为--优秀科普活动</h3> <h3 class="slider1"><div align="center" style="text-align:left;">
+	<span style="font-size:15px;">&nbsp; &nbsp; &nbsp; <span style="font-size:18px;">12月21日，中国科学技术协会办公厅印发《关于对2020年全国科普日有关组织单位和活动予以表扬的通知》（科协办函普字【2020】158号），江苏省机械工程学会、南京工程学会和江苏省学会服务中心联办的“2020年全国科普日暨第一届‘天印筑梦·科普智行’”活动，被评为优秀科普活动。</span></span><br />
+</div>
+<p align="center" style="text-align:center;text-indent:2em;">
+	<span style="font-size:24px;"><span style="font-size:15px;"></span></span> 
+</p>
+<div style="text-align:center;text-indent:2em;">
+	<span style="color:#FFFFFF;font-family:SimSun;font-size:32px;"></span> 
+</div></h3> </div> </li>
+
+
+            </ul>
+
+            <!--controls-->
+            <div class="btns" id="next"><i class="fa fa-arrow-right"></i></div>
+            <div class="btns" id="previous"><i class="fa fa-arrow-left"></i></div>
+
+
+            <div id="pagination-wrap">
+                <ul></ul>
+            </div>
+            <!--controls-->
+        </div>
+    </div>
+</div>
+
+    <div class="main">
+        <div class="PagesLeft left">
+            <div class="list_nav left">
+                <div class="title1">
+                    <h2>关于学会</h2>
+                </div>
+                <ul class="pageNav">
+                    <li><a href="/Home/Show?channelId=19">学会简介</a></li><li><a href="/Home/Show?channelId=20">学会章程</a></li><li><a href="/Home/Show?channelId=21">组织机构</a></li><li><a href="/Home/Show?channelId=22">主要领导</a></li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+
+
+        </div>
+
+        <div class="PagesRig right">
+            <div class="title3">
+                <h2>学术科普</h2>
+                <div class="position">
+                    <span>当前位置:</span>
+                    <a href="/Home/Index">首 页 &gt;</a><a>学术科普&gt;</a>
+                </div>
+            </div>
+            <div class="NewShow">
+                <div class="title4">
+                    <h2>什么是人工智能?人工智能的分类和应用介绍</h2>
+                    <div class="title4_time">
+                        时间：2020/12/14 14:59:02 &nbsp;&nbsp; 浏览次数：13636 &nbsp;&nbsp;
+                        字体：<span style="cursor:pointer" onclick="setbigfont()">大</span>
+                        <span style="cursor:pointer" onclick="setmidfont()">中</span>
+                        <span style="cursor:pointer" onclick="setsmallfont()">小</span>&nbsp;&nbsp;
+                        <span style="cursor:pointer" onclick="checkprint()"><img src="/images/y_3f816843.png" /></span>
+                    </div>
+                </div>
+            </div>
+            <div class="PageSRigCon">
+
+                <p align="justify">
+	<br />
+</p>
+<p align="justify">
+	<span style="font-family:SimSun;font-size:15px;">一、什么是人工智能？</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp;人工智能（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp;人工智能是计算机科学的一个分支，它企图了解智能的实质，并生产出一种新的能以人类智能相似的方式做出反应的智能机器，该领域的研究包括机器人、语言识别、图像识别、自然语言处理和专家系统等。人工智能从诞生以来，理论和技术日益成熟，应用领域也不断扩大，可以设想，未来人工智能带来的科技产品，将会是人类智慧的“容器”。人工智能可以对人的意识、思维的信息过程的模拟。人工智能不是人的智能，但能像人那样思考、也可能超过人的智能。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp;人工智能是一门极富挑战性的科学，从事这项工作的人必须懂得计算机知识，心理学和哲学。人工智能是包括十分广泛的科学，它由不同的领域组成，如机器学习，计算机视觉等等，总的说来，人工智能研究的一个主要目标是使机器能够胜任一些通常需要人类智能才能完成的复杂工作。但不同的时代、不同的人对这种“复杂工作”的理解是不同的。 2017年12月，人工智能入选“2017年度中国媒体十大流行语”。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 二、人工智能的分类</span><br />
+<span style="font-family:SimSun;font-size:15px;">人工智能的定义可以分为两部分，即“人工”和“智能”。“人工”比较好理解，争议性也不大。有时我们会要考虑什么是人力所能及制造的，或者人自身的智能程度有没有高到可以创造人工智能的地步，等等。但总的来说，“人工系统”就是通常意义下的人工系统。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 关于什么是“智能”，就问题多多了。这涉及到其它诸如意识（CONSCIOUSNESS）、自我（SELF）、思维（MIND）（包括无意识的思维（UNCONSCIOUS_MIND））等等问题。人唯一了解的智能是人本身的智能，这是普遍认同的观点。但是我们对我们自身智能的理解都非常有限，对构成人的智能的必要元素也了解有限，所以就很难定义什么是“人工”制造的“智能”了。因此人工智能的研究往往涉及对人的智能本身的研究。其它关于动物或其它人造系统的智能也普遍被认为是人工智能相关的研究课题。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 人工智能在计算机领域内，得到了愈加广泛的重视。并在机器人，经济政治决策，控制系统，仿真系统中得到应用。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 例如繁重的科学和工程计算本来是要人脑来承担的，如今计算机不但能完成这种计算，而且能够比人脑做得更快、更准确，因此当代人已不再把这种计算看作是“需要人类智能才能完成的复杂任务”，可见复杂工作的定义是随着时代的发展和技术的进步而变化的，人工智能这门科学的具体目标也自然随着时代的变化而发展。它一方面不断获得新的进展，另一方面又转向更有意义、更加困难的目标。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 通常，“机器学习”的数学基础是“统计学”、“信息论”和“控制论”。还包括其他非数学学科。这类“机器学习”对“经验”的依赖性很强。计算机需要不断从解决一类问题的经验中获取知识，学习策略，在遇到类似的问题时，运用经验知识解决问题并积累新的经验，就像普通人一样。我们可以将这样的学习方式称之为“连续型学习”。 但人类除了会从经验中学习之外，还会创造，即“跳跃型学习”。这在某些情形下被称为“灵感”或“顿悟”。一直以来，计算机最难学会的就是“顿悟”。或者再严格一些来说，计算机在学习和“实践”方面难以学会“不依赖于量变的质变”，很难从一种“质”直接到另一种“质”，或者从一个“概念”直接到另一个“概念”。正因为如此，这里的“实践”并非同人类一样的实践。人类的实践过程同时包括经验和创造。这是智能化研究者梦寐以求的东西。</span><br />
+<span style="font-family:SimSun;font-size:15px;">实际应用：机器视觉，指纹识别，人脸识别，视网膜识别，虹膜识别，掌纹识别，专家系统，自动规划，智能搜索，定理证明，博弈，自动程序设计，智能控制，机器人学，语言和图像理解，遗传编程等。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 三、应用范畴</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 学科范畴 ：人工智能是一门边缘学科，属于自然科学和社会科学的交叉。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 涉及学科 ：哲学和认知科学，数学，神经生理学，心理学，计算机科学，信息论，控制论，不定性论</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 研究范畴：自然语言处理，知识表现，智能搜索，推理，规划，机器学习，知识获取，组合调度问题，感知问题，模式识别，逻辑程序设计软计算，不精确和不确定的管理，人工生命，神经网络，复杂系统，遗传算法</span><br />
+<span style="font-family:SimSun;font-size:15px;">意识和人工智能P：人工智能就其本质而言，是对人的思维的信息过程的模拟。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 对于人的思维模拟可以从两条道路进行，一是结构模拟，仿照人脑的结构机制，制造出“类人脑”的机器;二是功能模拟，暂时撇开人脑的内部结构，而从其功能过程进行模拟。现代电子计算机的产生便是对人脑思维功能的模拟，是对人脑思维的信息过程的模拟。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 弱人工智能如今不断地迅猛发展，尤其是2008年经济危机后，美日欧希望借机器人等实现再工业化，工业机器人以比以往任何时候更快的速度发展，更加带动了弱人工智能和相关领域产业的不断突破，很多必须用人来做的工作如今已经能用机器人实现。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 而强人工智能则暂时处于瓶颈，还需要科学家们和人类的努力。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 四、实现方法</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 人工智能在计算机上实现时有2种不同的方式。一种是采用传统的编程技术，使系统呈现智能的效果，而不考虑所用方法是否与人或动物机体所用的方法相同。这种方法叫工程学方法（ENGINEERING APPROACH），它已在一些领域内作出了成果，如文字识别、电脑下棋等。另一种是模拟法（MODELING APPROACH），它不仅要看效果，还要求实现方法也和人类或生物机体所用的方法相同或相类似。遗传算法（GENERIC ALGORITHM，简称GA）和人工神经网络（ARTIFICIAL NEURAL NETWORK，简称ANN）均属后一类型。遗传算法模拟人类或生物的遗传-进化机制，人工神经网络则是模拟人类或动物大脑中神经细胞的活动方式。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 为了得到相同智能效果，两种方式通常都可使用。采用前一种方法，需要人工详细规定程序逻辑，如果游戏简单，还是方便的。如果游戏复杂，角色数量和活动空间增加，相应的逻辑就会很复杂（按指数式增长），人工编程就非常繁琐，容易出错。而一旦出错，就必须修改原程序，重新编译、调试，最后为用户提供一个新的版本或提供一个新补丁，非常麻烦。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 采用后一种方法时，编程者要为每一角色设计一个智能系统（一个模块）来进行控制，这个智能系统（模块）开始什么也不懂，就像初生婴儿那样，但它能够学习，能渐渐地适应环境，应付各种复杂情况。这种系统开始也常犯错误，但它能吸取教训，下一次运行时就可能改正，至少不会永远错下去，用不到发布新版本或打补丁。利用这种方法来实现人工智能，要求编程者具有生物学的思考方法，入门难度大一点。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 但一旦入了门，就可得到广泛应用。由于这种方法编程时无须对角色的活动规律做详细规定，应用于复杂问题，通常会比前一种方法更省力。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 过去十年来，人们广泛讨论如何将人工智能（AI）引入计算领域，并允许机器从经验中学习，做出类似人类的决策，从而几乎改变我们经济的每一个环节。人工智能项技术多应用在帮助企业自动化日常任务，通过分析客户的行为更好地了解他们的客户，降低运营成本，以及在不同行业个性化服务产品，无论是金融银行，还是交通运输、安防保卫、医疗健康等领域，都逐渐展现出AI独特的优势。</span><br />
+<span style="font-family:SimSun;font-size:15px;">&nbsp; 人工智能技术发展的步伐不会止步，当层出不穷的新算法、新代码出现时，新产品市场的机会大大增加了，而面临的非授权使用和恶意篡改风险无疑也随之增长，数字版权的保护任重道远。</span><br />
+<span style="font-family:SimSun;font-size:15px;"></span>
+</p>
+            </div>
+            <ul class="sitemap">
+               <li><a href="/Home/Preview?id=3468&channelId=11&orderbyid=1">上一篇：船用水泵叶轮加工工艺你知道吗？</a></li><li><a href="/Home/Preview?id=3465&channelId=11&orderbyid=1">下一篇：孔间距偏差的计算公式</a></li>
+                <div class="clear"></div>
+            </ul>
+        </div>
+    </div>
+    <div class="clear"></div>
+
+       <!--link end-->
+<div id="footer">
+<div class="main">
+	<div class="ewm">
+		<div class="ewmPic">
+			<img src="/images/ewm.gif" width="110" height="110" alt="" /> 
+		</div>
+	</div>
+	<div class="fotContact right">
+		<div class="fotUs">
+			<p>
+				地址：南京市鼓楼区中央路<br />
+399号天正国际5号楼623室<br />
+邮编：210037&nbsp;<br />
+电话：025-83496680 <br />
+网址：www.jsmes.org
+			</p>
+		</div>
+	</div>
+	<div class="clear">
+	</div>
+</div>
+<div class="copyright">
+	<div class="main">
+		版权所有：江苏省机械工程学会 Copyright 2019 All Rights Reserved. <a href="http://beian.miit.gov.cn/" style="color:#000000;">苏ICP备17030687号</a> 
+	</div>
+</div>
+
+</div>
+<script type="text/javascript" src="/js/slide.js?v=1"></script>
+<script>
+    function golink(url)
+    {
+        window.location.href = url;
+    }
+</script>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1278247934'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/z_stat.php%3Fid%3D1278247934%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "JSESSIONID=00B67D38DA1FB06FA51F652A50D7526C",
+        "Referer": "https://www.snowbeasts.com/blog/details/256",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.snowbeasts.com/blog/details/256",
+    "wait": 6
+}

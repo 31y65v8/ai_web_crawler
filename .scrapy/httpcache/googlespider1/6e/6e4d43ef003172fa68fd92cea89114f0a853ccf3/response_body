@@ -1,0 +1,310 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta content="柳沈,律师所,律师事务所,柳沈律师事务所,律师" name="keywords">
+    <meta content="柳沈律师事务所www.liu-shen.com" name="description">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="http://www.liu-shen.com/favicon.ico" rel="shortcut icon">
+    <title>AI系列文章 | 人工智能产业中游五大关键子技术专利分析-柳沈律师事务所</title>
+    <link rel='stylesheet' href='https://www.liu-shen.com/Template/Default/Skin/css/tem.css'>
+    <meta name="renderer" content="webkit">
+    <script type="text/javascript" src="https://www.liu-shen.com/Template/Default/Skin/js/jquery1.42.min.js"></script>
+    <script type="text/javascript" src="https://www.liu-shen.com/Template/Default/Skin/js/jquery.SuperSlide.2.1.1.js"></script>
+    <!--[if lt IE 9]>
+      <script src="http://cdn.staticfile.org/html5shiv/r29/html5.min.js"></script>
+      <![endif]-->
+</head>
+
+<body>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#btnsearch").click(function (event) {
+                event.preventDefault();
+                var title = $("#keywords").val();
+
+                var lhref = "/Search.aspx";
+                if (title != '请输入律师名') {
+                    lhref = lhref + "?keyword=" + title;
+                }
+                window.location.href = lhref;
+            });
+          
+    $(".weixin").mouseover(function () {
+                $(".ewm").css("display","")
+
+            })
+            $(".weixin").mouseout(function () {
+                $(".ewm").css("display", "none")
+
+            })
+        })
+    </script><div class="top">
+  <div class="top-bg"></div>
+  <div class="top_text">
+    <div class="box"><a href="/Node-1.html" class="logo_img"><img src="/Template/Default/Skin/images/logo.png"></a><div class="top1 ovf">
+        <ul class="language">
+          <li><a href="#">中文</a><span class="pre">|</span></li>
+          <li><a href="/Node-35.html">ENGLISH</a><span class="pre">|</span></li>
+          <li><a href="/Node-64.html">日本語</a></li>
+          <li><a href="#" class="weixin"></a><img src="/Template/Default/Skin/images/ewm.png" class="ewm" style="display:none"></li>
+          <li class="mr10" style="display:none"><a href="#">手机版</a></li>
+          <li><span class="search"><input type="text" class="search_text" id="keywords"><a href="#" id="btnsearch"><img src="/Template/Default/Skin/images/search.png"></a></span></li>
+        </ul>
+      </div><nav class="top_nav2"><ul id="nav">
+        
+                    <li class="nli"><a class="bold" href="/Node-1.html">网站首页</a></li>
+<li class="nli"><a class="bold" href="/Content-1863.html">关于我们</a>
+        <div class="sub">
+  <div class="&#xD;&#xA;              downji1">
+    <div class="&#xD;&#xA;                down_nav3j1"></div>
+    <div class="down_nav1"></div>
+    <ul>
+      <li><a href="https://www.liu-shen.com/Node-15.html">事务所介绍</a></li>
+      <li><a href="https://www.liu-shen.com/Node-13.html">事务所业务范围</a></li>
+      <li><a href="https://www.liu-shen.com/Node-34.html">事务所荣誉</a></li>
+    </ul>
+  </div>
+</div>
+      </li>
+<li class="nli"><a class="bold" href="/Node-16.html">专业人员</a>
+        <div class="sub">
+  <div class="&#xD;&#xA;              downji2">
+    <div class="&#xD;&#xA;                down_nav3j2"></div>
+    <div class="down_nav1"></div>
+    <ul>
+      <li><a href="https://www.liu-shen.com/Node-16.html">查找律师</a></li>
+    </ul>
+  </div>
+</div>
+      </li>
+<li class="nli"><a class="bold" href="/Node-21.html">业务指南</a>
+        <div class="sub">
+  <div class="&#xD;&#xA;              downji3">
+    <div class="&#xD;&#xA;                down_nav3j3"></div>
+    <div class="down_nav1"></div>
+    <ul>
+      <li><a href="https://www.liu-shen.com/Node-21.html">专利</a></li>
+      <li><a href="https://www.liu-shen.com/Node-22.html">商标</a></li>
+      <li><a href="https://www.liu-shen.com/Node-99.html">声明</a></li>
+    </ul>
+  </div>
+</div>
+      </li>
+<li class="nli on"><a class="bold" href="/Node-28.html">业务动态</a>
+        <div class="sub">
+  <div class="&#xD;&#xA;              downji4">
+    <div class="&#xD;&#xA;                down_nav3j4"></div>
+    <div class="down_nav1"></div>
+    <ul>
+      <li><a href="https://www.liu-shen.com/Node-28.html">柳沈IP简讯&amp;精选文章</a></li>
+      <li><a href="https://www.liu-shen.com/Node-29.html">行业IP新闻&amp;案例</a></li>
+    </ul>
+  </div>
+</div>
+      </li>
+<li class="nli"><a class="bold" href="https://www.liu-shen.com/Node-98.html">法律法规</a>
+        
+      </li>
+<li class="nli"><a class="bold" href="https://www.liu-shen.com/Node-10.html">招聘信息</a>
+        
+      </li>
+<li class="nli"><a class="bold" href="https://www.liu-shen.com/Node-6.html">联系我们</a>
+        
+      </li>
+                  </ul></nav></div>
+  </div>
+</div>
+    <!--banner S-->
+    <div class="banner2">
+        <ul>
+            <li><img src="https://www.liu-shen.com/Template/Default/Skin/images/banner_1.jpg" /></li>
+        </ul>
+    </div>
+    <!--中间正文 S-->
+    <div class="ovf">
+        <div class="title"><span>业务动态</span></div>
+        <div class="submenu">
+            <ul class="box2">
+                <li class="on"><a href="https://www.liu-shen.com/Node-28.html">柳沈IP简讯&amp;精选文章</a></li>
+<li><a href="https://www.liu-shen.com/Node-29.html">行业IP新闻&amp;案例</a></li>
+            </ul>
+        </div>
+        <div class="content box2">
+            <h2 class="headertext">AI系列文章 | 人工智能产业中游五大关键子技术专利分析 </h2>
+            <div class="time">作者：刘志杰、程驰、黎琦  |  更新时间：2024-07-18   | 阅读次数：
+    <script language="JavaScript" type="text/JavaScript" src="https://www.liu-shen.com/Common/GetHits.aspx?id=3529"></script>
+   </div>
+            <div class="text">
+                
+      
+     <strong><span style="color:#337FE5;">一、引言</span></strong><br />
+<br />
+人工智能（Artificial Intelligence，“AI”）是以计算机科学为基础，研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。近年来，随着计算机硬件以及人工智能算法的不断突破，人工智能技术领域取得了迅速发展。<br />
+<br />
+人工智能作为引领未来的战略性技术，已成为国家战略的重要组成部分。据相关测算[1]，2023年中国人工智能产业规模已达到2137亿元，大模型带来的底层技术革新将为中国人工智能产业的规模增长带来更多存量扩张与增量空间。今年两会的《政府工作报告》指出，深化大数据、人工智能等研发应用，开展“人工智能+”行动，打造具有国际竞争力的数字产业集群[2]。2024年4月10日，国家工业信息安全发展研究中心、工信部电子知识产权中心发布的《新一代人工智能专利技术分析报告》显示，截止2023年底，新一代AI基础层、模型层中国公开专利达到6.2万件，其中有效专利近2万件，审中3.5万件，2017年以来，专利申请年均增长率超过43%，我国已经成为全球新一代AI技术创新的重要竞争者[3]。<br />
+<br />
+人工智能产业链极为复杂，从上游以算力基础、数据基础、算法基础为核心的人工智能基础层，到中游包括机器学习、知识图谱、自然语言处理、计算机视觉、智能语音的人工智能技术层和以通用基础大模型、垂直行业/领域大模型、AI开源社区等为核心的人工智能大模型层与工具层，再到面对终端应用场景的人工智能应用层，所涉甚广，且产业链中的每一环都具备巨大的商业前景和价值。仅以语言模型为例，国内外数十家公司相继加入AI大模型的研究与应用，如 OpenAI（ChatGPT）、微软（Turing-NLG）、百度（文心一言）、阿里（通义千问）、华为（盘古）、科大讯飞（星火认知）等。<br />
+<br />
+作为新一轮产业变革的核心驱动力，人工智能将深刻改变人类社会生活和思维方式，对相关技术专利进行统计分析，可以了解该技术领域的整体发展状况并获取有价值的信息，掌握市场动态，预测技术发展趋势。本文旨在对人工智能产业中游的关键子技术的专利情况进行检索，统计分析当前人工智能关键技术的专利申请态势、技术构成等发展现状，并结合典型案例的诉讼概览，以期为本领域相关人员提供借鉴参考。<br />
+<br />
+<span style="color:#337FE5;"><strong>二、人工智能关键技术专利分析</strong></span><br />
+<br />
+本文基于IncoPat全球专利数据库，对人工智能产业中游的关键子技术的相关专利进行检索分析，采用了国际专利分类号（IPC分类号）与中英文关键词相结合的方式构建检索式，本文的数据采集时间截至2024年5月6日，数据统计口径为将IncoPat检索结果进行简单同族合并后的专利申请数量。<br />
+<br />
+<strong>（一）关键技术构成</strong><br />
+<br />
+人工智能是一个极为广泛的技术类别，其中游的核心技术构成包含知识图谱、自然语言处理、计算机视觉、智能语音、机器学习等五大核心子技术[4]。<br />
+<br />
+本文主要针对G06（计算、推算或计数）分类号下的涉人工智能的专利情况进行初步分析。在该分类号下，G06F与G06N的占比最高。上述五大关键技术均不止涉及一项技术分支，而是由多个技术分支共同搭建底层技术架构，这亦反映出人工智能技术的复杂性与交叉性。图1统计了五个核心子技术的主要技术构成（IPC分类）。由图1可见：<br />
+<br />
+涉知识图谱、自然语言处理的技术构成主要为G06F（电数字数据处理）与G06N（基于特定计算模型的计算机系）；<br />
+涉计算机视觉的技术构成主要为G06N与G06V（图像或视频识别或理解）；<br />
+涉智能语音的技术构成主要为G10L（语音分析或合成、语音识别、语音或声音处理、语音或音频编码或解码）与G06F；<br />
+涉机器学习的技术构成主要为G06N与G06F。<br />
+<br />
+此外，G06Q（专门适用于行政、商业、金融、管理、监督或预测目的的数据处理系统或方法）与G06K（图形数据读取、数据的呈现、 记录载体、处理记录载体）在五大核心技术中的占比亦较高。<br />
+<br />
+<div style="text-align:center;">
+	<img src="https://www.liu-shen.com/UploadFiles/image/20240718/20240718110852_6159.jpg" alt="" /> 
+</div>
+<div style="text-align:center;">
+	<span style="color:#337FE5;">图1 人工智能关键技术构成</span> 
+</div>
+<strong>（二）申请态势</strong><br />
+<br />
+图2展示了人工智能领域关键技术全球申请态势。在2016年以前，人工智能技术发展缓慢，全球专利申请数量尚不足1000件，2016年开始人工智能领域专利申请量急剧增长，并在2021年达到顶峰。2020年，中国国内的专利申请量首次超过国外总申请量，并持续保持增长态势。由于专利从申请至公布需持续一段时间，故2023年以后的申请数量尚未完全披露，数据无法完整体现其趋势。可见，人工智能技术生命周期还处于较为旺盛的阶段，且国内专利申请势头强劲。<br />
+<br />
+图3展示了人工智能关键技术分支全球专利申请态势。可见，G06F、G06N、G06Q、G06K、G06T、G06V分支的申请量占比较高，且呈现持续增长之势。一方面表明这些领域均为研究与应用热点，另一方面说明人工智能领域的相关技术在持续加强创新研发，竞争亦日趋激烈。<br />
+<br />
+<div style="text-align:center;">
+	<img src="https://www.liu-shen.com/UploadFiles/image/20240718/20240718110930_5225.jpg" alt="" /><br />
+</div>
+<div style="text-align:center;">
+	<span style="color:#337FE5;">图2 全球及国内外专利申请态势</span> 
+</div>
+<div style="text-align:center;">
+	<img src="https://www.liu-shen.com/UploadFiles/image/20240718/20240718110938_8194.jpg" alt="" /><br />
+</div>
+<div style="text-align:center;">
+	<span style="color:#337FE5;">图3 技术分支全球专利申请态势</span> 
+</div>
+<strong>（三）技术原创国和目标市场</strong><br />
+<br />
+图4展示了人工智能关键技术全球专利申请的技术原创国[5][Yali Shao1] [LS2] ，反映了专利技术在不同国家或地区的起源情况与研发活跃度。由图可见，人工智能关键技术在全球范围内专利申请的技术原创国主要集中在发达国家和新兴市场国家，中国、美国、韩国、日本、欧洲位居前列，具有显著的技术优势。其中，中国和美国的原创技术数量持续保持前两位，两国在人工智能技术领域研发投入较大，均在紧抓人工智能发展的重大战略机遇。同时，自2021年起，印度的专利申请数量开始跃居前五位序列，中国和印度成为2022年、2023年人工智能关键技术全球专利申请增长的主要推动力，亚洲成为人工智能关键技术研发最为活跃的地区。<br />
+<br />
+图5展示了人工智能关键技术全球专利申请的目标市场国[6]，反映了专利申请在相应的国家或地区的专利布局。与技术原创国相对应，人工智能关键技术全球范围内专利申请的技术目标市场分布中，中国、美国、韩国、欧洲、日本亦位居前列，人工智能关键技术的最大市场为中国，表明中国具有人工智能技术落地的巨大市场。<br />
+<br />
+<div style="text-align:center;">
+	<img src="https://www.liu-shen.com/UploadFiles/image/20240718/20240718111015_6011.jpg" alt="" /><br />
+</div>
+<div style="text-align:center;">
+	<span style="color:#337FE5;">图4 全球专利申请的技术原创国</span> 
+</div>
+<div style="text-align:center;">
+	<img src="https://www.liu-shen.com/UploadFiles/image/20240718/20240718111021_9611.jpg" alt="" /><br />
+</div>
+<div style="text-align:center;">
+	<span style="color:#337FE5;">图5 全球专利申请的目标市场国</span> 
+</div>
+<strong>（四）高引重点专利</strong><br />
+<br />
+通过对人工智能关键技术专利的被引征次数进行统计，表1展示了被引证次数排名前十的重点专利，这些专利被全球申请人频繁引用，属于该领域的核心专利，可供相关研发人员参考。同时，相比于中国的专利申请量，中国专利被引征量在世界范围内并没有取得优势，被引用次数排名前十的仅有两项中国专利。中国仍需要在核心技术上增大投入，实现突破性进展，从而带动人工智能领域的整体发展。<br />
+<div style="text-align:center;">
+	<img src="https://www.liu-shen.com/UploadFiles/image/20240718/20240718111051_7903.jpg" alt="" /><br />
+</div>
+<div style="text-align:center;">
+	<span style="color:#337FE5;">表1 高引重点专利</span> 
+</div>
+<strong><span style="color:#337FE5;">三、典型案例</span></strong><br />
+<br />
+该部分内容摘选中国和美国的设计人工智能的案例，供读者参考。由于人工智能为新兴技术，相关知识产权技术类案件仍处于初发阶段且数量较少。想必随着人工智能的应用领域的不断普及，相关案例会不断出现，且司法实践对其的探索也将不断深入，从而能够为AI领域的技术实践提供更完善的知识产权合规指引。<br />
+<br />
+<strong>（一）北京某科技有限公司、山西某钢铁公司等侵害发明专利权侵权案[7]</strong><br />
+<br />
+<strong>案情简介：</strong>原告北京某科技公司是专利号为201910958596.9（一种收储中的废钢等级分类检测方法）发明专利（以下简称涉案专利1）和专利号为201910958076.8（一种建立废钢等级划分神经网络模型方法）发明专利（以下简称涉案专利2）的专利权人，其发现山西某钢铁公司在公众号上发布名为《晋南钢铁集团人工智能废钢定级平台上线运行》的文章，该文所述人工智能废钢定级平台的技术方案分别落入涉案专利1、涉案专利2权利要求保护范围，遂诉至法院，请求判令被告停止使用涉案专利的行为，赔偿经济损失并承担诉讼费用。<br />
+<br />
+被告山西某钢铁公司辩称，涉案系统自2021年2月试运行以来，因存在技术问题一直未能通过验收，已于2021年12月全部停用。北京某科技公司以公众号文章、新闻报道为依据提起本案诉讼，属主观臆断，滥用诉讼权利。<br />
+<br />
+<strong>裁判提要：</strong>当事人对自己提出的诉讼请求所依据的事实或者反驳对方诉讼请求所依据的事实，应当提供证据加以证明，在作出判决前，当事人未能提供证据或者证据不足以证明其事实主张的，由负有举证证明责任的当事人承担不利的后果。原告提交微信公众号文章、相关网页新闻以及公证书作为证据，<u>未反映完整、具体的技术方案，无法与涉案专利权利要求的相关技术特征进行比对。</u>即使将被诉侵权技术方案与涉案专利1、涉案专利2进行比对，<u>也存在多个技术特征的不同，被诉侵权技术方案只要有一项技术特征不同，也不会落入涉案专利权的保护范围。</u>综上，原告所指控的专利侵权事实依据不足，本院不予支持。<br />
+<br />
+<strong>（二）谷歌被诉侵犯人工智能技术专利</strong><br />
+<br />
+2024年1月，波士顿联邦地区法院开庭审理了一起涉及谷歌侵犯人工智能技术专利的纠纷。原告Singular Computing公司的计算机科学家Joseph Bates要求谷歌赔偿16.7亿美元，因谷歌用于驱动人工智能技术的处理器涉嫌侵犯了其专利。<br />
+<br />
+原告律师表示，2010至2014年期间，Bates与谷歌分享了其计算处理创新技术，但谷歌在Bates不知情的情况下抄袭了其专利技术。据称，Bates的创新已被集成到谷歌的张量处理单元（TPU），用于支持谷歌搜索、Gmail、谷歌翻译内容生产等人工智能功能。根据诉讼披露的内部邮件，谷歌现任首席科学家Jeff Dean曾写信谈及Bates的想法可能非常适合谷歌正在开发的内容。谷歌的另一名员工也在一封电子邮件中称，自己深受Bates想法的影响。<br />
+<br />
+谷歌律师反驳称，设计芯片的员工从未见过Bates，芯片是谷歌独立设计的，与Singular的专利完全不同，谷歌已要求美国上诉法院驳回该诉讼。此外，据悉谷歌在另一起案件中还对Singular的专利提出了无效挑战。<br />
+<br />
+<strong><span style="color:#337FE5;">四、结语</span></strong><br />
+<br />
+人工智能技术具有巨大的研究价值和应用价值，将与新能源技术、生物技术共同引领中国经济转型升级。从国际贸易环境层面来看，我国人工智能产业发展应关注国际形势，以知识产权保障产业安全，有效应对国际压力。政府应当广泛开展海外专利布局相关培训，提高创新主体海外专利布局意识，推动产业形成国际竞争优势。从创新资源导入层面来看，科技公司仍是我国人工智能产业专利研发的主力，企业亦应积极与各高校、科研机构展开合作，推进产学研转化实施，结合各高校专业研究方向培育产业高价值专利，以专利大数据为标尺，在各个细分领域中进行精准检索和判断，培育高质量专利，增强核心竞争力推动我国从人工智能“专利大国”迈向“专利强国”。<br />
+<br />
+在诉讼风险方面，人工智能产业相关企业应密切关注国际形势的变化，特别是与产业关联的合作规则与要求的变化，形成知识产权预警意识，有效防控和应对国际纠纷。知识产权主管部门也应建立基于专利信息预警的风险监控机制，并定期组织创新企业、知识产权服务机构分享知识产权诉讼案例，在尊重他人知识产权、人格权的同时，高质量保护自身的创新成果。同时，在专利诉讼过程中，亦应注重有效证据的收集整理，避免因事实依据不足而被法院驳回诉请。<br />
+<br />
+随着人工智能技术的发展，以人工智能推动生产力整体跃升、加快形成新质生产力的路径越发明晰。以专利制度为保障，及时关注人工智能关键技术的专利发展动向，疏通当前人工智能产业发展存在的堵点，无疑对于推动我国经济社会高质量发展具有重要意义。<br />
+<br />
+<span style="color:#337FE5;">本文感谢实习生许瑞宁的贡献。</span><br />
+<br />
+<span style="color:#999999;">[1] 测算结果来自于《2023年中国人工智能产业研究报告》，艾瑞咨询，2024年4月21日，微信公众号“艾瑞咨询”。</span><br />
+<span style="color:#999999;">[2] 来源：中国政府网《政府工作报告——2024年3月5日在第十四届全国人民代表大会第二次会议上》</span><br />
+<span style="color:#999999;">[3] 转引自：光明网《国家工信安全中心、工信部电子知识产权中心发布&lt;新一代人工智能专利技术分析报告&gt;》</span><br />
+<span style="color:#999999;">[4]&nbsp; 人工智能专利所涉范围极广，如人工智能硬件，本文的分析集中于五大核心子技术，其他人工智能相关专利未被涵盖在本文讨论之中，关于具体所涉子技术类型，可见链接</span><br />
+<span style="color:#999999;">https://www.uspto.gov/ip-policy/economic-research/research-datasets/artificial-intelligence-patent-dataset</span><br />
+<span style="color:#999999;">[5] 技术原创国，以主要相关专利申请的申请人国别进行统计，能够反映技术的原始产出国的分布。图4的统计口径为2015年—2024年期间，每年专利申请数量排名前五的国家，即申请人国别。</span><br />
+<span style="color:#999999;">[6] 目标市场国，是指某项专利技术的布局国家，主要以各国家/地区专利受理局的相关专利受理量进行统计，能够反映市场的竞争情况。图5的统计口径为2015年—2024年期间，每年专利公开数量排名前五的国家，即体现申请人倾向于在哪些国家提出专利申请。</span><br />
+<span style="color:#999999;">&nbsp;[Yali Shao1]感觉申请人国别不等同于技术原创国，例如以微软美国的名义提交的申请其技术原创并不一定源自美国。</span><br />
+<span style="color:#999999;">&nbsp;[LS2]“技术原创国”和“目标市场国”是专利分析报告的常见的两个统计口径。用于反映技术来源和市场热度。</span><br />
+<span style="color:#999999;">在备注中明确了两个名称的统计口径和作用。</span><br />
+<span style="color:#999999;">如参考以下链接：https://zhuanlan.zhihu.com/p/645524034</span><br />
+<span style="color:#999999;">https://www.163.com/dy/article/CU5H8BRR0511DV4H.html</span><br />
+<span style="color:#999999;">[7]北京某科技有限公司、山西某钢铁公司等侵害发明专利权纠纷案， (2023)最高法知民终1432号判决书</span><br />
+    
+   
+            </div>
+        </div>
+        <div class="related">
+            <div class="box2">
+                <h3>相关动态：</h3>
+                <ul>
+                        
+            <li><li><a title="文章精选 | 各国专利延迟审查的比较和建议" href="https://www.liu-shen.com/Content-3569.html">文章精选 | 各国专利延迟审查的比较和建议</a></li></li><li><li><a title="合规系列文章 | 企业反垄断合规实务操作系列分享之四：反垄断合规培训" href="https://www.liu-shen.com/Content-3564.html">合规系列文章 | 企业反垄断合规实务操作系列分享之四：反垄断合规培训</a></li></li><li><li><a title="合规系列文章 | 企业反垄断合规实务操作系列分享之三：反垄断合规审查" href="https://www.liu-shen.com/Content-3560.html">合规系列文章 | 企业反垄断合规实务操作系列分享之三：反垄断合规审查</a></li></li><li><li><a title="合规系列文章 | 企业反垄断合规实务操作系列分享之二：反垄断合规风险评估与防控" href="https://www.liu-shen.com/Content-3559.html">合规系列文章 | 企业反垄断合规实务操作系列分享之二：反垄断合规风险评估与防控</a></li></li><li><li><a title="知海拾贝｜关于最高院适用“禁止反悔原则”的司法裁判标准研究" href="https://www.liu-shen.com/Content-3558.html">知海拾贝｜关于最高院适用“禁止反悔原则”的司法裁判标准研究</a></li></li><li><li><a title="文章精选 | IPR程序在美国337调查中的有效利用" href="https://www.liu-shen.com/Content-3557.html">文章精选 | IPR程序在美国337调查中的有效利用</a></li></li>
+          
+                
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!--底部版权 S-->
+     <footer>
+        <div class="footer-nav">
+            <a href="https://www.liu-shen.com/Node-1.html">网站首页</a><span class="pre">|</span>
+            <a href="https://www.liu-shen.com/Node-10.html" target="_blank">招聘信息</a><span class="pre">|</span>
+            <a href="https://www.liu-shen.com/Node-7.html" target="_blank">业务指南</a><span class="pre">|</span>
+            <a href="https://www.liu-shen.com/Node-12.html" target="_blank">网站地图</a>
+        </div>
+        <p>
+		    北京市柳沈律师事务所<br />
+            Copyright LIU, SHEN & ASSOCIATES 1993-2024 All Rights Reserved.<br />
+            <a href="https://beian.miit.gov.cn">京ICP备13010517号-1</a>  京公网安备11010802013582
+        </p>
+    </footer>
+    <!--公用js S-->
+    <script type="text/javascript">
+	$("#nav").slide({type:"menu",titCell:".nli",targetCell:".sub",effect:"slideDown",delayTime:150 ,triggerTime:150,returnDefault:true});
+	$(".banner").slide({mainCell:".bd ul",autoPlay:true});
+    </script>
+
+</body>
+</html>
+
+<!-- ParserInfo: Processed in 0.1398722 second(s) Ticks:1398722 -->

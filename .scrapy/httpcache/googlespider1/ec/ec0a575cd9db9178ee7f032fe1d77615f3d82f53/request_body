@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.explinks.com/wiki/ai-history/",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.explinks.com/wiki/ai-history/",
+    "wait": 6
+}

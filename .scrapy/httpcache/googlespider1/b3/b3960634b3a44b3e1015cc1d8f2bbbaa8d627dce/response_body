@@ -1,0 +1,870 @@
+<!DOCTYPE html><html class="subsite ai article"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
+  <meta name="referrer" content="unsafe-url">
+  
+	  <link rel="canonical" href="https://m.ofweek.com/ai/2020-12/ART-201721-11000-30474314.html">
+	  		<title>人工智能定义、分类与应用详解 - OFweek人工智能网</title>
+	  	<meta name="keywords" content="人工智能,AI智能,AI">
+	  	<meta name="description" content="众所周知，刷脸认证、自动驾驶、大数据推送、智能音箱、手术机器人……人工智能被广泛应用于各个领域，由此引起的数据伪造、算法瓶颈、隐私安全、伦理困境等问题也日益凸显。“AI基础设施建设亟需从自身底层能力">
+  <meta name="author" content="Steven">
+  <link rel="stylesheet" href="//m.ofweek.com/css/swiper.min.css">
+  	<link rel="stylesheet" href="//m.ofweek.com/research/layer/mobile/need/layer.css">
+  	<link rel="stylesheet" href="//m.ofweek.com/css/article.css?v=1201">
+  	<link rel="stylesheet" href="//m.ofweek.com/css/article_comment.css">
+  <link rel="apple-touch-icon-precomposed" href="//m.ofweek.com/img/favicon.png">
+  <link rel="icon" href="//m.ofweek.com/img/favicon.png">
+   <script src="//hm.baidu.com/hm.js?af50e2fc51af73da7720fb324b88a975"></script><script type="text/javascript" src="//m.ofweek.com/newsite/js/fastclick.js"></script>
+   <script type="text/javascript" src="//m.ofweek.com/newsite/js/lottie.min.js"></script>
+<style>.gmu-media-detect{-webkit-transition: width 0.001ms; width: 0; position: absolute; clip: rect(1px, 1px, 1px, 1px);}
+@media screen and (width: 1024px) { #gmu-media-detect0 { width: 1px; } }
+</style><link href="https://m.ofweek.com/research/layer/mobile/need/layer.css?2.0" type="text/css" rel="styleSheet" id="layermcss"></head>
+
+<body style="-webkit-tap-highlight-color: rgba(255, 255, 255, 0);">
+	  	<div id="article_id_top1" class="top-advertisement nav-top-ad article-top-advertisement"><a href="//ad.ofweek.com/adVisit/adSkipper?zoneId=422&amp;bigclass=201700&amp;advId=3647&amp;adLink=https%3A%2F%2Fwww.gdecexpo.com%2F"><img src="//images.ofweek.com/images/ofweekads/750X118_1731394840091.gif" target="_Blank"></a></div>
+		
+	    <header id="header" class="clearfix news-header relative">
+		    <div class="go_home fl">
+		      <a href="//m.ofweek.com/">
+		        <img src="//m.ofweek.com/img/home.png">
+		      </a>
+		    </div>
+		    <div class="logo">
+		      <a href="javascript:;">
+		        <img src="//m.ofweek.com/newsite/images/logo.png">
+		      </a>
+		    </div>
+		    <div class="head-r fr" style="position: absolute;right: 1rem;top: 50%;transform: translateY(-50%);">
+		      <a href="javascript:;" class="search" style="width: 2rem;height: 2rem;" id="animation"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70" width="70" height="70" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px);"><defs><clipPath id="animationMask_j7YUREd42t"><rect width="70" height="70" x="0" y="0"></rect></clipPath></defs><g clip-path="url(#animationMask_j7YUREd42t)"><g transform="matrix(2.7300000190734863,0,0,2.7300000190734863,33.89250183105469,39.95249938964844)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0.335999995470047,-8.477999687194824)"><path fill="rgb(0,0,0)" fill-opacity="1" d=" M8.398500442504883,-0.4595000147819519 C8.398500442504883,-0.4595000147819519 8.398500442504883,0.4595000147819519 8.398500442504883,0.4595000147819519 C8.398500442504883,0.4595000147819519 -8.398500442504883,0.4595000147819519 -8.398500442504883,0.4595000147819519 C-8.398500442504883,0.4595000147819519 -8.398500442504883,-0.4595000147819519 -8.398500442504883,-0.4595000147819519 C-8.398500442504883,-0.4595000147819519 8.398500442504883,-0.4595000147819519 8.398500442504883,-0.4595000147819519z"></path></g></g><g transform="matrix(2.7300000190734863,0,0,2.7300000190734863,33.89250183105469,78.00050354003906)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0.335999995470047,-8.477999687194824)"><path fill="rgb(0,0,0)" fill-opacity="1" d=" M8.398500442504883,-0.4595000147819519 C8.398500442504883,-0.4595000147819519 8.398500442504883,0.4595000147819519 8.398500442504883,0.4595000147819519 C8.398500442504883,0.4595000147819519 -8.398500442504883,0.4595000147819519 -8.398500442504883,0.4595000147819519 C-8.398500442504883,0.4595000147819519 -8.398500442504883,-0.4595000147819519 -8.398500442504883,-0.4595000147819519 C-8.398500442504883,-0.4595000147819519 8.398500442504883,-0.4595000147819519 8.398500442504883,-0.4595000147819519z"></path></g></g><g transform="matrix(2.7300000190734863,0,0,2.7300000190734863,33.89250183105469,58.89324188232422)" opacity="1" style="display: block;"><g opacity="1" transform="matrix(1,0,0,1,0.335999995470047,-8.477999687194824)"><path fill="rgb(0,0,0)" fill-opacity="1" d=" M8.398500442504883,-0.4595000147819519 C8.398500442504883,-0.4595000147819519 8.398500442504883,0.4595000147819519 8.398500442504883,0.4595000147819519 C8.398500442504883,0.4595000147819519 -8.398500442504883,0.4595000147819519 -8.398500442504883,0.4595000147819519 C-8.398500442504883,0.4595000147819519 -8.398500442504883,-0.4595000147819519 -8.398500442504883,-0.4595000147819519 C-8.398500442504883,-0.4595000147819519 8.398500442504883,-0.4595000147819519 8.398500442504883,-0.4595000147819519z"></path></g></g></g></svg></a>
+		    </div>
+		  </header>
+  
+
+<div id="dropmenu">
+    <nav>
+	     
+	   <div class="nav-box">
+        <h3>频道：</h3>
+        <ul class="channel-list">
+          <li>
+            <a href="http://ai.m.ofweek.com/CATList-201700-8100-ai.html">资讯</a> 
+	      	<a href="http://ai.m.ofweek.com/CATList-201700-8400-ai.html">市场</a> 
+	      	<a href="http://ai.m.ofweek.com/CATList-201700-8300-ai.html">技术</a> 
+	        <a href="http://ai.m.ofweek.com/CATList-201700-8200-ai.html">新品</a>
+          </li>
+          <li>
+            <a href="http://ai.m.ofweek.com/newslist-finance.html">财经</a> 
+	        <a href="http://ai.m.ofweek.com/CATList-201700-8600-ai.html">访谈</a> 
+	      	<a href="http://ai.m.ofweek.com/CATList-201700-8500-ai.html">视点</a>
+	        <a href="http://ai.m.ofweek.com/newslist-exhibition.html">展会</a>
+          </li>
+        </ul>
+      </div>
+        <div class="nav-box">
+		    	<h3>技术：</h3>
+        	<div class="nav-list">
+		       <a href="/CAT-201712-cloud.html">云计算</a>
+		       <a href="/CAT-201713-bigdata.html">大数据</a>
+		       <a href="/CAT-201714-hdc.html">核心硬件</a>
+		       <a href="/CAT-201715-os.html">操作系统</a>
+		       <a href="/CAT-201716-cpv.html">计算机视觉</a>
+		       <a href="/CAT-201717-ml.html">机器学习</a>
+		       <a href="/CAT-201718-nlp.html">自然语言处理</a>
+		       <a href="/CAT-201719-sprg.html">语音识别</a>
+		       <a href="/CAT-201720-prg.html">模式识别</a>
+		       <a href="/CAT-201721-qita.html">其他</a>
+            </div>
+        </div>
+        
+	        <div class="nav-box">
+	    	<h3>应用：</h3>
+	        	<div class="nav-list">
+		              <a href="//ai.m.ofweek.com/CAT-201701-robot.html">机器人</a>
+		              <a href="//ai.m.ofweek.com/CAT-201702-industry.html">工业4.0</a>
+		              <a href="//ai.m.ofweek.com/CAT-201703-smarthome.html">智能家居</a>
+		              <a href="//ai.m.ofweek.com/CAT-201704-uavs.html">无人系统</a>
+		              <a href="//ai.m.ofweek.com/CAT-201705-vas.html">虚拟助理</a>
+		              <a href="//ai.m.ofweek.com/CAT-201706-bi.html">商业智能</a>
+		              <a href="//ai.m.ofweek.com/CAT-201707-wearable.html">可穿戴</a>
+		              <a href="//ai.m.ofweek.com/CAT-201708-security.html">安防</a>
+		              <a href="//ai.m.ofweek.com/CAT-201709-medical.html">医疗</a>
+		              <a href="//ai.m.ofweek.com/CAT-201710-Finance.html">金融</a>
+		              <a href="//ai.m.ofweek.com/CAT-201711-qita.html">其他</a>
+	            </div>
+	        </div>
+    
+	<form action="/search.html" method="get" class="w-search js-search">
+        <input type="text" name="q">
+        <button type="submit">搜索</button>
+    </form>
+    </nav>
+    <div class="w-mask"></div>
+  </div>  
+<div id="dropmenu-subsite">
+    <nav>
+      <header>
+        <a class="cancel">取消</a>
+        <span>当前站点：<strong>人工智能网</strong></span>
+      </header>
+      <h2>行业站点：<a href="//m.ofweek.com">门户首页</a> </h2>
+      <ul>
+      	<li>
+	      	<a href="//lights.m.ofweek.com">半导体照明</a> 
+	        <a href="//ee.m.ofweek.com">电子工程</a>
+	        <a href="//gongkong.m.ofweek.com/">工控</a> 
+	        <a href="//laser.m.ofweek.com">激光</a>
+        </li>
+        <li>
+	        <a href="//solar.m.ofweek.com">太阳能光伏</a> 
+	        <a href="//smarthome.m.ofweek.com/">智能家居</a> 
+	        <a href="//robot.m.ofweek.com/">机器人</a> 
+	        <a href="//display.m.ofweek.com/">显示</a>
+        </li>
+        <li>
+	        <a href="//nev.m.ofweek.com/">新能源汽车</a>
+	        <a href="//3dprint.m.ofweek.com/">3D打印</a>
+	        <a href="//fiber.m.ofweek.com/">光通讯</a> 
+	        <a href="//libattery.m.ofweek.com/">锂电</a> 
+        </li>
+        <li>
+	        <a href="//wearable.m.ofweek.com/">可穿戴设备</a>
+	        <a href="//ecep.m.ofweek.com/">节能环保</a>
+	        <a href="//medical.m.ofweek.com/">医疗</a>
+	        <a href="//smartgrids.m.ofweek.com/">智能电网</a>
+        </li>
+        <li>
+	        <a href="//iot.m.ofweek.com/">物联网</a>
+	        <a href="//sensor.m.ofweek.com/">传感器网</a>
+	        <a href="//instrument.m.ofweek.com/">仪器仪表</a>
+	        <a href="//security.m.ofweek.com/">安防</a>
+        </li>
+        <li>
+        	<a href="//vr.m.ofweek.com/">VR</a>
+	        <a href="//auto.m.ofweek.com/">汽车</a>
+	        <a href="//tele.m.ofweek.com/">通信</a>
+	        <a href="//znyj.m.ofweek.com/">智能硬件</a>
+        </li>
+        <li>
+        	<a href="//windpower.m.ofweek.com/">风电</a>
+	        <a href="//power.m.ofweek.com/">电力</a>
+	        <a href="//live.ofweek.com/wap/">直播</a>
+	        <a href="//expo.ofweek.com/wap/hall.xhtml">品牌展厅</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="w-mask"></div>
+</div>
+  
+<nav class="index-nav" id="index-nav">
+		<div class="active"> 
+			<span class="first-li-unfold  animated slideInUp">
+				<span class="first-li li-add"><a href="//m.ofweek.com" data-id="100" style="color: red;">推荐</a> </span>
+	              	<span class="li-add"><a class="" data-pid="6000" href="//solar.m.ofweek.com">太阳能光伏</a></span>
+	              	<span class="li-add"><a class="" data-pid="898800" href="//robot.m.ofweek.com">机器人</a></span>
+	              	<span class="li-add"><a class="" data-pid="4000" href="//laser.m.ofweek.com">激光</a></span>
+	              	<span class="li-add"><a class="" data-pid="16000" href="//libattery.m.ofweek.com">锂电</a></span>
+	              	<span class="li-add"><a class="" data-pid="11000" href="//iot.m.ofweek.com">物联网</a></span>
+	              	<span class="li-add"><a class="" data-pid="692007" href="//lights.m.ofweek.com">半导体照明</a></span>
+	              	<span class="li-add"><a class="" data-pid="201700" href="//ai.m.ofweek.com">人工智能</a></span>
+	              	<span class="li-add"><a class="" data-pid="879100" href="//gongkong.m.ofweek.com">工控</a></span>
+	              	<span class="li-add"><a class="" data-pid="103100" href="//medical.m.ofweek.com">医疗科技</a></span>
+	              	<span class="li-add"><a class="" data-pid="692028" href="//display.m.ofweek.com">显示</a></span>
+	              	<span class="li-add"><a class="" data-pid="879012" href="//ee.m.ofweek.com">电子工程</a></span>
+	              	<span class="li-add"><a class="" data-pid="201900" href="//m.ofweek.com/im/">智能制造</a></span>
+	              	<span class="li-add"><a class="" data-pid="5000" href="//wearable.m.ofweek.com">可穿戴设备</a></span>
+	              	<span class="li-add"><a class="" data-pid="911000" href="//smarthome.m.ofweek.com">智能家居</a></span>
+	              	<span class="li-add"><a class="" data-pid="201800" href="//smartcity.m.ofweek.com">智慧城市</a></span>
+	              	<span class="li-add"><a class="" data-pid="190500" href="//m.ofweek.com/smartocean/">智慧海洋</a></span>
+	              	<span class="li-add"><a class="" data-pid="88000" href="//sensor.m.ofweek.com">传感器</a></span>
+	              	<span class="li-add"><a class="" data-pid="77000" href="//nev.m.ofweek.com">新能源汽车</a></span>
+	              	<span class="li-add"><a class="" data-pid="180800" href="//m.ofweek.com/hydrogen/">氢能</a></span>
+	              	<span class="li-add"><a class="" data-pid="178800" href="//cloud.m.ofweek.com">云计算</a></span>
+	              	<span class="li-add"><a class="" data-pid="180200" href="//chuneng.m.ofweek.com">储能</a></span>
+	              	<span class="li-add"><a class="" data-pid="180400" href="//xincailiao.m.ofweek.com">新材料</a></span>
+	              	<span class="li-add"><a class="" data-pid="11500" href="//3dprint.m.ofweek.com">3D打印</a></span>
+	              	<span class="li-add"><a class="" data-pid="987000" href="//ecep.m.ofweek.com">环保</a></span>
+	              	<span class="li-add"><a class="" data-pid="897251" href="//instrument.m.ofweek.com">仪器仪表</a></span>
+	              	<span class="li-add"><a class="" data-pid="51000" href="//security.m.ofweek.com">安防</a></span>
+	              	<span class="li-add"><a class="" data-pid="681500" href="//vr.m.ofweek.com">VR</a></span>
+	              	<span class="li-add"><a class="" data-pid="897512" href="//windpower.m.ofweek.com">风电</a></span>
+	              	<span class="li-add"><a class="" data-pid="879083" href="//smartgrids.m.ofweek.com">智能电网</a></span>
+	              	<span class="li-add"><a class="" data-pid="71100" href="//m.ofweek.com/auto/">智能汽车</a></span>
+	              	<span class="li-add"><a class="" data-pid="2000" href="//fiber.m.ofweek.com">光通讯</a></span>
+	              	<span class="li-add"><a class="" data-pid="898000" href="//tele.m.ofweek.com">通信</a></span>
+	              	<span class="li-add"><a class="" data-pid="15000" href="//power.m.ofweek.com">电力</a></span>
+	              	<span class="li-add"><a class="" data-pid="123000" href="//znyj.m.ofweek.com">智能硬件</a></span>
+	              	<span class="li-add"><a class="" data-pid="14000" href="//lighting.m.ofweek.com">照明</a></span>
+	              	<span class="li-add"><a class="" data-pid="898500" href="//dianyuan.m.ofweek.com">电源</a></span>
+	              	<span class="li-add"><a class="" data-pid="3000" href="//optics.m.ofweek.com">光学</a></span>
+	            <span class="li-add"><a class="producttypehidden" data-pid="101" href="//m.ofweek.com/news/newsCenter">资讯</a></span>
+	            <span class="li-add"><a class="producttypehidden" data-pid="104" href="//m.ofweek.com/CATList-8400-SHICHANGYUANJIU.html">市场</a></span>
+	            <span class="li-add"><a class="producttypehidden" data-pid="103" href="//m.ofweek.com/CATListNew-73000-0.html">技术</a></span>
+	            <span class="li-add"><a class="producttypehidden" data-pid="110" href="//m.ofweek.com/CATListNew-74000-0.html">应用</a></span>
+	            <span class="li-add"><a class="producttypehidden" data-pid="105" href="//m.ofweek.com/newslist-finance.html">财经</a></span>
+			   	<span class="li-add"><a class="producttypehidden" data-pid="106" href="//m.ofweek.com/CATList-8600-GAODUANFANGTAN.html">访谈</a></span>
+			   	<span class="li-add"><a class="producttypehidden" data-pid="102" href="//m.ofweek.com/CATListNew-29000-19000.html">新品</a></span>
+				<span class="li-add"><a class="producttypehidden" data-pid="109" href="//m.ofweek.com/newslist-exhibition.html">展会</a></span>
+
+				<span class="li-add l_blocking"><span class="xiajiantou-top" id=""><i class="iconfont icon-xiangshangjiantou"></i></span></span>
+			</span>
+		</div>
+		<!-- mask是一个全屏的遮罩层 -->
+		<div class="nav-mask"></div>
+	</nav>
+  <div id="main" class="cnt-news" style="margin-top: 0px;">
+<div class="top-advertisement top-advertisement-main" style="display:none;"></div>
+
+<div class="adtext ofad_text_link_top" style="display:none;">
+</div>    <section class="news-content">
+      <h1>人工智能定义、分类与应用详解</h1>
+      <div class="from" style="height: 2.8rem;">
+    	<div style="float: left;width: 65%;">
+    		<a class="source" style="display: block;overflow: hidden;text-overflow:ellipsis;white-space: nowrap;color: #0e81bb;" href="https://mp.ofweek.com/m034512419885" rel="nofollow">21IC电子网</a>
+       	 	<time>2020-12-11 16:30</time>
+    	</div>
+    	
+        <a class="setfont1" href="https://mp.ofweek.com/m034512419885" rel="nofollow">关注</a>
+      </div>
+      <article id="js-art" style="font-size: 18px;">
+      	<div class="text_con">
+      	<p style="text-indent: 2em; text-align: left;">	众所周知，刷脸认证、自动驾驶、大数据推送、智能音箱、手术机器人……人工智能被广泛应用于各个领域，由此引起的数据伪造、算法瓶颈、隐私安全、伦理困境等问题也日益凸显。“AI基础设施建设亟需从自身底层能力增强出发，以内生驱动力突破算法关、数据关、应用关三大关卡，向算法可靠、数据安全和应用可控的第三代人工智能迈进。</p><p style="text-indent: 2em; text-align: left;">	<strong>一、什么是人工智能？</strong></p><p style="text-indent: 2em; text-align: left;">	人工智能（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。</p><p style="text-indent: 2em; text-align: left;">	人工智能是计算机科学的一个分支，它企图了解智能的实质，并生产出一种新的能以人类智能相似的方式做出反应的智能机器，该领域的研究包括机器人、语言识别、图像识别、自然语言处理和专家系统等。人工智能从诞生以来，理论和技术日益成熟，应用领域也不断扩大，可以设想，未来人工智能带来的科技产品，将会是人类智慧的“容器”。人工智能可以对人的意识、思维的信息过程的模拟。人工智能不是人的智能，但能像人那样思考、也可能超过人的智能。</p><p style="text-align:center"><img src="http://mp.ofweek.com/data/images/21ic/2020-12-11/1ce3d72773c54f199f6ca7ac99005076.png" alt=""></p><p style="text-indent: 2em; text-align: left;">	人工智能是一门极富挑战性的科学，从事这项工作的人必须懂得计算机知识，心理学和哲学。人工智能是包括十分广泛的科学，它由不同的领域组成，如机器学习，计算机视觉等等，总的说来，人工智能研究的一个主要目标是使机器能够胜任一些通常需要人类智能才能完成的复杂工作。但不同的时代、不同的人对这种“复杂工作”的理解是不同的。 2017年12月，人工智能入选“2017年度中国媒体十大流行语”。</p><p style="text-indent: 2em; text-align: left;">	<strong>二、人工智能的分类</strong></p><p style="text-indent: 2em; text-align: left;">	人工智能的定义可以分为两部分，即“人工”和“智能”。“人工”比较好理解，争议性也不大。有时我们会要考虑什么是人力所能及制造的，或者人自身的智能程度有没有高到可以创造人工智能的地步，等等。但总的来说，“人工系统”就是通常意义下的人工系统。</p><p style="text-indent: 2em; text-align: left;">	关于什么是“智能”，就问题多多了。这涉及到其它诸如意识（CONSCIOUSNESS）、自我（SELF）、思维（MIND）（包括无意识的思维（UNCONSCIOUS＿MIND））等等问题。人唯一了解的智能是人本身的智能，这是普遍认同的观点。但是我们对我们自身智能的理解都非常有限，对构成人的智能的必要元素也了解有限，所以就很难定义什么是“人工”制造的“智能”了。因此人工智能的研究往往涉及对人的智能本身的研究。其它关于动物或其它人造系统的智能也普遍被认为是人工智能相关的研究课题。</p>
+      	</div>
+      	
+      	<div class="m-page mask_line_fff">
+          <a id="allContent" data-url="/news/getNextPage.html?detailid=30474314&amp;pageno=1" class="viewall js-viewall">余下全文 1/2</a>
+        </div>
+      	
+	        <div class="m-page">
+	          <a id="homePage" class="prev disabled">上一页</a>
+	          <a id="nextPage" href="https://m.ofweek.com/ai/2020-12/ART-201721-11000-30474314_2.html" class="next">下一页</a>
+	        </div>
+      </article>
+      
+      <div style="padding: 8px 0; font-size: 13px; color: #919191;">
+      	<span>
+      		<b>声明：</b> 
+		      	本文系OFweek根据授权转载自其它媒体或授权刊载，目的在于信息传递，并不代表本站赞同其观点和对其真实性负责，如有新闻稿件和图片作品的内容、版权以及其它问题的，请联系我们。
+      		<br><a style="color: #1a4991;" href="javascript:openJubao();">侵权投诉</a>
+      	</span>
+      </div>
+      
+    </section>
+    
+    <p class="download-tips"><a href="javascript:openApp();">下载OFweek，一手掌握高科技全行业资讯</a></p> 
+	<input type="hidden" id="keywordsHidden" value="人工智能,AI智能,AI">
+    
+<div class="middle-advertisement" style="display:none;"></div>
+
+<div class="adtext ofad_text_link_center">
+<a href="//ad.ofweek.com/adVisit/adSkipper?zoneId=158&amp;bigclass=201700&amp;advId=3635&amp;adLink=https%3A%2F%2Fforms.ofweek.com%2FForm%2Fpreview%2Fform_id%2F1881" target="_Blank">11月20日 2024 智能家居出海论坛 火热报名中&gt;&gt;&gt;</a></div>	
+	<section class="w-cnt w-cnt-news news-related">
+	      <h2 class="title relationNewsTitle">相关推荐</h2>
+		      <div class="relationNewsBody">
+			      			<a href="https://m.ofweek.com/ai/tag-人工智能.HTM">人工智能</a>
+			      			<a href="https://m.ofweek.com/ai/tag-AI智能.HTM">AI智能</a>
+			      			<a href="https://m.ofweek.com/ai/tag-AI.HTM">AI</a>
+		      </div>
+	      
+	      <div class="clearDiv"></div>
+<br>
+<div class="recommend-down-advertisement" style="display:none;"></div>
+
+</section></div>	      <ul class="w-list" style="padding: 0px 10px;box-sizing: border-box;">
+	      	
+		        <li class="w-list-item">
+	                <a href="https://m.ofweek.com/ai/2024-11/ART-201700-8420-30649622.html">人工智能融资趋于平缓，华为、小米、荣耀、OPPO持续追击AI能力，C端莫辜负
+			            <div class="three_img">
+			              <img src="https://mp.ofweek.com/Upload/News/Img/member52913/202411/wx_article__d6ff9e8067a64de937d69bff9cc4058a_208_134_thumb.jpg">
+			              <img src="https://mp.ofweek.com/Upload/News/Img/member52913/202411/wx_article__df8f2738539b4ee16c4f94e9c3647698_208_134_thumb.jpg">
+			              <img src="https://mp.ofweek.com/Upload/News/Img/member52913/202411/wx_article__193777b6fe950e79fe6e52c663bd963f_208_134_thumb.jpg">
+			            </div>
+			        </a>
+		        </li>
+		        <li class="w-list-item">
+	            	<a href="https://m.ofweek.com/ai/2024-07/ART-201721-8120-30639780.html">AI大模型让智慧交通“更聪明” 海信亮相2024世界人工智能大会</a>
+		        </li>
+		        <li class="w-list-item">
+	                <a href="https://m.ofweek.com/ai/2024-07/ART-201700-8110-30639645.html">2024世界人工智能大会 | 格创东智：强化AI+工业核心技术，打造新质生产力
+			            <div class="three_img">
+			              <img src="https://mp.ofweek.com/Upload/News/Img/member18733/202407/05140146892726_208_134_thumb.png">
+			              <img src="https://mp.ofweek.com/Upload/News/Img/member18733/202407/05140314489572_208_134_thumb.png">
+			              <img src="https://mp.ofweek.com/Upload/News/Img/member18733/202407/05140350977607_208_134_thumb.png">
+			            </div>
+			        </a>
+		        </li>
+		        <li class="w-list-item">
+					<div class="info-wrap one_img_text">
+			            <a href="https://m.ofweek.com/ai/2024-07/ART-201714-8120-30639234.html">【维科杯】楼氏电子参评“维科杯·OFweek 2024人工智能行业优秀AI赋能案例奖”</a>
+			        </div>
+			        <div class="thumb fn-fr one_img">
+			            <img src="https://images.ofweek.com/Upload/NewsList/20247/17198844055017021676265514882599.png">
+			        </div>
+		        </li>
+		        <li class="w-list-item">
+					<div class="info-wrap one_img_text">
+			            <a href="https://m.ofweek.com/ai/2024-06/ART-201700-8500-30638652.html">人工智能城市竞争力100强：谁才是AI第一城？</a>
+			        </div>
+			        <div class="thumb fn-fr one_img">
+			            <img src="https://mp.ofweek.com/Upload/News/Img/member45665/202406/wx_article__15dd6f00b5bb7bc8162051c3b026b523_208_134_thumb.jpg">
+			        </div>
+		        </li>
+	      </ul>
+    
+	
+<!-- 评论 开始 -->
+    <section class="comment">
+      <div id="pinglun" name="pinglun" class="denglu">
+
+        <div class="comment_show">
+            <ul class="comment_classify_btn" style="border: 0px;">
+              <li>
+                <a href="javascript:">评论 (
+                  <span id="join_comment_num" style="color:#EB6161;">0</span> )</a>
+              </li>
+            </ul>
+          <div class="comment_show_content article_comments" id="newestComment">
+            <p class="comment_txt_p" id="noComments" style="color: red; margin-left: 10px;">暂无评论</p>
+            <a href="javascript:openAllComments();" id="check_all" style="display:none;">查看全部评论</a>
+          </div>
+
+
+        </div>
+        <div class="upLoad"></div>
+      </div>
+    </section>
+    
+    <script id="template_comment" type="text/template">
+    	<%　for(var i=0;i<list.length;i++){ %>
+			<% 
+				var comment=list[i];
+				if(!comment.touxiangURL){
+          			comment.touxiangURL='\/\/m.ofweek.com/img/head.png';
+          		} 
+          		if(comment.supportCount==0){
+          			comment.supportCount='';
+          		}
+			  %>
+    		<div class="comment_sc">
+              <div class="comment_sc_head fn-fl">
+                <img src="<%=comment.touxiangURL %>" />
+              </div>
+              <div class="fn-fr comment_sc_con">
+                <div class="comment_sc_title">
+                  <div class="fn-fl"><%=comment.nick %></div>
+                  <div class="fn-fr ">
+                  	<% if(isCommentDianzan(comment.CommentID)){ %>
+                    	<img src="//m.ofweek.com/img/good.png" class="likeOld hid">
+                    	<img src="//m.ofweek.com/img/good_link.png" class="likeNew">
+                    <% }else{%>
+                    	<img src="//m.ofweek.com/img/good.png" class="likeOld">
+                    	<img src="//m.ofweek.com/img/good_link.png" class="hid likeNew">
+                    <%}%>
+                    <span class="likeNum" data-commentid="<%=comment.CommentID %>"><%=comment.supportCount %></span>
+                  </div>
+                  <% if(comment.replayCount<=0){%>
+                  	<div class="fn-fr">
+	                    <a href="javascript:openReplyComments('<%=comment.CommentID %>');">回复你</a>
+	                </div>
+                  <% } %>
+                </div>
+                <div class="comment_sc_main">
+                  <p><%=comment.Content %></p>
+                  <div class="comment_sc_time"><%=comment.addtimestr %> &nbsp;&nbsp;<%=comment.province %> </div>
+                  <% if(comment.replayCount>0){%>
+                  	<div class="reply" data-commentid="<%=comment.CommentID %>">查看<span><%=comment.replayCount %></span>条回复
+                  <% } %>
+                  </div>
+                </div>
+              </div>
+            </div>
+    	<% } %>
+    </script>
+    <!-- 评论 结束 -->  	
+<div class="bottom-advertisement"><a href="//ad.ofweek.com/adVisit/adSkipper?zoneId=285&amp;bigclass=201700&amp;advId=3601&amp;adLink=https%3A%2F%2Fforms.ofweek.com%2FForm%2Fpreview%2Fform_id%2F1815"><img src="//images.ofweek.com/images/ofweekads/720x200 (6)_1727420245121.jpg" target="_Blank"></a></div>
+
+<div class="adtext ofad_text_link_bottom">
+<a href="//ad.ofweek.com/adVisit/adSkipper?zoneId=345&amp;bigclass=201700&amp;advId=3598&amp;adLink=https%3A%2F%2Fwww.ofweek.com%2Ftopic%2F2024%2FRaythink%2F" target="_Blank">【限时免费】燧石技术，赋光智慧，超越感知  立即试用&gt;&gt;</a></div>
+    
+  
+
+  
+  
+   <div id="fix_gotop">
+    <a rel="nofollow" href="https://form.ofweek.com/ofweeksys/view.php?id=122" class="fix_fankui"></a>
+     <a href="#" class="fix_gotop"></a>
+  </div>
+  
+  
+	<!-- 评论下面的APP下载 -->
+	<div class="app-download" onclick="openApp();">打开app，查看更多精彩资讯
+		<i class="download-icon">&gt;</i>
+	</div>
+  
+  <footer id="footer">
+	    <p class="copyright">OFweek人工智能网
+	    		m.ofweek.com/ai/
+	    <small>Copyright © OFweek.com <a rel="nofollow" target="_blank" href="//www.miitbeian.gov.cn/">粤ICP备06087881号-1</a></small></p>
+	
+  </footer>
+
+  <div id="mask" class="w-mask"></div>
+<div id="ad1" class="ofad_img_float_bottom" style="display:none" ;="">
+</div>
+<script>
+//获取地址栏参数，name:参数名称
+	function getUrlParam(name){
+		  var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+		  var r = window.location.search.substr(1).match(reg);
+		  if(r!=null)
+		  return unescape(r[2]);
+	}
+			var url = "//ad.ofweek.com/advertising/getAd/2/201700/3";
+		var data = {};
+		var preZoneId = getUrlParam("preZoneId");
+		if(preZoneId !=undefined && preZoneId !="") {
+			data = {"preZoneId": preZoneId};
+		}
+		
+		function getAd(){
+			$.ajax({
+				type:"get",
+				url:url,
+				data:data,
+				dataType:"jsonp",
+				success:function(data,status,xhr){
+					successCallback(data);
+				},
+				error:function(e){
+					console.log(e);
+			  	}
+			});
+		}
+	
+	function successCallback(resp) {
+		if (resp.code == '1'){
+			var data = resp.data;
+			var reg = new RegExp("^[0-9]*$"); 
+			for (var i = 0; i < data.length; i++) {
+				var className = data[i].zoneIdentification;
+				var html = "";
+				if (data[i].adTemplete) {
+					html = data[i].content;
+				} else {
+					if (reg.test(className)) {
+						var lis =$('.w-list li');
+						$(lis[data[i].zoneIdentification-1]).before(getInfomationFlowAd(data[i]))					
+					} else if (className.indexOf("ofad_text_link")  == 0) {
+						html += '<a ';
+						if (data[i].nofollow){
+							html += 'rel="nofollow" ';
+						} 
+						html += ' href="'+ data[i].adLink + '" target="_Blank">' + data[i].title + '</a>';
+						
+					} else if (className.indexOf("-advertisement") > 0) {
+						if(data[i].advId == 530 || data[i].advId == 516) { //对于精创的广告单独处理
+							html += '<a data="' + data[i].adLink + '"';
+							if (data[i].nofollow){
+								html += 'rel="nofollow" ';
+							}
+							html += ' target="_Blank" id="jcAd' + data[i].advId + '" href="http://www.e-elitech.com/index.php?v=show&cid=99&id=480"><img src="' + data[i].imagePath + '" target="_Blank"/></a>';
+						} else {
+							html += '<a ';
+							if (data[i].nofollow){
+ 								html += 'rel="nofollow" ';
+	 						}
+ 							html += 'href="'+ data[i].adLink + '"><img src="' + data[i].imagePath + '" target="_Blank"/></a>';
+						}						
+					} else if (className.indexOf("ofad_img_float")  == 0) {
+						html += '<div id="ad1"> <a '
+						if (data[i].nofollow){
+							html += 'rel="nofollow" ';
+						}
+						 html += 'href="' + data[i].adLink + '"><img src="' + data[i].imagePath + '" target="_Blank"/></a>\
+							<span class="close" onClick="document.getElementById(\'ad1\').style.display=\'none\';">X</span></div>';
+					}
+					
+					if (data[i].monitorLink != "" && data[i].monitorLink != undefined){
+						html += '<script src="' + data[i].monitorLink + '"><\/script>';
+					}
+				}
+				$("."+className).append(html);
+				$("."+className).removeAttr("style");
+			}
+			initialTopAd();
+		} else {
+			console.log("get Ad EOR");
+		}
+	}
+	
+	function getInfomationFlowAd(ad){
+		var adhtml = '';
+		if (ad.remark == "information_flow_advertising_img_right") {
+			adhtml = '<li class="w-list-item">\
+					<div class="info-wrap one_img_text">\
+		        		<a href="'+ ad.adLink +'">'+ ad.title +'</a>\
+		    		</div>\
+		   		 	<div class="thumb fn-fr one_img">\
+		        		<img src="'+ ad.imagePath +'">\
+		    		</div>\
+		    		<span class="ad-flag">广告</span>\
+				</li>'
+		} else if (ad.remark == "information_flow_advertising_img_bottom") {
+			adhtml = '<li class="w-list-item">'+ ad.title +'\
+					<a href="'+ ad.adLink +'">\
+						<div class="three_img">\
+							<img src="'+ ad.imagePath +'">\
+						</div>\
+						<div class="item-info clearfix">\
+							<span class="ad-inner-flag fn-fr">广告</span>\
+						</div>\
+					</a>\
+				</li>'
+		} else if (ad.remark == "information_flow_advertising_img") {
+			
+		}
+		return adhtml;
+	}
+	
+	function triggerAdStatic(url) {
+		console.log("url",url);
+		$.ajax({
+             type: "get",
+             url: url,
+             dataType: "jsonp"
+         });
+	}
+	
+</script>
+    
+  <script language="JavaScript" type="text/javascript">
+  	function gotopc(host){
+		window.location.href="//www.ofweek.com/gotoPC.jsp?returnURL=//"+host;
+  	}
+  	function loginurl(){
+		var str = "/users/gotoIndex.xhtml";
+		window.location.href = str;
+	}
+  </script>
+  <script src="../../js/zepto-1.0.js"></script>
+  <script src="../../js/fastclick.js"></script>
+  <script src="../../js/gmu.js"></script>
+  <script type="text/javascript">
+	$(function() {
+		$('body').on('click', '#jcAd530', function() {
+			var adLink = $(this).attr('data');
+			triggerAdStatic(adLink);
+		});
+		$('body').on('click', '#jcAd516', function() {
+			var adLink = $(this).attr('data');
+			triggerAdStatic(adLink);
+		});
+	});
+  </script>
+  <script src="../../js//$lite.js"></script>
+
+  
+  	<script src="//m.ofweek.com/newsite/js/baiduTemplate.js"></script>
+  	<script src="//m.ofweek.com/js/main01.js?v=9"></script>
+  	<script src="//m.ofweek.com/js/discuss.js?v=20181121"></script>
+<script src="//res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+<script src="//m.ofweek.com/js/weixin_share.js?v=202010281"></script>  <script type="text/javascript">
+	  	var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "//hm.baidu.com/hm.js?af50e2fc51af73da7720fb324b88a975";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+
+
+<!-- 底部固定评论 -->
+  <div class="index_discuss">
+    <div class="discuss_wrap">
+      <input type="text" name="discussVal" id="discussVal" data-commentid="" class="fn-fl discussVal" readonly="readonly" placeholder="请输入评论">
+      <div class="fn-fl dis_revert">
+        <a href="javascript:openAllComments();">
+          <span id="bottom_comment_num"></span>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div id="mask" class="w-mask"></div>
+
+	<!--浮动下载结束-->
+
+<input type="hidden" id="column_detailid" value="30474314">
+<input type="hidden" id="page_index" value="article">
+
+<script type="text/javascript" src="//www.ofweek.com/js/home/jquery.js"></script>
+
+
+<link rel="stylesheet" href="/css/QRCSS.css">
+<script src="//m.ofweek.com/js/qr/qrcode.min.js"></script>
+<script src="//m.ofweek.com/js/qr/html2canvas.min.js"></script>
+<script src="//m.ofweek.com/js/qr/createQR_Image.js"></script>
+<script>
+	var jq=$.noConflict();
+</script>
+<script type="text/javascript" src="//m.ofweek.com/research/layer/mobile/layer.js"></script>
+<script type="text/javascript" src="//m.ofweek.com/js/comment.js?v=20170929"></script>
+<script type="text/javascript" src="//m.ofweek.com/js/comment_news.js?v=2017092901"></script>
+<script type="text/javascript" src="//m.ofweek.com/js/openapp.js"></script><div class="wechart_pop" style="display: none; position: fixed;left: 0; top: 0; z-index: 1000; width: 100%; height: 100%; background: #fff; overflow: hidden;"><img style="display: block; width: 100%; margin: 0 auto;" src="../img/Wechart.png" alt=""></div>
+
+<script type="text/javascript" src="//m.ofweek.com/js/swiper.min.js"></script>
+<script type="text/javascript" src="//m.ofweek.com/newsite/js/lottie.js?v=202106032"></script>
+<script>
+		var mySwiper = new Swiper('.swiper-container', {
+			autoplay: true, //可选选项，自动滑动
+			loop: true,
+			speed:800,
+			// 如果需要分页器
+			pagination: {
+				el: '.swiper-pagination',
+			},
+		})
+	</script>
+
+<script language="JavaScript" type="text/javascript">
+   $(function(){
+      FastClick.attach(document.body);
+   		initmpId();
+		initSetfont();
+		initTopDownload();
+		initSubscribe('18,984');
+     	insertClickNum('ai','30474314');
+     	getCommenList(3,1);
+     	// $('.news-content article p').find('strong').replaceWith('h2');
+     	getMallAd();
+     	getAd();
+     	
+   });
+   
+   
+   function initmpId(){
+   		var url = '//mp.ofweek.com/api/getPublicImg/mpid/';
+   		var mpid = '18,984'.replace(/,/g,'');
+   		$("#mpimg").attr("src", url+mpid);
+   }
+   
+   function openJubao(){
+   		window.location.href="//www.ofweek.com/ofweek/article/ofweektousu.html?fromid=50&sourceURL="+window.location.href;
+   }
+   
+   function openMobile(detailId,productType){
+   		if (/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)) { 
+   		   //判断iPhone|iPad|iPod|iOS
+		   goIos(detailId,productType);
+		} else if (/(Android)/i.test(navigator.userAgent)) {
+		   //判断Android
+		   goAndroid(detailId,productType); 
+		} else { 
+		   console.log('pc');
+		   window.location.href='//a.app.qq.com/o/simple.jsp?pkgname=com.mobile.ofweek';
+		};
+   }
+   
+   function goAndroid(detailId,productType){
+   		var localUrl = 'ofweekappcustom://ofweek.com:80/webDetailed?detailId='+detailId+'&productType='+productType;
+   		var downUrl = '//a.app.qq.com/o/simple.jsp?pkgname=com.mobile.ofweek';
+   		if (isChrome()) {
+            window.location.href = localUrl;
+        } else {
+            openIframe.src = localUrl;
+        }
+        setTimeout(function () {
+            window.location.href = "//a.app.qq.com/o/simple.jsp?pkgname=com.mobile.ofweek";
+        }, 500);
+   }
+   
+  function isChrome () {
+    return navigator.userAgent.indexOf("Chrome") !== -1;
+  }
+   
+   function goIos(detailId,productType){
+   		// var callUrl = 'ofweekapp://web:80/webDetailed?url=';
+   		var callUrl = 'ofweekapp://web:80/webDetailed?url=';
+   		var url = 'm.ofweek.com&detailId='+detailId;
+   		callUrl += url;
+   		console.log(callUrl);
+   		window.location.href=callUrl;
+   		var loadDateTime = Date.now();
+        setTimeout(function () {
+            var timeOutDateTime = Date.now();
+            if (timeOutDateTime - loadDateTime < 1000) {
+                window.location.href = "https://itunes.apple.com/cn/app/ofweek-%E9%AB%98%E7%A7%91%E6%8A%80%E9%97%A8%E6%88%B7-%E6%8F%90%E4%BE%9B%E9%AB%98%E7%A7%91%E6%8A%80%E5%85%A8%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF/id1168496600?mt=8";
+            }
+        }, 25);
+   }
+</script>
+
+
+<script>
+
+	function json2String(obj) {
+		var str = ''
+		for (var key in obj) {
+			var value = obj[key]
+			str += key + '=' + value + '&'
+		}
+		return str
+	}
+	
+	function setTimer(){
+		setTimeout(function(){
+			console.log("setTimer implement");
+			var DetailID = 30474314;
+			var data = {
+				"detailid": DetailID
+			};
+			var url = '/news/addArticleBrowseRecord.html';
+			$.ajax({
+			   type: "POST",
+			   url: url,
+			   data: data,
+			   async: false,
+			   dataType: "json",
+			   success: function (resp) {
+				  //alert("success");
+			   },
+			   error: function (e) {
+				 console.log(e);
+			   }
+			}); 
+		},7000);
+	}
+	setTimer();
+	
+	var node = $(".relationNewsBody")
+	var nodeArr = []
+	var articleADDisplay = 0;
+	var mateArr = ['芯片', '半导体', '无晶圆厂', '封测', 'IC设计']
+	if (node) {
+	  for (var i = 0; i < $(".relationNewsBody a").length; i++) {
+		  var text = $(".relationNewsBody a").eq(i).text()
+		  mateArr.forEach(function (item, index) {
+			  if (text.indexOf(item) >= 0) {
+			  		articleADDisplay = 1;
+				  // 展示广告
+				  //$(".applyLink").css("display","block");
+				  return
+			  }
+		  });
+	  }
+	}
+	
+	if(articleADDisplay  == 1){
+	
+	}
+		
+</script>
+
+
+
+
+
+<script>
+
+var column_detailid = $('#column_detailid').attr('value')
+
+function articleTopAdvertisement (item) {
+  $('#article_id_top2').remove()
+  var html =
+    '<div><a style="display:inline-block;" target="_blank" href="' +
+    item.adLink +
+    '"><img style="width:100%;height:auto;" src="' +
+    item.imagePath +
+    '"></a></div>'
+  $('#article_id_top1').after(html)
+  $('#article_id_top1').remove()
+}
+
+function middleAdvertisement (item) {
+  var html =
+    '<div><a style="display:inline-block;" target="_blank" href="' +
+    item.adLink +
+    '"><img style="width:100%;height:auto;" src="' +
+    item.imagePath +
+    '"></a></div>'
+  $('.middle-advertisement').after(html)
+  $('.middle-advertisement').remove()
+}
+
+$.ajax({
+  type: 'GET', //默认get
+  url: '/news/getClickTop.html?detailid=' + column_detailid, //默认当前页
+  dataType: 'json',
+  beforeSend: function () {}, //请求发送前回调,常用验证
+  success: function (res) {
+    //请求成功回调
+    if (res) {
+      console.log('dddddddddddd')
+      $.ajax({
+        type: 'GET', //默认get
+        url: 'https://ad.ofweek.com/advertising/getAd/2/110/3', //默认当前页
+        dataType: 'json',
+        beforeSend: function () {}, //请求发送前回调,常用验证
+        success: function (response) {
+          //请求成功回调
+          if (response.data.length > 0) {
+            for (let i = 0; i < response.data.length; i++) {
+              const item = response.data[i]
+              if (item.advertiser == 'article-top-advertisement') {
+                setTimeout(() => {
+                  articleTopAdvertisement(item)
+                }, 100)
+              }
+
+              if (item.advertiser == 'middle-advertisement') {
+                setTimeout(() => {
+                  middleAdvertisement(item)
+                }, 100)
+              }
+            }
+          }
+        },
+        error: function (e) {
+          //请求超时回调
+          if (e.statusText == 'timeout') {
+            alert('请求超时')
+          }
+        },
+        complete: function () {} //无论请求是成功还是失败都会执行的回调，常用全局成员的释放，或者页面状态的重置
+      })
+    }
+  },
+  error: function (e) {
+    //请求超时回调
+    if (e.statusText == 'timeout') {
+      alert('请求超时')
+    }
+  },
+  complete: function () {} //无论请求是成功还是失败都会执行的回调，常用全局成员的释放，或者页面状态的重置
+})
+
+</script><div class="gmu-media-detect" id="gmu-media-detect0"></div><div class="ui-mask"></div><div class="ui-dialog w-dialog w-dialog-login" style="width: 300px; height: auto;"><div class="ui-dialog-title"><a class="ui-dialog-close" title="关闭" style="-webkit-tap-highlight-color: rgba(255, 255, 255, 0);"><span class="ui-icon ui-icon-delete"></span></a><h3>登录</h3></div><div class="ui-dialog-content"><div id="js-dialog-login" class="fn-hide" title="登录" style="display: block; transform-origin: 0px 0px; opacity: 1; transform: scale(1, 1);">
+    <form class="w-form form-login" id="js-form-login" method="post" action="#">
+      <div class="w-form-item">
+        <div class="input">
+          <label class="icon userid" for="userid">用户名</label>
+          <input type="text" name="userid" id="userid" placeholder="请输入用户名或邮箱">
+        </div>
+      </div>
+
+      <div class="w-form-item">
+        <div class="input">
+          <label class="icon password" for="password">密码</label>
+          <input type="text" name="password" id="password" placeholder="请输入密码">
+        </div>
+      </div>
+
+      <div class="w-form-item">
+        <button type="submit">登录</button>
+        <div class="reg-now">还不是OFweek会员，<a href="#">马上注册</a></div>
+        <div class="forget-password"><a href="#">忘记密码？</a></div>
+      </div>
+    </form>
+  </div></div><div class="ui-dialog-btns"></div></div></body></html>

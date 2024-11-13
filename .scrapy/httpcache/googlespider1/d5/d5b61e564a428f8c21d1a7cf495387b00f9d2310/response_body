@@ -1,0 +1,1729 @@
+<!DOCTYPE html><html class="no-js aws-lng-zh_CN aws-with-target aws-ember" lang="zh-CN" data-static-assets="https://a0.awsstatic.com" data-js-version="1.0.591" data-css-version="1.0.506"><head> 
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: https://a0.awsstatic.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev; base-uri 'none'; connect-src 'self' https://*.analytics.console.aws.a2z.com https://*.panorama.console.api.aws https://*.prod.chc-features.uxplatform.aws.dev https://112-tzm-766.mktoresp.com https://112-tzm-766.mktoutil.com https://a0.awsstatic.com https://a0.p.awsstatic.com https://a1.awsstatic.com https://amazonwebservices.d2.sc.omtrdc.net https://amazonwebservicesinc.tt.omtrdc.net https://api.regional-table.region-services.aws.a2z.com https://api.us-west-2.prod.pricing.aws.a2z.com https://auth.aws.amazon.com https://aws.amazon.com https://aws.amazon.com/p/sf/ https://aws.demdex.net https://b0.p.awsstatic.com https://c0.b0.p.awsstatic.com https://calculator.aws https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://chatbot-stream-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://cm.everesttech.net https://csml-plc-prod.us-west-2.api.aws/plc/csml/logging https://d0.awsstatic.com https://d1.awsstatic.com https://d1fgizr415o1r6.cloudfront.net https://d2c.aws.amazon.com https://d3borx6sfvnesb.cloudfront.net https://dftu77xade0tc.cloudfront.net https://dpm.demdex.net https://edge.adobedc.net https://fls-na.amazon.com https://i18n-string.us-west-2.prod.pricing.aws.a2z.com https://iad.staging.prod.tv.awsstatic.com https://infra-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://ingestion.aperture-public-api.feedback.console.aws.dev https://livechat-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://pricing-table.us-west-2.prod.site.p.awsstatic.com https://prod-us-west-2.csp-report.marketing.aws.dev https://prod.log.shortbread.aws.dev https://prod.tools.shortbread.aws.dev https://prod.us-east-1.api.gcr-chat.marketing.aws.dev https://prod.us-east-1.rest-bot.gcr-chat.marketing.aws.dev https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev https://prod2.clientlogger.cn-northwest-1.marketplace.aws.a2z.org.cn https://public.lotus.awt.aws.a2z.com https://s0.awsstatic.com https://s3.amazonaws.com/aws-messaging-pricing-information/ https://s3.amazonaws.com/public-pricing-agc/ https://spot-bid-advisor.s3.amazonaws.com https://t0.m.awsstatic.com https://target.aws.amazon.com https://token.us-west-2.prod.site.p.awsstatic.com https://tv.awsstatic.com https://view-stage.us-west-2.prod.pricing.aws.a2z.com https://view-staging.us-east-1.prod.plc1-prod.pricing.aws.a2z.com https://vs.aws.amazon.com https://webchat-aws.clink.cn https://wrp.aws.amazon.com https://www.youtube-nocookie.com wss://*.transport.connect.us-east-1.amazonaws.com wss://prod.us-east-1.wss-bot.gcr-chat.marketing.aws.dev wss://webchat-aws.clink.cn; font-src 'self' data: https://a0.awsstatic.com https://f0.awsstatic.com https://fonts.gstatic.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev; frame-src 'self' https://*.widget.console.aws.amazon.com https://aws.demdex.net https://c0.b0.p.awsstatic.com https://calculator.aws https://conversational-experience-worker.widget.console.aws.amazon.com/lotus/isolatedIFrame https://dpm.demdex.net https://pricing-table.us-west-2.prod.site.p.awsstatic.com https://token.us-west-2.prod.site.p.awsstatic.com https://www.youtube-nocookie.com; img-src 'self' blob: data: https://*.vidyard.com https://*.ytimg.com https://a0.awsstatic.com https://amazonwebservices.d2.sc.omtrdc.net https://aws-clink2-resource.s3.cn-northwest-1.amazonaws.com.cn https://aws-quickstart.s3.amazonaws.com https://aws.amazon.com https://aws.demdex.net https://awsmedia.s3.amazonaws.com https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://cm.everesttech.net https://d1.awsstatic.com https://d1d1et6laiqoh9.cloudfront.net https://d2908q01vomqb2.cloudfront.net https://d2c.aws.amazon.com https://d2cpw7vd6a2efr.cloudfront.net https://d36cz9buwru1tt.cloudfront.net https://d7umqicpi7263.cloudfront.net https://docs.aws.amazon.com https://dpm.demdex.net https://fls-na.amazon.com https://google.ca https://google.co.in https://google.co.jp https://google.co.th https://google.co.uk https://google.com https://google.com.ar https://google.com.au https://google.com.br https://google.com.hk https://google.com.mx https://google.com.tr https://google.com.tw https://google.de https://google.es https://google.fr https://google.it https://google.nl https://google.pl https://google.ru https://iad.staging.prod.tv.awsstatic.com https://img.youtube.com https://marketingplatform.google.com https://media.amazonwebservices.com https://p.adsymptotic.com https://pages.awscloud.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev https://s3.amazonaws.com/aws-quickstart/ https://ssl-static.libsyn.com https://static-cdn.jtvnw.net https://tv.awsstatic.com https://webchat-aws.clink.cn https://www.google.com https://www.linkedin.com https://yt3.ggpht.com; media-src 'self' blob: https://*.libsyn.com https://a0.awsstatic.com https://anchor.fm https://awsmedia.s3.amazonaws.com https://awspodcastsiberiaent.s3.eu-west-3.amazonaws.com https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://chtbl.com https://content.production.cdn.art19.com https://d1.awsstatic.com https://d1hemuljm71t2j.cloudfront.net https://d1le29qyzha1u4.cloudfront.net https://d1oqpvwii7b6rh.cloudfront.net https://d1vo51ubqkiilx.cloudfront.net https://d1yyh5dhdgifnx.cloudfront.net https://d2908q01vomqb2.cloudfront.net https://d2a6igt6jhaluh.cloudfront.net https://d3ctxlq1ktw2nl.cloudfront.net https://d3h2ozso0dirfl.cloudfront.net https://dgen8gghn3u86.cloudfront.net https://dk261l6wntthl.cloudfront.net https://download.stormacq.com/aws/podcast/ https://dts.podtrac.com https://media.amazonwebservices.com https://mktg-apac.s3-ap-southeast-1.amazonaws.com https://rss.art19.com https://s3-ap-northeast-1.amazonaws.com/aws-china-media/ https://www.buzzsprout.com; object-src 'none'; script-src 'sha256-cEhIgS42kcMSRz1RZDfdknH+fFZ2rxAnEF7IbstSbaw=' 'nonce-RgH0KaRsXxRz3FAGZWyr+/OpnOiZrNGJJCOZ08Xb8Gs=' 'self' blob: https://*.cdn.console.awsstatic.com/ https://*.cdn.uis.awsstatic.com/ https://a.b.cdn.console.awsstatic.com https://a0.awsstatic.com https://amazonwebservicesinc.tt.omtrdc.net https://chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://d2c.aws.amazon.com https://googleads.g.doubleclick.net https://loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev https://spot-price.s3.amazonaws.com https://static.doubleclick.net https://t0.m.awsstatic.com https://token.us-west-2.prod.site.p.awsstatic.com https://website.spot.ec2.aws.a2z.com https://www.google.com https://www.gstatic.com https://www.youtube.com/iframe_api https://www.youtube.com/s/player/; style-src 'self' 'unsafe-inline' https://a0.awsstatic.com https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev https://t0.m.awsstatic.com https://token.us-west-2.prod.site.p.awsstatic.com" data-report-uri="https://prod-us-west-2.csp-report.marketing.aws.dev/submit"> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="preconnect" href="https://a0.awsstatic.com" crossorigin="anonymous"> 
+  <link rel="dns-prefetch" href="https://a0.awsstatic.com"> 
+  <link rel="dns-prefetch" href="https://d1.awsstatic.com"> 
+  <link rel="dns-prefetch" href="https://amazonwebservicesinc.tt.omtrdc.net"> 
+  <link rel="dns-prefetch" href="https://s0.awsstatic.com"> 
+  <link rel="dns-prefetch" href="https://t0.m.awsstatic.com"> 
+  <title>零售和消费品行业的人工智能 - AWS</title> 
+  <meta name="description" content="利用生成式人工智能，提高效率、增强客户参与度、加速创新。AWS 与我们的合作伙伴一起，面向零售和消费品行业，为您提供业务转型所需的基础设施、模型和应用程序。"> 
+  <meta name="robots" content="index, follow"> 
+  <meta property="twitter:title" content="零售和消费品行业的人工智能 - AWS"> 
+  <meta property="twitter:description" content="利用生成式人工智能，提高效率、增强客户参与度、加速创新。AWS 与我们的合作伙伴一起，面向零售和消费品行业，为您提供业务转型所需的基础设施、模型和应用程序。"> 
+  <meta property="og:title" content="零售和消费品行业的人工智能 - AWS"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <link rel="canonical" href="https://aws.amazon.com/cn/retail-consumer-goods/generative-ai/"> 
+  <link rel="alternate" href="https://aws.amazon.com/de/retail-consumer-goods/generative-ai/" hreflang="de-de"> 
+  <link rel="alternate" href="https://aws.amazon.com/retail-consumer-goods/generative-ai/" hreflang="en-us"> 
+  <link rel="alternate" href="https://aws.amazon.com/es/retail-consumer-goods/generative-ai/" hreflang="es-es"> 
+  <link rel="alternate" href="https://aws.amazon.com/fr/retail-consumer-goods/generative-ai/" hreflang="fr-fr"> 
+  <link rel="alternate" href="https://aws.amazon.com/id/retail-consumer-goods/generative-ai/" hreflang="id-id"> 
+  <link rel="alternate" href="https://aws.amazon.com/it/retail-consumer-goods/generative-ai/" hreflang="it-it"> 
+  <link rel="alternate" href="https://aws.amazon.com/jp/retail-consumer-goods/generative-ai/" hreflang="ja-jp"> 
+  <link rel="alternate" href="https://aws.amazon.com/ko/retail-consumer-goods/generative-ai/" hreflang="ko-kr"> 
+  <link rel="alternate" href="https://aws.amazon.com/pt/retail-consumer-goods/generative-ai/" hreflang="pt-br"> 
+  <link rel="alternate" href="https://aws.amazon.com/tw/retail-consumer-goods/generative-ai/" hreflang="zh-tw"> 
+  <script async="" src="https://d2c.aws.amazon.com/client/lib/v1/nomodule/d2c-client-lib.1f94e6ab.js" type="systemjs-module"></script><script src="https://d2c.aws.amazon.com/client/lib/v1/nomodule/s.min.js" type="text/javascript"></script><script async="" src="https://d2c.aws.amazon.com/client/lib/v1/module/d2c-client-lib.607776aa.js" type="module"></script><script src="https://a0.awsstatic.com/libra/1.0.591/csp/csp-report.js" async="true"></script> 
+  <meta property="twitter:card" content="summary"> 
+  <meta property="twitter:image" content="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png"> 
+  <meta property="twitter:site" content="@awscloud"> 
+  <meta property="fb:pages" content="153063591397681"> 
+  <meta name="baidu-site-verification" content="pjxJUyWxae"> 
+  <meta name="360-site-verification" content="cbe5c6f0249e273e71fffd6d6580ce09"> 
+  <meta name="shenma-site-verification" content="79b94bb338f010af876605819a332e19_1617844070"> 
+  <meta name="sogou_site_verification" content="Ow8cCy3Hgq"> 
+  <link rel="icon" type="image/ico" href="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"> 
+  <link rel="shortcut icon" type="image/ico" href="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"> 
+  <link rel="apple-touch-icon" sizes="57x57" href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png"> 
+  <link rel="apple-touch-icon" sizes="72x72" href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png"> 
+  <link rel="apple-touch-icon" sizes="114x114" href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png"> 
+  <link rel="apple-touch-icon" sizes="144x144" href="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png"> 
+  <meta property="og:type" content="company"> 
+  <meta property="og:url" content="https://aws.amazon.com/cn/retail-consumer-goods/generative-ai/"> 
+  <meta property="og:image" content="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"> 
+  <meta property="og:site_name" content="Amazon Web Services, Inc."> 
+  <meta name="facebook-domain-verification" content="ucogvbvio3zpukhjxw4pcprci7qylr"> 
+  <meta name="google-site-verification" content="XHghG81ulgiW-3EylGcF48sG28tBW5EH0bNUhgo_DrU"> 
+  <meta name="msvalidate.01" content="6F92E52A288E266E30C2797ECB5FCCF3"> 
+  <link rel="stylesheet" href="https://a0.awsstatic.com/libra-css/css/1.0.506/style-awsm-base.css"> 
+  <link rel="stylesheet" href="https://a0.awsstatic.com/libra-css/css/1.0.506/style-awsm-components.css"> 
+  <script type="esms-options">{"noLoadEventRetriggers": true, "nonce":"RgH0KaRsXxRz3FAGZWyr+/OpnOiZrNGJJCOZ08Xb8Gs="}</script> 
+  <script async="" src="https://a0.awsstatic.com/eb-csr/1.0.113/polyfills/es-module-shims/es-module-shims.js"></script> 
+  <script type="importmap">{"imports":{"react":"https://a0.awsstatic.com/eb-csr/1.0.113/react/react.js","react/jsx-runtime":"https://a0.awsstatic.com/eb-csr/1.0.113/react/jsx-runtime.js","react-dom":"https://a0.awsstatic.com/eb-csr/1.0.113/react/react-dom.js","react-dom/server":"https://a0.awsstatic.com/eb-csr/1.0.113/react/server-browser.js","react-dom-server-browser":"https://a0.awsstatic.com/eb-csr/1.0.113/react/react-dom-server-browser.js","sanitize-html":"https://a0.awsstatic.com/eb-csr/1.0.113/sanitize-html/index.js","video.js":"https://a0.awsstatic.com/eb-csr/1.0.113/videojs/video.js","videojs-event-tracking":"https://a0.awsstatic.com/eb-csr/1.0.113/videojs/videojs-event-tracking.js","videojs-hotkeys":"https://a0.awsstatic.com/eb-csr/1.0.113/videojs/videojs-hotkeys.js"}}</script> 
+  <script type="application/json" id="aws-page-settings">
+  {
+    "supportedLanguages": ["ar","cn","de","en","es","fr","id","it","jp","ko","pt","ru","th","tr","tw","vi"],
+    "defaultLanguage": "en",
+    "logDataSet": "LIVE:PROD",
+    "logInstance": "PUB",
+    "csdsEndpoint": "https://d2c.aws.amazon.com/",
+    "framework": "v2",
+    "g11nLibPath": "https://a0.awsstatic.com/g11n-lib/2.0.106",
+    "i18nStringPath": "https://i18n-string.us-west-2.prod.pricing.aws.a2z.com",
+    "libraCSSPath": "https://a0.awsstatic.com/libra-css/css/1.0.506",
+    "libraCSSImagePath": "https://a0.awsstatic.com/libra-css/images",
+    "isLoggingEnabled": true,
+    "currentLanguage": "zh-CN",
+    "currentStage": "Prod",
+    "isBJS": false,
+    "isMarketplace": false,
+    "isRTL": false,
+    "requireBaseUrl": "https://a0.awsstatic.com",
+    "requirePackages":[
+      {
+          "name": "libra",
+          "location": "libra/1.0.591"
+      }
+    ],
+    "requirePaths": {
+      "directories": "https://a0.awsstatic.com/libra/1.0.591/directories",
+      "libra-cardsui": "https://a0.awsstatic.com/libra/1.0.591/libra-cardsui",
+      "librastandardlib": "https://a0.awsstatic.com/libra/1.0.591/librastandardlib",
+      "aws-blog": "https://a0.awsstatic.com/aws-blog/1.0.80/js",
+      "plc": "https://a0.awsstatic.com/plc/js/1.0.138/plc",
+      "scripts": "libra/1.0.591/v1-polyfills/scripts",
+      "libra-search": "https://a0.awsstatic.com/libra-search/1.0.19/js",
+      "pricing-calculator": "https://a0.awsstatic.com/pricing-calculator/js/1.0.2",
+      "pricing-savings-plan": "https://a0.awsstatic.com/pricing-savings-plan/js/1.0.23"
+    },
+    "staticAssetPath": "https://a0.awsstatic.com",
+    "jsAssetPath": "https://a0.awsstatic.com/libra/1.0.591",
+    "awstvVideoAssetOrigin": "https://tv.awsstatic.com",
+    "awstvVideoAPIOrigin": "//aws.amazon.com"
+  }
+</script> 
+  <script src="https://a0.awsstatic.com/libra/1.0.591/libra-head.js"></script> 
+  <script src="https://a0.awsstatic.com/s_code/js/3.0/awshome_s_code.js"></script><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c{display:inline-block;vertical-align:middle;line-height:1em;padding-left:.3em}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c svg{stroke-width:2px;pointer-events:none;fill:none;padding-bottom:1px;height:10px;width:10px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c svg .awsccc-stroke-linecap-square{stroke-linecap:square}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c svg .awsccc-stroke-linejoin-round{stroke-linejoin:round}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c svg path{stroke:currentColor}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-link{color:#0073bb}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-link span{color:#0073bb}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-link svg{height:16px;width:16px}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-link{color:#44b9d6}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-link span{color:#44b9d6}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn{flex:0 1 100%;padding:4px 20px;box-sizing:border-box;border:0;background-color:#fff;border:1px solid #545b64;color:#545b64;font-weight:700;border-radius:2px;cursor:pointer;user-select:none;display:inline-block;text-align:center;font-size:14px;position:relative}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn:hover{background-color:#fafafa}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn:focus{outline:none;text-decoration:none}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn:focus::before{content:" ";display:block;position:absolute;left:-2px;top:-2px;width:calc(100% + 4px);height:calc(100% + 4px);border-radius:2px;box-shadow:0 0 0 2px #00a1c9}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn span{line-height:22px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-primary{background-color:#ec7211;border-color:#ec7211}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-primary span{color:#fff}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-primary:hover{background-color:#eb5f07;border-color:#eb5f07}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-link{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);color:#545b64}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-link:hover{color:#000;background-color:#fafafa}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-primary{background-color:#f90;border-color:#f90}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-primary span{color:#16191f}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-primary:hover{background-color:#ec7211;border-color:#ec7211}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-secondary{color:#d5dbdb;background-color:#2a2e30;border-color:#879596}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-secondary:hover{background-color:#21252c}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-link{color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-link:hover{color:#eaeded;background-color:#21252c}</style><style>#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c{position:fixed;bottom:0;left:0;width:100%;z-index:10000}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-content{position:relative;background:linear-gradient(180deg, rgba(21, 28, 39, 0.98) 0%, rgba(38, 51, 77, 0.98) 100%);box-shadow:0px -2px 5px 0px rgba(0,0,0,.5);padding:30px 30px 15px;border-top:solid 1px #306da3;display:flex;flex-direction:column}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-text-section{display:flex;flex-direction:column;flex-shrink:1;padding:0px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-title{font-weight:700;padding:0 0 5px;margin:0;color:#fff}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons{display:flex;justify-content:center;flex-wrap:wrap}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons .awsccc-u-btn{margin-bottom:15px;padding-left:20px;padding-right:20px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-text{flex:1 1 100%;margin:0 0 15px;color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-text span{color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.awsc-bot-above-f-imp{z-index:1005}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled #awsccc-cb-content{background:none;background-color:#2a2e33}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled .awsccc-u-btn-secondary{background-color:#2a2e33}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled .awsccc-u-btn-secondary span{color:#d5dbdb}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled .awsccc-u-btn-secondary:hover{background-color:#21252c}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled .awsccc-u-btn-primary span{color:#16191f}@media screen and (min-width: 810px){#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-content{padding-bottom:30px;padding-left:20px;padding-right:20px;display:flex;justify-content:space-between}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons .awsccc-u-btn{flex:1 0 25%;margin:10px 5px 0;min-width:240px}}@media screen and (min-width: 1020px){#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-content{flex-direction:row;padding-left:40px;padding-right:40px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-actions{display:flex;justify-content:center;align-items:center}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-text{flex:1;padding-right:40px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons .awsccc-u-btn{flex:0 1 auto;margin:10px 5px 0}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons{flex-wrap:nowrap;display:flex;flex-direction:column;gap:10px;width:max-content}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons .awsccc-u-btn{margin-top:0}}@media screen and (min-width: 1020px){#awsccc-sb-ux-c #awsccc-sb-a.awsccc-Rtl #awsccc-cb-text{padding-left:40px;padding-right:0}}div[data-id=awsccc-cb]{display:none}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb{display:flex;flex-direction:row}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-v{flex-direction:column}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-xxs{gap:4px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-xs{gap:8px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-s{gap:12px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-m{gap:16px}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-container{display:flex;align-items:center;justify-content:center;bottom:0;left:0;right:0;top:0;position:fixed;outline:0;overflow:hidden;z-index:10002}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-backdrop{background-color:rgba(242,243,243,.9019607843);position:fixed;z-index:10001;right:0;top:0;bottom:0;left:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal{box-sizing:border-box;outline:none;margin:10px;background-color:#fff;border-radius:0;box-sizing:border-box;z-index:10002;position:relative;box-shadow:0 1px 1px 0 rgba(0,28,36,.3),1px 1px 1px 0 rgba(0,28,36,.15),-1px 1px 1px 0 rgba(0,28,36,.15)}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal[dir=rtl] *{direction:rtl;text-align:right}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal.awsccc-u-modal-large{max-width:820px;width:calc(100vw - 20px)}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-header{background-color:#fafafa;border-bottom:1px solid #eaeded;color:#16191f;padding:19px 20px;word-break:break-word;flex:auto}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-header h2{font-size:18px;font-weight:700;margin:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-content{overflow-y:auto;max-height:calc(100vh - 200px);padding:19px 20px}@media screen and (max-width: 480px){#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-content{max-height:calc(100vh - 275px)}}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer{border-top:1px solid #eaeded;text-decoration:none;padding:10px 20px;text-align:right;display:flex;justify-content:flex-end;flex-wrap:wrap}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer button{white-space:nowrap}@media screen and (max-width: 699px){#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer button{white-space:initial}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer>div{width:100%}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer .awsccc-u-sb{display:flex;flex-direction:column}}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal-backdrop{background-color:rgba(22,25,31,.8)}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal{background-color:#2a2e33}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal-header{background-color:#21252c;border-bottom-color:#414750;color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal-content{color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal-footer{border-top-color:#414750}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cl{display:flex;flex-direction:column}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cl-c{padding:10px;border-block-end:1px solid #eaeded}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cl-c:first-of-type{padding-top:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cl-c:last-of-type{padding-bottom:0;border-block-end:none}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-cl-c{border-color:#414750}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-field>label{display:flex;flex-direction:column;gap:4px}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg>label{position:relative}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg input[type=radio]{opacity:0;user-select:none;cursor:default;position:absolute}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg .awsccc-u-rg-radio{display:inline-block;box-sizing:content-box;position:relative;vertical-align:middle;height:14px;width:14px;border-radius:50%;background-color:#fff;border:2px solid #7d8998;transition:background-color ease .15s,border-color ease .15s}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg .awsccc-u-rg-radio::before{position:absolute;content:"";height:6px;width:6px;border-radius:50%;top:4px;left:4px;transition:background-color ease .15s}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg .awsccc-u-rg-radio+span{padding-inline-start:8px;vertical-align:middle}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg input:checked+.awsccc-u-rg-radio{background-color:#0073bb;border-color:#0073bb}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg input:checked+.awsccc-u-rg-radio::before{background-color:#fff}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg input:focus-visible+.awsccc-u-rg-radio{outline:2px solid #00a1c9;outline-offset:2px}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-rg-radio{background-color:#1a2029;border-color:#879596}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled input:checked+.awsccc-u-rg-radio{background-color:#00a1c9;border-color:#00a1c9}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cbbas-c p{margin:0}</style><style>#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-info-container span,#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-info-container a{font-size:15px}</style><style>#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container span,#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container a{font-size:12px;line-height:15px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container span:focus,#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container a:focus{outline-style:solid;outline-color:#00a1c9;outline-width:2px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container p>span{color:#687078}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled #awsccc-cs-l-container span{color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled #awsccc-cs-l-container span a{display:inline-block}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled #awsccc-cs-l-container span a span{color:#44b9d6}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled #awsccc-cs-l-container path{color:#44b9d6}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-s-cb-hidden{text-indent:-9999px;position:absolute}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-label{position:relative;display:inline-block;line-height:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-text{line-height:16px;vertical-align:top}#awsccc-sb-ux-c #awsccc-sb-a .awscc-u-cb-checkbox,#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-input{height:14px;width:14px;z-index:1;pointer-events:none;fill:none}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-s-cb-outer{margin-right:8px;height:14px;width:14px;display:inline-block}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-input{padding:0;margin:0;position:absolute;z-index:0;opacity:0}#awsccc-sb-ux-c #awsccc-sb-a .awscc-u-cb-checkbox-rect{background-color:#fff;fill:#fff;stroke:#aab7b8;stroke-width:1}#awsccc-sb-ux-c #awsccc-sb-a .awscc-u-cb-checkbox-poly-line{opacity:1;stroke:#fff;stroke-width:2;fill:none}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-checkbox-active .awscc-u-cb-checkbox-rect{fill:#0073bb;stroke:#0073bb}#awsccc-sb-ux-c #awsccc-sb-a .awscc-u-cb-checkbox-container{position:relative;line-height:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-focused:before{content:" ";display:block;position:absolute;left:-2px;top:-2px;width:calc(100% + 4px);height:calc(100% + 4px);border-radius:2px;box-shadow:0 0 0 2px #00a1c9}#awsccc-sb-ux-c #awsccc-sb-a.awsccc-Rtl .awsccc-cs-s-cb-outer{margin-left:8px;margin-right:0}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container{position:relative}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-title{font-size:18px;line-height:20px;flex:0 0 100%;margin:0 0 5px;z-index:10;display:inline-block;line-height:normal;font-weight:400}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-text{flex:0 0 80%;padding-top:5px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-action{display:flex;justify-content:flex-end;flex:1;position:absolute;top:3px;right:20px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-paragraph{margin-top:0;font-size:14px;line-height:20px;padding:0;margin-bottom:15px}@media screen and (min-width: 700px){#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container{display:flex;flex-wrap:wrap}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-title{padding-bottom:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-text{border-top:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-action{justify-content:center;position:relative;top:auto;right:auto;padding-top:20px}}</style><style>#awsccc-sb-ux-c #awsccc-sb-a{font-family:"Amazon Ember","HelveticaNeue","Helvetica Neue","Amazon Ember",Roboto,"Roboto-Regular","Amazon Ember",Helvetica,Arial,sans-serif;font-size:14px;line-height:21px;color:#16191f;text-align:left}#awsccc-sb-ux-c #awsccc-sb-a *{background:none;border:0}#awsccc-sb-ux-c #awsccc-sb-a.awsccc-Rtl *{direction:rtl;text-align:right}@media screen and (min-width: 1020px){#awsccc-sb-ux-c #awsccc-sb-a.awsccc-Rtl #awsccc-cb-c #awsccc-cb-title{padding-right:40px}}#awsccc-sb-ux-c #awsccc-sb-a a,#awsccc-sb-ux-c #awsccc-sb-a a>span,#awsccc-sb-ux-c #awsccc-sb-a a svg path{color:#0073bb;text-decoration:none}#awsccc-sb-ux-c #awsccc-sb-a a:hover,#awsccc-sb-ux-c #awsccc-sb-a a>span:hover,#awsccc-sb-ux-c #awsccc-sb-a a svg path:hover{color:#0073bb;text-decoration:underline}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled{color-scheme:dark}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a,#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a>span,#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a svg path{color:#44b9d6}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a:hover,#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a>span:hover,#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a svg path:hover{color:#44b9d6}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-tab-helper{outline:0;text-decoration:none}body.awsccc-modal-open{overflow:hidden;-webkit-box-sizing:border-box;box-sizing:border-box}</style> 
+  <script src="https://d2c.aws.amazon.com/client/loader/v1/d2c-load.js"></script> 
+  <script async="" src="https://a0.awsstatic.com/da/js/1.0.51/aws-da.js"></script> 
+  <link rel="stylesheet" href="https://a0.awsstatic.com/eb-csr/1.0.113/orchestrate.css"> 
+  <script type="module" async="true" src="https://a0.awsstatic.com/eb-csr/1.0.113/orchestrate.js"></script> 
+  <script type="application/json" id="target-mediator">{"pageLanguage":"cn","supportedLanguages":["ar","cn","de","en","es","fr","id","it","jp","ko","pt","ru","th","tr","tw","vi"],"offerOrigin":"https://s0.awsstatic.com"}</script> 
+  <script data-js-script="target-mediator" src="https://a0.awsstatic.com/target/1.0.123/aws-target-mediator.js" async="true"></script> 
+ <style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c{display:inline-block;vertical-align:middle;line-height:1em;padding-left:.3em}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c svg{stroke-width:2px;pointer-events:none;fill:none;padding-bottom:1px;height:10px;width:10px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c svg .awsccc-stroke-linecap-square{stroke-linecap:square}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c svg .awsccc-stroke-linejoin-round{stroke-linejoin:round}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-i-open-c svg path{stroke:currentColor}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-link{color:#0073bb}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-link span{color:#0073bb}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-link svg{height:16px;width:16px}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-link{color:#44b9d6}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-link span{color:#44b9d6}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn{flex:0 1 100%;padding:4px 20px;box-sizing:border-box;border:0;background-color:#fff;border:1px solid #545b64;color:#545b64;font-weight:700;border-radius:2px;cursor:pointer;user-select:none;display:inline-block;text-align:center;font-size:14px;position:relative}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn:hover{background-color:#fafafa}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn:focus{outline:none;text-decoration:none}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn:focus::before{content:" ";display:block;position:absolute;left:-2px;top:-2px;width:calc(100% + 4px);height:calc(100% + 4px);border-radius:2px;box-shadow:0 0 0 2px #00a1c9}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn span{line-height:22px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-primary{background-color:#ec7211;border-color:#ec7211}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-primary span{color:#fff}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-primary:hover{background-color:#eb5f07;border-color:#eb5f07}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-link{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0);color:#545b64}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-btn.awsccc-u-btn-link:hover{color:#000;background-color:#fafafa}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-primary{background-color:#f90;border-color:#f90}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-primary span{color:#16191f}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-primary:hover{background-color:#ec7211;border-color:#ec7211}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-secondary{color:#d5dbdb;background-color:#2a2e30;border-color:#879596}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-secondary:hover{background-color:#21252c}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-link{color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-btn-link:hover{color:#eaeded;background-color:#21252c}</style><style>#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c{position:fixed;bottom:0;left:0;width:100%;z-index:10000}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-content{position:relative;background:linear-gradient(180deg, rgba(21, 28, 39, 0.98) 0%, rgba(38, 51, 77, 0.98) 100%);box-shadow:0px -2px 5px 0px rgba(0,0,0,.5);padding:30px 30px 15px;border-top:solid 1px #306da3;display:flex;flex-direction:column}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-text-section{display:flex;flex-direction:column;flex-shrink:1;padding:0px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-title{font-weight:700;padding:0 0 5px;margin:0;color:#fff}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons{display:flex;justify-content:center;flex-wrap:wrap}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons .awsccc-u-btn{margin-bottom:15px;padding-left:20px;padding-right:20px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-text{flex:1 1 100%;margin:0 0 15px;color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-text span{color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.awsc-bot-above-f-imp{z-index:1005}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled #awsccc-cb-content{background:none;background-color:#2a2e33}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled .awsccc-u-btn-secondary{background-color:#2a2e33}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled .awsccc-u-btn-secondary span{color:#d5dbdb}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled .awsccc-u-btn-secondary:hover{background-color:#21252c}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c.dark-mode-enabled .awsccc-u-btn-primary span{color:#16191f}@media screen and (min-width: 810px){#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-content{padding-bottom:30px;padding-left:20px;padding-right:20px;display:flex;justify-content:space-between}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons .awsccc-u-btn{flex:1 0 25%;margin:10px 5px 0;min-width:240px}}@media screen and (min-width: 1020px){#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-content{flex-direction:row;padding-left:40px;padding-right:40px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-actions{display:flex;justify-content:center;align-items:center}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-text{flex:1;padding-right:40px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons .awsccc-u-btn{flex:0 1 auto;margin:10px 5px 0}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons{flex-wrap:nowrap;display:flex;flex-direction:column;gap:10px;width:max-content}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cb-c #awsccc-cb-buttons .awsccc-u-btn{margin-top:0}}@media screen and (min-width: 1020px){#awsccc-sb-ux-c #awsccc-sb-a.awsccc-Rtl #awsccc-cb-text{padding-left:40px;padding-right:0}}div[data-id=awsccc-cb]{display:none}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb{display:flex;flex-direction:row}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-v{flex-direction:column}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-xxs{gap:4px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-xs{gap:8px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-s{gap:12px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-sb.awsccc-u-sb-m{gap:16px}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-container{display:flex;align-items:center;justify-content:center;bottom:0;left:0;right:0;top:0;position:fixed;outline:0;overflow:hidden;z-index:10002}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-backdrop{background-color:rgba(242,243,243,.9019607843);position:fixed;z-index:10001;right:0;top:0;bottom:0;left:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal{box-sizing:border-box;outline:none;margin:10px;background-color:#fff;border-radius:0;box-sizing:border-box;z-index:10002;position:relative;box-shadow:0 1px 1px 0 rgba(0,28,36,.3),1px 1px 1px 0 rgba(0,28,36,.15),-1px 1px 1px 0 rgba(0,28,36,.15)}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal[dir=rtl] *{direction:rtl;text-align:right}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal.awsccc-u-modal-large{max-width:820px;width:calc(100vw - 20px)}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-header{background-color:#fafafa;border-bottom:1px solid #eaeded;color:#16191f;padding:19px 20px;word-break:break-word;flex:auto}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-header h2{font-size:18px;font-weight:700;margin:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-content{overflow-y:auto;max-height:calc(100vh - 200px);padding:19px 20px}@media screen and (max-width: 480px){#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-content{max-height:calc(100vh - 275px)}}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer{border-top:1px solid #eaeded;text-decoration:none;padding:10px 20px;text-align:right;display:flex;justify-content:flex-end;flex-wrap:wrap}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer button{white-space:nowrap}@media screen and (max-width: 699px){#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer button{white-space:initial}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer>div{width:100%}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-modal-footer .awsccc-u-sb{display:flex;flex-direction:column}}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal-backdrop{background-color:rgba(22,25,31,.8)}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal{background-color:#2a2e33}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal-header{background-color:#21252c;border-bottom-color:#414750;color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal-content{color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-modal-footer{border-top-color:#414750}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cl{display:flex;flex-direction:column}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cl-c{padding:10px;border-block-end:1px solid #eaeded}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cl-c:first-of-type{padding-top:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cl-c:last-of-type{padding-bottom:0;border-block-end:none}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-cl-c{border-color:#414750}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-field>label{display:flex;flex-direction:column;gap:4px}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg>label{position:relative}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg input[type=radio]{opacity:0;user-select:none;cursor:default;position:absolute}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg .awsccc-u-rg-radio{display:inline-block;box-sizing:content-box;position:relative;vertical-align:middle;height:14px;width:14px;border-radius:50%;background-color:#fff;border:2px solid #7d8998;transition:background-color ease .15s,border-color ease .15s}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg .awsccc-u-rg-radio::before{position:absolute;content:"";height:6px;width:6px;border-radius:50%;top:4px;left:4px;transition:background-color ease .15s}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg .awsccc-u-rg-radio+span{padding-inline-start:8px;vertical-align:middle}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg input:checked+.awsccc-u-rg-radio{background-color:#0073bb;border-color:#0073bb}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg input:checked+.awsccc-u-rg-radio::before{background-color:#fff}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-rg input:focus-visible+.awsccc-u-rg-radio{outline:2px solid #00a1c9;outline-offset:2px}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled .awsccc-u-rg-radio{background-color:#1a2029;border-color:#879596}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled input:checked+.awsccc-u-rg-radio{background-color:#00a1c9;border-color:#00a1c9}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cbbas-c p{margin:0}</style><style>#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-info-container span,#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-info-container a{font-size:15px}</style><style>#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container span,#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container a{font-size:12px;line-height:15px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container span:focus,#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container a:focus{outline-style:solid;outline-color:#00a1c9;outline-width:2px}#awsccc-sb-ux-c #awsccc-sb-a #awsccc-cs-l-container p>span{color:#687078}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled #awsccc-cs-l-container span{color:#eaeded}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled #awsccc-cs-l-container span a{display:inline-block}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled #awsccc-cs-l-container span a span{color:#44b9d6}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled #awsccc-cs-l-container path{color:#44b9d6}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-s-cb-hidden{text-indent:-9999px;position:absolute}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-label{position:relative;display:inline-block;line-height:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-text{line-height:16px;vertical-align:top}#awsccc-sb-ux-c #awsccc-sb-a .awscc-u-cb-checkbox,#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-input{height:14px;width:14px;z-index:1;pointer-events:none;fill:none}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-s-cb-outer{margin-right:8px;height:14px;width:14px;display:inline-block}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-input{padding:0;margin:0;position:absolute;z-index:0;opacity:0}#awsccc-sb-ux-c #awsccc-sb-a .awscc-u-cb-checkbox-rect{background-color:#fff;fill:#fff;stroke:#aab7b8;stroke-width:1}#awsccc-sb-ux-c #awsccc-sb-a .awscc-u-cb-checkbox-poly-line{opacity:1;stroke:#fff;stroke-width:2;fill:none}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-checkbox-active .awscc-u-cb-checkbox-rect{fill:#0073bb;stroke:#0073bb}#awsccc-sb-ux-c #awsccc-sb-a .awscc-u-cb-checkbox-container{position:relative;line-height:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-u-cb-focused:before{content:" ";display:block;position:absolute;left:-2px;top:-2px;width:calc(100% + 4px);height:calc(100% + 4px);border-radius:2px;box-shadow:0 0 0 2px #00a1c9}#awsccc-sb-ux-c #awsccc-sb-a.awsccc-Rtl .awsccc-cs-s-cb-outer{margin-left:8px;margin-right:0}</style><style>#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container{position:relative}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-title{font-size:18px;line-height:20px;flex:0 0 100%;margin:0 0 5px;z-index:10;display:inline-block;line-height:normal;font-weight:400}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-text{flex:0 0 80%;padding-top:5px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-action{display:flex;justify-content:flex-end;flex:1;position:absolute;top:3px;right:20px}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-paragraph{margin-top:0;font-size:14px;line-height:20px;padding:0;margin-bottom:15px}@media screen and (min-width: 700px){#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container{display:flex;flex-wrap:wrap}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-title{padding-bottom:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-text{border-top:0}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-cs-sec-container .awsccc-cs-s-action{justify-content:center;position:relative;top:auto;right:auto;padding-top:20px}}</style><style>#awsccc-sb-ux-c #awsccc-sb-a{font-family:"Amazon Ember","HelveticaNeue","Helvetica Neue","Amazon Ember",Roboto,"Roboto-Regular","Amazon Ember",Helvetica,Arial,sans-serif;font-size:14px;line-height:21px;color:#16191f;text-align:left}#awsccc-sb-ux-c #awsccc-sb-a *{background:none;border:0}#awsccc-sb-ux-c #awsccc-sb-a.awsccc-Rtl *{direction:rtl;text-align:right}@media screen and (min-width: 1020px){#awsccc-sb-ux-c #awsccc-sb-a.awsccc-Rtl #awsccc-cb-c #awsccc-cb-title{padding-right:40px}}#awsccc-sb-ux-c #awsccc-sb-a a,#awsccc-sb-ux-c #awsccc-sb-a a>span,#awsccc-sb-ux-c #awsccc-sb-a a svg path{color:#0073bb;text-decoration:none}#awsccc-sb-ux-c #awsccc-sb-a a:hover,#awsccc-sb-ux-c #awsccc-sb-a a>span:hover,#awsccc-sb-ux-c #awsccc-sb-a a svg path:hover{color:#0073bb;text-decoration:underline}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled{color-scheme:dark}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a,#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a>span,#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a svg path{color:#44b9d6}#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a:hover,#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a>span:hover,#awsccc-sb-ux-c #awsccc-sb-a .dark-mode-enabled a svg path:hover{color:#44b9d6}#awsccc-sb-ux-c #awsccc-sb-a .awsccc-tab-helper{outline:0;text-decoration:none}body.awsccc-modal-open{overflow:hidden;-webkit-box-sizing:border-box;box-sizing:border-box}</style><style class="js-mbox-style">.js-mbox{visibility:hidden;}</style><link href="https://a0.awsstatic.com/libra-css/css/1.0.506/vendor/fontawesome.css" rel="stylesheet" type="text/css"></head> 
+ <body class="awsm" data-da-elem-id="0d8739cc-af8f-4323-866b-6e6bc0fe35b9"> 
+  <script id="awsc-panorama-bundle" type="text/javascript" src="https://prod.pa.cdn.uis.awsstatic.com/panorama-nav-init.js" data-config="{&quot;appEntity&quot;:&quot;aws-marketing&quot;,&quot;region&quot;:&quot;us-west-1&quot;,&quot;service&quot;:&quot;global-site&quot;,&quot;trackerConstants&quot;:{&quot;cookieDomain&quot;:&quot;aws.amazon.com&quot;}}" async="true"></script> 
+  <a id="aws-page-skip-to-main" class="lb-sr-only lb-sr-only-focusable lb-bold lb-skip-el" href="#aws-page-content-main"> 跳至主要内容</a> 
+  <header id="aws-page-header" class="awsm m-page-header lb-with-mobile-subrow" role="banner"> 
+   <div id="m-nav" class="m-nav" role="navigation" aria-label="全局导航"> 
+    <div class="m-nav-header lb-clearfix m-nav-double-row" data-menu-url="https://s0.awsstatic.com/zh_CN/nav/v3/panel-content/desktop/index.html"> 
+     <div class="m-nav-logo"> 
+      <div class="lb-bg-logo aws-amazon_web_services_smile-header-desktop-en"> 
+       <a href="https://aws.amazon.com/cn/?nc2=h_lg"><span>单击此处以返回 Amazon Web Services 主页</span></a> 
+      </div> 
+     </div> 
+     <nav class="m-nav-secondary-links" style="min-width: 620px" aria-label="辅助全局导航"> 
+      <a href="/cn/about-aws/?nc2=h_header">关于 AWS</a> 
+      <a href="/cn/contact-us/?nc2=h_header">联系我们</a> 
+      <a class="lb-txt-none lb-tiny-iblock lb-txt-13 lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="popover-support-selector" role="button" aria-expanded="false" aria-label="Explore support options" id="popover-popover-support-selector-trigger" aria-controls="popover-support-selector" aria-haspopup="true"> 支持&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+      <a id="m-nav-language-selector" class="lb-tiny-iblock lb-txt lb-has-trigger-indicator" href="#" data-lb-popover-trigger="popover-language-selector" data-language="cn" aria-label="设置网站语言" role="button" aria-controls="popover-language-selector" aria-expanded="false" aria-haspopup="true"> 中文（简体） &nbsp; 
+       <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-chevron-down lb-trigger-mount"> 
+        <path d="M1 4.5L8 11.5L15 4.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> 
+       </svg> </a> 
+      <a class="lb-tiny-iblock lb-txt lb-has-trigger-indicator" href="#" data-lb-popover-trigger="popover-my-account" aria-label="访问账户选项" role="button" aria-controls="popover-my-account" aria-expanded="false" aria-haspopup="true"> 我的账户 &nbsp; 
+       <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-chevron-down lb-trigger-mount"> 
+        <path d="M1 4.5L8 11.5L15 4.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> 
+       </svg> </a> 
+      <div class="m-nav-cta-btn"> 
+       <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_header_nav_cta" data-mbox-registered="true"> 
+        <div class="lb-data-attr-wrapper data-attr-wrapper" data-da-type="so" data-da-so-type="viewport" data-da-so-language="cn" data-da-so-category="monitoring" data-da-so-name="nav-buttons" data-da-so-version="sign-up-sign-in-all" data-da-so-url="nav" data-da-elem-id="5c53e4e9-df1f-491f-a354-304de5dcf51d"> 
+         <div class="data-attr-wrapper lb-tiny-iblock lb-none-pad lb-box" data-da-type="so" data-da-so-type="viewport" data-da-so-language="cn" data-da-so-category="monitoring" data-da-so-name="nav-buttons" data-da-so-version="prospect-sign-in" data-da-so-url="all" data-da-elem-id="206d1c7b-43d9-4da9-9d15-4b3e9dfcd056"> 
+          <a class="lb-txt-none lb-tiny-iblock lb-txt-13 lb-txt" style="padding-top:8px; padding-right:13px;" href="https://console.aws.amazon.com/console/home?nc2=h_ct&amp;src=header-signin"> 登录</a> 
+         </div> 
+         <div class="data-attr-wrapper lb-tiny-iblock lb-none-v-margin lb-btn" data-da-type="so" data-da-so-type="viewport" data-da-so-language="cn" data-da-so-category="monitoring" data-da-so-name="nav-buttons" data-da-so-version="prospect-signup" data-da-so-url="all" data-da-elem-id="ba660df3-8fa7-4f41-a230-2b8d5f524449"> 
+          <a class="lb-btn-p-primary" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&amp;src=header_signup" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}" role="button"> <span> 创建 AWS 账户</span> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </nav> 
+     <div class="m-nav-primary-group"> 
+      <nav class="m-nav-primary-links" aria-label="主要全局导航"> 
+       <i class="m-nav-angle-left-icon" aria-hidden="true"></i> 
+       <ul> 
+        <li aria-expanded="false"><span><a href="/cn/products/?nc2=h_ql_prod" data-panel="m-nav-panel-products">产品</a></span></li> 
+        <li aria-expanded="false"><span><a href="/cn/solutions/?nc2=h_ql_sol" data-panel="m-nav-panel-solutions">解决方案</a></span></li> 
+        <li aria-expanded="false"><span><a href="/cn/pricing/?nc2=h_ql_pr" data-panel="m-nav-panel-pricing">定价</a></span></li> 
+        <li aria-expanded="false"><span><a href="https://aws.amazon.com/documentation-overview/?nc2=h_ql_doc_do" data-panel="m-nav-panel-documentation">文档</a></span></li> 
+        <li aria-expanded="false"><span><a href="/cn/getting-started/?nc2=h_ql_le" data-panel="m-nav-panel-learn">了解</a></span></li> 
+        <li aria-expanded="false"><span><a href="/cn/partners/?nc2=h_ql_pn" data-panel="m-nav-panel-partner">合作伙伴网络</a></span></li> 
+        <li aria-expanded="false"><span><a href="https://aws.amazon.com/marketplace/?nc2=h_ql_mp" data-panel="m-nav-panel-marketplace">AWS Marketplace</a></span></li> 
+        <li aria-expanded="false"><span><a href="/cn/customer-enablement/?nc2=h_ql_ce" data-panel="m-nav-panel-customer">客户支持</a></span></li> 
+        <li aria-expanded="false"><span><a href="/cn/events/?nc2=h_ql_ev" data-panel="m-nav-panel-events">活动</a></span></li> 
+        <li aria-expanded="false"><span><a href="/cn/contact-us/?nc2=h_ql_exm" data-panel="m-nav-panel-more">探索更多信息 </a></span></li> 
+       </ul> 
+       <div class="m-nav-icon-group"> 
+        <i class="m-nav-angle-right-icon" aria-hidden="true"></i> 
+        <button class="m-nav-search-icon" tabindex="0" aria-expanded="false" aria-label="搜索"> 
+         <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-magnify"> 
+          <path d="M10.5 10.5L14.5 14.5" stroke-width="2" stroke-linejoin="round"></path> 
+          <path d="M7 12.5C10.0376 12.5 12.5 10.0376 12.5 7C12.5 3.96243 10.0376 1.5 7 1.5C3.96243 1.5 1.5 3.96243 1.5 7C1.5 10.0376 3.96243 12.5 7 12.5Z" stroke-width="2" stroke-linejoin="round"></path> 
+         </svg> </button> 
+       </div> 
+      </nav> 
+      <div id="m-nav-desktop-search" class="m-nav-search"> 
+       <form action="https://aws.amazon.com/search/" role="search"> 
+        <div class="m-typeahead" data-directory-id="typeahead-suggestions" data-lb-comp="typeahead"> 
+         <input class="m-nav-search-field" placeholder="搜索" autocomplete="off" spellcheck="false" dir="auto" type="text" name="searchQuery"> 
+        </div> 
+       </form> 
+       <i class="m-nav-close-icon" role="button" aria-label="关闭"></i> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="popover-language-selector" id="popover-language-selector" aria-modal="false" aria-labelledby="popover-popover-language-selector-trigger" data-action="hover" data-position="top"> 
+     <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+     <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-12"> 
+       <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block"> 
+        <li lang="ar-SA" translate="no" data-language="ar"><a href="https://aws.amazon.com/ar/?nc1=h_ls">عربي</a></li> 
+        <li lang="id-ID" translate="no" data-language="id"><a href="https://aws.amazon.com/id/?nc1=h_ls">Bahasa Indonesia</a></li> 
+        <li lang="de-DE" translate="no" data-language="de"><a href="https://aws.amazon.com/de/?nc1=h_ls">Deutsch</a></li> 
+        <li lang="en-US" translate="no" data-language="en"><a href="https://aws.amazon.com/?nc1=h_ls">English</a></li> 
+        <li lang="es-ES" translate="no" data-language="es"><a href="https://aws.amazon.com/es/?nc1=h_ls">Español</a></li> 
+        <li lang="fr-FR" translate="no" data-language="fr"><a href="https://aws.amazon.com/fr/?nc1=h_ls">Français</a></li> 
+        <li lang="it-IT" translate="no" data-language="it"><a href="https://aws.amazon.com/it/?nc1=h_ls">Italiano</a></li> 
+        <li lang="pt-BR" translate="no" data-language="pt"><a href="https://aws.amazon.com/pt/?nc1=h_ls">Português</a></li> 
+       </ul> 
+      </div> 
+      <div class="lb-col lb-tiny-24 lb-mid-12"> 
+       <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block"> 
+        <li lang="vi-VN" translate="no" data-language="vi"><a href="https://aws.amazon.com/vi/?nc1=f_ls">Tiếng Việt</a></li> 
+        <li lang="tr-TR" translate="no" data-language="tr"><a href="https://aws.amazon.com/tr/?nc1=h_ls">Türkçe</a></li> 
+        <li lang="ru-RU" translate="no" data-language="ru"><a href="https://aws.amazon.com/ru/?nc1=h_ls">Ρусский</a></li> 
+        <li lang="th-TH" translate="no" data-language="th"><a href="https://aws.amazon.com/th/?nc1=f_ls">ไทย</a></li> 
+        <li lang="ja-JP" translate="no" data-language="jp"><a href="https://aws.amazon.com/jp/?nc1=h_ls">日本語</a></li> 
+        <li lang="ko-KR" translate="no" data-language="ko"><a href="https://aws.amazon.com/ko/?nc1=h_ls">한국어</a></li> 
+        <li lang="zh-CN" translate="no" data-language="cn"><a href="https://aws.amazon.com/cn/?nc1=h_ls">中文 (简体)</a></li> 
+        <li lang="zh-TW" translate="no" data-language="tw"><a href="https://aws.amazon.com/tw/?nc1=h_ls">中文 (繁體)</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="popover-my-account" id="popover-my-account" aria-modal="false" aria-labelledby="popover-popover-my-account-trigger" data-action="hover" data-position="top"> 
+     <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+     <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block"> 
+      <li class="m-no-auth" data-myaws-auth-only="true"><a href="/cn/profile/?nc2=h_m_mc">我的配置文件</a></li> 
+      <li class="m-no-auth" data-myaws-auth-only="true"><a href="https://auth.aws.amazon.com/sign-out/?nc2=h_m_mc">注销 AWS Builder ID</a></li> 
+      <li><a href="https://console.aws.amazon.com/?nc2=h_m_mc">AWS 管理控制台</a></li> 
+      <li><a href="https://console.aws.amazon.com/billing/home#/account?nc2=h_m_ma">账户设置</a></li> 
+      <li><a href="https://console.aws.amazon.com/billing/home?nc2=h_m_bc">账单与成本管理</a></li> 
+      <li><a href="https://console.aws.amazon.com/iam/home?nc2=h_m_sc#security_credential">安全证书</a></li> 
+      <li><a href="https://phd.aws.amazon.com/?nc2=h_m_sc">AWS Personal Health Dashboard</a></li> 
+     </ul> 
+    </div> 
+    <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="popover-support-selector" id="popover-support-selector" aria-modal="false" aria-labelledby="popover-popover-support-selector-trigger" data-action="hover" data-position="top"> 
+     <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+     <ul class="lb-txt-none lb-ul lb-list-style-none lb-tiny-ul-block"> 
+      <li><a href="https://console.aws.amazon.com/support/home/?nc2=h_ql_cu">支持中心</a></li> 
+      <li><a href="https://iq.aws.amazon.com/?utm=mkt.nav">专家帮助</a></li> 
+      <li><a href="https://repost.aws/knowledge-center/?nc2=h_m_ma">知识中心</a></li> 
+      <li><a href="/cn/premiumsupport/?nc2=h_m_bc">AWS Support 概述</a></li> 
+      <li><a href="https://repost.aws/">AWS re:Post</a></li> 
+     </ul> 
+    </div> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/suggestions" data-hbs-context="{&quot;pricingText&quot;:&quot;定价&quot;,&quot;documentationText&quot;:&quot;文档&quot;,&quot;calculatorText&quot;:&quot;计算器&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/products-head" data-hbs-context="{&quot;productsText&quot;:&quot;产品&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/keypages-head" data-hbs-context="{&quot;relatedPagesText&quot;:&quot;相关页面&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/tutorials-head" data-hbs-context="{&quot;tutorialsText&quot;:&quot;教程&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/blogs-head" data-hbs-context="{&quot;blogsText&quot;:&quot;博客&quot;}"></script> 
+    <script type="text/x-handlebars-template" data-hbs-template-path="nav-desktop/see-all" data-hbs-context="{&quot;resultsText&quot;:&quot;查看更多结果&quot;}"></script> 
+   </div> 
+   <div id="m-nav-mobile" class="m-nav-mobile" role="navigation" aria-label="移动设备全局导航"> 
+    <div id="m-nav-mobile-header" class="m-nav-mobile-header m-nav-mobile-with-sub-row" data-menu-url="https://s0.awsstatic.com/zh_CN/nav/v3/panel-content/mobile/index.html"> 
+     <div class="lb-bg-logo aws-amazon_web_services_smile-header-mobile-en"> 
+      <a href="https://aws.amazon.com/cn/?nc2=h_lg"><span>单击此处以返回 Amazon Web Services 主页</span></a> 
+     </div> 
+     <div class="m-nav-mobile-button-group"> 
+      <button class="m-nav-mobile-button icon-search" tabindex="0" aria-expanded="false" aria-label="搜索"> 
+       <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+        <path d="M10.5 10.5L14.5 14.5" stroke-width="2" stroke-linejoin="round"></path> 
+        <path d="M7 12.5C10.0376 12.5 12.5 10.0376 12.5 7C12.5 3.96243 10.0376 1.5 7 1.5C3.96243 1.5 1.5 3.96243 1.5 7C1.5 10.0376 3.96243 12.5 7 12.5Z" stroke-width="2" stroke-linejoin="round"></path> 
+       </svg> </button> 
+      <button class="m-nav-mobile-button icon-reorder" tabindex="0" aria-expanded="false" aria-label="菜单"> 
+       <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+        <path d="M15 3H1" stroke-width="2" stroke-linejoin="round"></path> 
+        <path d="M15 8H1" stroke-width="2" stroke-linejoin="round"></path> 
+        <path d="M15 13H1" stroke-width="2" stroke-linejoin="round"></path> 
+       </svg> </button> 
+      <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true"> 
+      </div> 
+     </div> 
+     <div id="m-nav-mobile-sub-row" class="m-nav-mobile-sub-row"> 
+      <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="cn" data-da-so-name="global-mobile-sticky-cta-buttons" data-da-so-type="viewport" data-da-so-version="get-started-for-free-cta" data-da-so-url="all" data-da-elem-id="be92c09b-39a0-4a83-ac59-12701ae668a8"> 
+       <a class="lb-btn-p-primary" href="https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_mobile" role="button"> <span> 免费试用</span> </a> 
+      </div> 
+      <div class="data-attr-wrapper lb-btn" data-da-type="so" data-da-so-category="monitoring" data-da-so-language="cn" data-da-so-name="global-mobile-sticky-cta-buttons" data-da-so-type="viewport" data-da-so-version="contact-us" data-da-elem-id="5e15c39b-015c-459d-a424-68fb23575c01"> 
+       <a class="lb-btn-p" href="https://aws.amazon.com/contact-us/?nc2=h_mobile" role="button"> <span> 联系我们</span> </a> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="m-nav-mobile-search" class="m-nav-mobile-search"> 
+     <form action="https://aws.amazon.com/search" role="search"> 
+      <div class="m-typeahead"> 
+       <input class="m-nav-search-field" placeholder="搜索" autocomplete="off" spellcheck="false" dir="auto" type="text" name="searchQuery"> 
+      </div> 
+     </form> 
+    </div> 
+    <nav id="m-nav-trimdown" aria-label="精简版移动设备全局导航"> 
+     <ul class="m-nav-mobile-menu-group"> 
+      <li> <a href="/cn/products/?nc2=h_mo"> <span class="m-nav-link-title">产品</span> </a> </li> 
+      <li> <a href="/cn/solutions/?nc2=h_mo"> <span class="m-nav-link-title">解决方案</span> </a> </li> 
+      <li> <a href="/cn/pricing/?nc2=h_mo"> <span class="m-nav-link-title">定价</span> </a> </li> 
+      <li> <a href="/cn/what-is-aws/?nc2=h_mo"> <span class="m-nav-link-title">AWS 简介</span> </a> </li> 
+      <li> <a href="/cn/getting-started/?nc2=h_mo"> <span class="m-nav-link-title">入门</span> </a> </li> 
+      <li> <a href="https://aws.amazon.com/documentation-overview/?nc2=h_mo"> <span class="m-nav-link-title">文档</span> </a> </li> 
+      <li> <a href="/cn/training/?nc2=h_mo"> <span class="m-nav-link-title">培训和认证</span> </a> </li> 
+      <li> <a href="/cn/developer/?nc2=h_mo"> <span class="m-nav-link-title">开发人员中心</span> </a> </li> 
+      <li> <a href="/cn/solutions/case-studies/?nc2=h_mo"> <span class="m-nav-link-title">客户成功案例</span> </a> </li> 
+      <li> <a href="/cn/partners/?nc2=h_mo"> <span class="m-nav-link-title">合作伙伴网络</span> </a> </li> 
+      <li> <a href="https://aws.amazon.com/marketplace/?nc2=h_mo"> <span class="m-nav-link-title">AWS Marketplace</span> </a> </li> 
+      <li> <a href="https://console.aws.amazon.com/support/home?nc2=h_ql_cu"> <span class="m-nav-link-title">支持</span> </a> </li> 
+      <li> <a href="https://repost.aws/"> <span class="m-nav-link-title">AWS re:Post</span> </a> </li> 
+      <li> <a href="https://console.aws.amazon.com/console/home"> <span class="m-nav-link-title">登录控制台</span> </a> </li> 
+      <li> <a href="/cn/console/mobile/"> <span class="m-nav-link-title">下载移动应用</span> </a> </li> 
+     </ul> 
+    </nav> 
+   </div> 
+   <div class="lb-sticky-subnav" data-lb-comp="sticky-subnav" data-lb-page-path="/cn/retail-consumer-goods/generative-ai/"> 
+    <div class="lb-row lb-row-max-large lb-snap"> 
+     <div class="lb-tiny-24 lb-sticky-subnav-content"> 
+      <div class="lb-sticky-subnav-title"> 
+       <a class="lb-txt-none lb-txt" href="/cn/retail-consumer-goods/" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> AWS 在零售和消费品行业的应用</a> 
+      </div> 
+      <div class="lb-sticky-subnav-links"> 
+       <a class="lb-txt-bold lb-txt-none lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="solutions" role="button" aria-expanded="false" aria-label="打开查看更多信息" id="popover-solutions-trigger" aria-controls="solutions" aria-haspopup="true" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> 解决方案领域&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+       <a class="lb-txt-bold lb-txt-none lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="casestudies" role="button" aria-expanded="false" aria-label="Case Studies" id="popover-casestudies-trigger" aria-controls="casestudies" aria-haspopup="true" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> 案例研究&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+       <a class="lb-txt-bold lb-txt-none lb-txt lb-current-page-link" href="/cn/retail-consumer-goods/generative-ai/" data-trk-params="{&quot;trkOverrideWithQs&quot;:true}"> 生成式人工智能</a> 
+       <a class="lb-txt-bold lb-txt-none lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="partners" role="button" aria-expanded="false" aria-label="Partners" id="popover-partners-trigger" aria-controls="partners" aria-haspopup="true"> 合作伙伴&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+       <a class="lb-txt-bold lb-txt-none lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="resources" role="button" aria-expanded="false" aria-label="Resources" id="popover-resources-trigger" aria-controls="resources" aria-haspopup="true"> 资源&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+       <a class="lb-txt-bold lb-txt-none lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="blog" role="button" aria-expanded="false" aria-label="Blog" id="popover-blog-trigger" aria-controls="blog" aria-haspopup="true"> 博客&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+       <a class="lb-txt-bold lb-txt-none lb-txt lb-has-trigger-indicator" href="#" data-mbox-ignore="true" data-lb-popover-trigger="marketplace" role="button" aria-expanded="false" aria-label="AWS Marketplace" id="popover-marketplace-trigger" aria-controls="marketplace" aria-haspopup="true"> AWS Marketplace&nbsp; <i class="icon-caret-down lb-trigger-mount"></i></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="solutions" id="solutions" aria-modal="false" aria-labelledby="popover-solutions-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/retail/#Accelerate_retail_innovation_with_AWS"> 零售</a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/cpg/#AWS_helps_create_brands_consumers_love"> 消费品</a> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="casestudies" id="casestudies" aria-modal="false" aria-labelledby="popover-casestudies-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/retail/case-studies/?nc=sn&amp;loc=3"> 零售</a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/cpg/case-studies/?nc=sn&amp;loc=3"> 消费品</a> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="partners" id="partners" aria-modal="false" aria-labelledby="popover-partners-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/retail/partner-solutions/?nc=sn&amp;loc=5"> 零售</a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/cpg/partner-solutions/"> 消费品</a> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="resources" id="resources" aria-modal="false" aria-labelledby="popover-resources-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/retail/resources/?nc=sn&amp;loc=4"> 零售</a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/cpg/resources/?nc=sn&amp;loc=4&amp;cpg-blogs.sort-by=item.additionalFields.createdDate&amp;cpg-blogs.sort-order=desc"> 消费品</a> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="blog" id="blog" aria-modal="false" aria-labelledby="popover-blog-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/blogs/industries/category/industries/retail/?nc=sn&amp;loc=4"> 零售</a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/blogs/industries/category/industries/cpg/?nc=sn&amp;loc=4"> 消费品</a> 
+   </div> 
+   <div class="lb-popover lb-popover-aui lb-popover-tiny" data-lb-comp="popover" data-id="marketplace" id="marketplace" aria-modal="false" aria-labelledby="popover-marketplace-trigger" data-action="hover" data-position="top"> 
+    <a class="lb-popover-close" role="button" tabindex="0" aria-label="关闭" title="关闭"> <span class="lb-sr-only">关闭</span> </a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/marketplace/solutions/retail"> 零售</a> 
+    <a class="lb-txt-none lb-txt" href="https://aws.amazon.com/marketplace/search?prevFilters=%257B%2522ref_%2522%3A%2522mp_nav_category_48bf064f-9812-41a8-95c2-4078962a8314%2522%2C%2522category%2522%3A%252248bf064f-9812-41a8-95c2-4078962a8314%2522%257D&amp;searchTerms=consumer+packaged+goods"> 消费品</a> 
+   </div> 
+  </header> 
+  <div id="aws-page-content" class="lb-bg-center-top-contain-no-repeat lb-none-pad lb-page-content lb-page-with-sticky-subnav" style="background-image: url(https://d1.awsstatic.com/awsi-genai-header-rcg-full-03.7e77bc139ba757b39c8939bbc3d156c87f1fb145.png); margin-top: 178px;" data-page-alert-target="true"> 
+   <main id="aws-page-content-main" role="main" tabindex="-1"> 
+    <div class="lb-mid-pad lb-grid" style="margin-bottom:50px;"> 
+     <div class="lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-18"> 
+       <div class="lb-mid-small-pad lb-box" style="padding-left:0px;"> 
+        <div class="lb-breadcrumbs lb-breadcrumbs-dropTitle"> 
+         <ul> 
+          <li> <a href="/cn/industries/"><span>行业</span></a> </li> 
+         </ul> 
+         <h1>面向零售和消费品行业的生成式人工智能</h1> 
+        </div> 
+        <div class="lb-txt-16 lb-micro-v-margin lb-rtxt" style="margin-top:0px; margin-bottom:30px;"> 
+         <p>利用生成式人工智能，提高效率、增强客户参与度、加速创新。&nbsp; AWS 与我们的合作伙伴一起，面向零售和消费品行业，为您提供业务转型所需的基础设施、模型和应用程序。<br> </p> 
+        </div> 
+        <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-8"> 
+          <div class="lb-xlarge-radius lb-border-p lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgb(255,255,255); padding-top:10px; border-width:1px; border-color:#2274d5; margin-top:25px;"> 
+           <a style="padding-top:10px;" href="https://pages.awscloud.com/retailContactUs" target="_blank" rel="noopener noreferrer"> 
+            <div class="lb-tiny-align-center lb-txt-none lb-txt">
+              联系我们 › 
+            </div> </a> 
+          </div> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-16"> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-col lb-tiny-24 lb-mid-6"> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-mid-pad lb-grid" style="padding-top:0px;"> 
+     <div class="lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-small-24"> 
+       <h2 id="Where_generative_AI_can_add_value_to_Retail_and_Consumer_Goods" class="lb-txt-none lb-txt-36 lb-h2 lb-title"> 生成式人工智能可为零售和消费品行业创造价值的领域</h2> 
+       <div class="lb-txt-20 lb-rtxt" style="margin-bottom:0px;"> 
+        <p>众多公司纷纷投资探索如何利用生成式人工智能为客户、产品、员工和 IT 部门提供支持。浏览下面的一些热门应用场景：<br> </p> 
+       </div> 
+       <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-3"> 
+         <figure class="lb-img"> 
+          <div> 
+           <img src="https://d1.awsstatic.com/PackageOpen_BLK_gradient1.80aa9af19b3c8e26901543994ccf86185771e41d.png" alt="自动化流程" title="自动化流程" class="cq-dd-image"> 
+          </div> 
+         </figure> 
+        </div> 
+        <div class="lb-col lb-tiny-24 lb-mid-21"> 
+         <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap" style="padding-top:0px;"> 
+          <div class="lb-col lb-tiny-24 lb-mid-9"> 
+           <div class="lb-txt-bold lb-txt-32 lb-rtxt"> 
+            <p><b>提供超个性化客户体验</b><br> </p> 
+           </div> 
+          </div> 
+          <div class="lb-col lb-tiny-24 lb-mid-15"> 
+           <div class="lb-border-left lb-border-p lb-none-pad lb-none-v-margin lb-box" style="padding-left:20px; border-width:3px; border-color:#2274d5;"> 
+            <div class="lb-txt-18 lb-rtxt"> 
+             <p>生成具有吸引力的主题行、电子邮件文案和内容，基于过往购物记录与推荐商品之间的主题关联，针对每位收件人创建独特的个性化营销活动。</p> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-3"> 
+         <figure class="lb-img" style="margin-top:0px;"> 
+          <div> 
+           <img src="https://d1.awsstatic.com/MobileUser_BLK_gradient1.f2112f62f63dd1bab378dc42eb924f6728a3da16.png" alt="重塑客户体验" title="重塑客户体验" class="cq-dd-image"> 
+          </div> 
+         </figure> 
+        </div> 
+        <div class="lb-col lb-tiny-24 lb-mid-21"> 
+         <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap" style="padding-top:0px;"> 
+          <div class="lb-col lb-tiny-24 lb-mid-9"> 
+           <div class="lb-txt-bold lb-txt-32 lb-rtxt"> 
+            <p><b>加快产品开发</b><br> </p> 
+           </div> 
+          </div> 
+          <div class="lb-col lb-tiny-24 lb-mid-15"> 
+           <div class="lb-border-left lb-border-p lb-none-pad lb-none-v-margin lb-box" style="padding-left:20px; border-width:3px; border-color:#2274d5;"> 
+            <div class="lb-txt-18 lb-rtxt" style="margin-top:10px;"> 
+             <p>开发创新产品，确保在线产品的准确性，缩短上市时间<br> </p> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-3"> 
+         <figure class="lb-img" style="margin-top:0px;"> 
+          <div> 
+           <img src="https://d1.awsstatic.com/CustomerEngagement_BLK_1.87c15aa2f14e313eae7c018cd04940bf6b374117.png" alt="提高员工的工作效率" title="提高员工的工作效率" class="cq-dd-image"> 
+          </div> 
+         </figure> 
+        </div> 
+        <div class="lb-col lb-tiny-24 lb-mid-21"> 
+         <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap" style="padding-top:0px;"> 
+          <div class="lb-col lb-tiny-24 lb-mid-9"> 
+           <div class="lb-txt-bold lb-txt-32 lb-rtxt"> 
+            <p>提高员工的工作效率<br> </p> 
+           </div> 
+          </div> 
+          <div class="lb-col lb-tiny-24 lb-mid-15"> 
+           <div class="lb-border-left lb-border-p lb-none-pad lb-none-v-margin lb-box" style="padding-left:20px; border-width:3px; border-color:#2274d5;"> 
+            <div class="lb-txt-18 lb-rtxt"> 
+             <p>使用员工助手轻松查找准确信息并获得答案，从而做出更好的决策<br> </p> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-3"> 
+         <figure class="lb-img" style="margin-top:0px;"> 
+          <div> 
+           <img src="https://d1.awsstatic.com/BrowserClick_BLK_gradient.f737fe14ac9f9ba6518df401849df44f1379ee05.png" alt="提高 IT 效率" title="提高 IT 效率" class="cq-dd-image"> 
+          </div> 
+         </figure> 
+        </div> 
+        <div class="lb-col lb-tiny-24 lb-mid-21"> 
+         <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap" style="padding-top:0px;"> 
+          <div class="lb-col lb-tiny-24 lb-mid-9"> 
+           <div class="lb-txt-bold lb-txt-32 lb-rtxt"> 
+            <p>提高 IT 效率<br> </p> 
+           </div> 
+          </div> 
+          <div class="lb-col lb-tiny-24 lb-mid-15"> 
+           <div class="lb-border-left lb-border-p lb-none-pad lb-none-v-margin lb-box" style="padding-left:20px; border-width:3px; border-color:#2274d5;"> 
+            <div class="lb-txt-18 lb-rtxt"> 
+             <p>使用生成式人工智能的代码建议，更快地编写代码，并减少错误<br> </p> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+     <div class="lb-col lb-tiny-24 lb-mid-24"> 
+      <div class="lb-box"> 
+       <div class="lb-none-pad lb-none-v-margin lb-grid" style="padding-top:25px; padding-bottom:0px; margin-top:0px; margin-bottom:0px;"> 
+        <div class="lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-24"> 
+          <h2 id="Explore_and_learn" class="lb-txt-none lb-txt-36 lb-h2 lb-title"> 探索和学习</h2> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-none-pad lb-xb-grid-wrap"> 
+        <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-xb-justify-center lb-gutter-smallOutsideCollapse lb-tiny-xb-1 lb-mid-xb-3"> 
+         <div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-box" style="background-color:rgba(232,242,255,0.64); border-color:rgb(127,127,226);"> 
+            <div class="lb-box" style="margin-bottom:0px;"> 
+             <figure class="lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-news-01a.28cfdbb6196faa07e5bfc4d7f8c9c3c069fd0b88.png" alt="Adidas 和 Traeger Grills 利用生成式人工智能推动实现数据可视化" title="Adidas 和 Traeger Grills 利用生成式人工智能推动实现数据可视化" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+             <h4 id="Adidas_and_Traeger_Grills_power_data_visualization_with_generative_AI" class="lb-txt-none lb-txt-22 lb-h4 lb-title"> Adidas 和 Traeger Grills 利用生成式人工智能推动实现数据可视化</h4> 
+             <div class="lb-rtxt" style="margin-bottom:25px;"> 
+              <p>了解 Adidas 和 Traeger Grills 如何成为最新一批在 AWS 上利用生成式人工智能技术的消费品公司。<br> </p> 
+             </div> 
+             <div class="lb-xlarge-radius lb-border-p lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#FFFFFF; margin-top:25px;"> 
+              <a style="padding-top:10px;" href="https://consumergoods.com/adidas-and-traeger-grills-power-data-visualization-gen-ai" target="_blank" rel="noopener noreferrer"> 
+               <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt" style="color:rgb(255,255,255); padding-right:10px;">
+                 了解详情 › 
+               </div> </a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-box" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-bottom:45px;"> 
+            <div class="lb-box" style="margin-bottom:0px;"> 
+             <figure class="lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-news-10.c107063b5b25de4be61d42404cf7f32ff1e7b6d5.png" alt="利用生成式人工智能加速创新" title="利用生成式人工智能加速创新" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+             <h4 id="Accelerate_innovation_with_generative_AI" class="lb-txt-none lb-txt-22 lb-h4 lb-title" style="margin-bottom:45px;"> 利用生成式人工智能加速创新</h4> 
+             <div class="lb-rtxt" style="margin-bottom:25px;"> 
+              <p>阅读这本新的电子书，了解如何使用生成式人工智能来提升体验、提高洞察力、简化运营等。&nbsp;<br> </p> 
+             </div> 
+             <div class="lb-xlarge-radius lb-border-p lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#FFFFFF; margin-top:15px;"> 
+              <a style="padding-top:10px;" href="https://pages.awscloud.com/global-ln-gc-a4r-rcg-genai-ebook-learn.html" target="_blank" rel="noopener noreferrer"> 
+               <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt" style="color:rgb(255,255,255); padding-right:10px;">
+                 了解详情 › 
+               </div> </a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-box" style="background-color:rgba(232,242,255,0.64); border-color:rgb(127,127,226);"> 
+            <div class="lb-box" style="margin-bottom:0px;"> 
+             <figure class="lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-news-11.f8606b762916044ca43c5747414547e59988d992.png" alt="通过四个步骤解锁切实可行的生成式人工智能战略" title="通过四个步骤解锁切实可行的生成式人工智能战略" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+             <h4 id="4_steps_to_achieving_an_actionable_generative_AI_strategy" class="lb-txt-none lb-txt-21 lb-h4 lb-title"> 通过四个步骤解锁切实可行的生成式人工智能战略</h4> 
+             <div class="lb-rtxt" style="margin-bottom:25px;"> 
+              <p>查看信息图，了解如何使用生成式人工智能为客户、产品、员工和 IT 部门提供支持。<br> </p> 
+             </div> 
+             <div class="lb-xlarge-radius lb-border-p lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#FFFFFF; margin-top:25px;"> 
+              <a style="padding-top:10px;" href="https://d1.awsstatic.com/psc-digital/2024/gc-a4r/rcg-genai-infog/Revolutionize-retail-and-consumer-goods-with-generative-AI.pdf" target="_blank" rel="noopener noreferrer"> 
+               <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt" style="color:rgb(255,255,255); padding-right:10px;">
+                 了解详情 › 
+               </div> </a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-none-v-margin lb-grid lb-row lb-row-max-large lb-snap" style="padding-bottom:0px; margin-bottom:0px;"> 
+     <div class="lb-col lb-tiny-24 lb-mid-24"> 
+      <h2 id="Get_Inspired" class="lb-txt-bold lb-txt-none lb-txt-45 lb-h2 lb-title" style="margin-bottom:0px;"> 获得启发</h2> 
+      <div class="lb-txt-20 lb-rtxt" style="margin-bottom:0px;"> 
+       <p>聆听 AWS 专家讲述生成式人工智能如何改变行业<br> </p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-tiny-hide lb-small-hide lb-mid-show lb-large-show lb-xlarge-show lb-box" style="padding-top:0px; margin-top:0px;"> 
+     <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-top:0px; margin-top:0px;"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <div class="lb-carousel-wrapper light"> 
+        <div id="aws-element-8cd3e104-ccf4-48ab-accb-526d082182cb" class="lb-xlarge-radius lb-none-pad lb-none-v-margin lb-carousel lb-carousel-arrows-outside" style="padding-top:0px; margin-top:0px;" data-lb-comp="carousel" data-items="1" data-animate-out="lb-fade-out" data-animate-in="lb-fade-in" data-autoplay-timeout="5000" data-autoplay="true" data-autoplay-hover-pause="true" data-loop="true" data-withid="aws-element-8cd3e104-ccf4-48ab-accb-526d082182cb" data-theme="light" data-prev-text="Previous Slide" data-next-text="Next Slide" data-slide-text="幻灯片"> 
+         <div class="lb-bg-center-center-contain-no-repeat lb-none-pad lb-carousel-item-inner-wrapper" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png');"> 
+          <div class="lb-carousel-item-inner"> 
+           <div class="lb-box" style="margin-top:45px;"> 
+           </div> 
+           <div class="lb-large-v-margin lb-box" style="margin-bottom:50px;"> 
+           </div> 
+           <div class="lb-none-pad lb-box"> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:45px; padding-right:50px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-9"> 
+             </div> 
+             <div class="lb-col lb-tiny-24 lb-mid-15"> 
+              <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"H3xBkU9DV7g","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/H3xBkU9DV7g.mp4"}</script> 
+              <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="H3xBkU9DV7g" data-placement="inPlace"> 
+               <figure> 
+                <video class="video-js" preload="auto"> 
+                 <source src="https://media.amazonwebservices.com/aws-china-media/H3xBkU9DV7g.mp4" type="video/mp4"> 
+                </video> 
+               </figure> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:0px; margin-bottom:75px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+               <p>如何通过生成式人工智能将数据转化为洞察<br> </p> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-box"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-bg-center-center-contain-no-repeat lb-none-pad lb-carousel-item-inner-wrapper" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png');"> 
+          <div class="lb-carousel-item-inner"> 
+           <div class="lb-box" style="margin-top:45px;"> 
+           </div> 
+           <div class="lb-large-v-margin lb-box" style="margin-bottom:50px;"> 
+           </div> 
+           <div class="lb-none-pad lb-box"> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:45px; padding-right:50px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-9"> 
+             </div> 
+             <div class="lb-col lb-tiny-24 lb-mid-15"> 
+              <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"ax9T1dEhHcE","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/ax9T1dEhHcE.mp4"}</script> 
+              <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="ax9T1dEhHcE" data-placement="inPlace"> 
+               <figure> 
+                <video class="video-js" preload="auto"> 
+                 <source src="https://media.amazonwebservices.com/aws-china-media/ax9T1dEhHcE.mp4" type="video/mp4"> 
+                </video> 
+               </figure> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:0px; margin-bottom:75px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+               <p>探索生成式人工智能为何如此强大<br> </p> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-box"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-bg-center-center-contain-no-repeat lb-none-pad lb-carousel-item-inner-wrapper" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png');"> 
+          <div class="lb-carousel-item-inner"> 
+           <div class="lb-box" style="margin-top:45px;"> 
+           </div> 
+           <div class="lb-large-v-margin lb-box" style="margin-bottom:50px;"> 
+           </div> 
+           <div class="lb-none-pad lb-box"> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:45px; padding-right:50px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-9"> 
+             </div> 
+             <div class="lb-col lb-tiny-24 lb-mid-15"> 
+              <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"wuUOnmhEm5Q","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/wuUOnmhEm5Q.mp4"}</script> 
+              <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="wuUOnmhEm5Q" data-placement="inPlace"> 
+               <figure> 
+                <video class="video-js" preload="auto"> 
+                 <source src="https://media.amazonwebservices.com/aws-china-media/wuUOnmhEm5Q.mp4" type="video/mp4"> 
+                </video> 
+               </figure> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:0px; margin-bottom:75px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+               <p>了解生成式人工智能如何影响财务业绩<br> </p> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-box"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-bg-center-center-contain-no-repeat lb-none-pad lb-carousel-item-inner-wrapper" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png');"> 
+          <div class="lb-carousel-item-inner"> 
+           <div class="lb-box" style="margin-top:45px;"> 
+           </div> 
+           <div class="lb-large-v-margin lb-box" style="margin-bottom:50px;"> 
+           </div> 
+           <div class="lb-none-pad lb-box"> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:45px; padding-right:50px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-9"> 
+             </div> 
+             <div class="lb-col lb-tiny-24 lb-mid-15"> 
+              <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"KzA5rsG6Hts","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/KzA5rsG6Hts.mp4"}</script> 
+              <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="KzA5rsG6Hts" data-placement="inPlace"> 
+               <figure> 
+                <video class="video-js" preload="auto"> 
+                 <source src="https://media.amazonwebservices.com/aws-china-media/KzA5rsG6Hts.mp4" type="video/mp4"> 
+                </video> 
+               </figure> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:0px; margin-bottom:75px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+               <p>利用生成式人工智能重塑智能商店<br> </p> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-box"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-bg-center-center-contain-no-repeat lb-none-pad lb-carousel-item-inner-wrapper" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png');"> 
+          <div class="lb-carousel-item-inner"> 
+           <div class="lb-box" style="margin-top:45px;"> 
+           </div> 
+           <div class="lb-large-v-margin lb-box" style="margin-bottom:50px;"> 
+           </div> 
+           <div class="lb-none-pad lb-box"> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:45px; padding-right:50px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-9"> 
+             </div> 
+             <div class="lb-col lb-tiny-24 lb-mid-15"> 
+              <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"qB_LtKIFTEo","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/qB_LtKIFTEo.mp4"}</script> 
+              <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="qB_LtKIFTEo" data-placement="inPlace"> 
+               <figure> 
+                <video class="video-js" preload="auto"> 
+                 <source src="https://media.amazonwebservices.com/aws-china-media/qB_LtKIFTEo.mp4" type="video/mp4"> 
+                </video> 
+               </figure> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:0px; margin-bottom:75px; padding-right:50px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+               <p>品牌商如何利用 Amazon Bedrock 落实应用场景<br> </p> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-box"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="lb-bg-center-center-contain-no-repeat lb-none-pad lb-carousel-item-inner-wrapper" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png');"> 
+          <div class="lb-carousel-item-inner"> 
+           <div class="lb-box" style="margin-top:45px;"> 
+           </div> 
+           <div class="lb-large-v-margin lb-box" style="margin-bottom:50px;"> 
+           </div> 
+           <div class="lb-none-pad lb-box"> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:45px; padding-right:50px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-9"> 
+             </div> 
+             <div class="lb-col lb-tiny-24 lb-mid-15"> 
+              <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"oZN0QZrAc5Q","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/oZN0QZrAc5Q.mp4"}</script> 
+              <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="oZN0QZrAc5Q" data-placement="inPlace"> 
+               <figure> 
+                <video class="video-js" preload="auto"> 
+                 <source src="https://media.amazonwebservices.com/aws-china-media/oZN0QZrAc5Q.mp4" type="video/mp4"> 
+                </video> 
+               </figure> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-left:50px; margin-top:0px; margin-bottom:75px; padding-right:50px;"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+               <p>生成式人工智能如何为时尚界创造更加个性化的未来<br> </p> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="lb-box"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div> 
+         <div class="lb-carousel-controls"> 
+          <div class="lb-hidden-item lb-item"> 
+           <button class="lb-placeholder">Play</button> 
+           <button class="lb-placeholder">Prev</button> 
+           <button class="lb-placeholder">Next</button> 
+          </div> 
+          <div class="lb-dot-container lb-item aws-element-8cd3e104-ccf4-48ab-accb-526d082182cb"></div> 
+          <button class="lb-rotation-button is-control"> <span class="lb-pause-container"> <span class="lb-icon lb-pause-icon" aria-hidden="true"> 
+             <svg width="11" height="16" viewBox="0 0 11 16" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+              <line x1="9.5" y1="6.55671e-08" x2="9.5" y2="16" stroke-width="3"></line> 
+              <line x1="1.5" y1="6.55671e-08" x2="1.5" y2="16" stroke-width="3"></line> 
+             </svg> </span> <span class="lb-sr-only">Pause slide rotation</span> </span> <span class="lb-resume-container"> <span class="lb-icon play-icon" aria-hidden="true"> 
+             <svg viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg"> 
+              <path d="M15.6296 9.14268C16.2766 9.53114 16.2766 10.4689 15.6296 10.8573L2.76478 18.5819C2.09826 18.9821 1.25 18.502 1.25 17.7246L1.25 2.2754C1.25 1.49796 2.09826 1.01786 2.76478 1.41807L15.6296 9.14268Z" stroke-width="2" stroke-linejoin="round"></path> 
+             </svg> </span> <span class="lb-sr-only">Resume slide rotation</span> </span> </button> 
+          <div class="aws-element-8cd3e104-ccf4-48ab-accb-526d082182cb lb-nav-container lb-item"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-24"> 
+         <div class="lb-tiny-align-right lb-txt-blue-600 lb-txt-18 lb-rtxt"> 
+          <p>探索更多客户成功案例：<a href="https://aws.amazon.com/retail/case-studies/" target="_blank" rel="noopener">零售</a> | <a href="https://aws.amazon.com/cpg/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&amp;customer-references-cards.sort-order=desc&amp;awsf.customer-references-location=*all&amp;awsf.customer-references-segment=*all&amp;awsf.customer-references-use-case=*all&amp;awsf.customer-references-tech-category=*all&amp;awsf.customer-references-product=*all&amp;awsf.customer-references-industry=industry%23cpg" target="_blank" rel="noopener">消费品</a>&nbsp;›<br> </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-small-show lb-mid-hide lb-large-hide lb-xlarge-hide lb-box" style="padding-top:0px; margin-top:0px;"> 
+     <div class="lb-grid lb-row lb-row-max-large lb-snap" style="padding-top:0px; margin-top:0px;"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <div class="lb-bg-center-center-cover lb-box" style="margin-top:45px; background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png');"> 
+        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"H3xBkU9DV7g","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/H3xBkU9DV7g.mp4"}</script> 
+        <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="H3xBkU9DV7g" data-placement="inPlace"> 
+         <figure> 
+          <video class="video-js" preload="auto"> 
+           <source src="https://media.amazonwebservices.com/aws-china-media/H3xBkU9DV7g.mp4" type="video/mp4"> 
+          </video> 
+         </figure> 
+        </div> 
+        <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+         <p>如何通过生成式人工智能将数据转化为洞察<br> </p> 
+        </div> 
+       </div> 
+       <div class="lb-bg-center-center-cover lb-box" style="margin-top:45px; background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png');"> 
+        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"ax9T1dEhHcE","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/ax9T1dEhHcE.mp4"}</script> 
+        <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="ax9T1dEhHcE" data-placement="inPlace"> 
+         <figure> 
+          <video class="video-js" preload="auto"> 
+           <source src="https://media.amazonwebservices.com/aws-china-media/ax9T1dEhHcE.mp4" type="video/mp4"> 
+          </video> 
+         </figure> 
+        </div> 
+        <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+         <p>探索生成式人工智能为何如此强大<br> </p> 
+        </div> 
+       </div> 
+       <div class="lb-bg-center-center-cover lb-large-v-margin lb-box" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png'); margin-bottom:50px;"> 
+        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"wuUOnmhEm5Q","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/wuUOnmhEm5Q.mp4"}</script> 
+        <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="wuUOnmhEm5Q" data-placement="inPlace"> 
+         <figure> 
+          <video class="video-js" preload="auto"> 
+           <source src="https://media.amazonwebservices.com/aws-china-media/wuUOnmhEm5Q.mp4" type="video/mp4"> 
+          </video> 
+         </figure> 
+        </div> 
+        <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+         <p>了解生成式人工智能如何影响财务业绩<br> </p> 
+        </div> 
+       </div> 
+       <div class="lb-bg-center-center-cover lb-large-v-margin lb-box" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png'); margin-bottom:50px;"> 
+        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"KzA5rsG6Hts","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/KzA5rsG6Hts.mp4"}</script> 
+        <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="KzA5rsG6Hts" data-placement="inPlace"> 
+         <figure> 
+          <video class="video-js" preload="auto"> 
+           <source src="https://media.amazonwebservices.com/aws-china-media/KzA5rsG6Hts.mp4" type="video/mp4"> 
+          </video> 
+         </figure> 
+        </div> 
+        <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+         <p>利用生成式人工智能重塑智能商店<br> </p> 
+        </div> 
+       </div> 
+       <div class="lb-bg-center-center-cover lb-large-v-margin lb-box" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png'); margin-bottom:50px;"> 
+        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"qB_LtKIFTEo","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/qB_LtKIFTEo.mp4"}</script> 
+        <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="qB_LtKIFTEo" data-placement="inPlace"> 
+         <figure> 
+          <video class="video-js" preload="auto"> 
+           <source src="https://media.amazonwebservices.com/aws-china-media/qB_LtKIFTEo.mp4" type="video/mp4"> 
+          </video> 
+         </figure> 
+        </div> 
+        <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+         <p>品牌商如何利用 Amazon Bedrock 落实应用场景<br> </p> 
+        </div> 
+       </div> 
+       <div class="lb-bg-center-center-cover lb-large-v-margin lb-box" style="background-image:url('https://d1.awsstatic.com/awsi-genai-carusel-rcg-bg-04.2a3e25b863d1543224287ccba0dc8ada1fa1c6e6.png'); margin-bottom:50px;"> 
+        <script type="application/ld+json">{"@context":"https://schema.org/","@type":"VideoObject","name":"oZN0QZrAc5Q","uploadDate":"2024-10-31T00:00Z","thumbnailUrl":"","embedUrl":"https://media.amazonwebservices.com/aws-china-media/oZN0QZrAc5Q.mp4"}</script> 
+        <div class="lb-video lb-video-p" data-source="file" data-lb-comp="video" data-video-title="oZN0QZrAc5Q" data-placement="inPlace"> 
+         <figure> 
+          <video class="video-js" preload="auto"> 
+           <source src="https://media.amazonwebservices.com/aws-china-media/oZN0QZrAc5Q.mp4" type="video/mp4"> 
+          </video> 
+         </figure> 
+        </div> 
+        <div class="lb-txt-white lb-txt-32 lb-rtxt" style="margin-bottom:50px;"> 
+         <p>生成式人工智能如何为时尚界创造更加个性化的未来<br> </p> 
+        </div> 
+       </div> 
+       <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-24"> 
+         <div class="lb-tiny-align-right lb-txt-blue-600 lb-txt-18 lb-rtxt"> 
+          <p>探索更多客户成功案例：<a href="https://aws.amazon.com/retail/case-studies/" target="_blank" rel="noopener">零售</a> | <a href="https://aws.amazon.com/cpg/case-studies/?customer-references-cards.sort-by=item.additionalFields.sortDate&amp;customer-references-cards.sort-order=desc&amp;awsf.customer-references-location=*all&amp;awsf.customer-references-segment=*all&amp;awsf.customer-references-use-case=*all&amp;awsf.customer-references-tech-category=*all&amp;awsf.customer-references-product=*all&amp;awsf.customer-references-industry=industry%23cpg" target="_blank" rel="noopener">消费品</a>&nbsp;›<br> </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-grid lb-row lb-row-max-large lb-snap" style="margin-top:0px;"> 
+     <div class="lb-col lb-tiny-24 lb-mid-24"> 
+      <div class="lb-none-pad lb-box"> 
+       <div class="lb-none-pad lb-none-v-margin lb-grid" style="padding-top:25px; padding-bottom:0px; margin-top:0px; margin-bottom:0px;"> 
+        <div class="lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-24"> 
+          <h2 id="Retail_and_Consumer_Goods_Resources" class="lb-txt-none lb-txt-36 lb-h2 lb-title"> 零售和消费品行业资源</h2> 
+          <div class="lb-txt-20 lb-rtxt" style="margin-bottom:0px;"> 
+           <p>探索生成式人工智能的潜力<br> </p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-none-pad lb-xb-grid-wrap"> 
+        <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-xb-justify-center lb-gutter-smallOutsideCollapse lb-tiny-xb-1 lb-mid-xb-3"> 
+         <div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-box" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5;"> 
+            <div class="lb-box"> 
+             <figure class="lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-news-05a.b321800fcab4c11c3200f0fdf6c6b6bf23929b08.png" alt="在线零售业转型：生成式人工智能的作用" title="在线零售业转型：生成式人工智能的作用" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+             <h4 id="Generative_AI.E2.80.99s_role_in_transforming_online_retail" class="lb-txt-none lb-txt-20 lb-h4 lb-title" style="margin-bottom:50px;"> 在线零售业转型：生成式人工智能的作用</h4> 
+             <div class="lb-rtxt"> 
+              <p>探索 Mercado Libre 利用人工智能重塑在线零售业的创新之举<br> </p> 
+             </div> 
+             <div class="lb-xlarge-radius lb-border-p lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#FFFFFF;"> 
+              <a style="padding-top:10px;" href="https://youtu.be/LvFC1YydKmg" target="_blank" rel="noopener noreferrer"> 
+               <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt" style="color:rgb(255,255,255); padding-right:10px;">
+                 了解详情 › 
+               </div> </a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-box" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5;"> 
+            <div class="lb-box"> 
+             <figure class="lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-news-03a.af23381d34ebf83ad0b350bb60afb3edb6eb1101.png" alt="了解 IDC 零售分析师认为最具关联性的人工智能应用场景" title="了解 IDC 零售分析师认为最具关联性的人工智能应用场景" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+             <h4 id="Discover_what_IDC_Retail_analysts_consider_the_most_relevant_AI-enabled_use_cases" class="lb-txt-none lb-txt-20 lb-h4 lb-title" style="margin-top:15px; margin-bottom:15px;"> 了解 IDC 零售分析师认为最具关联性的人工智能应用场景</h4> 
+             <div class="lb-rtxt" style="margin-bottom:20px;"> 
+              <p>了解采用速度以及如何实现业务成果<br> </p> 
+             </div> 
+             <div class="lb-xlarge-radius lb-border-p lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#FFFFFF;"> 
+              <a style="padding-top:10px;" href="https://pages.awscloud.com/GLOBAL-brand-awareness-content-download-24-idc-ardm-techscape-ai-in-retail-report-learn.html?trk=3aeeaa98-dfd2-4059-8b8e-7bb2e0acc4bc&amp;sc_channel=el" target="_blank" rel="noopener noreferrer"> 
+               <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt" style="color:rgb(255,255,255); padding-right:10px;">
+                 了解详情 › 
+               </div> </a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-box" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5;"> 
+            <div class="lb-box"> 
+             <figure class="lb-img"> 
+              <div> 
+               <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-news-08a.0ecc6b7e4c35f52ce0a7467ddd9218039a50b84e.png" alt="生成式人工智能加速对客户的理解" title="生成式人工智能加速对客户的理解" class="cq-dd-image"> 
+              </div> 
+             </figure> 
+             <h4 id="Generative_AI_accelerates_customer_understanding" class="lb-txt-none lb-txt-20 lb-h4 lb-title" style="margin-bottom:50px;"> 生成式人工智能加速对客户的理解</h4> 
+             <div class="lb-rtxt"> 
+              <p>了解 The Very Group 如何利用生成式人工智能改善客户体验&nbsp; &nbsp; &nbsp;&nbsp;<br> </p> 
+             </div> 
+             <div class="lb-xlarge-radius lb-border-p lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#FFFFFF;"> 
+              <a style="padding-top:10px;" href="https://www.youtube.com/watch?v=u2B0kN3f1Ds" target="_blank" rel="noopener noreferrer"> 
+               <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt" style="color:rgb(255,255,255); padding-right:10px;">
+                 观看视频 › 
+               </div> </a> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-bg-center-center-cover lb-tiny-hide lb-small-hide lb-mid-show lb-large-show lb-xlarge-show lb-box" style="padding-bottom:75px; min-height:600px; background-image:url('https://d1.awsstatic.com/awsi-genai-partners-retail-cpg-03.026ea60f25080bd8a20dc83117a2f6ad3ee28caa.png'); margin-bottom:120px; height:600px;"> 
+     <div class="lb-grid lb-row lb-row-max-large lb-snap" style="margin-bottom:120px;"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <div class="lb-xlarge-radius lb-mid-pad lb-box" style="padding-top:0px;"> 
+        <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-8"> 
+          <figure class="lb-img"> 
+           <div class="lb-xlarge-radius"> 
+            <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/customer-references-case-studies-logos/AWS_ADIDAS_Leading_Cloud_Innovators_28_03_2024_03.268b2030cee4ebe3b4afeef955c1de06c13be62f.jpg" alt="AWS_ADIDAS_Leading_Cloud_Innovators_28_03_2024" title="AWS_ADIDAS_Leading_Cloud_Innovators_28_03_2024" class="cq-dd-image"></span> 
+           </div> 
+          </figure> 
+         </div> 
+         <div class="lb-col lb-tiny-24 lb-mid-16"> 
+          <div class="lb-none-v-margin lb-box" style="padding-top:0px; min-height:85px; height:85px;"> 
+           <h2 id="How_adidas_is_using_Amazon_Bedrock" class="lb-txt-none lb-txt-45 lb-h2 lb-title" style="margin-bottom:25px;"> Adidas 如何使用 Amazon Bedrock</h2> 
+           <div class="lb-rtxt" style="margin-top:0px;"> 
+            <p><i>“我们很高兴能参与 Amazon Bedrock 的预览并体验这项服务。Bedrock 很快就成为了我们生成式人工智能工具包中非常有价值的补充，让我们能够专注于 LLM 项目的核心内容，同时让它来处理管理基础设施的繁重工作。我们利用 Bedrock 开发了一种生成式人工智能解决方案，使 Adidas 工程师社区能够通过单一对话界面从我们的知识库中找到信息和答案，涵盖从入门到高技术问题的所有内容。”</i></p> 
+            <p>Adidas 企业架构副总裁 Daniel Eichten<br> <br> </p> 
+           </div> 
+           <div class="lb-xlarge-radius lb-border-p lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#2274d5;"> 
+            <a style="padding-top:10px;" href="https://aws.amazon.com/bedrock/" target="_blank" rel="noopener noreferrer"> 
+             <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt" style="color:rgb(255,255,255); padding-right:10px;">
+               了解详情 › 
+             </div> </a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-bg-center-center-cover lb-small-show lb-mid-hide lb-large-hide lb-xlarge-hide lb-box" style="background-image:url('https://d1.awsstatic.com/awsi-genai-partners-retail-cpg-03.026ea60f25080bd8a20dc83117a2f6ad3ee28caa.png');"> 
+     <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <figure class="lb-img"> 
+        <div class="lb-xlarge-radius"> 
+         <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/customer-references-case-studies-logos/AWS_ADIDAS_Leading_Cloud_Innovators_28_03_2024_03.268b2030cee4ebe3b4afeef955c1de06c13be62f.jpg" alt="AWS_ADIDAS_Leading_Cloud_Innovators_28_03_2024" title="AWS_ADIDAS_Leading_Cloud_Innovators_28_03_2024" class="cq-dd-image"></span> 
+        </div> 
+       </figure> 
+       <h2 id="How_adidas_is_using_Amazon_Bedrock" class="lb-txt-none lb-txt-45 lb-h2 lb-title" style="margin-bottom:25px;"> Adidas 如何使用 Amazon Bedrock</h2> 
+       <div class="lb-rtxt" style="margin-top:0px;"> 
+        <p><i>“我们很高兴能参与 Amazon Bedrock 的预览并体验这项服务。Bedrock 很快就成为了我们生成式人工智能工具包中非常有价值的补充，让我们能够专注于 LLM 项目的核心内容，同时让它来处理管理基础设施的繁重工作。我们利用 Bedrock 开发了一种生成式人工智能解决方案，使 Adidas 工程师社区能够通过单一对话界面从我们的知识库中找到信息和答案，涵盖从入门到高技术问题的所有内容。”</i></p> 
+        <p>Adidas 企业架构副总裁 Daniel Eichten<br> <br> </p> 
+       </div> 
+       <div class="lb-xlarge-radius lb-border-p lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#2274d5;"> 
+        <a style="padding-top:10px;" href="https://aws.amazon.com/bedrock/" target="_blank" rel="noopener noreferrer"> 
+         <div class="lb-tiny-align-center lb-txt-bold lb-txt-none lb-txt" style="color:rgb(255,255,255); padding-right:10px;">
+           了解详情 › 
+         </div> </a> 
+       </div> 
+       <div class="lb-none-v-margin lb-box" style="padding-top:0px; min-height:85px; height:85px;"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+     <div class="lb-col lb-tiny-24 lb-mid-24"> 
+      <div class="lb-none-pad lb-box"> 
+       <div class="lb-none-pad lb-none-v-margin lb-grid" style="padding-top:25px; padding-bottom:0px; margin-top:0px; margin-bottom:0px;"> 
+        <div class="lb-row lb-row-max-large lb-snap"> 
+         <div class="lb-col lb-tiny-24 lb-mid-24"> 
+          <h2 id="Generative_AI_Partners_for_Retail_and_Consumer_Goods" class="lb-txt-none lb-txt-36 lb-h2 lb-title"> 零售和消费品行业的生成式人工智能合作伙伴</h2> 
+          <div class="lb-txt-20 lb-rtxt" style="margin-bottom:0px;"> 
+           <p>了解 AWS 合作伙伴如何利用生成式人工智能赋予企业创新能力<br> </p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-none-pad lb-xb-grid-wrap"> 
+        <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-xb-justify-center lb-gutter-smallOutsideCollapse lb-tiny-xb-1 lb-mid-xb-4"> 
+         <div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-none-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-top:0px; margin-bottom:25px;"> 
+            <a href="https://aws.amazon.com/marketplace/pp/prodview-5bnyslmc2uvh2?sr=0-34&amp;ref_=beagle&amp;applicationId=AWSMPContessa" target="_blank" rel="noopener noreferrer"> 
+             <figure class="lb-valign-top lb-none-v-margin lb-img"> 
+              <div class="lb-xlarge-radius lb-none-pad"> 
+               <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/awsi-retail-cpg-adastra.2c79a867d80d0320e4f98832fad377e0829199a0.png" alt="消费品行业生成式人工智能规范销售建议机制" title="消费品行业生成式人工智能规范销售建议机制" class="cq-dd-image"></span> 
+              </div> 
+             </figure> 
+             <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+               消费品行业生成式人工智能规范销售建议机制 
+             </div> 
+             <div class="lb-tiny-align-left lb-txt-bold lb-txt-none lb-txt" style="padding-left:25px;">
+               了解详情 › 
+             </div> </a> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-none-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-top:0px; margin-bottom:25px;"> 
+            <a href="https://partner-resources.awscloud.com/retail/xgen-ai-transforming-ecommerce-with-generative-ai-and-amazon-bedrock" target="_blank" rel="noopener noreferrer"> 
+             <figure class="lb-valign-top lb-none-v-margin lb-img"> 
+              <div class="lb-xlarge-radius lb-none-pad"> 
+               <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-02.018370985b8b965ec06016f3285b1370789c1303.png" alt="XGEN AI 利用生成式人工智能和 Amazon Bedrock 转变电子商务" title="XGEN AI 利用生成式人工智能和 Amazon Bedrock 转变电子商务" class="cq-dd-image"></span> 
+              </div> 
+             </figure> 
+             <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e; margin-bottom:30px;">
+               XGEN AI 利用生成式人工智能和 Amazon Bedrock 转变电子商务 
+             </div> 
+             <div class="lb-tiny-align-left lb-txt-bold lb-txt-none lb-txt" style="padding-left:25px;">
+               观看视频 › 
+             </div> </a> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-none-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-top:0px; margin-bottom:25px;"> 
+            <a href="https://partner-resources.awscloud.com/retail/modernizing-retail-with-jbs-dev-aiml-and-generative-ai-on-aws" target="_blank" rel="noopener noreferrer"> 
+             <figure class="lb-valign-top lb-none-v-margin lb-img"> 
+              <div class="lb-xlarge-radius lb-none-pad"> 
+               <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-03.b0b95fa7912c7fec326414fb8a0661125d07ca83.png" alt="在 AWS 上通过 JBS Dev、AI/ML 和生成式人工智能实现零售业现代化" title="在 AWS 上通过 JBS Dev、AI/ML 和生成式人工智能实现零售业现代化" class="cq-dd-image"></span> 
+              </div> 
+             </figure> 
+             <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e; margin-bottom:25px;">
+               在 AWS 上通过 JBS Dev、AI/ML 和生成式人工智能实现零售业现代化 
+             </div> 
+             <div class="lb-tiny-align-left lb-txt-bold lb-txt-none lb-txt" style="padding-left:25px;">
+               观看视频 › 
+             </div> </a> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-none-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-top:0px; margin-bottom:25px;"> 
+            <a href="https://partner-resources.awscloud.com/retail/brainbox-ai-and-sleep-country-canada-accelerating-retail-chain-decarbonization-through-generative-ai" target="_blank" rel="noopener noreferrer"> 
+             <figure class="lb-valign-top lb-none-v-margin lb-img"> 
+              <div class="lb-xlarge-radius lb-none-pad"> 
+               <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-04.fd2c24dd5683bb270ff79803783fff4be1917013.png" alt="BrainBox AI 和 Sleep Country Canada 通过生成式人工智能加速零售连锁店的脱碳进程" title="BrainBox AI 和 Sleep Country Canada 通过生成式人工智能加速零售连锁店的脱碳进程" class="cq-dd-image"></span> 
+              </div> 
+             </figure> 
+             <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+               BrainBox AI 和 Sleep Country Canada 通过生成式人工智能加速零售连锁店的脱碳进程 
+             </div> 
+             <div class="lb-tiny-align-left lb-txt-bold lb-txt-none lb-txt" style="padding-left:25px;">
+               观看视频 › 
+             </div> </a> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-none-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-top:0px; margin-bottom:25px;"> 
+            <a href="https://aws.amazon.com/blogs/industries/take-in-store-and-online-shopping-experiences-to-another-level-using-generative-ai/" target="_blank" rel="noopener noreferrer"> 
+             <figure class="lb-valign-top lb-none-v-margin lb-img"> 
+              <div class="lb-xlarge-radius lb-none-pad"> 
+               <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-blog-01.9d2709396ce6e4b89e0e8d841ff478b60d1a1fc7.png" alt="使用生成式人工智能将店内和在线购物体验提升到新高度" title="使用生成式人工智能将店内和在线购物体验提升到新高度" class="cq-dd-image"></span> 
+              </div> 
+             </figure> 
+             <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+               使用生成式人工智能将店内和在线购物体验提升到新高度 
+             </div> 
+             <div class="lb-tiny-align-left lb-txt-bold lb-txt-none lb-txt" style="padding-left:25px;">
+               了解详情 › 
+             </div> </a> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-none-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-top:0px; margin-bottom:25px;"> 
+            <a href="https://aws.amazon.com/blogs/machine-learning/boost-your-content-editing-with-contentful-and-amazon-bedrock/" target="_blank" rel="noopener noreferrer"> 
+             <figure class="lb-valign-top lb-none-v-margin lb-img"> 
+              <div class="lb-xlarge-radius lb-none-pad"> 
+               <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-blog-03b.23f597df376708ecf5c7dbf1230710be5c2e552a.png" alt="通过 Contentful 和 Amazon Bedrock 提升内容编辑能力" title="通过 Contentful 和 Amazon Bedrock 提升内容编辑能力" class="cq-dd-image"></span> 
+              </div> 
+             </figure> 
+             <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+               通过 Contentful 和 Amazon Bedrock 提升内容编辑能力 
+             </div> 
+             <div class="lb-tiny-align-left lb-txt-bold lb-txt-none lb-txt" style="padding-left:25px;">
+               了解详情 › 
+             </div> </a> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-none-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-top:0px; margin-bottom:25px;"> 
+            <a href="https://pages.awscloud.com/rs/112-TZM-766/images/Quantiphi-SolutionBrief-GenerativeAI-Final.pdf" target="_blank" rel="noopener noreferrer"> 
+             <figure class="lb-valign-top lb-none-v-margin lb-img"> 
+              <div class="lb-xlarge-radius lb-none-pad"> 
+               <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-blog-04b.e42b80c30e8bceb0bb26781fb507ed4a09b7eab8.png" alt="Quantiphi 的生成式人工智能咨询系列：生成式人工智能讲习会" title="Quantiphi 的生成式人工智能咨询系列：生成式人工智能讲习会" class="cq-dd-image"></span> 
+              </div> 
+             </figure> 
+             <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+               Quantiphi 的生成式人工智能咨询系列：生成式人工智能讲习会 
+             </div> 
+             <div class="lb-tiny-align-left lb-txt-bold lb-txt-none lb-txt" style="padding-left:25px;">
+               了解详情 › 
+             </div> </a> 
+           </div> 
+          </div> 
+          <div class="lb-xbcol"> 
+           <div class="lb-border-p lb-xlarge-radius lb-none-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); border-width:1px; border-color:#2274d5; margin-top:0px; margin-bottom:25px;"> 
+            <a href="https://pages.awscloud.com/rs/112-TZM-766/images/SoftServe-SolutionBrief-Generative-AI-Final.pdf" target="_blank" rel="noopener noreferrer"> 
+             <figure class="lb-valign-top lb-none-v-margin lb-img"> 
+              <div class="lb-xlarge-radius lb-none-pad"> 
+               <span class="lb-xlarge-radius"> <img src="https://d1.awsstatic.com/awsi-genai-retail-cpg-partner-blog-02.d973fc90478a1fa8f809a9aa0e242c981efa3783.png" alt="SoftServe 的生成式人工智能就绪性评估和概念验证" title="SoftServe 的生成式人工智能就绪性评估和概念验证" class="cq-dd-image"></span> 
+              </div> 
+             </figure> 
+             <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e; margin-bottom:25px;">
+               SoftServe 的生成式人工智能就绪性评估和概念验证 
+             </div> 
+             <div class="lb-tiny-align-left lb-txt-bold lb-txt-none lb-txt" style="padding-left:25px;">
+               了解详情 › 
+             </div> </a> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-24"> 
+         <div class="lb-tiny-align-right lb-txt-blue-600 lb-txt-18 lb-rtxt"> 
+          <p><a href="https://partner-resources.awscloud.com/retail" target="_blank" rel="noopener">探索 AWS 上的更多行业合作伙伴解决方案 ›</a><br> </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="lb-box"> 
+     <div class="lb-none-v-margin lb-grid" style="padding-top:25px; padding-bottom:25px;"> 
+      <div class="lb-row lb-row-max-large lb-snap"> 
+       <div class="lb-col lb-tiny-24 lb-small-24"> 
+        <h3 id="Tools_for_Building_Generative_AI_Applications" class="lb-txt-none lb-txt-36 lb-h3 lb-title" style="margin-bottom:0px;"> 用于构建生成式人工智能应用程序的工具</h3> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="lb-mid-pad lb-none-v-margin lb-xb-grid-wrap" style="padding-top:0px; margin-top:0px;"> 
+      <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-xb-justify-center lb-gutter-smallOutsideCollapse lb-tiny-xb-1 lb-small-xb-2 lb-mid-xb-3"> 
+       <div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/bedrock/"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; margin-bottom:45px; padding-right:0px;">
+                Amazon Bedrock 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             使用 FM 构建和扩展生成式人工智能应用程序的最简单方法。 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/sagemaker/"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; margin-bottom:45px; padding-right:0px;">
+                Amazon SageMaker 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             大规模构建、训练和部署基础模型 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/ec2/instance-types/p5/"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; padding-right:0px;">
+                NVIDIA GPU 驱动的 Amazon EC2 实例 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             借助 NVIDIA H100 驱动的 Amazon EC2 P5 实例在 Amazon EC2 中获得最高性能 
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="lb-mid-pad lb-none-v-margin lb-xb-grid-wrap" style="padding-top:0px; margin-top:0px;"> 
+      <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-xb-justify-center lb-gutter-smallOutsideCollapse lb-tiny-xb-1 lb-small-xb-2 lb-mid-xb-3"> 
+       <div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/machine-learning/trainium/"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; padding-right:0px;">
+                AWS Trainium 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             与同级的 Amazon EC2 实例相比，训练速度更快，可降低高达 50% 的训练成本 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/machine-learning/inferentia/"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; padding-right:0px;">
+                AWS Inferentia 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             运行基础模型推理时，与同级的 Amazon EC2 实例相比，每次推理的成本降低高达 40% 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/ec2/ultraclusters/"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; padding-right:0px;">
+                Amazon EC2 UltraClusters 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             扩展到数千个 GPU 或专门构建的机器学习加速器，以获得百亿亿次级计算能力 
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="lb-mid-pad lb-none-v-margin lb-xb-grid-wrap" style="padding-top:0px; margin-top:0px;"> 
+      <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-xb-justify-center lb-gutter-smallOutsideCollapse lb-tiny-xb-1 lb-small-xb-2 lb-mid-xb-3"> 
+       <div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="https://aws-content-sandbox.aka.amazon.com/personalize/" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; padding-right:0px;">
+                Amazon Personalize 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             向应用程序添加实时个性化建议。 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/comprehend/" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; padding-right:0px;">
+                Amazon Comprehend 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             提取相关字段和术语或对文档进行分类。 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/forecast/" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; padding-right:0px;">
+                Amazon Forecast 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             构建和部署高级预测模型。 
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="lb-none-v-margin lb-grid" style="padding-top:25px; padding-bottom:25px;"> 
+      <div class="lb-row lb-row-max-large lb-snap"> 
+       <div class="lb-col lb-tiny-24 lb-small-24"> 
+        <h3 id="Generative_AI-powered_Applications" class="lb-txt-none lb-txt-36 lb-h3 lb-title" style="margin-bottom:0px;"> 生成式人工智能驱动的应用程序</h3> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="lb-mid-pad lb-none-v-margin lb-xb-grid-wrap" style="padding-top:0px; margin-top:0px;"> 
+      <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-xb-justify-center lb-gutter-smallOutsideCollapse lb-tiny-xb-1 lb-small-xb-2 lb-mid-xb-3"> 
+       <div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="/cn/q/"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; margin-bottom:45px; padding-right:0px;">
+                Amazon Q 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             您的生成式人工智能助手，可以根据您的业务、数据、代码和运营进行定制 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="https://partyrock.aws"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; padding-right:0px;">
+                Amazon Bedrock 平台 PartyRock 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             一个有趣且直观的可共享生成式人工智能应用程序构建平台 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <div class="lb-border-p-feature lb-xlarge-radius lb-tiny-pad lb-box lb-has-link lb-hover-opacity-50" style="background-color:rgba(232,242,255,0.64); padding-top:0px; padding-left:0px; border-width:1px; border-color:rgb(26,132,136); padding-right:0px;"> 
+          <a style="padding-top:0px; padding-left:0px; padding-right:0px;" href="https://aws.amazon.com/q/developer/" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-mid-small-pad lb-grid" style="padding-bottom:0px; margin-top:10px; margin-bottom:0px;"> 
+            <div class="lb-row lb-row-max-large lb-snap"> 
+             <div class="lb-col lb-tiny-24 lb-mid-24"> 
+              <div class="lb-bg-center-center-cover lb-small-radius lb-tiny-iblock lb-tiny-pad lb-none-v-margin lb-box" style="padding-top:5px; padding-bottom:5px; background-image:url('https://d1.awsstatic.com/awsi-genai-service-gradient-green.7ffc734e27ccd4a0b749629cbfff52638b5bd685.png');"> 
+               <div class="lb-tiny-align-center lb-txt-none lb-txt-14 lb-none-v-margin lb-txt" style="color:#1c2735;">
+                 服务 
+               </div> 
+              </div> 
+              <div class="lb-txt-bold lb-txt-none lb-txt-blue-600 lb-txt-20 lb-none-pad lb-txt" style="padding-top:0px; color:#1c2735; padding-left:0px; margin-top:10px; margin-bottom:40px; padding-right:0px;">
+                Amazon Q 开发者版 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <div class="lb-txt-none lb-txt-16 lb-mid-small-pad lb-txt" style="color:#232f3e;">
+             由生成式人工智能驱动的软件开发助手 
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <hr class="lb-divider"> 
+    <div class="lb-mid-pad lb-grid" style="margin-bottom:80px;"> 
+     <div class="lb-row lb-row-max-large lb-snap"> 
+      <div class="lb-col lb-tiny-24 lb-mid-24"> 
+       <h2 id="Get_Started" class="lb-txt-none lb-txt-36 lb-h2 lb-title"> 开始使用</h2> 
+       <div class="lb-rtxt"> 
+        <p>领先的行业都已在使用 AWS 生成式人工智能。联系我们的专家，立即开始您的旅程。&nbsp;</p> 
+       </div> 
+       <div class="lb-grid lb-row lb-row-max-large lb-snap"> 
+        <div class="lb-col lb-tiny-24 lb-mid-12"> 
+         <div class="lb-xlarge-radius lb-border-p lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#FFFFFF;"> 
+          <a style="padding-top:10px;" href="https://pages.awscloud.com/retailContactUs" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-txt-white lb-txt-20 lb-rtxt"> 
+            <div style="text-align: center;">
+              开始使用 
+            </div> 
+            <div style="text-align: center;">
+              AWS 在零售行业的应用&nbsp;› 
+            </div> 
+           </div> </a> 
+         </div> 
+        </div> 
+        <div class="lb-col lb-tiny-24 lb-mid-12"> 
+         <div class="lb-xlarge-radius lb-border-p lb-box lb-has-link lb-hover-opacity-50" style="background-color:#2988bb; padding-top:10px; border-width:1px; border-color:#FFFFFF;"> 
+          <a style="padding-top:10px;" href="https://pages.awscloud.com/GLOBAL-other-IND-CPG-Contact-Us-2021.html" target="_blank" rel="noopener noreferrer"> 
+           <div class="lb-txt-white lb-txt-20 lb-rtxt"> 
+            <div style="text-align: center;">
+              开始使用 
+            </div> 
+            <div style="text-align: center;">
+              AWS 在消费品行业的应用&nbsp;› 
+             <br> 
+            </div> 
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </main> 
+  </div> 
+  <footer id="aws-page-footer" class="m-page-footer" role="contentinfo"> 
+   <div class="data-attr-wrapper lb-none-v-margin lb-xb-grid-wrap" style="background-color:#141f2e;" data-da-type="so" data-da-so-type="viewport" data-da-so-language="cn" data-da-so-category="monitoring" data-da-so-name="footer" data-da-so-version="a" data-da-elem-id="e99d759a-3471-4976-bd64-f1f7dea9e791"> 
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1 lb-small-xb-3 lb-large-xb-5"> 
+     <div class="lb-xbcol"> 
+      <div class="data-attr-wrapper lb-small-hide lb-btn" data-da-type="so" data-da-so-type="viewport" data-da-so-language="cn" data-da-so-category="monitoring" data-da-so-name="footer_buttons" data-da-so-url="all" data-da-so-version="footer_signin-mobile-default" data-da-elem-id="f50c8de8-84e7-40b3-ab9a-3bf9045e4c3e"> 
+       <a class="lb-btn-p-primary" href="https://console.aws.amazon.com/console/home?nc1=f_ct&amp;src=footer-signin-mobile" role="button"> <span> 登录控制台</span> </a> 
+      </div> 
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title"> 了解有关 AWS 的信息</h3> 
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;"> 
+       <li><a href="/cn/what-is-aws/?nc1=f_cc" target="_blank" rel="noopener noreferrer">什么是 AWS？</a></li> 
+       <li><a href="/cn/what-is-cloud-computing/?nc1=f_cc" target="_blank" rel="noopener noreferrer">什么是云计算？</a></li> 
+       <li><a href="/cn/accessibility/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS 可访问性</a></li> 
+       <li><a href="/cn/diversity-inclusion/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS 包容性、多样性和公平性</a></li> 
+       <li><a href="/cn/devops/what-is-devops/?nc1=f_cc" target="_blank" rel="noopener noreferrer">什么是 DevOps？</a></li> 
+       <li><a href="/cn/containers/?nc1=f_cc" target="_blank" rel="noopener noreferrer">什么是容器？</a></li> 
+       <li><a href="/cn/what-is/data-lake/?nc1=f_cc" target="_blank" rel="noopener noreferrer">什么是数据湖？</a></li> 
+       <li><a href="/cn/what-is/artificial-intelligence/?nc1=f_cc" target="_blank" rel="noopener noreferrer">什么是人工智能（AI）？</a></li> 
+       <li><a href="/cn/what-is/generative-ai/?nc1=f_cc" target="_blank" rel="noopener noreferrer">什么是生成式人工智能？</a></li> 
+       <li><a href="/cn/what-is/machine-learning/?nc1=f_cc" target="_blank" rel="noopener noreferrer">什么是机器学习（ML）？</a></li> 
+       <li><a href="/cn/security/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS 云安全性</a></li> 
+       <li><a href="/cn/new/?nc1=f_cc" target="_blank" rel="noopener noreferrer">最新资讯</a></li> 
+       <li><a href="/cn/blogs/?nc1=f_cc" target="_blank" rel="noopener noreferrer">博客</a></li> 
+       <li><a href="https://press.aboutamazon.com/press-releases/aws" target="_blank" rel="noopener noreferrer" title="Press Releases" alt="Press Releases">新闻稿</a></li> 
+      </ul> 
+     </div> 
+     <div class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title"> AWS 资源</h3> 
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;"> 
+       <li><a href="/cn/getting-started/?nc1=f_cc" target="_blank" rel="noopener noreferrer">入门</a></li> 
+       <li><a href="/cn/training/?nc1=f_cc" target="_blank" rel="noopener noreferrer">培训和认证</a></li> 
+       <li><a href="/cn/solutions/?nc1=f_cc" target="_blank" rel="noopener noreferrer">AWS 解决方案库</a></li> 
+       <li><a href="/cn/architecture/?nc1=f_cc" target="_blank" rel="noopener noreferrer">架构中心</a></li> 
+       <li><a href="/cn/faqs/?nc1=f_dr" target="_blank" rel="noopener noreferrer">产品和技术常见问题</a></li> 
+       <li><a href="/cn/resources/analyst-reports/?nc1=f_cc" target="_blank" rel="noopener noreferrer">分析报告</a></li> 
+       <li><a href="/cn/partners/work-with-partners/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS 合作伙伴</a></li> 
+      </ul> 
+     </div> 
+     <div class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title"> AWS 上的开发人员</h3> 
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;"> 
+       <li><a href="/cn/developer/?nc1=f_dr" target="_blank" rel="noopener noreferrer">开发人员中心</a></li> 
+       <li><a href="/cn/developer/tools/?nc1=f_dr" target="_blank" rel="noopener noreferrer">软件开发工具包与工具</a></li> 
+       <li><a href="/cn/developer/language/net/?nc1=f_dr" target="_blank" rel="noopener noreferrer">运行于 AWS 上的 .NET</a></li> 
+       <li><a href="/cn/developer/language/python/?nc1=f_dr" target="_blank" rel="noopener noreferrer">运行于 AWS 上的 Python</a></li> 
+       <li><a href="/cn/developer/language/java/?nc1=f_dr" target="_blank" rel="noopener noreferrer">运行于 AWS 上的 Java</a></li> 
+       <li><a href="/cn/developer/language/php/?nc1=f_cc" target="_blank" rel="noopener noreferrer">运行于 AWS 上的 PHP</a></li> 
+       <li><a href="/cn/developer/language/javascript/?nc1=f_dr" target="_blank" rel="noopener noreferrer">运行于 AWS 上的 JavaScript</a></li> 
+      </ul> 
+     </div> 
+     <div class="lb-xbcol"> 
+      <h3 class="lb-txt-none lb-txt-white lb-tiny-v-margin lb-h3 lb-title"> 帮助</h3> 
+      <ul class="lb-txt-white lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-block" style="margin-bottom:0px;"> 
+       <li><a href="/cn/contact-us/?nc1=f_m" target="_blank" rel="noopener noreferrer">联系我们</a></li> 
+       <li><a href="https://iq.aws.amazon.com/?utm=mkt.foot/?nc1=f_m" target="_blank" rel="noopener noreferrer">获取专家帮助</a></li> 
+       <li><a href="https://console.aws.amazon.com/support/home/?nc1=f_dr" target="_blank" rel="noopener noreferrer">提交支持工单</a></li> 
+       <li><a href="https://repost.aws/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS re:Post</a></li> 
+       <li><a href="https://repost.aws/knowledge-center/?nc1=f_dr" target="_blank" rel="noopener noreferrer">Knowledge Center</a></li> 
+       <li><a href="/cn/premiumsupport/?nc1=f_dr" target="_blank" rel="noopener noreferrer">AWS Support 概览</a></li> 
+       <li><a href="/cn/legal/?nc1=f_cc" target="_blank" rel="noopener noreferrer">法律人员</a></li> 
+       <li><a href="/cn/careers/">亚马逊云科技诚聘英才</a></li> 
+      </ul> 
+      <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_footer-v3_addl-help"> 
+      </div> 
+     </div> 
+     <div class="lb-xbcol"> 
+      <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="en_footer-v3_cta"> 
+       <div class="data-attr-wrapper lb-tiny-hide lb-small-show lb-btn" data-da-type="so" data-da-so-type="viewport" data-da-so-language="cn" data-da-so-category="monitoring" data-da-so-name="footer_buttons" data-da-so-url="all" data-da-so-version="footer_signup-default" data-da-elem-id="5d730925-f74b-496d-b3f5-bf1b3dff7581"> 
+        <a class="lb-btn-p-primary" href="https://signin.amazonaws.cn/signup?request_type=register" role="button"> <span> 创建账户</span> </a> 
+       </div> 
+      </div> 
+      <div class="lb-xb-grid-wrap" style="padding-left:0px; margin-top:20px; margin-bottom:0px;"> 
+       <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-gutter-collapse lb-vgutter-collapse lb-tiny-xb-4"> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-left:0px; padding-right:5px;" href="https://twitter.com/awscloud" target="_blank" rel="noopener noreferrer" title="Twitter" alt="Twitter"> <i class="icon-twitter lb-before"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-none-v-margin lb-txt" style="padding-right:5px;" href="https://www.facebook.com/amazonwebservices" target="_blank" rel="noopener noreferrer" title="Facebook" alt="Facebook"> <i class="icon-facebook lb-before"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://www.linkedin.com/company/amazon-web-services/" target="_blank" rel="noopener noreferrer" title="Linkedin" alt="Linkedin"> <i class="icon-linkedin lb-before"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://www.instagram.com/amazonwebservices/" target="_blank" rel="noopener noreferrer" title="Instagram" alt="Instagram"> <i class="icon-instagram lb-before"></i></a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-xb-grid-wrap" style="padding-left:0px; margin-top:10px;"> 
+       <div class="lb-xb-grid lb-row-max-large lb-xb-equal-height lb-snap lb-gutter-collapse lb-vgutter-collapse lb-tiny-xb-4"> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://www.twitch.tv/aws" target="_blank" rel="noopener noreferrer" title="Twitch" alt="Twitch"> <i class="icon-twitch lb-before"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://www.youtube.com/user/AmazonWebServices/Cloud/" target="_blank" rel="noopener noreferrer" title="YouTube" alt="YouTube"> <i class="icon-youtube lb-before"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="/cn/podcasts/" target="_blank" rel="noopener noreferrer" title="Podcast" alt="Podcast"> <i class="icon-podcast lb-before"></i></a> 
+        </div> 
+        <div class="lb-xbcol"> 
+         <a class="lb-txt-none lb-txt-white lb-none-pad lb-txt" style="padding-right:5px;" href="https://pages.awscloud.com/communication-preferences?trk=homepage" target="_blank" rel="noopener noreferrer" title="Email" alt="Email"> <i class="icon-envelope-o lb-before"></i></a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="lb-txt-normal lb-txt-white lb-txt-14 lb-rtxt" style="color:#eaeded; margin-top:0px;"> 
+       <div>
+         Amazon 是一个倡导机会均等的雇主： 
+        <i>反对少数族裔、妇女、残疾人士、退伍军人、性别认同和性取向歧视。</i> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#141f2e;"> 
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1"> 
+     <div class="lb-xbcol"> 
+      <ul class="lb-txt-white lb-tiny-iblock lb-none-v-margin lb-ul lb-list-style-none lb-li-micro-v-margin lb-tiny-ul-iblock"> 
+       <li class="lb-txt-bold">语言</li> 
+       <li data-language="ar" lang="ar-SA" translate="no"><a href="https://aws.amazon.com/ar/?nc1=h_ls">عربي</a></li> 
+       <li data-language="id" lang="id-ID" translate="no"><a href="https://aws.amazon.com/id/?nc1=h_ls">Bahasa Indonesia</a></li> 
+       <li data-language="de" lang="de-DE" translate="no"><a href="https://aws.amazon.com/de/?nc1=h_ls">Deutsch</a></li> 
+       <li data-language="en" lang="en-US" translate="no"><a href="https://aws.amazon.com/?nc1=h_ls">English</a></li> 
+       <li data-language="es" lang="es-ES" translate="no"><a href="https://aws.amazon.com/es/?nc1=h_ls">Español</a></li> 
+       <li data-language="fr" lang="fr-FR" translate="no"><a href="https://aws.amazon.com/fr/?nc1=h_ls">Français</a></li> 
+       <li data-language="it" lang="it-IT" translate="no"><a href="https://aws.amazon.com/it/?nc1=h_ls">Italiano</a></li> 
+       <li data-language="pt" lang="pt-BR" translate="no"><a href="https://aws.amazon.com/pt/?nc1=h_ls">Português</a></li> 
+       <li data-language="vi" lang="vi-VN" translate="no"><a href="https://aws.amazon.com/vi/?nc1=f_ls">Tiếng Việt</a></li> 
+       <li data-language="tr" lang="tr-TR" translate="no"><a href="https://aws.amazon.com/tr/?nc1=h_ls">Türkçe</a></li> 
+       <li data-language="ru" lang="ru-RU" translate="no"><a href="https://aws.amazon.com/ru/?nc1=h_ls">Ρусский</a></li> 
+       <li data-language="th" lang="th-TH" translate="no"><a href="https://aws.amazon.com/th/?nc1=f_ls">ไทย</a></li> 
+       <li data-language="jp" lang="ja-JP" translate="no"><a href="https://aws.amazon.com/jp/?nc1=h_ls">日本語</a></li> 
+       <li data-language="ko" lang="ko-KR" translate="no"><a href="https://aws.amazon.com/ko/?nc1=h_ls">한국어</a></li> 
+       <li data-language="cn" lang="zh-CN" translate="no"><a href="https://aws.amazon.com/cn/?nc1=h_ls">中文 (简体)</a></li> 
+       <li data-language="tw" lang="zh-TW" translate="no"><a href="https://aws.amazon.com/tw/?nc1=h_ls">中文 (繁體)</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="lb-none-pad lb-none-v-margin lb-xb-grid-wrap" style="background-color:#EAEDED; padding-top:5px;"> 
+    <div class="lb-xb-grid lb-row-max-large lb-snap lb-tiny-xb-1"> 
+     <div class="lb-xbcol"> 
+      <div class="lb-mbox js-mbox" data-lb-comp="mbox" data-lb-comp-ignore="true" data-mbox="cn_footer-legal-links"> 
+       <ul class="lb-txt-squid lb-none-v-margin lb-ul lb-list-style-none lb-li-none-v-margin lb-tiny-ul-iblock"> 
+        <li><a href="https://aws.amazon.com/privacy/?nc1=f_pr">隐私权</a></li> 
+        <li>|</li> 
+        <li><a href="https://aws.amazon.com/accessibility/?nc1=f_acc">可访问性</a></li> 
+        <li>|</li> 
+        <li><a href="https://aws.amazon.com/terms/?nc1=f_pr">网站条款</a></li> 
+        <li>|</li> 
+        <li data-cookie-consent-modal="1"><a href="#"> Cookie 首选项 </a></li> 
+        <li>|</li> 
+        <li>© 2024, Amazon Web Services, Inc. 或其联属公司。保留所有权利。</li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <div id="aws-page-end"></div> 
+  <div id="lb-page-end"></div> 
+  <div id="gcr-chat" data-platform="global"></div> 
+  <script defer="" src="https://prod.us-east-1.ui.gcr-chat.marketing.aws.dev/gcr-chat-entry.js"></script> 
+  <!--[if lte IE 9]>
+  <p class="deprecated-browser-support-message">
+    您使用的浏览器已过时。请升级到现代浏览器，以改善您的体验。<img src="https://fls-na.amazon.com/1/action-impressions/1/OE/aws-mktg/action/awsm_:comp_DeprecatedBrowser@v=1:u=c?dataset=LIVE:PROD&instance=PUB&client=dsk&marketplaceId=A12QK8IU0H0XW5&requestId=ABCDEFGHIJKLMNOPQRST&session=123-1234567-1234567"
+           alt="deprecated-browser pixel tag" />
+      </p>
+<![endif]--> 
+  <div class="lb-skt-overlay lb-modal lb-comp-content-container" data-lb-comp="modal" data-lb-modal-id="ie-deprecation-msg" data-ie10-deprecation-msg="您使用的浏览器已过时。请升级到现代浏览器，以改善您的体验。"> 
+   <div class="lb-modal-dialog"> 
+    <div class="lb-modal-content"> 
+     <div class="lb-modal-header"> 
+      <h4 class="lb-h4"> 终止对 Internet Explorer 的支持</h4> 
+      <a class="lb-modal-close" role="button" href="#" title="Close"> <span class="lb-sr-only">知道了</span> </a> 
+     </div> 
+     <div class="lb-modal-body">
+       AWS 对 Internet Explorer 的支持将于 07/31/2022 结束。受支持的浏览器包括 Chrome、Firefox、Edge 和 Safari。 
+      <a href="https://aws.amazon.com/blogs/aws/heads-up-aws-support-for-internet-explorer-11-is-ending/" rel="noopener">了解详情 »</a> 
+     </div> 
+     <div class="lb-modal-footer"> 
+      <a class="lb-btn-p-primary lb-modal-close lb-modal-action" role="button">知道了</a> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <a data-lb-modal-trigger="ie-deprecation-msg" style="display: none;"></a> 
+  <!-- cms_updated_at: 2024-10-30T18:58:33.937-0700 -->  
+ 
+<iframe sandbox="allow-scripts" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_aws_0" name="destination_publishing_iframe_aws_0_name" src="https://aws.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Faws.amazon.com" spellcheck="false" class="aamIframeLoaded" style="display: none; width: 0px; height: 0px;"></iframe></body></html>

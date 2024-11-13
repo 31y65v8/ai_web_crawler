@@ -1,0 +1,368 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>生成式人工智能技术如何影响专业型工作？——来自软件工程行业的早期证据-劳动经济研究</title>
+    <link href="/Areas/201911110002/Content/ZHYJY/css/style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/Areas/201911110002/Content/ZHYJY/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="/Areas/201911110002/Content/ZHYJY/js/jquery.js"></script>
+    <script type="text/javascript" src="/Areas/201911110002/Content/ZHYJY/js/js.js"></script>
+    <script type="text/javascript" src="/Areas/201911110002/Content/ZHYJY/js/Search.js"></script>
+
+
+
+</head>
+<body style="filter:grayscale(0)">
+<div class="baowei">
+    <div id="main" style=" height:auto;">
+        <!--banner-->
+        <div id="banner"></div>
+        <!--nav-->
+        
+<ul id="nav">
+            <li style="background:0;"><a href="/">网站首页</a></li>
+                            
+<li><a href="/Home/Show/?ChannelID=11980&amp;itemid=124515">期刊介绍</a></li>
+                            
+<li><a href="/Home/Show/?ChannelID=11989&amp;itemid=124525">主编</a></li>
+                            
+<li><a href="/Home/Show/?ChannelID=11990&amp;itemid=124532">学术顾问委员会</a></li>
+                            
+<li><a href="/Home/Show/?ChannelID=11982&amp;itemid=124517">编委会</a></li>
+                            
+<li><a href="/Home/Show/?ChannelID=11981&amp;itemid=124514">投稿须知</a></li>
+                            
+<li><a href="/html/IndexDir.html">期刊目录</a></li>
+           "                 
+<li><a href="/Home/List/?ChannelID=11988">学术动态</a></li>
+                            
+<li><a href="/Home/Show/?ChannelID=11985&amp;itemid=124516">联系我们</a></li>
+
+            
+<!--<li><span id="HDateTime" style="padding:0 12px;color:#fff;font-size:14px;font-weight:600;">2019.11.12</span></li>-->
+        </ul>
+
+
+
+
+        <!--center-->
+        <div id="center" style="">
+            <div class="C_left">
+
+                 <div class="office">
+    <h4><img src="/Areas/201911110002/Content/ZHYJY/img/biao.png" /> 在线办公</h4>
+    <div class="content">
+        <a href="/Admin/user/login?group=author" target="_blank"><img src="/Areas/201911110002/Content/ZHYJY/img/niu1.png" /></a>
+        <a href="/Admin/user/login?group=author" target="_blank"><img src="/Areas/201911110002/Content/ZHYJY/img/niu2.png" /></a>
+        <a href="/Admin/user/login?group=expert" target="_blank"><img src="/Areas/201911110002/Content/ZHYJY/img/niu3.png" /></a>
+        <a href="/Admin/user/login?group=admin" target="_blank"><img src="/Areas/201911110002/Content/ZHYJY/img/niu4.png" /></a>
+    </div>
+</div>
+
+                 <div class="office author journal">
+    <h4><img src="/Areas/201911110002/Content/ZHYJY/img/biao.png" /> 期刊检索</h4>
+    <div class="content list">
+        <form action="" method="post" name="form1">
+            <select id="Year" style="width:80px;margin-top:8px;">
+                <option value="">全部年</option>
+                    <option value="2024">2024年</option>
+                    <option value="2023">2023年</option>
+                    <option value="2022">2022年</option>
+                    <option value="2021">2021年</option>
+                    <option value="2020">2020年</option>
+                    <option value="2019">2019年</option>
+                    <option value="2018">2018年</option>
+                    <option value="2017">2017年</option>
+                    <option value="2016">2016年</option>
+                    <option value="2015">2015年</option>
+                    <option value="2014">2014年</option>
+                    <option value="2013">2013年</option>
+            </select>
+            <select id="Issue" style="width:80px;margin-left:10px;margin-top:8px;;">
+                <option value="">全部期</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+                    <option value="6">No.6</option>
+                    <option value="5">No.5</option>
+                    <option value="4">No.4</option>
+                    <option value="3">No.3</option>
+                    <option value="2">No.2</option>
+                    <option value="1">No.1</option>
+            </select>
+            <select id="MenuTree" style="width:170px;margin-top:8px;">
+                <option value="">请选择栏目</option>
+                        <option value="1755">研究阐释党的二十届三中全会精神</option>
+                        <option value="1017">学术论文</option>
+                        <option value="1692">建构中国劳动经济学自主知识体系</option>
+                        <option value="1764">会议综述</option>
+            </select>
+            <input id="Title" value="标题" type="text" onfocus="TitleA()" onblur="TitleB()" />
+            <input id="Authors" value="作者姓名" type="text" onfocus="AuthorsA()" onblur="AuthorsB()" />
+            <input id="WorkUnit" value="作者单位" type="text" onfocus="WorkUnitA()" onblur="WorkUnitB()" />
+            <input id="Key" style="width:85px;" value="关键词" type="text" onfocus="KeyA()" onblur="KeyC()" />
+            <input style="width:73px;height:19px;cursor:pointer; margin-left:10px;background:url(../../Content/ZHYJY/img/login.jpg) no-repeat;border:0;" class="but" value="搜索" type="button" onclick="Search(3)" />
+        </form>
+    </div>
+</div>
+<script type="text/javascript">
+    function getQueryString(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null)
+            return unescape(r[2]);
+        return null;
+    }
+
+    document.getElementById("Year").value = getQueryString("Year") == null ? "" : getQueryString("Year");
+    document.getElementById("Issue").value = getQueryString("Issue") == null ? "" : getQueryString("Issue");
+    document.getElementById("MenuTree").value = getQueryString("JChannelID") == null ? "" : getQueryString("JChannelID");
+
+    document.getElementById("Title").value = getQueryString("Title") == null ? "标题" : getQueryString("Title");
+    document.getElementById("Authors").value = getQueryString("Authors") == null ? "作者姓名" : getQueryString("Authors");
+    document.getElementById("WorkUnit").value = getQueryString("WorkUnit") == null ? "作者单位" : getQueryString("WorkUnit");
+
+</script>
+
+
+                 <div class="office author link" style="background: rgb(255, 255, 255);">
+    <h4><img src="/Areas/201911110002/Content/ZHYJY/img/biao.png" /> 关于本刊 </h4>
+    <dl class="content">
+        <dt>
+            <p>
+                            主<font style="padding-left:25px">编：都  阳</font><br />
+                            创刊时间：2013年</br>
+                            主管单位：中国社会科学院<br />
+                            主办单位：中国社会科学院人口与<br/><font style="padding-left:59px">劳动经济研究所<br />
+      </font>                      国内发行：北京报刊发行局<br />
+                            邮发代号：80-459<br />
+                            国际发行：中国国际图书贸易总<br/><font style="padding-left:59px">公司</font><br />
+			    海外发行代号：BM 2069<br />
+                            国内统一刊号：CN 10-1128/F<br />
+			    国际标准刊号：ISSN 2095-6703<br />  
+            </p>
+        </dt>
+    </dl>
+</div>
+            </div>
+            
+
+<style type="text/css">
+p
+{
+ font-size:12px;    
+}
+</style>
+
+<div class="C_right">
+    <h4 class="list_site">您当前的位置：<a href="/">首页</a> &gt;&gt; <a href="/Magazine/IndexDir">期刊目录</a> &gt;&gt; <a href="/Magazine/?Year=2024&Issue=3">2024 年 3 期</a></h4>
+    <div style=" font-weight:bold; color:#207d44; padding-top:10px; padding-left: 10px;">生成式人工智能技术如何影响专业型工作？——来自软件工程行业的早期证据</div><br />
+    <div style="padding-left:10px;">
+        <a href="/Admin/UploadFile/Issue/201911110002/2024/6//20240630043841WU_FILE_0.pdf" target="_blank"><img src="/Areas/201911110002/Content/ZHYJY/img/ckqw.png" alt="查看全文" /></a>
+        <a href=""javascript:;" onclick="DownLoadFile(96542,'生成式人工智能技术如何影响专业型工作？——来自软件工程行业的早期证据')" id="96542"><img src="/Areas/201911110002/Content/ZHYJY/img/xzqw.png" alt="下载全文" /></a>
+        <a href="javascript:window.external.AddFavorite(''+document.location.href+'',''+document.title+'');"><img src="/Areas/201911110002/Content/ZHYJY/img/jrsc.png" /></a>
+        <input type="hidden" id="hd" value="/UploadFile/Issue/201911110002/2024/6//20240630043841WU_FILE_0.pdf" />
+        <input type="hidden" id="cid" value="96542" />
+        <div style=" float:right; font-size:14px;"><a href="https://tools.boyuanxc.cn/Tools/AdbeRdr11000_zh_CN.exe">下载PDF阅读器</a></div><br /><br />
+        
+        <table style=" text-align:center; font-size:12px;">
+            <tr style="text-align:left;">
+                <td valign="middle" align="left" style="width:110px; font-weight:bold;">摘要：</td>
+                <td style="line-height:28px; font-size:12px;"><p>生成式人工智能（AI）技术的发展显著缩小了人工智能与人类认知能力的差距，这一趋势对知识型、专业型工作带来重大影响。本文以软件工程行业为研究对象，分析生成式AI在应用早期阶段对专业型工作的影响效果与机制。研究显示，现阶段生成式AI对专业型工作的冲击有限，对软件开发工作的影响以效率提升为主，距离大规模广泛替代还有较大差距。AI工具在通用型业务场景的效率提升效应最高，在行业属性较强的应用场景中提升效应有限。当应用场景涉及云计算、机器学习等前沿技术能力时，生成式AI工具的表现最差。原因在于，使用生成式AI工具辅助软件开发仍面临训练数据、复杂逻辑、隐性知识、人机交互等制约因素，在理解问题、解决问题、生成代码等环节限制了技术在实际应用中的表现。从长期来看，生成式AI有望推动软件开发工作从单向任务自动化转变为“人机合作”模式，从而实现基于“双向互动”的效率提升。本文的研究结果对未来如何建立专业型劳动者与人工智能技术进步之间的良性关系具有启发意义。</p></td>
+            </tr>
+            <tr style="text-align:left; height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" style="font-weight:bold;">作者：</td>
+                <td style=" font-size:12px;">马晔风;陈楠;崔雪彬;</td>
+            </tr>
+            <tr style="text-align:left; height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" style="font-weight:bold;">作者单位：</td>
+                <td>中国社会科学院数量经济与技术经济研究所;中国社会科学院经济大数据与政策评估实验室;南京大学数字经济与管理学院;</td>
+            </tr>
+            <tr style="text-align:left; height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" style="font-weight:bold;">期刊：</td>
+                <td><a href="sle.ajcass.com" target="_blank">劳动经济研究</a></td>
+            </tr>
+            <tr style="text-align:left; height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" style="font-weight:bold;">年,卷(期):页码</td>
+                <td>2024，0<span>（3）</span>:3<span>-</span>34</td>
+            </tr>
+            <tr style="text-align:left; height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" style="font-weight:bold;">JEL分类号：</td>
+                <td></td>
+            </tr>
+            <tr style="text-align:left; height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" style="font-weight:bold;">基金项目：</td>
+                <td>国家社会科学基金青年项目（项目批准号：22CJY047）;</td>
+            </tr>
+            <tr style="text-align:left; height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" style="font-weight:bold;">文章编号：</td>
+                <td></td>
+            </tr>
+            <tr style="text-align:left; height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" style="font-weight:bold;">关键词：</td>
+                <td>生成式人工智能;专业型工作;软件开发;应用场景;</td>
+            </tr>
+            <tr style="height:15px;"></tr>
+            <tr style="height:15px;"></tr>
+            <tr style="text-align:left;">
+                <td valign="top" colspan=2 style="font-weight:bold;"><h3 style="font-size: 14px;">欢迎阅读《劳动经济研究》！您是该文第<font>1460</font>位读者！</h3></td>
+                        
+            </tr>
+        </table>
+
+    </div>
+</div>
+
+
+
+
+
+            <div>&nbsp;</div>
+            <div id="footer">
+                <p>您是第 4289793 位访问者</p>
+                <p>
+                   地址：北京市东城区王府井大街27号 <br/>
+                   邮编：100006
+                   电话：010-65283266<br />
+            
+
+                </p>
+<p style="color: #fff;text-align:center;"><a href="https://www.boyuancb.com/" style="color: #fff;text-decoration: none; ">本系统由北京博渊星辰网络科技有限公司设计开发</a> 技术支持电话：010-63361626</p>
+
+            </div>
+        </div>
+
+
+
+
+    </div>
+
+    <script type="text/javascript">
+        function getQueryString(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null)
+                return unescape(r[2]);
+            return null;
+        }
+
+        document.getElementById("Year").value = getQueryString("Year") == null ? "" : getQueryString("Year");
+        document.getElementById("Issue").value = getQueryString("Issue") == null ? "" : getQueryString("Issue");
+        document.getElementById("MenuTree").value = getQueryString("JChannelID") == null ? "" : getQueryString("JChannelID");
+
+        document.getElementById("Title").value = getQueryString("Title") == null ? "标题" : getQueryString("Title");
+        document.getElementById("Authors").value = getQueryString("Authors") == null ? "作者姓名" : getQueryString("Authors");
+        document.getElementById("WorkUnit").value = getQueryString("WorkUnit") == null ? "作者单位" : getQueryString("WorkUnit");
+
+    </script>
+<script type="text/javascript">
+function DownLoadFile(contentID, title) {
+                window.open("/Admin/Upload/FileDownload/?ContentID=" + contentID + "&fileName=" + title);
+            }
+    $(function () {
+
+        $("#Year").change(function () {
+
+            var value = $(this).children('option:selected').val();
+
+            if (value > 0) {
+
+                $.ajax({
+
+                    url: '/Modules/AjaxIssue',
+                    type: 'POST',
+                    data: { 'year': value },
+                    success: function (result) {
+                        var returnData = eval(result);
+                        $("#Issue option").remove();
+                        for (var i = 0; i < returnData.length; i++) {
+                            $("#Issue").append("<option value='" + returnData[i].Issue + "'>No." + returnData[i].Issue + "</option>");
+                        }
+
+                    }
+
+                });
+
+
+            }
+        });
+
+
+    });
+
+
+        
+</script>
+</div>
+</body>
+</html>

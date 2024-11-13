@@ -1,0 +1,17 @@
+Content-Length: 464
+Server: AkamaiGHost
+Mime-Version: 1.0
+Cache-Control: max-age=900
+Date: Wed, 13 Nov 2024 08:02:25 GMT
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Server-Timing: ak_p; desc="1731484945079_389065862_2395025825_28_75748_4_98_-";dur=1
+X-Akam-Sw-Version: 0.5.0
+Content-Security-Policy: default-src * 'unsafe-inline'; script-src * data: 'unsafe-inline' 'unsafe-eval' blob:; style-src * 'unsafe-inline'; style-src-elem * 'unsafe-inline'; style-src-attr * 'unsafe-inline'; img-src * data: blob:; font-src * data:; frame-src * data:; frame-ancestors *; media-src * blob:; worker-src * blob:
+Referrer-Policy: strict-origin-when-cross-origin
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Permissions-Policy: browsing-topics=()
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000 ; preload

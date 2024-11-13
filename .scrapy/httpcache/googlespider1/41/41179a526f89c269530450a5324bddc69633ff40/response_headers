@@ -1,0 +1,14 @@
+Access-Control-Allow-Methods: GET, POST, HEAD, OPTIONS
+Content-Encoding: gzip
+Content-Type: text/html
+Date: Wed, 13 Nov 2024 11:15:09 GMT
+Referrer-Policy: origin
+Server: zjw-web
+Set-Cookie: HttpOnly
+Set-Cookie: Secure
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+Vary: Accept-Encoding
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: master-only
+X-Server: 128.32
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,1802 @@
+<!DOCTYPE html><html class="ltr" dir="ltr" lang="zh-CN"><head>
+	<title>人工智能的影响及商业问题</title>
+	<meta content="initial-scale=1.0, width=device-width" name="viewport">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://script.crazyegg.com/pages/versioned/common-scripts/c145caf9bd0f62535e3720b5d68c2190.js" type="text/javascript" async=""></script><script src="https://hm.baidu.com/hm.js?95e64d347633bfd0a2462e25c93606d6"></script><script type="text/javascript" async="" defer="" src="https://wipoanalytics.wipo.int/matomo/js/container_oj6DkAWh.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P7RLS2"></script><script type="importmap">{"imports":{"react-dom":"/o/frontend-js-react-web/__liferay__/exports/react-dom.js","@clayui/breadcrumb":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$breadcrumb.js","@clayui/form":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$form.js","@clayui/popover":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$popover.js","@clayui/charts":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$charts.js","@clayui/shared":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$shared.js","@clayui/localized-input":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$localized-input.js","@clayui/modal":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$modal.js","@clayui/empty-state":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$empty-state.js","react":"/o/frontend-js-react-web/__liferay__/exports/react.js","@clayui/navigation-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$navigation-bar.js","@clayui/color-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$color-picker.js","@clayui/pagination":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination.js","@clayui/icon":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$icon.js","@clayui/table":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$table.js","@clayui/autocomplete":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$autocomplete.js","@clayui/slider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$slider.js","@clayui/management-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$management-toolbar.js","@clayui/multi-select":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-select.js","@clayui/nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$nav.js","@clayui/time-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$time-picker.js","@clayui/provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$provider.js","@clayui/upper-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$upper-toolbar.js","@clayui/panel":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$panel.js","@clayui/loading-indicator":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$loading-indicator.js","@clayui/list":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$list.js","@clayui/drop-down":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$drop-down.js","@clayui/date-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$date-picker.js","@clayui/label":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$label.js","@clayui/data-provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$data-provider.js","@liferay/frontend-js-api/data-set":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api$data-set.js","@clayui/core":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$core.js","@clayui/pagination-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination-bar.js","@clayui/layout":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$layout.js","@clayui/multi-step-nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-step-nav.js","@liferay/frontend-js-api":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api.js","@clayui/toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$toolbar.js","@clayui/css":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$css.js","@clayui/badge":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$badge.js","@clayui/alert":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$alert.js","@clayui/link":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$link.js","@clayui/card":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$card.js","@clayui/progress-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$progress-bar.js","@clayui/tooltip":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tooltip.js","@clayui/button":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$button.js","@clayui/tabs":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tabs.js","@clayui/sticker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$sticker.js"},"scopes":{}}</script><script data-senna-track="permanent" src="/o/frontend-js-svg4everybody-web/index.js?&amp;mac=xBimnpl6PfodLjk5lbNNRjGpEMw=&amp;browserId=other&amp;languageId=zh_CN&amp;minifierType=js" type="text/javascript"></script>
+<script data-senna-track="temporary">var Liferay = window.Liferay || {};Liferay.Icons = Liferay.Icons || {};Liferay.Icons.controlPanelSpritemap = 'https://cdn.webcms.wipo.int/o/admin-theme/images/clay/icons.svg';Liferay.Icons.spritemap = 'https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/images/clay/icons.svg';</script>
+<link data-senna-track="permanent" href="https://cdn.webcms.wipo.int/o/frontend-theme-font-awesome-web/css/main.css?&amp;mac=KWb8CY3oOhD728SI0G+NfXJbH/E=&amp;browserId=other&amp;languageId=zh_CN&amp;minifierType=css&amp;themeId=wipouniversallegacytheme_WAR_wipouniversallegacytheme" rel="stylesheet" type="text/css">
+<script data-senna-track="permanent" src="/combo?browserId=other&amp;minifierType=js&amp;languageId=zh_CN&amp;t=1730310603914&amp;/o/frontend-js-jquery-web/jquery/jquery.min.js&amp;/o/frontend-js-jquery-web/jquery/init.js&amp;/o/frontend-js-jquery-web/jquery/ajax.js&amp;/o/frontend-js-jquery-web/jquery/bootstrap.bundle.min.js&amp;/o/frontend-js-jquery-web/jquery/collapsible_search.js&amp;/o/frontend-js-jquery-web/jquery/fm.js&amp;/o/frontend-js-jquery-web/jquery/form.js&amp;/o/frontend-js-jquery-web/jquery/popper.min.js&amp;/o/frontend-js-jquery-web/jquery/side_navigation.js" type="text/javascript"></script>
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth" rel="canonical">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/es/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth" hreflang="es-ES" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/zh/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth" hreflang="zh-CN" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/ru/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth" hreflang="ru-RU" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/ar/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth" hreflang="ar-SA" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/fr/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth" hreflang="fr-FR" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth" hreflang="en-US" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth" hreflang="x-default" rel="alternate">
+
+<meta property="og:locale" content="zh_CN">
+<meta property="og:locale:alternate" content="ar_SA">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="es_ES">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:locale:alternate" content="ru_RU">
+<meta property="og:locale:alternate" content="zh_CN">
+<meta property="og:site_name" content="technology-trends">
+<meta property="og:title" content="人工智能的影响及商业问题">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.wipo.int/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth">
+
+
+<link href="https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/images/favicon.ico" rel="apple-touch-icon">
+<link href="https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/images/favicon.ico" rel="icon">
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/o/wipo-universal-legacy-theme/css/clay.css?browserId=other&amp;themeId=wipouniversallegacytheme_WAR_wipouniversallegacytheme&amp;minifierType=css&amp;languageId=zh_CN&amp;t=1730310598000" id="liferayAUICSS" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+	<link href="/combo?browserId=other&amp;minifierType=css&amp;themeId=wipouniversallegacytheme_WAR_wipouniversallegacytheme&amp;languageId=zh_CN&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fo%2Fproduct-navigation-product-menu-web%2Fcss%2Fmain.css&amp;t=1730310598000" rel="stylesheet" type="text/css" data-senna-track="temporary" id="9f8c90df">
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return true;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 0;
+			},
+
+			getRevision: function() {
+				return '';
+			},
+			getVersion: function() {
+				return '';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return false;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return false;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return false;
+			},
+			isSafari: function() {
+				return false;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return false;
+			},
+			isWindows: function() {
+				return false;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			
+		];
+
+		(function () {
+			var available = {};
+
+			var direction = {};
+
+			
+
+				available['en_US'] = '英语\x20\x28美国\x29';
+				direction['en_US'] = 'ltr';
+
+			
+
+				available['es_ES'] = '西班牙语\x20\x28西班牙\x29';
+				direction['es_ES'] = 'ltr';
+
+			
+
+				available['fr_FR'] = '法语\x20\x28法国\x29';
+				direction['fr_FR'] = 'ltr';
+
+			
+
+				available['ru_RU'] = '俄语\x20\x28俄罗斯\x29';
+				direction['ru_RU'] = 'ltr';
+
+			
+
+				available['zh_CN'] = '中文\x20\x28中国\x29';
+				direction['zh_CN'] = 'ltr';
+
+			
+
+				available['ar_SA'] = '阿拉伯语\x20\x28沙特阿拉伯\x29';
+				direction['ar_SA'] = 'rtl';
+
+			
+
+				available['de_DE'] = '德语\x20\x28德国\x29';
+				direction['de_DE'] = 'ltr';
+
+			
+
+				available['pt_PT'] = '葡萄牙语\x20\x28葡萄牙\x29';
+				direction['pt_PT'] = 'ltr';
+
+			
+
+				available['ja_JP'] = '日语\x20\x28日本\x29';
+				direction['ja_JP'] = 'ltr';
+
+			
+
+				available['ko_KR'] = '韩语\x20\x28韩国\x29';
+				direction['ko_KR'] = 'ltr';
+
+			
+
+			Liferay.Language = {
+				available,
+				direction,
+				get: function(key) {
+					return key;
+				}
+			};
+		})();
+
+		var featureFlags = {"LPS-170122":false,"LPS-190890":false,"COMMERCE-9410":false,"LPS-172903":false,"LPS-178642":false,"LPS-187284":false,"LRAC-10632":false,"LPS-187285":false,"LPS-189187":false,"LPS-114786":false,"COMMERCE-8087":false,"LRAC-10757":false,"LPS-180090":false,"LPS-170809":false,"LPS-178052":false,"LPS-189856":false,"LPS-188645":false,"LPS-182184":false,"LPS-157670":false,"COMMERCE-11026":false,"LPS-180328":false,"COMMERCE-11028":false,"LPS-169923":false,"LPS-171364":false,"LPS-192282":false,"COMMERCE-11181":false,"LPS-153714":false,"COMMERCE-10890":false,"LPS-170670":false,"LPS-169981":false,"LPS-177664":false,"LPS-177027":false,"LPS-177668":false,"LPS-172416":false,"LPS-172017":false,"LPS-163118":false,"LPS-135430":false,"LPS-134060":false,"LPS-164563":false,"LPS-122920":false,"LPS-148856":false,"LPS-173135":false,"LPS-182728":false,"LPS-167253":false,"LPS-169992":false,"LPS-187142":false,"LPS-183498":false,"LRAC-14055":false,"LPS-187854":false,"LPS-179483":false,"LPS-166479":false,"LPS-165346":false,"LPS-144527":false,"COMMERCE-8949":false,"LPS-188060":false,"LPS-149256":false,"LPS-165482":false,"COMMERCE-11287":false,"LPS-174939":false,"LPS-174816":false,"LPS-186360":false,"LPS-189430":false,"LPS-153332":false,"LPS-179669":false,"LPS-174417":false,"LPS-183882":false,"LPS-155284":false,"LPS-186558":false,"LPS-176083":false,"LPS-158675":false,"LPS-184413":false,"LPS-184016":false,"LPS-180292":false,"LPS-159643":false,"LPS-161033":false,"LPS-164948":false,"LPS-184255":false,"LPS-129412":false,"LPS-183727":false,"LPS-166126":false,"LPS-182512":false,"LPS-187846":false,"LPS-186757":false};
+
+		Liferay.FeatureFlags = Object.keys(featureFlags).reduce(
+			(acc, key) => ({
+				...acc, [key]: featureFlags[key] === 'true' || featureFlags[key] === true
+			}), {}
+		);
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 104857600
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '41';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/zh/group/technology-trends/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/zh/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth';
+				},
+				getLayoutURL: function() {
+					return 'https://www.wipo.int/zh/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth';
+				},
+				getParentLayoutId: function() {
+					return '40';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'zh-Hans-CN';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fweb\x2ftechnology-trends\x2fartificial-intelligence\x2fask-the-experts\x2ftechtrends-ai-firth';
+			},
+			getCDNBaseURL: function() {
+				return 'https://cdn.webcms.wipo.int';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return 'https://cdn.webcms.wipo.int';
+			},
+			getCompanyGroupId: function() {
+				return '20123';
+			},
+			getCompanyId: function() {
+				return '20097';
+			},
+			getDefaultLanguageId: function() {
+				return 'en_US';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'zh_CN';
+			},
+			getParentGroupId: function() {
+				return '747820';
+			},
+			getPathContext: function() {
+				return '';
+			},
+			getPathImage: function() {
+				return '/image';
+			},
+			getPathJavaScript: function() {
+				return '/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/zh/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/o/wipo-universal-legacy-theme';
+			},
+			getPlid: function() {
+				return '8281';
+			},
+			getPortalURL: function() {
+				return 'https://www.wipo.int';
+			},
+			getRealUserId: function() {
+				return '20102';
+			},
+			getRemoteAddr: function() {
+				return '10.44.247.46';
+			},
+			getRemoteHost: function() {
+				return '10.44.247.46';
+			},
+			getScopeGroupId: function() {
+				return '747820';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '747820';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://www.wipo.int/group/technology-trends/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '747820';
+			},
+			getURLControlPanel: function() {
+				return '/zh/group/control_panel?refererPlid=8281';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fweb\x2fguest';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '20102';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+
+			isStagedPortlet: function() {
+				
+					
+					
+						return false;
+					
+				
+			},
+
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=zh_CN&t=1730310597952&';
+			},
+			getDateFormat: function() {
+				return '%Y-%m-%d';
+			},
+			getEditorCKEditorPath: function() {
+				return '/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+				
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/o/frontend-js-web';
+			},
+			getPortletRootPath: function() {
+				return '/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=other&minifierType=&languageId=zh_CN&t=1730310597952';
+			}
+		};
+
+		Liferay.authToken = '3K7dQNXh';
+
+		
+
+		Liferay.currentURL = '\x2fzh\x2fweb\x2ftechnology-trends\x2fartificial-intelligence\x2fask-the-experts\x2ftechtrends-ai-firth';
+		Liferay.currentURLEncoded = '\x252Fzh\x252Fweb\x252Ftechnology-trends\x252Fartificial-intelligence\x252Fask-the-experts\x252Ftechtrends-ai-firth';
+	// ]]>
+</script>
+
+<script data-senna-track="temporary" type="text/javascript">window.__CONFIG__= {basePath: '',combine: true, defaultURLParams: null, explainResolutions: false, exposeGlobal: false, logLevel: 'warn', moduleType: 'module', namespace:'Liferay', reportMismatchedAnonymousModules: 'warn', resolvePath: '/o/js_resolve_modules/1d5252eb-dc21-455a-a405-81637cc46650', url: '/combo/?browserId=other&minifierType=js&languageId=zh_CN&t=1730310597952&', waitTimeout: 60000};</script><script data-senna-track="permanent" src="https://cdn.webcms.wipo.int/o/frontend-js-loader-modules-extender/loader.js?&amp;mac=kuyYLzgmJRuntKLenfFpZdHstco=&amp;browserId=other&amp;languageId=zh_CN&amp;minifierType=js" type="text/javascript"></script><script data-senna-track="permanent" src="/combo?browserId=other&amp;minifierType=js&amp;languageId=zh_CN&amp;t=1730310597952&amp;/o/frontend-js-aui-web/aui/aui/aui-min.js&amp;/o/frontend-js-aui-web/liferay/modules.js&amp;/o/frontend-js-aui-web/liferay/aui_sandbox.js&amp;/o/frontend-js-aui-web/aui/attribute-base/attribute-base-min.js&amp;/o/frontend-js-aui-web/aui/attribute-complex/attribute-complex-min.js&amp;/o/frontend-js-aui-web/aui/attribute-core/attribute-core-min.js&amp;/o/frontend-js-aui-web/aui/attribute-observable/attribute-observable-min.js&amp;/o/frontend-js-aui-web/aui/attribute-extras/attribute-extras-min.js&amp;/o/frontend-js-aui-web/aui/event-custom-base/event-custom-base-min.js&amp;/o/frontend-js-aui-web/aui/event-custom-complex/event-custom-complex-min.js&amp;/o/frontend-js-aui-web/aui/oop/oop-min.js&amp;/o/frontend-js-aui-web/aui/aui-base-lang/aui-base-lang-min.js&amp;/o/frontend-js-aui-web/liferay/dependency.js&amp;/o/frontend-js-aui-web/liferay/util.js&amp;/o/frontend-js-web/liferay/dom_task_runner.js&amp;/o/frontend-js-web/liferay/events.js&amp;/o/frontend-js-web/liferay/lazy_load.js&amp;/o/frontend-js-web/liferay/liferay.js&amp;/o/frontend-js-web/liferay/global.bundle.js&amp;/o/frontend-js-web/liferay/portlet.js&amp;/o/frontend-js-web/liferay/workflow.js&amp;/o/oauth2-provider-web/js/liferay.js" type="text/javascript"></script>
+<script data-senna-track="temporary" type="text/javascript">window.Liferay = Liferay || {}; window.Liferay.OAuth2 = {getAuthorizeURL: function() {return 'https://www.wipo.int/o/oauth2/authorize';}, getBuiltInRedirectURL: function() {return 'https://www.wipo.int/o/oauth2/redirect';}, getIntrospectURL: function() { return 'https://www.wipo.int/o/oauth2/introspect';}, getTokenURL: function() {return 'https://www.wipo.int/o/oauth2/token';}, getUserAgentApplication: function(externalReferenceCode) {return Liferay.OAuth2._userAgentApplications[externalReferenceCode];}, _userAgentApplications: {}}</script><script data-senna-track="temporary" type="text/javascript">try {var MODULE_MAIN='portal-workflow-task-web@5.0.62/index';var MODULE_PATH='/o/portal-workflow-task-web';AUI().applyConfig({groups:{workflowtasks:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-workflow-tasks":{path:"main.js",requires:["liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='commerce-product-content-web@4.0.102/index';var MODULE_PATH='/o/commerce-product-content-web';AUI().applyConfig({groups:{productcontent:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),modules:{"liferay-commerce-product-content":{path:"product_content.js",requires:["aui-base","aui-io-request","aui-parse-content","liferay-portlet-base","liferay-portlet-url"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='dynamic-data-mapping-web@5.0.93/index';var MODULE_PATH='/o/dynamic-data-mapping-web';!function(){const a=Liferay.AUI;AUI().applyConfig({groups:{ddm:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:a.getFilterConfig(),modules:{"liferay-ddm-form":{path:"ddm_form.js",requires:["aui-base","aui-datatable","aui-datatype","aui-image-viewer","aui-parse-content","aui-set","aui-sortable-list","json","liferay-form","liferay-map-base","liferay-translation-manager","liferay-util-window"]},"liferay-portlet-dynamic-data-mapping":{condition:{trigger:"liferay-document-library"},path:"main.js",requires:["arraysort","aui-form-builder-deprecated","aui-form-validator","aui-map","aui-text-unicode","json","liferay-menu","liferay-translation-manager","liferay-util-window","text"]},"liferay-portlet-dynamic-data-mapping-custom-fields":{condition:{trigger:"liferay-document-library"},path:"custom_fields.js",requires:["liferay-portlet-dynamic-data-mapping"]}},root:MODULE_PATH+"/js/"}}})}();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-taglib@12.3.5/index';var MODULE_PATH='/o/frontend-taglib';AUI().applyConfig({groups:{"frontend-taglib":{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-management-bar":{path:"management_bar/js/management_bar.js",requires:["aui-component","liferay-portlet-base"]},"liferay-sidebar-panel":{path:"sidebar_panel/js/sidebar_panel.js",requires:["aui-base","aui-debounce","aui-parse-content","liferay-portlet-base"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='staging-taglib@7.0.46/index';var MODULE_PATH='/o/staging-taglib';AUI().applyConfig({groups:{stagingTaglib:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-export-import-management-bar-button":{path:"export_import_entity_management_bar_button/js/main.js",requires:["aui-component","liferay-search-container","liferay-search-container-select"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='journal-web@5.0.151/index';var MODULE_PATH='/o/journal-web';AUI().applyConfig({groups:{journal:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-journal-navigation":{path:"navigation.js",requires:["aui-component","liferay-portlet-base","liferay-search-container"]},"liferay-portlet-journal":{path:"main.js",requires:["aui-base","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-editor-alloyeditor-web@5.0.42/index';var MODULE_PATH='/o/frontend-editor-alloyeditor-web';AUI().applyConfig({groups:{alloyeditor:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-alloy-editor":{path:"alloyeditor.js",requires:["aui-component","liferay-portlet-base","timers"]},"liferay-alloy-editor-source":{path:"alloyeditor_source.js",requires:["aui-debounce","liferay-fullscreen-source-editor","liferay-source-editor","plugin"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-js-components-web@2.0.53/index';var MODULE_PATH='/o/frontend-js-components-web';AUI().applyConfig({groups:{components:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='invitation-invite-members-web@5.0.29/index';var MODULE_PATH='/o/invitation-invite-members-web';AUI().applyConfig({groups:{"invite-members":{base:MODULE_PATH+"/invite_members/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-portlet-invite-members":{path:"main.js",requires:["aui-base","autocomplete-base","datasource-io","datatype-number","liferay-portlet-base","liferay-util-window","node-core"]}},root:MODULE_PATH+"/invite_members/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='item-selector-taglib@5.3.14/index.es';var MODULE_PATH='/o/item-selector-taglib';AUI().applyConfig({groups:{"item-selector-taglib":{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-image-selector":{path:"image_selector/js/image_selector.js",requires:["aui-base","liferay-item-selector-dialog","liferay-portlet-base","uploader"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='contacts-web@5.0.52/index';var MODULE_PATH='/o/contacts-web';AUI().applyConfig({groups:{contactscenter:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-contacts-center":{path:"main.js",requires:["aui-io-plugin-deprecated","aui-toolbar","autocomplete-base","datasource-io","json-parse","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='staging-processes-web@5.0.49/index';var MODULE_PATH='/o/staging-processes-web';AUI().applyConfig({groups:{stagingprocessesweb:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-staging-processes-export-import":{path:"js/main.js",requires:["aui-datatype","aui-dialog-iframe-deprecated","aui-modal","aui-parse-content","aui-toggler","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='calendar-web@5.0.78/index';var MODULE_PATH='/o/calendar-web';AUI().applyConfig({groups:{calendar:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-calendar-a11y":{path:"calendar_a11y.js",requires:["calendar"]},"liferay-calendar-container":{path:"calendar_container.js",requires:["aui-alert","aui-base","aui-component","liferay-portlet-base"]},"liferay-calendar-date-picker-sanitizer":{path:"date_picker_sanitizer.js",requires:["aui-base"]},"liferay-calendar-interval-selector":{path:"interval_selector.js",requires:["aui-base","liferay-portlet-base"]},"liferay-calendar-interval-selector-scheduler-event-link":{path:"interval_selector_scheduler_event_link.js",requires:["aui-base","liferay-portlet-base"]},"liferay-calendar-list":{path:"calendar_list.js",requires:["aui-template-deprecated","liferay-scheduler"]},"liferay-calendar-message-util":{path:"message_util.js",requires:["liferay-util-window"]},"liferay-calendar-recurrence-converter":{path:"recurrence_converter.js",requires:[]},"liferay-calendar-recurrence-dialog":{path:"recurrence.js",requires:["aui-base","liferay-calendar-recurrence-util"]},"liferay-calendar-recurrence-util":{path:"recurrence_util.js",requires:["aui-base","liferay-util-window"]},"liferay-calendar-reminders":{path:"calendar_reminders.js",requires:["aui-base"]},"liferay-calendar-remote-services":{path:"remote_services.js",requires:["aui-base","aui-component","liferay-calendar-util","liferay-portlet-base"]},"liferay-calendar-session-listener":{path:"session_listener.js",requires:["aui-base","liferay-scheduler"]},"liferay-calendar-simple-color-picker":{path:"simple_color_picker.js",requires:["aui-base","aui-template-deprecated"]},"liferay-calendar-simple-menu":{path:"simple_menu.js",requires:["aui-base","aui-template-deprecated","event-outside","event-touch","widget-modality","widget-position","widget-position-align","widget-position-constrain","widget-stack","widget-stdmod"]},"liferay-calendar-util":{path:"calendar_util.js",requires:["aui-datatype","aui-io","aui-scheduler","aui-toolbar","autocomplete","autocomplete-highlighters"]},"liferay-scheduler":{path:"scheduler.js",requires:["async-queue","aui-datatype","aui-scheduler","dd-plugin","liferay-calendar-a11y","liferay-calendar-message-util","liferay-calendar-recurrence-converter","liferay-calendar-recurrence-util","liferay-calendar-util","liferay-scheduler-event-recorder","liferay-scheduler-models","promise","resize-plugin"]},"liferay-scheduler-event-recorder":{path:"scheduler_event_recorder.js",requires:["dd-plugin","liferay-calendar-util","resize-plugin"]},"liferay-scheduler-models":{path:"scheduler_models.js",requires:["aui-datatype","dd-plugin","liferay-calendar-util"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='commerce-frontend-impl@4.0.49/index';var MODULE_PATH='/o/commerce-frontend-impl';AUI().applyConfig({groups:{commercefrontend:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),modules:{"liferay-commerce-frontend-management-bar-state":{condition:{trigger:"liferay-management-bar"},path:"management_bar_state.js",requires:["liferay-management-bar"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='product-navigation-taglib@6.0.54/index';var MODULE_PATH='/o/product-navigation-taglib';AUI().applyConfig({groups:{controlmenu:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-product-navigation-control-menu":{path:"control_menu/js/product_navigation_control_menu.js",requires:["aui-node","event-touch"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/document-library-web@6.0.163/document_library/js/index';var MODULE_PATH='/o/document-library-web';AUI().applyConfig({groups:{dl:{base:MODULE_PATH+"/document_library/js/legacy/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"document-library-upload-component":{path:"DocumentLibraryUpload.js",requires:["aui-component","aui-data-set-deprecated","aui-overlay-manager-deprecated","aui-overlay-mask-deprecated","aui-parse-content","aui-progressbar","aui-template-deprecated","liferay-search-container","querystring-parse-simple","uploader"]}},root:MODULE_PATH+"/document_library/js/legacy/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='exportimport-web@5.0.76/index';var MODULE_PATH='/o/exportimport-web';AUI().applyConfig({groups:{exportimportweb:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-export-import-export-import":{path:"js/main.js",requires:["aui-datatype","aui-dialog-iframe-deprecated","aui-modal","aui-parse-content","aui-toggler","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-state-web@1.0.18/index';var MODULE_PATH='/o/frontend-js-state-web';AUI().applyConfig({groups:{state:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-react-web@5.0.31/index';var MODULE_PATH='/o/frontend-js-react-web';AUI().applyConfig({groups:{react:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-search-web@6.0.114/index';var MODULE_PATH='/o/portal-search-web';AUI().applyConfig({groups:{search:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-search-bar":{path:"search_bar.js",requires:[]},"liferay-search-custom-filter":{path:"custom_filter.js",requires:[]},"liferay-search-facet-util":{path:"facet_util.js",requires:[]},"liferay-search-modified-facet":{path:"modified_facet.js",requires:["aui-form-validator","liferay-search-facet-util"]},"liferay-search-modified-facet-configuration":{path:"modified_facet_configuration.js",requires:["aui-node"]},"liferay-search-sort-configuration":{path:"sort_configuration.js",requires:["aui-node"]},"liferay-search-sort-util":{path:"sort_util.js",requires:[]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-workflow-kaleo-designer-web@5.0.115/index';var MODULE_PATH='/o/portal-workflow-kaleo-designer-web';AUI().applyConfig({groups:{"kaleo-designer":{base:MODULE_PATH+"/designer/js/legacy/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-kaleo-designer-autocomplete-util":{path:"autocomplete_util.js",requires:["autocomplete","autocomplete-highlighters"]},"liferay-kaleo-designer-definition-diagram-controller":{path:"definition_diagram_controller.js",requires:["liferay-kaleo-designer-field-normalizer","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-dialogs":{path:"dialogs.js",requires:["liferay-util-window"]},"liferay-kaleo-designer-editors":{path:"editors.js",requires:["aui-ace-editor","aui-ace-editor-mode-xml","aui-base","aui-datatype","aui-node","liferay-kaleo-designer-autocomplete-util","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-field-normalizer":{path:"field_normalizer.js",requires:["liferay-kaleo-designer-remote-services"]},"liferay-kaleo-designer-nodes":{path:"nodes.js",requires:["aui-datatable","aui-datatype","aui-diagram-builder","liferay-kaleo-designer-editors","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-remote-services":{path:"remote_services.js",requires:["aui-io","liferay-portlet-url"]},"liferay-kaleo-designer-templates":{path:"templates.js",requires:["aui-tpl-snippets-deprecated"]},"liferay-kaleo-designer-utils":{path:"utils.js",requires:[]},"liferay-kaleo-designer-xml-definition":{path:"xml_definition.js",requires:["aui-base","aui-component","dataschema-xml","datatype-xml"]},"liferay-kaleo-designer-xml-definition-serializer":{path:"xml_definition_serializer.js",requires:["escape","liferay-kaleo-designer-xml-util"]},"liferay-kaleo-designer-xml-util":{path:"xml_util.js",requires:["aui-base"]},"liferay-portlet-kaleo-designer":{path:"main.js",requires:["aui-ace-editor","aui-ace-editor-mode-xml","aui-tpl-snippets-deprecated","dataschema-xml","datasource","datatype-xml","event-valuechange","io-form","liferay-kaleo-designer-autocomplete-util","liferay-kaleo-designer-editors","liferay-kaleo-designer-nodes","liferay-kaleo-designer-remote-services","liferay-kaleo-designer-utils","liferay-kaleo-designer-xml-util","liferay-util-window"]}},root:MODULE_PATH+"/designer/js/legacy/"}}});
+} catch(error) {console.error(error);}</script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		
+			
+				
+				
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+		
+
+			
+
+			
+		
+		
+	
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+		
+	
+
+
+
+	
+		
+		
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/o/wipo-universal-legacy-theme/css/main.css?browserId=other&amp;themeId=wipouniversallegacytheme_WAR_wipouniversallegacytheme&amp;minifierType=css&amp;languageId=zh_CN&amp;t=1730310598000" id="liferayThemeCSS" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+<script data-senna-track="temporary">var Liferay = window.Liferay || {}; Liferay.CommerceContext = {"commerceAccountGroupIds":[],"accountEntryAllowedTypes":["person"],"commerceChannelId":"0","currency":{"currencyId":"1277304","currencyCode":"USD"},"commerceSiteType":0};</script><link href="/o/commerce-frontend-js/styles/main.css" rel="stylesheet" type="text/css">
+<style data-senna-track="temporary" type="text/css">
+</style>
+<script>
+Liferay.Loader.require(
+'frontend-js-spa-web@5.0.40/init',
+function(frontendJsSpaWebInit) {
+try {
+(function() {
+frontendJsSpaWebInit.default({"navigationExceptionSelectors":":not([target=\"_blank\"]):not([data-senna-off]):not([data-resource-href]):not([data-cke-saved-href]):not([data-cke-saved-href])","cacheExpirationTime":-1,"clearScreensCache":false,"portletsBlacklist":["com_liferay_nested_portlets_web_portlet_NestedPortletsPortlet","com_liferay_site_navigation_directory_web_portlet_SitesDirectoryPortlet","com_liferay_questions_web_internal_portlet_QuestionsPortlet","com_liferay_account_admin_web_internal_portlet_AccountUsersRegistrationPortlet","com_liferay_portal_language_override_web_internal_portlet_PLOPortlet","com_liferay_login_web_portlet_LoginPortlet","com_liferay_login_web_portlet_FastLoginPortlet"],"validStatusCodes":[221,490,494,499,491,492,493,495,220],"debugEnabled":false,"loginRedirect":"","excludedPaths":["/c/document_library","/documents","/image"],"userNotification":{"message":"看起来这需要比预期更长的时间。","title":"糟糕","timeout":30000},"requestTimeout":0})
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'@liferay/frontend-js-state-web@1.0.18',
+function(FrontendJsState) {
+try {
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><link data-senna-track="temporary" href="/o/layout-common-styles/main.css?plid=8281&amp;segmentsExperienceId=3161552&amp;t=1718364010883" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title:event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+</script><script>
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+
+
+
+
+
+
+<!-- css universal start -->
+<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@100;300;400;500;600;700;800;900&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css"> -->
+<link rel="stylesheet" href="https://webcomponents.wipo.int/wipo-navbar/ulf-fonts.css"> 
+<!-- css universal end -->
+<!-- Start Navbar Component-->
+	<style>
+        @font-face {
+          font-family: 'simplon';
+          font-weight: 400;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Regular-WebXL.woff2")
+        }
+        @font-face {
+          font-family: 'simplon';
+          font-weight: 500;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Medium-WebXL.woff2")
+        }
+        @font-face {
+          font-family: 'simplon';
+          font-weight: 700;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Bold-WebXL.woff2")
+        }
+      </style>
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/js/cookie.js"></script>
+<script type="module" src="https://cdnjs.wipo.int/universal-lf-webcomponents/latest/components/wipo-footer.js"></script>
+<link rel="stylesheet" href="https://cdnjs.wipo.int/universal-lf-webcomponents/latest/style/footer.css">
+<script src="https://webcomponents.wipo.int/polyfills/webcomponents-loader.js"></script>
+<script src="https://webcomponents.wipo.int/wipo-navbar/wipo-navbar.js"></script>    
+<!-- End Navbar Component -->	<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+'ad_storage': 'granted',
+'ad_user_data': 'denied',
+'ad_personalization': 'denied',
+'analytics_storage': 'granted'
+});
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P7RLS2');</script>
+<!-- End Google Tag Manager -->
+<!-- Start Matomo -->
+<script type="text/javascript" src="https://webcomponents.wipo.int/wipo-analytics/wipo-analytics-oj6DkAWh.js"></script>
+<!-- End Matomo -->
+<!-- Start baidu -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?95e64d347633bfd0a2462e25c93606d6";
+var s = document.getElementsByTagName("script")[0]; 
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!-- End baidu -->
+<!-- Start CrazzyEgg -->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0115/2064.js" async="async"></script>
+<!-- End CrazzyEgg --></head>
+<body class="wipo-universal" id="wipo-int">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav aria-label="快速链接" class="bg-dark cadmin quick-access-nav text-center text-white" id="nwao_quickAccessNav">
+		
+			
+				<a class="d-block p-2 sr-only sr-only-focusable text-reset" href="#main-content">
+		跳转到主内容
+	</a>
+			
+			
+		
+	</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="d-flex flex-column min-vh-100">
+<header class="container-navbar-outer" id="container-navbar-outer">
+<nav class="container-fluid container-fluid-max-xl">
+<wipo-navbar full-mode="" language="zh" languageoptions="[{&quot;code&quot;:&quot;ar&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=8281&amp;redirect=%2Fzh%2Fweb%2Ftechnology-trends%2Fartificial-intelligence%2Fask-the-experts%2Ftechtrends-ai-firth&amp;languageId=ar_SA&quot;},{&quot;code&quot;:&quot;en&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=8281&amp;redirect=%2Fzh%2Fweb%2Ftechnology-trends%2Fartificial-intelligence%2Fask-the-experts%2Ftechtrends-ai-firth&amp;languageId=en_US&quot;},{&quot;code&quot;:&quot;es&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=8281&amp;redirect=%2Fzh%2Fweb%2Ftechnology-trends%2Fartificial-intelligence%2Fask-the-experts%2Ftechtrends-ai-firth&amp;languageId=es_ES&quot;},{&quot;code&quot;:&quot;fr&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=8281&amp;redirect=%2Fzh%2Fweb%2Ftechnology-trends%2Fartificial-intelligence%2Fask-the-experts%2Ftechtrends-ai-firth&amp;languageId=fr_FR&quot;},{&quot;code&quot;:&quot;ru&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=8281&amp;redirect=%2Fzh%2Fweb%2Ftechnology-trends%2Fartificial-intelligence%2Fask-the-experts%2Ftechtrends-ai-firth&amp;languageId=ru_RU&quot;},{&quot;code&quot;:&quot;zh&quot;}]" custombreadcrumbs="[{&quot;itemName&quot;:&quot;技术趋势&quot;,&quot;itemURL&quot;:&quot;/zh/web/technology-trends&quot;},{&quot;itemName&quot;:&quot;Artificial Intelligence&quot;,&quot;itemURL&quot;:&quot;https://www.wipo.int/zh/web/technology-trends/artificial-intelligence&quot;},{&quot;itemName&quot;:&quot;人工智能的影响及商业问题&quot;,&quot;itemURL&quot;:&quot;https://www.wipo.int/zh/web/technology-trends/artificial-intelligence/ask-the-experts/techtrends-ai-firth&quot;}]" helpoptions="[{
+&quot;code&quot;: &quot;contact&quot;,
+&quot;link&quot;: &quot;https://www3.wipo.int/contact/zh/area.jsp?area=&quot;,
+&quot;sameTab&quot;: &quot;false&quot;
+},
+{
+&quot;code&quot;: &quot;termsOfUse&quot;,
+&quot;link&quot;: &quot;https://www.wipo.int/tools/zh/disclaim-ipportal.html&quot;
+},
+{
+&quot;code&quot;: &quot;privacyPolicy&quot;,
+&quot;link&quot;: &quot;https://www.wipo.int/tools/zh/privacy_policy-ipportal.html&quot;
+}]">
+<div style="height: 48px; width: 100%"></div>
+</wipo-navbar></nav></header>
+<!--SEO links -->
+<div id="wipo-seo-links" class="hide"></div>		
+<div class="d-flex flex-column flex-fill position-relative" id="wrapper">
+	<section class=" flex-fill" id="content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="layout-content portlet-layout" id="main-content" role="main">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style data-senna-track="temporary" type="text/css">
+.portlet-borderless .portlet-content {padding: 0;}</style>
+
+
+
+
+	
+
+	
+
+	<div class="lfr-layout-structure-item-basic-component-html lfr-layout-structure-item-415b07fd-c1cc-ca4d-98d2-12f1643e4f62 " style="">
+ <div id="fragment-5779e70e-465b-75d7-c979-e57eaf58c5ed">
+  <div class="component-html" data-lfr-editable-id="element-html" data-lfr-editable-type="html">
+   <div class="content content--article">
+    <h1>人工智能的影响及商业问题</h1>
+    <h2>Kay Firth-Butterfield访谈，世界经济论坛（WEF）</h2>
+    <h3>从研发、投资、创新、人力资源和生产力方面来看，人工智能（AI）对各公司当前和潜在的影响有哪些？</h3>
+    <p>尽管目前只有少数公司能真正称得上是AI公司，但无论是简单的操作系统，还是从汽车到家庭医疗到娱乐的机器人发展前景来看，人工智能将无处不在，所有公司都需要制定自己的AI战略。</p>
+    <div class="cols cols--two">
+     <div class="col">
+      <figure>
+       <img src="/documents/d/technology-trends/images-en-techtrends_ai_firth_500.jpg" alt="">
+      </figure>
+     </div>
+     <div class="col">
+      <blockquote>
+       <p>如果对AI的使用决策失误，公司的品牌价值可能遭受重大损失。因此，现在必须考虑各种监管和其他治理机制。</p> <small><cite>Kay Firth-Butterfield</cite></small>
+      </blockquote>
+     </div>
+    </div>
+    <p>各公司或许都应加大在研发和AI上的投资，目前投资仍不足，其原因主要有三方面：对AI技术及其能力不够了解；一些技术仍处于萌芽阶段，无法广泛使用；不清楚监管将从何而来以及对AI发展会造成哪些影响。结果，我们看到一些有前瞻视野的公司试图在没必要使用AI的地方使用AI，如空调中的面部识别功能，而有些公司则犹豫不前，直到看到明确的创新空间和政策支持后才敢行动。</p>
+    <p>许多公司还有一个担忧，那就是缺乏引导的AI使用会在短期内造成大量失业。有社会意识的公司希望找到一种方法，尽可能降低AI对其劳动力和所在地区政治稳定的影响。在世界许多地区，由于再培训未能减缓失业状况，从而导致地缘政治变化，市场不稳定通常对公司没有好处。有些公司已经开始在人力资源中使用AI，这就需要他们意识到在该领域及其他领域使用AI的潜在问题，问题主要分为四大类：偏见、透明度、问责和隐私。</p>
+    <p>如果对AI的使用决策失误，公司的品牌价值可能遭受重大损失。因此，现在必须考虑各种监管和其他治理机制，AI技术变革速度之快，不容我们等待。</p>
+    <h3>技术趋势报告指出了正在进行创新的诸多领域。在哪些领域，AI最具破坏性、影响最大呢？</h3>
+    <p>AI最具破坏性的领域和AI影响最大的领域不一定一致，取决于我们谈的是正面还是负面影响。我来举两个例子：</p>
+    <p>(1) 人工智能玩具——我们的孩子将越来越多地使用机器人。因此，可以说从小有一个或几个AI玩具是对未来劳动力的有益准备。同样，为全世界所有儿童提供个性化教育的好处也是巨大的，但有些基本问题需要先解决。我们如何处理隐私？如果要从孩子开始说话的那一刻起收集他们的话和想法，要分析他们的学习方式，我们如何保护这些数据？谁拥有这些数据，它能货币化吗？如果玩具正在家中“听”，那收集到的便不止孩子的数据。如果一个孩子有很多设备在听，其他孩子也带来自己的设备，隐私问题就凸显出来了。政府或那些试图施加影响者，如影响选举的人，滥用权力的可能性很大，而且面临风险的是人的自主权。父母如何选择他们希望孩子学习的课程？大多数家长都想决定选哪所学校，但目前AI提供的教育不存在这个选项。在许多国家，禁止向儿童做广告，但如果一个AI玩具说它感觉冷，然后孩子帮它要件外套，这等同于向孩子做广告吗？如果玩具自带背景故事，不用孩子为玩具编故事，这对孩子的创造性游戏有什么影响，如果你的隐形朋友顶嘴，那你就没有运用想象力。这会不会不仅改变我们的自主权，还改变我们的思维方式？有许多AI玩具相伴长大的孩子会如何应对自己的同龄人呢？如果我们的设备能满足我们的需求，从不与我们意见相左，我们还会需要彼此吗？AI玩具是我们的终极传声筒吗？世界经济论坛与联合国儿童基金会（UNICEF）、各国监管机构、学者、民间社会和企业合作，正开展一个项目，旨在回答以上问题以及不断出现的更多新问题。</p>
+    <p>(2) 汽车中使用AI——在《星球大战》、《星际迷航》这样的科幻电影中，人类还在“驾驶”宇宙飞船，而自动驾驶汽车则无需驾驶，AI让人不再需要这项技能。与人类相比，AI能更好地计算距离、速度和目的地，因此放弃驾驶技能，把车交给AI是说得通的。然而这会带来隐私问题，提供AI技术的公司需要掌握位置数据，可以让汽车驶过为这项服务付费的地方，鼓励汽车用户使用他们的商店。同样，也会从车上的设备中收集到关于汽车用户的数据：我们如何维护隐私？德国已经开始研究此问题，并颁布法令规定，车内对话的数据应属于用户，而非汽车制造商或AI公司。此外，使用自动驾驶汽车可能会造成严重的失业，麦肯锡估计，每周可能会影响多达25,000名卡车司机。随着个人汽车拥有量的下降，越来越多的人在需要时租车使用，这可能会对汽车制造及其辅助服务产生重大影响。另一方面，自动驾驶汽车对环境有着巨大的积极影响，能减少道路上的死亡人数，这点也很重要。</p>
+    <h3>对于强人工智能（AGI）/超级智能带来的风险和狭义的人工智能带来的风险，哪种更令您担忧？</h3>
+    <p>许多人对控制AGI和超级智能有担忧，他们都在这些领域工作，有理由担心。此外，我们还要关注狭义的AI及其偏见、隐私、问责和透明度问题。这四方面问题在狭义AI的使用中，无论是在预测性警务和判决中，还是在获得就业和贷款的能力中都反复出现。随着越来越多的AI物品（如汽车和机器人）进入市场，这些问题将会成倍增加。这就是为什么在现阶段考虑治理问题十分有必要。</p>
+    <h3>AI的规范化和标准化有多重要？为什么？</h3>
+    <p>治理有多种形式，政府监管仅是其中之一。但由于监管耗时很长，尤其在民主国家，监管总是滞后于AI这样快速发展的技术。</p>
+    <p>在WEF，我们知道某些情况下监管是必要的，但我们认为AI治理要想成功，最佳方式是使用敏捷的治理措施，包括：制定和使用标准（IEEE和WEF协议）、出现约束或支持的社会规范、私人激励计划、认证、专业机构的监督、各组织与在竞争对手、供应商、合作伙伴和客户的关系中自愿或通过合同实施的行业协议和政策。因此，作为敏捷治理倡议一部分的全球人工智能（AI）与自治系统（AS）伦理考虑倡议，这项工作意义重大。</p>
+    <p>我们有众多体现此法的项目，其中一个是“开放公共部门人工智能”（Unlocking Public Sector AI）。我们已经确认AI有大幅改进政府运营，通过新的方式满足公民从交通管理到医保服务到处理纳税申报表等各种需求的潜力。但许多公共机构由于担心偏见、隐私、问责、透明度和整体复杂性问题，对使用这种强大的技术持谨慎态度。在刑事判决、执法，甚至就业机会等领域正在出现因使用AI导致的负面影响。政府无法奢求使用正日益成为行业部署AI的一大特征的高深莫测的“黑盒”算法。公民对政府服务水平的要求不断提高，希望政府提供与创新私营企业同等水平的服务，政府官员必须确定这项复杂技术所能带来的具体好处，也要了解使用AI所创建的工具的负面可能性。</p>
+    <p>此项目召集各部门的利益相关者共同设计指导方针，使政府能够自信、负责地获得AI，并指导他们自己在内部开发可以利用AI的技术。许多国家的政府承诺试行这些指导方针，来测试关于其效力和影响的假设、重复基于此学习的指导方针，并公开分享其最新版本以鼓励国际采用。由于各国政府预算有限，常常难以将新的AI产品的炒作与实质内容分开，因此本项目还将收集政府内部最有效AI使用案例以及不成熟、未经证实、充满不确定性或风险的案例信息，并提供指导。</p>
+    <p>这些指导方针能让政府为公民的利益负责地部署和设计AI技术。同时，政府的巨大购买力能推动私营部门即使针对政府外销售的产品也采用这些标准。业界正讨论对AI技术设定自己的标准，政府的道德权威和信誉可为讨论设定基准。这些影响AI轨迹的间接方法为监管提供了一个较为温和的替代方案，尤其在面对日新月异的技术变革，传统治理措施过于缓慢的领域（尤其是AI领域）中。尽管企业普遍对政府采购上更严格的指导方针持谨慎态度，但该项目以众多案例研究为基础，其中的常识框架可帮政府克服不愿采购复杂新技术的心态，真正为企业打开新的市场。</p>
+    <h3>AI监管如何赶上技术发展？多边/国际监管和标准化有多重要呢？</h3>
+    <p>我们相信，与企业、政府、民间社会、政府间国际组织（IGO）和学者合作，论坛可以帮助共同建立AI治理机制，这意味着不会出现逐底竞争。世界上许多国家政府都愿意与论坛合作，目前论坛在旧金山、中国、东京和印度设立了第四次工业革命中心（C4IR）办事处，2019年在世界范围内还会多开设7家。AI治理需要我们共同努力，只有这样我们才能获得AI的好处，减轻其负面影响。</p>
+    <p>WEF正致力于一个帮助企业考虑AI治理的项目，叫做“人工智能董事会工具包”（AI Board Toolkit）。</p>
+    <p>AI日益成为跨界商业模式的当务之急，企业领导者需要确定这种复杂技术可为其业务带来哪些切实的好处，关注对负责地设计、开发和部署AI的需求。在第四次工业革命中，达到正确的平衡会带来可持续的企业发展，但如果不能做到负责地设计、开发和使用AI，则会损害品牌价值，可能造成客户的强烈不满。</p>
+    <p>所有公司的董事会成员都有责任在当前这一前所未有的技术变革期及其社会影响中对公司进行管理。一套实用的工具可使董事会成员提出正确的问题，了解关键的权衡，满足不同利益相关者的需求，懂得如何考虑和优化方法，例如任命首席价值官、首席人工智能官，或设立人工智能伦理咨询委员会。</p>
+    <p>该工具包的设计围绕四个支柱：AI的技术、品牌、治理和组织影响，每个支柱围绕创造、营销和AI的长期维护提供一个伦理视角。工具包还会支持公司决定是否以及如何采用特定的方法，帮助公司理解技术推动公司发展的力量。</p>
+    <p>工具包由AI专家与来自不同公司和行业的董事会成员和主要利益相关者合作设计，确保工具包满足企业领导者的特定需求，能产生实际行动和具体影响。</p>
+   </div>
+  </div>
+ </div>
+ <style>.component-html img {
+	max-width: 100%;
+}</style>
+</div>
+
+
+
+
+		</div>
+	
+
+
+<form action="#" aria-hidden="true" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><button hidden="" type="submit">隐藏的</button></form>
+
+	
+	</section>
+</div>
+<div class="container-footer-outer">
+<div class="container-fluid container-fluid-max-xl">
+<wipo-footer id="footer">
+<span slot="contact">https://www3.wipo.int/contact/zh/</span>
+<span slot="media">https://www.wipo.int/pressroom/zh/</span>
+<span slot="terms">https://www.wipo.int/tools/zh/disclaim.html</span>
+<span slot="privacy">https://www.wipo.int/zh/web/privacy-policy</span>
+<span slot="accessibility">https://www.wipo.int/zh/web/accessibility</span>
+<span slot="sitemap">https://www.wipo.int/tools/zh/sitemap.html</span>
+<span slot="newsletters">https://www3.wipo.int/newsletters/zh/</span>
+<span slot="podcast">https://www.wipo.int/zh/web/podcasts</span>
+<span slot="rss-feed">https://www.wipo.int/news/zh/</span>
+</wipo-footer>
+</div>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+
+</script><script>
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2fzh\x2fweb\x2ftechnology-trends\x2fartificial-intelligence\x2fask-the-experts\x2ftechtrends-ai-firth';
+		Liferay.currentURLEncoded = '\x252Fzh\x252Fweb\x252Ftechnology-trends\x252Fartificial-intelligence\x252Fask-the-experts\x252Ftechtrends-ai-firth';
+
+	// ]]>
+</script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+				
+
+				
+
+				
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function () {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function (event) {
+		if (window.Analytics) {
+			const eventProperties = {
+				className: event.className,
+				classPK: event.classPK,
+				commentId: event.commentId,
+				text: event.text,
+			};
+
+			const blogNode = document.querySelector(
+				'[data-analytics-asset-id="' + event.classPK + '"]'
+			);
+
+			const dmNode = document.querySelector(
+				'[data-analytics-file-entry-id="' + event.classPK + '"]'
+			);
+
+			if (blogNode) {
+				eventProperties.title = blogNode.dataset.analyticsAssetTitle;
+			}
+			else if (dmNode) {
+				eventProperties.title = dmNode.dataset.analyticsFileEntryTitle;
+			}
+
+			Analytics.send('posted', 'Comment', eventProperties);
+		}
+	};
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function (event) {
+		if (window.Analytics) {
+			let title = event.contentTitle;
+
+			if (!title) {
+				const dmNode = document.querySelector(
+					'[data-analytics-file-entry-id="' + event.classPK + '"]'
+				);
+
+				if (dmNode) {
+					title = dmNode.dataset.analyticsFileEntryTitle;
+				}
+			}
+
+			Analytics.send('VOTE', 'Ratings', {
+				className: event.className,
+				classPK: event.classPK,
+				ratingType: event.ratingType,
+				score: event.score,
+				title,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+
+	function getValueByAttribute(node, attr) {
+		return (
+			node.dataset[attr] ||
+			(node.parentElement && node.parentElement.dataset[attr])
+		);
+	}
+
+	function sendAnalyticsEvent(anchor) {
+		var fileEntryId = getValueByAttribute(anchor, 'analyticsFileEntryId');
+		var title = getValueByAttribute(anchor, 'analyticsFileEntryTitle');
+		var version = getValueByAttribute(anchor, 'analyticsFileEntryVersion');
+
+		if (fileEntryId) {
+			Analytics.send('documentDownloaded', 'Document', {
+				groupId: themeDisplay.getScopeGroupId(),
+				fileEntryId,
+				preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+				title,
+				version,
+			});
+		}
+	}
+
+	function handleDownloadClick(event) {
+		if (window.Analytics) {
+			if (event.target.nodeName.toLowerCase() === 'a') {
+				sendAnalyticsEvent(event.target);
+			}
+			else if (
+				event.target.parentNode &&
+				event.target.parentNode.nodeName.toLowerCase() === 'a'
+			) {
+				sendAnalyticsEvent(event.target.parentNode);
+			}
+			else {
+				var target = event.target;
+				var matchTitle =
+					target.title && target.title.toLowerCase() === 'download';
+				var matchAction = target.action === 'download';
+				var matchLexiconIcon = !!target.querySelector(
+					'.lexicon-icon-download'
+				);
+				var matchLexiconClassName = target.classList.contains(
+					'lexicon-icon-download'
+				);
+				var matchParentTitle =
+					target.parentNode &&
+					target.parentNode.title &&
+					target.parentNode.title.toLowerCase() === 'download';
+				var matchParentLexiconClassName =
+					target.parentNode &&
+					target.parentNode.classList.contains('lexicon-icon-download');
+
+				if (
+					matchTitle ||
+					matchParentTitle ||
+					matchAction ||
+					matchLexiconIcon ||
+					matchLexiconClassName ||
+					matchParentLexiconClassName
+				) {
+					var selectedFiles = document.querySelectorAll(
+						'.form .custom-control-input:checked'
+					);
+
+					selectedFiles.forEach(({value}) => {
+						var selectedFile = document.querySelector(
+							'[data-analytics-file-entry-id="' + value + '"]'
+						);
+
+						sendAnalyticsEvent(selectedFile);
+					});
+				}
+			}
+		}
+	}
+
+	Liferay.once('destroyPortlet', () => {
+		document.body.removeEventListener('click', handleDownloadClick);
+	});
+
+	Liferay.once('portletReady', () => {
+		document.body.addEventListener('click', handleDownloadClick);
+	});
+
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function (data) {
+		if (window.Analytics) {
+			Analytics.send('shared', 'SocialBookmarks', {
+				className: data.className,
+				classPK: data.classPK,
+				type: data.type,
+				url: data.url,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	function showDialog(uri, title) {
+		Liferay.Util.openModal({
+			id: 'sharingDialog',
+			iframeBodyCssClass: 'sharing-dialog',
+			height: '475px',
+			size: 'md',
+			title: title,
+			url: uri,
+		});
+	}
+
+	var Sharing = {
+		manageCollaborators: function (classNameId, classPK) {
+			var manageCollaboratorsParameters = {
+				classNameId: classNameId,
+				classPK: classPK,
+			};
+
+			var manageCollaboratorsURL = Liferay.Util.PortletURL.createPortletURL(
+				'https://www.wipo.int/zh/group/technology-trends/~/control_panel/manage?p_p_id=com_liferay_sharing_web_portlet_ManageCollaboratorsPortlet&p_p_lifecycle=0&p_p_state=pop_up&p_p_auth=9RhGXAgG',
+				manageCollaboratorsParameters
+			);
+
+			showDialog(
+				manageCollaboratorsURL.toString(),
+				'管理协作者'
+			);
+		},
+
+		share: function (classNameId, classPK, title) {
+			var sharingParameters = {
+				classNameId: classNameId,
+				classPK: classPK,
+			};
+
+			var sharingURL = Liferay.Util.PortletURL.createPortletURL(
+				'https://www.wipo.int/zh/group/technology-trends/~/control_panel/manage?p_p_id=com_liferay_sharing_web_portlet_SharingPortlet&p_p_lifecycle=0&p_p_state=pop_up&p_p_auth=CFZwKP2M',
+				sharingParameters
+			);
+
+			showDialog(sharingURL.toString(), title);
+		},
+	};
+
+	Liferay.Sharing = Sharing;
+})();
+
+	if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+
+</script><script>
+Liferay.Loader.require(
+'layout-taglib@16.0.1/render_layout_structure/js/InfoItemActionHandler',
+'frontend-js-web/index',
+function(InfoItemActionHandler, frontendJsWeb) {
+try {
+AUI().use(
+  'liferay-menu',
+function(A) {
+(function() {
+Liferay.component('infoItemActionComponent', new InfoItemActionHandler.default({"executeInfoItemActionURL":"https:\/\/www.wipo.int\/zh\/c\/portal\/execute_info_item_action?p_l_mode=view&plid=8281","namespace":"","spritemap":"https:\/\/cdn.webcms.wipo.int\/o\/wipo-universal-legacy-theme\/images\/clay\/icons.svg"}), { destroyOnNavigate: true, portletId: ''});
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	var {delegate} = frontendJsWeb;
+
+	delegate(
+		document,
+		'focusin',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.add('open');
+		}
+	);
+
+	delegate(
+		document,
+		'focusout',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.remove('open');
+		}
+	);
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 0; i < liferayNotices.length; i++) {
+		Liferay.Util.openToast(liferayNotices[i]);
+	}
+
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+		var {openToast} = frontendJsWeb;
+
+		AUI().use(
+			'liferay-session',
+			function() {
+				Liferay.Session = new Liferay.SessionBase(
+					{
+						autoExtend: true,
+						redirectOnExpire: false,
+						redirectUrl: 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fweb\x2fguest',
+						sessionLength: 600,
+						sessionTimeoutOffset: 130,
+						warningLength: 60
+					}
+				);
+
+				
+			}
+		);
+	
+})();
+});
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=zh_CN&amp;t=1730310598000" type="text/javascript"></script>
+
+
+
+
+<script>
+Liferay.Loader.require(
+'frontend-js-alert-support-web@2.0.13/index',
+function(AlertProvider) {
+try {
+(function() {
+AlertProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-tooltip-support-web@4.0.22/index',
+function(TooltipSupport) {
+try {
+(function() {
+TooltipSupport.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-tabs-support-web@2.0.15/index',
+function(TabsProvider) {
+try {
+(function() {
+TabsProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-collapse-support-web@2.0.17/index',
+function(CollapseProvider) {
+try {
+(function() {
+CollapseProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-dropdown-support-web@2.0.14/index',
+function(DropdownProvider) {
+try {
+(function() {
+DropdownProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script type="text/javascript">
+Liferay.CustomDialogs = {enabled: false};
+
+</script><script>
+
+</script>
+
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/js/plugins2016-min.js"></script>
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/js/main2016-min.js"></script>
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/js/ss-standard.js"></script>
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/js/wipo.js"></script>
+ <!--<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.wipo.int/npm/popper.js@1.16.0/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.wipo.int/npm/bootstrap@4.4.1/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>-->
+
+
+		
+	
+
+<script type="text/javascript">
+window.MatomoTagManager.customHtmlDataStore[0](window.MatomoTagManager.customHtmlDataStore[1]);
+window.MatomoTagManager.customHtmlDataStore[2]();
+window.MatomoTagManager.customHtmlDataStore[3]();
+</script><script type="text/javascript">
+window.MatomoTagManager.customHtmlDataStore[4]["init"](window.MatomoTagManager.customHtmlDataStore[5]);
+window.MatomoTagManager.customHtmlDataStore[6]["initNavbarAnalytics"]();
+</script><script type="text/javascript">
+window.MatomoTagManager.customHtmlDataStore[7](window.MatomoTagManager.customHtmlDataStore[8]);
+</script></body></html>

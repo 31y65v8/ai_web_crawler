@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "s_id=d41d8cd98f00b204e9800998ecf8427e",
+        "Referer": "https://wiki.mbalib.com/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://wiki.mbalib.com/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+    "wait": 6
+}

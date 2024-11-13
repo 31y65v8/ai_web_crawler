@@ -1,0 +1,1186 @@
+<!DOCTYPE html><html lang="zh-cn"><head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="人工智能技术分支">
+    <meta name="description" content="通讯、感知与行动是现代人工智能的三个关键能力，在这里我们将根据这些能力/应用对这三个技术领域进行介绍：计算机视觉(CV)、自然语言处理(NLP)、在 NLP 领域中，将覆盖文本挖掘/分类、机器翻译和语音识别、机器人">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/css/other.css">
+    <link rel="stylesheet" type="text/css" href="/css/banner.css">
+    <link rel="stylesheet" type="text/css" href="/2018czgw/css/style.css">
+    <link rel="canonical" href="http://www.itcast.cn/news/20210507/17190321203.shtml">
+    <title>人工智能技术发展的五个主要分支</title>
+    <style>
+
+    </style>
+<link rel="stylesheet" type="text/css" href="https://f1.webshare.mob.com/code/mob-share.css"><link type="text/css" rel="stylesheet" href="https://webchat.7moor.com//stylesheets/chatStyle-e5ac22f12b.css?v=20240724"></head>
+<body>
+<div class="wrapper newswrapper">
+    <!-- 快速通道 topbar S -->
+    <div class="newsindex_pc"><!-- 头部通用快速通道 -->
+<div class="topbar">
+	<div class="inner" title="传智教育|传智播客IT培训旗下品牌">
+		<div class="innl">
+			<!-- <p>传智教育旗下品牌：<a href="http://www.itheima.com/" target="_blank">黑马程序员</a>|<a href="https://www.boxuegu.com/" target="_blank">博学谷</a>|<a href="http://www.czxy.com/?gwdl" target="_blank">传智专修学院</a>|<a href="http://www.itczh.com/?gw" target="_blank">传智汇</a>|<a href="http://www.ityxb.com/" target="_blank">院校邦</a>|<a href="http://www.kudingyu.com/" target="_blank">酷丁鱼少儿编程</a></p> -->
+			<p>教育行业A股IPO第一股（股票代码 003032）</p>
+		</div>
+		<div class="innr">
+			<p>全国咨询/投诉热线：400-618-4000</p>			
+		</div>
+	</div>
+</div></div>
+    <!-- 快速通道 topbar E -->
+
+    <!-- 首页导航区域 S -->
+    <div class="newsindex_pc">
+        <div class="header"><script charset="UTF-8" src="https://webchat.7moor.com/javascripts/clack.min.js?v=20240724"></script><script charset="UTF-8" src="https://webchat.7moor.com/javascripts/QiMoIMSDK-990c1d7cee.js?accessId=b2f10070-624e-11e8-917f-9fb8db4dc43c&amp;v=20240724"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="https://sf1-scmcdn-tos.pstatp.com/goofy/ttzz/push.js?643ac03f8aa149b2ea832a12be2e5ac922da50b2e239d527fcf0f9f873b11f7aef69e80375f6dd78a759aa2e1883c8b5889190e1c0db3dfdab68595b8571d7d0" id="ttzz"></script><script src="https://hm.baidu.com/hm.js?0cb375a2e834821b74efffa6c71ee607"></script><script type="text/javascript" id="zhuge-js" async="" src="//zg.boxuegu.com/zhuge.js?v=20241013"></script><script src="/js/jquery-1.7.2.min.js"></script>
+<!-- 头部首页1 -->
+<div class="header_con">
+	<div class="city_bg"></div>
+	<div class="inner">
+		<div class="head_up">
+			<p class="hp"><a href="http://www.itcast.cn/" target="_blank"><img src="/2018czgw/images/logo2.png" style="width: 180px" alt="传智教育|传智播客"></a></p>
+			<img src="/2020gw/images/slogan2.jpg" alt="一样的教育，不一样的品质" class="slogan">
+			<div class="city">
+				<!-- <h3>北京中心</h3> -->
+				   
+  <h3>全国校区</h3>
+
+
+				<div class="city_in">
+					<span class="city_nav">&nbsp;</span>
+					<div class="city_con" style="display: none;">
+						<!-- <strong></strong> -->
+						<ul>
+							<li class="xq_bjcp"><a href="http://vr.itcast.cn/vr/Zjg2ZjlmMWYtOTIyZS01NGZkLWEzYTAtMjBmYTFjOGZhNWMx.html" rel="nofollow" target="_blank" class="sj360">北京昌平</a><a href="http://bjcp.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/bj_cur.jpg"></span><span class="s_name">北京昌平</span></a></li>
+							<li class="xq_bjsy"><a href="http://vr.itcast.cn/vr/NDk2M2RjZTgtOWIzOS04MjczLTg2Y2UtOTRiNDFlZThhZTI1.html" rel="nofollow" target="_blank" class="sj360">北京顺义</a><a href="http://bjsy.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/bj_cur.jpg"></span><span class="s_name">北京顺义</span></a></li>
+							<li class="xq_sh"><a href="http://vr.itcast.cn/vr/NTQ5MmQzYzAtYTNkNC0yNzk2LTA3MmItNjQ3NTc3NzZmMTk1.html" rel="nofollow" target="_blank" class="sj360">上海</a><a href="http://sh.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/sh_cur.jpg"></span><span class="s_name">上海</span></a></li>
+							<li class="xq_gz"><a href="http://vr.itcast.cn/vr/NDVjYzY5Y2QtNDI4NC1kZmQ3LWZmODAtNWIyNGZhMzU1N2Fl.html" rel="nofollow" target="_blank" class="sj360">广州</a><a href="http://gz.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/gz_cur.jpg"></span><span class="s_name">广州</span></a></li>
+							<li class="xq_sz"><a href="http://vr.itcast.cn/vr/YzU1MTI2MmMtZDVmZS03MzA2LWIwMGUtZmI1ZDQwMWEyODhl.html" rel="nofollow" target="_blank" class="sj360">深圳</a><a href="http://sz.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/sz_cur.jpg"></span><span class="s_name">深圳</span></a></li>
+							<li class="xq_wh"><a href="http://vr.itcast.cn/vr/ODQyZTFiZGUtNjM4Zi0xNTA2LTE4MzgtZTI5MmVjNjI1OTYx.html" rel="nofollow" target="_blank" class="sj360">武汉</a><a href="http://wh.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/wh_cur.jpg"></span><span class="s_name">武汉</span></a></li>
+							<li class="xq_zz"><a href="http://vr.itcast.cn/vr/ZDhmYTEwY2QtNTIwYi00MDIwLTBkYTUtN2VmYzgwNWYwYmZh.html" rel="nofollow" target="_blank" class="sj360">郑州</a><a href="http://zz.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/zz_cur.jpg"></span><span class="s_name">郑州</span></a></li>
+							<li class="xq_xa"><a href="http://vr.itcast.cn/vr/NWFmNzhjNTYtZDUyNi1lNWJlLWJlOGQtMWEwNzc1OTFmMWNk.html" rel="nofollow" target="_blank" class="sj360">西安</a><a href="http://xa.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/xa_cur.jpg"></span><span class="s_name">西安</span></a></li>
+							<li class="xq_cs"><a href="http://vr.itcast.cn/vr/NzhhODUwZDItNzA3Yi00YTIyLTJiYzYtYjUxNTBhYzNkYjk1.html" rel="nofollow" target="_blank" class="sj360">长沙</a><a href="http://cs.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/cs_cur.jpg"></span><span class="s_name">长沙</span></a></li>
+							<li class="xq_jn"><a href="http://vr.itcast.cn/vr/NDJlMDJmMDItNzY1MC01YzEyLWRhNTctYzQxNTE0ODEyY2M0.html" rel="nofollow" target="_blank" class="sj360">济南</a><a href="http://jn.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/jn_cur.jpg"></span><span class="s_name">济南</span></a></li>
+							<li class="xq_cq"><a href="http://vr.itcast.cn/vr/ZmUxMmMyNTMtNGM3MS04MGEyLTIxMjktZDI4NDEyYTM5Mjgy.html" rel="nofollow" target="_blank" class="sj360">重庆</a><a href="http://cq.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/cq_cur.jpg"></span><span class="s_name">重庆</span></a></li>
+							<li class="xq_nj"><a href="http://vr.itcast.cn/vr/MjAxMWM5YmMtYTZmZS03YzZmLTBiZjQtNjMzNWJjM2JkZGVj.html" rel="nofollow" target="_blank" class="sj360">南京</a><a href="http://nj.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/nj_cur.jpg"></span><span class="s_name">南京</span></a></li>
+							<li class="xq_hz"><a href="http://vr.itcast.cn/vr/MmM0OWU2ZDQtMzQ5NC02ODg2LTE5ZTktNDE0ZjhjMzUxYjY3.html" rel="nofollow" target="_blank" class="sj360">杭州</a><a href="http://hz.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/hz_cur.jpg"></span><span class="s_name">杭州</span></a></li>
+							<li class="xq_sjz"><a href="http://sjz.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/sjz_cur.jpg"></span><span class="s_name">石家庄</span></a></li>
+							<li class="xq_cd"><a href="http://vr.itcast.cn/vr/OWMxOWQ3YzEtZDVjNC1mYTI0LTUyZDUtMjg0ZGY2NGFhOWNj.html" rel="nofollow" target="_blank" class="sj360">成都</a><a href="http://cd.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/cd_cur.jpg"></span><span class="s_name">成都</span></a></li>
+							<li class="xq_hf"><a href="http://vr.itcast.cn/vr/YjYwNzM1YzktNGZiMC0zN2NmLWRjYjktOGJjZDhjOGE4Y2Vj.html" rel="nofollow" target="_blank" class="sj360">合肥</a><a href="http://hf.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/hf_cur.jpg"></span><span class="s_name">合肥</span></a></li>
+							<li class="xq_ty"><a href="http://ty.itcast.cn" target="_blank"><span class="imgbox"><img src="/2020gw/images/city/ty_cur.jpg"></span><span class="s_name">太原</span></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p class="clear_s"></p>
+		<style>
+			.head_index{position: absolute;left: 0;top: 0;height: 89px;background: none !important;padding-left: 420px;}
+			.head_index ul{height: 89px !important;}
+			.head_nav ul li{position: relative;line-height: 89px !important;padding: 0 15px;margin-left: 0 !important;}
+			.index_h ul li.lione{top: 89px;height: 38px;line-height: 38px;font-size: 14px;z-index: 6;background: none;margin-right: 180px;padding-left: 0;}
+			.head_nav ul li .all{position: relative;width: 112px;height: 38px;line-height: 38px;border-radius: 0;background: rgba(255,255,255,.1);}
+			.head_nav ul li .all:after{
+				display: none;
+				position: absolute;
+				left: 15px;
+				bottom: 0;
+				width: 82px;
+				height: 1px;
+				background: rgba(255,255,255,.2);
+				content: "";
+			}
+			.index_h ul li .all.on{background: rgba(0,0,0,.2);}
+			.index_h ul li .all.on:after{display: block;}
+			.index_h ul li .all:hover{background: rgba(0,0,0,.2);}
+			.index_h ul li .all:hover:after{display: block;}
+			
+			.header_con{margin: 10px 0 0;}
+			
+			.head_up .hp,
+			.head_up .slogan{position: relative;z-index: 10;}
+			
+			.head_index ul li.jpkeon:after{
+				position: absolute;
+				right: 2px;
+				top: 39px;
+				width: 10px;
+				height: 10px;
+				background: url("/2020gw/images/indeximg/pic.png") no-repeat -102px -305px;
+				content: "";
+			}
+			.head_index ul li.jpkeon.cur:after{background-position-x: -114px;}
+			.head_index ul li.jpkeon .xkonlist{
+				display: none;
+				position: fixed;
+				left: 0;
+				top: 94px;
+				width: 100%;
+				/* height: 60px; */
+				text-align: center;
+				line-height: 34px;
+				background-color: rgba(255,255,255,.9);
+				border-top: 35px #fff solid;
+				z-index: 9;
+				padding: 14px 0;
+			}
+			.head_index ul li.jpkeon.cur .xkonlist{display: block;}
+			.head_index ul li.jpkeon .xkonlist a{
+				display: inline-block;
+				font-size: 15px;
+				color: #333;
+				margin: 0 15px;
+			}
+			.head_index ul li.jpkeon .xkonlist a:hover{font-weight: bold;}
+			
+			.head_index ul li.qbkcon.cur:after{
+				position: absolute;
+				left: 50%;
+				bottom: 0;
+				border-style: solid;
+				border-width: 0 13px 12px 13px;
+				border-color: transparent transparent #f4f7fb transparent;
+				content: "";
+				margin-left: -13px;
+			}
+			.qbkconlist{
+				display: none;
+				position: absolute;
+				left: 0;
+				top: 89px;
+				width: 100%;
+				z-index: 99;
+				background-color: rgba(244,247,251,1);
+				padding: 30px 0 26px;
+			}
+			.qbkconlist .inner{box-sizing: border-box;padding: 0 19px 0 29px;}
+			.qbkconlist a{
+				position: relative;
+				float: left;
+				width: 220px;
+				height: 68px;
+				text-align: center;
+				border-radius: 6px;
+				background-color: #fff;
+				margin: 0 10px 11px 0;
+			}
+			.qbkconlist a span{
+				position: relative;
+				display: inline-block;
+				font-size: 15px;
+				color: #282828;
+				line-height: 21px;
+				top: 50%;
+				transform: translate(0,-53%);
+				padding-left: 38px;
+			}
+			.qbkconlist a:hover span{color: #0067e1;}
+			.qbkconlist a img{
+				position: absolute;
+				left: -6px;
+				top: 50%;
+				width: 38px;
+				margin-top: -19px;
+			}
+		</style>
+		<div class="head_index head_nav">
+			<ul style="overflow: visible;">
+				<li><a href="http://www.itcast.cn/subject/about/index.html?about" target="_blank" rel="nofollow" class="a_default a2_js">关于传智</a></li>
+				<!-- <li class="jpkeon">
+					<a href="javascript:;" class="a_default a2_js">精品课程</a>
+					<div class="xkonlist">
+						<a href="http://java.itcast.cn/?javaeezly" rel="nofollow" target="_blank">JavaEE</a>
+						<a href="http://web.itcast.cn/?webzly" rel="nofollow" target="_blank">HTML&JS+前端</a>
+						<a href="http://python.itcast.cn/?pythonzly" rel="nofollow" target="_blank">Python+大数据开发</a>
+						<a href="http://ai.itcast.cn/?aizly" rel="nofollow" target="_blank">人工智能开发</a>
+						<a href="http://design.itcast.cn/?dszly" rel="nofollow" target="_blank">电商视觉设计</a>
+						<a href="http://test.itcast.cn/?testzly" rel="nofollow" target="_blank">软件测试</a><br />
+						<a href="http://xmt.itcast.cn/?xmtzly" rel="nofollow" target="_blank">新媒体+短视频直播运营</a>
+						<a href="http://pm.itcast.cn/?pmzly" rel="nofollow" target="_blank">产品经理</a>
+						<a href="https://www.itcast.cn/subject/jcdlzly/index.html" rel="nofollow" target="_blank">集成电路应用开发(含嵌入式)</a>
+						<a href="https://www.itcast.cn/subject/czlyonline/index.html" rel="nofollow" target="_blank">C/C++</a>
+						<a href="https://www.itcast.cn/subject/jgszlyonline/index.html" rel="nofollow" target="_blank">狂野架构师</a>
+					</div>
+				</li> -->
+				<li class="qbkcon"><a href="javascript:;" rel="nofollow" class="a_default a2_js">精品课程</a></li>
+				<!-- <li><a href="http://yun.itheima.com/map?czpc" target="_blank" class="a_default a2_js">免费教程</a></li> -->
+				<li><a href="http://www.itcast.cn/channel/teacher.shtml#ajavaee" target="_blank" rel="nofollow" class="a_default a2_js">教研团队</a></li>
+				<li><a href="http://www.itcast.cn/subject/schools/index.shtml" target="_blank" rel="nofollow" class="a_default a2_js">开班时间</a></li>
+				<li><a href="https://www.czxy.com/?czgwdh" target="_blank" rel="nofollow" class="a_default a2_js">报考大学</a></li>
+				<!-- <li><a href="http://resource.ityxb.com/booklist/find.html" target="_blank" rel="nofollow" class="a_default a2_js">原创教材</a></li> -->
+				<!-- <li><a href="http://bbs.itheima.com/portal.php" rel="nofollow" target="_blank" class="a_default a2_js">学员故事</a></li> -->
+				<!-- <li><a href="http://www.itcast.cn/channel/flow.shtml" target="_blank" rel="nofollow" class="a_default a2_js">报名流程</a></li> -->
+				<!-- <li><a href="https://pip.itcast.cn?czgw" target="_blank" class="a_default a2_js">项目库</a></li> -->
+				<!--<li><a href="https://www.boxuegu.com/subject/gather/indexhm.html?a=4zsgiB&utm_source=chuanzhi" target="_blank" class="a_default a2_js">在线学习</a></li>-->
+				<li><a href="http://bbs.itheima.com/" target="_blank" title="黑马程序员论坛交流社区" class="a_default a2_js">学员社区</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- <div class="fdnav">
+		<ul>
+			<li class="java_icon"><a href="http://java.itcast.cn/?javaeezly" rel="nofollow" title="JavaEE培训" target="_blank"><em><img src="/2020gw/images/subjavaee.png"/></em><span>JavaEE</span></a></li>
+			<li class="web_icon"><a href="http://web.itcast.cn/?webzly" rel="nofollow" target="_blank" title="前端与移动开发培训"><em><img src="/2020gw/images/subweb.png"></em><span>HTML&JS+前端</span></a></li>
+			<li class="python_icon"><a href="http://python.itcast.cn/?pythonzly" rel="nofollow" target="_blank" title="Python数据分析培训"><em><img src="/2020gw/images/subpython.png"></em><span>Python+大数据开发</span></a></li>
+			<li class="ai_icon"><a href="http://ai.itcast.cn/?aizly" rel="nofollow" target="_blank" title="人工智能开发培训"><em><img src="/2020gw/images/subai.png"></em><span>人工智能开发</span></a></li>
+			<li class="ui_icon"><a href="http://design.itcast.cn/?dszly" target="_blank" rel="nofollow" title="电商视觉设计培训"><em><img src="/2020gw/images/subui.png"></em><span>电商视觉设计</span></a></li>
+			<li class="test_icon"><a href="http://test.itcast.cn/?testzly" rel="nofollow" target="_blank" title="软件测试培训"><em><img src="/2020gw/images/subtest.png"></em><span>软件测试</span></a></li>
+			<li class="xmt_icon"><a href="http://xmt.itcast.cn/?xmtzly" rel="nofollow" target="_blank" title="新媒体+短视频直播运营培训"><em><img src="/2020gw/images/subxmt.png"></em><span>新媒体+短视频运营</span></a></li>
+			<li class="pm_icon"><a href="http://pm.itcast.cn/?pmzly" target="_blank" title="产品经理培训"><em><img src="/2020gw/images/subpm.png"></em><span>产品经理</span></a></li>
+			<li class="jcdl_icon twolin"><a href="http://www.itcast.cn/subject/jcdlzly/index.html?jcdlzly" rel="nofollow" target="_blank" title="集成电路与机器人应用开发培训"><em><img src="/2020gw/images/subjcdl.png"></em><span>机器人与IC</span></a></li>
+		</ul>
+	</div> -->
+		<div class="qbkconlist">
+			<div class="inner">
+				<a href="http://java.itcast.cn/?javaeezly" title="Java培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subjavaee.png">JavaEE</span></a>
+				<a href="https://hmkf.itheima.com/?hmkfzly" title="鸿蒙应用开发培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subhm.png">鸿蒙应用开发</span></a>
+				<a href="http://web.itcast.cn/?webzly" title="web前端培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subweb.png">HTML&amp;JS+前端</span></a>
+				<a href="http://python.itcast.cn/?pythonzly" title="大数据培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subpython.png">Python+大数据开发</span></a>
+				<a href="http://ai.itcast.cn/?aizly" title="人工智能培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subai.png">人工智能开发</span></a>
+				<a href="http://design.itcast.cn/?dszly" title="电商设计培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subui.png">电商视觉设计</span></a>
+				<a href="http://test.itcast.cn/?testzly" title="软件测试培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subtest.png">软件测试</span></a>
+				<a href="http://xmt.itcast.cn/?xmtzly" title="新媒体培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subxmt.png">新媒体+短视频<br>直播运营</span></a>
+				<!-- <a href="http://pm.itcast.cn/?pmzly" title="产品经理培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subpm.png" >产品经理</span></a> -->
+				<a href="https://www.itcast.cn/subject/jcdlzly/index.html" title="IC培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subjcdl.png">集成电路应用开发<br>(含嵌入式)</span></a>
+				<a href="https://www.itcast.cn/subject/czlyonline/index.html" title="C++培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subc.png">C/C++</span></a>
+				<a href="https://www.itcast.cn/subject/jgszlyonline/index.html" title="架构师培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/subjgs.png">狂野架构师</span></a>
+				<a href="https://www.itcast.cn/subject/mediazlyonline/index.html" title="短视频运营培训" rel="nofollow" target="_blank"><span><img src="/2020gw/images/submedia.png">IP短视频<br>带货训练营</span></a>
+			</div>
+		</div>
+	</div>
+	<script>
+		$(".head_index ul li.jpkeon").hover(function(){
+			$(this).addClass("cur");
+		},function(){
+			$(this).removeClass("cur");
+		});
+		$(".head_index ul li.qbkcon,.qbkconlist").hover(function(){
+			$(".head_index ul li.qbkcon").addClass("cur");
+			$(".qbkconlist").show();
+		},function(){
+			$(".head_index ul li.qbkcon").removeClass("cur");
+			$(".qbkconlist").hide();
+		});
+	</script>
+</div>
+    </div>
+   <div class="newsindex_yd">
+        <div style="" class="wzheader">
+			<img src="/images/wzimgleft.png" class="wzimgleft">
+			<a href="http://m.itcast.cn/"><img src="/images/phonelogo3.png"></a>
+			<img src="/images/wzimgcity.png" class="wzimgcity">
+		</div>
+		<div class="wzleftlist_bg"></div>
+		<div class="wzleftlist">
+			<div class="wzleftlist_con">
+				<h3>热门课程</h3>
+<ul>
+<li><a href="https://www.itcast.cn/subject/phonejavaeezly/index.html">JavaEE</a></li>
+<li><a href="https://hmkf.itheima.com/?hmkfzly">鸿蒙应用开发</a></li>
+<li><a href="https://www.itcast.cn/subject/phonewebzly/index.html">HTML&amp;JS+前端</a></li>
+<li><a href="https://www.itcast.cn/subject/pythonzly/">Python+大数据开发</a></li>
+<li><a href="https://www.itcast.cn/subject/phoneaizly/index.html">人工智能开发</a></li>
+<li><a href="https://www.itcast.cn/subject/phonedszly/index.html">电商视觉设计</a></li>
+<li><a href="https://www.itcast.cn/subject/phonetestzly/index.html">软件测试</a></li>
+<li><a href="https://www.itcast.cn/subject/phonexmtzly/index.html">新媒体+短视频直播运营</a></li>
+<!-- <li><a href="https://www.itcast.cn/subject/phonepmzly/index.html">产品经理</a></li> -->
+<li><a href="https://www.itcast.cn/subject/phonejcdlzly/index.html">集成电路与机器人应用开发</a></li>
+<li><a href="https://www.itcast.cn/subject/phoneczlyonline/index.html">C/C++</a></li>
+<li><a href="https://www.itcast.cn/subject/phonejgszlyonline/index.html">狂野架构师</a></li>
+</ul>
+
+			</div>
+		</div>
+		<div class="wzrightlist">
+			<div class="wzrightlist_con">
+				<div class="fx_box"><div class="fxbox_bg"></div><div class="fxbox">
+		<div class="fx_list beijing"><a href="/2018phone/beijingchangping.html">北京昌平</a></div>
+		<div class="fx_list beijingshunyi"><a href="/2018phone/beijingshunyi.html">北京顺义</a></div>
+		<div class="fx_list shanghai"><a href="/2018phone/shanghai.html">上海</a></div>
+		<div class="fx_list guangzhou"><a href="/2018phone/guangzhou.html">广州</a></div>
+		<div class="fx_list shenzhen"><a href="/2018phone/shenzhen.html">深圳</a></div>
+		<div class="fx_list wuhan"><a href="/2018phone/wuhan.html">武汉</a></div>
+		<div class="fx_list zhengzhou"><a href="/2018phone/zhengzhou.html">郑州</a></div>
+		<div class="fx_list xian"><a href="/2018phone/xian.html">西安</a></div>
+		<div class="fx_list changsha"><a href="/2018phone/changsha.html">长沙</a></div>
+		<div class="fx_list jinan"><a href="/2018phone/jinan.html">济南</a></div>
+		<!-- <div class="fx_list chongqing"><a href="/2018phone/chongqing.html">重庆</a></div> -->
+		<div class="fx_list nanjing"><a href="/2018phone/nanjing.html">南京</a></div>
+		<div class="fx_list hangzhou"><a href="/2018phone/hangzhou.html">杭州</a></div>
+		<!-- <div class="fx_list shijiazhuang"><a href="/2018phone/shijiazhuang.html">石家庄</a></div> -->
+		<div class="fx_list chengdu"><a href="/2018phone/chengdu.html">成都</a></div>
+		<!-- <div class="fx_list hefei"><a href="/2018phone/hefei.html">合肥</a></div>
+		<div class="fx_list taiyuan"><a href="/2018phone/taiyuan.html">太原</a></div> -->
+	</div>
+	</div>
+			</div>
+		</div>
+   </div>
+    <!-- 首页导航区域 E -->
+    <div class="graybg">
+        <!-- main  S -->
+        <!--面包屑   S-->
+        <div class="bread_nav">
+            <div class="inner">
+                                <i class="iconfont home"></i><a href="/">首页</a><i class="iconfont right_arrow"></i><a href="/news/aijishu_1.shtml">人工智能技术资讯</a><i class="iconfont right_arrow"></i><a href="javascript:;">正文</a>
+            </div>
+        </div>
+        <!--面包屑  S-->
+        <div class="sub_con">
+            <div class="sub_l sub_lnew" style="width: 850px; padding: 30px;">
+                <h1 class="sub_tt">人工智能技术发展的五个主要分支</h1>
+                <p class="time">更新时间:2021年05月07日17时19分 来源:传智教育  浏览次数:<span id="count"><script src="//h5.itcast.cn/itcast/view/id/20210507-17190321203"></script>11103<span style="display:none" id="cur_dz_id">20210507-17190321203</span>   </span></p>
+                <div class="sub_txt">
+                    <h2 id="mark-H2-0">人工智能主要分支介绍</h2>
+<p>通讯、感知与行动是现代人工智能的三个关键能力，在这里我们将根据这些能力/应用对这三个技术领域进行介绍：</p>
+<p>·计算机视觉(CV)</p>
+<p>·自然语言处理(NLP)</p>
+<p>·在 NLP 领域中，将覆盖文本挖掘/分类、机器翻译和语音识别。</p>
+<p>·机器人</p>
+<br>
+<h2 id="mark-H2-7">1、分支一：计算机视觉</h2>
+<p>计算机视觉(CV)是指机器感知环境的能力。这一技术类别中的经典任务有图像形成、图像处理、图像提取和图像的三维推理。物体检测和人脸识别是其比较成功的研究领域。</p>
+<p><strong>当前阶段：</strong></p>
+<p>计算机视觉现已有很多应用，这表明了这类技术的成就，也让我们将其归入到应用阶段。随着深度学习的发展，机器甚至能在特定的案例中实现超越人类的表现。但是，这项技术离社会影响阶段还有一定距离，那要等到机器能在所有场景中都达到人类的同等水平才行(感知其环境的所有相关方面)。</p>
+<p><strong>发展历史：</strong></p>
+<p style="text-align: center;"><img alt="计算机视觉发展" src="http://www.itcast.cn/files/image/202105/20210507172226851.png" style="width: 800px; height: 409px;"></p>
+<div style="text-align: center;"><img alt="人脸识别技术应用" src="http://www.itcast.cn/files/image/202105/20210507172249939.png" style="width: 800px; height: 466px;"></div>
+<h2 id="mark-H2-14">2、分支二：语音识别</h2>
+<p>语音识别是指识别语音(说出的语言)并将其转换成对应文本的技术。相反的任务(文本转语音/TTS)也是这一领域内一个类似的研究主题。</p>
+<p><strong>当前阶段：</strong></p>
+<p>语音识别已经处于应用阶段很长时间了。最近几年，随着大数据和深度学习技术的发展，语音识别进展颇丰，现在已经非常接近社会影响阶段了。</p>
+<p>语音识别领域仍然面临着声纹识别和「鸡尾酒会效应」等一些特殊情况的难题。</p>
+<p>现代语音识别系统严重依赖于云，在离线时可能就无法取得理想的工作效果。</p>
+<p><strong>发展历史：</strong></p>
+<p style="text-align: center;"><img alt="语音识别技术" src="http://www.itcast.cn/files/image/202105/20210507172348358.png" style="width: 730px; height: 915px;"></p>
+<p><strong>百度语音识别：</strong></p>
+<p>距离小于1米，中文字准率97%+</p>
+<p>支持耳语、长语音、中英文混合及方言</p>
+<br>
+<h2 id="mark-H2-26">3、分支三：文本挖掘/分类</h2>
+<p>这里的文本挖掘主要是指文本分类，该技术可用于理解、组织和分类结构化或非结构化文本文档。其涵盖的主要任务有句法分析、情绪分析和垃圾信息检测。</p>
+<p><strong>当前阶段：</strong></p>
+<p>我们将这项技术归类到应用阶段，因为现在有很多应用都已经集成了基于文本挖掘的情绪分析或垃圾信息检测技术。文本挖掘技术也在智能投顾的开发中有所应用，并且提升了用户体验。</p>
+<p>文本挖掘和分类领域的一个瓶颈出现在歧义和有偏差的数据上。</p>
+<p><strong>发展历史：</strong></p>
+<div style="text-align: center;"><img alt="文本挖掘和分类技术" src="http://www.itcast.cn/files/image/202105/20210507172426166.png" style="width: 730px; height: 265px;"></div>
+<h2 id="mark-H2-33"><br>
+4、分支四：机器翻译</h2>
+<p>机器翻译(MT)是利用机器的力量自动将一种自然语言(源语言)的文本翻译成另一种语言(目标语言)。</p>
+<p><strong>当前阶段：</strong></p>
+<p>机器翻译是一个见证了大量发展历程的应用领域。该领域最近由于神经机器翻译而取得了非常显著的进展，但仍然没有全面达到专业译者的水平;但是，我们相信在大数据、云计算和深度学习技术的帮助下，机器翻译很快就将进入社会影响阶段。</p>
+<p>在某些情况下，俚语和行话等内容的翻译会比较困难(受限词表问题)。</p>
+<p>专业领域的机器翻译(比如医疗领域)表现通常不好。</p>
+<p><strong>发展历史：</strong></p>
+<div style="text-align: center;"><img alt="机器翻译" src="http://www.itcast.cn/files/image/202105/20210507172501501.png" style="width: 730px; height: 403px;"></div>
+<h2 id="mark-H2-41">5、分支五：机器人</h2>
+<p>机器人学(Robotics)研究的是机器人的设计、制造、运作和应用，以及控制它们的计算机系统、传感反馈和信息处理。</p>
+<p>机器人可以分成两大类:固定机器人和移动机器人。固定机器人通常被用于工业生产(比如用于装配线)。常见的移动机器人应用有货运机器人、空中机器人和自动载具。机器人需要不同部件和系统的协作才能实现最优的作业。其中在硬件上包含传感器、反应器和控制器;另外还有能够实现感知能力的软件，比如定位、地图测绘和目标识别。</p>
+<p><strong>当前阶段：</strong></p>
+<p>自上世纪「Robot」一词诞生以来，人们已经为工业制造业设计了很多机器人。工业机器人是增长最快的应用领域，它们在 20 世纪 80 年代将这一领域带入了应用阶段。在安川电机、Fanuc、ABB、库卡等公司的努力下，我们认为进入 21 世纪之后，机器人领域就已经进入了社会影响阶段，此时各种工业机器人已经主宰了装配生产线。此外，软体机器人在很多领域也有广泛的应用，比如在医疗行业协助手术或在金融行业自动执行承销过程。</p>
+<p>但是，法律法规和「机器人威胁论」可能会妨碍机器人领域的发展。还有设计和制造机器人需要相对较高的投资。</p>
+<p><strong>发展历史：</strong></p>
+<p style="text-align: center;"><strong><img alt="机器人技术应用" src="http://www.itcast.cn/files/image/202105/20210507172542438.png" style="width: 730px; height: 682px;"></strong></p>
+<p>总的来说，人工智能领域的研究前沿正逐渐从搜索、知识和推理领域转向机器学习、深度学习、计算机视觉和机器人领域。</p>
+<p>大多数早期技术至少已经处于应用阶段了，而且其中一些已经显现出了社会影响力。一些新开发的技术可能仍处于工程甚至研究阶段，但是我们可以看到不同阶段之间转移的速度变得越来越快。</p>
+<br>
+<br>
+<p><strong>猜你喜欢：</strong></p>
+<p><a href="http://www.itcast.cn/news/20200914/14435955277.shtml" target="_blank">人工智能之个性化推荐之路</a></p>
+<p><a href="http://www.itcast.cn/news/20200914/14324341192.shtml" target="_blank">深度相机是什么？深度相机常见技术</a></p>
+<p><a href="http://www.itcast.cn/news/20200914/11291540622.shtml" target="_blank">如何解决分类中解决类别不平衡问题？</a></p>
+<p><a href="http://www.itcast.cn/news/20200907/13593265501.shtml" target="_blank">语言模型-BERT：bert算法介绍</a></p>
+<p><a href="http://www.itcast.cn/ai/" target="_blank">传智教育人工智能培训课程</a></p>
+
+                </div>
+                <div class="botpage clears">
+                	                		<a href="/news/20210507/17070640586.shtml" class="prev"><b>上一篇：</b>人工智能的起源和人工智能发展历程</a>
+                	                                    		<a href="/news/20210510/1523532096.shtml" class="next"><b>下一篇：</b>什么是深度学习？深度学习各层负责什么内容？</a>
+                					</div>
+                <!--相关阅读-->
+                <div class="reader_con">
+                    <div class="re_con fl recon_new">
+    <h2>最新资讯</h2>
+    <ul>
+    	            <li>
+                <a href="/news/20240223/10512549668.shtml" target="_blank">
+                    <p>CORS代表什么以及它解决什么问题?</p>
+                    <span>2024-02-23</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/news/20240223/10180289537.shtml" target="_blank">
+                    <p>ClickHouse的核心特性是什么?</p>
+                    <span>2024-02-23</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/news/20240222/10410683716.shtml" target="_blank">
+                    <p>Flink如何计算实时的topN?</p>
+                    <span>2024-02-22</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/news/20240222/10150452706.shtml" target="_blank">
+                    <p>UEditor有哪些常用方法?</p>
+                    <span>2024-02-22</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/news/20240221/10291138223.shtml" target="_blank">
+                    <p>JS中，判断一个值是什么类型有哪些方法?</p>
+                    <span>2024-02-21</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/news/20240221/1004091203.shtml" target="_blank">
+                    <p>Kafka并不支持主写从读(读写分离)，这是为什么呢?</p>
+                    <span>2024-02-21</span>
+                </a>
+            </li>
+            </ul>
+</div>
+                    <div class="re_con fr recon_relevant">
+                        <h2>相关阅读</h2>
+                        <ul>
+                                                            <li>
+                                    <a href="/news/20210222/18332822276.shtml" target="_blank">
+                                        <p>AI人工智能——科技春晚暗藏的风口行业</p>
+                                        <span>2021-02-22</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/news/20200921/15142920038.shtml" target="_blank">
+                                        <p>概率和似然有什么区别?</p>
+                                        <span>2020-09-21</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/news/20200921/15103679798.shtml" target="_blank">
+                                        <p>KNN和k-means聚类有什么不同？</p>
+                                        <span>2020-09-21</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/news/20200921/15053355599.shtml" target="_blank">
+                                        <p>什么是Bias和Variance？</p>
+                                        <span>2020-09-21</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/news/20200921/15005720332.shtml" target="_blank">
+                                        <p>fasttext和word2vec的区别?</p>
+                                        <span>2020-09-21</span>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/news/20200921/14591866891.shtml" target="_blank">
+                                        <p>BERT, GPT和 ELMo有什么不同点？</p>
+                                        <span>2020-09-21</span>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                <!--百度分享代码-->
+                <!-- 百度分享代码 -->
+<style>
+	.bdsharebuttonbox{display: none;}
+	.bdsharebuttonbox .dianzan{
+		float: right;
+		height: 26px;
+		line-height: 26px;
+		border: 1px solid #f6f7f8;
+		padding: 0px 17px 0px 38px;
+		background: url(http://yun.itheima.com/Root/images/spjc_zan.jpg) no-repeat 16px 3px;
+		background-size: 15px;
+		border-radius: 50px;
+		font-size: 14px;
+		color: #6e6e6e;
+		cursor: pointer;
+		display: inline-block;
+		margin-bottom: 11px;
+	}
+	.bdsharebuttonbox .dianzan.cur{background-image: url(http://yun.itheima.com/Root/images/spjc_zanhover.jpg);}
+	.bdsharebuttonbox img{width: 22px;cursor: pointer;margin: 0 5px;}
+</style>
+<div class="bshare-custom bdsharebuttonbox" id="bdsharebuttonbox" style="display: block;"><span class="dianzan">110</span>
+<em style="font-style: inherit;float: left;line-height: 23px;">分享到：</em>
+<img class="-mob-share-weibo -mob-share-initialized" src="/2020gw/images/wz_weibo.png">
+<img class="-mob-share-qzone -mob-share-initialized" src="/2020gw/images/wz_qqkj.png">
+<img class="-mob-share-weixin -mob-share-initialized" src="/2020gw/images/wz_weixin.png">
+</div>
+<script id="-mob-share" src="//f1.webshare.mob.com/code/mob-share.js?appkey=34ac61133a544"></script>
+
+<div class="menu" style="display: block;"><a href="javascript:;" style="text-indent:1.5">目录</a><a href="#mark-H2-0" title="人工智能主要分支介绍" style="text-indent:1.5em">人工智能主要分支介绍</a><a href="#mark-H2-7" title="1、分支一：计算机视觉" style="text-indent:1.5em">1、分支一：计算机视觉</a><a href="#mark-H2-14" title="2、分支二：语音识别" style="text-indent:1.5em">2、分支二：语音识别</a><a href="#mark-H2-26" title="3、分支三：文本挖掘/分类" style="text-indent:1.5em">3、分支三：文本挖掘/分类</a><a href="#mark-H2-33" title="
+4、分支四：机器翻译" style="text-indent:1.5em">
+4、分支四：机器翻译</a><a href="#mark-H2-41" title="5、分支五：机器人" style="text-indent:1.5em">5、分支五：机器人</a></div>
+<style>
+	#content{padding-right:102px;}
+	.menu{display:none;width:200px; background:#fff;  border-radius:4px; position:fixed;top: 208px; margin-left: -252px;  padding:6px;box-shadow: 0 0 12px rgba(0,0,0,.06); max-height: 746px;overflow-y: auto;}
+	.menu::-webkit-scrollbar {width: 6px;height: 1px;}
+	.menu::-webkit-scrollbar-thumb {width: 6px;border-radius: 5px;background: #E8E8F5;}
+	.menu::-webkit-scrollbar-track{width: 6px;height: 1px;}
+	.menu a{width:100%; height:30px; line-height:30px; display:inline-block;overflow: hidden;font-size: 12px;}
+	.menu a:hover{color:#D72502}
+	@media screen and (max-width: 1650px){
+		.menu{width:0px;padding:0px;overflow:hidden;}
+	}
+	
+	.sub_l .img_big{cursor: pointer;}
+	.imgbigmask{position: fixed;left: 0;top: 0;width: 100%;height: 100%;z-index: 100;cursor: pointer;}
+	.imgbigmask .imgbigmask_bg{position: absolute;left: 0;top: 0;width: 100%;height: 100%;background: rgba(0,0,0,.7);}
+	.imgbigmask .imgbigmask_con{position: absolute;left: 50%;top: 50%;width: 90%;max-height: 85%;overflow-y: auto;transform: translate(-50%,-50%);}
+	.imgbigmask .imgbigmask_con::-webkit-scrollbar {width: 5px;height: 1px;}
+	.imgbigmask .imgbigmask_con::-webkit-scrollbar-thumb {width: 5px;background: #ccc;}
+	.imgbigmask .imgbigmask_con::-webkit-scrollbar-track{width: 5px;height: 1px;}
+	.imgbigmask .imgbigmask_con img{display: block !important;max-width: 100%;margin: 0 auto;}
+</style>
+<script>
+	$(document).ready(function(e) {
+		$(".menu").append("<a href='javascript:;' style='text-indent:1.5' >目录</a>");
+		$(".sub_txt").children().each(function(index, element) {
+			var tagName=$(this).get(0).tagName;
+			if( tagName=='HR'){
+				return;
+			}
+			if(tagName.substr(0,1).toUpperCase()=="H"){
+				var contentH=$(this).text();//获取内容
+				var markid="mark-"+tagName+"-"+index.toString();
+				$(this).attr("id",markid);//为当前h标签设置id
+				let spaceNum =  "";
+				if (tagName === 'H1') {
+					spaceNum =  "";
+				} else if (tagName === 'H2') {
+					spaceNum =  "1.5";
+				}  else if (tagName === 'H3') {
+					spaceNum =  "3";
+				} else if (tagName === 'H4') {
+					spaceNum =  "4.5";
+				} else if (tagName === 'H5') {
+					spaceNum =  "6";
+				} else if (tagName === 'H6') {
+					spaceNum =  "7.5";
+				}
+				spaceNum+="em";
+				$(".menu").append("<a href='#"+markid+"' title='"+contentH+"' style='text-indent:"+spaceNum+"'>"+contentH+"</a>");
+				$(".menu").show();
+			}
+		});
+	});
+	$(".menu").on("click","a", function(){
+		$(this).css({"color":"#D72502"}).siblings().css({"color":"#333"});
+	});
+	$(window).scroll(function(){
+		var wtop = $(window).scrollTop();
+		var slidet2 = 208-wtop;
+		if(wtop>197){
+			$(".menu").css({"top":"11px"});
+		}else{
+			$(".menu").css({"top":slidet2});
+		}
+	});
+	$(".sub_l").append('<div class="imgbigmask" style="display: none;"><div class="imgbigmask_bg"></div><div class="imgbigmask_con"><img src=""></div></div>');
+	$(".sub_l .img_big").click(function(){
+		var picimg = $(this).attr("src");
+		$(".sub_l .imgbigmask_con img").attr("src",picimg);
+		$(".sub_l .imgbigmask").show();
+	});
+	$(".sub_l").on("click",".imgbigmask",function(){
+		$(".sub_l .imgbigmask").hide();
+	});
+</script><div class="imgbigmask" style="display: none;"><div class="imgbigmask_bg"></div><div class="imgbigmask_con"><img src=""></div></div>
+                <!--百度分享代码-->
+            </div>
+            <div class="new_r" style="height: auto; padding: 20px 20px 5px; display: block;">
+                <div class="new_top"><p class="ajavaee"><a href="http://java.itcast.cn" target="_blank"><img alt="Java高级软件工程师课程" src="http://www.itheima.com/images/newslistPIC/1673602892815_官网文章列表.jpg" style="width: 230px; height: 148px;"></a><span>javaee</span></p>
+<p class="apython"><a href="https://www.itcast.cn/python/" target="_blank"><img alt="Python大数据课程" src="http://www.itheima.com/images/newslistPIC/1714628527388_学科列表页面右侧广告图.jpg" style="width: 230px; height: 148px;"></a><span>python</span></p>
+<p class="aweb"><a href="https://www.itcast.cn/web/" target="_blank"><img alt="web前端课程全薪升级V8.5" src="http://www.itcast.cn/files/image/202305/20230504162126780.png" style="width: 230px; height: 148px;"></a><span>web</span></p>
+<p class="aui"><a href="https://www.itcast.cn/design/" target="_blank"><img alt="AI+设计课程" src="http://www.itcast.cn/files/image/202406/20240612150654075.jpg" style="width: 230px; height: 148px;"></a><span>design</span></p>
+<p class="acloud"><a href="http://python.itcast.cn" target="_blank"><img alt="大数据培训班" src="http://www.itheima.com/images/newslistPIC/1619495360998_python+大数据学科列表页右侧.png" style="width: 230px; height: 148px;"></a><span>cloud</span></p>
+<p class="atest"><a href="https://test.itcast.cn" target="_blank"><img alt="软件测试培训课程" src="http://www.itcast.cn/files/image/202401/20240124102017048.jpg" style="width: 230px; height: 148px;"></a><span>test</span></p>
+<p class="ac"><a href="https://www.itcast.cn/subject/czly/index.shtml" target="_blank"><img alt="" src="https://www.itcast.cn/files/image/202006/20200608154929276.jpg" style="width: 230px; height: 148px;"></a><span>c</span></p>
+<p class="anetmarket"><a href="http://xmt.itcast.cn/" target="_blank"><img alt="新媒体运营培训课程" src="http://www.itheima.com/images/newslistPIC/1677642673317_230x148.png" style="width: 230px; height: 148px;"></a><span>netmarket</span></p>
+<p class="apm"><a href="https://www.itcast.cn/pm/" target="_blank"><img alt="产品经理培训课程" src="http://www.itcast.cn/files/image/202210/20221018111554238.png" style="width: 230px; height: 148px;"></a><span>pm</span></p>
+<p class="aLinux"><a href="https://www.itcast.cn/subject/linuxzly/index.html" target="_blank"><img alt="linux培训班" src="https://www.itcast.cn/files/image/202006/20200608155135435.jpg" style="width: 230px; height: 148px;"></a><span>Linux</span></p>
+<p class="amovies"><a href="https://www.itcast.cn/subject/movieszly/index.html" target="_blank"><img alt="影视制作培训" src="https://www.itcast.cn/files/image/202006/20200608155515709.jpg" style="width: 230px; height: 148px;"></a><span>movies</span></p>
+<p class="arobot"><a href="https://www.itcast.cn/subject/robotzly/index.html" target="_blank"><img alt="智能机器人开发" src="https://www.itcast.cn/files/image/202006/20200608155646087.jpg" style="width: 230px; height: 148px;"></a><span>robot</span></p>
+<p class="auids"><a href="https://www.itcast.cn/subject/uizly/index.shtml" target="_blank"><img alt="电商视觉设计" src="https://www.itcast.cn/files/image/202006/20200608155728652.jpg" style="width: 230px; height: 148px;"></a><span>uids</span></p>
+<p class="aai" style="display: block;"><a href="https://www.itcast.cn/ai/" target="_blank"><img alt="人工智能培训课程" src="http://www.itcast.cn/files/image/202303/20230301114223853.jpg" style="width: 230px; height: 148px;"></a><span>Python</span></p>
+<p class="ajcdl"><a href="https://www.itheima.com/special/jcdlzly/index.html?jcdlzly" target="_blank"><img alt="集成电路应用开发(嵌入式)培训课程" src="http://www.itcast.cn/files/image/202307/20230718175515466.jpg" style="width: 230px; height: 148px;"></a><span>jdbc</span></p>
+</div>
+                <div class="techcen_right">
+                    <div class="techcen_tit">
+                        <div class="xqtop">
+                            <b></b>
+                            <img src="/2018czgw/images/technology/kbtop.png">
+                            <p><span>北京校区</span><img src="/2018czgw/images/kczxdown.png"></p>
+                        </div>
+                        <div class="xqall">
+                            <ul><li><a href="javascript:;" subd="BEIJING">北京昌平</a></li></ul>
+                        </div>
+                    </div>
+                    <div class="techcen_kb">
+
+                    <ul><li><a href="javascript:;" class="itcast_click"><span>基础班</span><span>2023-07-26</span><span style="color: #ff3030;">报满已开</span></a></li><li><a href="javascript:;" class="itcast_click"><span>基础班</span><span>2023-10-31</span><span style="color: #ff3030;">报满已开</span></a></li><li><a href="javascript:;" class="itcast_click"><span>基础班</span><span>2023-11-15</span><span style="color: #ff3030;">报满已开</span></a></li><li><a href="javascript:;" class="itcast_click"><span>基础班</span><span>2024-02-28</span><span style="color: #ff3030;">报满已开</span></a></li><li><a href="javascript:;" class="itcast_click"><span>基础班</span><span>2024-03-15</span><span style="color: #ff3030;">报满已开</span></a></li></ul><ul><li><a href="javascript:;" class="itcast_click"><span>就业班</span><span>2022-08-04</span><span style="color: #ff3030;">报满已开</span></a></li><li><a href="javascript:;" class="itcast_click"><span>就业班</span><span>2023-03-28</span><span style="color: #ff3030;">报满已开</span></a></li><li><a href="javascript:;" class="itcast_click"><span>就业班</span><span>2023-08-11</span><span style="color: #ff3030;">报满已开</span></a></li><li><a href="javascript:;" class="itcast_click"><span>就业班</span><span>2023-11-28</span><span style="color: #ff3030;">报满已开</span></a></li><li><a href="javascript:;" class="itcast_click"><span>就业班</span><span>2024-03-29</span><span style="color: #ff3030;">报满已开</span></a></li></ul></div>
+                </div>
+                <div class="new_bot"><div class="botcon">
+<div class="ajavaee"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="apython"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="aweb"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="aui"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="acloud"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="atest"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="ac"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="anetmarket"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="apm"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="aLinux"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="amovies"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="arobot"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="auids"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+<div class="aai" style="display: block;"><a class="itcast_click" href="javascript:;">申请试听名额</a></div>
+</div>
+<!--<a class="a1024" href="" target="_blank"><img alt="" src="" title="" /></a>--></div>
+                <div class="list">
+                    <!--首页固定列表页右侧视频库调用和报名表单-->
+                    <div class="box_sidebar">
+                        <div class="sidebar_more">
+                            <h2>热门课程推荐</h2><a href="http://yun.itheima.com/course" target="_blank" class="sidemore">更多&gt;&gt;</a>
+                        </div>
+                        <ul>
+                            <script src="https://yun.itheima.com/api.php/course/hot/cid/ai"></script><li><a href="http://yun.itheima.com/course/821.html?seonews" target="_blank"><h3>AI机器学习13天零基础入门</h3><div class="side_fr"><div class="img_box"><img src="http://yun.itheima.com/Upload/./Images/20210603/60b879882a0cd.jpg"></div><div class="btm"><span class="span1">初级</span><p>336556人学习</p><span class="span2">5.0分</span></div></div></a></li><li><a href="http://yun.itheima.com/course/1018.html?seonews" target="_blank"><h3>ChatGPT超全面从基础到实战视频教程</h3><div class="side_fr"><div class="img_box"><img src="http://yun.itheima.com/Upload/./Images/20230307/64069797b3cbe.jpg"></div><div class="btm"><span class="span1">初级</span><p>60141人学习</p><span class="span2">5.0分</span></div></div></a></li><li><a href="http://yun.itheima.com/course/927.html?seonews" target="_blank"><h3>人工智能之python编程零基础入门</h3><div class="side_fr"><div class="img_box"><img src="http://yun.itheima.com/Upload/./Images/20210625/60d581ef92bf6.jpg"></div><div class="btm"><span class="span1">初级</span><p>229308人学习</p><span class="span2">5.0分</span></div></div></a></li><li><a href="http://yun.itheima.com/course/499.html?seonews" target="_blank"><h3>4天快速入门Python数据挖掘</h3><div class="side_fr"><div class="img_box"><img src="http://yun.itheima.com/Upload/./Images/20210803/6108bd10ae342.jpg"></div><div class="btm"><span class="span1">初级</span><p>155063人学习</p><span class="span2">5.0分</span></div></div></a></li>
+                        </ul>
+                    </div>
+                    <div class="bmlc-con bmlc-con2 bmbd">
+                        <div class="bmbd-con"><iframe class="iframe" frameborder="0" height="380" scrolling="no" src="https://baoming.itcast.cn/page/51e9cfbf12aaa-5b45602cb603e----1?class=wzlist" width="100%"></iframe></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- main  E -->
+    </div>
+
+
+    <!-- 底部  S -->
+    <div class="newsindex_pc">
+        <div class="footer">
+            <!--  底部列表区  -->
+            <div class="footer-top">
+<div class="inner">
+<p class="footer-cz" style="padding: 20px   0;"><a class="com-red" href="http://www.itcast.cn/subject/about/index.html" rel="nofollow" target="_blank">关于传智</a> | <a class="com-red" href="http://www.itcast.cn/channel/flow.shtml" rel="nofollow" target="_blank">报名流程</a>| <a class="com-red" href="http://www.itcast.cn/news/20171206/08175432061.shtml" rel="nofollow" target="_blank">传智声明</a>| <a class="com-red" href="http://www.itcast.cn/news/20180206/17584730379.shtml" rel="nofollow" target="_blank">法律声明</a>| <a class="com-red" href="http://www.itcast.cn/news/20180412/10045089511.shtml" rel="nofollow" target="_blank">对外合作</a>| <a class="com-red" href="http://www.itcast.cn/1024/index.html" target="_blank">1024程序员节 </a></p>
+</div>
+</div>
+
+            <!--  底部列表区  -->
+            <!--  底部版权区  -->
+            <div class="footer-bot">
+<p>江苏传智播客教育科技股份有限公司 版权所有Copyright 2006-2024&nbsp; All Rights Reserved <a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank"> 苏ICP备16007882号</a><a href="http://www.itcast.cn/images/yyzz01.jpg" target="_blank">营业执照</a><a href="http://www.itcast.cn/images/zzdx01.jpg" target="_blank">增值电信业务经营许可证</a><a href="http://www.itcast.cn/images/cbwjy.jpg" target="_blank">出版物经营许可证</a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32132202001156" rel="nofollow" target="_blank"><img src="https://www.itheima.com/images/baicon.png" style="display:inline;margin-bottom: -3px;width: 15px;">苏公网安备 32132202001156号</a> <script type="text/javascript">
+			var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cspan id='cnzz_stat_icon_4617777'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol +
+				"s22.cnzz.com/stat.php%3Fid%3D4617777%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));
+		</script><span id="cnzz_stat_icon_4617777"><a href="https://www.cnzz.com/stat/website.php?web_id=4617777" target="_blank" title="站长统计"><img border="0" hspace="0" vspace="0" src="https://icon.cnzz.com/img/pic1.gif"></a></span><script src=" https://s22.cnzz.com/stat.php?id=4617777&amp;show=pic1" type="text/javascript"></script><script src="https://c.cnzz.com/c.js?web_id=4617777&amp;show=pic1&amp;t=z" charset="utf-8" type="text/javascript"></script></p>
+</div>
+<script src="/js/zhuge.js"></script><script>
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?0cb375a2e834821b74efffa6c71ee607";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+</script><!-- toutiao  --><script>
+	(function() {
+		var el = document.createElement("script");
+		el.src =
+			"https://sf1-scmcdn-tos.pstatp.com/goofy/ttzz/push.js?643ac03f8aa149b2ea832a12be2e5ac922da50b2e239d527fcf0f9f873b11f7aef69e80375f6dd78a759aa2e1883c8b5889190e1c0db3dfdab68595b8571d7d0";
+		el.id = "ttzz";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(el, s);
+	})(window)
+</script>
+            <!--  底部版权区  -->
+        </div>
+    </div>
+    <script type="text/javascript">
+        var subjectname = "ai";
+    </script>
+    <div class="newsindex_yd">
+        <div class="footer_box">
+<p class="footlist"><a href="/">首页</a>|<a href="/2018phone/phoneschool.html">校区分布</a>|<a href="/2018phone/phoneteacher.html">师资力量</a>|<a href="/2018phone/phonegywm.html">关于我们</a>|<a href="/2018phone/phonebmlc.html">报名流程</a></p>
+<p class="footlist" id="footlist"><a href="/2018phone/phonecjwt.html">常见问题</a>|<a class="footjszx phonejavaeezly" href="/news/ai_1.shtml">技术资讯</a></p>
+<p>江苏传智播客教育科技股份有限公司版权所有<br>
+Copyright 2006-2023, All Rights Reserved</p>
+</div>
+<div class="bdzx"><a class="itcast_click zx_btn" href="JavaScript:;">在线咨询</a> <a class="itcast_click tel_btn" href="JavaScript:;">我要报名</a></div>
+<script>
+  
+  if(subjectname == 'test'){
+    subjectcon = '/news/testtech_1.shtml'
+  }else if(subjectname == 'Linux'){
+    subjectcon = '/news/linux_1.shtml'
+  }else if(subjectname == 'qynews'){
+    subjectcon = '/newsvideo/newslist_1.shtml'
+  }else{
+    subjectcon = '/news/'+subjectname+'_1.shtml'
+  }
+  document.getElementById("footlist").innerHTML = '<a href="/2018phone/phonecjwt.html">常见问题</a>|<a class="footjszx phonejavaeezly" href="'+subjectcon+'">技术资讯</a>';
+  var arrfenxiao = ["BEIJING","TIANJIN","SHANGHAI","GUANGZHOU","SHENZHEN","WUHAN","ZHENGZHOU","XIAN","CHANGSHA","JINAN","CHONGQING","NANJING","HANGZHOU","SHIJIAZHUANG","CHENGDU","HEFEI","TAIYUAN","XIAMEN","SHENYANG"];
+</script>
+    </div>
+    <!-- 底部  E -->
+</div>
+<link rel="stylesheet" href="/2018czgw/css/style.css">
+<!-- 全局js -->
+<script src="/js/jquery-1.7.2.min.js"></script> 
+<script src="/js/global.js"></script>
+<script type="text/javascript" src="/2018czgw/js/wow.min.js"></script>
+<script src="/2018czgw/js/jquery.SuperSlide.2.1.2.js"></script>
+<script src="/2018czgw/js/jquery.flipster.js"></script>
+<script type="text/javascript" src="/2018czgw/js/header.js"></script>
+<!-- ie7error提示 -->
+<style type="text/css">
+#ie7-warning{background:rgb(255,255,225); position:absolute; top:0; left:0; font-size:12px; color:#333; width:100%; padding:5px 0; text-align:center; z-index:99999; }
+</style>
+<!--[if lte IE 7]>
+<div id="ie7-warning">您正在使用 Internet Explorer 7，在本页面的显示效果可能有差异。建议您升级到 <a href="http://www.microsoft.com/china/windows/internet-explorer/" target="_blank">Internet Explorer 8</a> 或以下浏览器： <a href="http://www.mozillaonline.com/">Firefox</a> / <a href="http://www.google.com/chrome/?hl=zh-CN">Chrome</a> / <a href="http://www.apple.com.cn/safari/">Safari</a> / <a href="http://www.operachina.com/">Opera</a>
+</div>
+<script type="text/javascript">
+	function position_fixed(el, eltop, elleft){ 
+	if(!window.XMLHttpRequest) 
+		window.onscroll = function(){ 
+		el.style.top = (document.documentElement.scrollTop + eltop)+"px"; 
+		el.style.left = (document.documentElement.scrollLeft + elleft)+"px"; 
+		} 
+		else el.style.position = "fixed"; 
+		}
+		position_fixed(document.getElementById("ie7-warning"),0, 0);
+</script>
+<![endif]-->
+
+<!-- 十大学科咨询 -->
+<div class="newsindex_pc"><!-- 没有自动弹出 -->
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="/css/zx.css?20221205">
+<link rel="stylesheet" href="/2018czgw/css/style.css">
+
+<script src="/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<link rel="stylesheet" href="/2020gw/css/prism-Tomorrow Night.css">
+<script src="/2020gw/js/prism.js"></script>
+
+<script>
+	$(document).ready(function(){
+    var doc_pre = $(".sub_txt pre");
+    doc_pre.each(function(){
+        var class_val = $(this).attr('class');
+        var class_arr = new Array();
+        class_arr = class_val.split(';');
+        class_arr = class_arr['0'].split(':');
+        var lan_class = 'language-'+class_arr['1'];
+        var pre_content = '<code class="'+lan_class+'">'+$(this).html()+'</code>';
+		$(this).attr("class",'line-numbers '+lan_class);
+        $(this).html(pre_content);
+    });
+});
+</script>
+
+<script>
+
+	var nowwidth = document.documentElement.clientWidth;
+	// if(nowwidth > 750){
+	// 	var oscript2 = document.createElement('script');
+	// 	oscript2.id = 'zhugeId';
+	// 	oscript2.src = '/js/zhuge.js';
+	// 	document.body.appendChild(oscript2);
+	// }else{
+	// 	var oscript2 = document.createElement('script');
+	// 	oscript2.id = 'zhugeId';
+	// 	oscript2.src = '/js/zhuge.js';
+	// 	document.body.appendChild(oscript2);
+	// }
+
+	$.ajax({
+		url : "//baoming.itcast.cn/tools/getip",
+		dataType : "json",
+		success : function(res) {
+			console.log(res.ip)
+			var dataip = res.ip;
+			if(dataip === ""){
+				$("#qxzxqm").attr("src","");
+				$("body").on("click",".itcast_click",function(){
+					alert("咨询已屏蔽");
+				});
+			}else{
+				// 在 H5 文件中
+				let UA = window.navigator.userAgent;
+				var regex = /swan\//;
+				if(!regex.test(UA)){
+					var oscript = document.createElement('script');
+					oscript.id = 'qxzxqm';
+					oscript.src = 'https://webchat.7moor.com/javascripts/7moorInit.js?accessId=b2f10070-624e-11e8-917f-9fb8db4dc43c&autoShow=false&language=ZHCN';
+					document.body.appendChild(oscript);
+				}else{
+					$("body").on("click",".itcast_click",function(){
+						window.location.href = 'https://webchat03.7moor.com/wapchat.html?accessId=22bdcd10-6250-11e8-917f-9fb8db4dc43c&fromUrl=http://baiducz&urlTitle=%E7%99%BE%E5%BA%A6%E5%B0%8F%E7%A8%8B%E5%BA%8F';
+					})
+				}
+				setTimeout(function(){
+					$(".qimo_zx").show();
+				},6000);
+				$(".cxhdpic2,.cxhdpic1").hover(function(){
+					$(".cxhdpic1").show();
+				},function(){
+					$(".cxhdpic1").hide();
+				});
+				$("body").on("click",".itcast_click",function(){
+					
+					if(nowwidth > 750){
+						qimosdk.hideChatBox();
+						setTimeout(function(){
+							qimoChatClick();
+						},200);
+						zhuge.track('咨询点击');
+					}else{
+						qimoChatClick();
+						zhuge.track('咨询点击-移动端');
+					}
+				});
+				
+				setTimeout(function(){
+					var timer = null;
+					var qimo_chatpup = document.getElementById('qimo_chatpup');
+					$("body").on("click",".itcast_click",function(){
+						qimosdk.hideChatBox();
+						qimo_chatpup.style.bottom = "-500px";
+						setTimeout(function(){
+							qimoChatClick();
+							var ind = -500;
+							timer = setInterval(function(){
+								ind+=20;
+								if(ind>-20){clearInterval(timer);}
+								qimo_chatpup.style.bottom = ind+"px";
+							},1);
+						},200);
+					});
+				},1500);
+			}
+		},
+	})
+	
+</script>
+
+<style type="text/css">
+	.zx{right: 12px;}
+	.zx .cxhdpic3{
+		position: absolute;
+		right: -13px !important;
+		top: -86px !important;
+		z-index: 99999;
+		width: 97px !important;
+		display: none;
+	}
+	.zx img{
+		display: block;
+		width:100%;
+	}
+</style>
+<!-- 十大学科咨询--> 
+<div class="zx zx2021">
+	<ul>
+		<!-- <li class="li_zxtop">
+			<a href="javascript:;" class="itcast_click" rel="nofollow">
+				<span class="icon_s">&nbsp;</span>
+				<p id="loading">咨询</p>
+			</a>
+		</li> -->
+		<li class="li_st">
+			<a href="javascript:;" class="itcast_click" rel="nofollow">
+				<span class="icon_s">&nbsp;</span>
+				<p>试听</p>
+			</a>
+		</li>
+		<li class="li_zx">
+			<a href="javascript:;" class="itcast_click" rel="nofollow">
+				<span class="icon_s">&nbsp;</span>
+				<p>咨询</p>
+			</a>
+		</li>
+		<li class="li_bm">
+			<a href="javascript:;" class="itcast_click">
+				<span class="icon_s">&nbsp;</span>
+				<p>报名</p>
+			</a>
+		</li>
+	</ul>
+	<div class="li_6" id="back">
+		<a href="javascript:void(0);">
+			<span class="icon_s">&nbsp;</span>
+		</a>
+	</div>
+	<!-- <a href="https://h5.itcast.cn/subject/yles21/index.html?czzxad" target="_blank" class="cxhdpic3"><img src="http://www.itcast.cn/1024img/zx2021pf.png" /></a> -->
+	<!-- <a href="https://h5.itcast.cn/subject/yles22/index.html?czzxad" target="_blank" class="cxhdpic3"><img src="http://www.itcast.cn/1024img/zx2022pf.png" /></a> -->
+</div>
+<div class="qimo_zx itcast_click" style="width: 240px;height: 56px;background: #fff;border-radius: 2px;position: fixed;right: 12px;bottom: 12px;z-index: 1000000;cursor: pointer;box-shadow: 0 0 12px rgba(0,0,0,.06);border-radius: 4px;">
+	<div style="float: right; width: 58px;height: 56px;background: #0067e1 url('/images/indeximg3.png') no-repeat 16px 11px;border-radius: 0 4px 4px 0;"></div>
+	<div style="float: right; width: 161px;height: 56px;background: url('/images/indeximg4.png') no-repeat 154px 24px;font-size: 15px;color: #241919;line-height: 56px;padding-left: 21px;">和我们在线交谈！</div>
+</div>
+<script src="/js/zx.js"></script>
+<script>
+
+	var nowtime = new Date().getTime();
+	var dtstarttime = new Date("2022/10/20 09:00").getTime();
+	//if(nowtime>dtstarttime){
+		//$(".cxhdpic3").show();
+	//}
+	
+	var videoElem = $(".dictionary-wrap audio").get(0);
+	var timers = null;
+	var aind = 0;
+	var aind1 = 0;
+	$(".dictionary-wrap .op-sound").click(function(){
+		$(".dictionary-wrap .op-repeat").removeClass("op-repeat-running");
+		var that = $(this);
+		var datasrc = $(this).attr("datasrc");
+		$(".dictionary-wrap audio").attr("src",datasrc);
+		$(".dictionary-wrap source").attr("src",datasrc);
+		videoElem && videoElem.play();
+		clearInterval(timers);
+	});
+	$(".dictionary-wrap .op-repeat-left").click(function(){
+		var that = $(this);
+		var datasrc = $(this).attr("datasrc");
+		$(".dictionary-wrap audio").attr("src",datasrc);
+		$(".dictionary-wrap source").attr("src",datasrc);
+		$(".dictionary-wrap .op-repeat-right").removeClass("op-repeat-running");
+		if(aind1 == 1){
+			that.removeClass("op-repeat-running");
+			clearInterval(timers);
+			aind1 = 0;
+		}else{
+			that.addClass("op-repeat-running");
+			timers = setInterval(function(){videoElem && videoElem.play();},2000);
+			aind1 = 1;
+		}
+	});
+	$(".dictionary-wrap .op-repeat-right").click(function(){
+		var that = $(this);
+		var datasrc = $(this).attr("datasrc");
+		$(".dictionary-wrap audio").attr("src",datasrc);
+		$(".dictionary-wrap source").attr("src",datasrc);
+		$(".dictionary-wrap .op-repeat-left").removeClass("op-repeat-running");
+		if(aind == 1){
+			that.removeClass("op-repeat-running");
+			clearInterval(timers);
+			aind = 0;
+		}else{
+			that.addClass("op-repeat-running");
+			timers = setInterval(function(){videoElem && videoElem.play();},2000);
+			aind = 1;
+		}
+	});
+	
+	var relevantlen = $(".reader_con .recon_relevant ul li").length;
+	var newlen = $(".reader_con .recon_new ul li").length;
+	if(relevantlen<6 || newlen<6){
+		$(".reader_con").hide();
+	}
+</script>
+<script>
+	
+	var winW = $(window).width();
+	if(winW>750){
+		setTimeout(function(){
+			$(".newswrapper .sub_con .sub_lnew").css({"width":"850px","padding":"30px 30px"});
+			$(".newswrapper .sub_con .new_r").css({"height":"auto","padding":"20px 20px 5px"});
+		},500);
+	}
+	
+	//setTimeout(function(){
+	//	if(subjectname == "javaee" || subjectname == "web" || subjectname == "python" || subjectname == "cloud"){
+	//		for(var i=0;i<4;i++){
+	//			$(".new_r .techcen_right .techcen_kb ul").eq(1).find("li").eq(i).find("span").eq(0).text("高手班");
+	//		}
+	//	}
+	//},500);
+
+	var nowtime = new Date().getTime();
+	var month = new Date().getMonth()+1;
+	var day = new Date().getDate();
+	var dtstarttime = new Date("2020/" + month + "/" + day + " " + " 13:30").getTime();
+	var endtime = new Date("2020/" + month + "/" + day + " " + " 22:00").getTime();
+	console.log(nowtime)
+//	if(nowtime>endtime){
+//		$(".cxhdpic3").hide();
+//	}else if(nowtime>dtstarttime){
+//		$(".cxhdpic3").hide();
+//	}else{
+//		$(".cxhdpic3").hide();
+//	}
+	
+	locurl = location.search;
+	if(locurl){
+		if (locurl.indexOf("?") != -1) {
+			var one = locurl.lastIndexOf("?");
+			locurl = locurl.substring(one, locurl.length);
+			var locurlsrc = locurl.substr(1);
+		}
+		var alen = $("a").length;
+		for(i=0;i<alen;i++){
+			var aurl = $("a").eq(i).attr("href");
+			if(aurl == "javascript:;" || aurl == "javascript:void(0);" || aurl == "javascript:void(0)"){
+				$("a").eq(i).attr("href",aurl);
+			}else{
+				if(aurl.indexOf("#") != -1){
+					var two = aurl.lastIndexOf("#");
+					aurlh = aurl.substring(two,aurl.length);
+					aurl = aurl.substring(0,two);
+					var zzUrl = (aurl && aurl.indexOf("?") != -1) ? (aurl+"$"+locurlsrc+aurlh) : (aurl+"?"+locurlsrc+aurlh);
+					$("a").eq(i).attr("href",zzUrl);
+				}else{
+					var zzUrl = (aurl.indexOf("?") != -1) ? (aurl+"$"+locurlsrc) : (aurl+"?"+locurlsrc);
+					$("a").eq(i).attr("href",zzUrl);
+				}
+			}
+		}
+	}
+	
+	var art = $('.tutorial-detail'),tutorialp = $(".tutorial_list .tutorial_p");
+	var other_text = $(".tutorial_list .tutorial_p").text();
+	tutorialp.click(function(){
+		if (art.hasClass('article-hidden')) {
+            art.removeClass('article-hidden');
+            tutorialp.text('点击收起');
+            dim.hide();
+        } else {
+            art.addClass('article-hidden');
+            tutorialp.text(other_text);
+            dim.show();
+        }
+	});
+	
+	var tutorial_text = $(".tutorial_video").text();
+	if(tutorial_text){
+		var tutorialvideo = $(".tutorial_video").offset().top;
+		$(window).scroll(function(){
+			var tutorialTop = $(window).scrollTop();
+
+			if(tutorialTop > tutorialvideo){
+				$(".tutorial_video").addClass("cur");
+			}else{
+				$(".tutorial_video").removeClass("cur");
+			}
+		});
+	}
+	
+	var winh = window.location.href;
+	var datatext = ($("#count").text().split("-"))[0];
+	var datatextlen = (datatext.length)-8;
+	datatext = datatext.slice(0,datatextlen);
+	if(winh.indexOf("/20170328/1633511039.shtml") != -1){
+		var date = new Date();
+		var getFullYear = date.getFullYear(); //获取完整的年份(4位)
+		var getMonth = ((date.getMonth() +1)<10)?"0"+(date.getMonth() +1):(date.getMonth() +1);
+		var getDate = (date.getDate()<10)?"01":((date.getDate()<20)?10:20);
+		// $(".sub_l .time").html('更新时间:'+getFullYear+'年'+getMonth+'月'+getDate+'日 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+(parseInt(datatext)+232042)+'</span>');
+		$(".sub_l .time").html('更新时间:'+getFullYear+'年'+getMonth+'月01日 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+(parseInt(datatext)+232042)+'</span>');
+	}else if(winh.indexOf("/20230227/11301860882.shtml") != -1){
+		var date = new Date();
+		var getFullYear = date.getFullYear(); //获取完整的年份(4位)
+		var getMonth = ((date.getMonth() +1)<10)?"0"+(date.getMonth() +1):(date.getMonth() +1);
+		// $(".sub_l .time").html('更新时间:'+getFullYear+'年'+getMonth+'月01日 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+datatext+'</span>');
+		$(".sub_l .time").html('更新时间:'+getFullYear+'年'+getMonth+'月01日 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+(parseInt(datatext)+232942)+'</span>');
+	}else if(winh.indexOf("/20180202/20153796600.shtml") != -1){
+		$(".sub_l .time").html('更新时间:2021年09月01日09时31分 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+datatext+'</span>');
+	}else if(winh.indexOf("/20210108/1129210493.shtml") != -1){
+		$(".sub_l .time").html('更新时间:2022年01月12日09时30分 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+datatext+'</span>');
+	}else if(winh.indexOf("/20211210/14094213934.shtml") != -1){
+		$(".sub_l .time").html('更新时间:2021年12月10日16时30分 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+datatext+'</span>');
+	}else if(winh.indexOf("/20221011/13562199740.shtml") != -1){
+		$(".sub_l .time").html('更新时间:2022年06月15日09时30分 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+datatext+'</span>');
+	}else if(winh.indexOf("/20221011/13590836989.shtml") != -1){
+		$(".sub_l .time").html('更新时间:2022年09月30日09时30分 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+datatext+'</span>');
+	}else if(winh.indexOf("/20221011/10081832325.shtml") != -1){
+		$(".sub_l .time").html('更新时间:2022年08月05日09时30分 来源:传智教育  浏览次数:<span id="hit" style="display: inline-block;">'+datatext+'</span>');
+	}
+	
+	
+	
+	
+	//var opendata = localStorage.getItem("opendata");
+	//if(opendata == "true"){
+		
+	//}else if(opendata == "false"){
+	//	localStorage.setItem("opendata","true");
+	//	window.open("http://vr.sina.com.cn/news/hz/2020-09-21/doc-iivhuipp5581608.shtml");
+	//}else{
+	//	localStorage.setItem("opendata","false");
+	//	window.open("http://vr.sina.com.cn/news/hz/2020-09-21/doc-iivhuipp5581608.shtml");
+	//}
+	
+</script>
+<script>
+//20190621
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https'){
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<script>
+	$(".wzheader .wzimgleft").click(function(){
+		$(".wzleftlist").addClass("show");
+		$(".wzleftlist_bg").show();
+	});
+	$(".wzleftlist_bg").click(function(){
+		$(".wzleftlist").removeClass("show");
+		$(".wzrightlist").removeClass("show");
+		$(this).hide();
+	});
+	$(".wzheader .wzimgcity").click(function(){
+		$(".wzrightlist").show();
+	});
+	$(".wzrightlist .fxbox_bg").click(function(){
+		$(".wzrightlist").hide();
+	});
+</script>
+<script>
+	
+	var dianzanind = $("#cur_dz_id").text();
+	$.ajax({
+		url : "//h5.itcast.cn/itcast/zan/id/"+dianzanind,
+		success : function(result) {
+			$(".bdsharebuttonbox .dianzan").text(result);
+		}
+	});
+	$(".bdsharebuttonbox .dianzan").one("click",function(){
+		$.ajax({
+			url : "//h5.itcast.cn/itcast/zan/id/"+dianzanind+"/type/add",
+			success : function(result) {
+				$(".bdsharebuttonbox .dianzan").text(result);
+				$(".bdsharebuttonbox .dianzan").addClass("cur");
+			}
+		});
+	});
+</script></div>
+<script src="/js/jquery.SuperSlide.2.1.1.js"></script>
+<script src="/js/other.js"></script>
+<script src="/2018czgw/js/arrcourse.js"></script>
+<script src="/2018czgw/js/wzlistfn.js"></script>
+<script>
+    var subjectarr = "ai";
+    wzlistFn(subjectarr);
+</script>
+
+
+<script id="qxzxqm" src="https://webchat.7moor.com/javascripts/7moorInit.js?accessId=b2f10070-624e-11e8-917f-9fb8db4dc43c&amp;autoShow=false&amp;language=ZHCN"></script><script type="text/javascript" charset="UTF-8" src="https://webchat.7moor.com/online?accessId=b2f10070-624e-11e8-917f-9fb8db4dc43c&amp;unionAccessId=undefined&amp;location=www.itcast.cn&amp;referrer=https%3A%2F%2Fwww.itcast.cn%2Fnews%2F20210507%2F17190321203.shtml&amp;callbackF=getChatConfig&amp;action=getOnlineStates&amp;sid=4ef58ab5-092c-41e2-bc99-8901fd6b6d47&amp;seoSource=%E7%AB%99%E5%86%85&amp;fromUrl=https%3A%2F%2Fwww.itcast.cn%2Fnews%2F20210507%2F17190321203.shtml&amp;hideImgUpload=false&amp;hideFileUpload=false&amp;__=1731503021218"></script><div><div class="qimo_chatpup" id="qimo_chatpup" style="display: block; right: 0px; bottom: 0px; width: 360px; height: 500px;"><iframe id="chatIframe" src="https://webchat.7moor.com/view/moor_chat.html?v=20240724&amp;clientId=&amp;urlTitle=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E7%9A%84%E4%BA%94%E4%B8%AA%E4%B8%BB%E8%A6%81%E5%88%86%E6%94%AF&amp;fromUrl=https%3A%2F%2Fwww.itcast.cn%2Fnews%2F20210507%2F17190321203.shtml&amp;serviceStates=1&amp;accessId=b2f10070-624e-11e8-917f-9fb8db4dc43c&amp;styleColor=216ef4&amp;peers=%5B%7B%22id%22%3A%2210050359%22%2C%22name%22%3A%22%E6%80%BB%E9%83%A8%E7%BD%91%E5%92%A8%22%2C%22status%22%3A%22enable%22%7D%5D&amp;sessionLastToPeer=&amp;otherParams=&amp;seoSource=%E7%AB%99%E5%86%85&amp;seoKeywords=&amp;xstKeywords=&amp;companyName=%E4%BC%A0%E6%99%BA%E6%95%99%E8%82%B2&amp;seoUrl=https%3A%2F%2Fwww.itcast.cn%2Fnews%2F20210507%2F17190321203.shtml&amp;language=zh-CN&amp;href=https%3A%2F%2Fwww.itcast.cn%2Fnews%2F20210507%2F17190321203.shtml&amp;priority=false&amp;showAnnexUrl=false&amp;unionAccessId=undefined&amp;hideImgUpload=false&amp;hideFileUpload=false&amp;accessAfterMessage=undefined&amp;customColor=undefined&amp;videoDownloadBtn=false&amp;browserEnvironment=&amp;showPermissionPop=" height="100%" width="100%" allowfullscreen=""></iframe><div id="maskChat"></div></div><div id="chatBtn" class="chatBtn" style="display: none; right: 18px; z-index: -100; background-color: rgb(33, 110, 244); border-top-left-radius: 55px; border-top-right-radius: 55px; border-bottom-right-radius: 55px; border-bottom-left-radius: 55px; bottom: 0px; padding: 15px; width: 25px; height: 25px;"><img width="25px" height="25px" src="https://webchat.7moor.com/images/1.png?1221" style="width: 25px; height: 25px; margin: 0px; padding: 0px; transform: unset; transition: unset unset unset unset; -webkit-transition: unset unset unset unset;"><span></span><span id="qimo_badge"></span></div><div id="qimo_showNewMsg" class="qimo_showNewMsg" style="display: none; "><div id="qimo_showNewMsg_box" class="qimo_showNewMsg_box"><div id="qimo_showNewMsg_title_box" class="qimo_showNewMsg_title_box"><img src="https://webchat.7moor.com/images/agentLogo.png"><span id="qimo_showNewMsg_title" class="qimo_showNewMsg_title"></span></div> <div id="qimo_showNewMsg_content" class="qimo_showNewMsg_content"></div></div><span id="qimo_showNewMsg_close" class="qimo_showNewMsg_close">x</span></div></div><div><div class="qimo_inviteBox" id="qimo_inviteBox" style="display: none; right: 10px; bottom: 10px; background-color: rgb(63, 184, 253); background-position: initial initial; background-repeat: initial initial;"><img class="qimo_invite_close" id="qimo_invite_close" src="https://webchat.7moor.com/images/invite-close.png"><div class="qimo_inviteBox_top"><div class="qimo_inviteBox_top_img" id="qimo_inviteBox_top_img"><img id="qimo_inviteBox_img" src="https://fs-im-kefu.7moor.com/im/486e1f70-bde0-11e7-8806-e7bf8b6e8c91/2017-12-03/1512299414438/896beb70-d81a-11e7-b6e7-9da891414b0f.png"></div><div class="qimo_inviteBox_top_right" id="qimo_inviteBox_top_right"><p id="qimo_inviteBox_InviteWords">欢迎咨询，请问有什么可以帮您的吗？</p><div class="qimo_inviteBox_top_button" id="qimo_inviteBox_top_button"><div id="invite_click_button_1" class="divbuttons msie11PadTop" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);">立即咨询</div><div id="invite_click_button_2" class="divbuttons msie11PadTop" style="color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);">以后再说</div></div></div></div><div class="qimo_inviteBox_bottom"><textarea id="sendInviteText" placeholder="请输入您想要输入的内容..." rows="2"></textarea><div id="sendInviteContent" class="sendInviteContent msie11PadTop" style="background-color: rgb(63, 184, 253); background-position: initial initial; background-repeat: initial initial;">发送</div></div></div></div><div><div class="qimo_screenpop" id="qimo_screenpop" style="display: none"><div class="screendragbar" id="screendrag"></div><div class="qimo_headerimg" id="qimo_headerimg"><div class="screenminimg" style="display: none" id="screenminimg"><img src="https://webchat.7moor.com/images/small.png"></div><div class="screenminimg" id="screenmaximg"><img src="https://webchat.7moor.com/images/big.png"></div><div class="screenminimg" id="screencloseimg"><img src="https://webchat.7moor.com/images/close.png" style="width: 16px;height: 16px;"></div></div> <div id="mask"></div><iframe id="screenIframe" src="" height="100%" width="100%" allow="microphone; camera"></iframe></div></div><div><div class="qimo_videopup" id="qimo_videopup" style="display: none"><div style="" class="m7_dragbar" id="drag"><div class="qimo_minimg" id="qimo_minimg"><img src="https://webchat.7moor.com/images/small.png"></div><div class="qimo_maximg" id="qimo_maximg" style="display: none"><img src="https://webchat.7moor.com/images/big.png"></div> </div><div id="mask"></div><div id="m7videoIframe" style=" height: 100%; width: 100%;"></div></div></div></body></html>

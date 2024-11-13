@@ -1,0 +1,867 @@
+<!DOCTYPE html><html><head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<title>【智算芯闻】GPU：AI时代的核心算力之王新闻中心</title>
+<meta name="keywords" content="MXN系列GPU（曦思），MXC系列GPU（曦云），MXG系列GPU（曦彩），AI推理，AI训练，通用计算，图形渲染，数据分析，数据中心，云游戏，元宇宙">
+<meta name="description" content="沐曦致力于为异构计算提供安全可靠的GPU芯片及解决方案，可广泛应用于人工智能、智慧城市、数据中心、云计算、自动驾驶、数字孪生、元宇宙等前沿领域，为数字经济发展提供强大的算力支撑。">
+<meta name="author" content="治汇网络科技(上海)有限公司-高端网站建设-https://www.vthinks.net">
+<link rel="Shortcut Icon" href="/favicon.ico">
+<base href="https://www.metax-tech.com/">
+
+
+
+
+<link rel="stylesheet" type="text/css" href="css/swiper-bundle.css">
+<link rel="stylesheet" type="text/css" href="css/common.css">
+<link rel="stylesheet" type="text/css" href="css/aos.css">
+<link rel="stylesheet" type="text/css" href="css/index.css?2">
+<link rel="stylesheet" type="text/css" href="css/media.css">
+
+		
+<link rel="stylesheet" href="https://www.metax-tech.com/layer/skin/layer.css" id="layui_layer_skinlayercss" style=""></head>
+<body data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
+	<div class="ydke">
+		<div class="ydkechild">
+		<div class="tica-bg"></div>
+		<!-- 右拉菜单 -->
+		<header id="headerd" class="normal nav-down">
+	<div class="gnb_boxs phone-header">
+		<div class="wrapder">
+			<a class="phone-muen wrapdercd">
+				<span></span>
+				<span></span>
+				<span></span>
+			</a>
+			<h1>
+				<a href="index.html">
+					<img class="logo22" src="img/logo.svg">
+				</a>
+			</h1>																				
+			<div class="yybbaniu subsidiaryparents">
+			    <div class="yybbaniu11"></div>
+			    <div class="yybbanben">
+			        <ul class="subsidiary-nav2child">
+		                <li><a href="en/ndetail/30.html">English</a></li>
+                        <li><a href="ndetail/30.html">中文简体</a></li>
+                    </ul>
+			  
+			    </div>
+			  
+			</div>												
+		</div>
+	</div>
+
+	</header>
+	
+<div class="tica-menuMain">
+    
+    <div class="menuBoxe">
+		<div class="preBox">
+			<ul>
+				
+								<li class="bBor">
+					<a class="onea" href="index.html">首页</a>
+									</li>
+								<li class="bBor">
+					<a class="onea" href="product.html">产品与解决方案</a>
+										<span class="menu_span1 iconfont"></span>
+					<ul class="listhhj proList">
+					    						<li>
+							<a href="product.html#product1" class="twoa">产品</a><span class="menu_span1 iconfont"></span>							<ul class="subtwo">
+							    								<li>
+									<a href="prod.html?cid=1" class="threea">曦思N系列</a>
+								</li>
+																<li>
+									<a href="prod.html?cid=2" class="threea">曦云C系列</a>
+								</li>
+																<li>
+									<a href="prod.html?cid=3" class="threea">曦彩G系列</a>
+								</li>
+															</ul>
+													</li>
+												<li>
+							<a href="product.html#product2" class="twoa">解决方案</a><span class="menu_span1 iconfont"></span>							<ul class="subtwo">
+							    								<li>
+									<a href="solution.html?cid=5" class="threea">智算</a>
+								</li>
+																<li>
+									<a href="solution.html?cid=7" class="threea">数据分析</a>
+								</li>
+																<li>
+									<a href="solution.html?cid=10" class="threea">云游戏与元宇宙</a>
+								</li>
+															</ul>
+													</li>
+												<li>
+							<a href="product.html#product3" class="twoa">异构计算平台</a><span class="menu_span1 iconfont"></span>							<ul class="subtwo">
+							    								<li>
+									<a href="platform.html?cid=4" class="threea">MXMACA运算平台</a>
+								</li>
+															</ul>
+													</li>
+																										
+					</ul>
+									</li>
+								<li class="bBor">
+					<a class="onea" href="serve.html">支持与服务</a>
+										<span class="menu_span1 iconfont"></span>
+					<ul class="listhhj proList">
+					    						<li>
+							<a href="serve.html" class="twoa">资料下载</a>						</li>
+																										
+					</ul>
+									</li>
+								<li class="bBor">
+					<a class="onea" href="news.html">新闻中心</a>
+										<span class="menu_span1 iconfont"></span>
+					<ul class="listhhj proList">
+					    						<li>
+							<a href="news.html?cid=11" class="twoa">企业新闻</a>						</li>
+												<li>
+							<a href="news.html?cid=76" class="twoa">媒体报道</a>						</li>
+												<li>
+							<a href="news.html?cid=77" class="twoa">智算芯闻</a>						</li>
+																										
+					</ul>
+									</li>
+								<li class="bBor">
+					<a class="onea" href="join2.html">招贤纳士</a>
+										<span class="menu_span1 iconfont"></span>
+					<ul class="listhhj proList">
+					    						<li>
+							<a href="join2.html" class="twoa">生活在沐曦</a>						</li>
+												<li>
+							<a href="join.html" class="twoa">加入沐曦</a>						</li>
+																										
+					</ul>
+									</li>
+								<li class="bBor">
+					<a class="onea" href="about.html">关于沐曦</a>
+										<span class="menu_span1 iconfont"></span>
+					<ul class="listhhj proList">
+					    						<li>
+							<a href="about.html#toponea11" class="twoa">公司介绍</a>						</li>
+												<li>
+							<a href="about.html#toponea2" class="twoa">企业文化</a>						</li>
+												<li>
+							<a href="about.html#toponea4" class="twoa">沐曦大事记</a>						</li>
+												<li>
+							<a href="about.html#toponea5" class="twoa">企业社会责任</a>						</li>
+												<li>
+							<a href="contact.html" class="twoa">联系我们</a>						</li>
+																										
+					</ul>
+									</li>
+								
+			</ul>
+		</div>
+						
+		<div class="phone-menu-search">
+			<h4>内容检索</h4>
+			<div class="inBox">
+				<!-- <label>keyword</label> -->
+				<p><input type="text" name="" id="" placeholder="请输入您想要搜索的关键词" class="head_m_key"></p>
+			</div>
+			<div class="inSearbtn">
+				<a class="submitS">搜索</a>
+				<a href="javascript:;" class="submitC">清空</a>
+			</div>
+		</div>
+	</div>
+
+</div> 
+             <div class="header">
+            <div class="headerm">
+                <div class="headermb clearfix">
+                    <div class="hdbnav fl clearfix">
+                        <ul>
+                            
+                                                        <li class=" hasnavon">
+								<a href="index.html">首页<i class="headtopdivi"></i></a>
+															</li>
+							                            <li class="hasnav hasnavon">
+								<a href="product.html">产品与解决方案<i class="headtopdivi"></i></a>
+																<ul class="top_bot top_bot42" id="bltzzbmpppt4">
+								    									<li class="top_botli">
+										<a href="product.html#product1" class="top_botal">产品<i class="top_botalie"></i></a>
+										    										<ul class="top_botul2 ">
+    										        											<li class="top_botlili"><a href="prod.html?cid=1" class="top_botal">曦思N系列</a></li>
+    											    											<li class="top_botlili"><a href="prod.html?cid=2" class="top_botal">曦云C系列</a></li>
+    											    											<li class="top_botlili"><a href="prod.html?cid=3" class="top_botal">曦彩G系列</a></li>
+    											    										</ul>
+    																		</li>
+																		<li class="top_botli">
+										<a href="product.html#product2" class="top_botal">解决方案<i class="top_botalie"></i></a>
+										    										<ul class="top_botul2 ">
+    										        											<li class="top_botlili"><a href="solution.html?cid=5" class="top_botal">智算</a></li>
+    											    											<li class="top_botlili"><a href="solution.html?cid=7" class="top_botal">数据分析</a></li>
+    											    											<li class="top_botlili"><a href="solution.html?cid=10" class="top_botal">云游戏与元宇宙</a></li>
+    											    										</ul>
+    																		</li>
+																		<li class="top_botli">
+										<a href="product.html#product3" class="top_botal">异构计算平台<i class="top_botalie"></i></a>
+										    										<ul class="top_botul2 top_botul3">
+    										        											<li class="top_botlili"><a href="platform.html?cid=4" class="top_botal">MXMACA运算平台</a></li>
+    											    										</ul>
+    																		</li>
+																	</ul>
+															</li>
+							                            <li class="hasnav hasnavon">
+								<a href="serve.html">支持与服务<i class="headtopdivi"></i></a>
+																<ul class="top_bot top_bot43">
+								    									<li class="top_botli">
+										<a href="serve.html" class="top_botal">资料下载</a>
+																			</li>
+																	</ul>
+															</li>
+							                            <li class="hasnav hasnavon">
+								<a href="news.html">新闻中心<i class="headtopdivi"></i></a>
+																<ul class="top_bot top_bot66">
+								    									<li class="top_botli">
+										<a href="news.html?cid=11" class="top_botal">企业新闻</a>
+																			</li>
+																		<li class="top_botli">
+										<a href="news.html?cid=76" class="top_botal">媒体报道</a>
+																			</li>
+																		<li class="top_botli">
+										<a href="news.html?cid=77" class="top_botal">智算芯闻</a>
+																			</li>
+																	</ul>
+															</li>
+							                            <li class="hasnav hasnavon">
+								<a href="join2.html">招贤纳士<i class="headtopdivi"></i></a>
+																<ul class="top_bot top_bot44">
+								    									<li class="top_botli">
+										<a href="join2.html" class="top_botal">生活在沐曦</a>
+																			</li>
+																		<li class="top_botli">
+										<a href="join.html" class="top_botal">加入沐曦</a>
+																			</li>
+																	</ul>
+															</li>
+							                            <li class="hasnav hasnavon">
+								<a href="about.html">关于沐曦<i class="headtopdivi"></i></a>
+																<ul class="top_bot top_bot46" id="bltzzbmpppt2">
+								    									<li class="top_botli">
+										<a href="about.html#toponea11" class="top_botal">公司介绍</a>
+																			</li>
+																		<li class="top_botli">
+										<a href="about.html#toponea2" class="top_botal">企业文化</a>
+																			</li>
+																		<li class="top_botli">
+										<a href="about.html#toponea4" class="top_botal">沐曦大事记</a>
+																			</li>
+																		<li class="top_botli">
+										<a href="about.html#toponea5" class="top_botal">企业社会责任</a>
+																			</li>
+																		<li class="top_botli">
+										<a href="contact.html" class="top_botal">联系我们</a>
+																			</li>
+																	</ul>
+															</li>
+							                            
+                        </ul>
+                    </div>
+					<div class="hdalogo clearfix fr">
+						<div class="mtoplsearch fl"><a href="search.html" class="hdasearch"></a></div>
+						<div class="mtoplauge1 fl subsidiary2">
+							<i class="fl"></i>
+							<div class="xjt fr"></div>
+							<ul class="subsidiary-nav2">
+				                <li><a href="en/ndetail/30.html">English</a></li>
+                                <li><a href="ndetail/30.html">中文简体</a></li>
+                    		</ul>
+						</div>
+							
+						<div class="logoas fl" style="background-image: url(img/logo.svg); width: 148px; height: 60px;"></div>
+					</div>
+                </div>
+            </div>
+        </div>  
+    <div class="ydtitleerdao1">	
+		<div class="popslide_screen clearfix">
+			<h3 class="shai_theme"><span>智算芯闻</span></h3>
+			<ul class="popUls">	
+			    					<li><a class="erjitieleon" href="news.html?cid=11">企业新闻</a></li>
+									<li><a class="erjitieleon" href="news.html?cid=76">媒体报道</a></li>
+									<li><a class="erjitieleon" href="news.html?cid=77">智算芯闻</a></li>
+							</ul>
+		</div>
+	</div>
+	
+	<div class="ydcpbaner1 ">
+		<div class="bannagreenfu ny15baner2 aos-init aos-animate" data-aos="fad" aos-easing="ease-in-quad" data-aos-delay="300" aos-duration="350">
+			<div class="wsbgimg"></div>
+			<div class="xxglobalbg"></div>	
+			<div class="mxpagebaner" style="background-image:url(uploads/nav/1681884996862493.jpg);">
+				<div class="mxpagebanertxt">
+					<p class="puben mxpagebanerp1">News</p>
+					<h3 class="pubcn mxpagebanerp2">新闻中心</h3>
+				</div>
+			</div>
+		</div>	
+	</div>
+
+
+<div class="aboveT news_detial abonea7style">
+    <div class="recent-details">
+        <div class="w1350 clearfix new02" style="position: relative;">
+            <div class="Recent-bgbox fl clearfix">
+                <div class="topRecent">
+                    <h5 class="wow fadeInUp delay_2s animated"><time>【智算芯闻】GPU：AI时代的核心算力之王</time></h5>
+                    <p class="subps wow fadeInUp delay_1s animated newdetailp"><span>时间：2021-08-30</span><span style="margin-left:25px;">来源：沐曦资深销售经理 王强</span></p>
+                    <div class="recent-desc wow fadeInUp delay_2s animated"><p>
+	纵观时代演进的脉络，从农业革命到工业革命再到知识革命，从远古结绳计数到古代珠算与机械计算再到现在的电子计算，数学一直是人类文明进步的主要力量。当今时代，算力作为新型生产力，数据作为新的生产要素，参与价值创造和分配，信息技术成为了驱动经济社会发展的基础动力。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	随着 5G、人工智能、云计算、大数据、IoT 等技术的推动，万物互联的时代即将到来，算力需求将越来越大，有望替代热力、电力，成为拉动数字经济向前发展的新动能、新引擎。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	本文将梳理人工智能的发展历程和关键要素，并聚焦人工智能芯片的种类和技术路线，详细阐述为什么 GPU 是 AI 时代的算力核心。
+</p>
+<p>
+	<br>
+</p>
+<p style="text-align:center;">
+	<img src="/upload/image/20210916/1631775248449739.png" title="1631775248449739.png" alt="图片1.png"> 
+</p>
+<h4 style="text-align:center;">
+	图1:&nbsp; 20世纪40年代起，人类社会进入知识革命时代
+</h4>
+<p>
+	<br>
+</p>
+<h3 style="text-align:center;">
+	<strong>人工智能与深度学习</strong> 
+</h3>
+<p>
+	<strong><br>
+</strong> 
+</p>
+<p>
+	人工智能(Artificial Intelligence)，是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。它起源于20世纪五六十年代，经过半个多世纪的演变，经历了符号主义、连接主义和行为主体三次浪潮的相互交织发展，到如今，作为一项新兴的通用技术，正在推动着社会生活与各行各业的巨变。现阶段人们普遍认为，<strong><span style="color:#660874;">深度学习+大规模计算+大数据=人工智能</span></strong>。
+</p>
+<p>
+	<br>
+</p>
+<p style="text-align:center;">
+	<img src="/upload/image/20210916/1631775404622371.png" title="1631775404622371.png" alt="图片2.png" width="666" height="443" style="width:666px;height:443px;"> 
+</p>
+<h4 style="text-align:center;">
+	图2: 人工智能发展的三次浪潮
+</h4>
+<p>
+	<span style="font-size:12px;"><em><br>
+</em></span> 
+</p>
+<p>
+	什么是深度学习？在人工智能领域，机器学习是其中的一个技术流派，通过从已知样本中提炼规律来获得判断未知样本的智能；深度学习则是机器学习的一种，它所学习出来的模型是深度神经网络。
+</p>
+<p>
+	<br>
+</p>
+<p style="text-align:center;">
+	<img src="/upload/image/20210916/1631775609445972.png" title="1631775609445972.png" alt="图片3-2.png" width="712" height="653" style="width:712px;height:653px;"> 
+</p>
+<h4 style="text-align:center;background:white;vertical-align:baseline;">
+	图3: 人工智能、机器学习、深度学习的关系
+</h4>
+<p style="background:white;vertical-align:baseline;">
+	<br>
+</p>
+<p>
+	具体来说，机器学习可以理解为机器从已知的经验数据（<span style="color:#660874;"><strong>样本</strong></span>）中，通过某种特定的方法（<strong><span style="color:#660874;">算法</span></strong>），自己去寻找提炼（<strong><span style="color:#660874;">训练/学习</span></strong>）出一些规律（<strong><span style="color:#660874;">模型</span></strong>）；提炼出的规律就可以用来判断一些未知的事情（<strong><span style="color:#660874;">预测</span></strong>），自2006年以来，机器学习领域深度学习（Deep Learning）取得了突破性的进展。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	深度学习是一种特殊的机器学习，在语音和图像识别方面取得的效果，远远超过先前相关技术。它通过学习将世界表示为嵌套的概念层次结构来实现强大的功能和灵活性，每个概念都是根据更简单的概念进行定义的，而更抽象的表示则用不那么抽象的概念计算出来。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	深度学习算法分<strong><span style="color:#660874;">「训练」</span></strong>和<strong><span style="color:#660874;">「推理」</span></strong>两个过程。简单来讲，人工智能需要以大数据为基础，通过「训练」得到各种参数（也就是模型），然后把模型传递给「推理」部分，得到最终结果。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	神经网络分为<strong><span style="color:#660874;">前向计算</span></strong>（包括矩阵相乘、卷积、循环层）和<strong><span style="color:#660874;">后向更新</span></strong>（主要是梯度运算）两类，「训练」是两者兼而有之，「推理」主要是前向计算，都包含大量并行运算。一般来说，「训练+推理」在云端进行，终端人工智能硬件只负责「推理」。
+</p>
+<p style="background:white;vertical-align:baseline;">
+	<br>
+</p>
+<p style="background:white;vertical-align:baseline;text-align:center;">
+	<br>
+</p>
+<p style="background:white;vertical-align:baseline;text-align:center;">
+	<img src="/upload/image/20210916/1631775795587167.png" title="1631775795587167.png" alt="图片4.png"> 
+</p>
+<h4 style="text-align:center;background:white;vertical-align:baseline;">
+	图4: 人工智能技术发展的里程碑事件
+</h4>
+<p style="background:white;vertical-align:baseline;">
+	<br>
+</p>
+<h3 style="text-align:center;">
+	<strong>算力：人工智能的核心要素</strong> 
+</h3>
+<p>
+	<strong><br>
+</strong> 
+</p>
+<p>
+	近年来，随着深度学习的推进，AI领域对算力的要求每年增加10倍左右。为了达到这个目标，我们需要处理大量的数据。因此，人工智能三大要素：算法、算力和大数据，缺一不可，都是人工智能能够实现大规模应用的必备条件。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	（一）<strong><span style="color:#660874;">数据</span></strong>。人类要获取一定的技能都必须经过不断的训练，才能熟能生巧，AI也是如此。人工智能的根基是训练，只有经过大量的训练，神经网络才能总结出规律，应用到新的样本上。只有拥有大量数据，且能覆盖各种可能的场景，才能得到一个表现良好的智能模型。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	（二）<strong><span style="color:#660874;">算力</span></strong>。有了数据之后，需要进行不断的重复的训练。深度学习中有三个概念叫<strong><span style="color:#660874;">Epoch(“一代训练”)，Batch（“一批数据”），Iteration（“一次训练”）</span></strong>。仅仅将训练集从头到尾训练一遍是不够的，需要把训练集翻来覆去训练很多轮。训练和推理都需要强大算力的支撑。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	（三）<strong><span style="color:#660874;">算法</span></strong>。神经网络算法和深度学习是目前最主流的人工智能算法。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	算力是人工智能的三大要素之一，需要芯片的支撑，这是人工智能进一步发展并实现产业化的关键。
+</p>
+<p>
+	<br>
+</p>
+<h3 style="text-align:center;">
+	<strong>芯片：人工智能竞争的制高点</strong> 
+</h3>
+<p>
+	<strong><br>
+</strong> 
+</p>
+<p>
+	AI芯片提供算力，承载算法，是实现人工智能的物理载体，因此是人工智能领域竞争的制高点。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	什么是AI芯片？从广义上说，所有面向AI应用的芯片都可以称为AI芯片，但目前人们普遍认为，AI芯片是针对AI算法做了特殊加速设计的芯片。AI深度学习需要很高的并行计算、浮点计算以及矩阵运算能力，基于CPU的传统计算架构无法充分满足人工智能高性能并行计算需求，因此需要发展适合AI架构的专属芯片。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	对于人工智能计算架构来说，CPU配合加速芯片的模式是典型的AI部署方案：CPU提供算力，加速芯片提升算力并助推算法的产生。常见的AI加速芯片按照技术路线可以分为<strong><span style="color:#660874;">GPU、FPGA、ASIC</span></strong>三类。其中，应用于图形、图像处理领域的GPU 可以并行处理大量数据，非常适合深度学习的高并行、高本地化数据场景，是目前主流的人工智能计算架构。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	•<span style="white-space:pre;"></span><strong><span style="color:#660874;">GPU</span></strong>用于大量重复计算，由数以千计的更小、更高效的核心组成大规模并行计算架构，配备GPU的服务器可取代数百台通用CPU服务器来处理高性能计算和AI业务。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	•<span style="white-space:pre;"></span><strong><span style="color:#660874;">FPGA</span></strong>是一种半定制芯片，灵活性强集成度高，但运算量小，量产成本高，适用于算法更新频繁或市场规模小的专用领域。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	•<span style="white-space:pre;"></span><strong><span style="color:#660874;">ASIC</span></strong>专用性强，适合市场需求量大的专用领域，但开发周期较长且难度极高。
+</p>
+<p>
+	<br>
+</p>
+<p style="text-align:center;">
+	<img src="/upload/image/20210916/1631775941500218.png" title="1631775941500218.png" alt="图片5.png" width="825" height="446" style="width:825px;height:446px;"> 
+</p>
+<h4 style="text-align:center;background:white;vertical-align:baseline;">
+	图5：GPU、FPGA、ASIC技术路线比较
+</h4>
+<p>
+	<br>
+</p>
+<h3 style="text-align:center;">
+	<strong>GPU：最适合AI深度学习的异构芯片</strong> 
+</h3>
+<p>
+	<strong><br>
+</strong> 
+</p>
+<h3>
+	<strong>（一）<span style="white-space:pre;"></span>GPU 与 GPGPU的定义</strong> 
+</h3>
+<p>
+	<strong><br>
+</strong> 
+</p>
+<p>
+	GPU（Graphics Processing Unit，图形处理器）是进行图像图形相关运算工作的微处理器，最初用途是将计算机系统需要显示的信息进行转换驱动，从而控制显示器的正确显示。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	GPGPU（General-Purpose Computing on Graphics Processing Units，通用计算图形处理器）用专门处理图形任务的处理器，运行图形渲染之外的通用计算任务，这些通用计算常常与图形处理没有任何关系。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	GPU的特点是并行处理能力强、计算能效比高，并且有很大的存储带宽。某些应用，例如人工智能（机器学习）模型训练与推理、高性能计算等，往往是大数据流应用，这时，用GPGPU解决这类问题，就比CPU效率更高，它对于用传统语言编写的、软件形式的计算有较好的支持，具有高度的灵活性。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	目前GPGPU广泛应用于高性能计算、行业AI应用、安防与政府项目、互联网及云数据中心等。其主要应用场景：一是人工智能模型训练与推理；二是高性能计算。
+</p>
+<p>
+	<br>
+</p>
+<p style="text-align:center;">
+	<img src="/upload/image/20210916/1631776086446007.png" title="1631776086446007.png" alt="图片6.png"> 
+</p>
+<h4 style="text-align:center;vertical-align:baseline;">
+	图6：GPU的广泛应用
+</h4>
+<p>
+	<br>
+</p>
+<h3>
+	<strong>（二）GPU的结构</strong> 
+</h3>
+<p>
+	<strong><br>
+</strong> 
+</p>
+<p>
+	由于CPU在图像渲染方面能力不足，GPU被发明出来分担这部分工作，在屏幕上进行多边形图像渲染，其本质就是并行处理简单任务：每个像素点的色彩可以独立计算，不需要考虑其它像素点。有了这样上千个简单的核心，再配合合适的代码，就能处理超大规模的数学运算，实现逼真的游戏体验。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	由于CPU有通用性的需求，其单个核心往往会设计得大而全；加上CPU计算的特性，核心中有很大一部分面积用来构建缓存（包含L1和L2两级缓存）和控制单元（解码器与分支预测等前端单元），实际用来运算的单元面积可能仅占整个核心的一半甚至不到。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	GPU的设计理念就不同，图形计算本身就是一项简单而暴力的“粗活”，复杂度远不如CPU要负责的各种不同类型的工作，想要提高图形计算速度最简单的办法就是扩大处理器中含有的单元数量。所以GPU对于特定的计算任务，因为拥有更大的计算单元，就很容易达到比CPU更高的计算速度，表现出来就是GPU在浮点运算吞吐量上远超CPU。
+</p>
+<p>
+	<br>
+</p>
+<h3>
+	<strong>（三）GPU是基于数据的并行计算</strong> 
+</h3>
+<p>
+	<strong><br>
+</strong> 
+</p>
+<p>
+	GPU的关键性能在于可以同时运算一些更简单的问题，然后并行处理，适用于高性能计算领域所涉及的诸如气象、宇宙模型和DNA序列等问题，以及数据库查询、密码学领域的暴力搜索、机器学习/深度学习、地理可视化等企业应用。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	GPU 并行编程的核心在于线程，一个线程就是程序中的一个单一指令流，无数个线程组合在一起就构成了并行计算网格，成为并行程序，下图展示了多核 CPU 与 GPU 的计算网格：
+</p>
+<p>
+	<br>
+</p>
+<p style="text-align:center;">
+	<img src="/upload/image/20210916/1631776157222307.png" title="1631776157222307.png" alt="图片7.png"> 
+</p>
+<h4 style="text-align:center;background:white;vertical-align:baseline;">
+	图7：多核 CPU 与 GPU 的计算网格对比
+</h4>
+<p style="background:white;vertical-align:baseline;">
+	<em><span style="font-size:13px;color:black;"><br>
+</span></em> 
+</p>
+<p style="background:white;vertical-align:baseline;">
+	<br>
+</p>
+<p>
+	并行计算有两种类型：一是<strong><span style="color:#660874;">基于任务的并行处理</span></strong>，这种模式将计算任务拆分成若干个小的但不同的任务，如有的运算单元负责取数，有的运算单元负责计算，等等，这样一个大的任务可以组成一道流水线。二是<strong><span style="color:#660874;">基于数据的并行处理</span></strong>，这种并行模式将数据分解为多个部分，让多个运算单元分别去计算这些小块的数据，最后再将其汇总起来。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	一般来说，CPU的多线程编程偏向于第一种并行模式，GPU并行编程模式则偏向于第二种，其对于数据的计算能力更加强大。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	<strong></strong> 
+</p>
+<h3 style="white-space:normal;">
+	（四）人工智能的研究者选择了GPU
+</h3>
+<p>
+	<br>
+</p>
+<p>
+	最初，并不是GPU选择了人工智能，而是人工智能的研究者选择了GPU，进而成就了GPU：2012年Alex Krizhevsky（前谷歌计算机科学家）利用深度学习+GPU的方案，一举赢得Image Net LSVRC-2010 图像识别大赛，并奇迹般地将识别成功率从74%提升到85%。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	NVIDIA敏锐地洞察到了这一趋势，于是耗费巨大的人力物力优化基于自家GPU的CUDA深度学习生态系统，在三年时间里将GPU性能提升了65倍，并提供基于其GPU的从后端模型训练到前端推理应用的全套深度学习解决方案，使得一般的开发人员都可以非常容易地使用GPU进行深度学习开发或高性能运算，从而奠定了其目前的王者之位。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	可以说，是人工智能和GPU互相成就了对方：人工智能算法促进GPU的发展，而GPU也让算法更加简单。
+</p>
+<p>
+	<br>
+</p>
+<p>
+	综上所述，GPU是AI时代的算力核心，但AI算力的构成不仅仅只是GPU加速芯片，还需要构建包括网络互联、操作系统、深度学习框架及相应 SDK、算法与应用程序等，形成一个完整的计算生态系统。
+</p></div>
+                </div>
+                    
+			</div>
+			<div id="tek-wrap-rightrail" class="xfcda fr" style="position: static; left: auto; width: 320px;">
+				<div class="N_right N_right2">
+					<ul class="u_list">
+					    						    <li class="new_list c "><a href="news.html?cid=11"><p>企业新闻</p></a></li>
+												    <li class="new_list c "><a href="news.html?cid=76"><p>媒体报道</p></a></li>
+												    <li class="new_list c on"><a href="news.html?cid=77"><p>智算芯闻</p></a></li>
+											</ul>
+				</div>
+				<div class="N_right N_right1">
+			  
+					<h4 class="xfxwtita">相关新闻</h4>
+					<ul class="u_list">
+					    							<li class="new_list c">
+								<a href="ndetail/12503.html">
+									<p>【智算芯闻】天气预报的进化史——从经验预测迈向理论指引和科学计算，再到拥抱人工智能</p>
+									<span class="newsspanonea">2024-06-07</span>
+								</a>
+							</li>
+													<li class="new_list c">
+								<a href="ndetail/12502.html">
+									<p>【智算芯闻】材料科学迈向AI4Materials的关键因素：密度泛函理论、GPGPU与人工智能（下）</p>
+									<span class="newsspanonea">2024-01-31</span>
+								</a>
+							</li>
+													<li class="new_list c">
+								<a href="ndetail/12501.html">
+									<p>【智算芯闻】材料科学迈向AI4Materials的关键因素：密度泛函理论、GPGPU与人工智能（上）</p>
+									<span class="newsspanonea">2023-12-29</span>
+								</a>
+							</li>
+											</ul>
+									  
+				</div>
+			</div>
+		</div>
+	</div>
+    <div class="w1350 clearfix  wow fadeInUp btn-sum animated delay_2s ">
+        <p class="fl"><a href="javascript:history.back(-1)">返回</a></p>
+        <p class="fr" style="margin-left: 20px;"><a href="/ndetail/12503.html">下一篇</a></p><p class="fr"><a href="/ndetail/33.html">上一篇</a></p>    </div>
+    
+</div>
+
+
+
+
+
+		
+<div class="hfoot"></div>
+<div id="comhfooter">
+    <div class="mxfoot05">
+    	<div class="mxfoot05m w1350">
+        	<div class="mxfoot05ma clearfix">
+            	<div class="mxfoot05mam1 fl">
+                	<img class="mxfoot05logo" src="img/bs.svg">
+                </div>
+            	<div class="mxfoot05mam2 fl">
+                	<ul class="clearfix mxfoot05mail">
+                                            	<li><span>国内商务合作 </span><em>Business@metax-tech.com</em></li>
+                                            	<li><span>国际商务合作 </span><em>International.Business@metax-tech.com</em></li>
+                                            	<li><span>媒体合作 </span><em>PR@metax-tech.com</em></li>
+                                            </ul>
+                </div>
+            	<div class="mxfoot05mam3 fr">
+                	<div class="mxfoot05nav">
+                        <a href="product.html">产品与解决方案</a>
+                        <a href="join2.html">招贤纳士</a>
+                        <a href="about.html">关于我们</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mxfoot05mb clearfix">
+            	<div class="mxfoot05mam1 mxfoot05mbfx fl">
+                	<a class="mxfoot05mbfxewm">
+    					<img class="mxfoot05mbfximg" src="img/weixinicon.png">
+    					<div class="mxfooterweima"><img src="img/weixinerweima.jpg"></div>
+    
+    				</a>
+                	<a href="https://space.bilibili.com/1251791492" target="blank"><img class="mxfoot05mbfximg" src="img/bilibili.png"></a>
+                </div>
+            	<div class="mxfoot05mam2 fl">
+                	<ul class="clearfix mxfoot05bq">
+                    	 <a href="statement.html">法律声明</a>
+                         <a href="contact.html">联系我们</a>
+                         <a href="sitemap.html">网站地图</a>
+                    </ul>
+                </div>
+            	<div class="mxfoot05mam3 fr">
+                	<div class="mxfoot05copy">©沐曦
+    				<a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">沪ICP备2020031767号-1</a> . <a target="_blank" href="https://www.vthinks.net/">Digital BY VTHINK</a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div> 
+        <div id="lower" class="bgd bgd-phone">
+<div id="lower" class="bgd bgd-phone">
+	<div class="phone_totop showMan"></div>
+	<div class="wide">
+		<div class="inner pt6 pb6">
+			<div class="contact pb6 pt3 flx flx-sb clearfix">
+				<div class="l w80">
+					<h4 class="w80mxfoot12"><img src="img/bs.svg" width="120"></h4>
+					<div class="phone-foot-adr">
+												<a>国内商务合作：Business@metax-tech.com</a>
+												<a>国际商务合作：International.Business@metax-tech.com</a>
+												<a>媒体合作：PR@metax-tech.com</a>
+											</div>
+					<!--<div class="dbgs ">-->
+					<!--	<div class="iconfont subsidiary icon-xiajiantou">-->
+					<!--		Global - English <i></i>-->
+					<!--		<ul class="subsidiary-nav2">-->
+				 <!--               <li><a href="/en">English</a></li>-->
+     <!--                           <li><a href="/index">中文简体</a></li>-->
+     <!--               		</ul>-->
+					<!--	</div>-->
+					<!--</div>-->
+					<div class="bot-contact-icon">
+						<p>关注沐曦</p>
+						<div class="mxfoot05mam1 mxfoot05mbfx fl">
+							<a class="mxfoot05mbfxewm">
+								<img class="mxfoot05mbfximg" src="img/weixinicon.png">
+								<div class="mxfooterweima"><img src="img/weixinerweima.jpg"></div>
+
+							</a>
+							<a href="https://space.bilibili.com/1251791492" target="blank"><img class="mxfoot05mbfximg" src="img/bilibili.png"></a>
+						</div>						
+												
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="foot-jas clearfix">
+			<div class="clearfix">
+				<ul class="clear-contain">
+                	 <a href="statement.html">法律声明</a>
+                     <a href="contact.html">联系我们</a>
+				</ul>
+			</div>
+			<p>©沐曦 <a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">沪ICP备2020031767号-1</a> <a href="https://www.vthinks.net/" target="_blank">&nbsp; By VTHINK</a></p>
+		</div>
+	</div>
+	</div>
+	</div> 
+
+</div>
+
+
+<script src="https://hm.baidu.com/hm.js?a8ec97aed74b5a10d53984ab7ebda229"></script><script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="js/smooth.min.js"></script>
+<script type="text/javascript" src="js/swiper-bundle.min.js"></script>
+<script type="text/javascript" src="js/aos.min.js"></script>
+<script type="text/javascript" src="js/jquery.stellar.min.js"></script>
+<script src="js/Sticky.js"></script>
+<script type="text/javascript" src="js/headFoot.js"></script>
+<script src="js/footer.js"></script>
+<script src="js/inde.js"></script>
+		
+<script type="text/javascript" src="layer/layer.js"></script>
+
+   
+   
+<script type="text/javascript" charset="utf-8">
+    
+            $('.submitS').click(function(){
+                var keyword = $('.head_m_key').val();
+                    if(keyword == ''){
+                        layer.msg("请输入您要搜索的关键词！",{offset: ['50%']});
+                        return false;
+                    }else{
+                        $('.head_m_key').val('');
+                        location.href = "search.html?keywords="+keyword;
+                    }
+            })
+            
+            $('.submitS').click(function(){
+                $('.head_m_key').val('');
+            })
+    
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a8ec97aed74b5a10d53984ab7ebda229";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+ 
+
+<script>
+	var Sticky = new hcSticky('.xfcda', {
+				stickTo: '.new02',
+				top: 160,
+				queries: {
+					980: {
+						disable: true
+					}
+				}
+			});
+	
+</script>
+
+
+
+
+</div></body></html>

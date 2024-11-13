@@ -1,0 +1,29 @@
+Server: CloudFront
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 13 Nov 2024 11:16:47 GMT
+Set-Cookie: AWSALB=fBkeTDZCG0e0nB8nOdEq0Ms5S5FK1nXQO9puYeGlXDInT/RTismd0d5aWMmdWvTFGP45rcl2sMapo+7BWu4yFovXk2d08yrrnm7ISPsCE6efq4QrUFOMi798/bNv; Expires=Wed, 20 Nov 2024 11:16:41 GMT; Path=/
+Set-Cookie: AWSALBCORS=fBkeTDZCG0e0nB8nOdEq0Ms5S5FK1nXQO9puYeGlXDInT/RTismd0d5aWMmdWvTFGP45rcl2sMapo+7BWu4yFovXk2d08yrrnm7ISPsCE6efq4QrUFOMi798/bNv; Expires=Wed, 20 Nov 2024 11:16:41 GMT; Path=/; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Auth-Group-Type: y-anoy
+Cache-Control: max-age=0, no-cache, no-store
+X-Drupal-Dynamic-Cache: UNCACHEABLE
+Link: <https://www.zaobao.com.sg/finance/singapore/story20240620-3952716?amp> rel="amphtml"
+X-Ua-Compatible: IE=edge
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Etag: W/"1731496601"
+X-Oag-Host: 15f50585e2178df9908661982ba9fa0fe15f5eff5010f2e058fd85178948dc01
+P3P: CP=HONK
+Content-Encoding: gzip
+Vary: Cookie,Accept-Encoding
+Vary: Origin
+X-Cache: Miss from cloudfront
+Via: 1.1 322fd7826352d6d295b7196056be4ec2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SIN2-P7
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: EqzCZLKtkp_kaI7byYVJo-Aczq54qvslDvz0zCMwpvrOL5_QqU8gEw==
+Referrer-Policy: strict-origin-when-cross-origin
+Server-Timing: cdn-upstream-layer;desc="REC",cdn-upstream-dns;dur=0,cdn-upstream-connect;dur=0,cdn-upstream-fbl;dur=6486,cdn-cache-miss,cdn-pop;desc="SIN2-P7",cdn-rid;desc="EqzCZLKtkp_kaI7byYVJo-Aczq54qvslDvz0zCMwpvrOL5_QqU8gEw==",cdn-downstream-fbl;dur=6507

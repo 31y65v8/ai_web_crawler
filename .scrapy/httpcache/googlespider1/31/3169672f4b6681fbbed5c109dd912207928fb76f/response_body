@@ -1,0 +1,372 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width">
+<title>AI人工智能技术分类是怎么样的？_小熊AI网</title>
+<meta name="description" content="人工智能涉及范围比较广泛，从技术的角度来分类的话，目前主要分为（此处参考2021、2020年的《中国人工智能技术应用成熟度白皮书》内容）：通用机器学习、AI 感知、AI 认知、AI 系统四大核心技术分类。本图为文心一言AI作图1.通用机器学习通用机器学习是一种自动化方法，可应用于广泛的任务和领域，无需进行大量特定领域的调整或修改。这种算法从数据中学习模式和规律，并利用这些学到的模式和规律进行预测、">
+<meta name="keywords" content="AI技术,人工智能技术,人工智能技术分类">
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform">
+<link rel="stylesheet" id="stylesheet-css" href="/template_ai/pc/skin/css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="/template_ai/pc/skin/css/style.min.css" type="text/css" media="all">
+<script src="https://hm.baidu.com/hm.js?8bf6622b38380afafbb47f79859c14b6"></script><script type="text/javascript" src="/template_ai/pc/skin/js/jquery.min.js"></script>
+<script type="text/javascript" src="/template_ai/pc/skin/js/jquery-migrate.min.js"></script>
+<link rel="stylesheet" href="/template_ai/pc/skin/css/index.css" type="text/css">
+<script> (function() {if (!/*@cc_on!@*/0) return;var e = "abbr, article, aside, audio, canvas, datalist, details, dialog, eventsource, figure, footer, header, hgroup, mark, menu, meter, nav, output, progress, section, time, video".split(', ');var i= e.length; while (i--){ document.createElement(e[i]) } })()</script>
+<!--[if lte IE 8]><script src="/template_ai/pc/skin/js/respond.min.js"></script><![endif]-->
+<script type="text/javascript" src="//ads-union.jd.com/pre?callback=callback&amp;pid=323901704761016672&amp;cuid=&amp;euid=&amp;cb=jd1731503397202&amp;t=1731503397202"></script></head>
+<body class="post-template-default single single-post postid-185570 single-format-standard el-boxed">
+<header class="header">
+  <div class="container clearfix">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar icon-bar-1"></span> <span class="icon-bar icon-bar-2"></span> <span class="icon-bar icon-bar-3"></span> </button>
+      <h1 class="logo"> <a href="https://www.xiaoxiong360.com" rel="home"><img src="/uploads/allimg/20230831/1-230S11FZ1B5.jpg" alt="小熊AI网"></a> </h1>
+    </div>
+    <div class="collapse navbar-collapse">
+      <nav class="navbar-left primary-menu">
+        <ul id="menu-%e5%af%bc%e8%88%aa" class="nav navbar-nav wpcom-adv-menu">
+          <li class="menu-item "><a href="https://www.xiaoxiong360.com">首页</a></li>
+                    <li class="menu-item dropdown "><a href="/html/AIindustry/" class="dropdown-toggle">AI行业</a>             <ul class="dropdown-menu menu-item-wrap menu-item-col-5">
+                            <li class="menu-item"><a href="/html/info/">行业快讯</a></li>
+                            <li class="menu-item"><a href="/html/industry/">行业观察</a></li>
+                            <li class="menu-item"><a href="/html/elite/">精英人物</a></li>
+                            <li class="menu-item"><a href="/html/case/">案例分享</a></li>
+                          </ul>
+             </li>
+                    <li class="menu-item dropdown "><a href="/html/track/" class="dropdown-toggle">观赛道</a>             <ul class="dropdown-menu menu-item-wrap menu-item-col-5">
+                            <li class="menu-item"><a href="/html/vup/">AI数字人</a></li>
+                            <li class="menu-item"><a href="/html/meta/">元宇宙</a></li>
+                            <li class="menu-item"><a href="/html/robot/">AI机器人</a></li>
+                            <li class="menu-item"><a href="/html/brain/">脑机接口</a></li>
+                          </ul>
+             </li>
+                    <li class="menu-item dropdown "><a href="/html/aishow/" class="dropdown-toggle">AI展台</a>             <ul class="dropdown-menu menu-item-wrap menu-item-col-5">
+                            <li class="menu-item"><a href="/html/company/">AI公司</a></li>
+                            <li class="menu-item"><a href="/html/product/">AI产品</a></li>
+                            <li class="menu-item"><a href="/html/aimodel/">AI大模型</a></li>
+                          </ul>
+             </li>
+                    <li class="menu-item dropdown "><a href="/html/tech/" class="dropdown-toggle">AI技术</a>             <ul class="dropdown-menu menu-item-wrap menu-item-col-5">
+                            <li class="menu-item"><a href="/html/hardware/">AI硬件技术</a></li>
+                            <li class="menu-item"><a href="/html/software/">AI软件技术</a></li>
+                          </ul>
+             </li>
+                    <li class="menu-item  "><a href="/html/record/">大咖说AI</a>  </li>
+                    <li class="menu-item  active"><a href="/html/QA/">一问一答</a>  </li>
+                    <li class="menu-item  "><a href="/html/aibaike/">AI百科</a>  </li>
+                    <li class="menu-item dropdown "><a href="/html/ITdigital/" class="dropdown-toggle">好玩数码</a>             <ul class="dropdown-menu menu-item-wrap menu-item-col-5">
+                            <li class="menu-item"><a href="/html/digital/">智能手机</a></li>
+                            <li class="menu-item"><a href="/html/watch/">智能手表</a></li>
+                            <li class="menu-item"><a href="/html/pad/">平板电脑</a></li>
+                          </ul>
+             </li>
+                    <li class="menu-item  "><a href="https://360.xiaoxiong360.com/">AIGC导航</a>  </li>
+                  </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div id="wrap">
+  <div class="wrap container">
+    <div class="main">
+      <ol class="breadcrumb entry-breadcrumb">
+        <li class="home" property="itemListElement" typeof="ListItem"><i class="fa fa-map-marker"></i>
+          <meta property="position" content="1">
+        </li>
+        <li property="itemListElement" typeof="ListItem"> <a href="/" class="">主页</a> &gt; <a href="/html/QA/">一问一答</a>          <meta property="position" content="2">
+        </li>
+      </ol>
+      <article id="post-185570" class="post-185570 post type-post status-publish format-standard hentry category-tuiguang category-yunying tag-871 tag-3713 special-tuiguang">
+        <div class="entry">
+          <div class="entry-head">
+            <h1 class="entry-title">AI人工智能技术分类是怎么样的？</h1>
+            <div class="entry-info"> 作者：<a class="nickname">小熊AI网</a> <span class="dot">•</span> <span>更新时间：2023-09-18</span> <span class="dot">•</span><span>阅读 <script src="/index.php?m=api&amp;c=Ajax&amp;a=arcclick&amp;type=view&amp;aids=651" type="text/javascript" language="javascript"></script>854</span> </div>
+          </div>
+          <div class="entry-content clearfix">
+<script type="text/javascript" src="/content_recommend.js"></script>
+            <p style="text-indent: 2em; text-align: left;">人工智能涉及范围比较广泛，从技术的角度来分类的话，目前主要分为（此处参考2021、2020年的《中国人工智能技术应用成熟度白皮书》<span style="text-indent: 2em;">内容）：<strong>通用机器学习</strong>、<strong>AI 感知</strong>、<strong>AI 认知</strong>、<strong>AI 系统</strong>四大核心技术分类。</span></p><p style="text-indent: 2em; text-align: left;"><span style="text-indent: 2em;"></span></p><p style="text-align: center;"><img src="/uploads/allimg/20230918/1-23091Q15215b3.jpg" alt="人工智能未来" width="334" height="254" border="0" vspace="0" title="人工智能未来" style="width: 334px; height: 254px;"></p><p style="text-indent: 2em; text-align: center;"><span style="text-indent: 2em;"></span><em>本图为文心一言AI作图</em></p><p style="text-indent: 2em; text-align: left;"><strong>1.通用机器学习</strong></p><p style="text-indent: 2em; text-align: left;"><strong>通用机器学习是一种自动化方法</strong>，可应用于广泛的任务和领域，无需进行大量特定领域的调整或修改。<strong>这种算法从数据中学习模式和规律，并利用这些学到的模式和规律进行预测、分类、聚类等各种任务</strong>。</p><p style="text-indent: 2em; text-align: left;">一些常见的通用机器学习算法包括：决策树、支持向量机(SVM)和神经网络等。</p><p style="text-indent: 2em; text-align: left;"><strong>2.AI感知</strong></p><p style="text-indent: 2em; text-align: left;"><strong>AI感知技术利用各种硬件设备（如摄像头、麦克风和其他传感器）将物理世界的信号转化为数字信息</strong>。</p><p style="text-indent: 2em; text-align: left;">通过语音识别、图像识别等技术，这些数字信息可以被进一步处理和解释，从而让AI系统能够理解和感知周围环境。AI感知技术帮助人工智能系统更好地理解和决策。例如，计算机视觉技术使AI能够识别图像和视频中的对象和场景，而语音识别技术则使AI能够理解和转化语音命令。自然语言处理技术则帮助AI理解和生成人类语言文本。</p><p style="text-indent: 2em; text-align: left;"><strong>3.AI认知</strong></p><p style="text-indent: 2em; text-align: left;"><strong>AI认知是指人工智能系统通过模拟人类的认知过程</strong>，实现对信息的理解、推理、学习和决策等高级智能功能。这需要自然语言处理、知识表示与推理、机器学习、深度学习等技术。</p><p style="text-indent: 2em; text-align: left;"><strong>AI认知系统可以从大量数据中学习和发现规律，从而理解和解决复杂问题</strong>。例如，智能客服、智能翻译、智能推荐和智能问答等应用都依赖AI认知技术。</p><p style="text-indent: 2em; text-align: left;">当前，通用人工智能（AGI）正在迅速发展，引发了建设通用人工智能基础设施的大潮，如大模型等，它们在认知层的记忆、理解、规划、决策等方面展现出强大的能力。这些能力在自然语言处理、计算机视觉、智能交通等领域得到了广泛的应用。</p><p style="text-indent: 2em; text-align: left;"><strong>4.AI 系统</strong></p><p style="text-indent: 2em; text-align: left;"><strong>AI系统是基于人工智能技术的计算机系统，可以模拟人类的智能行为和思维过程</strong>。这些系统可以通过感知、认知、推理和决策等环节，对外部环境进行感知和理解，并根据目标自主地进行决策和行动。</p><p style="text-indent: 2em; text-align: left;">AI系统的应用范围非常广泛，包括智能客服、智能翻译、智能推荐、智能问答、自动驾驶和智能制造等。随着人工智能技术的不断发展和应用，AI系统将在更多领域发挥关键作用。</p><p style="text-indent: 2em; text-align: left;">随着人工智能技术的发展，其技术分类必将具有更多维度。</p>            <div class="entry-copyright">
+              <p>本文由小熊AI网发布，不代表小熊AI网立场，转载联系作者并注明出处：https://www.xiaoxiong360.com/html/QA/651.html</p>
+            </div>
+          </div>
+          <div class="entry-footer">
+            <div class="entry-tag">  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=378">AI技术</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=596">人工智能技术</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=597">人工智能技术分类</a>  </div>
+            <div class="entry-bar fixed">
+              <div class="entry-bar-inner clearfix" style="width: 690px;">
+                <div class="info text-center">
+                  <div class="info-item share">
+                    <div class="bshare-custom icon-medium"><a title="分享到微信" class="bshare-weixin"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到QQ空间" class="bshare-qzone"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                    <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=1&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script> 
+                  </div>
+                  <div class="info-item act"> <a href="javascript:;" id="j-reading"><i class="fa fa-file-text"></i></a> </div>
+                </div>
+              </div>
+            </div>
+            <div class="entry-page">               <div class="entry-page-prev j-lazy" style="background-image: url(/template_ai/pc/skin/images/lazy.png);"> <a href="/html/QA/649.html"><span>我国为什么要进行算法备案？</span></a>
+                <div class="entry-page-info"> <span class="pull-left">« 上一篇</span> <span class="pull-right"></span> </div>
+              </div>
+                            <div class="entry-page-next j-lazy" style="background-image: url(/template_ai/pc/skin/images/lazy.png);"> <a href="/html/QA/660.html"><span>AI数字人与传统虚拟角色的不同点在哪里？</span></a>
+                <div class="entry-page-info"> <span class="pull-right">下一篇  »</span> <span class="pull-left"></span> </div>
+              </div>
+               </div>
+            <h3 class="entry-related-title">相关推荐</h3>
+            <ul class="entry-related clearfix">
+                            <li><a href="/html/QA/2148.html" title="比网络安全更重要，带你了解数智安全">比网络安全更重要，带你了解数智安全</a></li>
+                            <li><a href="/html/QA/1505.html" title="所谓“AI数据攻击”是怎么一回事？">所谓“AI数据攻击”是怎么一回事？</a></li>
+                            <li><a href="/html/QA/1452.html" title="AI视觉行为分析在”智能驾驶“中起到什么作用？">AI视觉行为分析在”智能驾驶“中起到什么作用？</a></li>
+                            <li><a href="/html/QA/1094.html" title="AIGC大模型为什么会出现”胡言乱语”">AIGC大模型为什么会出现”胡言乱语”</a></li>
+                            <li><a href="/html/QA/978.html" title="什么是边缘计算，使用场景如何？">什么是边缘计算，使用场景如何？</a></li>
+                            <li><a href="/html/QA/900.html" title="《人工智能训练师国家职业技能标准》详细介绍">《人工智能训练师国家职业技能标准》详细介绍</a></li>
+                            <li><a href="/html/QA/783.html" title="近亿用户在小程序里传递火炬是如何实现的？">近亿用户在小程序里传递火炬是如何实现的？</a></li>
+                            <li><a href="/html/QA/715.html" title="企业虚拟代言人：提升企业品牌的数字大使">企业虚拟代言人：提升企业品牌的数字大使</a></li>
+                            <li><a href="/html/QA/597.html" title="AI数字人真的具有自主意识吗？">AI数字人真的具有自主意识吗？</a></li>
+                            <li><a href="/html/QA/525.html" title="国外AI黑客数字人的进展怎么样？">国外AI黑客数字人的进展怎么样？</a></li>
+                          </ul>
+          </div>
+        </div>
+      </article>
+    </div>
+    <aside class="sidebar">
+  <div id="search-7" class="widget widget_search">
+    <h3 class="widget-title">搜索干货</h3>
+        <form method="get" class="search-form" action="/index.php?m=home&amp;c=Search&amp;a=lists" onsubmit="return searchForm();">
+      <input type="text" class="keyword" name="keywords" id="keywords" placeholder="输入关键词搜索..." value="">
+      <input type="submit" class="submit" value="">
+      <input type="hidden" name="m" value="home"><input type="hidden" name="c" value="Search"><input type="hidden" name="a" value="lists"><input type="hidden" name="method" value="1">    </form>
+     </div>
+  <div id="wpcom-post-thumb-2" class="widget widget_post_thumb">
+    <h3 class="widget-title">热门文章</h3>
+    <ul>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/1385.html" title="华为Huawei Watch GT4智能"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-2311031KQ1426.jpeg" width="480" height="300" alt="华为Huawei Watch GT4智能"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/1385.html" title="华为Huawei Watch GT4智能">华为Huawei Watch GT4智能</a></p>
+          <p class="item-date">2023年11月07日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/596.html" title="AI数字人会产生哪些新的工作岗位？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-23091411310N12.jpeg" width="480" height="300" alt="AI数字人会产生哪些新的工作岗位？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/596.html" title="AI数字人会产生哪些新的工作岗位？">AI数字人会产生哪些新的工作岗位？</a></p>
+          <p class="item-date">2023年09月15日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/744.html" title="学习AIGC，需要学习哪些数学知识？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-230922162545233.jpeg" width="480" height="300" alt="学习AIGC，需要学习哪些数学知识？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/744.html" title="学习AIGC，需要学习哪些数学知识？">学习AIGC，需要学习哪些数学知识？</a></p>
+          <p class="item-date">2023年09月22日</p>
+        </div>
+      </li>
+          </ul>
+  </div>
+  <!--
+    <div id="wpcom-image-ad-4" class="widget widget_image_ad"> <a href="https://www.xiaoxiong360.com/html/industry/" target="_blank"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/allimg/20231202/1-231202155U3O4.jpg"/> </a> </div>
+  --><!--京东AD-->
+  <div id="wpcom-image-ad-4" class="widget widget_image_ad">
+    <!--
+      <script type="text/javascript">var jd_union_pid="323901704761657656";var jd_union_euid="";</script><script type="text/javascript" src="//ads-union.jd.com/static/js/union.js"></script>-->
+<script type="text/javascript" src="/page_right_text.js"></script><a href="https://u.jd.com/l8pjyXx" target="_blank" rel="“nofollow”"><b style="color:red"> 华为nova12活力版</b>,6.88mm超薄潮美直屏！</a><br><a href="https://u.jd.com/lzpxHp9" target="_blank" rel="“nofollow”"><b style="color:red">红米Redmi K70</b> 第二代骁龙小米手机超红产品</a><br><a href="https://u.jd.com/luTdXpM" target="_blank" rel="“nofollow”"><b style="color:red"> nubia努比亚Z60 Ultra</b>屏下摄像6000mh超续航</a><br><a href="https://u.jd.com/lqTtFBN" target="_blank" rel="“nofollow”"><b> Redmi Note13Pro+</b>,<font style="color:red">2亿像素第二代1.5k高光屏</font></a><br><a href="https://u.jd.com/lsphj6W" target="_blank" rel="“nofollow”"><b> Redmi Pad SE红米平板</b>,<font style="color:red">11英寸90Hz高刷屏幕！</font></a><br><a href="https://u.jd.com/l8pkUG0" target="_blank" rel="“nofollow”"><b style="color:red"> 华为WATCH GT4智能手表</b>,最火爆的智能手表</a>
+
+  </div>
+  <div id="wpcom-post-thumb-8" class="widget widget_post_thumb">
+    <h3 class="widget-title">推荐文章</h3>
+    <ul>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/2148.html" title="比网络安全更重要，带你了解数智安全"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-23120Q62Z0956.jpeg" width="480" height="300" alt="比网络安全更重要，带你了解数智安全"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/2148.html" title="比网络安全更重要，带你了解数智安全">比网络安全更重要，带你了解数智安全</a></p>
+          <p class="item-date">2023年12月08日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/1505.html" title="所谓“AI数据攻击”是怎么一回事？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-231106152941556.jpeg" width="480" height="300" alt="所谓“AI数据攻击”是怎么一回事？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/1505.html" title="所谓“AI数据攻击”是怎么一回事？">所谓“AI数据攻击”是怎么一回事？</a></p>
+          <p class="item-date">2023年11月17日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/1452.html" title="AI视觉行为分析在”智能驾驶“中起到什么"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-2311130U259D6.jpeg" width="480" height="300" alt="AI视觉行为分析在”智能驾驶“中起到什么"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/1452.html" title="AI视觉行为分析在”智能驾驶“中起到什么">AI视觉行为分析在”智能驾驶“中起到什么</a></p>
+          <p class="item-date">2023年11月13日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/1094.html" title="AIGC大模型为什么会出现”胡言乱语”"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-230925140639424.jpeg" width="480" height="300" alt="AIGC大模型为什么会出现”胡言乱语”"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/1094.html" title="AIGC大模型为什么会出现”胡言乱语”">AIGC大模型为什么会出现”胡言乱语”</a></p>
+          <p class="item-date">2023年10月12日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/978.html" title="什么是边缘计算，使用场景如何？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-23100G43432107.jpeg" width="480" height="300" alt="什么是边缘计算，使用场景如何？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/978.html" title="什么是边缘计算，使用场景如何？">什么是边缘计算，使用场景如何？</a></p>
+          <p class="item-date">2023年10月07日</p>
+        </div>
+      </li>
+          </ul>
+  </div>
+    <div id="wpcom-image-ad-12" class="widget widget_image_ad"> <a href="https://www.xiaoxiong360.com/html/aishow/" target="_blank"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/allimg/20231202/1-231202160243636.jpeg"> </a> </div>
+    <div id="wpcom-post-thumb-3" class="widget widget_post_thumb">
+    <h3 class="widget-title">经典文章</h3>
+    <ul>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/1385.html" title="华为Huawei Watch GT4智能"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-2311031KQ1426.jpeg" width="480" height="300" alt="华为Huawei Watch GT4智能"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/1385.html" title="华为Huawei Watch GT4智能">华为Huawei Watch GT4智能</a></p>
+          <p class="item-date">2023年11月07日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/596.html" title="AI数字人会产生哪些新的工作岗位？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-23091411310N12.jpeg" width="480" height="300" alt="AI数字人会产生哪些新的工作岗位？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/596.html" title="AI数字人会产生哪些新的工作岗位？">AI数字人会产生哪些新的工作岗位？</a></p>
+          <p class="item-date">2023年09月15日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/744.html" title="学习AIGC，需要学习哪些数学知识？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-230922162545233.jpeg" width="480" height="300" alt="学习AIGC，需要学习哪些数学知识？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/744.html" title="学习AIGC，需要学习哪些数学知识？">学习AIGC，需要学习哪些数学知识？</a></p>
+          <p class="item-date">2023年09月22日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/2149.html" title="AI PC究竟是什么？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-231026113UMS.jpeg" width="480" height="300" alt="AI PC究竟是什么？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/2149.html" title="AI PC究竟是什么？">AI PC究竟是什么？</a></p>
+          <p class="item-date">2023年12月08日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/1820.html" title="小米14pro支持面容支付吗？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-231026225F0239.jpeg" width="480" height="300" alt="小米14pro支持面容支付吗？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/1820.html" title="小米14pro支持面容支付吗？">小米14pro支持面容支付吗？</a></p>
+          <p class="item-date">2023年11月27日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/1329.html" title="荣耀Magic VS2支持3D人脸识别解"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-231014101141410.jpeg" width="480" height="300" alt="荣耀Magic VS2支持3D人脸识别解"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/1329.html" title="荣耀Magic VS2支持3D人脸识别解">荣耀Magic VS2支持3D人脸识别解</a></p>
+          <p class="item-date">2023年11月01日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/670.html" title="抖音虚拟形象账号备案流程怎么样？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-230Z9111644346.jpeg" width="480" height="300" alt="抖音虚拟形象账号备案流程怎么样？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/670.html" title="抖音虚拟形象账号备案流程怎么样？">抖音虚拟形象账号备案流程怎么样？</a></p>
+          <p class="item-date">2023年09月19日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/380.html" title="抖音对数字人视频/直播有什么要求？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-230Z41G629146.png" width="480" height="300" alt="抖音对数字人视频/直播有什么要求？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/380.html" title="抖音对数字人视频/直播有什么要求？">抖音对数字人视频/直播有什么要求？</a></p>
+          <p class="item-date">2023年09月04日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/812.html" title="AI数字人是否会对人类产生情感依赖和信任"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-2309211R42O05.jpeg" width="480" height="300" alt="AI数字人是否会对人类产生情感依赖和信任"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/812.html" title="AI数字人是否会对人类产生情感依赖和信任">AI数字人是否会对人类产生情感依赖和信任</a></p>
+          <p class="item-date">2023年09月26日</p>
+        </div>
+      </li>
+            <li class="item">
+        <div class="item-img"> <a class="item-img-inner" href="/html/QA/901.html" title="杭州亚运会数字火炬手的原型是谁？"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/thumb/350_219/1-231003151115158.jpeg" width="480" height="300" alt="杭州亚运会数字火炬手的原型是谁？"> </a> </div>
+        <div class="item-content">
+          <p class="item-title"><a href="/html/QA/901.html" title="杭州亚运会数字火炬手的原型是谁？">杭州亚运会数字火炬手的原型是谁？</a></p>
+          <p class="item-date">2023年10月03日</p>
+        </div>
+      </li>
+          </ul>
+  </div>
+  <div id="tag_cloud-3" class="widget widget_tag_cloud">
+    <h3 class="widget-title">热门标签</h3>
+    <div class="tagcloud">  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1483" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="配置参数">配置参数</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1173" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="手机配置">手机配置</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=407" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="AI应用">AI应用</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=841" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="AI工具">AI工具</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1268" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="智能手表">智能手表</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=228" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="人工智能">人工智能</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1650" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="生产力工具">生产力工具</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1652" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="手表配置">手表配置</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=168" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="AI数字人">AI数字人</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=258" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="AI大模型">AI大模型</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=169" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="数字人直播">数字人直播</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1731" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="平板电脑配置">平板电脑配置</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=2115" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="摩尔线程">摩尔线程</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1666" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="写作工具">写作工具</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1457" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="稠密算力">稠密算力</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=488" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="世优科技">世优科技</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1570" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="AI深度合成视频">AI深度合成视频</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=2116" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="智算加速卡">智算加速卡</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=2131" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="Apollo阿波罗">Apollo阿波罗</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1534" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="数字孪生三维实景技术">数字孪生三维实景技术</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=2140" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="存储资源">存储资源</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1130" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="运动传感器">运动传感器</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1422" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="深度学习技术">深度学习技术</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=466" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="AI大模型参数">AI大模型参数</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1571" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="深度合成技术">深度合成技术</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1606" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="Video-LLaVA">Video-LLaVA</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=2066" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="数据投毒">数据投毒</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=2081" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="Krea">Krea</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1465" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="智慧家电">智慧家电</a>  <a href="/index.php?m=home&amp;c=Tags&amp;a=lists&amp;tagid=1607" class="tag-cloud-link tag-link-66 tag-link-position-1" style="font-size: 22pt;" aria-label="拼多多">拼多多</a>  </div>
+  </div>
+  <!--京东AD-->
+  <div id="wpcom-image-ad-5" class="widget widget_image_ad">
+   <script type="text/javascript">var jd_union_pid="323901704761016672";var jd_union_euid="";</script><script type="text/javascript" src="//ads-union.jd.com/static/js/union.js"></script><div><iframe scrolling="no" frameborder="0" width="300px" height="300px" src="//ads-union.jd.com/product?type=product&amp;pt=1&amp;unionId=2034032846&amp;siteId=4101197388&amp;mid=100049916305&amp;w=300&amp;h=300&amp;euid=&amp;cuid=&amp;pid=323901704761016672&amp;pvt=0&amp;pv=cc195360df7d41338b614fea4a9eedef&amp;cUnionId=&amp;extColumns=&amp;lpt=0&amp;charSet=UTF-8&amp;windowSize=300,300"></iframe><div></div></div>
+  </div>
+  <!--
+    <div id="wpcom-image-ad-5" class="widget widget_image_ad"> <a href="https://www.xiaoxiong360.com/html/industry/" target="_blank"> <img class="j-lazy" src="/template_ai/pc/skin/images/lazy.png" data-original="/uploads/allimg/20231202/1-231202155U3O4.jpg"/> </a> </div>
+   
+-->
+</aside>
+ </div>
+</div>
+<footer class="footer">
+  <div class="container">
+    <div class="clearfix">
+      <div class="footer-col footer-col-copy">
+        <ul class="footer-nav hidden-xs">
+          <li id="menu-item-109589" class="menu-item current-menu-item current_page_item menu-item-109589"><a href="https://www.xiaoxiong360.com" aria-current="page">首页</a></li>
+                    <li class="menu-item menu-item-373"><a href="/html/AIindustry/">AI行业</a></li>
+                    <li class="menu-item menu-item-373"><a href="/html/track/">观赛道</a></li>
+                    <li class="menu-item menu-item-373"><a href="/html/aishow/">AI展台</a></li>
+                    <li class="menu-item menu-item-373"><a href="/html/tech/">AI技术</a></li>
+                    <li class="menu-item menu-item-373"><a href="/html/record/">大咖说AI</a></li>
+                    <li class="menu-item menu-item-373"><a href="/html/QA/">一问一答</a></li>
+                    <li class="menu-item menu-item-373"><a href="/html/aibaike/">AI百科</a></li>
+                    <li class="menu-item menu-item-373"><a href="/html/ITdigital/">好玩数码</a></li>
+                    <li class="menu-item menu-item-373"><a href="https://360.xiaoxiong360.com/">AIGC导航</a></li>
+                   <li id="menu-item-109589" class="menu-item current-menu-item current_page_item menu-item-109589"><a href="/html/contact/" aria-current="page">联系我们</a></li>
+
+        </ul>
+        <div class="copyright">
+          <p>Copyright © 2002-2023 小熊网 版权所有&nbsp;&nbsp;网站备案号：<a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">渝ICP备2021000064号-1</a></p>
+        </div>
+      </div>
+      <div class="footer-col footer-col-sns">
+        <div class="footer-sns"> </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<div class="action" style="top:50%;">
+  <!--
+  <div class="a-box contact">
+    <div class="contact-wrap">
+      <h3 class="contact-title">联系我们</h3>
+      <p>在线咨询：<a href="http://wpa.qq.com/msgrd?v=3&uin=397014&site=qq&menu=yes" target="_blank" rel="noopener"><img class="alignnone" title="点击这里给我发消息" src="/template_ai/pc/skin/images/button_111.gif" alt="点击这里给我发消息" width="79" height="25" border="0" /></a></p>
+      <p>微信号：xiaoxiong360com</p>
+      <p>工作日：9:30-18:30，节假日休息</p>
+    </div>
+  </div>
+  <div class="a-box wechat">
+    <div class="wechat-wrap"> <img src="/uploads/allimg/20230901/1-230Z11Z640S4.png"> </div>
+  </div>
+-->
+  <div class="a-box gotop" id="j-top" style="display: none;"></div>
+</div>
+<style>
+.footer{padding-bottom: 20px;}
+</style>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcom_js = {"slide_speed":"4000","video_height":"482","TCaptcha":{"appid":"2003622980"},"errors":{"require":"\u4e0d\u80fd\u4e3a\u7a7a","email":"\u8bf7\u8f93\u5165\u6b63\u786e\u7684\u7535\u5b50\u90ae\u7bb1","pls_enter":"\u8bf7\u8f93\u5165","password":"\u5bc6\u7801\u5fc5\u987b\u4e3a6~32\u4e2a\u5b57\u7b26","passcheck":"\u4e24\u6b21\u5bc6\u7801\u8f93\u5165\u4e0d\u4e00\u81f4","phone":"\u8bf7\u8f93\u5165\u6b63\u786e\u7684\u624b\u673a\u53f7\u7801","sms_code":"\u9a8c\u8bc1\u7801\u9519\u8bef","captcha_verify":"\u8bf7\u70b9\u51fb\u6309\u94ae\u8fdb\u884c\u9a8c\u8bc1","captcha_fail":"\u70b9\u51fb\u9a8c\u8bc1\u5931\u8d25\uff0c\u8bf7\u91cd\u8bd5","nonce":"\u968f\u673a\u6570\u6821\u9a8c\u5931\u8d25","req_error":"\u8bf7\u6c42\u5931\u8d25"}};
+/* ]]> */
+</script> 
+<script type="text/javascript" src="/template_ai/pc/skin/js/main.js"></script> 
+<script type="text/javascript" src="/template_ai/pc/skin/js/wp-embed.js"></script> 
+<!-- 应用插件标签 start --> 
+  
+<!-- 应用插件标签 end -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8bf6622b38380afafbb47f79859c14b6";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</body></html>

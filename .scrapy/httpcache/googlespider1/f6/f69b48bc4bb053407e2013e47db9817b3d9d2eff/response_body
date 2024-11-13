@@ -1,0 +1,292 @@
+<!DOCTYPE html><html><head>
+    <title>新一代人工智能发展特点和主要应用领域 - 安全内参 | 决策者的网络安全知识库</title>
+    <meta name="keywords" content="人工智能,企业安全,政务信息安全,国家安全,大数据安全,最佳安全实践,首席安全官,漏洞,病毒木马蠕虫,勒索软件,安全管理,安全参考,互联网安全内参,securityinsight">
+    <meta name="description" content="本文将分析新一代人工智能发展的特点和主要行业应用领域。">
+    <meta property="og:url" content="https://www.secrss.com/article/10250">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="新一代人工智能发展特点和主要应用领域">
+    <meta property="og:description" content="本文将分析新一代人工智能发展的特点和主要行业应用领域。">
+    <meta property="og:image" content="https://www.secrss.com/logo.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link id="icon" rel="apple-touch-icon" href="https://www.secrss.com/logo.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.secrss.com/logo.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://www.secrss.com/logo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.secrss.com/logo.png">
+    <link rel="icon" id="favicon" href="https://www.secrss.com/logo.png" type="image/x-icon">
+    <link href="https://www.secrss.com/bower_components/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://www.secrss.com/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://www.secrss.com/css/navbar-customed.css" rel="stylesheet">
+    <link href="https://www.secrss.com/css/common.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://www.secrss.com/js/layer/theme/default/layer.css?v=3.1.1" id="layuicss-layer"></head>
+<body>
+<header class="header">
+    <nav class="navbar navbar-customed navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.secrss.com" title="首页">
+                    <div class="logo" style="width: 147px">
+                        <img src="https://www.secrss.com/logo_lg.png" alt="logo" style="height: 40px;">
+                    </div>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" style="width: 1080px;" id="navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="https://www.secrss.com"><span>首页</span></a>
+                    </li>
+                                        <li class="dropdown">
+                                                <a href="https://www.secrss.com/articles?tag=产业趋势"><span>产业趋势</span></a>
+                                                                    </li>
+                                        <li class="dropdown">
+                                                <a href="https://www.secrss.com/articles?tag=专家观察"><span>专家观察</span></a>
+                                                                    </li>
+                                        <li class="dropdown">
+                                                <a href="https://www.secrss.com/articles?tag=CISO洞察"><span>CISO洞察</span></a>
+                                                                    </li>
+                                        <li class="dropdown">
+                                                <a href="https://www.secrss.com/articles?tag=决策研究"><span>决策研究</span></a>
+                                                                    </li>
+                                    </ul>
+                <ul class="nav navbar-nav navbar-right">
+                                        <li><a href="https://www.secrss.com/login">登录/注册</a></li>
+                                        <!-- <li class="download-app"><a href="https://www.secrss.com/app"><span class="fa fa-mobile fa-2x"></span><span>APP下载</span></a> -->
+                    
+
+                    <li>
+
+                        <form class="navbar-form navbar-right" action="https://www.secrss.com/search">
+                            <div class="form-group form-group-sm search-bar">
+                                <input name="keywords" type="text" class="form-control" placeholder="搜索" required="">
+                                <button class="btn btn-sm search-btn" type="submit"><span class="fa fa-search"></span></button>
+                            </div>
+                        </form>
+
+                    </li>
+
+                </ul>
+                
+                    
+                        
+                        
+                    
+                
+            </div>
+        </div>
+    </nav>
+</header>
+    <section class="container main-container" style="min-height: 568px;">
+        <div class="row article-row">
+            <article class="article">
+                <h1>
+                    新一代人工智能发展特点和主要应用领域
+                </h1>
+                <div class="info text-info">
+                    <div class="meta">
+                        <div class="meta-left">
+                            <input type="hidden" name="_token" value="mgtVCap9P2Dl2615NLLU83Mn381on65x9sHgrTEZ">
+                                                            <span class="tag"><a href="https://www.secrss.com/articles?tag=人工智能" target="_blank">人工智能</a></span>
+                                                        <span class="author"><a target="_blank" style="color: #999" href="https://www.secrss.com/articles?author=网信军民融合">网信军民融合</a></span>
+                            <span class="time">2019-04-25</span>
+                        </div>
+                        <div class="meta-right">
+                                                            <a href="https://www.secrss.com/login" title="登录后才可以收藏，请先登录" style="padding-right: 10px"><i class="fa fa-heart-o" style="color: #bbb"></i></a>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="summary">
+                    本文将分析新一代人工智能发展的特点和主要行业应用领域。
+                </div>
+                                <div class="article-body">
+                    <p><strong>【编者按】</strong>今年的《政府工作报告》中首次提出“智能+”的概念，作为未来的重要基础性技术，人工智能已连续三年出现在《政府工作报告》中。当前，人工智能技术已经被广泛应用于实体经济和社会治理的各个领域，可以预见，随着新一代人工智能、大数据等技术的深入应用，生产生活的数字化转型是大势所趋，将全面支撑我国科技、经济、社会发展和国家安全，有望形成技术、应用和产业的多赢局面。</p><p></p><p></p><p style="text-align: center;"><strong>新一代人工智能发展特点和主要应用领域</strong></p><p style="text-align: center;"><strong></strong><strong>北京赛智时代信息技术咨询有限公司 赵刚</strong></p><p><strong></strong></p><p><strong></strong></p><p>2019年3月19日，中央全面深化改革委员会第七次会议审议通过了《关于促进人工智能和实体经济深度融合的指导意见》。会议指出，促进人工智能和实体经济深度融合，要把握新一代人工智能发展的特点，坚持以市场需求为导向，以产业应用为目标，深化改革创新，优化制度环境，激发企业创新活力和内生动力，结合不同行业、不同区域特点，探索创新成果应用转化的路径和方法，构建数据驱动、人机协同、跨界融合、共创分享的智能经济形态。在2019 年的政府工作报告中也明确提出打造工业互联网平台，拓展“智能+”，为制造业转型升级赋能。“智能+”上升成为国家战略，推进“智能+”的发展将成为经济高质量发展的一个重要拉动力。本文将分析新一代人工智能发展的特点和主要行业应用领域。</p><p><img src="https://s.secrss.com/anquanneican/6aab8db147a14e1f13b4053f7b16771a.jpg"></p><p style="text-align: center;"><strong>一、新一代人工智能的发展特点</strong></p><p>以工业互联网平台为基础，“智能+”将有效地赋能制造业的数字化转型，“智能+”的内涵和作用域也随着技术和业务的发展存在多种组合，其中人工智能技术的快速发展必将作为“智能+”核心作用力而存在。经初步研究，人工智能技术发展已进入新时代，其将引发认知、决策与执行的新能力。新一代人工智能的发展具有如下特点：</p><p><strong>（一）人类社会正在进入智能化时代</strong></p><p>互联网、移动通信、物联网、云计算、大数据、人工智能、区块链等信息技术正在引发新一轮科技革命，推动人类社会逐步进 入智能化时代。<strong>智能化是信息化发展的高级阶段，是继数字化、网络化后重要的人类社会发展趋势。</strong>在智能化时代，人类社会将逐步转向以智能网络为新基础设施、以数据资源为新生产要素、以“机器智能+人类智慧”为新型生产力、以智能经济体为主要经济形态、人机物融合发展的社会形态，将构建一个万物互联、数据驱动、人机协同、跨界融合、共创分享的生态系统。</p><p><strong>（二）新一代人工智能正在实现从感知智能向认知智能的跃迁</strong></p><p><strong>自1956年人工智能技术提出以来，经历了计算智能、感知智能和认知智能三个发展阶段。</strong>计算智能阶段重点突破大规模的逻辑计算，以机器代码模拟人的思考过程。感知智能阶段，重点突破机器采集与识别，主要特点是让机器能看会认。认知智能阶段，主要研究深度学习与智能机器人，主要特点是让机器能想会做。目前，人工智能技术正在实现从感知智能向认知智能的跃迁。</p><p style="text-align: center;"><img src="https://s.secrss.com/anquanneican/35df66f8a58479c4c6ef85526f8114ff.jpg"></p><p style="text-align: center;">新一代人工智能的演变</p><p><strong>（三）新一代人工智能本质上是基于深度神经网络的认知智能</strong></p><p>逻辑理性是可以通过物理计算过程实现的，这个观念在 20 世纪艾伦·图灵在理论上所证实，他提出“简单的机器可以完成任何计算”。在 20 世纪80 年代，神经网络的研究者们进一步为该理念搭建起了模型——神经网络学习模型，揭示出由简单的神经元搭建而成的神经网络可以实现很复杂的功能。但由于当时计算机运算速度很慢，只能模拟几百个神经元模型。Geofrey Hinton 在 2006 年提出了深度学习的算法，提出多隐层的人工神经网络具有优异的特征学习能力，学习得到的特征对数据有更本质的刻画。深度神经网络在训练上的难度，可以通过“逐层初始化”来有效克服。输入层和输出层之间的隐藏单元层越多，从训练数据中学习到的抽象特征就越多。随着网络规模和深度的增加，对计算机性能和训练数据量有了更高的要求。近五年来，人工智能的快速发展得益于计算机计算能力的指数级提升、互联网和物联网所汇聚形成的海量数据资源。在算力和数据的支持下，当前神经网络模型已经扩大到了12 层的深度，有数十亿个连接点，其优异表现使得计算机视觉识别和语音识别准确率大幅提升，甚至超越了人类，并且深度学习算法也能大幅提升自然语言处理能力。</p><p><strong>（四）基于互联网的全球性人工智能（超级大脑）正在形成</strong></p><p>近年来，随着互联网、移动通信、物联网、云计算、大数据等技术的发展，人工智能加速发展，呈现出深度学习、跨界融合、人机协同、群智开放、自主操控等新特征，大数据驱动知识学习、跨媒体协同处理、人机协同增强智能、群体集成智能、自主智能系统成为人工智能的发展重点，受脑科学研究成果启发的类脑智能蓄势待发，芯片化、硬件化、平台化趋势更加明显，人工智能技术发展进入新阶段。未来，全球性的人工智能网络将形成，这是一个构建在万物互联、数据高速海量流动、大数据汇聚融合、高性能计算能力、深度学习算法基础上的一种网络化的全球性智能。<strong>第一是万物互联（AIoT），</strong>每一个物体被数字化、网络化和智能化，具备自身的通信、感知和计算能力，连接到互联网上。<strong>第二是数据高速海量流动，</strong>通过光纤网络、5G移动通信网络等构建起无处不在的连接。<strong>第三是大数据汇聚融合，</strong>对大数据量、复杂数据类型的快速分析。第四是高性能计算，通过量子计算、芯片级计算、内存计算、分布式集群计算、流计算等技术，在不同层级上指数级提升计算能力。第五是逐步加深的深度学习算法，构建起多隐层的人工神经网络，大幅提升特征学习能力。这将构建起一个全球网络下的“超级大脑”，新一代人工智能+应用将是在这个超级大脑基础上的复杂大系统的自组织工程，是一个社会性的应用工程。</p><p style="text-align: center;"><img src="https://s.secrss.com/anquanneican/f0ab0a4385f58e4173d97ce361e09ff6.jpg"></p><p style="text-align: center;">智能化时代</p><p><strong>（五）新一代人工智能+应用的根本目的是解放人类“繁琐或力所不及的劳动”</strong></p><p>2016 年，美国发布《国家人工智能研究与发展策略规划》和实施计划，认为人工智能有可能彻底改变人类生活、工作、学习、发现和沟通的方式，可以促进经济繁荣、改善教育机会、提高生活质量、强化国土安全。新一代人工智能的应用根本目的是给人类“找帮手”，让人类从繁琐的劳动中解放出来，或者提供人类生命力所不能及的劳动。从这个目的出发，新一代人工智能+的应用可以被分为四类。<strong>一是海量重复性认知工作替代，</strong>当前的人工智能技术在语音识别、图像识别方面的准确率已经很高，完全可以替代海量的语音识别、图像识别、视频识别工作，通过人工智能算法已经可以对图像自动添加标题。深度学习结合知识图谱等技术，对自然语言理解的处理能力也将大幅提升，逐步替代繁琐的文档检索、翻译等手工工作。<strong>二是人类在空间维度上力所不及的劳动替代，</strong>如在微观环境、危险环境、太空环境等应用场景下的工作。<strong>三是人类在时间维度上力所不及的劳动替代，</strong>如在微秒级、毫秒级等应用场景下的工作。<strong>四是承担临时性工作代理，</strong>以便于让人类生活更轻松和幸福，如自动驾驶、智能服务等。但总体上，新一代人工智能+应用是帮助人类而不是取代人类。</p><p style="text-align: center;"><strong>二、新一代人工智能+的主要应用领域</strong></p><p>新一代人工智能应用的浪潮才刚刚开始，这一轮人工智能技术变革所带来的影响可能会持续30年以上。当前，围绕着语音识别、计算机视觉识别和自然语言理解的突破，人工智能技术被广泛应用在实体经济和社会治理的各个领域。目前，<strong>取得较好应用的领域包括：</strong><strong>智能+公安和安防、智能网联汽车、智能机器人、智能+制造、智能+金融、智能+医疗、城市大脑等。</strong></p><p><strong>（一）智能+公安和安防</strong></p><p>近些年，随着“平安城市”建设工程的全面推进，视频摄像头遍布城市的各个角落。这些摄像头采集了大量视频数据，为智能+公安应用奠定了基础。通过推动公共安全视频监控联网整合，利用计算机视觉技术处理视频数据，将实现视频图像快速检索和定位，构建起智能化的科技防控网络，提升侦查破案、治安防控、社会管理、服务群众等能力。在安防领域，由于视频识别和人像识别技术的准确率已经达到商业化水平，大量视频识别、生物特征识别和人脸识别仪被公安部门、银行、机场和大型公司等采用。随着人工智能成熟度的进一步加强，很多智能+安防产品将逐步在更多政用、商用和民用领域进行应用，进入社区、学校、工业园区等。总之，智能+公安和安防是近期我国智能+应用的重要市场。</p><p><strong>（二）智能网联汽车</strong></p><p>智能网联汽车是车联网与智能车的有机联合，是搭载先进的车载传感器、控制器、执行器等装置，并融合现代通信与网络技术、语音识别、视觉识别、深度学习等技术，实现车与人、车、路、后台等智能信息交换共享，实现安全、舒适、节能、高效行驶，并最终可替代人来操作的新一代汽车。2018 年 12月，工业和信息化部印发了《车联网（智能网联汽车）产业发展行动计划》，大力推进智能网联汽车的产业发展。2018 年，我国新能源汽车产量突破100 万辆，进一步带动智能网联汽车发展。智能网联汽车潜在市场价值巨大，将成为智能+应用最为活跃的领域，当前百度、小马智行、初速度等企业基于人工智能的自动驾驶解决方案已经逐步启动商用。</p><p><strong>（三）智能机器人</strong></p><p>工业机器人和服务机器人也是“智能+”的主要应用场景。在工业机器人领域，随着机器人传感系统、视觉系统等技术的发展，推动机器人本体、控制器、减速器、伺服电机等关键零部件产品研发和技术攻关，构建起自主可控的智能工业机器人的设计和制造能力。在服务型机器人领域，随着语音和人机交互技术的发展，将推动迎客服务、家庭服务、教育、娱乐、医疗康复等特定场景的服务型机器人的发展。</p><p><strong>（四）智能+制造</strong></p><p>《中国制造 2025》提出以工业互联网为基础，通过在设计、供应链、制造和服务各环节实现端到端无缝协作的智能工业生态系统，以推进信息化和工业化深度融合为主线，大力发展智能制造，构建信息化条件下的产业生态体系和新型制造模式。工业企业将基于新一代信息通信技术与先进制造技术深度融合，构建贯穿设计、生产、管理、服务等制造活动各个环节的具备自感知、自学习、自决策、自执行、自适应等功能的新型生产方式。工业企业不断加快智能制造技术的研发和应用，通过运用工业机器人、视频识别系统等，建设智能生产线、智能工厂，发展智能设计、智能生产、智能服务和智能运营，打造“工业大脑”，全面提升工业企业生产效率。</p><p><strong>（五）智能+金融</strong></p><p>世界主要发达国家都把人工智能作为提升国家竞争力、维护国家安全的重大战略，通过人工智能与金融的全面融合，将赋能金融机构，提升金融服务效率，拓展金融服务广度和深度，使得全社会都能获得平等、高效、专业的金融服务。人工智能技术在金融领域的不断应用，推动了智能高频交易、智能投顾、智能征信、智能风控等新型金融科技服务的发展。</p><p><strong>（六）智能+医疗</strong></p><p>医疗健康是人工智能应用的重要领域，基于计算机视觉、机器人、医疗大数据等技术，开发智能医疗影像、智能医疗问诊和治疗系统、智能医疗机器人、智能医疗设备、智能药物挖掘、智能医疗可穿戴产品等方面的新业态和新产品，打造数字化的“医疗大脑”。<strong>首先是推进智能医疗影像应用，</strong>在医学影像中应用图像识别、机器学习等技术，提高医学影像自动识别和诊断能力，提高早期病患的预报能力。<strong>第二，推进各类医疗服务机器人在医疗、助老助残、康复等领域的应用。</strong><strong>第三，在诊断治疗方面，</strong>加快人工智能技术在医疗问诊、临床、科研和疑难疾病诊断等方面应用，开展人机协同临床智能诊疗方案应用试点，推进基因芯片和测序技术在遗传性疾病诊断、癌症早期诊断和疾病预防检测中的应用。<strong>第四是发展智能医疗可穿戴产品，</strong>推进智能血糖仪、智能血压计、智能心电仪、智能胎心仪、智能温度计、智能健康秤、智能孕表、智能肌肤检测仪、智能腕带、智能手表、智能手环等智能医疗可穿戴产品应用。<strong>第五是发展智能药物挖掘，</strong>推进深度学习等技术应用于药物临床前研究，推动快速、准确地挖掘和筛选合适的化合物或生物，提高新药研发成功率。</p><p><strong>（七）城市大脑</strong></p><p>城市大脑是群体智能发挥作用的重要场景。通过将城市各个角落的数据连接、分析和整合，对城市进行全域即时分析、指挥、调动、管理。通过加强新型智慧城市建设与各领域智能应用的协调推进、综合集成，利用市民出行、交通流量、城市基础设施等大数据资源分析和深度学习技术，推进城市综合管理智能化，建设智能城市综合管理与决策系统，构建城市大脑。</p><p style="text-align: center;"><strong>三、结语</strong></p><p>人工智能是引领未来的战略性技术，已成为国际竞争的新焦点。人工智能也是新一轮产业变革的核心驱动力，其相关学科发展、理论建模、技术创新、软硬件升级等整体推进正在引发链式突破。人工智能的纵深发展将催生新技术、新产品、新产业、新业态、新模式，并实现社会生产力的整体跃升，推动经济社会各领域从数字化、网络化向智能化加速跃升。未来，随着人工智能技术链和产业链的深度融合，新一代人工智能将全面支撑我国科技、经济、社会发展和国家安全，有望形成技术、应用和产业的多赢局面。</p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><strong></strong></p><p><em>本文刊登于《网信军民融合》杂志2019年3月刊</em></p><p></p>
+
+                    
+                    <p style="color: #999; font-size: 14px;padding-top: 15px">声明：本文来自网信军民融合，版权归作者所有。文章内容仅代表作者独立观点，不代表安全内参立场，转载目的在于传递更多信息。如有侵权，请联系 anquanneican@163.com。</p>
+                </div>
+                                <div class="tags article-tags">
+                                        <a href="https://www.secrss.com/articles?tag=人工智能" class="tag" target="_blank">人工智能</a>
+                                    </div>
+                                                <section class="article-list">
+                    <div class="article-list-title">相关资讯</div>
+                    <ul class="list" id="article-list">
+                        <li class="list-item">
+    <div class="info text-info">
+        <h2 class="title">
+            <a target="_blank" href="https://www.secrss.com/articles/72203">
+                一句话让大模型聊天助手主动泄露对话敏感信息
+            </a>
+        </h2>
+        <div class="meta">
+            <div class="meta-left">
+                                    <span class="tag"><a target="_blank" href="https://www.secrss.com/articles?tag=人工智能">人工智能</a></span>
+                                <span class="author"><a target="_blank" style="color: #999" href="https://www.secrss.com/articles?author=安全内参">安全内参</a></span>
+                <span class="time">2024-11-08</span>
+            </div>
+        </div>
+        <p class="intro hidden-xs">
+            <a target="_blank" href="https://www.secrss.com/articles/72203">
+                研究人员开发了一种算法，可将恶意提示词转换为一组隐藏指令，进而要求大模型将用户的对话敏感信息发送给攻击者；该研究测试法国公司Mistral AI的LeChat和中国公司智谱的Ch...
+            </a>
+        </p>
+    </div>
+</li><li class="list-item">
+    <div class="info text-info">
+        <h2 class="title">
+            <a target="_blank" href="https://www.secrss.com/articles/72142">
+                特朗普当选会对美国AI监管带来什么影响？
+            </a>
+        </h2>
+        <div class="meta">
+            <div class="meta-left">
+                                    <span class="tag"><a target="_blank" href="https://www.secrss.com/articles?tag=人工智能">人工智能</a></span>
+                                <span class="author"><a target="_blank" style="color: #999" href="https://www.secrss.com/articles?author=上海市人工智能与社会发展研究会">上海市人工智能与社会发展研究会</a></span>
+                <span class="time">2024-11-07</span>
+            </div>
+        </div>
+        <p class="intro hidden-xs">
+            <a target="_blank" href="https://www.secrss.com/articles/72142">
+                随着特朗普将成为美国第47任美国总统、共和党控制参议院，美国的人工智能监管政策将会迎来巨大的变化。
+            </a>
+        </p>
+    </div>
+</li><li class="list-item">
+    <div class="info text-info">
+        <h2 class="title">
+            <a target="_blank" href="https://www.secrss.com/articles/72120">
+                Ollama AI框架被曝严重漏洞，可导致DoS、模型盗窃和中毒
+            </a>
+        </h2>
+        <div class="meta">
+            <div class="meta-left">
+                                    <span class="tag"><a target="_blank" href="https://www.secrss.com/articles?tag=漏洞">漏洞</a></span>
+                                <span class="author"><a target="_blank" style="color: #999" href="https://www.secrss.com/articles?author=看雪学苑">看雪学苑</a></span>
+                <span class="time">2024-11-06</span>
+            </div>
+        </div>
+        <p class="intro hidden-xs">
+            <a target="_blank" href="https://www.secrss.com/articles/72120">
+                共发现6个漏洞。
+            </a>
+        </p>
+    </div>
+</li>                    </ul>
+                </section>
+                
+                <!-- <section class="comments">
+                    <h3 class="comments-title text-center">评论（0）</h3>
+                    <div class="comment-box">
+                                                    <div class="text-center comment-login-box">
+                            登录后才能发表评论，请先 <a class="login-btn" href="https://www.secrss.com/login">登录 / 注册</a>
+                            </div>
+                                            </div>
+                                    </section> -->
+
+
+            </article>
+        </div>
+    </section>
+<footer class="footer">
+    <ul class="links">
+                        <li><a href="https://www.secrss.com/info/about">关于我们</a></li>
+                <li><a href="https://www.secrss.com/info/contactus">联系我们</a></li>
+                <li><a href="https://www.secrss.com/info/agreement">用户协议</a></li>
+                <li><a href="https://www.secrss.com/info/privacy">隐私政策</a></li>
+                        <!-- <li><a href="https://www.secrss.com/app">移动客户端</a></li> -->
+    </ul>
+    <p class="meta"><span>安全内参 © 2024 <a href="https://beian.miit.gov.cn" style="color: #707682;" target="_blank">沪ICP备19008222号-1</a></span></p>
+</footer>
+<div class="right-tools hidden-xs">
+    <a class="qrcode">
+        <i class="fa fa-qrcode"></i>
+        <div class="qrcode-box">
+            <img src="https://www.secrss.com/wx_qrcode.jpg" width="100">
+            <p class="text-center">微信公众号</p>
+        </div>
+    </a>
+    <a class="gototop" style="display: none;">
+        <i class="fa fa-angle-double-up"></i>
+        <div class="gototop-box">回到顶部</div>
+    </a>
+</div>
+<script src="https://hm.baidu.com/hm.js?75bd0223beb9520a49897a3bfbefa004"></script><script src="https://www.secrss.com/js/app.js"></script>
+<script src="https://www.secrss.com/bower_components/jquery_lazyload/jquery.lazyload.js"></script>
+<script src="https://www.secrss.com/js/common.js"></script>
+<script>
+    $("img.lazyload").lazyload();
+</script>
+<script src="https://www.secrss.com/js/layer/layer.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+<script>
+    $(".article-body a").attr("target", "_blank");
+    /* 评论 */
+    // $(".comment-btn").click(function(){
+    //     var content = $("#comment-content").val();
+    //     if(content=="") {
+    //         $("#comment-content").focus();
+    //         return;
+    //     }
+
+    //     var article_id = $(this).attr("data-article_id");
+    //     $.post('/article_comments', {"content":content, "article_id":article_id, "_token": $("input[name=_token]").val()}, function(re){
+    //         if(re) {
+    //             layer.msg(re.msg);
+    //             $("#comment-content").val("");
+    //         }
+    //     });
+    // });
+    /*收藏*/
+    $("#star").click(function () {
+        var article_id = $(this).attr("data-article_id");
+        $.post('/article_stars', {"article_id":article_id, "_token": $("input[name=_token]").val()}, function(re){
+            if(re) {
+                layer.msg(re.msg);
+                window.location = location.href;
+            }
+        });
+    });
+
+    /*取消收藏*/
+    $("#unstar").click(function () {
+        var article_id = $(this).attr("data-article_id");
+        $.post('/article_unstars', {"article_id":article_id, "_token": $("input[name=_token]").val()}, function(re){
+            if(re) {
+                layer.msg(re.msg);
+                window.location = location.href;
+            }
+        });
+    });
+
+    /* 微信分享 */
+    wx.config({"debug":false,"beta":false,"jsApiList":["onMenuShareTimeline","onMenuShareAppMessage","onMenuShareQQ","onMenuShareWeibo","onMenuShareQZone"],"appId":"","nonceStr":"","timestamp":"","url":"","signature":""});
+    wx.ready(function(){
+        var data = {
+            "imgUrl": "https://s.secrss.com/anquanneican/6aab8db147a14e1f13b4053f7b16771a.jpg!m",
+            "link": "https://www.secrss.com/articles/10250",
+            "desc": "本文将分析新一代人工智能发展的特点和主要行业应用领域。",
+            "title": "新一代人工智能发展特点和主要应用领域"
+        };
+        wx.onMenuShareTimeline(data);
+        wx.onMenuShareAppMessage(data);
+        wx.onMenuShareQQ(data);
+        wx.onMenuShareWeibo(data);
+        wx.onMenuShareQZone(data);
+    });
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?75bd0223beb9520a49897a3bfbefa004";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+</body></html>

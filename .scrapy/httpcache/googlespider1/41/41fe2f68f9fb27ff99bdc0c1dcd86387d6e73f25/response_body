@@ -1,0 +1,2498 @@
+<!DOCTYPE html><html lang="zh" style="--anker-navigation-spacing: -6rem;"><head>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <meta charset="UTF-8">
+    <meta name="languageCode" content="zh">
+    <meta name="countryCode" content="cn">
+    <meta name="searchTitle" content="什么是人工智能 (AI)？">
+    <meta name="focusArea" content="Cloud - Automation - All">
+    <title>什么是人工智能 (AI)？| IBM</title>
+    <script type="module">
+  window.RUM_BASE = 'https://rum.hlx.page/';
+  import { sampleRUM } from 'https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/src/index.js';
+  window.hlx = window.hlx || {};
+  window.hlx.sampleRUM = sampleRUM;
+  sampleRUM();
+</script><link rel="icon" href="/content/dam/adobe-cms/default-images/favicon.svg">
+    
+    <meta name="description" content="人工智能 (AI) 是一种支持计算机和数字设备学习、阅读、写作、创造和分析的技术。">
+    <meta name="template" content="learn">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    
+      
+          <meta name="ibm.com.search.appid" content="thinkhub">
+          <meta name="ibm.com.search.scopes" content="thinkhub">
+          <meta name="dcterms.date" content="2023-08-25T00:00:00.000">
+          <meta name="ibm.search.facet.field_hierarchy_01" content="taxonomy : 主题 / 人工智能与机器学习 / 人工智能 (AI)">
+          <meta name="ibm.search.facet.field_hierarchy_02">
+          <meta name="ibm.search.facet.field_hierarchy_03" content="taxonomy : 内容格式 / 文章">
+          <meta name="ibm.search.facet.field_hierarchy_04" content="taxonomy : 内容类型 / Explainer">
+          <meta name="ibm.search.facet.field_hierarchy_05">
+          <meta name="ibm.search.facet.field_keyword_01" content="人工智能 (AI)">
+          <meta name="ibm.search.facet.field_keyword_09" content="https://prod-cloud-publish.aem.ibm.net/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.crop-thumbnail-16-by-9-retina.ts=0.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+          <meta name="ibm.search.facet.field_keyword_14">
+          <meta name="ibm.search.facet.field_text_01" content="25 八月 2023">
+          <meta name="ibm.search.facet.field_text_03" content="Explainer">
+      
+      
+      
+    <link rel="canonical" href="https://www.ibm.com/cn-zh/topics/artificial-intelligence">
+    <style id="anti-flicker-style">
+        :not(:defined) {
+          visibility: hidden;
+        }
+    </style>
+<!--    <sly data-sly-test="false">
+        <link href="//1.www.s81c.com/common/v18/css/www.css" rel="preload" as="style"/>
+        <link rel="stylesheet" href="//1.www.s81c.com/common/v18/css/www.css" media="all"/>
+        <link href="//1.www.s81c.com/common/v18/css/grid-fluid.css" rel="preload" as="style"/>
+        <link rel="stylesheet" href="//1.www.s81c.com/common/v18/css/grid-fluid.css" media="all"/>
+        <link href="//1.www.s81c.com/common/v19a/css/www.css" rel="stylesheet"/>
+    </sly>-->
+      
+    <script type="text/javascript" async="async">
+	var adobeDataLayer = window.adobeDataLayer || [];
+	</script>
+	 
+    <script type="text/javascript">
+        window.searchKey = {
+            templateName: 'learn',
+            taxonomylist: 'taxonomy : Topics \/ AI and ML \/ Artificial intelligence',
+            L0Tag: 'Topics,Brands,Industries,Geography,Compliance Entities,Products,Events,Computer Languages,Content Format,Series,Content Type,CMaaS Focus Areas,brands,Deployment Types,Product Types,Search Index',
+        }
+    </script>
+
+    
+        <link rel="alternate" hreflang="it-it" href="https://www.ibm.com/it-it/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="de-de" href="https://www.ibm.com/de-de/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="en-us" href="https://www.ibm.com/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="ko-kr" href="https://www.ibm.com/kr-ko/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="pt-br" href="https://www.ibm.com/br-pt/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="id-id" href="https://www.ibm.com/id-id/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="es-es" href="https://www.ibm.com/es-es/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="fr-fr" href="https://www.ibm.com/fr-fr/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="zh-cn" href="https://www.ibm.com/cn-zh/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="es-mx" href="https://www.ibm.com/mx-es/topics/artificial-intelligence">
+    
+        <link rel="alternate" hreflang="ja-jp" href="https://www.ibm.com/jp-ja/topics/artificial-intelligence">
+    
+    <script type="text/javascript">
+        window.antiFlicker = {
+            active: true,
+            timeout: 3000
+        }
+    </script>
+    <script type="text/javascript">
+        var languageCode = document.getElementsByName('languageCode')[0].content;
+        var countryCode = document.getElementsByName('countryCode')[0].content;
+        var focusArea = document.getElementsByName('focusArea')[0].content;
+        /* Define digital data object based on _appInfo object */
+          window._ibmAnalytics = {
+              settings: {
+                 name: "AEM Sites",
+                 tealiumProfileName: "aem-sites"
+              },
+           };
+        window.digitalData = {
+            page: {
+                category: {
+                    primaryCategory: '',
+                },
+                pageInfo: {
+                    language: languageCode + '-' + countryCode,
+                    ibm: {
+                        siteID: 'MarketingAEM',
+                        country: countryCode,
+                        messaging: {
+                            routing: {
+                                focusArea: focusArea,
+                                languageCode: languageCode,
+                                regionCode: countryCode
+                            },
+                            translation: {
+                                languageCode: languageCode,
+                                regionCode: countryCode
+                            }
+                        },
+                        sections: 0,
+                        patterns: 0,
+                    },
+                    carbon: {
+                        '@carbon/web-components': 'v1.45.0',
+                        '@carbon/ibmdotcom-web-components': 'v1.49.0',
+                        'carbon-for-aem': 'v0.17.0',
+                    },
+                },
+            },
+        };
+    </script>
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.ibm.com/cn-zh/topics/artificial-intelligence"
+        },
+      "headline": "什么是人工智能 (AI)？  | IBM",
+      "image": [
+        "https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.png"
+       ],
+      "datePublished": "",
+      "dateModified": "2024-07-23T14:57:49.448Z",
+      "author": {"@type": "Organization","name": "IBM","url": "https://www.ibm.com"}
+    }
+    </script>
+
+    
+
+      <!-- Instana script specific to Dev environment start -->
+<!--      <script>
+          (function(s,t,a,n){s[t]||(s[t]=a,n=s[a]=function(){n.q.push(arguments)},
+          n.q=[],n.v=2,n.l=1*new Date)})(window,"InstanaEumObject","ineum");
+
+          ineum('reportingUrl', 'https://eum-orange-saas.instana.io');
+          ineum('key', 'mFJnYtpBSiCKl9zenWHXtg');
+          ineum('trackSessions');
+      </script>
+      <script defer crossorigin="anonymous" src=https://eum.instana.io/1.7.2/eum.min.js
+              integrity="sha384-cgeSlevgebehPauohUhsnAeBrpjXzaj94mSv3L2EXjCQH0RRb9xSQ2ErGOWkthIJ"></script>-->
+      <!-- Instana script specific to Dev environment end -->
+
+    
+    
+        <meta property="og:url" content="https://www.ibm.com/cn-zh/topics/artificial-intelligence">
+    
+        <meta property="og:type" content="website">
+    
+        <meta property="og:title" content="什么是人工智能 (AI)？| IBM">
+    
+        <meta property="og:description" content="人工智能 (AI) 是一种支持计算机和数字设备学习、阅读、写作、创造和分析的技术。">
+    
+        <meta property="og:image" content="https://assets.ibm.com/is/image/ibm/ibm-8bar-logo-2560x2560?$original$">
+    
+        
+    
+
+    <script src="https://1.www.s81c.com/common/stats/ibm-common.js" type="text/javascript" async="async"></script>
+
+    <script src="https://hybrid-cloud-widgets-production.s3.us.cloud-object-storage.appdomain.cloud/loader.js" type="application/javascript"></script>
+    
+    
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/adobe-cms/clientlibs/clientlib-idlStylesCarbon.lc-996aa8e0eab2339f058e1c098dae550e-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/adobe-cms/clientlibs/clientlib-idlStyles.lc-f684a4846a9eabe9a7d2c83557e5b14d-lc.min.css" type="text/css">
+
+
+
+        
+        
+        <link rel="stylesheet" href="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/tag/v1/latest/plex.css">
+        <link rel="stylesheet" href="https://1.www.s81c.com/common/carbon/plex/sans.css">
+        
+        
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/adobe-cms/clientlibs/clientlib-pdfviewer.lc-c79c6cf22a5b660f493131a4be3ded5f-lc.min.css" type="text/css">
+
+
+
+    
+    
+    
+    
+    
+
+    
+
+    
+
+
+
+    
+    
+    
+
+
+
+    
+
+    
+
+<div style="display: none;"></div></head>
+<body class="learn-page content-page page basicpage publish" id="learn-page-c42d49e21e" data-fullwidthtemplate="false">
+
+
+
+    
+
+
+
+
+    
+
+
+
+    
+<dds-video-cta-container>
+     <div class="root container responsivegrid">
+
+    
+    
+    
+    <div id="container-e9b80bd4f1" class="cmp-container">
+        
+        <div class="masthead hasNavigation">
+
+
+
+
+
+
+<c4d-masthead-container data-endpoint="#" auth-method="profile-api" has-contact="true" has-profile="" has-search=""></c4d-masthead-container>
+
+<script src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v2.13.0/masthead.min.js" type="module"></script>
+<script>
+    let l0Json = "{\x22profileMenu\x22:{\x22signedout\x22:[{\x22title\x22:\x22My IBM\x22,\x22url\x22:\x22https:\/\/myibm.ibm.com\/?lnk=mmi\x22},{\x22title\x22:\x22Log in\x22,\x22url\x22:\x22https:\/\/login.ibm.com\/oidc\/endpoint\/default\/authorize?redirect_uri=https%3A%2F%2Fmyibm.ibm.com%2FOIDCHandler.html\x26response_type=token\x26client_id=v18LoginProdCI\x26scope=openid\x26state=https%3A%2F%2Fwww.ibm.com\x26nonce=8675309\x22}],\x22signedin\x22:[{\x22title\x22:\x22My IBM\x22,\x22url\x22:\x22https:\/\/myibm.ibm.com\/?lnk=mmi\x22},{\x22title\x22:\x22Log in\x22,\x22url\x22:\x22https:\/\/login.ibm.com\/oidc\/endpoint\/default\/authorize?redirect_uri=https%3A%2F%2Fmyibm.ibm.com%2FOIDCHandler.html\x26response_type=token\x26client_id=v18LoginProdCI\x26scope=openid\x26state=https%3A%2F%2Fwww.ibm.com\x26nonce=8675309\x22}]},\x22mastheadNav\x22:{\x22links\x22:[{\x22title\x22:\x22产品\x22,\x22url\x22:\x22\x22,\x22submenu\x22:{\x22sections\x22:[{\x22heading\x22:{\x22title\x22:\x22推荐产品\x22,\x22description\x22:\x22\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22API Connect\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/api\u002Dconnect?lnk=flatitem\x22,\x22description\x22:\x22用于快速创建、保护和管理 API 并使之社交化的软件\x22},{\x22title\x22:\x22Concert\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/concert?lnk=flatitem\x22,\x22description\x22:\x22AI 使用自然语言分析和管理 IT 基础架构\x22},{\x22title\x22:\x22Environmental Intelligence\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/environmental\u002Dintelligence\u002Dsuite?lnk=flatitem\x22,\x22description\x22:\x22用于预测和响应天气和气候事件的 SaaS\x22},{\x22title\x22:\x22Envizi\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/envizi?lnk=flatitem\x22,\x22description\x22:\x22分析环境、社会和治理指标的 SaaS\x22},{\x22title\x22:\x22FlashSystem\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/flashsystem?lnk=flatitem\x22,\x22description\x22:\x22全闪存阵列，具有适用于任何工作负载的性能和容量\x22},{\x22title\x22:\x22IBM Cloud\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/cloud?lnk=flatitem\x22,\x22description\x22:\x22按需提供服务的云计算平台与 API\x22},{\x22title\x22:\x22IBM Z\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/z?lnk=flatitem\x22,\x22description\x22:\x22采用芯上AI加速和量子技术的旗舰大型机\x22},{\x22title\x22:\x22Instana\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/instana?lnk=flatitem\x22,\x22description\x22:\x22#N\/A\x22},{\x22title\x22:\x22MaaS360\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/maas360?lnk=flatitem\x22,\x22description\x22:\x22适用于多种设备类型的统一端点管理软件\x22},{\x22title\x22:\x22Maximo\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/maximo?lnk=flatitem\x22,\x22description\x22:\x22智能资产管理平台\x22},{\x22title\x22:\x22Planning Analytics\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/planning\u002Danalytics?lnk=flatitem\x22,\x22description\x22:\x22自动制定财务和运营规划软件\x22},{\x22title\x22:\x22Robotic Process Automation (RPA)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/robotic\u002Dprocess\u002Dautomation?lnk=flatitem\x22,\x22description\x22:\x22自动执行工作流程和业务流程的机器人流程自动化软件\x22},{\x22title\x22:\x22Storage Defender\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/storage\u002Ddefender?lnk=flatitem\x22,\x22description\x22:\x22用于威胁检测和数据恢复的数据弹性软件\x22},{\x22title\x22:\x22Turbonomic\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/turbonomic?lnk=flatitem\x22,\x22description\x22:\x22#N\/A\x22},{\x22title\x22:\x22watsonx\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/watsonx?lnk=flatitem\x22,\x22description\x22:\x22AI 和数据平台\x22},{\x22title\x22:\x22watsonx Assistant\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watsonx\u002Dassistant?lnk=flatitem\x22,\x22description\x22:\x22全渠道智能虚拟客服\x22},{\x22title\x22:\x22watsonx Orchestrate\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watsonx\u002Dorchestrate?lnk=flatitem\x22,\x22description\x22:\x22自动执行重复任务的个人助理软件\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22安全与身份认证\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/security?lnk=flathl\x22,\x22description\x22:\x22保护您的资源并简化监管合规\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Cloud AppID\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/app\u002Did?lnk=flatitem\x22,\x22description\x22:\x22面向移动和 Web 应用程序的身份验证和用户配置文件即服务\x22},{\x22title\x22:\x22Cloud Security and Compliance Center\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/security\u002Dand\u002Dcompliance\u002Dcenter?lnk=flatitem\x22,\x22description\x22:\x22用于定义和审核云的合规性状况的 SaaS\x22},{\x22title\x22:\x22Data Security Broker\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/data\u002Dsecurity\u002Dbroker?lnk=flatitem\x22,\x22description\x22:\x22在云中启用数据加密的管理控制台\x22},{\x22title\x22:\x22Guardium\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/guardium?lnk=flatitem\x22,\x22description\x22:\x22用于保护数据库安全的软件和硬件设备\x22},{\x22title\x22:\x22Key Protect for IBM Cloud\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/key\u002Dprotect?lnk=flatitem\x22,\x22description\x22:\x22用于在 IBM Cloud 服务中为应用程序调配和存储密钥的工具\x22},{\x22title\x22:\x22MaaS360\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/maas360?lnk=flatitem\x22,\x22description\x22:\x22适用于多种设备类型的统一端点管理软件\x22},{\x22title\x22:\x22QRadar EDR\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/qradar\u002Dedr?lnk=flatitem\x22,\x22description\x22:\x22基于管理程序的端点安全自动化软件\x22},{\x22title\x22:\x22QRadar SIEM\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/qradar\u002Dsiem?lnk=flatitem\x22,\x22description\x22:\x22威胁检测和优先级排序，实现实时可见性\x22},{\x22title\x22:\x22QRadar SOAR\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/qradar\u002Dsoar?lnk=flatitem\x22,\x22description\x22:\x22安全事件响应工作流程自动化软件\x22},{\x22title\x22:\x22Trusteer\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/trusteer?lnk=flatitem\x22,\x22description\x22:\x22验证客户身份、检测欺诈并评估风险的软件\x22},{\x22title\x22:\x22Verify\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/verify?lnk=flatitem\x22,\x22description\x22:\x22IAM 软件可在本地或作为 SaaS 使用\x22},{\x22title\x22:\x22zSecure\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/zsecure?lnk=flatitem\x22,\x22description\x22:\x22适用于 IBM Z 的安全、风险管理和合规工具\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22操作系统\x22,\x22description\x22:\x22在专用操作系统上运行关键工作负载\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22AIX\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/aix?lnk=flatitem\x22,\x22description\x22:\x22用于 Power 服务器的 UNIX 操作系统\x22},{\x22title\x22:\x22IBM i\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/ibm\u002Di?lnk=flatitem\x22,\x22description\x22:\x22用于 Power 服务器的集成操作系统\x22},{\x22title\x22:\x22Linux\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/linux?lnk=flatitem\x22,\x22description\x22:\x22专门用于处理任务关键型工作负载，同时维护整个 IT 基础架构的安全性、可靠性和控制权\x22},{\x22title\x22:\x22z\/OS\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/zos?lnk=flatitem\x22,\x22description\x22:\x22用于运行任务关键型应用程序的高度安全且可扩展的操作系统\x22},{\x22title\x22:\x22z\/TPF\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/z\u002Dtransaction\u002Dprocessing\u002Dfacility?lnk=flatitem\x22,\x22description\x22:\x22用于实时环境中的高容量事务的领先事务处理器\x22},{\x22title\x22:\x22z\/VM\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/zvm?lnk=flatitem\x22,\x22description\x22:\x22用于 IBM Z 和 LinuxONE 的管理程序和虚拟化软件\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22存储\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/storage?lnk=flathl\x22,\x22description\x22:\x22用于关键和运营工作负载和数据的软件、硬件以及服务\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Ceph\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/ceph?lnk=flatitem\x22,\x22description\x22:\x22开源分布式软件定义存储平台\x22},{\x22title\x22:\x22Cloud Block Storage\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/block\u002Dstorage?lnk=flatitem\x22,\x22description\x22:\x22针对低延迟和高传输速率进行了优化的托管服务\x22},{\x22title\x22:\x22Cloud File Storage\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/file\u002Dstorage?lnk=flatitem\x22,\x22description\x22:\x22由闪存支持并基于 NFS 的耐用文件存储托管服务\x22},{\x22title\x22:\x22Cloud Object Storage\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dobject\u002Dstorage?lnk=flatitem\x22,\x22description\x22:\x22可通过云 API 访问的非结构化数据存储\x22},{\x22title\x22:\x22DS8900F\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/ds8000f?lnk=flatitem\x22,\x22description\x22:\x22用于大型机的全闪存、低延迟、高可用性存储\x22},{\x22title\x22:\x22Defender\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/storage\u002Ddefender?lnk=flatitem\x22,\x22description\x22:\x22用于威胁检测和数据恢复的数据弹性软件\x22},{\x22title\x22:\x22FlashSystem\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/flashsystem?lnk=flatitem\x22,\x22description\x22:\x22全闪存阵列，具有适用于任何工作负载的性能和容量\x22},{\x22title\x22:\x22Fusion\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/storage\u002Dfusion?lnk=flatitem\x22,\x22description\x22:\x22针对 OpenShift 的容器原生存储和数据编排\x22},{\x22title\x22:\x22Insights\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/storage\u002Dinsights?lnk=flatitem\x22,\x22description\x22:\x22用于基于指标的分析和决策的存储 AIOps\x22},{\x22title\x22:\x22Protect\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/storage\u002Dprotect?lnk=flatitem\x22,\x22description\x22:\x22通过 SaaS 方案提供数据弹性、备份和恢复\x22},{\x22title\x22:\x22Protect for Cloud\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/storage\u002Dprotect\u002Dfor\u002Dcloud?lnk=flatitem\x22,\x22description\x22:\x22种针对公有云服务中的数据进行备份和恢复的 SaaS\x22},{\x22title\x22:\x22SAN Switches\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/storage\u002Darea\u002Dnetwork?lnk=flatitem\x22,\x22description\x22:\x22可扩展且高度可用的存储区域网络解决方案\x22},{\x22title\x22:\x22Scale\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/storage\u002Dscale?lnk=flatitem\x22,\x22description\x22:\x22适用于 AI 和高性能工作负载的软件定义存储\x22},{\x22title\x22:\x22Scale System\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/storage\u002Dscale\u002Dsystem?lnk=flatitem\x22,\x22description\x22:\x22适用于云规模用例的全闪存或混合高性能存储\x22},{\x22title\x22:\x22Tape Systems\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/tape\u002Dstorage?lnk=flatitem\x22,\x22description\x22:\x22用于加密和气隙存档的软件和硬件\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22分析\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/analytics?lnk=flathl\x22,\x22description\x22:\x22聚合和分析大型数据集\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Business Analytics Enterprise\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/business\u002Danalytics\u002Denterprise?lnk=flatitem\x22,\x22description\x22:\x22业务规划和分析软件\x22},{\x22title\x22:\x22CPLEX\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/ilog\u002Dcplex\u002Doptimization\u002Dstudio?lnk=flatitem\x22,\x22description\x22:\x22构建并求解复杂优化模型的软件\x22},{\x22title\x22:\x22Cloud Pak for Data\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Ddata?lnk=flatitem\x22,\x22description\x22:\x22AI赋能的数据分析、组织和管理平台\x22},{\x22title\x22:\x22Cognos Analytics\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cognos\u002Danalytics?lnk=flatitem\x22,\x22description\x22:\x22商业智能BI和绩效管理软件\x22},{\x22title\x22:\x22Databand\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/databand?lnk=flatitem\x22,\x22description\x22:\x22面向数据工程师和 DataOps 团队的数据可观察性软件\x22},{\x22title\x22:\x22InfoSphere Information Server\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/information\u002Dserver?lnk=flatitem\x22,\x22description\x22:\x22用于 ETL、治理和分析的数据集成套件\x22},{\x22title\x22:\x22Netezza\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/netezza?lnk=flatitem\x22,\x22description\x22:\x22基于定制硬件的数据仓库和分析系统\x22},{\x22title\x22:\x22Optim\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/infosphere\u002Doptim?lnk=flatitem\x22,\x22description\x22:\x22管理测试、生产和归档数据的软件\x22},{\x22title\x22:\x22Planning Analytics\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/planning\u002Danalytics?lnk=flatitem\x22,\x22description\x22:\x22自动制定财务和运营规划软件\x22},{\x22title\x22:\x22SPSS\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/spss?lnk=flatitem\x22,\x22description\x22:\x22用于统计分析和商业智能的软件\x22},{\x22title\x22:\x22Spectrum Computing\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/high\u002Dperformance\u002Dcomputing?lnk=flatitem\x22,\x22description\x22:\x22用于优化复杂计算集群中资源的软件\x22},{\x22title\x22:\x22Watson Discovery\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watson\u002Ddiscovery?lnk=flatitem\x22,\x22description\x22:\x22用于搜索和回答有关业务文档问题的 AI\x22},{\x22title\x22:\x22Watson Studio\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watson\u002Dstudio?lnk=flatitem\x22,\x22description\x22:\x22用于构建、运行和管理 AI 模型的 IDE\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22供应链\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/supply\u002Dchain?lnk=flathl\x22,\x22description\x22:\x22利用 AI 和区块链技术，构建更智能化的供应链\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Sterling Order and Fulfillment Suite\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/order\u002Dfulfillment\u002Dsuite?lnk=flatitem\x22,\x22description\x22:\x22采用 AI 和机器学习技术的完整订单管理系统\x22},{\x22title\x22:\x22Sterling Supply Chain Intelligence Suite\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/supply\u002Dchain\u002Dintelligence\u002Dsuite?lnk=flatitem\x22,\x22description\x22:\x22供应链优化和自动化软件\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22计算与服务器\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/servers?lnk=flathl\x22,\x22description\x22:\x22在混合云基础架构上运行工作负载\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22IBM Cloud Bare Metal Servers\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/bare\u002Dmetal\u002Dservers?lnk=flatitem\x22,\x22description\x22:\x22释放最大化性能的专用裸机服务器\x22},{\x22title\x22:\x22IBM Cloud Virtual Servers for VPC\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/virtual\u002Dservers?lnk=flatitem\x22,\x22description\x22:\x22采用 Intel Xeon 或 IBM Z CPU 的虚拟服务器\x22},{\x22title\x22:\x22LinuxONE 4\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/linuxone\u002D4?lnk=flatitem\x22,\x22description\x22:\x22企业级Linux 服务器\x22},{\x22title\x22:\x22Power\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/power?lnk=flatitem\x22,\x22description\x22:\x22采用 IBM Power CPU 的物理服务器和虚拟服务器\x22},{\x22title\x22:\x22z16\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/z16?lnk=flatitem\x22,\x22description\x22:\x22采用芯上AI加速和量子技术的旗舰大型机\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22数据库\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/database?lnk=flathl\x22,\x22description\x22:\x22存储、查询和分析结构化数据\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Cloudant\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloudant?lnk=flatitem\x22,\x22description\x22:\x22在 Apache CouchDB 上管理的符合 PCI 标准的 JSON 文档存储\x22},{\x22title\x22:\x22Db2\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/db2\u002Ddatabase?lnk=flatitem\x22,\x22description\x22:\x22数据管理软件，包括 IBM Db2 数据库\x22},{\x22title\x22:\x22Db2 for z\/OS\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/db2\u002Dfor\u002Dzos?lnk=flatitem\x22,\x22description\x22:\x22用于 IBM Z 大型机的 IBM Db2 数据库\x22},{\x22title\x22:\x22Hyper Protect DBaaS\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/hyper\u002Dprotect\u002Ddbaas?lnk=flatitem\x22,\x22description\x22:\x22用于敏感数据的PostgreSQL 和 MongoDB托管\x22},{\x22title\x22:\x22IBM Cloud Databases for Elastic Search\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/databases\u002Dfor\u002Delasticsearch?lnk=flatitem\x22,\x22description\x22:\x22用于全文搜索的 JSON 文档存储\x22},{\x22title\x22:\x22IBM Cloud Databases for EnterpriseDB\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/databases\u002Dfor\u002Denterprisedb?lnk=flatitem\x22,\x22description\x22:\x22具有额外性能、安全性和管理功能的 PostgreSQL\x22},{\x22title\x22:\x22IBM Cloud Databases for MongoDB\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/databases\u002Dfor\u002Dmongodb?lnk=flatitem\x22,\x22description\x22:\x22托管 NoSQL JSON 文档存储\x22},{\x22title\x22:\x22IBM Cloud Databases for MySQL\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/databases\u002Dfor\u002Dmysql?lnk=flatitem\x22,\x22description\x22:\x22托管 SQL 数据库\x22},{\x22title\x22:\x22IBM Cloud Databases for PostgreSQL\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/databases\u002Dfor\u002Dpostgresql?lnk=flatitem\x22,\x22description\x22:\x22具有高级功能的托管 SQL 数据库\x22},{\x22title\x22:\x22IBM Cloud Databases for etcd\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/databases\u002Dfor\u002Detcd?lnk=flatitem\x22,\x22description\x22:\x22分布式键值存储\x22},{\x22title\x22:\x22Information Management System (IMS)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/ims?lnk=flatitem\x22,\x22description\x22:\x22用于大批量交易的数据库和管理系统\x22},{\x22title\x22:\x22Informix\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/informix?lnk=flatitem\x22,\x22description\x22:\x22用于 SQL、NoSQL、时间序列和空间数据的嵌入式数据库\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22网络\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/networking?lnk=flathl\x22,\x22description\x22:\x22运行和管理公共、私人和虚拟网络\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Cloud Pak for Network Automation\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Dnetwork\u002Dautomation?lnk=flatitem\x22,\x22description\x22:\x22用于电信网络运营的自动化管理软件\x22},{\x22title\x22:\x22Edge Application Manager\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/edge\u002Dapplication\u002Dmanager?lnk=flatitem\x22,\x22description\x22:\x22边缘计算管理平台\x22},{\x22title\x22:\x22Hybrid Cloud Mesh\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/hybrid\u002Dcloud\u002Dmesh?lnk=flatitem\x22,\x22description\x22:\x22用于部署和管理混合云和多云网络的 SaaS\x22},{\x22title\x22:\x22NS1 Connect\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/ns1\u002Dconnect?lnk=flatitem\x22,\x22description\x22:\x22权威 DNS 和流量导向即服务\x22},{\x22title\x22:\x22SevOne Network Performance Management\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/sevone\u002Dnetwork\u002Dperformance\u002Dmanagement?lnk=flatitem\x22,\x22description\x22:\x22收集和分析网络性能数据的软件\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22业务自动化\x22,\x22description\x22:\x22自动化工作流程和业务流程\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Blueworks Live\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/blueworkslive?lnk=flatitem\x22,\x22description\x22:\x22用于协作构建业务流程模型的 SaaS\x22},{\x22title\x22:\x22Business Automation Manager Open Editions\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/business\u002Dautomation\u002Dmanager\u002Dopen\u002Deditions?lnk=flatitem\x22,\x22description\x22:\x22一种用于工作流程自动化和决策管理的软件\x22},{\x22title\x22:\x22Business Automation Workflow\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/business\u002Dautomation\u002Dworkflow?lnk=flatitem\x22,\x22description\x22:\x22Cloud Pak for Business Automation 附加组件实现流程自动化\x22},{\x22title\x22:\x22Cloud Pak for Business Automation\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Dbusiness\u002Dautomation?lnk=flatitem\x22,\x22description\x22:\x22具备 AI 洞察分析功能的业务流程自动化软件\x22},{\x22title\x22:\x22Datacap\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/data\u002Dcapture\u002Dand\u002Dimaging?lnk=flatitem\x22,\x22description\x22:\x22针对 IBM Cloud Pak for Business Automation 的文档管理\x22},{\x22title\x22:\x22Event Automation\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/event\u002Dautomation?lnk=flatitem\x22,\x22description\x22:\x22用于构建自动化事件驱动工作流的无代码工具\x22},{\x22title\x22:\x22FileNet Content Manager\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/filenet\u002Dcontent\u002Dmanager?lnk=flatitem\x22,\x22description\x22:\x22Cloud Pak for Business Automation 内容管理解决方案\x22},{\x22title\x22:\x22Operational Decision Manager\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/operational\u002Ddecision\u002Dmanager?lnk=flatitem\x22,\x22description\x22:\x22Cloud Pak for Business Automation根据业务规则自动制定决策\x22},{\x22title\x22:\x22Process Mining\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/process\u002Dmining?lnk=flatitem\x22,\x22description\x22:\x22通过流程挖掘工具来发掘业务洞察\x22},{\x22title\x22:\x22Robotic Process Automation (RPA)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/robotic\u002Dprocess\u002Dautomation?lnk=flatitem\x22,\x22description\x22:\x22自动执行工作流程和业务流程的机器人流程自动化软件\x22},{\x22title\x22:\x22watsonx Orchestrate\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watsonx\u002Dorchestrate?lnk=flatitem\x22,\x22description\x22:\x22自动执行重复任务的个人助理软件\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22中间件\x22,\x22description\x22:\x22连接您的应用程序、数据和事件\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22API Connect\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/api\u002Dconnect?lnk=flatitem\x22,\x22description\x22:\x22用于快速创建、保护和管理 API 并使之社交化的软件\x22},{\x22title\x22:\x22App Connect\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/app\u002Dconnect?lnk=flatitem\x22,\x22description\x22:\x22用于数据、应用程序和 API 的无代码连接器\x22},{\x22title\x22:\x22Aspera\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/aspera?lnk=flatitem\x22,\x22description\x22:\x22在全球范围内传输、同步或流式传输海量数据的系统\x22},{\x22title\x22:\x22CICS Transaction Server for z\/OS\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cics\u002Dtransaction\u002Dserver?lnk=flatitem\x22,\x22description\x22:\x22用于联机事务处理的应用服务器\x22},{\x22title\x22:\x22Cloud Pak for Applications\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Dapplications?lnk=flatitem\x22,\x22description\x22:\x22基于 Kubernetes 的混合云应用程序平台\x22},{\x22title\x22:\x22Cloud Pak for Integration\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Dintegration?lnk=flatitem\x22,\x22description\x22:\x22用于连接所有应用程序、数据和事件的自动化应用集成平台\x22},{\x22title\x22:\x22DataPower\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/datapower\u002Dgateway?lnk=flatitem\x22,\x22description\x22:\x22物理或虚拟的多协议网络网关\x22},{\x22title\x22:\x22Event Streams\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/event\u002Dstreams?lnk=flatitem\x22,\x22description\x22:\x22基于 Apache Kafka 的 PaaS 流处理\x22},{\x22title\x22:\x22IBM Cloud Messages for RabbitMQ\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/messages\u002Dfor\u002Drabbitmq?lnk=flatitem\x22,\x22description\x22:\x22托管的开源消息代理\x22},{\x22title\x22:\x22Information Management System\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/ims?lnk=flatitem\x22,\x22description\x22:\x22用于 Z 系列的分层数据库和事务处理器\x22},{\x22title\x22:\x22MQ\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/mq?lnk=flatitem\x22,\x22description\x22:\x22在分布式系统之间传递消息的软件和硬件\x22},{\x22title\x22:\x22z\/OS Connect\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/zos\u002Dconnect?lnk=flatitem\x22,\x22description\x22:\x22用于为 z\/OS 应用构建和提供 RESTful API 的软件\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22资产管理\x22,\x22description\x22:\x22智能管理和维护企业资产\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Environmental Intelligence\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/environmental\u002Dintelligence\u002Dsuite?lnk=flatitem\x22,\x22description\x22:\x22用于预测和响应天气和气候事件的 SaaS\x22},{\x22title\x22:\x22Envizi\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/envizi?lnk=flatitem\x22,\x22description\x22:\x22分析环境、社会和治理指标的 SaaS\x22},{\x22title\x22:\x22Maximo\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/maximo?lnk=flatitem\x22,\x22description\x22:\x22智能资产管理平台\x22},{\x22title\x22:\x22TRIRIGA\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/tririga?lnk=flatitem\x22,\x22description\x22:\x22用于房产资源和设施管理的集成工作场所管理解决方案\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22AI 与机器学习\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/artificial\u002Dintelligence?lnk=flathl\x22,\x22description\x22:\x22使用Watson 的人工智能或构建自己的机器学习模型\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Cloud Pak for AIOps\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Daiops?lnk=flatitem\x22,\x22description\x22:\x22具备 AI 分析和建议功能的 DevOps 管理工具\x22},{\x22title\x22:\x22Cloud Pak for Data\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Ddata?lnk=flatitem\x22,\x22description\x22:\x22AI赋能的数据分析、组织和管理平台\x22},{\x22title\x22:\x22Knowledge Catalog\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/knowledge\u002Dcatalog?lnk=flatitem\x22,\x22description\x22:\x22用于对数据、AI 模型、元数据、策略等进行分类的 SaaS\x22},{\x22title\x22:\x22Watson Discovery\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watson\u002Ddiscovery?lnk=flatitem\x22,\x22description\x22:\x22用于搜索并回答有关业务文档问题的 AI\x22},{\x22title\x22:\x22Watson Natural Language Understanding\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/natural\u002Dlanguage\u002Dunderstanding?lnk=flatitem\x22,\x22description\x22:\x22用于文本分析和元数据抽取的 API\x22},{\x22title\x22:\x22Watson Speech to Text\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/speech\u002Dto\u002Dtext?lnk=flatitem\x22,\x22description\x22:\x22用于实时语音识别和转录的 API\x22},{\x22title\x22:\x22Watson Studio\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watson\u002Dstudio?lnk=flatitem\x22,\x22description\x22:\x22用于构建、运行和管理 AI 模型的 IDE\x22},{\x22title\x22:\x22Watson Text to Speech\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/text\u002Dto\u002Dspeech?lnk=flatitem\x22,\x22description\x22:\x22用于实时文本转语音的 API\x22},{\x22title\x22:\x22Z Anomaly Analytics\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/z\u002Danomaly\u002Danalytics?lnk=flatitem\x22,\x22description\x22:\x22适用于大型机操作异常检测软件\x22},{\x22title\x22:\x22watsonx\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/watsonx?lnk=flatitem\x22,\x22description\x22:\x22AI 和数据平台\x22},{\x22title\x22:\x22watsonx Assistant\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watsonx\u002Dassistant?lnk=flatitem\x22,\x22description\x22:\x22全渠道智能虚拟客服\x22},{\x22title\x22:\x22watsonx Code Assistant\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/watsonx\u002Dcode\u002Dassistant?lnk=flatitem\x22,\x22description\x22:\x22种生成代码的 AI 工具\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22Containers\x22,\x22description\x22:\x22按需分配计算基础架构\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Cloud Satellite\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/satellite?lnk=flatitem\x22,\x22description\x22:\x22用于在任何基础架构上运行托管云服务的平台\x22},{\x22title\x22:\x22Code Engine\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/code\u002Dengine?lnk=flatitem\x22,\x22description\x22:\x22代码或容器的无服务器运行时\x22},{\x22title\x22:\x22Container Registry\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/container\u002Dregistry?lnk=flatitem\x22,\x22description\x22:\x22用于容器存储和管理的私有 SaaS 注册表\x22},{\x22title\x22:\x22Kubernetes Service\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/kubernetes\u002Dservice?lnk=flatitem\x22,\x22description\x22:\x22用于高可用性容器部署的托管 Kubernetes\x22},{\x22title\x22:\x22Red Hat OpenShift on IBM Cloud\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/openshift?lnk=flatitem\x22,\x22description\x22:\x22借助 Kubernetes 在 Red Hat Enterprise Linux 上提供 PaaS\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22DevOps\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/devops?lnk=flathl\x22,\x22description\x22:\x22管理基础架构、环境和部署\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Application Delivery Foundation for z\/OS\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/app\u002Ddelivery\u002Dfoundation\u002Dfor\u002Dzos?lnk=flatitem\x22,\x22description\x22:\x22用于 z\/OS 的应用开发和 DevOps 工具\x22},{\x22title\x22:\x22Application Discovery and Delivery Intelligence\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/app\u002Ddiscovery\u002Dand\u002Ddelivery\u002Dintelligence?lnk=flatitem\x22,\x22description\x22:\x22用于可视化 z\/OS 上的应用程序、数据和作业的分析工具\x22},{\x22title\x22:\x22Cloud Continuous Delivery\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/continuous\u002Ddelivery?lnk=flatitem\x22,\x22description\x22:\x22基于 Tekton Pipelines 且基于 UI 和 CLI 的 DevOps 工作流\x22},{\x22title\x22:\x22Cloud Pak for AIOps\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Daiops?lnk=flatitem\x22,\x22description\x22:\x22具有 AI 分析和建议的 DevOps 管理工具\x22},{\x22title\x22:\x22DevOps Test\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/devops\u002Dtest?lnk=flatitem\x22,\x22description\x22:\x22持续测试与虚拟化平台\x22},{\x22title\x22:\x22Engineering Lifecycle Management\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/engineering\u002Dlifecycle\u002Dmanagement?lnk=flatitem\x22,\x22description\x22:\x22用于产品和应用程序生命周期管理的软件\x22},{\x22title\x22:\x22IBM i Modernization Engine\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/ibm\u002Di\u002Dmerlin?lnk=flatitem\x22,\x22description\x22:\x22适用于 IBM i 应用程序的开发与现代化工具\x22},{\x22title\x22:\x22Rational ClearQuest\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/rational\u002Dclearquest?lnk=flatitem\x22,\x22description\x22:\x22变更管理软件\x22},{\x22title\x22:\x22Rational Software Architect Designer\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/rational\u002Dsoftware\u002Darchitect\u002Ddesigner?lnk=flatitem\x22,\x22description\x22:\x22用于创建、评估和传达软件架构的工具\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22IT 自动化\x22,\x22description\x22:\x22IT 基础架构自动化管理\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Apptio\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/apptio?lnk=flatitem\x22,\x22description\x22:\x22混合云财务管理和规划软件\x22},{\x22title\x22:\x22Cloud App Configuration\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/app\u002Dconfiguration?lnk=flatitem\x22,\x22description\x22:\x22用于 Web 与移动应用程序的功能管理和配置服务\x22},{\x22title\x22:\x22Cloud App ID\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/app\u002Did?lnk=flatitem\x22,\x22description\x22:\x22用于 Web 与移动应用程序的身份验证和用户管理服务\x22},{\x22title\x22:\x22Cloud Monitoring\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dmonitoring?lnk=flatitem\x22,\x22description\x22:\x22用于组织范围内系统性能的托管监控工具\x22},{\x22title\x22:\x22Cloud Pak for AIOps\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dpak\u002Dfor\u002Daiops?lnk=flatitem\x22,\x22description\x22:\x22具备 AI 分析和建议功能的 DevOps 管理工具\x22},{\x22title\x22:\x22Cloud Schematics\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/schematics?lnk=flatitem\x22,\x22description\x22:\x22通过代码来管理和配置云基础设施\x22},{\x22title\x22:\x22Concert\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/concert?lnk=flatitem\x22,\x22description\x22:\x22AI 使用自然语言分析和管理 IT 基础架构\x22},{\x22title\x22:\x22Event Notifications\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/event\u002Dnotifications?lnk=flatitem\x22,\x22description\x22:\x22面向 IBM Cloud 事件的通知和工作流程自动化服务\x22},{\x22title\x22:\x22Flexera One\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/flexera\u002Done?lnk=flatitem\x22,\x22description\x22:\x22IT 资产管理软件\x22},{\x22title\x22:\x22IBM Cloud Logs\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/cloud\u002Dlogs?lnk=flatitem\x22,\x22description\x22:\x22用于应用程序和基础设施的日志记录和可观察性服务\x22},{\x22title\x22:\x22Instana\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/instana?lnk=flatitem\x22,\x22description\x22:\x22用于应用程序性能监视和自动化的软件\x22},{\x22title\x22:\x22Turbonomic\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/turbonomic?lnk=flatitem\x22,\x22description\x22:\x22利用智慧的资源管理确保应用程序性能\x22},{\x22title\x22:\x22Z Service Management Suite\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/z\u002Dservice\u002Dmanagement\u002Dsuite?lnk=flatitem\x22,\x22description\x22:\x22针对 Z 的监控、控制和自动化套件\x22}]}]}],\x22viewAll\x22:{\x22title\x22:\x22查看所有产品\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\x22}}},{\x22title\x22:\x22解决方案\x22,\x22url\x22:\x22\x22,\x22submenu\x22:{\x22sections\x22:[{\x22heading\x22:{\x22title\x22:\x22安全\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/security?lnk=flathl\x22,\x22description\x22:\x22适用于当今混合云环境的企业网络安全\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22云安全\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/cloud\u002Dsecurity?lnk=flatitem\x22,\x22description\x22:\x22信任 IBM Cloud 安全性以实现数据保护和合规性\x22},{\x22title\x22:\x22内部威胁\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/insider\u002Dthreat?lnk=flatitem\x22,\x22description\x22:\x22抵御来自内部人员的恶意或无意威胁\x22},{\x22title\x22:\x22勒索软件\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/ransomware?lnk=flatitem\x22,\x22description\x22:\x22主动管理网络风险以减少攻击的影响\x22},{\x22title\x22:\x22数据安全\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/data\u002Dsecurity?lnk=flatitem\x22,\x22description\x22:\x22满足数据隐私法规并简化操作复杂性\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22可持续发展\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/sustainability?lnk=flathl\x22,\x22description\x22:\x22将可持续化融入到企业转型\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22ESG 报告\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/envizi?lnk=flatitem\x22,\x22description\x22:\x22简化并满足 ESG 报告要求过程的数据基础\x22},{\x22title\x22:\x22IT 可持续性\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/turbonomic\/sustainability?lnk=flatitem\x22,\x22description\x22:\x22可估算基础架构资源使用的软件\x22},{\x22title\x22:\x22供应链\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/supply\u002Dchain?lnk=flatitem\x22,\x22description\x22:\x22通过智能自动化构建富有弹性的供应链\x22},{\x22title\x22:\x22天气风险管理\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/environmental\u002Dintelligence\u002Dsuite\/sustainability?lnk=flatitem\x22,\x22description\x22:\x22管理天气和气候对企业的经济影响\x22},{\x22title\x22:\x22设施管理\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/tririga\/sustainability?lnk=flatitem\x22,\x22description\x22:\x22可管理企业设施的可信单一数据源\x22},{\x22title\x22:\x22资产管理\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/maximo\/sustainability?lnk=flatitem\x22,\x22description\x22:\x22优化性能、延长资产生命周期并减少宕机\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22数据与 AI\x22,\x22description\x22:\x22优化您的数据策略以支持数据驱动的决策\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22AI\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/artificial\u002Dintelligence?lnk=flatitem\x22,\x22description\x22:\x22利用行业专业知识构建的人工智能解决方案\x22},{\x22title\x22:\x22AI 道德规范\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/impact\/ai\u002Dethics?lnk=flatitem\x22,\x22description\x22:\x22采用多维方法的可信赖、透明的 AI\x22},{\x22title\x22:\x22Data Fabric\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/data\u002Dfabric?lnk=flatitem\x22,\x22description\x22:\x22自动化数据发现、治理和使用\x22},{\x22title\x22:\x22DataOps\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/dataops?lnk=flatitem\x22,\x22description\x22:\x22制定数据采集之旅的协调概览\x22},{\x22title\x22:\x22主数据管理\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/master\u002Ddata\u002Dmanagement?lnk=flatitem\x22,\x22description\x22:\x22一个值得信赖的 360 度全方位企业主数据视图\x22},{\x22title\x22:\x22客户体验\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/ai\u002Dcustomer\u002Dservice?lnk=flatitem\x22,\x22description\x22:\x22构建与您的 CRM 集成的全方位服务 AI 聊天机器人\x22},{\x22title\x22:\x22数据仓库\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/data\u002Dwarehouse?lnk=flatitem\x22,\x22description\x22:\x22为来自不同来源的数据进行基础灵活优化\x22},{\x22title\x22:\x22数据湖\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/data\u002Dlake?lnk=flatitem\x22,\x22description\x22:\x22分析结构化、半结构化和非结构化数据\x22},{\x22title\x22:\x22数据科学\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/data\u002Dscience?lnk=flatitem\x22,\x22description\x22:\x22可在任何云上运行数据科学模型\x22},{\x22title\x22:\x22数据管理\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/data\u002Dmanagement?lnk=flatitem\x22,\x22description\x22:\x22跨应用程序和域的一致数据访问和交付\x22},{\x22title\x22:\x22数据质量\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/data\u002Dquality?lnk=flatitem\x22,\x22description\x22:\x22强大的工具有助于识别、理解和纠正数据缺陷\x22},{\x22title\x22:\x22规范性分析\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/prescriptive\u002Danalytics?lnk=flatitem\x22,\x22description\x22:\x22使用优化技术来解决复杂决策\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22行业解决方案\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries?lnk=flathl\x22,\x22description\x22:\x22查看适用于您所在行业的解决方案\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22保险业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/insurance?lnk=flatitem\x22,\x22description\x22:\x22大规模快速改善运营和客户体验\x22},{\x22title\x22:\x22制造业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/manufacturing?lnk=flatitem\x22,\x22description\x22:\x22推动制造企业的数字化转型\x22},{\x22title\x22:\x22医疗保健\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/healthcare?lnk=flatitem\x22,\x22description\x22:\x22引领更加互联、数据更丰富的医疗保健生态系统\x22},{\x22title\x22:\x22政府行业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/government?lnk=flatitem\x22,\x22description\x22:\x22以更快的速度和更大的信心支持民众\x22},{\x22title\x22:\x22旅游行业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/travel\u002Dtransportation?lnk=flatitem\x22,\x22description\x22:\x22利用先进的旅游技术，恢复旅客信任，并提高运营效率\x22},{\x22title\x22:\x22汽车业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/automotive?lnk=flatitem\x22,\x22description\x22:\x22将重点转移到互联汽车和数字服务上\x22},{\x22title\x22:\x22消费品行业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/consumer\u002Dgoods?lnk=flatitem\x22,\x22description\x22:\x22将敏捷性和自动化融入到运营和供应链\x22},{\x22title\x22:\x22生命科学行业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/life\u002Dsciences?lnk=flatitem\x22,\x22description\x22:\x22加速产品创新，推动以患者为中心的体验\x22},{\x22title\x22:\x22电信业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/telecommunications?lnk=flatitem\x22,\x22description\x22:\x22实现更加灵活、更加无缝的网络架构\x22},{\x22title\x22:\x22能源与公用事业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/energy?lnk=flatitem\x22,\x22description\x22:\x22让您的公用事业为新的可持续能源生态系统做好准备\x22},{\x22title\x22:\x22银行\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/banking\u002Dfinancial\u002Dmarkets?lnk=flatitem\x22,\x22description\x22:\x22打造以客户为中心的合规银行体验\x22},{\x22title\x22:\x22零售业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/industries\/retail?lnk=flatitem\x22,\x22description\x22:\x22通过新的零售业务模式满足不断变化的消费者需求\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22自动化\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/automation?lnk=flathl\x22,\x22description\x22:\x22实现企业级的业务与IT运营智能自动化\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22AIOps\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/aiops?lnk=flatitem\x22,\x22description\x22:\x22实现主动的、可持续的智能运维管理\x22},{\x22title\x22:\x22iPaaS\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/ipaas?lnk=flatitem\x22,\x22description\x22:\x22在所有应用程序和数据之间提供连接\x22},{\x22title\x22:\x22业务流程\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/workflow?lnk=flatitem\x22,\x22description\x22:\x22通过简化流程和任务来提高生产力\x22},{\x22title\x22:\x22业务自动化\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/business\u002Dautomation?lnk=flatitem\x22,\x22description\x22:\x22通过低代码快速交付智能自动化解决方案\x22},{\x22title\x22:\x22云成本优化 (FinOps)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/finops?lnk=flatitem\x22,\x22description\x22:\x22管理云基础架构的可变经济效益\x22},{\x22title\x22:\x22企业内容管理(ECM)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/enterprise\u002Dcontent\u002Dmanagement?lnk=flatitem\x22,\x22description\x22:\x22加速信息管理和治理流程\x22},{\x22title\x22:\x22决策管理\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/decision\u002Dmanagement?lnk=flatitem\x22,\x22description\x22:\x22建模、管理和自动化重复的业务流程\x22},{\x22title\x22:\x22天气风险管理\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/networking?lnk=flatitem\x22,\x22description\x22:\x22管理天气和气候对企业的经济影响\x22},{\x22title\x22:\x22应用性能管理(APM)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/application\u002Dperformance\u002Dmanagement?lnk=flatitem\x22,\x22description\x22:\x22连接可观察性和自动化的应用资源管理\x22},{\x22title\x22:\x22应用程序交付\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/application\u002Ddelivery?lnk=flatitem\x22,\x22description\x22:\x22实现应用程序现代化并交付新的云原生应用程序\x22},{\x22title\x22:\x22开发运维自动化\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/devops\u002Dautomation?lnk=flatitem\x22,\x22description\x22:\x22自动执行软件交付流程\x22},{\x22title\x22:\x22集成\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/integration?lnk=flatitem\x22,\x22description\x22:\x22连接应用程序和系统，以解锁关键数据\x22}]}]},{\x22heading\x22:{\x22title\x22:\x22IT基础架构\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/it\u002Dinfrastructure?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22IT 现代化\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/infrastructure\u002Dmodernization?lnk=flatitem\x22,\x22description\x22:\x22使用容器化微服务实现传统 IT 现代化\x22},{\x22title\x22:\x22备份和恢复\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/backup\u002Drecovery?lnk=flatitem\x22,\x22description\x22:\x22为物理和虚拟服务器提供全面的数据弹性\x22},{\x22title\x22:\x22大型机应用程序现代化\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/mainframe\u002Dapplication\u002Dmodernization?lnk=flatitem\x22,\x22description\x22:\x22将现代开发和开发运维工具应用于大型机应用程序\x22},{\x22title\x22:\x22混合云\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/hybrid\u002Dcloud?lnk=flatitem\x22,\x22description\x22:\x22跨云、本地和边缘环境使用通用平台\x22},{\x22title\x22:\x22边缘计算\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/edge\u002Dcomputing?lnk=flatitem\x22,\x22description\x22:\x22在任何混合多云环境中管理从边缘到核心的工作负载\x22},{\x22title\x22:\x22高性能计算 (HPC)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/high\u002Dperformance\u002Dcomputing?lnk=flatitem\x22,\x22description\x22:\x22适用于高级和数据密集型工作负载的 HPC 基础架构\x22}]}]}],\x22viewAll\x22:{\x22title\x22:\x22\x22,\x22url\x22:\x22\x22}}},{\x22title\x22:\x22咨询\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/consulting?lnk=L0G\x22},{\x22title\x22:\x22支持\x22,\x22url\x22:\x22\x22,\x22submenu\x22:{\x22sections\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22开发者\x22,\x22url\x22:\x22https:\/\/developer.ibm.com\/?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22产品\x22,\x22url\x22:\x22https:\/\/developer.ibm.com\/components\/?lnk=flatitem\x22},{\x22title\x22:\x22技术\x22,\x22url\x22:\x22https:\/\/developer.ibm.com\/technologies\/?lnk=flatitem\x22},{\x22title\x22:\x22生成式 AI\x22,\x22url\x22:\x22https:\/\/developer.ibm.com\/generative\u002Dai\u002Dfor\u002Ddevelopers\/?lnk=flatitem\x22},{\x22title\x22:\x22Call for Code\x22,\x22url\x22:\x22https:\/\/developer.ibm.com\/callforcode\/?lnk=flatitem\x22}]},{\x22heading\x22:{\x22title\x22:\x22社区\x22,\x22url\x22:\x22https:\/\/community.ibm.com\/community\/user\/home?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[]},{\x22heading\x22:{\x22title\x22:\x22实施\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22Expert Labs\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/products\/expertlabs?lnk=flatitem\x22}]},{\x22heading\x22:{\x22title\x22:\x22文档\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/docs\/zh?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22所有产品文档\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/docs\/zh?lnk=flatitem\x22},{\x22title\x22:\x22IBM 红皮书\x22,\x22url\x22:\x22https:\/\/www.redbooks.ibm.com\/redbooks.nsf\/translated?OpenView=\x26lang=zh\x26lnk=flatitem#list\x22},{\x22title\x22:\x22IBM Cloud 文档\x22,\x22url\x22:\x22https:\/\/cloud.ibm.com\/docs?locale=zh\x26lnk=flatitem\x22}]},{\x22heading\x22:{\x22title\x22:\x22支持\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22查看您的案例\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/mysupport\/s\/my\u002Dcases?language=zh\x26lnk=flatitem\x22},{\x22title\x22:\x22提交需求\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/mysupport\/s\/redirecttoopencasepage?language=zh\x26lnk=flatitem\x22}]},{\x22heading\x22:{\x22title\x22:\x22IBM Cloud 平台支持\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/cloud\/support?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[]},{\x22heading\x22:{\x22title\x22:\x22Technology Lifecycle Services\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/services\/technology\u002Dlifecycle\u002Dservices?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22服务器和存储\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/services\/systems\u002Dsupport?lnk=flatitem\x22},{\x22title\x22:\x22企业网络和安全\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/services\/networking\u002Dsupport?lnk=flatitem\x22},{\x22title\x22:\x22Software\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/services\/software\u002Dsupport?lnk=flatitem\x22}]}]}],\x22viewAll\x22:{\x22title\x22:\x22\x22,\x22url\x22:\x22\x22}}},{\x22title\x22:\x22更多信息\x22,\x22url\x22:\x22\x22,\x22submenu\x22:{\x22sections\x22:[{\x22heading\x22:{\x22title\x22:\x22\x22,\x22description\x22:\x22\x22},\x22groups\x22:[{\x22heading\x22:{\x22title\x22:\x22关于 IBM\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/about?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22多样性与包容性\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/impact\/be\u002Dequal?lnk=flatitem\x22},{\x22title\x22:\x22企业社会责任\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/impact?lnk=flatitem\x22},{\x22title\x22:\x22新闻和产品发布\x22,\x22url\x22:\x22https:\/\/china.newsroom.ibm.com\/?lnk=flatitem\x22}]},{\x22heading\x22:{\x22title\x22:\x22合作伙伴\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/partnerplus?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22战略合作伙伴\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/strategic\u002Dpartnerships?lnk=flatitem\x22},{\x22title\x22:\x22Partner Plus\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/partnerplus?lnk=flatitem\x22}]},{\x22heading\x22:{\x22title\x22:\x22时事通讯订阅\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/subscribe?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[]},{\x22heading\x22:{\x22title\x22:\x22研究院\x22,\x22url\x22:\x22https:\/\/research.ibm.com\/?lnk=flathl\x22,\x22description\x22:\x22\x22},\x22links\x22:[{\x22title\x22:\x22博客\x22,\x22url\x22:\x22https:\/\/research.ibm.com\/blog?lnk=flatitem\x22},{\x22title\x22:\x22出版物\x22,\x22url\x22:\x22https:\/\/research.ibm.com\/publications?lnk=flatitem\x22},{\x22title\x22:\x22与我们合作\x22,\x22url\x22:\x22https:\/\/research.ibm.com\/collaborate?lnk=flatitem\x22}]}]}],\x22viewAll\x22:{\x22title\x22:\x22\x22,\x22url\x22:\x22\x22}}}]}}";
+    const searchPlaceholderText = "Search all of IBM";
+    const links = JSON.parse(l0Json).mastheadNav.links;
+    const unAuthenticated = JSON.parse(l0Json).profileMenu.signedout;
+    const authenticated = JSON.parse(l0Json).profileMenu.signedin;
+
+    const mastheadContainerEl = document.querySelector('c4d-masthead-container');
+
+    mastheadContainerEl.navLinks = links;
+    mastheadContainerEl.unauthenticatedProfileItems = unAuthenticated;
+    mastheadContainerEl.authenticatedProfileItems = authenticated;
+
+    const appendSearchPlaceholderText = () => {
+        const typeheadEl = mastheadContainerEl.querySelector('c4d-search-with-typeahead');
+        if (typeheadEl) {
+            typeheadEl.searchPlaceholder = searchPlaceholderText;
+            observer.disconnect();
+        }
+    }
+    let observer = new MutationObserver(appendSearchPlaceholderText);
+    observer.observe(mastheadContainerEl, {subtree: true, childList: true});
+</script>
+
+
+<script>
+    var json = "{\x22title\x22:\x22Think\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\x22,\x22menuItems\x22:[{\x22title\x22:\x22人工智能 (AI)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/artificial\u002Dintelligence\x22},{\x22title\x22:\x22云\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/cloud\x22},{\x22title\x22:\x22安全性\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/security\x22},{\x22title\x22:\x22可持续性发展\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/sustainability\x22},{\x22title\x22:\x22博客\x22,\x22submenu\x22:{\x22columns\x22:2,\x22footer\x22:{\x22title\x22:\x22查看所有博客文章\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/\x22},\x22menuSections\x22:[{\x22span\x22:1,\x22heading\x22:{\x22headingLevel\x22:2,\x22title\x22:\x22类别\x22},\x22items\x22:[{\x22title\x22:\x22业务转型\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/business\u002Dtransformation\/\x22},{\x22title\x22:\x22云\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/cloud\/\x22},{\x22title\x22:\x22人工智能 (AI)\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/artificial\u002Dintelligence\/\x22},{\x22title\x22:\x22供应链\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/supply\u002Dchain\/\x22},{\x22title\x22:\x22分析\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/analytics\/\x22},{\x22title\x22:\x22可持续性发展\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/sustainability\/\x22},{\x22title\x22:\x22安全性\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/security\/\x22},{\x22title\x22:\x22社会影响\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/social\u002Dimpact\/\x22},{\x22title\x22:\x22自动化\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/automation\/\x22}]},{\x22span\x22:1,\x22heading\x22:{\x22headingLevel\x22:2,\x22title\x22:\x22行业\x22},\x22items\x22:[{\x22title\x22:\x22制造业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/manufacturing\/\x22},{\x22title\x22:\x22医疗保健\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/healthcare\/\x22},{\x22title\x22:\x22媒体和娱乐\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/media\u002Dand\u002Dentertainment\/\x22},{\x22title\x22:\x22政府\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/government\/\x22},{\x22title\x22:\x22电信业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/telecommunications\/\x22},{\x22title\x22:\x22科技\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/technology\/\x22},{\x22title\x22:\x22能源和公用事业\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/energy\u002Dand\u002Dutilities\/\x22},{\x22title\x22:\x22运输\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/transportation\/\x22},{\x22title\x22:\x22采矿和开采\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/mining\u002Dand\u002Dextraction\/\x22},{\x22title\x22:\x22金融服务\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/blog\/category\/financial\u002Dservices\/\x22}]}]}},{\x22title\x22:\x22视频\x22,\x22submenu\x22:{\x22columns\x22:1,\x22menuSections\x22:[{\x22span\x22:1,\x22items\x22:[{\x22title\x22:\x22概述\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/videos\x22},{\x22title\x22:\x22AI Academy\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/videos\/series\/ai\u002Dacademy\x22},{\x22title\x22:\x22Think 2024 点播\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/videos\/series\/think\u002Dkeynotes\x22}]}]}},{\x22title\x22:\x22报告\x22,\x22submenu\x22:{\x22columns\x22:1,\x22menuSections\x22:[{\x22span\x22:1,\x22items\x22:[{\x22title\x22:\x222024 年数据泄露成本\x22,\x22target\x22:\x22_self\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/reports\/data\u002Dbreach\x22},{\x22title\x22:\x222024 年 IBM X\u002DForce Threat Intelligence Index\x22,\x22target\x22:\x22_self\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/reports\/threat\u002Dintelligence\x22},{\x22title\x22:\x22CEO 的生成式 AI 指南\x22,\x22target\x22:\x22_self\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/thought\u002Dleadership\/institute\u002Dbusiness\u002Dvalue\/cn\u002Dzh\/report\/ceo\u002Dgenerative\u002Dai\x22},{\x22title\x22:\x22混合设计：科技大重置\x22,\x22target\x22:\x22_self\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/thought\u002Dleadership\/institute\u002Dbusiness\u002Dvalue\/cn\u002Dzh\/report\/hybrid\u002Dby\u002Ddesign\x22},{\x22title\x22:\x222024 年 CEO 研究\x22,\x22target\x22:\x22_self\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/thought\u002Dleadership\/institute\u002Dbusiness\u002Dvalue\/cn\u002Dzh\/c\u002Dsuite\u002Dstudy\/ceo\x22},{\x22title\x22:\x22查看所有 IBV 报告\x22,\x22target\x22:\x22_self\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/thought\u002Dleadership\/institute\u002Dbusiness\u002Dvalue\x22}]}]}},{\x22title\x22:\x22活动\x22,\x22submenu\x22:{\x22columns\x22:1,\x22menuSections\x22:[{\x22span\x22:1,\x22items\x22:[{\x22title\x22:\x22Think 2024\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/events\/think\x22},{\x22title\x22:\x22Think on Tour\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/events\/think\/on\u002Dtour\x22},{\x22title\x22:\x22TechXchange\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/community\/ibm\u002Dtechxchange\u002Dconference\/\x22}]}]}},{\x22title\x22:\x22更多\x22,\x22submenu\x22:{\x22columns\x22:2,\x22footer\x22:{\x22title\x22:\x22查看全部\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/search\x22},\x22menuSections\x22:[{\x22span\x22:1,\x22heading\x22:{\x22headingLevel\x22:2,\x22title\x22:\x22主题\x22},\x22items\x22:[{\x22title\x22:\x22分析\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/analytics\x22},{\x22title\x22:\x22资产管理\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/asset\u002Dmanagement\x22},{\x22title\x22:\x22业务自动化\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/business\u002Dautomation\x22},{\x22title\x22:\x22业务运营\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/business\u002Doperations\x22},{\x22title\x22:\x22计算和服务器\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/compute\x22},{\x22title\x22:\x22DevOps\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/devops\x22},{\x22title\x22:\x22IT 自动化\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/it\u002Dautomation\x22},{\x22title\x22:\x22IT 基础架构\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/it\u002Dinfrastructure\x22},{\x22title\x22:\x22中间件\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/middleware\x22},{\x22title\x22:\x22网络\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/network\x22},{\x22title\x22:\x22量子\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/quantum\x22},{\x22title\x22:\x22存储\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/think\/storage\x22}]},{\x22span\x22:1,\x22heading\x22:{\x22headingLevel\x22:2,\x22title\x22:\x22内容类型\x22},\x22items\x22:[{\x22title\x22:\x22主题讲解\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/topics\x22},{\x22title\x22:\x22时事通讯\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/cn\u002Dzh\/subscribe\x22}]}]}}],\x22actions\x22:{\x22login\x22:null,\x22cta\x22:{\x22title\x22:\x22订阅\x22,\x22url\x22:\x22https:\/\/www.ibm.com\/account\/reg\/signup?formid=news\u002Durx\u002D52954\x22}},\x22linkOrContactModule\x22:false,\x22optinalCta\x22:true}";
+    document.querySelector('c4d-masthead-container').l1Data = JSON.parse(json);
+    document.querySelector('.masthead').classList.add("hasNavigation");
+    document.documentElement.style.setProperty('--anker-navigation-spacing', '-6rem');
+    document.addEventListener('DOMContentLoaded', () => {
+        document.querySelector('c4d-masthead-l1').overviewText = '概述';
+    });
+</script>
+
+
+<script type="text/javascript">
+    if(window.location.href.includes("/careers")){
+       document.querySelector('c4d-masthead-container').setAttribute("has-search","false");
+       document.querySelector('c4d-masthead-container').setAttribute("has-profile","false");
+    }
+</script>
+</div>
+<div class="leadspace">
+    
+
+
+
+
+
+
+
+
+    
+    
+        <div class="bx--grid bx--no-gutter   ">
+            <dds-leadspace type="left" size="medium" loadinganimation="" gradient-style-scheme="">
+                
+                
+
+    <bx-breadcrumb slot="navigation">
+        <bx-breadcrumb-item>
+            <bx-breadcrumb-link href="/cn-zh">
+                <caem-paragraph size="normal" type-style="body-short-01">主页</caem-paragraph>
+            </bx-breadcrumb-link>
+        </bx-breadcrumb-item>
+    
+        <bx-breadcrumb-item>
+            <bx-breadcrumb-link href="/cn-zh/topics">
+                <caem-paragraph size="normal" type-style="body-short-01">topics</caem-paragraph>
+            </bx-breadcrumb-link>
+        </bx-breadcrumb-item>
+    
+        <bx-breadcrumb-item class="no-trailing-slash">
+            
+                <caem-paragraph size="normal" type-style="body-short-01">什么是人工智能 (AI)？ </caem-paragraph>
+            
+        </bx-breadcrumb-item>
+    </bx-breadcrumb>
+
+    
+    
+
+                <dds-leadspace-heading id="leadspaceSimpleTitle">
+                    
+
+
+
+  
+    什么是人工智能 (AI)？
+
+
+
+
+
+
+    
+
+
+                </dds-leadspace-heading>
+				
+                    <div class="leadspace__copy ">
+                        
+
+
+  
+  
+
+
+
+
+    
+
+
+                    </div>
+					
+                    
+                        <dds-button-group slot="action">
+                            
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    <dds-button-cta href="https://www.ibm.com/cn-zh/watsonx" target="_blank" kind="primary" aria-label="了解 watsonx Assistant" cta-type="local" data-aem-autoid="aem--leadspace_cta-0">
+        <span>探索企业级的人工智能与数据平台</span>
+        
+        
+    </dds-button-cta>
+    
+    
+
+
+    
+    
+    
+    
+    
+    <dds-button-cta href="https://www.ibm.com/thought-leadership/institute-business-value/en-us/c-suite-study/ceo" target="_blank" kind="tertiary" aria-label="可选的辅助选项" cta-type="local" data-aem-autoid="aem--leadspace_cta-1">
+        <span>获取 AI 前沿洞察</span>
+        
+        
+    </dds-button-cta>
+    
+    
+
+
+
+ 
+ 
+                        </dds-button-group>
+                    
+                
+                <dds-background-media mobile-position="bottom" opacity="100" gradient-hidden="">
+                    
+                        
+    
+    <div class="bx--image ">
+        <picture>
+            
+            
+            
+                
+                    
+    <source media="(min-width: 1312px) and (min-resolution: 192dpi)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.xl-retina.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(min-width: 1312px)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.xl.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(min-width: 1056px) and (min-resolution: 192dpi)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.l-retina.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(min-width: 1056px)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.l.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(min-width: 672px) and (min-resolution: 192dpi)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.m-retina.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(min-width: 672px)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.m.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(min-width: 481px) and (min-resolution: 192dpi)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.s-retina.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(min-width: 481px)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.s.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(max-width: 480px) and (min-resolution: 192dpi)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.xs-retina.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+    <source media="(max-width: 480px)" srcset="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.xs.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/jcr:content/root/leadspace">
+
+                    
+                
+            
+            
+            <img id="image--984184892" class="bx--image__img" src="/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/83/11/maximo_maintenance1_management.component.xl.ts=1721746660502.png/content/adobe-cms/cn/zh/topics/artificial-intelligence/_jcr_content/root/leadspace" alt="AI 如何使计算机能够像人类一样思考、相互连接应用程序以及对现代生活的影响的插图">
+        </picture>
+        
+    </div>
+
+
+                    
+                    
+                </dds-background-media>
+                
+            </dds-leadspace>
+        </div>
+    
+
+
+
+
+</div>
+<div class="table-of-contents container responsivegrid">
+<dds-table-of-contents data-cmp-is="table-of-contents" data-autoid="dds--table-of-contents" class="cmp-table-of-contents" stickyoffset="96">
+    
+    
+    <div id="table-of-contents-0c9ba763af" class="cmp-table-of-contents">
+        
+        <div class="body container responsivegrid">
+
+    
+    
+    
+    <div id="body-3266be8496" class="cmp-container">
+        
+        <div class="content-section-styled content-section container responsivegrid">
+
+
+
+
+    
+        <div class="bx--grid">
+            <div class="bx--row">
+                <div class="bx--col-lg-16 bx--no-gutter">
+                    <div class="bx--content-section">
+                        
+                        
+                            
+
+    
+    
+    
+    <div id="container-19a178c996" class="cmp-container">
+        
+        <div class="complex-narrative">
+<dds-content-block-segmented data-autoid="dds-content-block-segmented" no-image="" content-section-body="">
+    <div slot="heading">
+        
+        
+  
+    <a data-title="什么是人工智能 (AI)？" name="%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%28AI%29%EF%BC%9F"></a>
+  
+
+        <dds-content-block-heading data-autoid="dds--content-block__heading" role="heading">
+            
+                
+
+
+  
+    <a data-title="什么是人工智能 (AI)？" name="%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%28AI%29%EF%BC%9F"></a>
+  
+
+
+
+    什么是人工智能 (AI)？
+
+
+
+
+
+    
+
+
+            
+        </dds-content-block-heading>
+    </div>
+    <dds-content-block-copy data-autoid="dds--content-block__copy" slot="copy">
+        <dds-content-block-paragraph>
+            <div class="cms-richtext " id="rich-text-e8bcc5318f" data-dynamic-inner-content="description">
+    <p>人工智能 (AI) 是一种使计算机和机器能够模拟人类智能和解决问题能力的技术。</p>
+ 
+    
+    
+    
+    
+
+</div>
+        </dds-content-block-paragraph>
+    </dds-content-block-copy>
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+  <dds-content-block-segmented-item>
+    
+    <dds-content-item-copy>
+      <div class="cms-richtext " id="rich-text-75104e452a" data-dynamic-inner-content="description">
+    <p>人工智能 (AI) 可以单独使用或与其他技术（例如，传感器、地理定位、机器人）相结合，执行原本需要人类智能或人工干预的任务。数字助理、GPS 制导、自动驾驶汽车和生成式 AI 工具（如 Open AI 的 Chat GPT）只是日常新闻和我们日常生活中 AI 的几个例子。</p>
+<p>作为计算机科学的一个领域，人工智能包括（并经常一起提及）<a href="https://www.ibm.com/cn-zh/topics/machine-learning" target="_self" rel="noopener noreferrer"></a>机器学习和<a href="https://www.ibm.com/cn-zh/topics/deep-learning" target="_self" rel="noopener noreferrer">深度学习</a>。这些学科涉及以人脑决策过程为模型的 AI 算法的开发，这些算法可以从可用数据中“学习”，并随着时间的推移做出越来越准确的分类或预测。</p>
+<p>人工智能已经历多次炒作周期，但即使对怀疑论者来说，ChatGPT 的发布似乎也标志着一个转折点。上一次生成式 AI 能让人如此忧心忡忡的时候，还是因为在计算机视觉方面取得突破，而现在的飞跃则是在自然语言处理 (NLP) 方面。如今，生成式 AI 不仅可以学习和合成语言，还可以学习和合成其他数据类型，包括图像、视频、软件代码甚至分子结构。</p>
+<p>AI 的应用每天都在增长。但随着 AI 工具在商业中的使用大肆宣传，围绕 <a href="https://www.ibm.com/cn-zh/topics/ai-ethics" target="_self" rel="noopener noreferrer">AI 伦理</a>和<a href="https://www.ibm.com/cn-zh/topics/responsible-ai" target="_self" rel="noopener noreferrer">负责任的 AI</a> 的对话变得至关重要。有关 IBM 在这些问题上的立场的更多信息，请阅读<a href="https://www.ibm.com/cn-zh/impact/ai-ethics">在 AI 中建立信任</a>。</p>
+ 
+    
+    
+    
+    
+
+</div>
+    </dds-content-item-copy>
+    
+    
+    
+  </dds-content-block-segmented-item>
+
+
+
+    
+
+
+    
+    <div slot="complementary">
+        
+            <div class="aside-card">
+                
+    
+    
+    
+    
+    <dds-card-cta href="https://www.ibm.com/account/reg/signup?formid=urx-52460" target="_blank" pictogram-placement="top" cta-type="local">
+        
+        <dds-card-eyebrow slot="eyebrow" aria-hidden="true">
+            白皮书
+        </dds-card-eyebrow>
+        <dds-card-heading role="heading" aria-level="3" slot="heading">
+            为什么 AI 治理是扩展企业 AI 的当务之急
+        </dds-card-heading>
+        
+            <p>了解采用 AI 的障碍，特别是缺乏 AI 治理和风险管理解决方案。 </p>
+        
+        <dds-card-cta-footer icon-placement="right" href="https://www.ibm.com/account/reg/signup?formid=urx-52460" target="_blank" slot="footer" aria-hidden="true">
+            
+                
+                
+            
+            
+    
+    
+    
+    
+
+        </dds-card-cta-footer>
+    </dds-card-cta>
+    
+    
+
+    
+
+
+
+            </div>
+            
+                
+    <dds-link-list type="default">
+        <dds-link-list-heading role="heading" aria-level="4" slot="heading">
+            
+
+
+  
+  
+      相关内容
+  
+
+
+
+
+    
+
+
+        </dds-link-list-heading>
+        
+            
+            
+
+    
+    
+    
+    
+    
+        
+    <dds-link-list-item-card cta-type="local" href="https://www.ibm.com/account/reg/signup?formid=urx-52620" target="_blank">
+        
+    
+
+
+
+    
+
+
+
+        <p>注册以获取有关基础模型的指南</p>
+        
+        <dds-card-cta-footer href="https://www.ibm.com/account/reg/signup?formid=urx-52620" target="_blank" cta-type="local">
+            
+        </dds-card-cta-footer>
+    </dds-link-list-item-card>
+    
+    
+
+        
+    
+    
+    
+
+
+    
+
+
+        
+        
+    </dds-link-list>
+
+
+
+            
+        
+        
+        
+        
+    </div>
+    
+    
+    
+    
+    
+
+    
+
+    
+
+
+</dds-content-block-segmented>
+<div horizontal-ruler="">
+    
+    
+    
+    
+        <dds-hr></dds-hr>
+        
+    
+
+    
+    
+
+
+</div>
+
+</div>
+<div class="content-group-banner">
+
+    
+    <dds-content-group-banner data-autoid="dds--content-group-banner" class="bx--content-group-banner " content-section-body="">
+        
+            <dds-content-group-heading data-autoid="dds--content-group__title" class="bx--content-group__title " slot="heading">
+                
+
+
+
+  
+    开启 AI 之旅
+
+
+
+
+
+
+    
+
+
+            </dds-content-group-heading>
+        
+        <div hidden="" class="bx--content-layout__body"></div>
+        <dds-link-list data-autoid="dds--link-list" type="vertical" slot="complementary">
+            
+                <div>
+                    
+    
+    
+        
+        
+        
+        
+        
+        
+        <a cta-type="local" href="https://www.ibm.com/cn-zh/resources/the-data-differentiator/scale-ai" icon-placement="right" target="_self" aria-label="探索指南" data-link-type="local" data-dynamic-properties="{&quot;ctaUrl&quot;:&quot;href&quot;}">
+            
+            <span class="bx--link-text" data-link-text="" data-dynamic-inner-content="ctaLabel">了解如何扩展 AI</span>
+            
+    <!-- LTR - Left to Right version -->
+    
+    <svg xmlns="http://www.w3.org/2000/svg" slot="icon" width="20" height="20" focusable="false" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+        <path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path>
+    </svg>
+
+    <!-- RTL - Right to Left version -->
+    
+    
+    
+    
+    
+    
+    
+    
+
+        </a>
+    
+    
+    
+
+
+
+                </div>
+            
+            <div>
+                
+    
+    
+        
+        
+        
+        
+        
+        
+        <a cta-type="local" href="https://www.ibm.com/cn-zh/think/videos/series/ai-academy" icon-placement="right" target="_self" data-link-type="local" data-dynamic-properties="{&quot;ctaUrl&quot;:&quot;href&quot;}">
+            
+            <span class="bx--link-text" data-link-text="" data-dynamic-inner-content="ctaLabel">深入了解 AI Academy</span>
+            
+    <!-- LTR - Left to Right version -->
+    
+    <svg xmlns="http://www.w3.org/2000/svg" slot="icon" width="20" height="20" focusable="false" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+        <path d="M11.8 2.8L10.8 3.8 16.2 9.3 1 9.3 1 10.7 16.2 10.7 10.8 16.2 11.8 17.2 19 10z"></path>
+    </svg>
+
+    <!-- RTL - Right to Left version -->
+    
+    
+    
+    
+    
+    
+    
+    
+
+        </a>
+    
+    
+    
+
+
+
+            </div>
+        </dds-link-list>
+    </dds-content-group-banner>
+    <div class="horizontal-ruler" horizontal-ruler="">
+        
+    
+    
+    
+        <dds-hr></dds-hr>
+        
+    
+
+    
+    
+
+
+    </div>
+    
+
+</div>
+<div class="simple-narrative">
+<dds-content-block-simple data-autoid="dds--content-block-simple" class=" " no-aside="" content-section-body="">
+    <div slot="heading">
+        
+        
+  
+    <a data-title="人工智能的类型 - 弱 AI 与强 AI" name="%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E7%B1%BB%E5%9E%8B+-+%E5%BC%B1+AI+%E4%B8%8E%E5%BC%BA+AI"></a>
+  
+
+        <dds-content-block-heading data-autoid="dds--content-block__heading" role="heading">
+            
+                
+
+
+  
+    <a data-title="人工智能的类型 - 弱 AI 与强 AI" name="%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E7%B1%BB%E5%9E%8B+-+%E5%BC%B1+AI+%E4%B8%8E%E5%BC%BA+AI"></a>
+  
+
+
+
+    人工智能的类型 - 弱 AI 与强 AI
+
+
+
+
+
+    
+
+
+            
+        </dds-content-block-heading>
+    </div>
+    <dds-content-block-copy data-autoid="dds--content-block__copy" slot="copy" size="sm">
+        
+            <div class="cms-richtext " id="rich-text-973e9686fb" data-dynamic-inner-content="description">
+    <p>弱人工智能（也称为狭义人工智能 (ANI)）是经过训练并专注于执行特定任务的人工智能。当前，我们周围的大部分人工智能都属于弱人工智能。“狭义”可能是对此类人工智能更准确的描述，因为弱人工智能一点也不弱。它支持一些非常健壮的应用程序，例如，苹果的 Siri、亚马逊的 Alexa、IBM watson 和自动驾驶汽车。</p>
+<p>强人工智能由通用人工智能 (AGI) 和超人工智能 (ASI) 组成。通用人工智能 (AGI) 或通用 AI 是人工智能的一种理论形式，其中，机器将具有与人类相同的智能；它会有自我意识，有能力解决问题、学习和规划未来。超人工智能 (ASI)，也称为超智能，将超越人脑的智力和能力。虽然强人工智能仍然完全是理论性的，目前还没有强人工智能实际使用的例子，但这并不意味着人工智能研究人员没有在探索它的发展。与此同时，ASI 最好的例子可能来自科幻小说，例如<em>《2001：太空漫游》</em>中的超人、流氓计算机助手 HAL。</p>
+ 
+    
+    
+    
+    
+
+</div>
+        
+    </dds-content-block-copy>
+    
+        
+            
+        
+        
+            
+        
+        
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+
+
+</dds-content-block-simple>
+<div horizontal-ruler="">
+    
+    
+    
+    
+        <dds-hr></dds-hr>
+        
+    
+
+    
+    
+
+
+</div>
+</div>
+<div class="simple-narrative">
+<dds-content-block-simple data-autoid="dds--content-block-simple" class=" " no-aside="" content-section-body="">
+    <div slot="heading">
+        
+        
+  
+    <a data-title="深度学习与机器学习的对比" name="%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%AF%B9%E6%AF%94"></a>
+  
+
+        <dds-content-block-heading data-autoid="dds--content-block__heading" role="heading">
+            
+                
+
+
+  
+    <a data-title="深度学习与机器学习的对比" name="%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%AF%B9%E6%AF%94"></a>
+  
+
+
+
+    深度学习与机器学习的对比
+
+
+
+
+
+    
+
+
+            
+        </dds-content-block-heading>
+    </div>
+    <dds-content-block-copy data-autoid="dds--content-block__copy" slot="copy" size="sm">
+        
+            <div class="cms-richtext " id="rich-text-c0fec4e563" data-dynamic-inner-content="description">
+    <p>机器学习和深度学习是 AI 的子学科，而深度学习是机器学习的子学科。</p>
+<p>机器学习和深度学习算法都使用<a href="https://www.ibm.com/cn-zh/topics/neural-networks" target="_self" rel="noopener noreferrer">神经网络</a>来从大量数据中“学习”。这些神经网络是以人脑决策过程为模型的编程结构。它们由相互连接的节点层组成，这些节点从数据中提取特征并预测数据所代表的内容。</p>
+<p>机器学习和深度学习在所使用的神经网络类型以及涉及的人为干预程度上有所不同。经典机器学习算法使用具有输入层、一个或两个“隐藏”层和一个输出层的神经网络。通常，这些算法仅限于<a href="https://www.ibm.com/cn-zh/topics/supervised-learning" target="_self" rel="noopener noreferrer">监督学习</a>：数据需要由人类专家进行结构化或标记，以使算法能够从数据中提取特征。</p>
+<p>深度学习算法使用深度神经网络 - 由一个输入层、三个或更多（但通常数百个）隐藏层和一个输出布局组成的网络。这些多层级结构可以实现<a href="https://www.ibm.com/cn-zh/topics/unsupervised-learning" target="_self" rel="noopener noreferrer">无监督学习</a>：它们可以自动从大型、未标记和非结构化数据集中提取特征。它不需要人工干预，所以深度学习本质上实现了大规模的机器学习。</p>
+<p>&nbsp;</p>
+ 
+    
+    
+    
+    
+
+</div>
+        
+    </dds-content-block-copy>
+    
+        
+            
+    
+    
+    
+        
+        
+        
+        
+        
+        <dds-image id="image--1922974738" alt="深度神经网络示意图" slot="media" default-src="/content/dam/connectedassets-adobe-cms/worldwide-content/cdp/cf/ul/g/3a/b8/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork.png" class="">
+            
+            
+        </dds-image>
+    
+
+    
+    
+
+
+
+        
+        
+            
+        
+        
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+
+
+</dds-content-block-simple>
+<div horizontal-ruler="">
+    
+    
+    
+    
+        <dds-hr></dds-hr>
+        
+    
+
+    
+    
+
+
+</div>
+</div>
+<div class="simple-narrative">
+<dds-content-block-simple data-autoid="dds--content-block-simple" class=" " content-section-body="">
+    <div slot="heading">
+        
+        
+  
+    <a data-title="生成式人工智能模型的兴起" name="%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%85%B4%E8%B5%B7"></a>
+  
+
+        <dds-content-block-heading data-autoid="dds--content-block__heading" role="heading">
+            
+                
+
+
+  
+    <a data-title="生成式人工智能模型的兴起" name="%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%85%B4%E8%B5%B7"></a>
+  
+
+
+
+    生成式人工智能模型的兴起
+
+
+
+
+
+    
+
+
+            
+        </dds-content-block-heading>
+    </div>
+    <dds-content-block-copy data-autoid="dds--content-block__copy" slot="copy" size="sm">
+        
+            <div class="cms-richtext " id="rich-text-0c1b635928" data-dynamic-inner-content="description">
+    <p>生成式人工智能是指深度学习模型，它可以获取原始数据（例如，所有维基百科或伦勃朗的作品集），并在出现提示时“学习”生成统计上可能的输出。在较高的层次上，生成模型对<br>
+所用的训练数据的简化表示进行编码，并从中提取内容来创建类似的新作品，<br>
+但与原始数据不同。</p>
+<p>多年来，统计学中一直使用生成模型来分析数值数据。然而，随着深度学习的兴起，现在可将它们扩展到图像、语音和其他复杂数据类型。实现这一跨界壮举的一流模型是 2013 年推出的变分自动编码器 (VAE)。VAE 是第一个广泛用于生成逼真图像和语音的深度学习模型。</p>
+<p>“使用 VAE，更容易扩展模型，从而打开了深度生成建模的闸门，”MIT-IBM Watson AI 实验室的生成式人工智能专家<a href="https://research.ibm.com/blog/what-is-generative-AI">Akash Srivastava 说道</a>。“我们今天所认为的生成式人工智能大部分都是从这里开始的。”</p>
+<p>这些模型的早期示例已经展示了可能性，例如，GPT-3、BERT 或 DALL-E 2。未来的模型是使用大量未标记数据进行训练，这些数据可用于不同的任务，并且只需进行最少的微调。在单一领域执行特定任务的系统正在让位于广泛的人工智能，后者可以更广泛地学习并跨领域和跨问题工作。目前，基础模型是在大型、未标记的数据集上进行训练，并针对一系列应用程序进行微调，这些模型正在推动这一转变。</p>
+<p>对于生成式人工智能，预计基础模型将显著加快人工智能在企业中的应用。减少标签要求可带来很多好处，<br>
+企业更容易投入使用人工智能，而且，高度准确、高效的人工智能驱动的自动化意味着，更多的公司将能够在更广泛的关键任务情况下部署人工智能。对于 IBM 来说，希望在于，每个企业最终都能在无摩擦的混合云环境中受益于人工智能基础模型的强大功能。</p>
+ 
+    
+    
+    
+    
+
+</div>
+        
+    </dds-content-block-copy>
+    
+        
+            
+        
+        
+            
+        
+        
+    
+    <div slot="complementary">
+        
+            <div class="aside-card">
+                
+    
+    
+    
+    
+    <dds-card-cta href="https://www.ibm.com/cn-zh/products/watsonx-ai/foundation-models" target="_self" pictogram-placement="top" cta-type="local">
+        
+        
+        
+        
+            <p>深入了解 watsonx.ai 中的基础模型 </p>
+        
+        <dds-card-cta-footer icon-placement="right" href="https://www.ibm.com/cn-zh/products/watsonx-ai/foundation-models" target="_self" slot="footer" aria-hidden="true">
+            
+                
+                
+            
+            
+    
+    
+    
+    
+
+        </dds-card-cta-footer>
+    </dds-card-cta>
+    
+    
+
+    
+
+
+
+            </div>
+            
+                
+    
+
+
+
+            
+        
+        
+        
+    </div>
+    
+    
+    
+    
+    
+
+    
+
+    
+
+
+</dds-content-block-simple>
+<div horizontal-ruler="">
+    
+    
+    
+    
+        <dds-hr></dds-hr>
+        
+    
+
+    
+    
+
+
+</div>
+</div>
+<div class="mixed-series">
+    <div>
+        <div class="bx--col-lg-12 bx--no-gutter">
+            <dds-content-block-mixed content-section-body="">
+                <div slot="heading">
+                    
+  
+    <a data-title="人工智能应用" name="%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8"></a>
+  
+
+                    <dds-content-block-heading>
+                        
+                            
+
+
+  
+    <a data-title="人工智能应用" name="%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8"></a>
+  
+
+
+
+    人工智能应用
+
+
+
+
+
+    
+
+
+                        
+                    </dds-content-block-heading>
+                </div>
+                
+                
+                    
+
+    
+    
+    
+    <div id="mixed-series-container-abbf969724" class="cmp-container">
+        
+        
+        <div class="simple-series">
+<dds-content-group-simple>
+    
+    <dds-content-group-copy>
+        <dds-content-group-paragraph>
+            <div class="cms-richtext " id="rich-text-8d75aa945e" data-dynamic-inner-content="description">
+    <p>如今，AI 系统有许多实际应用。以下是一些最常见的用例：</p>
+ 
+    
+    
+    
+    
+
+</div>
+        </dds-content-group-paragraph>
+    </dds-content-group-copy>
+    
+        
+
+    
+    
+    
+    <div id="simple-series-items-container-2d4f416cfc" class="cmp-container">
+        
+        
+        <div class="content-block-item">
+<dds-content-item>
+    <dds-content-item-heading>
+        
+
+
+
+  
+    语音识别
+
+
+
+
+
+
+    
+
+
+    </dds-content-item-heading>
+    
+    <dds-content-item-copy>
+        <dds-content-item-paragraph>
+            <div class="cms-richtext " id="rich-text-829b25d264" data-dynamic-inner-content="description">
+    <p>语音识别也称为自动语音识别 (ASR)、计算机语音识别或 Speech to Text，它使用 NLP 将人类语音处理成书面格式。许多移动设备将语音识别技术集成到其系统中，以进行语音搜索（比如 Siri），或者提供更多关于英语或许多广泛使用的语言中发送短信的可访问性。<a href="https://www.ibm.com/cn-zh/case-studies/don-johnston-inc" target="_self" rel="noopener noreferrer">请查看我们的成功案例，了解 Don Johnston 如何使用 IBM Watson Text to Speech 来提高课堂的可访问性</a>。</p>
+ 
+    
+    
+    
+    
+
+</div>
+        </dds-content-item-paragraph>
+    </dds-content-item-copy>
+    
+</dds-content-item>
+</div>
+<div class="content-block-item">
+<dds-content-item>
+    <dds-content-item-heading>
+        
+
+
+
+  
+    客户服务
+
+
+
+
+
+
+    
+
+
+    </dds-content-item-heading>
+    
+    <dds-content-item-copy>
+        <dds-content-item-paragraph>
+            <div class="cms-richtext " id="rich-text-9422c08af0" data-dynamic-inner-content="description">
+    <p>在线<a href="https://www.ibm.com/cn-zh/products/watsonx-assistant" target="_self" rel="noopener noreferrer">虚拟代理</a>和聊天机器人正在客户旅程中取代人工代理。它们可以回答有关运输等主题的常见问题 (FAQ)，或者提供个性化建议、交叉销售产品或为用户建议规格等，从而改变了我们所设想的网站和社交媒体平台中的客户参与方式。示例包括：电子商务网站上带有虚拟代理的消息传递机器人；Slack 和 Facebook Messenger 等消息传递应用平台；以及通常由虚拟助手和<a href="https://www.ibm.com/cn-zh/products/watsonx-assistant/voice" target="_self" rel="noopener noreferrer">语音助手</a>完成的任务。<a href="https://www.ibm.com/cn-zh/case-studies/autodesk-inc" target="_self" rel="noopener noreferrer">请查看我们的成功案例，了解 Autodesk Inc. 如何使用 IBM watsonx Assistant 将客户响应时间加快 99%。</a></p>
+ 
+    
+    
+    
+    
+
+</div>
+        </dds-content-item-paragraph>
+    </dds-content-item-copy>
+    
+</dds-content-item>
+</div>
+<div class="content-block-item">
+<dds-content-item>
+    <dds-content-item-heading>
+        
+
+
+
+  
+    计算机视觉
+
+
+
+
+
+
+    
+
+
+    </dds-content-item-heading>
+    
+    <dds-content-item-copy>
+        <dds-content-item-paragraph>
+            <div class="cms-richtext " id="rich-text-6b79f741c0" data-dynamic-inner-content="description">
+    <p>这种 AI 技术使计算机和系统将能够从数字图像、视频和其他视觉输入中获取有意义的信息，并根据这些输入采取行动。这种提供建议的能力让它有别于图像识别任务。在卷积神经网络的支持下，计算机视觉可应用于社交媒体中的照片标记、医疗保健中的放射成像以及汽车行业中的自动驾驶汽车。<a href="https://www.ibm.com/cn-zh/case-studies/mayflower" target="_self" rel="noopener noreferrer">请查看我们的成功案例，了解 ProMare 如何使用 IBM Maximo 为海洋研究设置新课程</a>。</p>
+ 
+    
+    
+    
+    
+
+</div>
+        </dds-content-item-paragraph>
+    </dds-content-item-copy>
+    
+</dds-content-item>
+</div>
+<div class="content-block-item">
+<dds-content-item>
+    <dds-content-item-heading>
+        
+
+
+
+  
+    供应链
+
+
+
+
+
+
+    
+
+
+    </dds-content-item-heading>
+    
+    <dds-content-item-copy>
+        <dds-content-item-paragraph>
+            <div class="cms-richtext " id="rich-text-b25d011792" data-dynamic-inner-content="description">
+    <p>自适应机器人根据物联网 (IoT) 设备信息以及结构化和非结构化数据做出自主决策。NLP 工具可以理解人类的语音，并对他们听到的内容做出反应。预测分析应用于需求响应、库存和网络优化、预防性维护和数字化制造。搜索和模式识别算法（不再只是预测性的，而是分层的）分析实时数据，帮助供应链对机器生成的增强智能作出反应，同时提供即时可见性和透明度。<a href="https://www.ibm.com/cn-zh/case-studies/hendrickson-usa" target="_self" rel="noopener noreferrer">请查看我们的成功案例，了解 Hendrickson 如何使用 IBM Sterling 来支持实时交易</a>。</p>
+ 
+    
+    
+    
+    
+
+</div>
+        </dds-content-item-paragraph>
+    </dds-content-item-copy>
+    
+</dds-content-item>
+</div>
+<div class="content-block-item">
+<dds-content-item>
+    <dds-content-item-heading>
+        
+
+
+
+  
+    天气预报
+
+
+
+
+
+
+    
+
+
+    </dds-content-item-heading>
+    
+    <dds-content-item-copy>
+        <dds-content-item-paragraph>
+            <div class="cms-richtext " id="rich-text-82c0380e57" data-dynamic-inner-content="description">
+    <p>广播公司依赖的天气模型由超级计算机上运行的复杂算法组成，用于进行准确预测。机器学习技术增强了这些模型，使其更具适用性和精确性。<a href="https://www.ibm.com/cn-zh/case-studies/hendrickson-usa" target="_self" rel="noopener noreferrer">请查看我们的成功案例，了解 Emnotion 如何使用 IBM Cloud 帮助天气敏感型企业作出更具前瞻性的数据驱动的决策</a>。</p>
+ 
+    
+    
+    
+    
+
+</div>
+        </dds-content-item-paragraph>
+    </dds-content-item-copy>
+    
+</dds-content-item>
+</div>
+<div class="content-block-item">
+<dds-content-item>
+    <dds-content-item-heading>
+        
+
+
+
+  
+    异常检测
+
+
+
+
+
+
+    
+
+
+    </dds-content-item-heading>
+    
+    <dds-content-item-copy>
+        <dds-content-item-paragraph>
+            <div class="cms-richtext " id="rich-text-46dbef6e2f" data-dynamic-inner-content="description">
+    <p>AI 模型可以梳理大量数据，并在数据集中发现非典型数据点。这些异常现象可以提高人们对设备故障、人为错误或网络安全漏洞的认识。<a href="https://www.ibm.com/cn-zh/case-studies/hendrickson-usa" target="_self" rel="noopener noreferrer">请查看我们的成功案例，了解 Netox 如何使用 IBM QRadar 保护数字业务免受网络威胁</a>。</p>
+ 
+    
+    
+    
+    
+
+</div>
+        </dds-content-item-paragraph>
+    </dds-content-item-copy>
+    
+</dds-content-item>
+</div>
+
+        
+    </div>
+
+
+    
+    
+</dds-content-group-simple>
+</div>
+
+        
+    </div>
+
+
+                
+                
+            </dds-content-block-mixed>
+        </div>
+    </div>
+    <div horizontal-ruler="">
+        
+    
+    
+    
+        <dds-hr></dds-hr>
+        
+    
+
+    
+    
+
+
+    </div>
+
+
+
+</div>
+<div class="simple-narrative">
+<dds-content-block-simple data-autoid="dds--content-block-simple" class=" " no-aside="" content-section-body="">
+    <div slot="heading">
+        
+        
+  
+    <a data-title="人工智能的历史：关键年份和人物" name="%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8E%86%E5%8F%B2%EF%BC%9A%E5%85%B3%E9%94%AE%E5%B9%B4%E4%BB%BD%E5%92%8C%E4%BA%BA%E7%89%A9"></a>
+  
+
+        <dds-content-block-heading data-autoid="dds--content-block__heading" role="heading">
+            
+                
+
+
+  
+    <a data-title="人工智能的历史：关键年份和人物" name="%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8E%86%E5%8F%B2%EF%BC%9A%E5%85%B3%E9%94%AE%E5%B9%B4%E4%BB%BD%E5%92%8C%E4%BA%BA%E7%89%A9"></a>
+  
+
+
+
+    人工智能的历史：关键年份和人物
+
+
+
+
+
+    
+
+
+            
+        </dds-content-block-heading>
+    </div>
+    <dds-content-block-copy data-autoid="dds--content-block__copy" slot="copy" size="sm">
+        
+            <div class="cms-richtext " id="rich-text-0d24736fcf" data-dynamic-inner-content="description">
+    <p>“会思考的机器”的概念可以追溯到古希腊。但是，自从电子计算出现（并与本文讨论的一些主题相关）以来，人工智能发展中的重要事件和里程碑包括：</p>
+<ul><li><strong>1950 年：</strong>艾伦·图灵 (Alan Turing) 出版<em>《计算机器与智能》</em>(Computing Machinery and Intelligence)。在这篇论文中，因在二战期间破解纳粹 ENIGMA 密码而闻名的图灵试图回答“机器能思考吗？”的问题，并引入了图灵测试，以确定计算机能否表现出与人类相同的智能（或相同智能的结果）。从那时起，图灵测试的价值就一直存在争议。</li></ul>
+<ul><li><strong>1956 年：</strong>约翰·麦卡锡 (John McCarthy) 在达特茅斯学院举行的第一届人工智能会议上首创“人工智能”一词。（麦卡锡后来发明了 Lisp 语言。）同年晚些时候，Allen Newell、JC Shaw 和 Herbert Simon 推出了 Logic Theorist，这是第一个运行的人工智能软件程序。</li></ul>
+<ul><li><strong>1967 年：</strong>Frank Rosenblatt 构建了 Mark 1 感知机，这是第一台基于神经网络的计算机，可以通过反复试验来“学习”。仅仅一年后，Marvin Minsky 和 Seymour Papert 就出版了一本名为&nbsp;<em>《感知器》</em> (Perceptrons) 的书，该书成为神经网络的里程碑式著作，至少在一段时间内成为反对未来神经网络研究项目的论据。</li></ul>
+<ul><li><strong>20 世纪 80 年代：</strong>使用反向传播算法进行自身训练的神经网络在人工智能应用中得到广泛应用。</li></ul>
+<ul><li><strong>1997 年：</strong>IBM 的“深蓝”在一场国际象棋比赛（以及复赛）中击败了当时的世界象棋冠军 Garry Kasparov。</li></ul>
+<ul><li><strong>2011 年：</strong>IBM Watson 在 <em>Jeopardy!</em> 比赛中击败冠军 Ken Jennings 和 Brad Rutter！</li></ul>
+<ul><li><strong>2015 年：</strong>百度的 Minwa 超级计算机使用一种称为卷积神经网络的特殊深度神经网络来识别和分类图像，准确率超越普通人。</li></ul>
+<ul><li><strong>2016 年：</strong>DeepMind 的 AlphaGo 程序由深度神经网络驱动，在五场比赛中击败了围棋世界冠军 Lee Sodol。由于棋局中可能出现大量棋步（四手之后就有超过 14.5 万亿个可能棋步！），因此，这场胜利意义重大。后来，据报道，谷歌以 4 亿美元的价格收购了 DeepMind。</li></ul>
+<ul><li><strong>2023 年</strong>：大型语言模型或 LLM（例如 ChatGPT）的兴起，为人工智能的性能和发掘企业价值的潜力带来了巨大变化。通过这些新的生成式人工智能实践，可以使用大量原始、未标记的数据对深度学习模型进行预训练。</li></ul>
+<p>&nbsp;</p>
+ 
+    
+    
+    
+    
+
+</div>
+        
+    </dds-content-block-copy>
+    
+        
+            
+        
+        
+            
+        
+        
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+
+
+</dds-content-block-simple>
+<div horizontal-ruler="">
+    
+    
+    
+    
+        <dds-hr></dds-hr>
+        
+    
+
+    
+    
+
+
+</div>
+</div>
+<div class="offering-group">
+
+
+    
+  
+    <a data-title="相关人工智能解决方案" name="%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88"></a>
+  
+
+    <dds-content-block-horizontal content-section-body="">
+        <dds-content-block-heading role="heading" aria-level="2" data-autoid="dds--content-block__heading" slot="heading">
+            相关人工智能解决方案
+        </dds-content-block-heading>
+        
+
+    
+    
+    
+    <div id="offering-group-items-container-aaacf42026" class="cmp-container">
+        
+        
+        <div class="offering-item">
+
+
+
+    <dds-content-item-horizontal>
+        
+            
+            
+        
+        
+        <dds-content-item-heading>
+            
+
+
+
+  
+    人工智能 (AI) 解决方案
+
+
+
+
+
+
+    
+
+
+        </dds-content-item-heading>
+        <dds-content-item-horizontal-copy>
+            <caem-paragraph size="normal">
+                <div class="cms-richtext " id="rich-text-3eba9297a2" data-dynamic-inner-content="description">
+    <p>借助 IBM 业界领先的人工智能专业知识和解决方案组合，让人工智能在您的业务中发挥作用。</p>
+ 
+    
+    
+    
+    
+
+</div>
+            </caem-paragraph>
+        </dds-content-item-horizontal-copy>
+        <dds-link-list slot="footer" type="vertical">
+            
+    
+    
+        
+        
+        <dds-link-list-item-cta aria-label="深入了解 AI 解决方案" cta-type="local" href="https://www.ibm.com/cn-zh/artificial-intelligence" icon-placement="right" role="listitem" target="_self">
+            深入了解 AI 解决方案
+            
+        </dds-link-list-item-cta>
+    
+    
+    
+
+    
+
+
+            
+        </dds-link-list>
+    </dds-content-item-horizontal>
+
+
+</div>
+<div class="offering-item">
+
+
+
+    <dds-content-item-horizontal>
+        
+            
+            
+        
+        
+        <dds-content-item-heading>
+            
+
+
+
+  
+    人工智能服务
+
+
+
+
+
+
+    
+
+
+        </dds-content-item-heading>
+        <dds-content-item-horizontal-copy>
+            <caem-paragraph size="normal">
+                <div class="cms-richtext " id="rich-text-9a3b8ff0e5" data-dynamic-inner-content="description">
+    <p>通过增加人工智能重塑关键工作流程和运营，最大限度提升体验、决策和商业价值。</p>
+ 
+    
+    
+    
+    
+
+</div>
+            </caem-paragraph>
+        </dds-content-item-horizontal-copy>
+        <dds-link-list slot="footer" type="vertical">
+            
+    
+    
+        
+        
+        <dds-link-list-item-cta aria-label="深入了解人工智能服务" cta-type="local" href="https://www.ibm.com/cn-zh/consulting/artificial-intelligence" icon-placement="right" role="listitem" target="_self">
+            深入了解人工智能服务
+            
+        </dds-link-list-item-cta>
+    
+    
+    
+
+    
+
+
+            
+        </dds-link-list>
+    </dds-content-item-horizontal>
+
+
+</div>
+<div class="offering-item">
+
+
+
+    <dds-content-item-horizontal>
+        
+            
+            
+        
+        
+        <dds-content-item-heading>
+            
+
+
+
+  
+    网络安全人工智能
+
+
+
+
+
+
+    
+
+
+        </dds-content-item-heading>
+        <dds-content-item-horizontal-copy>
+            <caem-paragraph size="normal">
+                <div class="cms-richtext " id="rich-text-4503cb207f" data-dynamic-inner-content="description">
+    <p class="cmp-text__paragraph">人工智能正在改变网络安全的整体格局，它可以分析大量的风险数据，加快响应速度，并在安全资源投入不足的情况下提高运营安全性。 </p>
+    
+    
+    
+    
+
+</div>
+            </caem-paragraph>
+        </dds-content-item-horizontal-copy>
+        <dds-link-list slot="footer" type="vertical">
+            
+    
+    
+        
+        
+        <dds-link-list-item-cta aria-label="深入了解面向网络安全的人工智能" cta-type="local" href="https://www.ibm.com/cn-zh/ai-cybersecurity" icon-placement="right" role="listitem" target="_self">
+            深入了解面向网络安全的人工智能
+            
+        </dds-link-list-item-cta>
+    
+    
+    
+
+    
+
+
+            
+        </dds-link-list>
+    </dds-content-item-horizontal>
+
+
+</div>
+
+        
+    </div>
+
+
+    </dds-content-block-horizontal>
+
+</div>
+<div class="block-card-container container responsivegrid">
+    <dds-content-block-cards data-autoid="dds--content-block-cards" content-section-body="">
+        
+            
+  
+    <a data-title="资源" name="%E8%B5%84%E6%BA%90" slot="heading"></a>
+  
+
+            <dds-content-block-heading slot="heading" data-autoid="dds--content-block__heading" role="heading">
+                
+                    
+
+
+  
+    <a data-title="资源" name="%E8%B5%84%E6%BA%90"></a>
+  
+
+
+
+    资源
+
+
+
+
+
+    
+
+
+                
+            </dds-content-block-heading>
+        
+
+        
+
+        <dds-card-group cards-per-row="3" grid-mode="border">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <dds-card-group-item href="https://www.ibm.com/account/reg/signup?formid=urx-52620" target="_blank" pictogram-placement="top" cta-type="local" aria-label="下载人工智能电子书" class="no-events" no-poster="true">
+                             
+            
+            <dds-card-eyebrow slot="eyebrow" aria-hidden="true" class="bx--card__eyebrow">
+                电子书
+            </dds-card-eyebrow>
+            <dds-card-heading role="heading" aria-level="3" slot="heading" class="bx--card__heading">
+                如何选择合适的 AI 基础模型
+            </dds-card-heading>
+                        
+                <p>了解如何使用模型选择框架来选择适合业务需求的基础模型。</p>
+            
+            <dds-card-cta-footer icon-placement="right" cta-type="local" href="https://www.ibm.com/account/reg/signup?formid=urx-52620" slot="footer" aria-hidden="true" target="_blank" class="bx--card__footer-icon-size">
+                
+                    
+                    
+                
+                
+    
+    
+    
+    
+
+            </dds-card-cta-footer>
+            
+        </dds-card-group-item>
+    
+    
+    
+
+    
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <dds-card-group-item href="https://www.ibm.com/training/artificial-intelligence" target="_self" pictogram-placement="top" cta-type="local" class="no-events" no-poster="true">
+                             
+            
+            <dds-card-eyebrow slot="eyebrow" aria-hidden="true" class="bx--card__eyebrow">
+                培训
+            </dds-card-eyebrow>
+            <dds-card-heading role="heading" aria-level="3" slot="heading" class="bx--card__heading">
+                通过我们的数字化学习订阅节省高达 70% 的费用
+            </dds-card-heading>
+                        
+                <p>立即购买单用户或多用户数字化学习订阅，即可访问包含 100 多个在线课程的完整目录，以低廉的价格扩展我们一系列产品的技能。</p>
+            
+            <dds-card-cta-footer icon-placement="right" cta-type="local" href="https://www.ibm.com/training/artificial-intelligence" slot="footer" aria-hidden="true" target="_self" class="bx--card__footer-icon-size">
+                
+                    
+                    
+                
+                
+    
+    
+    
+    
+
+            </dds-card-cta-footer>
+            
+        </dds-card-group-item>
+    
+    
+    
+
+    
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <dds-card-group-item href="https://www.ibm.com/account/reg/signup?formid=urx-52477" target="_blank" pictogram-placement="top" cta-type="local" class="no-events" no-poster="true">
+                             
+            
+            <dds-card-eyebrow slot="eyebrow" aria-hidden="true" class="bx--card__eyebrow">
+                市场调研
+            </dds-card-eyebrow>
+            <dds-card-heading role="heading" aria-level="3" slot="heading" class="bx--card__heading">
+                2023 年 Gartner Peer Insights“客户之选”
+            </dds-card-heading>
+                        
+                <p>IBM watsonx Assistant 在 2023 年 Gartner Peer Insights 企业会话式 AI 平台的客户之声报告中荣获“客户之选”</p>
+            
+            <dds-card-cta-footer icon-placement="right" cta-type="local" href="https://www.ibm.com/account/reg/signup?formid=urx-52477" slot="footer" aria-hidden="true" target="_blank" class="bx--card__footer-icon-size">
+                
+                    
+                    
+                
+                
+    
+    
+    
+    
+
+            </dds-card-cta-footer>
+            
+        </dds-card-group-item>
+    
+    
+    
+
+    
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <dds-card-group-item href="https://developer.ibm.com/articles/develop-an-intelligent-inventory-and-distribution-strategy-using-ai/" target="_blank" pictogram-placement="top" cta-type="local" class="no-events" no-poster="true">
+                             
+            
+            <dds-card-eyebrow slot="eyebrow" aria-hidden="true" class="bx--card__eyebrow">
+                文章
+            </dds-card-eyebrow>
+            <dds-card-heading role="heading" aria-level="3" slot="heading" class="bx--card__heading">
+                AI 增强型采购策略
+            </dds-card-heading>
+                        
+                <p>了解机器学习如何预测需求并降低成本。</p>
+            
+            <dds-card-cta-footer icon-placement="right" cta-type="local" href="https://developer.ibm.com/articles/develop-an-intelligent-inventory-and-distribution-strategy-using-ai/" slot="footer" aria-hidden="true" target="_blank" class="bx--card__footer-icon-size">
+                
+                    
+                    
+                
+                
+    
+    
+    
+    
+
+            </dds-card-cta-footer>
+            
+        </dds-card-group-item>
+    
+    
+    
+
+    
+
+
+
+
+
+
+        </dds-card-group>
+        
+        
+    
+    
+    
+    
+
+    
+
+
+
+
+        
+    </dds-content-block-cards>
+    <div horizontal-ruler="">
+        
+    
+    
+    
+        <dds-hr></dds-hr>
+        
+    
+
+    
+    
+
+
+    </div>
+
+
+
+</div>
+
+        
+    </div>
+
+
+                        
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    
+
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-0b6bee884b" class="cmp-experiencefragment cmp-experiencefragment--watsonx-ai">
+
+    
+
+
+
+<div class="xf-content-height">
+    <div class="root container responsivegrid">
+
+    
+    
+    
+    <div id="container-efd6a9bb3d" class="cmp-container">
+        
+        <div class="next-steps container responsivegrid">
+
+    
+    
+    
+    <div id="next-steps-4b68ce9bf9" class="cmp-container">
+        
+        <div class="next-steps-container">
+
+<div data-cmp-is="next-steps-container" class="bx--next-steps-container">
+    <div class="bx--cta-section--g10 bx--cta-section--theme" data-dynamic-content-type="ADOBE_TARGET" data-component-name="next-steps" data-component-identifier="next-steps">
+         
+         
+             
+                    
+
+                    
+                        <dds-cta-block no-border="" class=" cta-block-section__container">
+                            <div role="heading" data-autoid="dds--content-block__heading" class="bx--content-block__heading" slot="heading">
+                                
+
+  
+    <a data-title="采取后续步骤" name="%E9%87%87%E5%8F%96%E5%90%8E%E7%BB%AD%E6%AD%A5%E9%AA%A4"></a>
+  
+
+<span class="enhanced-title ">采取后续步骤</span>
+
+
+
+    
+
+                            </div>
+                            <dds-content-block-copy size="sm">
+                                <dds-content-block-paragraph>
+                                    <div class="cms-richtext " id="rich-text-cd8e1cf52e" data-dynamic-inner-content="description">
+    <p>使用面向 AI 构建器的新一代企业级开发平台 IBM watsonx.ai，可以训练、验证、调整和部署生成式 AI、基础模型和机器学习功能。使用一小部分数据，即可在很短的时间内构建 AI 应用程序。</p>
+ 
+    
+    
+    
+    
+
+</div>
+                                </dds-content-block-paragraph>
+                            </dds-content-block-copy>
+                            
+                                
+
+
+    <dds-button-group slot="action">
+        
+    
+    
+    
+    
+    <dds-button-cta href="https://www.ibm.com/cn-zh/products/watsonx-ai" target="_self" kind="primary" cta-type="local">
+        <span>深入了解 watsonx.ai</span>
+        
+        
+    </dds-button-cta>
+    
+    
+
+
+        
+    
+    
+    
+    
+    <dds-button-cta href="https://www.ibm.com/account/reg/signup?formid=DEMO-dataaiwatsonxai" target="_blank" kind="tertiary" cta-type="local">
+        <span>预约实时演示</span>
+        
+        
+    </dds-button-cta>
+    
+    
+
+
+    </dds-button-group>
+
+
+
+                            
+
+                            
+
+                            
+
+                            
+                        </dds-cta-block>
+                    
+                
+            
+        
+    </div>
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+
+</div>
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</dds-table-of-contents>
+
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-b85182fdf5" class="cmp-container">
+        
+        
+        
+    </div>
+
+</div>
+<div class="footer">
+
+
+
+
+    <dds-footer-container data-cmp-is="footer" data-autoid="dds--footer" class="cmp-footer" data-children-count="0" size="tall"></dds-footer-container>
+
+
+</div>
+
+        
+    </div>
+
+</div>
+
+</dds-video-cta-container>
+
+<dds-lightbox-video-player-container></dds-lightbox-video-player-container>
+
+
+    
+    
+    
+<script src="/etc.clientlibs/adobe-cms/clientlibs/clientlib-idlBundle.lc-2afd79fa944130608b59c23b36700691-lc.min.js"></script>
+
+
+
+    
+
+    <script src="/etc.clientlibs/adobe-cms/clientlibs/clientlib-target-antiflicker.lc-36a1efb28e947b5873f4a28c2cf9d5eb-lc.min.js"></script>
+<script src="/etc.clientlibs/adobe-cms/clientlibs/clientlib-idlStyles.lc-4d13d0ab7cb6b1bbc50a02c3fb96cd68-lc.min.js"></script>
+
+
+
+<script src="https://www.ibm.com/common/digitaladvisor/cm-app/latest/cm-app.min.js" defer="" async=""></script>
+
+
+
+    
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon/web-components/version/v1.45.0/tag.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon/web-components/version/v1.45.0/code-snippet.min.js"></script>
+        
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/leadspace.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-group-banner.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-block-horizontal.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-item-horizontal.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/table-of-contents.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/tag-group.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-section.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-group-heading.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-block-simple.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-block-cards.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/cta-block.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-group.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/background-media.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-block-mixed.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/footer.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-group-simple.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/card-group.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/image.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/text-cta.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-block.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/link-list.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/link-list-item-cta.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/button-group.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/card-cta-footer.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-item.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/button-cta.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/content-block-segmented.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/horizontal-rule.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/lightbox-video-player.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon-for-ibm-dotcom/version/v1.49.0/video-cta-container.min.js"></script>
+        
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon/carbon-for-aem/version/v0.17.0/paragraph.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon/carbon-for-aem/version/v0.17.0/breadcrumb.min.js"></script>
+        
+            <script type="module" src="https://1.www.s81c.com/common/carbon/carbon-for-aem/version/v0.17.0/star-rating.min.js"></script>
+        
+    
+    <script type="module" id="anti-flicker-script">
+        document.getElementById('anti-flicker-style').remove();
+        document.getElementById('anti-flicker-script').remove();
+    </script>
+
+    <script defer="" src="/etc.clientlibs/adobe-cms/clientlibs/clientlib-pdfviewer.lc-e4412705ab74ab8b0e2e21371e0762c9-lc.min.js"></script>
+
+
+
+
+    
+
+    
+
+    
+
+
+
+    
+
+    
+
+
+
+
+<!-- Added for Adobe analytics implementation ADCMS-5834
+<script type="text/javascript">
+
+    adobeDataLayer.push({
+        "event": "linkClick",
+        "web": {
+            "webPageDetails": {
+                "URL": document.URL,
+                "name": "home"
+            },
+            "webInteraction": {
+                "linkClick":"event",
+                "value":"1",
+                "type": "other",
+                "URL": document.URL,
+                "name": "linkClick: " +  document.URL
+            }
+        },
+    })
+</script>  !-->
+
+<!-- Added for Adobe analytics implementation ADCMS-5834 & ADCMS-6152 !-->
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function() {
+        var templatePath = "\/conf\/adobe\u002Dcms\u002Deditable\/settings\/wcm\/templates\/learn";
+        var templateName = templatePath.split('/').pop();
+        const currentUrl = document.URL;
+        const parts = currentUrl.split("/");
+        const sectionOne = parts.length > 3 ? parts[3].split("?")[0] : "";
+        const sectionTwo = parts.length > 4 ? parts[4].split("?")[0] : "";
+        const sectionThree = parts.length > 5 ? parts[5].split("?")[0] : "";
+
+        function getCookieByName(name) {
+            const cookieArr = document.cookie.split(';');
+            for (let i = 0; i < cookieArr.length; i++) {
+                const cookie = cookieArr[i].trim();
+                if (cookie.startsWith(name + "=")) {
+                    return cookie.substring(name.length + 1);
+                }
+            }
+            return null;
+        }
+        function cleanUrl(url) {
+            let modifiedUrl = url;
+            if (modifiedUrl.startsWith("www")) {
+                modifiedUrl = modifiedUrl.replace(/^www\.?/, "");
+            }
+
+            return modifiedUrl;
+        }
+
+        const cisSessionId = getCookieByName("CISSESSIONIDP07A");
+        let loginStatus = cisSessionId ? "logged in" : "logged out";
+
+        adobeDataLayer.push({
+            "event": "pageLoad",
+            "_ibm": {
+                "page": {
+                    "siteSection2": sectionTwo,
+                    "siteSection3": sectionThree,
+                    "pageType": templateName,
+                    "domain": cleanUrl(window.location.host),
+                    "siteLanguage": "zh",
+                    "pageName": cleanUrl(window.location.host) + " | " + templateName + " | 什么是人工智能 (AI)？  | IBM",
+                    "siteCountry": "cn"
+                },
+                "user": {
+                    "userAgent": navigator.userAgent,
+                    "loginStatus": loginStatus
+                },
+                "web": {
+                    "webPageDetails": {
+                        "pageViews": {
+                            "value": 1
+                        },
+                        "URL": document.URL,
+                        "name": "什么是人工智能 (AI)？  | IBM",
+                        "siteSection": sectionOne
+                    },
+                    "webReferrer": {
+                        "URL": document.referrer
+                    }
+                }
+            }
+        });
+
+        document.addEventListener('click', function(event) {
+            if (event.target.closest('.WACLauncher__ButtonContainer')) {
+                handleClick(event);
+            }
+        });
+
+        function handleClick(event) {
+            adobeDataLayer.push({
+                "event": "chatInitialized",
+                "_ibm": {
+                    "chat": {
+                        "chatBotClick": {
+                            "value": 1
+                        },
+                        "liveChatType": "Support or Sales",
+                        "chatLanguage": "zh",
+                        "chatCountry": "cn"
+                    },
+                    "click": {
+                       "linkTileNumber": 1
+                    },
+                    "web": {
+                        "webPageDetails": {
+                            "URL": document.URL,
+                            "name": "什么是人工智能 (AI)？  | IBM"
+                        },
+                        "webInteraction": {
+                            "name": "chatInitialized",
+                            "URL": document.URL,
+                            "type": "other"
+                        }
+                    }
+                }
+            });
+        }
+    });
+</script>
+
+<script type="text/javascript" src="/kJK3O4wX86Qm6/zaIZvJbZQS/G9sI/ak7JGpwcXfwbfE/Elk8RmwD/U2My/XQUhITYB"></script><link rel="stylesheet" type="text/css" href="/kJK3O4wX86Qm6/zaIZvJbZQS/G9sI/pD7J/WQ0WRmwD/CEZ6/WHVzSUxX">
+                                        <script src="/kJK3O4wX86Qm6/zaIZvJbZQS/G9sI/pD7J/WQ0WRmwD/e0RF/CjRWQwIp" async="" defer=""></script>
+                                        <div id="sec-overlay" style="display:none;">
+                                        <div id="sec-container">
+                                        </div>
+                                      </div>
+</body></html>

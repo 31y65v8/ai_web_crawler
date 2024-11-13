@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "https_waf_cookie=43d72a2c-37b3-435e01202b69fbd07ddb1c33dffecfa24cb4; waf_captcha_marker=aaa489614e5cc7dfebf2619bcb5345f947f5f299200b28b8581f13498b653516; uuid_tt_dd=10_20289270190-1731502152641-868292; dc_session_id=10_1731502152641.254787",
+        "Referer": "https://blog.csdn.net/pictoexcel/article/details/137498430",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://blog.csdn.net/pictoexcel/article/details/137498430",
+    "wait": 6
+}

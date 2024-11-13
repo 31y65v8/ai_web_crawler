@@ -1,0 +1,327 @@
+<!DOCTYPE html><html><head>
+    <title>不同类型的AI差异点在哪？- 雪兽软件</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no,email=no,address=no">
+    <meta name="keywords" content="不同类型的AI差异点在哪？ 雪兽软件 软件开发 ERP定制 ERP系统定制 企业管理软件 企业软件 H5开发 HTML开发 网站开发 互联网+ 应用商店 应用市场 Snowbeasts 雪兽 ERP">
+    <meta name="description" content="人工智能是一个多学科领域，涉及使计算机/机器像人类一样智能。从理论上讲，它旨在模拟人类的认知功能，并超越人类。这种人工智能的理论概念被称为“人工通用智能”。从概...">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.snowbeasts.com/image/icon-180x180.png">
+    <link rel="icon" type="image/png" href="https://www.snowbeasts.com/image/icon-192x192.png" sizes="192x192">
+    
+    
+
+
+    <link href="https://www.snowbeasts.com/css/web.min.css?v=2.1.5" rel="stylesheet">
+</head>
+<body ontouchstart="">
+<header class="layout-header fixed width-full large background-white transition" data-script="header?find(this).addClass('box-shadow'):find(this).removeClass('box-shadow')">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 col-sm-3 logo"><a href="https://www.snowbeasts.com" class="noline"><img src="https://saas.snowbeasts.com/business/file/SnowbeastsSystem/35/661ce61b91f22a27b8637791/e230b65401ba4036967e38b7a09140a8#size=29295&amp;name=logo-v5-x-cn.bk.jpg&amp;width=333&amp;height=140&amp;time=1713169947385&amp;type=image"></a></div>
+            <div class="col-xs-8 col-sm-9 text-gray-dark">
+                <i class="sicon-menu float-right hidden-sm hidden-md hidden-lg" onclick="SnowWeb.showMenu(event)"></i>
+                <div class="menu-links">
+                    <ul class="language list-fluid float-right hide">
+                        <li><button class="button prompt smaller base-width">中文</button></li>
+                        <li><button class="button blank smaller base-width">English</button></li>
+                    </ul>
+                    <nav class="links relative f5">
+                        <input data-model="lastMenuItem" value="#menuBlog" type="hidden">
+                        <input data-model="menuItem" value="#menuBlog" type="hidden">
+                        <div>
+                            <a id="menuHome" href="https://www.snowbeasts.com/" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">首页</a>
+                            <a id="menuApps" href="https://www.snowbeasts.com/apps" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">产品</a>
+                            <a id="menuERP" href="https://www.snowbeasts.com/erp" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">定制</a>
+                            <a id="menuCase" href="https://www.snowbeasts.com/cases" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">案例</a>
+                            <a id="menuBlog" href="https://www.snowbeasts.com/blog" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="active">动态</a>
+                            <a id="menuAbout" href="https://www.snowbeasts.com/about" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">关于</a>
+                            
+                        </div>
+                        <hr class="absolute bottom transition hidden-xs" data-script="@menu_mouse_action" style="left: 288px; width: 72px;">
+                    </nav>
+                    <i class="sicon-cross absolute right top padding f3 hidden-lg hidden-md hidden-sm" onclick="SnowWeb.showMenu();"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="fixed call-service transition text-gray-light">
+        <i class="icon-phone"></i>
+        <div class="padding-large border-radius box-shadow large transition-opacity">
+            <p class="text-gray-light">商务咨询</p>
+            <p class="row-1"></p>
+            <a class="call text-gray-dark" href="tel:13020133833">13020133833</a>
+            <p class="row-5"></p>
+            <p class="text-gray-light">技术支持</p>
+            <p class="row-1"></p>
+            <a class="call text-gray-dark" href="tel:18621663782">18621663782</a>
+            <p class="row-5"></p>
+            <p class="text-gray-light text-nowrap">您的反馈是我们前行的动力</p>
+        </div>
+    </section>
+</header>
+<p class="layout-header-block"></p>
+<div class="page-blog">
+    <section>
+        <p class="row-10 hidden-xs"></p>
+        <p class="row-10"></p>
+        <div class="container">
+            <div class="row">
+                <p class="hidden-xs hidden-sm hidden-md col-lg-1"></p>
+                <div class="col-sm-9 col-lg-8 details">
+                    <div class="relative">
+                        <h1 class="f3 text-gray-dark">不同类型的AI差异点在哪？</h1>
+                        <p class="row-1"></p>
+                        <p class="f7 text-purple">文章发表于2023-11-07 11:48:11，归属【<a class="text-purple" href="https://www.snowbeasts.com/blog/3/1">科技前沿</a>】分类，已有513人阅读</p>
+                        <p class="row-5"></p>
+                        
+                        <p><img src="https://saas.snowbeasts.com/business/file/SnowbeastsSystem/35/6549b33a7aa37c5401dbf733/985f1106a537438ebe2a024f68995dc7#size=506738&amp;name=128.png&amp;width=1000&amp;height=667&amp;time=1699328826146&amp;type=image" class="width-full" alt="科技前沿"> </p>
+                        <p class="row-5"></p>
+                        
+                        <div class="content f6 text-gray-dark">
+                            <p>人工智能是一个多学科领域，涉及使计算机/机器像人类一样智能。从理论上讲，它旨在模拟人类的认知功能，并超越人类。这种人工智能的理论概念被称为“人工通用智能”。从概念上看，人工智能仍处于起步阶段。尽管如此，迄今为止，人工智能已经广泛应用于所有行业。</p>
+<p>人工智能在过去十年能够快速发展的一个重要因素是依靠大数据。搜索引擎、社交媒体、电子商务、物联网和在线商业分析都强调了数据的重要性。互联网使来自任何地方的数据实时可用，企业需要从大量数据中快速提取有用的数据。人类实际上无法处理这种数据量大、冗余的任务，而计算机缺乏类似人类的认知功能来独立处理数据。唯一的选择是给计算机注入类似人类的智能，让它们从数据中学习，而不是依赖于明确的编程。</p>
+<p>人工智能正在发展，并且已经以机器学习和深度学习的形式应用。机器学习侧重于通过识别数据模式以及数据和结果之间的相关性从历史数据中学习。深度学习侧重于从数据本身中提取代表性概念。机器学习和深度学习是当前人工智能的核心。</p>
+<p>通过对人工智能的分类，可以更好地理解人工智能的进化和应用。根据人工智能的能力对其进行分类，可以看出人工智能是如何发展的。根据能力，有三种类型的人工智能。</p>
+<p>1. 狭义人工智能（弱AI）</p>
+<p>2. 通用人工智能（强AI）</p>
+<p>3. 超级人工智能</p>
+<p>人工智能的分类以功能为基础，突出其技术适用性。密歇根州立大学综合生物学和计算机科学助理教授阿伦德·辛茨2016年的一篇文章中给出了这种分类。基于功能，有四种类型的人工智能。</p>
+<p>1. 响应式机器</p>
+<p>2. 有限的记忆</p>
+<p>3. 心智理论</p>
+<p>4. 自我意识</p>
+<p>让我们来了解不同类型的人工智能。</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">狭义AI/弱AI</span></p>
+<p>狭义人工智能，也被称为“弱人工智能”，是应用最广泛、最成功的人工智能形式。狭义人工智能模拟人类智能在有限的环境中执行单一的特定任务。它是认知能力的一个子集，只在一个特定的功能上表现出色。同一个子集不能应用于另一个任务，即狭义的AI只能在有限的预定义范围内运行，不能泛化到执行其他任务。狭义人工智能的一些例子是虚拟个人助理(如Siri、Alexa等)、图像识别程序、自动驾驶汽车、IBM的沃森、谷歌的页面排名算法、谷歌翻译、推荐引擎、聊天机器人、垃圾邮件过滤等。例如，人脸识别软件可以识别熟悉的面孔，但它不能对语音命令做出响应。虚拟个人助理可以响应语音命令，但不能执行其他任何操作。许多弱人工智能是有关机器学习或深度学习的应用。</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">一般AI/强AI</span></p>
+<p>通用人工智能，也被称为强人工智能或通用人工智能，是一个术语，用于实现不受任何环境限制的全套认知能力。它的目标是使机器能够将人类水平的智能应用于任何任务。它的重点是推导出一种通用的算法，用于在任何环境中学习和行动。研究人员还没有能够实现强人工智能。从理论上讲，一个强大的人工智能程序必须通过图灵测试和中文房间测试。许多不同的人工智能技术正在开发中，以实现AGI（通用人工智能）。这包括计算机视觉、自然语言处理、模糊逻辑、机器人、机器学习、深度学习等。据估计，人脑每秒可以进行10亿次计算，而即使是最快的超级计算机也需要40分钟才能完成同样数量的计算。因此，强人工智能似乎不会很快实现。</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">超级人工智能</span></p>
+<p>超级人工智能是指可能优于人类智力水平的人工智能。它设想机器能够比人类更好地学习、推理和解决问题。</p>
+<p>现在让我们根据功能来讨论不同类型的人工智能。</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">响应式机器</span></p>
+<p>响应式机器是人工智能的主要形式。它不储存过去的经历。因此，它只对实时数据进行操作。它接收数据并对其作出反应以执行特定的任务。这种类型的人工智能在其能力上是有限的，并且算法是为执行特定任务而定制的。同样的算法不能应用于任何其他类似的任务。响应式机器的一个流行例子是IBM的“深蓝”。深蓝是一台会下棋的超级计算机。这是一台没有任何内存的响应式机器。它查看当前的棋盘棋子，并应用其算法来确定下一个可能的移动和对手。由于它不使用任何记忆，它不能从过去的经验中学习，也不能随着时间的推移而提高。它所做的只是对当前的游戏做出反应，并决定最优的策略。深蓝因在1990年击败国际象棋大师加里·卡斯帕罗夫而闻名。</p>
+<p>另一个响应式机器的著名例子是谷歌的Alpha Go。它是一种更复杂的AI，因为它使用神经网络来评估游戏。阿尔法围棋以击败顶尖的人类围棋专家而闻名，尽管它是一台纯粹的响应式机器，无法进行任何形式的自我训练。</p>
+<p>响应式机器被设计成在特定的情况下运行，简单地执行特定的任务。许多研究人员认为，人工智能应该只向响应式机器发展。然而，如果没有一个适当的环境，实际上不可能实现任何人工通用智能。</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">有限记忆</span></p>
+<p>这种形式的人工智能具有短暂的记忆。它可以从过去的经验中学习，以在特定的任务中脱颖而出，但不能建立详细的经验库。这些机器有一个静态存储器，用来存储适用于它们任务的世界的特定表征。他们也有动态记忆，他们只存储刚刚过去的经历或短期记忆。通过从静态记忆中感知周围世界的表象，并在短期记忆的帮助下应用，从而在特定任务中表现出色。</p>
+<p>有限记忆人工智能的一个流行例子是自动驾驶汽车。这些汽车有一个静态记忆来识别交通信号、交通灯和车道标记。它们有动态记忆，可以储存周围车辆的速度和方向。通过使用静态记忆中的规则和知识，并以短期记忆的形式感知他们当前的环境，他们尝试与其他车辆和人类驾驶员一起自动驾驶。然而，他们对其他车辆的速度和方向感知的记忆是短暂的，只够完成他们当前的旅程。随着时间的推移，他们无法从自己的驾驶经历中学习。</p>
+<p>有限内存人工智能被广泛应用于机器学习。目前大多数机器学习应用都是基于有限内存的人工智能。三种类型的机器学习模型使用有限的记忆——强化学习，长短期记忆(LSTM)和进化生成对抗网络(E-GAN)。强化学习利用短期记忆来提高预测能力，并通过反复的试验来完成任务。LSTM是最流行的机器学习模型。它利用最近的历史数据，对旧数据进行处理。它试图从最新的数据模式中识别结果，或者根据短期记忆做出预测。E-GAN是一种进化模型，机器不断学习，并从最近的记忆和结果中提高其性能。新的结果是建立在对过去结果的预测之上的。当然，模型会随着不断的学习而发展。</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">心智理论</span></p>
+<p>目前所有的AI系统都是响应式或有限内存设备，它们都属于狭义的AI。心智理论设想机器代表世界，在那里它们有自己的思想、感觉和决定。这是未来要实现的目标。现实生活中在这个方向上的一些努力是像Kismet和Sophia这样的机器人。索菲亚是一个配备了先进的计算机视觉能力的机器人，可以识别个人和他人。Kismet是一个机器人头部，旨在识别和模仿人类的情绪。</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">自我意识</span></p>
+<p>这是人工智能的最高目标，就是让机器自己对世界有适当的表征，对自己有意识。它设想机器能够意识到他们的特征、条件和内部状态，以及他们的感觉、信仰。有自我意识的机器不需要从模型那里借用意识。相反，拥有它的意识。它会知道自己想要什么，必须做什么。这样的机器本身就是一个活生生的生物。</p>
+<p>人类的思维本身就是一个复杂的谜题，创造一个人类思维的副本或任何更好的东西都是未知的。</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">结论</span></p>
+<p>目前所有的人工智能应用都属于狭义的人工智能，具有反应性或有限内存的功能。这些应用程序没有对世界的表示，或者只有有限和特定的表示，但它们是如此有价值和可靠，以至于它们可以执行普通人无法执行的大量数据和面向细节的任务。即使是这些原始的、有限的人工智能形式，但也证明了它们的价值。</p>
+<p>人工智能领域设想，机器拥有远超人类的意识，它们有自己对世界的表征，也可能有自己对世界的表征。虽然研究人员正在集中精力研究计算机视觉、自然语言处理、机器人技术、传感器技术、人工情感智能等，但用金属制造生物仍然是一个遥远的梦想。</p>
+                        </div>
+                    </div>
+                    <p class="row-10"></p>
+                    <p class="row-15 hidden-xs"></p>
+                </div>
+                <div class="col-sm-3 col-lg-2 sidebar background-gray">
+                    
+
+<div class="">
+    <div class="relative">
+        <a class="sicon-search1 absolute right top f3  cursor-pointer padding transition" onclick="search_blog()"></a>
+        <input id="keywords" type="input" placeholder="搜索动态" class="textbox" onkeydown="Snow.onKeyPress(this, event, [13, 108], search_blog)">
+    </div>
+    <p class="row-5"></p>
+    <div>
+        <p class="f4">分类</p>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/2/1">ERP系统 147</a>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/3/1">科技前沿 391</a>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/4/1">企业管理 136</a>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/1/1">雪兽软件 157</a>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/5/1">信息安全 72</a>
+        
+    </div>
+    <p class="row-10"></p>
+    <div>
+        <p class="f4">感兴趣的文章</p>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/592" class="f6">2024年20个最好的AI工具和应用</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/147" class="f6">8款最好用的AI视频剪辑工具</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/497" class="f6">人工智能的优缺点</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/143" class="f6">世界上最先进的5个AI系统</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/35" class="f6">什么是大数据，为什么如此重要？</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/139" class="f6">9个最好的AI平台</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/3" class="f6">人工智能研究领域的热门话题</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/19" class="f6">25件让你大吃一惊的计算机趣事</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/105" class="f6">利用ChatGPT提高工作效率的7种方法</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/161" class="f6">7种主流的AI技术</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/390" class="f6">2024年22大新技术趋势</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/14" class="f6">塔塔、联合利华、万豪酒店都在用AI进行面试</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/443" class="f6">2024年排名前十的量子计算公司</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/5" class="f6">2021年人工智能最受期待的8大趋势</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/17" class="f6">准备好了吗？2021年的7大科技趋势</a>
+        
+    </div>
+</div>
+                </div>
+                <p class="hidden-xs hidden-sm hidden-md col-lg-1"></p>
+            </div>
+        </div>
+    </section>
+
+</div>
+<script src="https://hm.baidu.com/hm.js?0dddd6b9700b370bd8c5b29585908736"></script><script>
+    window.ready = function(){
+        Snow.Event.pageScrollFlag({
+            form: Snow.form('body', {autoUpdate: false})
+        }).add('header', find(document).height() + 70).scroll();
+
+        //share init
+        var config = Snow.extend({
+            jsApiList: ['onMenuShareTimeline', 'onMenuShareAppMessage', 'updateTimelineShareData', 'updateAppMessageShareData']
+        }, {});
+        Snow.OpenPlatform.getInstance(config, function(platform){
+            var title = '不同类型的AI差异点在哪？';
+            var imageUrl = 'https://www.snowbeasts.com/image/icon-192x192.png';
+            platform.initShareTimeline(title, location.href, imageUrl);
+            platform.initShareMessage(title, '人工智能是一个多学科领域，涉及使计算机/机器像人类一样智能。从理论上讲，它旨在模拟人类的认知功能，并超越人类。这种人工智能的理论概念被称为“人工通用智能”。从概...', location.href, imageUrl);
+            window.opPlatform = platform;
+        });
+    }
+</script>
+
+
+<footer class="layout-footer">
+    <section class="background-skew purple">
+        <div class="container">
+            <p class="row-5 hidden-xs"></p>
+            <p class="row-5"></p>
+            <div class="row">
+                <div class="col-xs-4 col-sm-3 col-padding">
+                    <p class="row-10"></p>
+                    <p class="text-purple">快速链接</p>
+                    <p class="row-1"></p>
+                    <hr class="purple">
+                    <p class="row-2"></p>
+                    <ul class="text-purple-dark">
+                        <li><a href="https://www.snowbeasts.com/" class="text-purple-dark">雪兽软件</a></li>
+                        <li><a href="https://www.snowbeasts.com/apps" class="text-purple-dark">应用中心</a></li>
+                        <li><a href="https://www.snowbeasts.com/erp" class="text-purple-dark">软件定制</a></li>
+                        <li><a href="https://www.snowbeasts.com/cases" class="text-purple-dark">经典案例</a></li>
+                        <li><a href="https://www.snowbeasts.com/blog" class="text-purple-dark">雪兽动态</a></li>
+                    </ul>
+                </div>
+                <div class="hidden-xs col-sm-3">
+                    <p class="row-10"></p>
+                    <p class="text-purple">事业发展</p>
+                    <p class="row-1"></p>
+                    <hr class="purple">
+                    <p class="row-2"></p>
+                    <ul class="text-purple-dark">
+                        <li><a href="https://www.snowbeasts.com/cooperation" class="text-purple-dark">商务合作</a></li>
+                        <li><a href="https://www.snowbeasts.com/join" class="text-purple-dark">加入我们</a></li>
+                        <li><a href="https://www.snowbeasts.com/about" class="text-purple-dark">关于我们</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-8 col-sm-6 col-padding">
+                    <p class="row-10"></p>
+                    <p class="text-purple">联系我们</p>
+                    <p class="row-1"></p>
+                    <hr class="purple">
+                    <p class="row-2"></p>
+                    <div class="float-fluid">
+                        <ul class="text-purple-dark l">
+                            <li>电话：13020133833</li>
+                            <li>邮箱：ryan@snowbeasts.com</li>
+                            <li>地址: 上海市嘉定区江桥万达</li>
+                        </ul>
+                        <div class="r wx-snowbeasts">
+                            <img src="https://www.snowbeasts.com/image/wx-snowbeasts.png" height="85">
+                        </div>
+                    </div>
+                    <p class="row-5 hidden-xs"></p>
+                    <p class="row-2"></p>
+                    <ul class="list-float large text-purple-dark f7 hide">
+                        <li class="text-middle"><img src="https://www.snowbeasts.com/image/lang-zh-cn.png"><span> 中文</span></li>
+                        <li class="text-middle"><img src="https://www.snowbeasts.com/image/lang-en-us.png"><span> Coming soon</span></li>
+                    </ul>
+                </div>
+            </div>
+            <p class="row-10"></p>
+        </div>
+    </section>
+
+    <section class="background-skew purple-dark" style="margin-top:-1px">
+        <p class="row-10"></p>
+        <p class="row-5 hidden-xs"></p>
+    </section>
+    <section class="copyright background-skew purple-darker text-center text-purple-light">
+        <p class="row-2"></p>
+        <p class="f7 relative container">© 2014-<script>document.write(new Date().getFullYear())</script>2024 上海雪兽信息技术有限公司&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://beian.miit.gov.cn" target="_blank" class="text-purple-light">沪ICP备14048954号-1</a></p>
+    </section>
+</footer>
+
+<script src="https://www.snowbeasts.com/js/web.min.js?v=2.1.5"></script>
+
+<script>
+    window.context = {
+        appUrl: 'https://www.snowbeasts.com',
+        apiUrl: 'https://saas.snowbeasts.com',
+        appName: 'SnowbeastsSystem'
+    };
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?0dddd6b9700b370bd8c5b29585908736";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+
+
+</body></html>

@@ -107,10 +107,10 @@ DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,  # 禁用默认的 User-Agent 中间件
 }
 #启用pipelines，将爬取到的Google数据存入数据库
-ITEM_PIPELINES = {
-    'scrapy_crawler.pipelines.GoogleResultPipeline': 1,
-    'scrapy_crawler.pipelines.BaiduResultPipeline': 2,
-}
+#ITEM_PIPELINES = {
+ #   'scrapy_crawler.pipelines.GoogleResultPipeline': 1,
+  #  'scrapy_crawler.pipelines.BaiduResultPipeline': 2,
+#}
 
 #添加动态网页处理（搜索结果页）
 #SPLASH_URL = 'http://localhost:8050  'http://localhost:8052','
@@ -134,13 +134,14 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 5
 SPLASH_MAX_TIMEOUT = 60  # Splash 的超时时间
 # 设置下载延迟，避免对 Splash 服务器产生过多负载
 DOWNLOAD_DELAY = 2  # 每个请求之间的延迟，单位是秒
+DOWNLOAD_TIMEOUT = 30  # 下载超时时间
 # 使用 Splash 缓存，减少重复请求并减轻 Splash 服务器压力
 HTTPCACHE_ENABLED = True  # 启用 HTTP 缓存
 HTTPCACHE_EXPIRATION_SECS = 86400  # 缓存有效期设置为 24 小时
 HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'  # 使用 Splash 的缓存存储
 # 自定义 Splash 的参数以减少资源消耗，例如禁用图片加载
 SPLASH_ARGS = {
-    'wait': 5,  # 等待页面加载的时间，单位为秒
+    'wait': 8,  # 等待页面加载的时间，单位为秒
     'images': 0,  # 禁用图片加载，减少 Splash 的渲染压力
     'resource_timeout': 10  # 对加载资源设置超时，单位为秒
 }

@@ -1,0 +1,539 @@
+<!DOCTYPE html><html data-log-pv="{&quot;mpc&quot;:30}"><head>
+        <title>【收藏】全网最详细的AI大事记！_人类_智能_计算机</title>
+        <meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved.">
+<meta name="mediaid" content="鲜枣课堂">
+<meta property="og:type" content="news">
+<meta property="og:image" content="//q6.itc.cn/images01/20240729/e124b797f5374ba683fb23d460c175b9.png">
+<meta property="og:url" content="www.sohu.com/a/796952554_100265941">
+<meta property="og:release_date" content="2024-07-29 14:14">
+<meta itemprop="dateUpdate" content="2024-07-29 14:14">
+<meta itemprop="datePublished" content="2024-07-29 14:14">
+<link rel="canonical" href="https://www.sohu.com/a/796952554_100265941">
+<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/796952554_100265941">
+
+<meta name="keywords" content="美国,机器人,全网,大事记,开发,人类,程序,神经,智能,计算机,知识科普,马文·明斯基,模型,人工智能,谷歌公司,OpenAI">
+<meta name="description" content=" 1957年，美国康奈尔大学的心理学家和计算机科学家弗兰克·罗森布拉特（Frank
+Rosenblatt），在一台IBM-704计算机上，模拟实现了一种他发明的叫“感知机 (Perceptron) ”的神经网…">
+<meta property="og:description" content=" 1957年，美国康奈尔大学的心理学家和计算机科学家弗兰克·罗森布拉特（Frank
+Rosenblatt），在一台IBM-704计算机上，模拟实现了一种他发明的叫“感知机 (Perceptron) ”的神经网…">
+<meta property="og:title" content="【收藏】全网最详细的AI大事记！_人类_智能_计算机">
+        <meta charset="utf-8"><meta name="data-spm" content="smpc"><meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="dns-prefetch" href="//statics.itc.cn"><link rel="dns-prefetch" href="//g1.itc.cn"><link rel="dns-prefetch" href="//js.sohu.com"><link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png"><link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png"><link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png"><link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png"><link rel="preload" href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" as="style"><link href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" rel="stylesheet">    <script type="text/javascript" async="" src="https://pos.baidu.com/auto_dup?di=0&amp;uuid=e20d809a431f4f94&amp;dri=0&amp;dis=0&amp;dai=0&amp;ps=0x0&amp;enu=encoding&amp;exps=110011&amp;ant=0&amp;psi=ffda6d0255589c50&amp;dcb=___baidu_union_callback&amp;dtm=AUTO_JSONP&amp;dvi=0.0&amp;dci=-1&amp;dpt=none&amp;tpr=1731503983839&amp;ti=%E3%80%90%E6%94%B6%E8%97%8F%E3%80%91%E5%85%A8%E7%BD%91%E6%9C%80%E8%AF%A6%E7%BB%86%E7%9A%84AI%E5%A4%A7%E4%BA%8B%E8%AE%B0%EF%BC%81_%E4%BA%BA%E7%B1%BB_%E6%99%BA%E8%83%BD_%E8%AE%A1%E7%AE%97%E6%9C%BA&amp;ari=2&amp;ver=1107&amp;kws=%E7%BE%8E%E5%9B%BD%2C%E6%9C%BA%E5%99%A8%E4%BA%BA%2C%E5%85%A8%E7%BD%91%2C%E5%A4%A7%E4%BA%8B%E8%AE%B0%2C%E5%BC%80%E5%8F%91%2C%E4%BA%BA%E7%B1%BB%2C%E7%A8%8B%E5%BA%8F%2C%E7%A5%9E%E7%BB%8F%2C%E6%99%BA%E8%83%BD%2C%E8%AE%A1&amp;dps=%201957%E5%B9%B4%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%BA%B7%E5%A5%88%E5%B0%94%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E7%90%86%E5%AD%A6%E5%AE%B6%E5%92%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%BC%97%E5%85%B0%E5%85%8B%C2%B7%E7%BD%97%E6%A3%AE%E5%B8%83%E6%8B%89%E7%89%B9%EF%BC%88Frank%0ARosenblatt%EF%BC%89%EF%BC%8C%E5%9C%A8%E4%B8%80%E5%8F%B0IBM&amp;dbv=0&amp;drs=3&amp;pcs=1024x768&amp;pss=1180x17596&amp;cfv=0&amp;cpl=1&amp;chi=1&amp;cce=true&amp;cec=UTF-8&amp;tlm=1731503983&amp;prot=2&amp;rw=768&amp;ltu=https%3A%2F%2Fwww.sohu.com%2Fa%2F796952554_100265941&amp;ltr=https%3A%2F%2Fwww.sohu.com%2Fa%2F796952554_100265941&amp;ecd=1&amp;dft=0&amp;uc=1024x768&amp;pis=-1x-1&amp;sr=1024x768&amp;tcn=1731503984&amp;dc=4&amp;aa=1"></script><script src="https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42" id="ttzz"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="//pv.sohu.com/suv/?t?=1731503983725010_1024_768?r?=https%3A%2F%2Fwww.sohu.com%2Fa%2F796952554_100265941?url?=https%3A%2F%2Fwww.sohu.com%2Fa%2F796952554_100265941?SUV?=?mpc?=30"></script></head>
+            <body class="article-page" data-region="154" data-spm="content" data-newsid="796952554">
+        <div class="wrapper-box">
+            <header id="main-header" class="error-head">
+	<div class="head-container">
+		<div class="head-nav" data-spm="nav">
+			<ul>
+			    <li class="index">
+					<a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com">
+						<span class="sohu-logo"></span>
+					</a>
+				</li>
+														<li class="nav-item"><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
+																																																																																																																									<li class="nav-item more-nav">
+					<div class="more-tag" href="javascript:void(0)">
+						<span>更多</span>
+						<div class="cor"></div>
+					</div>
+					<more-nav id="moreNav"></more-nav>
+				</li>
+				
+			</ul>
+		</div>
+		<head-right id="headRight"></head-right>
+	</div>
+</header>            <div class="location-without-nav"></div>
+            <div class="area clearfix" id="article-container">
+                <div class="column left">
+	                    <div class="user-info" id="user-info" data-spm="author">
+            <div class="user-pic">
+            <!-- fromWhere为10是马甲号作者不可点击进入个人页面 -->
+                            <a href="https://mp.sohu.com/profile?xpt=MTAzNTQ1MDMwMDY3ODQ0NzEwNEBzb2h1LmNvbQ==" target="_blank">
+                    <img data-src="//q1.itc.cn/q_70/images03/20240308/b4517a3a30eb41ec888909e2d7501006.png" alt="">
+                </a>
+                    </div>
+        <h4>
+                    <a href="https://mp.sohu.com/profile?xpt=MTAzNTQ1MDMwMDY3ODQ0NzEwNEBzb2h1LmNvbQ==" target="_blank">鲜枣课堂</a>
+                    </h4>
+    <!-- 积分 -->
+        <div style="height: 25px">
+        <medal id="fox-integration"></medal>
+    </div>
+        <dl class="user-num">
+        <dd><span class="value" data-value="467" data-role="info-article-num"><em class="num"></em></span>文章</dd>
+        <dd><span class="value" data-value="" data-role="info-read-num"><em class="num"></em></span>总阅读</dd>
+    </dl>
+
+    <!-- 企业认证 -->
+            <ul class="company">
+                    </ul>
+    
+    <!-- 非马甲号作者 -->
+            <div class="user-more">
+            <a href="https://mp.sohu.com/profile?xpt=MTAzNTQ1MDMwMDY3ODQ0NzEwNEBzb2h1LmNvbQ==" target="_blank">查看TA的文章&gt;</a>
+        </div>
+    </div>        		<div class="article-do" id="article-do" data-spm="share">
+		<div class="article-done">
+    <div class="title">评论</div>
+    <dl>
+        <dd class="comment-do" id="leftComment">
+            <a href="javascript:void(0)" data-spm-acode="8089">
+                <em class="comment-icon icon"></em>
+                <span class="num" data-role="comment-count"></span>
+            </a>
+        </dd>
+    </dl>
+</div>
+		<div id="share">
+			<share>
+		</share></div>
+	</div>
+</div>
+                <div class="left main">
+                    <div data-spm="content">
+                        <div class="text">
+                            
+<div class="text-title">
+    <h1>
+                    【收藏】全网最详细的AI大事记！                <span class="article-tag">
+                 </span>
+    </h1>
+            <div class="article-info">
+        <span class="time" id="news-time" data-val="1722233688000">
+                        2024-07-29 14:14        </span>
+                                <div class="area"><span>发布于：</span><span>江苏省</span></div>
+    </div>
+</div>
+
+<article class="article" id="mp-editor">
+    <!-- 政务处理 -->
+                      <p>引言：前几天写AI简史（<a href="https://www.sohu.com/a/794079742_100265941" target="_blank">链接</a>）的时候，顺便整理了这份编年体的AI大事记，发给大家参考。</p><p>1942年，美国科幻小说家艾萨克·阿西莫夫（Isaac Asimov）在自己的短篇小说《Runaround（环舞）》中提出了影响深远的“机器人三定律”：机器人不得伤害人类，或坐视人类受到伤害；除非违背第一定律，否则机器人必须服从人类命令；除非违背第一或第二定律，否则机器人必须保护自己。后来，这篇小说被合入1950年出版的短篇科幻小说集《I,Robot（我，机器人）》中。</p><p>1943年，美国神经生理学家沃伦·麦卡洛克（Warren McCulloch）和数学家沃尔特·皮茨（Walter Pitts），基于人类大脑的神经网络，发表了《A logical calculus of ideas immanent in nervous activity（神经活动中内在思想的逻辑演算）》论文，提出了一个形式神经元的计算机模型，并将其取名为M-P（McCulloch&amp;Pitts）模型。</p><p>1949年，唐纳德·赫布（Donald O. Hebb）在自己的著作《The Organization of Behavior; a Neuropsychological Theory（行为的组织：一种神经心理学理论）》中，描述了突触可塑性的基本原理，对学习和记忆提供了生理学层面的新理解。赫布也凭此被誉为“神经心理学与神经网络之父”。</p><p>1950年，阿兰·图灵在《Mind（心灵）》杂志上发表了重要论文《Computing Machinery and Intelligence（计算机器与智能）》，并提出了著名的图灵测试。</p><p class="ql-align-center"><img max-width="600" data-src="rktmUZKiSD+eswOQv1Y0iyYE7nh8tpVqIYn+rOkEY4ltmjJeCeRyK70HXQL5uz1QYPraeu4v32orZ7/QW54oAJ0AJbsfJSbRKoXiyIIa2GY="><span class="img-desc" style="font-size: 16px;">阿兰·图灵</span></p><p>1950年，马文·明斯基（Marvin Minsky）和邓恩·埃德蒙（Dunn Edmund）构建了第一台神经网络计算机SNARC。</p><p>1950年，克劳德·香农（Claude Shannon）发表论文《Programming a computer for playing chess（为下棋编程计算机）》”。香农认为，总有一天，计算机会击败世界冠军。这一年，他还发明了一种由机电继电器电路控制的可以走迷宫的机械老鼠——忒修斯（Theseus）。</p><p class="ql-align-center"><img max-width="600" data-src="j62ER+laWpTPEkLaFdmRXuJBe2KiBkzH4kARA/NyY0MgakNWOdR90EgC6nX4MRmdraaga/d4uP72t6C+HfWD4LWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">克劳德·香农</span></p><p>1954年，Georgetown（乔治敦）大学和IBM合作，进行了一次名为“Georgetown Experiment”的实验，成功地使用机器将60多个俄语句子翻译成英文。这是机器翻译和NLP（自然语言处理）的一次重要尝试。</p><p>1955年9月，约翰·麦卡锡（John McCarthy）、马文·明斯基、克劳德·香农、纳撒尼尔·罗切斯特（N. Rochester）四人，共同提出了一个关于机器智能的研究项目。在项目中，首次引入了“Artificial Intelligence”这个词，也就是人工智能。</p><p>1955年，赫伯特·西蒙（Herbert A. Simon，也译为司马贺）和艾伦·纽维尔（Allen Newell）开发的一个名为“逻辑理论家（Logic Theorist）”的程序。“逻辑理论家”被认为是人类历史上第一个人工智能程序。</p><p>1956年6月，在约翰·麦卡锡等人的召集下，著名的达特茅斯会议（Dartmouth workshop）在美国新罕布什尔州汉诺威镇的达特茅斯学院召开。这场会议标志着人工智能作为一个研究领域正式诞生。</p><p class="ql-align-center"><img max-width="600" data-src="j62ER+laWpTPEkLaFdmRXvz+AQsWjXMQg6/Cd3gsp4b3JyCiv7VvYDhvy0tIwExZX+By+hlVA/uGYJwqFFtAebWTzmKYPwYvFkmu9a+AK6w="></p><p>1957年，美国康奈尔大学的心理学家和计算机科学家弗兰克·罗森布拉特（Frank Rosenblatt），在一台IBM-704计算机上，模拟实现了一种他发明的叫“感知机 (Perceptron) ”的神经网络模型。</p><p class="ql-align-center"><img max-width="600" data-src="vrQqgk+FQSQmr7dDCa0gdgOPupM/LZjdXC9tgZkxJ3rOSwqYiyZz8cF6o+QZdlIRdU3TwH6liYWQU52/FucayLWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">弗兰克·罗森布拉特</span></p><p>1957年，赫伯特·西蒙等人在“逻辑理论家”的基础上，又推出了通用问题解决器（General Problem Solver，GPS）。这是一个旨在模仿人类解决问题的程序。</p><p>1957年，卡内基梅隆大学建立了世界上第一个人工智能研究实验室。</p><p>1958年，约翰·麦卡锡正式发布了自己开发的人工智能编程语言——LISP（LIST PROCESSING，意思是"表处理"）。后来的很多知名AI程序，都是基于LISP开发的。</p><p class="ql-align-center"><img max-width="600" data-src="j62ER+laWpTPEkLaFdmRXnB7NHUZiiGLA8AB6VPe7EAFI8U36dpYnXzBVyGUW4q0OKJCalG2p8MHwjxmuzoACbWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">约翰·麦卡锡（1927-2011）</span></p><p>1959年，美国发明家乔治·德沃尔（George Devol）与约瑟夫·英格伯格（Joseph Engelberger）发明了人类首台工业机器人——Unimate。Unimate重达两吨，安装运行于通用汽车生产线，可以控制一个机械臂，搬运和堆叠热压铸金属件。</p><p class="ql-align-center"><img max-width="600" data-src="vrQqgk+FQSQmr7dDCa0gdr5i5ucl967pSCCS9CjFTdw4xZ0EX60ltWTDjveGwJAcP1HocAJBLWTaWgXvCZiMJbWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">左图为Unimate右图是约瑟夫·英格伯格（左）、乔治·德沃尔（右）</span></p><p>1959年，赫伯特·格兰特（Herbert Gelernter）开发了几何定理证明程序。</p><p>1959年，IBM科学家亚瑟·塞缪尔（Arthur Samuel）在自家首台商用计算机IBM701上，成功编写了一套西洋跳棋程序。这个程序具有“学习能力”，可以通过对大量棋局的分析，逐渐辨识出“好棋”和“坏棋”，从而提高自己的下棋水平。因为首次提出了“机器学习（Machine Learning）”的概念，亚瑟·塞缪尔被后人誉为“机器学习之父”。</p><p class="ql-align-center"><img max-width="600" data-src="j62ER+laWpTPEkLaFdmRXullP9/vahSEhDTRS9CfLHtqeZ2grd03Zf4TW7lNE+T+cY109etQd5qF5lo0FSF8IrWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">亚瑟·塞缪尔（1901-1990）</span></p><p>1959年，约翰·麦卡锡和马文·明斯基创立了麻省理工学院人工智能项目。</p><p>1961年，莱昂纳德·莫里克（Leonard Merrick Uhr）和查尔斯·沃斯勒（Charles M Vossler）发表了题目为《A Pattern Recognition Program That Generates, Evaluates and Adjusts its Own Operators（生成、评估和调整其自身算子的模式识别程序）》的模式识别论文，描述了一种利用机器学习或自组织过程设计的模式识别程序的尝试。</p><p>1963年，约翰·麦卡锡在斯坦福大学创立了人工智能实验室。</p><p>1965年，英国数学家厄文·古德（Irving John Good）发表了一篇对人工智能未来可能对人类构成威胁的文章，可以算“AI威胁论”的先驱。</p><p>1966年，美国麻省理工学院的约瑟夫·魏泽鲍姆（Joseph Weizenbaum），发明了世界上第一个聊天机器人——ELIZA。ELIZA 通过关键词匹配规则对输入进行分解，而后根据分解规则所对应的重组规则来生成回复，是现在Siri、小爱同学等问答交互工具的鼻祖。</p><p class="ql-align-center"><img max-width="600" data-src="rktmUZKiSD+eswOQv1Y0i0xuKa1uP5TvE4c1caJIw8u//ie2q1C7t/KK4hftOKMkGaqUMGJZb9Qe907CMRoC1bWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">魏泽鲍姆（坐者）正在与ELIZA对话</span></p><p>1966年，查理·罗森（Charlie Rosen）领导的美国斯坦福研究所（SRI），研发成功了首台人工智能机器人——Shakey。它具备一定程度的人工智能，能够自主进行感知、环境建模、行为规划并执行任务。</p><p class="ql-align-center"><img max-width="600" data-src="i+xuDLks9VorTFRP5fQEOS7NKrdPF4D3Ul8A0xJetldUC3Ui2TW37XZx1WZhtWGVSJuKdZXxANt2plsAosTJBbWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">研究人员正在调测Shakey</span></p><p>1966年，美国计算机协会（ACM）设立图灵奖（Turing Award），被称为“计算机界的诺贝尔奖”。</p><p>1967年，托马斯·卡沃（Thomas Cover）基于艾沃林·菲克斯（Evelyn Fix）和约瑟夫·霍德吉斯（Joseph Hodges）的研究，扩展提出了K最近邻算法（k-nearest neighbors algorithm）。</p><p>1968年，美国科学家爱德华·费根鲍姆（Edward Feigenbaum）提出了第一个专家系统——DENDRAL，并对知识库给出了初步的定义。这标志着专家系统的诞生。DENDRAL面向的是化学行业，可以帮助化学家判断物质的分子结构。</p><p class="ql-align-center"><img max-width="600" data-src="h7fbg8uT6oAdxo1xkqmC8aZu7Xd7xlGmN21raucROvA2uHBXmW+wgUhRQvgEDzi0yJVtsYfTInELAlikiOcT+rWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">爱德华·费根鲍姆（坐着的那位）</span></p><p>1969年，马文·明斯基和西蒙·派珀特（Seymour Papert）发表著作《感知机: 计算几何学导论》的书，对罗森布莱特的感知器提出了质疑。这导致了神经网络研究十余年的中断。</p><p class="ql-align-center"><img max-width="600" data-src="vrQqgk+FQSQmr7dDCa0gdoqGIDavsdC+NFnlxdcpD7iJD+jC9AzOoIXgBTVt01jwQticTyQAG3VkVJQEkbLwLbWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">马文·明斯基</span></p><p>1969年，马文·明斯基为导演斯坦利·库布里克（Stanley Kubrick）的电影《2001漫游太空》担任顾问，塑造了片中超级智能计算机HAL9000的银幕形象。</p><p class="ql-align-center"><img max-width="600" data-src="i+xuDLks9VorTFRP5fQEOb49IISKSbJn9q6HSkvgH0WJ2mvfF5tcZvL1HaZizuLgMnoiz6yArfme0hPYwzu2xLWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">电影海报</span></p><p>1970年，麻省理工学院博士研究生特里·维诺格拉德（Terry Winograd）开发了早期自然语言理解程序SHRDLU。该程序可以部分理解语言，是"微型世界"项目的一部分。</p><p>1972年，柯尔麦伦纳（Colmeraner）及其研究小组在法国马赛大学提出逻辑编程语言PROLOG。</p><p>1972年，美国医生兼科学家爱德华·H·肖特利夫（Edward H. Shortliffe）创建了可以帮助进行医学诊断的专家系统——MYCIN。</p><p class="ql-align-center"><img max-width="600" data-src="i+xuDLks9VorTFRP5fQEOc6lbWlhul1Su5yDAbQTbY6RP80do6R2Ikm21kaFAgza78hieYpsmhJRIfd9+DocVrWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">爱德华·H·肖特利夫</span></p><p>1973年，政府部门对AI的资助开始大幅滑坡，AI研究进入了“AI寒冬（AI Winter）”。</p><p>1973年，数学家莱特希尔（Lighthill）向英国政府提交了一份关于人工智能的研究报告（著名的《莱特希尔报告》），对当时的AI研究进行了严厉且猛烈的批评，认为其宏伟的目标根本无法实现，研究已经彻底失败。</p><p>1975年，马文·明斯基在论文《A Framework for Representing Knowledge（知识表示的框架）》中，提出用于人工智能中的知识表示学习框架理论。</p><p>1977年，爱德华·费根鲍姆在第五届国际人工智能联合会议上，提出了“知识工程（Knowledge Engineering）”的概念，进一步推动了专家系统的普及。</p><p>1977年，中国著名数学家吴文俊院士在《中国科学》期刊发表了具有划时代意义的科学论文——《初等几何判定问题与机械化证明》，在国际上引起了巨大轰动。吴文俊院士所独创的新方法在国际上被誉为“吴方法”。它能够使人工智能自动并有效地证明几何定理，也被应用到其他数学领域。</p><p class="ql-align-center"><img max-width="600" data-src="rktmUZKiSD+eswOQv1Y0i+JBe2KiBkzH4kARA/NyY0MBPFDRFrIV5T2sE0Rew2mmEx49nEsN6MdhzYspRjRe+bWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">吴文俊院士</span></p><p>1979年，美国国家标准技术研究所开始制定基于知识的推理系统规范语言（知识表示语言KRL）。</p><p>1979年，日本学者福岛邦彦博士模仿生物的视觉皮层（visual cortex），开发了一种用于模式识别的神经网络模型Neocognitron（神经认知机）。Neocognitron是第一个使用卷积和下采样的神经网络，也是现代卷积神经网络的雏形。</p><p class="ql-align-center"><img max-width="600" data-src="vrQqgk+FQSQmr7dDCa0gduHLIQExGokSflzdZJAzV3Pjy3DwYPOZGaIhDzsQZpz4outdA7VQYeTLRGnaDfdFbbWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">福岛邦彦</span></p><p>1979年，斯坦福大学的汉斯·莫拉韦克（Hans Moravec）设计了斯坦福卡车（Stanford Cart）。这是一台可以自主导航和避障的机器人。这是机器人领域的一个重要里程碑。</p><p class="ql-align-center"><img max-width="600" data-src="9jtEdtXdLrY19r1cR6XiEKQmp1DQBuhFDcU7i2IRJF02OeSeZT0tmvbmAbq9jWT/HEShyU8DAGXgWpdHkMkn7rWTzmKYPwYvFkmu9a+AK6w="></p><p>1980年，在美国的卡内基梅隆大学（CMU）召开了第一届机器学习国际研讨会，标志着机器学习研究的兴起。</p><p>1980年，卡耐基梅隆大学研发的专家系统XCON（eXpertCONfigurer）正式商用，为当时的计算机巨头公司DEC每年省下数千万美金。</p><p>1981年，理查德·保罗（Richard.P.Paul）出版了第一本机器人学课本《Robot Manipulator：Mathematics，Programmings and Control（机器人机械手：数学、编程与控制）》。</p><p>1981年，日本通商产业省（MITI）拨款8.5亿美元，用以研发第五代计算机项目（FGCS）。FGCS的目标是造出一台人工智能计算机，能够与人对话、翻译语言、解释图像、完成推理。不久后，英国、美国纷纷响应，开始向信息技术领域的研究提供大量资金。</p><p>1981年，“窄AI（Narrow AI）”的概念诞生。相关研究不再寻求通用智能，而转向了面向更小范围的专业任务领域。</p><p>1982年，约翰·霍普菲尔德（John Hopfield）在自己的论文中重点介绍了Hopfield网络模型（模型原型早期由其他科学家提出）。这是一种具有记忆和优化功能的循环（递归）神经网络。</p><p class="ql-align-center"><img max-width="600" data-src="yJyoDGPS+lN53ZVgsmSzc6Ltn/GxT7ZzgDXyuKRFlpevpOXiZGxg+8J3uA1UNzMlLPfxaMbXqsJTC5zg6D6VILWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">约翰·霍普菲尔德</span></p><p>1982年，戴维·马尔（David Marr）发表代表作《视觉计算理论》，提出计算机视觉（Computer Vision）的概念，并构建系统的视觉理论，对认知科学（CognitiveScience）产生了很深远的影响。</p><p>1983年，通用电气公司搞出了柴油电力机车维修专家系统（DELTA）。这个系统封装了众多GE资深现场服务工程师的知识和经验，能够指导员工进行故障检修和维护。</p><p>1983年，特伦斯·谢诺夫斯基（Terrence Sejnowski）和杰弗里·辛顿（Geoffrey Hinton）提出了“隐单元”的概念。1986年，他们提出了一种生成式随机神经网络（generative stochastic neural network）——Boltzmann Machine（玻尔兹曼机）。</p><p>1983年，美国国防部高级研究计划局（DARPA）通过“战略计算促进会（Strategic Computing Initiative）”，重启对高级计算和人工智能研究的资助。</p><p>1984年，美国数十家大公司联合成立了微电子与计算机技术公司（MCC）。该公司发起了人工智能历史上最大也是最具争议性的项目Cyc（大百科全书）。</p><p>1986年，戴维·鲁梅尔哈特（David Rumelhart）、杰弗里·辛顿（Geoffrey Hinton）和罗纳德·威廉姆斯（Ronald Williams）等人共同发表了一篇名为《Learning representations by back-propagation errors（通过反向传播算法的学习表征）》的论文。在论文中，他们提出了一种适用于多层感知器（MLP）的算法，叫做反向传播算法（Backpropagation，简称BP算法）。BP算法不仅为多层神经网络的发展奠定了基础，也打破了马文·明斯基当年提出的“神经网络具有局限性”魔咒，意义非常重大。</p><p>1986年，澳大利亚计算机科学家罗斯·昆兰（Ross Quinlan）提出ID3决策树算法。</p><p>1987年，LISP机器市场在崩溃，AI领域进入了“第二个AI冬天”。</p><p class="ql-align-center"><img max-width="600" data-src="CZMT6o4i3vOAFZsV462x384bxF91uqPb0BHQvTd85IBGwAeXUnJ0YWx9JuGIyUOh0Zzsq9x//C5n/uTObf+FwbWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">LISP系列主机</span></p><p>1988年：计算机科学家和哲学家犹大·伯尔（Judea Pearl）出版了著作《Probabilistic Reasoning in Intelligent Systems（智能系统中的概率推理）》。伯尔还发明了贝叶斯网络。</p><p>1988年，贝尔实验室的法国科学家杨立昆（Yann LeCun）等人，提出了卷积神经网络。这是一种专门用于处理图像数据的神经网络模型。</p><p class="ql-align-center"><img max-width="600" data-src="yJyoDGPS+lN53ZVgsmSzc9M13LiLPBMWBfx0jmgHx9Q0MuN29ckL3eKa8ElmI/S6kBVlTS85sDzFiI7ZBi/cZbWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">Yann LeCun</span></p><p>1990年，澳大利亚科学家罗德尼·布鲁克斯（Rodney Brooks）提出了“由下自上”的研究思路，开发能够模拟人脑细胞运作方式的神经网络，并学习新的行为。</p><p>1990年，美国认知科学家、心理语言学家杰弗里·艾尔曼（Jeffrey Elman）提出了首个递归神经网络——艾尔曼网络模型。递归神经网络能够在训练时维持数据本身的先后顺序性质，非常适合于自然语言处理领域的应用。</p><p>1992年，因为未能实现十年前提出的目标，日本终止了FGCS项目。</p><p>1993年，在花费近10亿美元且远未达到预期的情况下，DARPA结束了战略计算计划。</p><p>1995年，克里娜·柯尔特斯（Corinna Cortes）和弗拉基米尔·万普尼克（Vladimir Vapnik）开发了支持向量机（Support Vector Machine，SVM）。支持向量机是一种映射和识别类似数据的系统，可以视为在感知机基础上的改进。</p><p>1995年，约阿夫·佛罗因德（Yoav Freund）和罗伯特·沙皮尔（Robert Schapire）提出了AdaBoost （Adaptive Boosting）算法。</p><p>1997年5月，IBM的计算机“深蓝（DEEP BLUE）”以2胜1负3平的成绩击败国际象棋世界冠军加里·卡斯帕罗夫，震惊了全世界。</p><p class="ql-align-center"><img max-width="600" data-src="9jtEdtXdLrY19r1cR6XiEDO2z9XABVybjpTI+C5IzCau5TmWBPEQ/hYFbi3vhM8VTbSGQ2Bd6leEL9GbqwzDBrWTzmKYPwYvFkmu9a+AK6w="></p><p>1997年，德国计算机科学家瑟普·霍克赖特（Sepp Hochreiter）及其导师于尔根·施密德胡伯（Jürgen Schmidhuber）开发了用于递归神经网络的LSTM（长短期记忆网络）。</p><p>1998年，Yann LeCun等人提出了一个用于手写数字识别的卷积神经网络——LeNet，初步展示了神经网络在图像识别领域的潜力。</p><p>2000年：本田发布了ASIMO，一种人工智能的人形机器人。</p><p class="ql-align-center"><img max-width="600" data-src="rktmUZKiSD+eswOQv1Y0ixEstsRiTizm4TdBdWubfOe2UgMrzPg4cIpmNiI0s7ln5V2z9+ImtHmKCY4QkK7QJ7WTzmKYPwYvFkmu9a+AK6w="></p><p>2001年，布雷曼（Leo Breiman）和阿黛尔·卡特勒（Adele Cutler）提出随机森林（Random Forest）。</p><p>2003年，约书亚·班吉欧（Yoshua Bengio）发表一篇基于人工神经网络打造自然语言模型的论文《A Neural Probabilistic Language Model（一种神经概率语言模型）》，提出了具有奠基意义的NNLM“神经网络语言模型”。他还提出了"词向量"的概念。</p><p>2006年，多伦多大学的杰弗里·辛顿在Science期刊上，发表了重要的论文《Reducing the dimensionality of data with neural networks（用神经网络降低数据维数）》，提出深度信念网络（Deep Belief Networks，DBNs）。</p><p class="ql-align-center"><img max-width="600" data-src="rktmUZKiSD+eswOQv1Y0i8Ax7HDDU4jwsAe6kW0ICcXh6c79NbIVkPeSq3P/eLcMiXDsfIE9hVzViuaddlJvyLWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">杰弗里·辛顿</span></p><p>2006年，在斯坦福任教的华裔科学家李飞飞发起创建了ImageNet项目，号召民众上传图像并标注图像内容。2009年，ImageNet正式发布，包括了1400万张图片数据，超过2万个类别，为全球AI研究（神经网络训练）提供了强大支持。</p><p class="ql-align-center"><img max-width="600" data-src="h7fbg8uT6oAdxo1xkqmC8aQmp1DQBuhFDcU7i2IRJF1H6BqcNhfvHdssZ4Ixd1LMY9Oo3ncte2AwQAocnGkhvbWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">李飞飞和ImageNet</span></p><p>2006年，谷歌公司推出了一种基于统计学习的语音识别技术，该技术被广泛应用于语音助手、智能家居等领域。</p><p>2008年，谷歌在iPhone上发布了一款语音识别应用，开启了数字化语音助手（Siri、Alexa、Cortana）的浪潮。</p><p>2011年10月，苹果推出语音助手Siri。</p><p class="ql-align-center"><img max-width="600" data-src="h7fbg8uT6oAdxo1xkqmC8chn0mgJ4r2Y1lAOdJD2mfqL798Enx7KhV2aAHXg078gCDU42UV0/qlYBvY8GQb7orWTzmKYPwYvFkmu9a+AK6w="></p><p>2011年，IBM的计算机沃森（Watson）在美国电视智力竞赛节目“危险边缘”中，击败两位人类冠军选手，展示出其在自然语言处理和知识推理方面的强大能力。</p><p class="ql-align-center"><img max-width="600" data-src="rktmUZKiSD+eswOQv1Y0i+iAoypZbY30o8Fk5TC/FI05+0spt/lk6/RrzUwmRilRthmukBVJ2t9qnk1+K4NEtrWTzmKYPwYvFkmu9a+AK6w="></p><p>2012年，杰弗里·辛顿和他的学生伊利亚·苏茨克沃（Ilya Sutskever）和亚历克斯·克里切夫斯基（Alex Krizhevsky）参加了ImageNet大规模视觉识别挑战赛。他们设计的深度神经网络模型AlexNet在这次竞赛中以压倒性优势获得第一名，引起了业界轰动。</p><p class="ql-align-center"><img max-width="600" data-src="h7fbg8uT6oAdxo1xkqmC8bdClSN0KCqE7HHow0jRtAoPplNftXA80fNv0Z8xe8ge4z8abhNyF602bs4XCish2bWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">杰弗里·辛顿师徒三人</span></p><p>2012年，加拿大神经学家团队创造了一个具备简单认知能力、有250万个模拟“神经元”的虚拟大脑Spaun，通过了最基本的智商测试。</p><p>2012年，谷歌“Google Brain”项目的研究人员吴恩达（Andrew Ng）、杰夫·迪恩（Jeff Dean）等人，搭建了一个神经网络（10亿参数），用来训练对猫的识别。他们的训练数据是来自youtube的1000万个猫脸图片，用了1.6万个CPU，整整训练了3天。</p><p class="ql-align-center"><img max-width="600" data-src="vrQqgk+FQSQmr7dDCa0gdrs1SSy/gmSrdGfH6lwHdTDe4gKmSBK+Uo8gtSt6DlBdAQqhV4szZqSSSvokWwo8ELWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">吴恩达</span></p><p>2012年7月，谷歌公司推出虚拟助手GoogleNow，即谷歌助手的前身。</p><p>2012年，谷歌公司正式发布谷歌知识图谱Google Knowledge Graph。</p><p>2013年，辛顿师徒三人共同成立了一家名为DNNresearch的公司。后来，这家公司被谷歌以几千万美元的价格竞购。</p><p>2013年，谷歌公司的托马斯·米科洛夫（Tomas Mikolov）带领研究团队发表了论文《Efficient Estimation of Word Representations inVector Space（词表示向量空间的有效估计）》，提出了Word2Vec。Word2Vec基于给定的语料库，通过优化后的训练模型，可以快速有效地将一个词语表达成高维空间里的词向量形式，为自然语言处理领域的应用研究提供了新的工具。</p><p>2014年，谷歌公司收购了专注于深度学习和强化学习技术的人工智能公司——DeepMind公司。</p><p class="ql-align-center"><img max-width="600" data-src="EmSa7bvKq1EE4aebFHMv975i5ucl967pSCCS9CjFTdxQITol67eq0a/FstGJK0Z9VfZXynUh9lu76S+3hDRnEbWTzmKYPwYvFkmu9a+AK6w="></p><p>2014年6月，一台名为Eugene Goostman（尤金·古斯特曼）的聊天机器人通过了图灵测试。</p><p>2014年，蒙特利尔大学博士生伊恩· 古德费洛（Ian Goodfellow），从博弈论中的“二人零和博弈”得到启发，提出了生成对抗网络（GANs，Generative Adversarial Networks）。</p><p class="ql-align-center"><img max-width="600" data-src="vrQqgk+FQSQmr7dDCa0gdm+/omNjonf0XrnjIbXaPA8NP2a5j5zQQrpvBOo6SPxijsK0ojE5Sa1lgcU4uOOsprWTzmKYPwYvFkmu9a+AK6w="><span class="img-desc" style="font-size: 16px;">伊恩· 古德费洛</span></p><p>2015年，Microsoft Research的何恺明（Kaiming He）等人提出的残差网络（ResNet），在ImageNet大规模视觉识别竞赛中，获得了图像分类和物体识别的优胜。</p><p>2015年1月，埃隆·马斯克、斯蒂芬·霍金和史蒂夫·沃兹尼亚克等人在一封公开信上签名，要求禁止开发人工智能武器。</p><p>2015年11月，谷歌公司开源了重要的深度学习框架Tensor Flow。</p><p>2015年12月，埃隆·马斯克（Elon Musk）、萨姆·奥尔特曼（Sam Altman）、彼得·泰尔（Peter Thiel）、里德·霍夫曼（Reid Hoffman）等人在旧金山联合成立了OpenAI公司。</p><p class="ql-align-center"><img max-width="600" data-src="rktmUZKiSD+eswOQv1Y0i8/zSj39MMKz3vNfpW062C3lDmbbj0CGLj20M/u1gqEHlCxTbvnyTCFI1EbtdWkye7WTzmKYPwYvFkmu9a+AK6w="></p><p>2016年，谷歌提出联邦学习方法，它在多个持有本地数据样本的分散式边缘设备或服务器上训练算法，而不交换其数据样本。</p><p>2016年3月，DeepMind开发的人工智能围棋程序AlphaGo（阿尔法狗），以4:1的总比分战胜了世界围棋冠军李世石，震惊了全世界。</p><p class="ql-align-center"><img max-width="600" data-src="EmSa7bvKq1EE4aebFHMv99gQQ+ZnyD9wdQYa3dhgLl6WsAoAWdm+f9lBVtUhom2ShK45DxDagVSq4xUoNMYwE7WTzmKYPwYvFkmu9a+AK6w="></p><p>2016年2月，中国香港的汉森机器人公司（Hanson Robotics）推出了一款名为索菲亚（Sophia）的仿人机器人。它能通过图像识别“看”东西，做出面部表情，并能使用人工智能进行交流。</p><p>2016年，微软公司推出了小冰（Xiaoice）。这是一款利用自然语言处理和情感计算技术提供社交聊天服务的人工智能系统。</p><p>2017年1月，Facebook人工智能研究院开源了PyTorch。这是一个用于机器学习和深度学习的开源深度学习框架。</p><p>2017年5月，升级版的AlphaGo以3:0战胜世界排名第一的中国围棋棋手柯洁。</p><p class="ql-align-center"><img max-width="600" data-src="sWGYY5yy0kWHb3ShJgzYTC/2hpMn19p5VGi3xAkhMeSELLFH5iJHT255ZzkJUVDqy9TB7KceZR5ImpOzyRtZILWTzmKYPwYvFkmu9a+AK6w="></p><p>2017年10月18日，DeepMind团队公布AlphaGo Zero。从空白状态学起，只需3天就以100:0的战绩击败曾战胜柯洁的AlphaGo系统。</p><p>2017年12月，Google机器翻译团队在行业顶级会议NIPS上，发表了重磅论文《Attention is all you need（你所需要的，就是注意力）》，提出只使用“自我注意力（Self Attention）”机制来训练自然语言模型——Transformer（转换器、变压器）。Transformer彻底改变了深度学习的发展方向。它不仅对序列到序列任务、机器翻译和其它自然语言处理任务产生了深远的影响，也为后来AIGC的崛起打下了坚实的基础。</p><p>2018年5月，谷歌推出Google Duplex服务，允许人工智能助手通过电话预约。</p><p>2018年6月，OpenAI发布了第一版的GPT系列模型——GPT-1。同时，他们还发表了论文《Improving Language Understanding by Generative Pre-training（通过生成式预训练改进语言理解）》。2019年和2020年，OpenAI接连发布了GPT-2和GPT-3。</p><p>2018年10月，谷歌发布了有3亿参数的BERT（Bidirectional Encoder Representation from Transformers）模型，意思是“来自Transformers的双向编码表示”模型。</p><p>2019年，DeepMind公司开发了阿尔法星际争霸（AlphaStar），这是一台专门用于玩星际争霸2游戏的人工智能系统。</p><p class="ql-align-center"><img max-width="600" data-src="h7fbg8uT6oAdxo1xkqmC8V1PFyAtB5sInJXWez1XhQB0I60qH9wlinRWidqSkr1g2NxKIH6kG7E28frSLqBA0bWTzmKYPwYvFkmu9a+AK6w="></p><p>2019年3月份，OpenAI正式宣布重组，成为一家"利润上限（caped-profit）"的公司。7月，重组后的OpenAI拿到了微软包括Azure云计算资源在内的10亿美金投资。微软将作为"首选合作伙伴”，今后可获得OpenAI技术成果的独家授权。</p><p>2020年2月，微软推出Turind Natural Language Generatio（T-NLG），这是一种生成式语言模型，是当时最大的语言模型。</p><p>2020年6月，OpenAl发布了GPT-3语言模型。该模型通过预先训练的算法生成文本，并完成人类几乎无法完成的语言任务。随后，OpenAI发表了论文《Language Models are Few-Shot Learner》，阐述了大模型的各种新能力，而最重要的就是小样本（few-shot）学习能力。</p><p>2020年6月，论文《Denoising Diffusion Probabilistic Models（去噪扩散概率模型，DDPM）》发表。这篇论文第一次把2015年诞生的Diffusion"扩散模型"用在了图像生成上。不久之后，DDPM以及后续的Diffusion扩散模型就全面取代了GAN（生成式对抗网络），成为了AI绘画大模型的主流技术。</p><p>2020年11月30日，DeepMind公司宣布其研制的人工智能系统AlphaFold2可以精准预测蛋白质的3D结构，即解决了“蛋白质折叠”问题，被认为是解决了生物领域50年来的重要难题，是人工智能的又一次巨大成功。</p><p>2021年1月，OpenAl发布了可从文本生成图像的人工智能模型DALL-E。</p><p>2021年1月11日，谷歌公司发表论文《Switch Transformers：Scaling to Trillion Parameter Models with Simple and Efficient Sparsity》，提出了最新语言模型—Switch Transformer。这个模型以高达1.6万亿的参数量，成为历史上首个万亿级语言模型。</p><p>2021年2月，Open AI开源了新的深度学习模型CLIP（Contrastive Language-Image Pre-Training）。同时，OpenAI还发布了自己基于CLIP的AI绘画DALL-E 模型。</p><p>2021年6月30日，OpenAI和GitHub联合发布了AI代码补全工具GitHub Copilot。Copilot的AI技术核心正是OpenAI的新模型CodeX（随后的8月份也对外发布了）。</p><p>2021年5月，谷歌公司引入了Language Model for Dialoque Applications（LaMDA）。这是一个大型语言模型，用于在对话中生成类似人类的反应。</p><p class="ql-align-center"><img max-width="600" data-src="h7fbg8uT6oAdxo1xkqmC8W+/omNjonf0XrnjIbXaPA9L6es2/nSGfX7P7ChG7ldPTt36Ap1pCk8J/FEjLIrjhLWTzmKYPwYvFkmu9a+AK6w="></p><p>2021年10月，第一个开源的AI绘画大模型Disco-Diffusion诞生。</p><p>2022年3月，OpenAI发布InstructGPT，同时发表论文《Training language models to follow instructions with human feedback（训练语言模型以遵循带有人类反馈的指令）》。</p><p>2022年3月，AI绘画工具Midjourney问世，创始人是David Holz（戴维·霍尔兹）。</p><p>2022年4月，OpenAI发布了AI绘画大模型DALL-E 2。</p><p>2022年7月，DeepMind破解了几乎所有已知的蛋白质结构，其AlphaFold算法数据库里包含了2亿种已知蛋白质结构。</p><p>2022年8月，Stability AI开源了Stable Diffusion绘画大模型的源代码。这是一款基于文本描述生成图像的文本到图像工具。</p><p>2022年11月，OpenAI发布了基于GPT模型的人工智能对话应用服务——ChatGPT（也可以理解为GPT-3.5），彻底引爆了全世界。</p><p class="ql-align-center"><img max-width="600" data-src="sWGYY5yy0kWHb3ShJgzYTIBWOwnK9BQvt6dZ7PqmKDESN80s4NX9p/Jh8dtD+BDP2Wsz8ZwIaTbbgKn7HVnutrWTzmKYPwYvFkmu9a+AK6w="></p><p>2023年1月，微软宣布对OpenAl进行多年期巨额投资，数十亿美元。</p><p>2023年2月7日，谷歌公司发布了由LaMDA提供支持的聊天机器人Bard。</p><p>2023年2月25日，Meta公司发布LLaMA模型并开源。7月19日，Meta公司发布了人工智能模型LLaMA 2的开源商用版本。</p><p>2023年3月15日，OpenAI发布了GPT-4。</p><p>2023年3月16日，百度发布文心一言。</p><p>2023年5月11日，谷歌正式开放超级AI大模型PaLM2。</p><p>2023年6月，英伟达市值突破1万亿美元。美股“七巨头”（Magnificent 7，分别是：谷歌母公司Alphabet、亚马逊、苹果、Meta、微软、英伟达和特斯拉）的股价开始不断攀升。</p><p>2023年11月，首份人工智能监管声明《布莱切利宣言》发布。</p><p>2023年11月18日，OpenAI CEO山姆·奥特曼（Sam Altman）被开除，引发全网关注。22日，OpenAI官方推特宣布，Sam Altman回归并重新担任OpenAI CEO。</p><p class="ql-align-center"><img max-width="600" data-src="9jtEdtXdLrY19r1cR6XiELuBXmHsoyPWhhF4TqWTgoUU+IK859zIQ2HH0y0QBQyPLr1IU9IjHYzLbbAcWUN8drWTzmKYPwYvFkmu9a+AK6w="></p><p>2023年12月6日，谷歌公司发布多模态大模型Gemini 1.0（双子星）。</p><p class="ql-align-center"><img max-width="600" data-src="9jtEdtXdLrY19r1cR6XiEGiQ39+K6x6eB3ddK3ChRX1SF3jRxZC5ZXqc0GjHPa297hwJaimVqJAwpAuk1nzHJ7WTzmKYPwYvFkmu9a+AK6w="></p><p>2024年2月15日，OpenAI发布人工智能文生视频大模型Sora。</p><p class="ql-align-center"><img max-width="600" data-src="vrQqgk+FQSQmr7dDCa0gduolKCwI7s8ejKwjCiQno8lbtEQ8ZGOVq5ftglSn382nLVF6ujZtCxKTs5xsyldZMbWTzmKYPwYvFkmu9a+AK6w="></p><p>2024年5月14日，OpenAI举行春季发布会，推出新旗舰模型GPT-4o。</p><p>2024年7月23日，Meta发布LLAMA 3.1 405B开源人工智能模型。</p><p>（截止日期：2024年7月29日）</p><p>—— The End —— </p><p>具体的发展史，还是建议大家阅读：</p><p>入门必读！写给初学者的人工智能简史！</p><p class="ql-align-center"><img max-width="600" data-src="yJyoDGPS+lN53ZVgsmSzc63bDnsdV3uWEXofTifhr716hCpFnpjNf79mcRAaSAFV1rNAmtcAsG1owv6SHQelg7WTzmKYPwYvFkmu9a+AK6w="></p><p><strong>参考文献：</strong></p><p>1、《人工智能简史》，尼克；</p><p>2、《人工智能发展简史》孙凌云、孟辰烨、李泽健；</p><p>3、《人工智能 60 年技术简史》，李理；</p><p>4、《深度学习简史》，Keith D. Foote；</p><p>5、《人工智能发展史（从起步到磅礴）以及浪潮阶段》，CSDN；</p><p>6、《从零启程——人工智能简史》，知乎；</p><p>7、《四张图片道清AI大模型的发展史》，阿里云；</p><p>8、《GPT的背后，从命运多舛到颠覆世界，人工神经网络的跌宕80年》，孙睿晨；</p><p>9、百度百科、维基百科等。<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>          <!-- 政务账号添加来源标示处理 -->
+      <!-- 政务账号添加来源标示处理 -->
+      <p data-role="editor-name">责任编辑：<span></span></p>
+</article>
+<div id="articleTransfer"><transfer></transfer></div>
+<!-- 评论禁言通知 -->
+<div id="bannedNotice"><banned-notice></banned-notice></div>
+  <div class="statement">平台声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>    <div class="bottom-relate-wrap clear type-3">
+            <div id="article-like" data-like-type="type-3">
+            <article-like>
+        </article-like></div>
+        <div class="read-wrap">
+        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
+    </div>
+    <div id="articleReport">
+        <report>
+    </report></div>
+</div>
+
+                            <div id="sohu-play-content"></div>
+                        </div>
+                    </div>
+                    <div data-spm="middle-banner-ad">
+                                            </div>
+                                            <div id="articleAllsee" style="height:629px"><all-see-list></all-see-list></div>
+                                        <div class="_0u4o3bh76zbp"></div>
+                    <div class="god-article-bottom" id="god_bottom_banner" data-spm="ad-text-bottom" style="display:block">
+</div>
+<div class="user-god clear" id="user-post" style="display:none">
+
+</div>                    <!-- 评论 -->
+                    <div id="meComment" style="min-height: 100px;">
+                        <me-comment>
+                    </me-comment></div>
+                    <div id="commentList">
+                        <comment-list></comment-list>
+                    </div>
+                    <div id="discuss"></div>
+                    <!-- 推荐阅读 -->
+                                        <div style="min-height:1500px" id="groomRead">
+                        <groom-read>
+                    </groom-read></div>
+                                    </div>
+                <!-- 右侧边栏 -->
+                <div class="sidebar right" id="right-side-bar" data-a="${isBaiDuAd}">
+                    <right-side-bar>
+                </right-side-bar></div>
+             </div>
+            <div id="float-btn"> <float-btn> </float-btn></div>
+            <div class="left-bottom-float-fullScreenSleepContainer" style="display:none;">
+    <div class="left-bottom-float-fullScreenSleep" style="display:none;" data-spm="ad-fullScreenSleep">
+        <div class="close-tag"></div>
+    </div>
+</div>
+<div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
+</div>        </div>
+        <script type="text/javascript">
+                        window.deployEnv = "prod"
+                    </script>
+        <script src="//js.sohu.com/pv.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/vendors-8717d0.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/main_article-068610.js"></script>        <script>
+try{
+        window.sohu_mp.article({
+        channel_id: "30",
+        news_id: "796952554",
+        cms_id: "$mpNews.cmsId",
+        media_id: "100265941",
+        passport: "1035450300678447104@sohu.com",
+        weboUrl: "https://mp.sohu.com/profile?xpt=MTAzNTQ1MDMwMDY3ODQ0NzEwNEBzb2h1LmNvbQ==",
+        title: "【收藏】全网最详细的AI大事记！",
+        channel_url:"//it.sohu.com",
+        integralLevel: "3",
+        categoryId:"880",
+        //abData_fd用于abtest
+        abData:"",
+        // abData_discuss:"4", // 讨论
+        abData_discuss:"", // 讨论
+        abData_fd:"",
+        abData_tw:"",
+        originalId:"$mpNews.originalId",
+        originalStatus:"0",
+        isBaiDuAd: "",
+        isPure: "${pure}",
+        reprint: false,
+        reprintSign: "",
+        secureScore: '100',
+        sGrade: '0',
+        editor:'',
+        hideAd:'',
+        keywords: "[美国, 机器人, 全网, 大事记, 开发, 人类, 程序, 神经, 智能, 计算机, 知识科普, 马文·明斯基, 模型, 人工智能, 谷歌公司, OpenAI]",
+        mpNewsExt:{
+            "modelId":""
+        },
+        imgsList: [
+                                             {
+                    "url" : "//q5.itc.cn/images01/20240729/f8dbe6ed233f4351b5332589aecee7a4.png",
+                    "width" : "720",
+                    "height" : "405",
+                }
+                                                , {
+                    "url" : "//q3.itc.cn/images01/20240729/490783b1bef34b0aa3de706043ef2f88.jpeg",
+                    "width" : "626",
+                    "height" : "353",
+                }
+                                                , {
+                    "url" : "//q3.itc.cn/images01/20240729/cabc768f976a428d8910f2e5a253bcfd.jpeg",
+                    "width" : "1080",
+                    "height" : "810",
+                }
+                                                , {
+                    "url" : "//q8.itc.cn/images01/20240729/5df5ab83973b457d80ba77c7af5ed791.jpeg",
+                    "width" : "782",
+                    "height" : "436",
+                }
+                                                , {
+                    "url" : "//q3.itc.cn/images01/20240729/0a90ce827bf64ca5be03753140ba7f52.jpeg",
+                    "width" : "1024",
+                    "height" : "768",
+                }
+                                                , {
+                    "url" : "//q8.itc.cn/images01/20240729/b5669ff867784f12b42f90e9decb4662.jpeg",
+                    "width" : "1080",
+                    "height" : "529",
+                }
+                                                , {
+                    "url" : "//q3.itc.cn/images01/20240729/882f6b3cfd11446f877315cee56172ed.jpeg",
+                    "width" : "620",
+                    "height" : "350",
+                }
+                                                , {
+                    "url" : "//q5.itc.cn/images01/20240729/16363bc729f0414c9635bcfb330e6384.jpeg",
+                    "width" : "1080",
+                    "height" : "863",
+                }
+                                                , {
+                    "url" : "//q9.itc.cn/images01/20240729/baa154511f2844a1ae5bf0bcc1a81b9c.jpeg",
+                    "width" : "600",
+                    "height" : "400",
+                }
+                                                , {
+                    "url" : "//q7.itc.cn/images01/20240729/faa4e301310a4052892f14283811cd9c.jpeg",
+                    "width" : "568",
+                    "height" : "378",
+                }
+                                                , {
+                    "url" : "//q8.itc.cn/images01/20240729/ddec6f1fe1a148b4b5bc87f8faf74ea3.jpeg",
+                    "width" : "1080",
+                    "height" : "1023",
+                }
+                                                , {
+                    "url" : "//q9.itc.cn/images01/20240729/d24d7549da0b48c9b4d8be1402ba4578.jpeg",
+                    "width" : "1080",
+                    "height" : "664",
+                }
+                                                , {
+                    "url" : "//q9.itc.cn/images01/20240729/0098472fe4ab4fc4a1dcdd2a0f148cd4.jpeg",
+                    "width" : "567",
+                    "height" : "448",
+                }
+                                                , {
+                    "url" : "//q5.itc.cn/images01/20240729/49f79113e962415983be25f379a38f37.jpeg",
+                    "width" : "500",
+                    "height" : "347",
+                }
+                                                , {
+                    "url" : "//q8.itc.cn/images01/20240729/ef23969eda1549e38162e8c2552bff10.jpeg",
+                    "width" : "727",
+                    "height" : "471",
+                }
+                                                , {
+                    "url" : "//q2.itc.cn/images01/20240729/23e1fe69fb014fa787221ddff8a5e6f6.jpeg",
+                    "width" : "182",
+                    "height" : "277",
+                }
+                                                , {
+                    "url" : "//q6.itc.cn/images01/20240729/1a695efce1c24b678c7ff54278aea7ec.jpeg",
+                    "width" : "200",
+                    "height" : "253",
+                }
+                                                , {
+                    "url" : "//q4.itc.cn/images01/20240729/270e072acdff49c6b311b13d570dd9a3.jpeg",
+                    "width" : "854",
+                    "height" : "588",
+                }
+                                                , {
+                    "url" : "//q6.itc.cn/images01/20240729/22e59c12b8014e07b61fd17f425bbc78.jpeg",
+                    "width" : "543",
+                    "height" : "543",
+                }
+                                                , {
+                    "url" : "//q2.itc.cn/images01/20240729/f062e213bae847fc935b03fc40f45835.jpeg",
+                    "width" : "640",
+                    "height" : "361",
+                }
+                                                , {
+                    "url" : "//q5.itc.cn/images01/20240729/df53cd22b1064bf48cf127612ad21dec.jpeg",
+                    "width" : "854",
+                    "height" : "998",
+                }
+                                                , {
+                    "url" : "//q5.itc.cn/images01/20240729/bbba3907eb9943e5a9493553a4fb3f70.jpeg",
+                    "width" : "600",
+                    "height" : "338",
+                }
+                                                , {
+                    "url" : "//q7.itc.cn/images01/20240729/237b4db58b1b4ff782054700fc7494ab.jpeg",
+                    "width" : "1080",
+                    "height" : "540",
+                }
+                                                , {
+                    "url" : "//q7.itc.cn/images01/20240729/80a0b65d8d684f08aee0aef92dd3eeab.jpeg",
+                    "width" : "1080",
+                    "height" : "608",
+                }
+                                                , {
+                    "url" : "//q5.itc.cn/images01/20240729/3ab343e6427a4f15b3397cee274cf33c.jpeg",
+                    "width" : "826",
+                    "height" : "539",
+                }
+                                                , {
+                    "url" : "//q7.itc.cn/images01/20240729/7403cbc3ebe04022af060845250a1328.jpeg",
+                    "width" : "853",
+                    "height" : "483",
+                }
+                                                , {
+                    "url" : "//q8.itc.cn/images01/20240729/8bf84bb81ea14db5b75b359fb01200b4.jpeg",
+                    "width" : "640",
+                    "height" : "409",
+                }
+                                                , {
+                    "url" : "//q0.itc.cn/images01/20240729/b521815b8fc04a2481d22600fb0cbde0.jpeg",
+                    "width" : "712",
+                    "height" : "400",
+                }
+                                                , {
+                    "url" : "//q8.itc.cn/images01/20240729/0779384504bd4a4182dde95b4848c9a6.jpeg",
+                    "width" : "674",
+                    "height" : "480",
+                }
+                                                , {
+                    "url" : "//q5.itc.cn/images01/20240729/a6102196b4d04b4fa90e0d19f16f1723.jpeg",
+                    "width" : "948",
+                    "height" : "565",
+                }
+                                                , {
+                    "url" : "//q0.itc.cn/images01/20240729/d144926e726f46bcb4e7f7c238f2af44.jpeg",
+                    "width" : "1024",
+                    "height" : "768",
+                }
+                                                , {
+                    "url" : "//q1.itc.cn/images01/20240729/e92c8870c3f74c4cb3331a42d472b996.jpeg",
+                    "width" : "1050",
+                    "height" : "700",
+                }
+                                                , {
+                    "url" : "//q7.itc.cn/images01/20240729/c6a29e988ba64032a6281feae6a30a1b.jpeg",
+                    "width" : "1080",
+                    "height" : "631",
+                }
+                                                , {
+                    "url" : "//q7.itc.cn/images01/20240729/07d13e8ec6d04e46b87cb6ae4657eff0.jpeg",
+                    "width" : "716",
+                    "height" : "353",
+                }
+                                                , {
+                    "url" : "//q1.itc.cn/images01/20240729/441b1d33d0b94b15be78d469da8006fe.jpeg",
+                    "width" : "907",
+                    "height" : "614",
+                }
+                                                , {
+                    "url" : "//q2.itc.cn/images01/20240729/c2b8b966e80a41cca67d101f31e5738f.jpeg",
+                    "width" : "843",
+                    "height" : "555",
+                }
+                                                , {
+                    "url" : "//q2.itc.cn/images01/20240729/ab2c2996f6b4429b953dcefdd2072e8d.jpeg",
+                    "width" : "917",
+                    "height" : "599",
+                }
+                                                , {
+                    "url" : "//q8.itc.cn/images01/20240729/5440c448749f4a40bebd93809281027c.jpeg",
+                    "width" : "875",
+                    "height" : "443",
+                }
+                                                , {
+                    "url" : "//q6.itc.cn/images01/20240729/e260150eb31d4ee2b90a6d7031ed1b9a.jpeg",
+                    "width" : "1080",
+                    "height" : "601",
+                }
+                                        ],
+        topNavigation: [
+                                             {
+                    "url" : "http://news.sohu.com/",
+                    "name" : "新闻",
+                }
+                                                , {
+                    "url" : "http://sports.sohu.com/",
+                    "name" : "体育",
+                }
+                                                , {
+                    "url" : "http://auto.sohu.com/",
+                    "name" : "汽车",
+                }
+                                                , {
+                    "url" : "http://www.focus.cn/",
+                    "name" : "房产",
+                }
+                                                , {
+                    "url" : "http://travel.sohu.com/",
+                    "name" : "旅游",
+                }
+                                                , {
+                    "url" : "http://learning.sohu.com/",
+                    "name" : "教育",
+                }
+                                                , {
+                    "url" : "http://fashion.sohu.com/",
+                    "name" : "时尚",
+                }
+                                                , {
+                    "url" : "http://it.sohu.com/",
+                    "name" : "科技",
+                }
+                                                , {
+                    "url" : "http://business.sohu.com/",
+                    "name" : "财经",
+                }
+                                                , {
+                    "url" : "http://yule.sohu.com/",
+                    "name" : "娱乐",
+                }
+                                                , {
+                    "url" : "http://baobao.sohu.com/",
+                    "name" : "母婴",
+                }
+                                                , {
+                    "url" : "https://healthnews.sohu.com/",
+                    "name" : "健康",
+                }
+                                                , {
+                    "url" : "http://history.sohu.com/",
+                    "name" : "历史",
+                }
+                                                , {
+                    "url" : "http://mil.sohu.com/",
+                    "name" : "军事",
+                }
+                                                , {
+                    "url" : "http://chihe.sohu.com/",
+                    "name" : "美食",
+                }
+                                                , {
+                    "url" : "http://cul.sohu.com/",
+                    "name" : "文化",
+                }
+                                                , {
+                    "url" : "http://astro.sohu.com/",
+                    "name" : "星座",
+                }
+                                                , {
+                    "url" : "https://www.sohu.com/xchannel/TURBd01EQXhPVGt5",
+                    "name" : "专题",
+                }
+                                                , {
+                    "url" : "http://game.sohu.com/",
+                    "name" : "游戏",
+                }
+                                                , {
+                    "url" : "http://fun.sohu.com/",
+                    "name" : "搞笑",
+                }
+                                                , {
+                    "url" : "http://acg.sohu.com/",
+                    "name" : "动漫",
+                }
+                                                , {
+                    "url" : "http://pets.sohu.com/",
+                    "name" : "宠物",
+                }
+                                        ],
+    });
+}
+catch(e){
+    var html = '<div class="err-js">' +
+                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
+                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
+                '><em class="icon-cached"></em>刷新</a></div>';
+    $(document.body).prepend(html);
+    console.error("发生错误",e);
+}
+</script>
+<!-- 文章安全分低于等于10分不执行seo优化 -->
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>
+        <!-- 头条SEO上报JS -->
+        <script>
+            (function(){
+                var el = document.createElement("script");
+                el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42";
+                el.id = "ttzz";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(el, s);
+            })(window)
+        </script>
+    
+</body></html>

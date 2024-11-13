@@ -1,0 +1,26 @@
+<html xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+    <title>网站防火墙</title>
+    <style>
+    p {line-height:20px;text-indent:2em;}
+    ul{ list-style-type:none;}
+    li{ list-style-type:none;}
+    .content {border:1px dashed #cdcece;box-shadow:0 1px 2px 0 rgba(0,0,0,.05); border-top:none; font-size:14px; line-height:24px; height:210px; padding:10px 20px 0 20px; overflow-y:auto;background:#f3f7f9;}
+    
+    </style>
+  </head>
+  <body style='font:14px/1.5 Microsoft Yahei, 宋体,sans-serif; color:#555;'>
+      <div style='width:600px;height:260px;text-align:left;position: absolute;left:50%;top:50%;margin-top:-130px;margin-left:-300px;'>
+        <div style=' height:40px; line-height:40px; color:#fff; font-size:16px; overflow:hidden; background:#1094cb; padding-left:20px;border-radius: 4px 4px 0 0;'> 安全提示</div>
+        <div class='content'>
+          <span style='font-weight:600; display:block;text-indent:2em;'>您的请求带有不合法参数，已被系统WAF拦截，请检查您的请求参数是否合法，或者联系网站管理员查看详情。</span>
+          <p>网站：aidata.haut.edu.cn</p>
+          <p>远程地址：120.238.248.43</p>
+          <p>可能原因：非法的UserAgent;</p>
+          <hr style=' height:1px;border:none;border-top:1px dotted #c2c2c2;'>
+          <span style='float:right;color:#c2c2c2;font-size:12px;'>统一资源发布与管理系统 - 网站防护</span>
+        </div>
+      </div>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "dhd_think_var=en-us",
+        "Referer": "http://www.naturechina.com/articles/career-guide-AI",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "http://www.naturechina.com/articles/career-guide-AI",
+    "wait": 6
+}

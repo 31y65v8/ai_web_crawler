@@ -1,0 +1,39 @@
+Content-Length: 58569
+Content-Type: text/html;charset=UTF-8
+Content-Encoding: gzip
+Content-Language: zh-cn
+Server: 
+Cf-Ray: 8e1e56f8799caad3-YYZ
+Cf-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Link: <https://www.opentext.com/zh-cn/what-is/artificial-intelligence>; rel="canonical"
+Strict-Transport-Security: max-age=15724800; includeSubDomains, max-age=31536000
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: frame-ancestors 'self' https://guides.opentext.com https://content.microfocus.com; default-src data: 'unsafe-inline' 'unsafe-eval' https:; style-src data: 'unsafe-inline' https: cdn.weglot.com; img-src data: https: blob:; font-src https:; connect-src https: cdn.weglot.com cdn-api-weglot.com api.weglot.com; object-src https:; child-src https:;
+Content-Security-Policy: frame-ancestors 'self' https://guides.opentext.com https://content.microfocus.com; default-src data: 'unsafe-inline' 'unsafe-eval' https:;style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src  https:; connect-src https:; object-src https:; child-src https:;
+Feature-Policy: accelerometer 'none'; gyroscope 'none'; payment 'none'; usb 'none'; geolocation 'self'; camera 'self'; microphone 'self'
+Feature-Policy: accelerometer 'none'; gyroscope 'none'; payment 'none'; usb 'none'; geolocation 'self'; camera 'self'; microphone 'self'
+Processed-By: Weglot
+Referrer-Policy: strict-origin-when-cross-origin
+Referrer-Policy: strict-origin-when-cross-origin
+Weglot: id.8e1e56f8799caad3, p.cf, cs, ct, cp
+Weglot-Translated: true
+X-Akam-Sw-Version: 0.5.0
+X-Akamai-Transformed: 9 247064 0 pmb=mRUM,2
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Frame-Options: DENY
+X-Powered-By: 
+X-Powered-By: 
+X-Ua-Compatible: IE=Edge
+X-Ua-Compatible: IE=Edge
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+Date: Wed, 13 Nov 2024 11:14:43 GMT
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=3E1A789DB41CFB3C1EA8C76E452B4EC2; Path=/; HttpOnly; Secure; SameSite=Strict
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=217
+Server-Timing: origin; dur=714
+Server-Timing: ak_p; desc="1731496482296_388814351_82899195_92920_8116_0_198_-";dur=1

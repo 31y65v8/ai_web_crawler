@@ -1,0 +1,14 @@
+Server: nginx
+Date: Wed, 13 Nov 2024 13:04:59 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Max-Age: 1800
+Access-Control-Allow-Methods: GET, POST, PATCH, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, X-CSRF-TOKEN, X-Requested-With
+Access-Control-Allow-Origin: *
+Set-Cookie: think_lang=en-us; path=/; domain=gpumap.com; HttpOnly
+Set-Cookie: user_ip=120.238.248.43; expires=Thu, 14-Nov-2024 13:04:59 GMT; Max-Age=86400; path=/; domain=gpumap.com; HttpOnly
+Set-Cookie: PHPSESSID=0fec9f3b6fa6158cde42b769eeab19e0; path=/; domain=gpumap.com; HttpOnly
+Strict-Transport-Security: max-age=31536000
+Content-Encoding: gzip

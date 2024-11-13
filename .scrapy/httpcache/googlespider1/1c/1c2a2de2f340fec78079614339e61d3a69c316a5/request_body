@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.bbc.com/ukchina/simp/vert-fut-41415842",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.bbc.com/ukchina/simp/vert-fut-41415842",
+    "wait": 6
+}

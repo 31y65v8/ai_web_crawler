@@ -1,0 +1,17 @@
+Date: Wed, 13 Nov 2024 11:16:11 GMT
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Frame-Options
+Cache-Control: no-cache, private
+Vary: User-Agent, Accept-Encoding
+Cf-Cache-Status: BYPASS
+Set-Cookie: _ga=GA1.3.88fe918d-db3c-4dc6-8b45-76e78fcf625f; expires=Fri, 13-Nov-2026 11:16:11 GMT; Max-Age=63072000; path=/; domain=core.ac.uk
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=KtVtrGO0HcXubRF2vgu7yFt%2BuHk439ZOsIZvVSMVPfPQ33S9oGDF%2B03G8J1d4CCrGYOquXdVWwzdVxZNQOg7%2Fh%2Bs8HGbdxxajnSnQ9vLlSNVfeG9gFUQzS%2F8nNlJ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8e1e591c6c073e4e-SIN
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=743&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2823&recv_bytes=995&delivery_rate=3679796&cwnd=227&unsent_bytes=0&cid=b3129b8d00a304d6&ts=1169&x=0"

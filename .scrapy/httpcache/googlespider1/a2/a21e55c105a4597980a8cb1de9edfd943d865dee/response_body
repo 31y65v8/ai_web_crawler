@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>ERROR CORE File Server</title>
+                <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    </head>
+    <body>
+         
+        <div id="central_div">            
+            <h2>Uh-oh</h2>
+            <p>A technical error has occurred with our systems.</p>
+            <br/>
+            <a href="/">Go back to the homepage</a><br/>
+            <a href="/contact">Contact us</a>
+            <br/> <br/>
+            
+            <p>Technical details: Error 500 - Internal Server Error
+            </p>
+        </div>
+                    </body>
+</html>

@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.cambricon.com/index.php?m=content&c=index&a=show&catid=127&id=41",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.cambricon.com/index.php?m=content&c=index&a=show&catid=127&id=41",
+    "wait": 6
+}

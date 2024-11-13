@@ -1,0 +1,1490 @@
+<!DOCTYPE html><html lang="zh"><head>
+
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    
+
+    <link href="/content/dam/wbr-redesign/logos/wbg-favicon.png" rel="shortcut icon" type="image/png">
+
+    
+    <title>创造性破坏：利用人工智能的承诺实现共享繁荣</title>
+    <meta name="keywords" content="包容性增长,世行之声">
+    
+    <meta content="我们没有一天不看到生成式人工智能（AI）将如何改变每个人未来的标题。对一些人来说，它就像普罗米修斯之火，可以解决最紧迫的挑战，包括消除贫困。对其他人来说，人工智能意味着失去工作和我们所了解的后工业世界的终结。" name="description">
+    <meta content="blog-details-page" name="template">
+    <meta content="/content/worldbankgroup/blogs/zh/blogs/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" name="pagepath">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    
+
+    
+
+    
+        <link crossorigin="" href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link crossorigin="" href="https://assets.adobedtm.com" rel="preconnect">
+<link crossorigin="" href="https://s7d1.scene7.com" rel="preconnect">
+
+    
+
+    
+        <link as="image" href="https://s7d1.scene7.com/is/image/wbcollab/logo-zh-hans?qlt=90&amp;fmt=webp&amp;resMode=sharp2" imagesizes="100vw" rel="preload">
+<link as="image" href="https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500?qlt=90&amp;fmt=webp&amp;resMode=sharp2" imagesizes="100vw" imagesrcset="https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:1140x500?qlt=90&amp;fmt=webp&amp;resMode=sharp2 1200w,https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:900x475?qlt=90&amp;fmt=webp&amp;resMode=sharp2 992w,https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:768x475?qlt=90&amp;fmt=webp&amp;resMode=sharp2 768w,https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:750x422?qlt=90&amp;fmt=webp&amp;resMode=sharp2 576w,https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:458x257?qlt=90&amp;fmt=webp&amp;resMode=sharp2 320w" rel="preload">
+
+    
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap" rel="stylesheet">
+    
+    
+    <link href="https://blogs.worldbank.org/zh/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" rel="shortlink">
+    <link href="https://blogs.worldbank.org/zh/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" rel="canonical">
+    
+    
+
+    <meta content="World Bank Blogs" property="og:site_name">
+    <meta content="Article" property="og:type">
+    <meta content="https://blogs.worldbank.org/zh/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" property="og:url">
+    <meta content="创造性破坏：利用人工智能的承诺实现共享繁荣" property="og:title">
+    <meta content="我们没有一天不看到生成式人工智能（AI）将如何改变每个人未来的标题。对一些人来说，它就像普罗米修斯之火，可以解决最紧迫的挑战，包括消除贫困。对其他人来说，人工智能意味着失去工作和我们所了解的后工业世界的终结。" property="og:description">
+    <meta content="https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500?qlt=90&amp;hei=630&amp;wid=1200&amp;fit=hfit" property="og:image">
+
+    <meta content="summary_large_image" name="twitter:card">
+    <meta content="@worldbank" name="twitter:site">
+    <meta content="27860681" name="twitter:site:id">
+    <meta content="@worldbank" name="twitter:creator">
+    <meta content="27860681" name="twitter:creator:id">
+    <meta content="https://blogs.worldbank.org/zh/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" name="twitter:url">
+    <meta content="创造性破坏：利用人工智能的承诺实现共享繁荣" name="twitter:title">
+    <meta content="我们没有一天不看到生成式人工智能（AI）将如何改变每个人未来的标题。对一些人来说，它就像普罗米修斯之火，可以解决最紧迫的挑战，包括消除贫困。对其他人来说，人工智能意味着失去工作和我们所了解的后工业世界的终结。" name="twitter:description">
+    <meta content="https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500?qlt=90&amp;hei=630&amp;wid=1200&amp;fit=hfit" name="twitter:image">
+    
+    
+
+    
+
+
+
+<script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="https://connect.facebook.net/signals/config/1458892451075570?v=2.9.176&amp;r=stable&amp;domain=blogs.worldbank.org&amp;hme=872f04a0547459b3285cb03b0d7a47bfde40628f4b386809918a621e2688602f&amp;ex_m=70%2C121%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C172%2C175%2C187%2C183%2C184%2C186%2C29%2C101%2C53%2C77%2C185%2C167%2C170%2C180%2C181%2C188%2C131%2C41%2C189%2C190%2C34%2C143%2C15%2C50%2C195%2C194%2C133%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C168%2C171%2C140%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://connect.facebook.net/en_US/sdk.js?hash=b767f60a66ece23a1d67f76b14f16c87" async="" crossorigin="anonymous"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6"></script><script>
+    var wbgData = wbgData || {};
+
+    wbgData.page = {
+        pageInfo: {
+            pageName: "创造性破坏：利用人工智能的承诺实现共享繁荣",
+            pageCategory: "content",
+            pageUid: "cc866520c0c4c4cbf63183e81a586f82",
+            pageFirstPub: "05-05-2024",
+            pageLastMod: "05-05-2024",
+            author: "Arturo Herrera Gutierrez, Jasmin Chakeri, Nathalie Picarelli",
+            topicTag: "",
+            subtopicTag: "",
+            contentType: "blog",
+            channel: "EXT BLOG Voices zh EXT",
+            webpackage: "web"
+        },
+        sectionInfo: {
+            siteSection: "Blog Post",
+            subsectionP2: "",
+            subsectionP3: "",
+            subsectionP4: "",
+            subsectionP5: "",
+        }
+    }
+    wbgData.site = {
+        siteInfo: {
+            siteLanguage: "zh",
+            siteCountry: "",
+            siteEnv: "prod",
+            siteType: "blogs",
+            siteRegion: "",
+            userIpaddressType: "10.47.0.95",
+        },
+        techInfo: {
+            cmsType: "AEM",
+            bussVPUnit: "",
+            bussUnit: "ECRCC",
+            bussUserGroup: "external",
+            bussAgency: "ibrd",
+        },
+    }
+    wbgData.misc = {
+        blogTitle: "创造性破坏：利用人工智能的承诺实现共享繁荣",
+        blogComnts: 0,
+    }
+</script>
+<script src="//assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/launch-7bc0cdc67098.min.js" async=""></script>
+
+    
+
+
+
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "BlogPosting",
+            "headline": "创造性破坏：利用人工智能的承诺实现共享繁荣",
+            "name": "创造性破坏：利用人工智能的承诺实现共享繁荣",
+            "description": "我们没有一天不看到生成式人工智能（AI）将如何改变每个人未来的标题。对一些人来说，它就像普罗米修斯之火，可以解决最紧迫的挑战，包括消除贫困。对其他人来说，人工智能意味着失去工作和我们所了解的后工业世界的终结。",
+            "about": [
+                "世行之声"
+            ],
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500?qlt=90&fmt=webp&resMode=sharp2"
+            },
+            "datePublished": "Sun, 05/05/2024 - 22:51",
+            "dateModified": "05-05-2024",
+            "author": [
+                {
+                    "@type": "Person",
+                    "name": "Arturo Herrera Gutierrez",
+                    "url": "https://blogs.worldbank.org/en/team/a/arturo-herrera-gutierrez"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Jasmin Chakeri",
+                    "url": "https://blogs.worldbank.org/en/team/j/Jasmin-chakeri"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nathalie Picarelli",
+                    "url": "https://blogs.worldbank.org/en/team/n/nathalie-picarelli"
+                }
+            ],
+            "publisher": {
+                "@type": "Organization",
+                "@id": "https://www.worldbank.org",
+                "name": "World Bank Group",
+                "url": "https://www.worldbank.org",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://s7d1.scene7.com/is/image/wbcollab/logo-zh-hans?qlt=90&fmt=webp&resMode=sharp2"
+                }
+            },
+            "mainEntityOfPage": "https://blogs.worldbank.org/zh/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity"
+        }
+    ]
+}</script>
+
+
+
+    
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-base.css" type="text/css">
+
+
+
+    
+    
+    
+
+    
+
+    
+    <script src="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-dependencies.js"></script>
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-dependencies.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-vendor/jquery.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-vendor/popper.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-vendor/bootstrap.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-blogs.css" type="text/css">
+
+
+    
+    
+    <script async="" src="/etc.clientlibs/core/wcm/components/commons/datalayer/v1/clientlibs/core.wcm.components.commons.datalayer.v1.js"></script>
+
+
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+<script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/EX5867a5c887ea4588ad9812675c896235-libraryCode_source.min.js" async=""></script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script><style id="at-makers-style" class="at-flicker-control">
+.mboxDefault {visibility: hidden;}
+</style><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RCb3929508fb31432496e845f770d4d38f-source.min.js" async=""></script><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RC5bee9bde6f5c406c948030bdb0554466-source.min.js" async=""></script><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RCb453f6bd4b6b4056a53aa2926bf43934-source.min.js" async=""></script><style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0px;margin:0px;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0px 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0px -1px 0px;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0px -1px 0px}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RC52892eadc2a84ac4841473647ded54cf-source.min.js" async=""></script><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RC94eebad5fb634dd2a222999f3d321efd-source.min.js" async=""></script><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RCcfa44cec514143fc9305ada243e8fe0d-source.min.js" async=""></script><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RC413493f797604bafa53f3f68c89e7024-source.min.js" async=""></script><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RCf2c855368e40402fb6c32152da19da78-source.min.js" async=""></script><script charset="utf-8" src="https://siteintercept.qualtrics.com/dxjsmodule/10.1ba09b50c5c5f3299692.chunk.js?Q_CLIENTVERSION=2.18.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=blogs.worldbank.org"></script><script src="https://assets.adobedtm.com/223f6e2cf7c9/3eb6c9b72a93/aaed284e2521/RC24d87acce46642f6ad2be458118f3cd9-source.min.js" async=""></script><script charset="utf-8" src="https://siteintercept.qualtrics.com/dxjsmodule/5.af7c62ed24f3109ccdf9.chunk.js?Q_CLIENTVERSION=2.18.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=wbgwebvisitor"></script><script charset="utf-8" src="https://siteintercept.qualtrics.com/dxjsmodule/1.c51ad4dbeb224a512030.chunk.js?Q_CLIENTVERSION=2.18.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=wbgwebvisitor"></script></head>
+    <body class="page basicpage" id="page-3aa09bf11f" data-cmp-link-accessibility-enabled="" data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-enabled="">
+        <script>
+          window.adobeDataLayer = window.adobeDataLayer || [];
+          adobeDataLayer.push({
+              page: JSON.parse("{\x22page\u002D3aa09bf11f\x22:{\x22@type\x22:\x22worldbankblogs\/components\/page\x22,\x22repo:modifyDate\x22:\x222024\u002D05\u002D06T02:50:53Z\x22,\x22dc:title\x22:\x22创造性破坏：利用人工智能的承诺实现共享繁荣\x22,\x22dc:description\x22:\x22我们没有一天不看到生成式人工智能（AI）将如何改变每个人未来的标题。对一些人来说，它就像普罗米修斯之火，可以解决最紧迫的挑战，包括消除贫困。对其他人来说，人工智能意味着失去工作和我们所了解的后工业世界的终结。\x22,\x22xdm:template\x22:\x22\/conf\/worldbankblogs\/settings\/wcm\/templates\/blog\u002Ddetails\u002Dpage\x22,\x22xdm:language\x22:\x22zh\x22,\x22xdm:tags\x22:[\x22包容性增长\x22,\x22世行之声\x22],\x22repo:path\x22:\x22\/content\/worldbankgroup\/blogs\/zh\/blogs\/voices\/creative\u002Ddestruction\u002Dharnessing\u002Dthe\u002Dpromise\u002Dof\u002Dai\u002Dfor\u002Dshared\u002Dprosperity.html\x22}}"),
+              event:'cmp:show',
+              eventInfo: {
+                  path: 'page.page\u002D3aa09bf11f'
+              }
+          });
+        </script>
+        
+        
+            
+
+
+
+
+            
+<div class="wbg-aem-target" id="wbg-aem-target"></div>
+<div class="wbmetadata updatemetadata parbase">
+
+    
+
+</div>
+<div class="root container responsivegrid">
+
+    
+    
+    <div id="container-77670406ff" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <header class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-01ef565fa4" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    
+    <div id="container-5c249de778" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header aem-GridColumn aem-GridColumn--default--12">
+    
+    
+
+    <a tabindex="0" class="visually-hidden focusable" href="#main">Skip to Main Navigation</a>
+    <div class="lp__header_full_row_wrapper">
+        <div class="touchui-container">
+
+            <!-- white header bar starts -->
+            <div class="lp__white_header_bar">
+                <a href="http://www.shihang.org/" target="_self" class="toplink">shihang.org</a>
+            </div>
+            <!-- white header bar ends -->
+
+            <div class="lp__header_navbar_top_wrapper">
+                <!-- header log starts -->
+                <div class="lp__header_logo">
+                    <a href="/zh/home" class="lp__navbar_brand" target="_self">
+                        <img title="World Bank Blogs Logo" alt="World Bank Blogs Logo" src="https://s7d1.scene7.com/is/image/wbcollab/logo-zh-hans?qlt=90&amp;fmt=webp&amp;resMode=sharp2">
+                    </a>
+                </div>
+            </div>
+
+            <div class="lp__navbar_toggler_button_wrapper">
+                <button class="lp__navbar__toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="sr-only">Page navigation</span>
+                    <!-- <span class="lp_navbar_toggler_icon"></span> -->
+                </button>
+            </div>
+
+            <nav class="navbar">
+                <div class="lp__navbar_collapse collapse" id="navbarSupportedContent">
+                    <ul class="lp__navbar_nav">
+                        <li class="lp__nav_item">
+                            <a class="lp__nav_link" aria-current="page" href="/zh/home" target="_self">主页</a>
+                        </li>
+<li class="lp__nav_item">
+                            <a class="lp__nav_link" aria-current="page" href="/zh/blogs" target="_self">所有博客</a>
+                        </li>
+<li class="lp__nav_item">
+                            <a class="lp__nav_link" aria-current="page" href="/zh/topics" target="_self">专题</a>
+                        </li>
+
+                        <li class="lp__nav_item">
+                            <a class="lp__nav_link" href="mailto:voicesen@worldbank.org">联系方式</a>
+                        </li>
+                        <li class="lp__nav_item lp__img_item">
+                            <a class="lp__nav_link" href="https://live.worldbank.org/en/home?intcid=wbw_nav_WBL_en_ext" target="_self">
+                                <span class="sr-only">WB Live Logo</span>
+                                <img src="/content/dam/sites/blogs/logos/wblive-logo-ENG-short_white2.png" alt="WB Live Logo" title="WB Live Logo" width="95" height="35" aria-hidden="true">
+                            </a>
+                        </li>
+                    </ul>
+
+                    <div class="lp__search_dropdown dropdown sm-hidden">
+                        <a class="lp__search_dropdown_btn dropdown-toggle" href="#" role="button" id="searchPopup" data-toggle="dropdown" aria-expanded="false">
+                            <span class="sr-only">提交</span>
+                            <img src="/content/dam/sites/blogs/logos/search-orange.svg" alt="提交">
+                        </a>
+
+                        <div class="lp__search_popup_wrapper touchui-container dropdown-menu" aria-labelledby="searchPopup">
+                            <form action="javascript:void(0);" class="lp__search_form" role="search">
+                                <a class="search-path" href="/zh/search" style="display: none">提交</a>
+                                <label for="header-search-input" class="sr-only">提交</label>
+                                <input class="lp__search_input" type="search" id="header-search-input">
+                                <button class="lp__search_btn" type="button" aria-label="search">
+                                    <span class="lp__search_icon"></span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div class="search-popup-wrapper sm-visible">
+                        <form action="javascript:void(0);" class="search-wrapper" role="search">
+                            <label for="header_search_input_small_device" class="sr-only">提交</label>
+                            <div class="lp__search_input_wrapper">
+                                <a class="search-path" href="/zh/search" style="display: none">提交</a>
+                                <input class="lp__form_control search-input" type="search" id="header_search_input_small_device">
+                                <button class="search-btn" type="button">
+                                    <span class="sr-only">提交</span>
+                                    <span class="search-icon"></span>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</header>
+<main class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="main" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="container-a28a193b37" class="cmp-container lp__page_title_banner_v2 lp__page_title_banner_wrapper lp_yellowBg_wrapper lp__wave_bg_wrapper">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="teaser lp__page_title_banner lp__page_title_banner_v1 aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+
+	<div class="cmp-teaser">
+      
+        <div class="cmp-teaser__content">
+            
+    
+    
+        <div class="cmp-page__title">
+            <span>发表于</span>
+            <a class="cmp-teaser__title-link" href="/zh/voices">世行之声</a>
+        </div>
+    
+    
+
+            
+    
+
+            
+    
+
+			
+   <div class="cmp-teaser__action-container"> 
+   <ul> 
+		
+	</ul>
+    </div>
+
+        </div>
+
+         
+</div>
+
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="blogdetails aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+
+
+    <div>
+        
+        
+
+        
+
+        
+            <div class="touchui-container">
+                <div class="aem-Grid">
+                    <div class="aem-GridColumn--default--10 aem-GridColumn--offset--default--1 aem-GridColumn--desktop--10 aem-GridColumn--offset--desktop--1 aem-GridColumn--tablet--10 aem-GridColumn--offset--tablet--1 aem-GridColumn--phone--12">
+                        <div class="lp__primary_card lp__primary_text_teaser lp__primary_heading_teaser lp__primary_heading_teaser_v2">
+                            <div class="blog_teaser">
+                                <div class="blog_teaser__content">
+                                    <h1 class="blog_teaser__title">创造性破坏：利用人工智能的承诺实现共享繁荣 </h1>
+                                    <div class="blog_teaser__link_container ">
+                                        <ul>
+                                            <li>
+                                                <a href="/en/team/a/arturo-herrera-gutierrez">Arturo Herrera Gutierrez</a>
+                                            </li>
+<li>
+                                                <a href="/en/team/j/Jasmin-chakeri">Jasmin Chakeri</a>
+                                            </li>
+<li>
+                                                <a href="/en/team/n/nathalie-picarelli">Nathalie Picarelli</a>
+                                            </li>
+
+                                        </ul>
+                                        <span>
+                                            <time>2024年04月24日</time>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lp__header__language__bar__wrapper lp__language__bar_left">
+                            
+    
+    
+
+
+    <div class="lp__header__language__bar">
+        <span class="language-label" aria-label="lp__language_list_small_device">版本:</span>
+        <ul class="language-list sm-hidden" id="lp__language_list_small_device">
+            <li class="language-list-item active">
+                <a href="/zh/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" lang="zh" class="language-link">中文</a>
+            </li>
+<li class="language-list-item ">
+                <a href="/en/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" lang="en" class="language-link">English</a>
+            </li>
+<li class="language-list-item ">
+                <a href="/fr/voices/destruction-creatrice-comment-mettre-les-promesses-de-l-intelligence-artificielle-au-service-d-une-prosperite-partagee" lang="fr" class="language-link">Français</a>
+            </li>
+<li class="language-list-item ">
+                <a href="/es/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" lang="es" class="language-link">Español</a>
+            </li>
+<li class="language-list-item ">
+                <a href="/ar/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" lang="ar" class="language-link">العربية</a>
+            </li>
+
+        </ul>
+        <!-- for small device language dropdown starts -->
+        <div class="dropdown lp__language_dropdown_wrapper sm-visible">
+            <button id="lp__language_toggler_btn" class="dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false" aria-labelledby="language-list lp__language_toggler_btn">
+                
+                    中文
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="language-list">
+                <li class="active">
+                    <a class="dropdown-item" href="/zh/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" lang="zh">中文</a>
+                </li>
+<li>
+                    <a class="dropdown-item" href="/en/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" lang="en">English</a>
+                </li>
+<li>
+                    <a class="dropdown-item" href="/fr/voices/destruction-creatrice-comment-mettre-les-promesses-de-l-intelligence-artificielle-au-service-d-une-prosperite-partagee" lang="fr">Français</a>
+                </li>
+<li>
+                    <a class="dropdown-item" href="/es/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" lang="es">Español</a>
+                </li>
+<li>
+                    <a class="dropdown-item" href="/ar/voices/creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity" lang="ar">العربية</a>
+                </li>
+
+            </ul>
+        </div>
+        <!-- for small device language dropdown ends  -->
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lp__full_row_wrapper lp__white_f6_wrapper">
+                <div class="touchui-container">
+                    <div class="aem-Grid">
+                        <div class="image lp__primary_image aem-GridColumn--default--12 aem-GridColumn--desktop--12 aem-GridColumn--tablet--12 aem-GridColumn--phone--12">
+                            <div class="cmp-image">
+                                <img src="https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500?qlt=90&amp;fmt=webp&amp;resMode=sharp2" srcset="https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:1140x500?qlt=90&amp;fmt=webp&amp;resMode=sharp2 1200w,https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:900x475?qlt=90&amp;fmt=webp&amp;resMode=sharp2 992w,https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:768x475?qlt=90&amp;fmt=webp&amp;resMode=sharp2 768w,https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:750x422?qlt=90&amp;fmt=webp&amp;resMode=sharp2 576w,https://s7d1.scene7.com/is/image/wbcollab/ai-blog-1440x500:458x257?qlt=90&amp;fmt=webp&amp;resMode=sharp2 320w" data-dam-path="/content/dam/sites/blogs/img/detail/2024/ai-blog-1440x500.jpg" class="blog_image__image" alt="创造性破坏：利用人工智能的承诺实现共享繁荣 " title="创造性破坏：利用人工智能的承诺实现共享繁荣 " width="1140" height="500">
+                                <span class="cmp-image__title">图片版权所有: Canva</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+
+    </div>
+</div>
+<div class="container responsivegrid lp__full_row_wrapper aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="container-245f170b07" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid tui_container_col_10_offset_1 aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="container-12f9055986" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="container-4499f16b63" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="embed aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div id="text-eae9ad09f2" class="cmp-text">
+    <p>我们没有一天不看到生成式人工智能（AI）将如何改变每个人未来的标题。对一些人来说，它就像普罗米修斯之火，可以解决最紧迫的挑战，包括消除贫困。对其他人来说，人工智能意味着失去工作和我们所了解的后工业世界的终结。&nbsp;</p>
+<p>这两个极端都不无道理。</p>
+<p>我们还不完全了解人工智能对我们的<a href="https://shapingwork.mit.edu/research/can-we-have-pro-worker-ai/">经济结构与工作、人类潜力</a>以及我们对<a href="https://news.mit.edu/2023/power-and-progress-book-ai-inequality-0517">进步的苦苦寻求</a>将产生何种影响，但我们已经可以看到它将推动一场技术革命。这并非我们目睹的第一次，比如为交通带来革命性变化的<a href="https://www.worldhistory.org/article/2166/the-steam-engine-in-the-british-industrial-revolut/">蒸汽机</a>。鉴古知今，人工智能从长远看也能促进增长与繁荣。然而，在此过程中将会造成一些破坏，至少某些行业和职业将会永远消失。除了在中央公园等旅游景点，你上回在美国乘坐马车是什么时候？</p>
+<p>据<a href="https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf">高盛</a>的保守估计预测，在未来十年全球将有多达3亿个全职工作岗位受到人工智能的影响，相当于世界劳动人口的8.5%左右。对于像墨西哥这样的国家（我们中有一位来自墨西哥）来说，这相当于500多万个工作岗位受到影响，比乌拉圭（我们中另一位来自乌拉圭）总人口还要多。据<a href="https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity">国际货币基金组织（IMF）估计</a>，全球约有40%的工作岗位将受到人工智能的影响，而发达经济体多达60%的工作岗位可能会受影响，因为人工智能主要影响高技能工作。</p>
+<p>尽管如此，从宏观经济的角度来看，人工智能似乎是我们翘首以盼的解决方案，可以解决<a href="https://documents1.worldbank.org/curated/en/578861548876206044/pdf/134222-PUB-9781464813344.pdf">全球生产力放缓</a>问题，而这是导致发达经济体在过去二十年增长缓慢的根源所在。据<a href="https://www.key4biz.it/wp-content/uploads/2023/03/Global-Economics-Analyst_-The-Potentially-Large-Effects-of-Artificial-Intelligence-on-Economic-Growth-Briggs_Kodnani.pdf">高盛的分析估计</a>，在广泛采用之后，人工智能将在十年内使美国的劳动生产率年增长提高近1.5个百分点。根据2007年至2019年每年1.5%的历史平均增长率，这意味着生产率增长将提高一倍以上，达到<a href="https://www.bls.gov/productivity/images/pfei.png">二战以来的最高增速</a>。</p>
+<p>虽然从长远来看是有益的，但关键问题是：<span class="tweetable" data-content="{&quot;tweetText&quot;:&quot;在未来十年会发生什么？社会和政府需要做些什么来实现平稳过渡？换句话说，我们怎样才能利用人工智能的创造性破坏过程来实现共享繁荣？&quot;,&quot;channel&quot;:&quot;worldbank&quot;,&quot;hashtag&quot;:&quot;&quot;}" data-text="在未来十年会发生什么？社会和政府需要做些什么来实现平稳过渡？换句话说，我们怎样才能利用人工智能的创造性破坏过程来实现共享繁荣？" data-tweet="worldbank"><a href="https://twitter.com/" class="twd-id" aria-label="text">在未来十年会发生什么？社会和政府需要做些什么来实现平稳过渡？换句话说，我们怎样才能利用人工智能的创造性破坏过程来实现共享繁荣？<i class="lp lp-twit"></i></a></span></p>
+<p>我们拥有塑造未来的力量。对就业的影响将取决于<a href="https://www.imf.org/en/Publications/fandd/issues/2023/12/Rebalancing-AI-Acemoglu-Johnson">人工智能是对工人的替代还是补充</a>，而这可以通过财政政策、激励措施和法规来加以影响。<span class="tweetable" data-content="{&quot;tweetText&quot;:&quot;如果人工智能成为对工人的补充，就能使工人提高效率、从事更高质量的工作，或者完成新的任务。&quot;,&quot;channel&quot;:&quot;worldbank&quot;,&quot;hashtag&quot;:&quot;&quot;}" data-text="如果人工智能成为对工人的补充，就能使工人提高效率、从事更高质量的工作，或者完成新的任务。" data-tweet="worldbank"><a href="https://twitter.com/" class="twd-id" aria-label="text">如果人工智能成为对工人的补充，就能使工人提高效率、从事更高质量的工作，或者完成新的任务。<i class="lp lp-twit"></i></a></span>生产力的这些显著提高可以导致新的就业岗位产生，可以是在同一行业，也可以通过在相关行业扩展活动范围。医疗保健和教育的进步有望大幅提升我们的生活水平。</p>
+<p>但是，过渡的成本是很高的，虽然我们拥有有效缓解人工智能影响的政策工具和制度，但我们也需要新的政策工具和制度，包括新的财政政策和法规，以确保生产率的提高对劳动和资本都有益。正如安格斯·迪顿（Angus Deaton）在<a href="https://www.imf.org/en/Publications/fandd/issues/2023/09/Book-a-wide-angle-view-of-inequality-arora">《美国经济学》（Economics in America）</a>一书中所说，必须仔细调整再分配和预分配，以确保能够避免在其他技术革命中出现的不平等显著加剧的现象，并维护民主制度。</p>
+<p><span class="tweetable" data-content="{&quot;tweetText&quot;:&quot;归根结底，有多少工作岗位被创造出来或者毁掉，哪些类的工人面临的变化最大，人工智能如何促进各行业的自动化，这些行业位于何地，都取决于我们今天做出的政策选择。&quot;,&quot;channel&quot;:&quot;worldbank&quot;,&quot;hashtag&quot;:&quot;&quot;}" data-text="归根结底，有多少工作岗位被创造出来或者毁掉，哪些类的工人面临的变化最大，人工智能如何促进各行业的自动化，这些行业位于何地，都取决于我们今天做出的政策选择。" data-tweet="worldbank"><a href="https://twitter.com/" class="twd-id" aria-label="text">归根结底，有多少工作岗位被创造出来或者毁掉，哪些类的工人面临的变化最大，人工智能如何促进各行业的自动化，这些行业位于何地，都取决于我们今天做出的政策选择。<i class="lp lp-twit"></i></a></span>即使发达经济体首当其冲，但最终发展中经济体——资本和高技能劳动力稀缺但人口压力大——也会受到影响。</p>
+<p><span class="tweetable" data-content="{&quot;tweetText&quot;:&quot;虽然我们无法准确预测人工智能将在多大程度上改变局面，但可以肯定的是，它有望带来根本性的变化，而我们可以选择去塑造变化。&quot;,&quot;channel&quot;:&quot;worldbank&quot;,&quot;hashtag&quot;:&quot;&quot;}" data-text="虽然我们无法准确预测人工智能将在多大程度上改变局面，但可以肯定的是，它有望带来根本性的变化，而我们可以选择去塑造变化。" data-tweet="worldbank"><a href="https://twitter.com/" class="twd-id" aria-label="text">虽然我们无法准确预测人工智能将在多大程度上改变局面，但可以肯定的是，它有望带来根本性的变化，而我们可以选择去塑造变化。<i class="lp lp-twit"></i></a></span>正如麻省理工学院教授达龙·阿西莫格鲁（Daron Acemoglu）和西蒙·约翰逊（Simon Johnson）在<a href="https://shapingwork.mit.edu/power-and-progress/">《权力与进步》（Power and Progress）</a>一书中所说，“唯有当技术进步的方向及社会收益的分配方式不再牢牢掌控在少数精英手中，才有可能真正实现共享繁荣。”让我们努力确保人人都能从最新这场技术革命中受益。</p>
+</div>
+
+    
+
+</div>
+<div class="listnavigation tui__link_list aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+
+
+    
+</div>
+<div class="separator lp__separator_spacing aem-GridColumn aem-GridColumn--default--12">
+<div id="separator-e8694a7dbe" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule">
+</div></div>
+<div class="listnavigation tui__link_list_hr aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="newsletter aem-GridColumn aem-GridColumn--default--12">
+    <div class="lp__full_row_wrapper lp__dark_gray_wrapper lp__full_row_padding">
+        
+        <div class="touchui-container primary_newsletter tui_secondary_newsletter">
+            <div class="aem-Grid tui__flex_box">
+                
+
+                
+                    <div class="aem-GridColumn--default--5 aem-GridColumn--desktop--6 aem-GridColumn--tablet--12 aem-GridColumn--phone--12">
+                        
+    <div class="title lp__title_newsletter">
+        <div class="cmp-title">
+            <h2 class="cmp-title__text">加入讨论 获取 世行之声 最新内容</h2>
+        </div>
+    </div>
+
+
+                        
+    
+
+                    </div>
+
+                    <div class="aem-GridColumn--default--7 aem-GridColumn--desktop--6 aem-GridColumn--tablet--12 aem-GridColumn--phone--12">
+                        
+    <form id="wb-subscribe-form" action="javascript:void(0);" class="lp__newsletter_form_row wb-subscribe-form">
+        <fieldset>
+            <div class="loader" style="display: none;">
+                <img src="/content/dam/wbr/logo/ajax.gif" alt="loader image">
+            </div>
+            <span class="channel-name" style="display: none;">voices</span>
+            <span class="channel-language" style="display: none;">zh</span>
+            <span class="service-names" style="display: none;">{"ar":"prod-blogs-voices-ar-aem-373e21ec9f7de7867c7039f3d42c50bf","ru":"prod-blogs-voices-ru-aem-1e4fba8aaaeffcf677a7bb1fe28ff1bb","ja":"prod-blogs-voices-ja-aem-1c8eae59b03816ad0ba4a44b4142eb38","en":"prod-blogs-voices-en-aem-f4b2dd458f1f809aedd59f8c35cab087","fr":"prod-blogs-voices-fr-aem-8c6ef54fc2ac8c304843973442956044","es":"prod-blogs-voices-es-aem-307d32690fdccdaf22b96a05024125db","zh":"prod-blogs-voices-zh-aem-b0f4e3758704ed035be4fafa3a1c7c01"}</span>
+            <span class="site-logo" style="display: none;">https://blogs.worldbank.org/content/dam/sites/blogs/logos/logo-zh-hans.jpg</span>
+            <span class="site-logo-link" style="display: none;">https://blogs.worldbank.org/zh/home</span>
+            <span class="world-bank-blogs-label" style="display: none;">World Bank Blogs</span>
+            <span class="channel-title" style="display: none;">世行之声</span>
+            <span class="channel-title-en" style="display: none;">Voices (English)</span>
+<span class="channel-title-fr" style="display: none;">Opinions (Français)</span>
+<span class="channel-title-es" style="display: none;">Voces (Español)</span>
+<span class="channel-title-ar" style="display: none;">أصوات (العربية)</span>
+<span class="channel-title-ru" style="display: none;">Точка зрения (Русский)</span>
+<span class="channel-title-zh" style="display: none;">世行之声 (中文)</span>
+<span class="channel-title-ja" style="display: none;">Voices -ヴォイス- (日本語)</span>
+
+            <span class="hi-label" style="display: none;">Hi</span>
+            <span class="subject-label" style="display: none;">Thank you for subscribing!</span>
+            <span class="mail-content1-label" style="display: none;">&lt;p&gt;Thank you for choosing to be part of the [channelTitle] community!&lt;/p&gt;&lt;p&gt;Your subscription is now active. The latest blog posts and blog-related announcements will be delivered directly to your email inbox. You may unsubscribe at any time.&lt;/p&gt;</span>
+            <span class="mail-footer-label" style="display: none;">&lt;div&gt;&lt;b&gt;Best regards,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The World Bank Blogs team&lt;/div&gt;</span>
+            <span class="also-subscribed-to-label" style="display: none;">&lt;b&gt;Also subscribed to:&lt;/b&gt;</span>
+            <div class="lp__form_control lp__newsletter_email">
+                <label for="newsletterEmail" class="sr-only">E-mail:</label>
+                <input id="newsletterEmail" type="email" name="email" aria-required="true" title="Enter your email to receive email notifications when new content is posted" placeholder="Enter your email to receive email notifications">
+                <div class="tui__error_wrapper newsletter_email_error_message" style="display: none;">
+                    <span class="tui__error_text" aria-describedby="newsletterEmail" aria-invalid="true">Please enter a valid email address.</span>
+                </div>
+            </div>
+
+            <div class="lp__newsletter_checkbox_wrapper">
+                <div class="lp__form_control lp__group_label">
+                    <span role="checkboxgroup" id="checkboxgroup">语言:</span>
+                </div>
+                <div class="lp__form_control">
+                    <input id="en_checkbox" class="language_checkbox" type="checkbox" name="checkbox" value="en" aria-labelledby="checkboxgroup">
+                    <label class="checkboxLabel " for="en_checkbox">English</label>
+                </div>
+<div class="lp__form_control">
+                    <input id="fr_checkbox" class="language_checkbox" type="checkbox" name="checkbox" value="fr" aria-labelledby="checkboxgroup">
+                    <label class="checkboxLabel " for="fr_checkbox">Français</label>
+                </div>
+<div class="lp__form_control">
+                    <input id="es_checkbox" class="language_checkbox" type="checkbox" name="checkbox" value="es" aria-labelledby="checkboxgroup">
+                    <label class="checkboxLabel " for="es_checkbox">Español</label>
+                </div>
+<div class="lp__form_control">
+                    <input id="ar_checkbox" class="language_checkbox" type="checkbox" name="checkbox" value="ar" aria-labelledby="checkboxgroup">
+                    <label class="checkboxLabel " for="ar_checkbox">العربية</label>
+                </div>
+<div class="lp__form_control">
+                    <input id="ru_checkbox" class="language_checkbox" type="checkbox" name="checkbox" value="ru" aria-labelledby="checkboxgroup">
+                    <label class="checkboxLabel " for="ru_checkbox">Русский</label>
+                </div>
+<div class="lp__form_control">
+                    <input id="zh_checkbox" class="language_checkbox" type="checkbox" name="checkbox" value="zh" aria-labelledby="checkboxgroup" checked="checked">
+                    <label class="checkboxLabel " for="zh_checkbox">中文</label>
+                </div>
+<div class="lp__form_control">
+                    <input id="ja_checkbox" class="language_checkbox" type="checkbox" name="checkbox" value="ja" aria-labelledby="checkboxgroup">
+                    <label class="checkboxLabel " for="ja_checkbox">日本語</label>
+                </div>
+
+                <div class="tui__error_wrapper newsletter_languages_error_message" style="display: none;">
+                    <span class="tui__error_text" aria-describedby="checkboxgroup" aria-invalid="true">语言: 字段为必选项。</span>
+                </div>
+            </div>
+            <div class="lp__form_control lp__agree_wrapper">
+                <input id="newsletterCheckbox" class="terms_and_conditions_chcekbox" type="checkbox" name="checkbox" value="1" aria-required="true">
+                <label class="checkboxLabel" for="newsletterCheckbox">I agree with the terms of the <a href="https://www.shihang.org/zh/about/legal/privacy-notice" target="_blank">Privacy Notice</a> and consent to my personal data being processed, to the extent necessary, to receive these updates.</label>
+            </div>
+            <div class="tui__error_wrapper newsletter_terms_and_conditions_error_message" style="display: none;">
+                <span class="tui__error_text" aria-describedby="newsletterCheckbox" aria-invalid="true">Please agree with the terms of the privacy notice.</span>
+            </div>
+
+            <div class="lp__form_control lp__primary_btn">
+                <button class="newsletter-button" type="button" name="Subscribe" value="Subscribe">订阅</button>
+            </div>
+        </fieldset>
+    </form>
+
+
+                        
+    <div class="alert tui__alert_box tui__alert_success hide" role="alert">
+        <span class="alert_text"><p>Thank you for choosing to be part of the <b>世行之声</b> community!</p><p>Your subscription is now active. The latest blog posts and blog-related announcements will be delivered directly to your email inbox. You may unsubscribe at any time.</p></span>
+        <button type="button" class="close tui__alert_close_btn" data-hide="alert" aria-label="状态消息">
+            <span class="lp lp-times"></span>
+            <span class="sr-only">状态消息</span>
+        </button>
+    </div>
+
+    <div class="alert tui__alert_box tui__alert_already_subscribed hide" role="alert">
+        <span class="alert_text">The e-mail address: <strong>[email]</strong> is already subscribed for newsletters.</span>
+        <button type="button" class="close tui__alert_close_btn" data-hide="alert" aria-label="状态消息">
+            <span class="lp lp-times"></span>
+            <span class="sr-only">状态消息</span>
+        </button>
+    </div>
+
+    <div class="alert tui__alert_box tui__alert_error hide" role="alert">
+        <span class="alert_text">无法处理请求。</span>
+        <button type="button" class="close tui__alert_close_btn" data-hide="alert" aria-label="状态消息">
+            <span class="lp lp-times"></span>
+            <span class="sr-only">状态消息</span>
+        </button>
+    </div>
+
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+
+    
+    
+<script src="/etc.clientlibs/worldbankblogs/components/newsletter/clientlibs.js"></script>
+
+
+
+</div>
+<div class="container responsivegrid lp__full_row_wrapper lp__light_gray_wrapper aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="container-1250c6a2e0" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid tui_container_col_10_offset_1 aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="container-0b36069f18" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="authors aem-GridColumn aem-GridColumn--default--12">
+    
+    
+
+
+    
+        
+
+        
+            <div class="teaser lp__author_teaser">
+                
+                <div class="cmp-teaser">
+                    <div class="cmp-teaser__image">
+                        <div class="cmp-image">
+                            <a aria-hidden="true" tabindex="-1" href="/en/team/a/arturo-herrera-gutierrez">
+                                <img src="https://s7d1.scene7.com/is/image/wbcollab/070722-Arturo_Herrera_Gutierrez-PR-021-F_220x220?qlt=90&amp;fmt=webp&amp;resMode=sharp2" srcset="https://s7d1.scene7.com/is/image/wbcollab/070722-Arturo_Herrera_Gutierrez-PR-021-F_220x220:165x165?qlt=90&amp;fmt=webp&amp;resMode=sharp2 1200w,https://s7d1.scene7.com/is/image/wbcollab/070722-Arturo_Herrera_Gutierrez-PR-021-F_220x220:134x134?qlt=90&amp;fmt=webp&amp;resMode=sharp2 992w,https://s7d1.scene7.com/is/image/wbcollab/070722-Arturo_Herrera_Gutierrez-PR-021-F_220x220:175x175?qlt=90&amp;fmt=webp&amp;resMode=sharp2 768w,https://s7d1.scene7.com/is/image/wbcollab/070722-Arturo_Herrera_Gutierrez-PR-021-F_220x220:100x100?qlt=90&amp;fmt=webp&amp;resMode=sharp2 320w" data-dam-path="/content/dam/sites/blogs/img/team/mgr/070722-Arturo_Herrera_Gutierrez-PR-021-F_220x220.jpg" class="cmp-image__image" loading="lazy" alt="Arturo Herrera Gutierrez" title="Arturo Herrera Gutierrez" width="175" height="175">
+                            </a>
+                            
+                        </div>
+                    </div>
+                    <div class="cmp-teaser__content">
+                        <h3 class="cmp-teaser__title">
+                            <a href="/en/team/a/arturo-herrera-gutierrez">Arturo Herrera Gutierrez</a>
+                        </h3>
+                        <div class="cmp-teaser__description">
+                            <p>Global Director for Institutions in the Prosperity vertical, World Bank Group</p>
+                        </div>
+                        <div class="cmp-teaser__action-container">
+                            <a class="cmp-teaser__action-link" href="/en/team/a/arturo-herrera-gutierrez">作者其他博客 Arturo</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<div class="teaser lp__author_teaser">
+                
+                <div class="cmp-teaser">
+                    <div class="cmp-teaser__image">
+                        <div class="cmp-image">
+                            <a aria-hidden="true" tabindex="-1" href="/en/team/j/Jasmin-chakeri">
+                                <img src="https://s7d1.scene7.com/is/image/wbcollab/jasmin-chakeri?qlt=90&amp;fmt=webp&amp;resMode=sharp2" srcset="https://s7d1.scene7.com/is/image/wbcollab/jasmin-chakeri:165x165?qlt=90&amp;fmt=webp&amp;resMode=sharp2 1200w,https://s7d1.scene7.com/is/image/wbcollab/jasmin-chakeri:134x134?qlt=90&amp;fmt=webp&amp;resMode=sharp2 992w,https://s7d1.scene7.com/is/image/wbcollab/jasmin-chakeri:175x175?qlt=90&amp;fmt=webp&amp;resMode=sharp2 768w,https://s7d1.scene7.com/is/image/wbcollab/jasmin-chakeri:100x100?qlt=90&amp;fmt=webp&amp;resMode=sharp2 320w" data-dam-path="/content/dam/sites/blogs/img/team/2024/jasmin-chakeri.jpg" class="cmp-image__image" loading="lazy" alt="Jasmin Chakeri" title="Jasmin Chakeri" width="175" height="175">
+                            </a>
+                            <div class="lp__author_social_link">
+                                <ul>
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/jasmin-chakeri-44676899/?originalSubdomain=at">
+                                            <span class="sr-only"></span>
+                                            <span class="lp lp-linkln"></span>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cmp-teaser__content">
+                        <h3 class="cmp-teaser__title">
+                            <a href="/en/team/j/Jasmin-chakeri">Jasmin Chakeri</a>
+                        </h3>
+                        <div class="cmp-teaser__description">
+                            <p>Practice Manager in the Macroeconomics, Trade and Investment Global Practice – World Bank</p>
+                        </div>
+                        <div class="cmp-teaser__action-container">
+                            <a class="cmp-teaser__action-link" href="/en/team/j/Jasmin-chakeri">作者其他博客 Jasmin</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<div class="teaser lp__author_teaser">
+                
+                <div class="cmp-teaser">
+                    <div class="cmp-teaser__image">
+                        <div class="cmp-image">
+                            <a aria-hidden="true" tabindex="-1" href="/en/team/n/nathalie-picarelli">
+                                <img src="https://s7d1.scene7.com/is/image/wbcollab/Nathalie-Picarelli-2?qlt=90&amp;fmt=webp&amp;resMode=sharp2" srcset="https://s7d1.scene7.com/is/image/wbcollab/Nathalie-Picarelli-2:165x165?qlt=90&amp;fmt=webp&amp;resMode=sharp2 1200w,https://s7d1.scene7.com/is/image/wbcollab/Nathalie-Picarelli-2:134x134?qlt=90&amp;fmt=webp&amp;resMode=sharp2 992w,https://s7d1.scene7.com/is/image/wbcollab/Nathalie-Picarelli-2:175x175?qlt=90&amp;fmt=webp&amp;resMode=sharp2 768w,https://s7d1.scene7.com/is/image/wbcollab/Nathalie-Picarelli-2:100x100?qlt=90&amp;fmt=webp&amp;resMode=sharp2 320w" data-dam-path="/content/dam/sites/blogs/img/team/mgr/Nathalie-Picarelli-2.jpeg" class="cmp-image__image" loading="lazy" alt="Nathalie Picarelli" title="Nathalie Picarelli" width="175" height="175">
+                            </a>
+                            <div class="lp__author_social_link">
+                                <ul>
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/nathaliepicarelli">
+                                            <span class="sr-only"></span>
+                                            <span class="lp lp-linkln"></span>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cmp-teaser__content">
+                        <h3 class="cmp-teaser__title">
+                            <a href="/en/team/n/nathalie-picarelli">Nathalie Picarelli</a>
+                        </h3>
+                        <div class="cmp-teaser__description">
+                            <p>Senior Economist, World Bank</p>
+                        </div>
+                        <div class="cmp-teaser__action-container">
+                            <a class="cmp-teaser__action-link" href="/en/team/n/nathalie-picarelli">作者其他博客 Nathalie</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        
+
+        
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid lp__full_row_wrapper lp__light_gray_wrapper aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="container-6d755c3444" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid tui_container_col_10_offset_1 aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    <div id="container-d6c421c4b2" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="comments aem-GridColumn aem-GridColumn--default--12">
+    
+    <div id="comments" class="comments_wrapper">
+        <div class="title">
+            <div class="cmp-title">
+                <h2 class="cmp-title__text">加入讨论</h2>
+            </div>
+        </div>
+        <span class="comments-configs" style="display: none;">
+            <span class="guid">cc866520c0c4c4cbf63183e81a586f82</span>
+            <span class="post-comment">https://webapi.worldbank.org/comments/api/comment/post</span>
+            <span class="get-comments">https://webapi.worldbank.org/comments/api/comment</span>
+            <span class="get-comments-count">https://webapi.worldbank.org/comments/api/comment/count</span>
+            
+            
+            
+            <span class="subscription-key">5e099dfc192f44329e4643cfcb86579f</span>
+            <span class="language">zh</span>
+            <span class="channel">voices</span>
+            <span class="channelGuid">b0f4e3758704ed035be4fafa3a1c7c01</span>
+            <span class="read-more">閱讀更多</span>
+            <span class="read-less">少讀書</span>
+            <span class="previous-label">以前的</span>
+            <span class="next-label">下一個</span>
+            
+            
+        </span>
+        <template id="comment-section">
+            <div class="lp__conversation_wrapper">
+                <div class="lp__conversation">
+                    <div class="lp__conversation_content">
+                        <div class="lp__conversation_title">
+                            <div class="lp__conversation_title_text">
+                                <span class="tui_author_title_text"></span>
+                                
+                                
+                                
+                            </div>
+
+                            <div class="lp__conversation_title_time">
+                                <time class="lp__conversation_title_time_label"></time>
+                            </div>
+                        </div>
+                        <div class="lp__commnet_box">
+                            <div class="lp__conversation_body_editable hide" contenteditable="true"></div>
+                            <p class="lp__conversation_body"></p>
+                            <span class="lp__conversation_body_show_more_buttons"></span>
+                            <ul>
+                                <li>
+                                    <a class="lp__reply" href="javascript:void(0)">回覆</a>
+                                </li>
+                                
+                                
+                            </ul>
+                            <div class="nested-comments-wrapper"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </template>
+        <form data-form="creative-destruction-harnessing-the-promise-of-ai-for-shared-prosperity::blogcomment" action="javascript:void(0);" class="lp__conversation_form" autocomplete="off">
+            
+            <div class="lp__form_control lp__from_control_50">
+                <label for="userName" class="sr-only">您的姓名</label>
+                <input id="userName" type="text" name="userName" aria-required="true" title="您的姓名" placeholder="您的姓名" size="30" maxlength="60">
+            </div>
+            <div class="tui__error_wrapper name_error_message" style="display: none;">
+                <span class="tui__error_text" aria-describedby="userName" aria-invalid="true">您的姓名 : 字段为必选项。</span>
+            </div>
+
+            <div class="lp__form_control lp__from_control_50 lp__form_control_v2">
+                <label for="userEmail" class="sr-only">您的邮箱</label>
+                <input id="userEmail" type="email" name="userEmail" aria-required="true" title="" placeholder="您的邮箱" aria-describedby="hiddenMessageEmail">
+                <span id="hiddenMessageEmail">此字段内容保密，不会公开显示</span>
+            </div>
+            <div class="tui__error_wrapper email_error_message" style="display: none;">
+                <span class="tui__error_text" aria-describedby="userName" aria-invalid="true">您的邮箱 : 字段为必选项。</span>
+            </div>
+
+            <div class="lp__form_control lp__form_control_textarea">
+                <label for="userResponseTextarea" class="sr-only">留言</label>
+                <textarea id="userResponseTextarea" class="response_textarea" rows="5" cols="60" placeholder="留言" maxlength="1000"></textarea>
+                <div class="textareaCharCount" aria-labelledby="userResponseTextarea" aria-live="polite" aria-atomic="true">
+                    留言字数: <strong class="response_count">1000</strong>
+                </div>
+            </div>
+            <div class="tui__error_wrapper response_error_message" style="display: none;">
+                <span class="tui__error_text" aria-describedby="userName" aria-invalid="true">留言 : 字段为必选项。</span>
+            </div>
+            <div class="tui__error_wrapper invalid_comment" style="display: none;">
+                <span class="tui__error_text" aria-describedby="userName" aria-invalid="true">Invalid text: HTML is not allowed in the comment.</span>
+            </div>
+
+            <div class="lp__form_control lp__agree_wrapper">
+                <input id="conversationCheckbox" class="terms_and_conditions_chcekbox" type="checkbox" name="checkbox" value="1" aria-required="true">
+                <label class="checkboxLabel" for="conversationCheckbox">我已阅读 <a href="https://www.shihang.org/zh/about/legal/privacy-notice" target="_blank">隐私声明</a>，同意在必要范围内处理我的个人数据以便提交我的评论供审核。我也同意公开我的姓名。</label>
+            </div>
+            <div class="tui__error_wrapper terms_and_conditions_error_message" style="display: none;">
+                <span class="tui__error_text" aria-describedby="userName" aria-invalid="true">Please agree with the terms of the privacy notice.</span>
+            </div>
+
+            <div class="lp__form_control lp__primary_btn lp__primary_btn_v2">
+                <button class="comments_save_button" type="submit" name="Save" value="保存">保存</button>
+            </div>
+
+            <div class="alert tui__alert_box tui__alert_success hide" role="alert">
+                <span class="alert_text">您的评论已添加到站点管理员的检查队列，批准后即会发表。</span>
+                <button type="button" class="close tui__alert_close_btn" data-hide="alert" aria-label="状态消息">
+                    <span class="lp lp-times"></span>
+                    <span class="sr-only">状态消息</span>
+                </button>
+            </div>
+
+            <div class="alert tui__alert_box tui__alert_error hide" role="alert">
+                <span class="alert_text">无法处理请求。</span>
+                <button type="button" class="close tui__alert_close_btn" data-hide="alert" aria-label="状态消息">
+                    <span class="lp lp-times"></span>
+                    <span class="sr-only">状态消息</span>
+                </button>
+            </div>
+        </form>
+
+        <div id="comment" class="single_comment_container"></div>
+
+        <div class="comments_container"></div>
+
+        <nav class="lp__pagination tui__pagination hide" aria-label="Pagination" id="tui__pagination">
+            <ul id="pagination" class="pagination"></ul>
+        </nav>
+
+        <div class="loader" style="display: none;">
+            <img src="/content/dam/wbr/logo/ajax.gif" alt="loader image">
+        </div>
+    </div>
+
+    
+    
+        <script defer="" src="/etc.clientlibs/worldbankblogs/components/comments/clientlibs/clientlibs-publish.js"></script>
+
+    
+
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="pagetools aem-GridColumn aem-GridColumn--default--12"><div class="wblive_shareBtn" id="wblive_shareBtn">
+    <div aria-label="Share  on social media list">
+        <ul class="pull-left fixed-meida-share">
+            <li class="btn tool-btn" title="Email">
+                <a tabindex="0" href="#" id="wbgmailto" data-customlink="em:left icons" data-text="Email" aria-label="share on mail">
+                    <span class="lp lp-solid-envelope"></span>
+                    <span class="sr-only">Share on mail</span>
+                </a>
+            </li>
+            <li class="btn btn-facebook social-btn" title="Facebook" id="wbrfb">
+                <a href="#" id="wbgfb" data-customlink="sw:left icons" data-text="Facebook" tabindex="0" aria-label="share on facebook">
+                    <span class="lp lp-fb"></span>
+                </a>
+            </li>
+            <li class="btn btn-twitter social-btn" title="Tweet" id="wbrtwt">
+                <a href="#" id="wbgtwt" data-customlink="sw:left icons" data-text="Twitter" tabindex="0" aria-label="share on post">
+                    <span class="lp lp-twit"></span>
+                </a>
+            </li>
+            <li class="btn btn-linkedin social-btn" title="linkedln" id="wbrld">
+                <a href="#" id="wbgld" data-customlink="sw:left icons" data-text="Linkedin" tabindex="0" aria-label="share on linkedln">
+                    <span class="lp lp-linkln"></span>
+                </a>
+            </li>
+            <li class="btn btn-linkedin social-btn" title="whatsup" id="wbgwhatsup">
+                <a href="javascript:void(0)" id="wbgWhatsApp" tabindex="0" aria-label="share on whatsup">
+                    <span class="lp lp-whatsup-solid"></span>
+                </a>
+            </li>
+            <li class="btn btn-linkedin social-btn" title="comment" id="wbComment">
+                <a href="#comments" id="wbCommentLink" data-customlink="sw:left icons" data-text="Comment" tabindex="0" aria-label="share comment">
+                    <span class="lp lp-comment"></span>
+                    <span class="tui_icon_numbers">
+                        <span class="comments-count"></span>
+                        <span class="sr-only">comments added</span>
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+</main>
+<footer class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-2f8ad88427" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    
+    <div id="container-414b4ceef5" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footer aem-GridColumn aem-GridColumn--default--12">
+    
+    
+
+
+    
+        <div class="full-row-footer-components">
+            <div class="touchui-container">
+                <div class="aem-Grid lp__footer_top">
+                    <div class="lp__list__wrapper aem-GridColumn--default--7 aem-GridColumn--desktop--7 aem-GridColumn--tablet--7 aem-GridColumn--phone--12">
+                        <ul>
+                            <li class="disclaimer">
+                                <a href="http://www.worldbank.org/en/about/legal">法律声明 (En)</a>
+                            </li>
+<li class="disclaimer">
+                                <a href="http://www.shihang.org/zh/access-to-information">信息获取</a>
+                            </li>
+<li class="disclaimer">
+                                <a href="http://www.worldbank.org/en/about/careers">招聘 (En)</a>
+                            </li>
+<li class="disclaimer">
+                                <a href="http://www.shihang.org/zh/about/contacts">联系方式</a>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div class="lp__footer_fraud aem-GridColumn--default--5 aem-GridColumn--desktop--5 aem-GridColumn--tablet--5 aem-GridColumn--phone--12">
+                        <ul>
+                            <li>
+                                <a href="http://www.shihang.org/fraudandcorruption">举报欺诈腐败行为</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="full-row-footer-black-components">
+            <div class="touchui-container">
+                <div class="aem-Grid lp__footer_bottom">
+                    <div class="lp__footer_bottom_left aem-GridColumn--default--7 aem-GridColumn--desktop--7 aem-GridColumn--tablet--7 aem-GridColumn--phone--12">
+                        <ul>
+                            <li>
+                                <a href="http://www.shihang.org/" target="_self">
+                                    <img src="https://s7d1.scene7.com/is/content/wbcollab/logo-wbg-footer-cn?qlt=90&amp;fmt=webp&amp;resMode=sharp2" title="The World Bank Working for a World Free of Poverty" alt="The World Bank Working for a World Free of Poverty" loading="lazy"></a>
+                            </li>
+
+                            <li>
+                                <a class="lp__wbgpartnership" href="http://www.shihang.org/zh/who-we-are/ibrd" title="国际复兴开发银行">国际复兴开发银行</a>
+                            </li>
+<li>
+                                <a class="lp__wbgpartnership" href="http://www.worldbank.org/ida" title="国际开发协会(En)">国际开发协会(En)</a>
+                            </li>
+<li>
+                                <a class="lp__wbgpartnership" href="http://www.ifc.org/chinese" title="国际金融公司">国际金融公司</a>
+                            </li>
+<li>
+                                <a class="lp__wbgpartnership" href="http://www.miga.org/" title="多边投资担保机构(En)">多边投资担保机构(En)</a>
+                            </li>
+<li>
+                                <a class="lp__wbgpartnership" href="http://icsid.worldbank.org/" title="解决投资争端国际中心(En)">解决投资争端国际中心(En)</a>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div class="lp__copyright aem-GridColumn--default--5 aem-GridColumn--desktop--5 aem-GridColumn--tablet--5 aem-GridColumn--phone--12">
+                        <div class="footer-year">
+                            © 2024 世界银行，版权所有
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</footer>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+<script type="text/javascript">
+    var appInsights = window.appInsights || function (a) {
+        function b(a) {
+            c[a] = function () {
+                var b = arguments;
+                c.queue.push(function () {
+                    c[a].apply(c, b)
+                })
+            }
+        }
+
+        var c = {config: a}, d = document, e = window;
+        setTimeout(function () {
+            var b = d.createElement("script");
+            b.src = a.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js", d.getElementsByTagName("script")[0].parentNode.appendChild(b)
+        });
+        try {
+            c.cookie = d.cookie
+        } catch (a) {
+        }
+        c.queue = [];
+        for (var f = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; f.length;) b("track" + f.pop());
+        if (b("setAuthenticatedUserContext"), b("clearAuthenticatedUserContext"), b("startTrackEvent"), b("stopTrackEvent"), b("startTrackPage"), b("stopTrackPage"), b("flush"), !a.disableExceptionTracking) {
+            f = "onerror", b("_" + f);
+            var g = e[f];
+            e[f] = function (a, b, d, e, h) {
+                var i = g && g(a, b, d, e, h);
+                return !0 !== i && c["_" + f](a, b, d, e, h), i
+            }
+        }
+        return c
+    }({
+        instrumentationKey: "2ddee9f8-57ef-4c0e-8810-a2f743116654"
+    });
+
+    window.appInsights = appInsights, appInsights.queue && 0 === appInsights.queue.length && appInsights.trackPageView();
+</script>
+            
+    
+    <script src="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-vendor/jquery.js"></script>
+<script src="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-vendor/popper.js"></script>
+<script src="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-vendor/bootstrap.js"></script>
+<script src="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-blogs.js"></script>
+
+
+    
+
+    
+    <script async="" src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.js"></script>
+<script async="" src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/utils.js"></script>
+<script async="" src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/imageDynamicMedia.js"></script>
+<script async="" src="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-base.js"></script>
+
+
+    
+    
+    <script src="/etc.clientlibs/worldbankblogs/clientlibs/clientlib-blogs-swiper.js"></script><iframe sandbox="allow-scripts allow-same-origin" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_worldbank_0" name="destination_publishing_iframe_worldbank_0_name" src="https://worldbank.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fblogs.worldbank.org" class="aamIframeLoaded" style="display: none; width: 0px; height: 0px;"></iframe>
+
+
+
+
+
+    
+
+    
+
+    
+    
+
+        
+    
+
+<script>_satellite["_runScript1"](function(event, target, Promise) {
+(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+});</script><script>_satellite["_runScript2"](function(event, target, Promise) {
+if (typeof kWidget !== "undefined") {
+	kWidget.addReadyCallback(function (playerId) {
+	var kdp = document.getElementById(playerId);
+
+	//console.log("player "+kdp);
+	//console.log("Name "+kdp.evaluate('{mediaProxy.entry.name}'));
+	//console.log("Duration "+kdp.evaluate('{duration}'));
+	//console.log("Current Time "+kdp.evaluate('{video.player.currentTime}'));
+	/*
+	kdp.kBind('playerStateChange', function (event) {
+		console.log("event "+event);
+		kulturaPlayerHandler("playing", kdp.evaluate('{mediaProxy.entry.name}'), kdp.evaluate('{duration}'), kdp.evaluate('{video.player.currentTime}'));
+		});*/
+	kdp.kBind("playerPlayed", function (MediaPlayerState) {
+			kulturaPlayerHandler("playing", kdp.evaluate('{mediaProxy.entry.name}'), kdp.evaluate('{duration}'), kdp.evaluate('{video.player.currentTime}'));
+		});
+		kdp.kBind("seek", function (MediaPlayerState) {
+			kulturaPlayerHandler("seeking", kdp.evaluate('{mediaProxy.entry.name}'), kdp.evaluate('{duration}'), kdp.evaluate('{video.player.currentTime}'));
+		});
+		kdp.kBind("seeked", function (MediaPlayerState) {
+			kulturaPlayerHandler("seeked", kdp.evaluate('{mediaProxy.entry.name}'), kdp.evaluate('{duration}'), kdp.evaluate('{video.player.currentTime}'));
+		});
+		kdp.kBind("playerPaused", function (MediaPlayerState) {
+			kulturaPlayerHandler("paused", kdp.evaluate('{mediaProxy.entry.name}'), kdp.evaluate('{duration}'), kdp.evaluate('{video.player.currentTime}'));
+		});
+		kdp.kBind("playerPlayEnd", function (MediaPlayerState) {
+			kulturaPlayerHandler("ended", kdp.evaluate('{mediaProxy.entry.name}'), kdp.evaluate('{duration}'), kdp.evaluate('{video.player.currentTime}'));
+		});
+	});
+}
+
+function kulturaPlayerHandler(playerState,mediaName,videoDuration,videoCurrentTime){
+	var videoPlayer = "Kaltura";
+	var mediaOffset = videoCurrentTime>0?Math.floor(videoCurrentTime):0;
+	var mediaLength = Math.floor(videoDuration);
+
+	s.Media.playerName = videoPlayer;
+
+	//console.log("mediaOffset - "+mediaOffset);
+	//console.log("mediaLength - "+mediaLength);
+	//console.log("playerState - "+playerState);
+
+	if(playerState == "playing" && mediaLength == 0){
+	videoContentType = "live:kaltura video";
+	s.Media.trackSeconds = 60;
+	s.Media.open(mediaName, mediaLength, videoPlayer);
+	//s.Media.play(mediaName, mediaOffset);*/
+	}
+
+	if(playerState == "playing"){
+		if (mediaOffset == 0 && mediaLength > 0){
+			videoContentType = "replay:kaltura video";
+			s.Media.segmentByMilestones = true;
+			s.Media.trackMilestones = '25,50,75';
+			//console.log("milestone tracking set");
+			s.Media.open(mediaName, mediaLength, videoPlayer);
+			s.Media.play(mediaName, mediaOffset);
+			_satellite.getVar('FBPixelVideoReplay');
+      _satellite.getVar('TwitterPixelVideoReplay');
+      _satellite.getVar('GAdwordsTagVideoReplay');
+		}else{
+			s.Media.play(mediaName, mediaOffset);
+		}
+	}else if(playerState == "seeking"){
+		s.Media.stop(mediaName, mediaOffset);
+	}else if(playerState == "seeked"){
+		s.Media.play(mediaName, mediaOffset);
+	}else if(playerState == "paused"){
+		s.Media.stop(mediaName, mediaOffset);
+	}else if(playerState == "ended"){
+		s.Media.stop(mediaName, mediaOffset);
+		s.Media.close(mediaName);
+		mediaOffset = 0;
+	}
+}
+});</script><script>_satellite["_runScript3"](function(event, target, Promise) {
+var n=0;if("undefined"!=typeof JQuery)jQuery("iframe").each((function(){var e=jQuery(this).attr("src");e&&e.indexOf("youtube.com")>-1&&(e.indexOf("?")>-1?-1==e.indexOf("enablejsapi")&&(e+="&enablejsapi=1"):e+="?enablejsapi=1",jQuery(this).attr("src",e),jQuery(this).attr("id","ytplayer"+n),n++)}));else{var iFrames=document.getElementsByTagName("iframe");for(i=0;i<iFrames.length;i++){var src=iFrames[i].getAttribute("src");src&&src.indexOf("youtube.com")>-1&&(src.indexOf("?")>-1?-1==src.indexOf("enablejsapi")&&(src+="&enablejsapi=1"):src+="?enablejsapi=1",iFrames[i].setAttribute("src",src),iFrames[i].setAttribute("id","ytplayer"+n),n++)}}if(n>0){var tag=document.createElement("script");tag.src="https://www.youtube.com/iframe_api";var firstScriptTag=document.getElementsByTagName("script")[0];firstScriptTag.parentNode.insertBefore(tag,firstScriptTag);var playerInfoList=new Array;if(document.getElementsByTagName("iframe"))for(i=0;i<document.getElementsByTagName("iframe").length;i++)document.getElementsByTagName("iframe")[i].id.indexOf("ytplayer")>-1&&playerInfoList.push(document.getElementsByTagName("iframe")[i]);var players=new Array;function onPlayerStateChange(e){var a="YouTube",t=Math.floor(e.target.getCurrentTime()),i=Math.floor(e.target.getDuration());console.log("event: "+e.data),console.log("YT.PlayerState.PLAYING: "+YT.PlayerState.PLAYING),console.log("YT.PlayerState.PAUSED: "+YT.PlayerState.PAUSED),console.log("mediaOffset: "+t),console.log("media length: "+i);var r=e.target.getVideoData().title;3==e.data&&0==t&&0==i&&(videoContentType="live:youtube video",s.Media.trackSeconds=60,s.Media.open(r,i,a),s.Media.play(r,t),_satellite.getVar("FBPixelVideoLive")),e.data==YT.PlayerState.PLAYING?0==t&&i>0?(videoContentType="replay:youtube video",s.Media.segmentByMilestones=!0,s.Media.trackMilestones="25,50,75",s.Media.open(r,i,a),s.Media.play(r,t),_satellite.getVar("FBPixelVideoReplay"),_satellite.getVar("TwitterPixelVideoReplay"),_satellite.getVar("GAdwordsTagVideoReplay")):s.Media.play(r,t):e.data==YT.PlayerState.PAUSED||e.data==YT.PlayerState.BUFFERING?s.Media.stop(r,t):e.data==YT.PlayerState.ENDED&&(s.Media.stop(r,t),s.Media.close(r),t=0)}window.playersaem=players,window.onYouTubeIframeAPIReady=function(){for(x=0;x<playerInfoList.length;x++)players[x]=new YT.Player(playerInfoList[x],{events:{onStateChange:onPlayerStateChange}})}}
+});</script><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET-->
+<script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_ZN_ahoepSezTqpB2GV","https://znahoepseztqpb2gv-wbgwebvisitor.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_ahoepSezTqpB2GV")).start()}catch(i){}})();
+</script><div id="ZN_ahoepSezTqpB2GV"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--><script>_satellite["_runScript4"](function(event, target, Promise) {
+var n=0;if("undefined"!=typeof JQuery)jQuery("iframe").each((function(){var e=jQuery(this).attr("src");e&&(e.indexOf("video.ibm.com")>-1||e.indexOf("ustream.tv")>-1)&&(jQuery(this).attr("src",e),jQuery(this).attr("id","UstreamIframe"+n),n++)}));else{var iFrames=document.getElementsByTagName("iframe");for(i=0;i<iFrames.length;i++){var src=iFrames[i].getAttribute("src");src&&(src.indexOf("video.ibm.com")>-1||src.indexOf("ustream.tv")>-1)&&(iFrames[i].setAttribute("src",src),iFrames[i].setAttribute("id","UstreamIframe"+n),n++)}}if(n>0){var UstreamEmbed=function(){function e(e){return t(e)}function t(e){var t=i(e),l=function(e){function t(t){if("socialstream"!==t){if(!w)return M||(M=[]),void M.push(arguments);var n=d(arguments).slice(1);n[0]&&"function"==typeof n[0]&&(b[t]||(b[t]=[]),b[t].push(n[0])),o(e,h,{cmd:t,args:n})}else if(f(window,"message",m),T=i(arguments[1]),E=s(T.getAttribute("src")),O=!0,x.length)for(var r=0,v=x.length;v>r;r++)a(x[r])}function l(){if(M){for(;M.length;)t.apply(this,M.shift());M=null}}function m(e){var t=T;(t&&t.contentWindow&&t.contentWindow===e.source||e.source===T.id)&&g.onmessage(e)}function u(e){var i,n=JSON.parse(e.data);return n.cmd&&"ready"==n.cmd?void o(T,E,{cmd:"ready"}):(i=(i=[n.cmd]).concat(n.args),void t.apply(this,i))}function p(){w=!0,l()}function y(){t.apply(this,arguments)}var g,h,E,T,w=!1,O=!1,M=[],b={},L={},x=[];return h=s(e.getAttribute("src")),g={host:h,callMethod:y,getProperty:function(){y.apply(this,arguments)},addListener:function(e,t){L[e]||(L[e]=[]),L[e].push(t)},removeListener:function(e,t){if(t)for(var i=0,n=L[e].length;n>i;i++)L[e][i]===t&&L[e].splice(i,1);else L[e]=null},onmessage:function(e){var t;if(h||E||x.push({origin:e.origin,data:e.data}),e.origin==h){try{t=JSON.parse(e.data)}catch(e){return}if(t.sstream)return void u(e);if(t.event&&t.event.ready&&(p(),n(L,"ready")),t.event&&!0===t.event.live)return void n(L,"live");if(t.event&&!1===t.event.live)return void n(L,"offline");if(t.event&&!t.event.ready)if(v)Object.keys(t.event).forEach((function(e){n(L,e,t.event[e])}));else for(var i in t.event)t.event.hasOwnProperty(i)&&n(L,i,t.event[i]);if(t.property)if(v)Object.keys(t.property).forEach((function(e){r(b,e,t.property[e])}));else for(var i in t.property)t.property.hasOwnProperty(i)&&r(b,i,t.property[i])}else if(O&&e.origin==E)return void u(e)},destroy:function(){w=!1,h="",O=!1,E="",T=null,M=[],b={},L={},x=[],c[e.id]&&(c[e.id]=null),e=null}}}(t);return t.id||(t.id="UstreamEmbed"+Math.ceil(1e5*Math.random())),l.id=t.id,c[t.id]=l,l}function i(e){return"string"==typeof e&&(e=document.getElementById(e)),e}function n(e,t,i){for(var n in e[t])e[t].hasOwnProperty(n)&&e[t][n].call(window,t,i)}function r(e,t,i){if(e[t]){for(var n in e[t])e[t].hasOwnProperty(n)&&e[t][n].call(window,i);e[t]=null,delete e[t]}}function a(e){var t,i;for(t in c)c.hasOwnProperty(t)&&c[t]&&((i=document.getElementById(t))&&i.contentWindow?i.contentWindow===e.source&&c[t].onmessage(e):"string"==typeof e.source&&e.source==t&&c[t].onmessage(e))}function o(e,t,i){e.contentWindow.postMessage(JSON.stringify(i),t)}function s(e){return e.indexOf("http")<0&&(e=location.protocol+e),e.match(l)[1].toString()}function d(e){return Array.prototype.slice.call(e,0)}function f(e,t,i){e.addEventListener?e.addEventListener(t,i,!1):e.attachEvent("on"+t,i)}var v=void 0!==Object.keys,c={},l=new RegExp("^(http(?:s)?://[^/]+)","im");return f(window,"message",a),window.UstreamEmbed=e}();if(document.getElementsByTagName("iframe"))for(i=0;i<document.getElementsByTagName("iframe").length;i++)if(document.getElementsByTagName("iframe")[i].id.indexOf("UstreamIframe")>-1){var videoTitle,mediaLength,iFrame=document.getElementsByTagName("iframe")[i].id,viewer=UstreamEmbed(document.getElementsByTagName("iframe")[i].id),videoType="channels",mediaOffset=0;viewer.getProperty("content",(function(e){"recorded"===e[0]?videoType="videos":"channels"===e[0]&&(videoType="channels");var t=e[1];videoTitle=getVideoTitle(t,videoType)[0],mediaLength=getVideoTitle(t,videoType)[1]})),viewer.addListener("playing",onEmbedEvent),viewer.addListener("finished",onEmbedEvent),viewer.addListener("offline",onEmbedEvent)}var prevEvent="",startTime=0;function onEmbedEvent(e,t){var i="ustream tv";t&&"playing"===e&&prevEvent!=e?("paused"!==prevEvent?("channels"===videoType?(videoContentType="live:ustream video",s.Media.trackSeconds=150,_satellite.getVar("FBPixelVideoLive")):"videos"===videoType&&(videoContentType="replay:ustream video",s.Media.segmentByMilestones=!0,s.Media.trackMilestones="25,50,75",_satellite.getVar("FBPixelVideoReplay"),_satellite.getVar("TwitterPixelVideoReplay"),_satellite.getVar("GAdwordsTagVideoReplay")),s.Media.open(videoTitle,mediaLength,i),s.Media.play(videoTitle,mediaOffset),startTime=new Date):"paused"===prevEvent&&(s.Media.play(videoTitle,mediaOffset),startTime=new Date),prevEvent=e):t||"playing"!==e||"paused"==prevEvent?!t||"finished"!==e&&"offline"!==e||(mediaOffset+=Math.round((new Date-startTime)/1e3),s.Media.stop(videoTitle,mediaOffset),s.Media.close(videoTitle),mediaOffset=0,prevEvent=e):(mediaOffset+=Math.round((new Date-startTime)/1e3),s.Media.stop(videoTitle,mediaOffset),prevEvent="paused")}function getVideoTitle(e,t){var i=e,n=0,r=new XMLHttpRequest;return r.onreadystatechange=function(){if(4==this.readyState&&200==this.status){var e=JSON.parse(r.responseText);"videos"===t?(i=e.video.title,n=Math.round(e.video.length)):"channels"===t&&(i=e.channel.title)}},r.open("GET","https://api.ustream.tv/"+t+"/"+e+".json",!0),r.send(),[i,n]}}
+});</script><script type="text/javascript" src="https://znahoepseztqpb2gv-wbgwebvisitor.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_ahoepSezTqpB2GV&amp;t=1731496530050"></script><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><script>_satellite["_runScript5"](function(event, target, Promise) {
+!function(e,t,n,c,o,a,f){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),o.push=o,o.loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src=c,(f=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,f))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js"),fbq("init","1458892451075570"),fbq("track","PageView"),fbq("track","ViewContent");
+});</script><noscript></noscript><!-- Global site tag (gtag.js) - Google Ads: 972661263 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-972661263"></script><script src="https://siteintercept.qualtrics.com/dxjsmodule/PolyfillsModule.js?Q_CLIENTVERSION=2.18.1&amp;Q_CLIENTTYPE=web" defer=""></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-972661263');
+</script>
+
+<!-- Old Global site tag (gtag.js) - Google AdWords: 857807178 
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-857807178"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-857807178');
+</script>
+--><script>
+  //if(_satellite.getVar("ChannelInfo").includes('blog planet')){
+  gtag('event', 'conversion', {'send_to': 'AW-972661263/7mAwCLfa2vwBEI_E5s8D'});
+  //}
+</script><script>_satellite["_runScript6"](function(event, target, Promise) {
+_linkedin_partner_id="1113290",window._linkedin_data_partner_ids=window._linkedin_data_partner_ids||[],window._linkedin_data_partner_ids.push(_linkedin_partner_id),function(){var n=document.getElementsByTagName("script")[0],i=document.createElement("script");i.type="text/javascript",i.async=!0,i.src="https://snap.licdn.com/li.lms-analytics/insight.min.js",n.parentNode.insertBefore(i,n)}();
+});</script><script>_satellite["_runScript7"](function(event, target, Promise) {
+_linkedin_partner_id="1113290",window._linkedin_data_partner_ids=window._linkedin_data_partner_ids||[],window._linkedin_data_partner_ids.push(_linkedin_partner_id),function(){window.lintrk||(window.lintrk=function(n,i){window.lintrk.q.push([n,i])},window.lintrk.q=[]);var n=document.getElementsByTagName("script")[0],i=document.createElement("script");i.type="text/javascript",i.async=!0,i.src="https://snap.licdn.com/li.lms-analytics/insight.min.js",n.parentNode.insertBefore(i,n)}();
+});</script><script src="https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js?Q_CLIENTVERSION=2.18.1&amp;Q_CLIENTTYPE=web&amp;Q_BRANDID=wbgwebvisitor" defer=""></script></body></html>

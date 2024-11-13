@@ -1,0 +1,481 @@
+<!DOCTYPE html><html data-log-pv="{&quot;mpc&quot;:46}"><head>
+        <title>《中国人工智能简史》：数学家翻开了中国人工智能研究的第一页_吴文俊_库尔特·哥德尔_定理</title>
+        <meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved.">
+<meta name="mediaid" content="新京报书评周刊">
+<meta property="og:type" content="news">
+<meta property="og:image" content="https://p2.itc.cn/q_70/images03/20230905/b49e665925c54d818eed67d59d923d9a.png">
+<meta property="og:url" content="www.sohu.com/a/717817559_119350">
+<meta property="og:release_date" content="2023-09-05 10:15">
+<meta itemprop="dateUpdate" content="2023-09-05 10:15">
+<meta itemprop="datePublished" content="2023-09-05 10:15">
+<link rel="canonical" href="https://www.sohu.com/a/717817559_119350">
+<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/717817559_119350">
+
+<meta name="keywords" content="雅克·埃尔布朗,古代,定理,人工智能,中国,数学,领域,库尔特·哥德尔,研究,吴文俊,王湘浩,定理,数学,吉林大学,吴文俊">
+<meta name="description" content="张景中对中国人工智能的又一贡献，是和成都七中1990年数学综合实验班的带队老师谢晋超合作做吴方法的机器定理证明的实现，具体做这个工作的，正是谢晋超当时的得意门生王小川，他是IOI11996年金牌得主，后来创办…">
+<meta property="og:description" content="张景中对中国人工智能的又一贡献，是和成都七中1990年数学综合实验班的带队老师谢晋超合作做吴方法的机器定理证明的实现，具体做这个工作的，正是谢晋超当时的得意门生王小川，他是IOI11996年金牌得主，后来创办…">
+<meta property="og:title" content="《中国人工智能简史》：数学家翻开了中国人工智能研究的第一页_吴文俊_库尔特·哥德尔_定理">
+        <meta charset="utf-8"><meta name="data-spm" content="smpc"><meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="dns-prefetch" href="//statics.itc.cn"><link rel="dns-prefetch" href="//g1.itc.cn"><link rel="dns-prefetch" href="//js.sohu.com"><link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png"><link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png"><link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png"><link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png"><link rel="preload" href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" as="style"><link href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" rel="stylesheet">    <script type="text/javascript" async="" src="https://pos.baidu.com/auto_dup?di=0&amp;uuid=dc398e1cf6b21182&amp;dri=0&amp;dis=0&amp;dai=0&amp;ps=0x0&amp;enu=encoding&amp;exps=110011&amp;ant=0&amp;psi=ed5d83020ede16bb&amp;dcb=___baidu_union_callback&amp;dtm=AUTO_JSONP&amp;dvi=0.0&amp;dci=-1&amp;dpt=none&amp;tpr=1731504401777&amp;ti=%E3%80%8A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%80%E5%8F%B2%E3%80%8B%EF%BC%9A%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%BF%BB%E5%BC%80%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A0%94%E7%A9%B6%E7%9A%84%E7%AC%AC%E4%B8%80%E9%A1%B5_%E5%90%B4%E6%96%87%E4%BF%8A_%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94_%E5%AE%9A%E7%90%86&amp;ari=2&amp;ver=1107&amp;kws=%E9%9B%85%E5%85%8B%C2%B7%E5%9F%83%E5%B0%94%E5%B8%83%E6%9C%97%2C%E5%8F%A4%E4%BB%A3%2C%E5%AE%9A%E7%90%86%2C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%2C%E4%B8%AD%E5%9B%BD%2C%E6%95%B0%E5%AD%A6%2C%E9%A2%86%E5%9F%9F%2C%E5%BA%93%E5%B0%94&amp;dps=%E5%BC%A0%E6%99%AF%E4%B8%AD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8F%88%E4%B8%80%E8%B4%A1%E7%8C%AE%EF%BC%8C%E6%98%AF%E5%92%8C%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD1990%E5%B9%B4%E6%95%B0%E5%AD%A6%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%E7%8F%AD%E7%9A%84%E5%B8%A6%E9%98%9F%E8%80%81%E5%B8%88%E8%B0%A2%E6%99%8B%E8%B6%85%E5%90%88%E4%BD%9C%E5%81%9A%E5%90%B4%E6%96%B9%E6%B3%95%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%8C%E5%85%B7&amp;dbv=0&amp;drs=3&amp;pcs=1024x768&amp;pss=1180x17186&amp;cfv=0&amp;cpl=1&amp;chi=1&amp;cce=true&amp;cec=UTF-8&amp;tlm=1731504401&amp;prot=2&amp;rw=768&amp;ltu=https%3A%2F%2Fwww.sohu.com%2Fa%2F717817559_119350&amp;ltr=https%3A%2F%2Fwww.sohu.com%2Fa%2F717817559_119350&amp;ecd=1&amp;dft=0&amp;uc=1024x768&amp;pis=-1x-1&amp;sr=1024x768&amp;tcn=1731504402&amp;dc=4&amp;aa=1"></script><script src="https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42" id="ttzz"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="//pv.sohu.com/suv/?t?=1731504401663887_1024_768?r?=https%3A%2F%2Fwww.sohu.com%2Fa%2F717817559_119350?url?=https%3A%2F%2Fwww.sohu.com%2Fa%2F717817559_119350?SUV?=?mpc?=46"></script></head>
+            <body class="article-page" data-region="157" data-spm="content" data-newsid="717817559">
+        <div class="wrapper-box">
+            <header id="main-header" class="error-head">
+	<div class="head-container">
+		<div class="head-nav" data-spm="nav">
+			<ul>
+			    <li class="index">
+					<a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com">
+						<span class="sohu-logo"></span>
+					</a>
+				</li>
+														<li class="nav-item"><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
+																																																																																																																									<li class="nav-item more-nav">
+					<div class="more-tag" href="javascript:void(0)">
+						<span>更多</span>
+						<div class="cor"></div>
+					</div>
+					<more-nav id="moreNav"></more-nav>
+				</li>
+				
+			</ul>
+		</div>
+		<head-right id="headRight"></head-right>
+	</div>
+</header>            <div class="location-without-nav"></div>
+            <div class="area clearfix" id="article-container">
+                <div class="column left">
+	                    <div class="user-info" id="user-info" data-spm="author">
+            <div class="user-pic">
+            <!-- fromWhere为10是马甲号作者不可点击进入个人页面 -->
+                            <a href="https://mp.sohu.com/profile?xpt=MTA0NzQ2NzcwNUBzaW5hLnNvaHUuY29t" target="_blank">
+                    <img data-src="http://5b0988e595225.cdn.sohucs.com/avatar/picon/2013/11/04/8fc4cf90f494f56d8a2702a990d0ec5bandroid.png" alt="">
+                </a>
+                    </div>
+        <h4>
+                    <a href="https://mp.sohu.com/profile?xpt=MTA0NzQ2NzcwNUBzaW5hLnNvaHUuY29t" target="_blank">新京报书评周刊</a>
+                    </h4>
+    <!-- 积分 -->
+        <div style="height: 25px">
+        <medal id="fox-integration"></medal>
+    </div>
+        <dl class="user-num">
+        <dd><span class="value" data-value="10644" data-role="info-article-num"><em class="num"></em></span>文章</dd>
+        <dd><span class="value" data-value="" data-role="info-read-num"><em class="num"></em></span>总阅读</dd>
+    </dl>
+
+    <!-- 企业认证 -->
+            <ul class="company">
+                    </ul>
+    
+    <!-- 非马甲号作者 -->
+            <div class="user-more">
+            <a href="https://mp.sohu.com/profile?xpt=MTA0NzQ2NzcwNUBzaW5hLnNvaHUuY29t" target="_blank">查看TA的文章&gt;</a>
+        </div>
+    </div>        		<div class="article-do" id="article-do" data-spm="share">
+		<div class="article-done">
+    <div class="title">评论</div>
+    <dl>
+        <dd class="comment-do" id="leftComment">
+            <a href="javascript:void(0)" data-spm-acode="8089">
+                <em class="comment-icon icon"></em>
+                <span class="num" data-role="comment-count"></span>
+            </a>
+        </dd>
+    </dl>
+</div>
+		<div id="share">
+			<share>
+		</share></div>
+	</div>
+</div>
+                <div class="left main">
+                    <div data-spm="content">
+                        <div class="text">
+                            
+<div class="text-title">
+    <h1>
+                    《中国人工智能简史》：数学家翻开了中国人工智能研究的第一页                <span class="article-tag">
+                 </span>
+    </h1>
+            <div class="article-info">
+        <span class="time" id="news-time" data-val="1693880125000">
+                        2023-09-05 10:15        </span>
+                                <div class="area"><span>发布于：</span><span>上海市</span></div>
+    </div>
+</div>
+
+<article class="article" id="mp-editor">
+    <!-- 政务处理 -->
+                      <p><span style="font-size: 16px;">人工智能时代已经到来。在中国人工智能发展的历史里，1979年被视为是格外重要的一年。正是从这一年起，中国人工智能迈开了追赶世界的脚步。在《中国人工智能简史：从1979到1993》一书中，讲述了中国人工智能发展早期鲜为人知的历史。</span></p>
+<p><span style="font-size: 16px;">1979年在中国是一个重要的年份。这一年发生了诸多大事，也被视为中国在政治、经济、科技、文化等多个领域的一个重要转折点和中国近现代历史重要的时期断代点之一。相比1979年所开启的波澜壮阔的新时代，中国人工智能</span><span style="font-size: 16px;">（Artifcial Intelligence，AI）</span><span style="font-size: 16px;">研究在1979年的起步只能算历史大潮中的一朵不起眼的浪花，但在中国人工智能的历史里，这是开天辟地的大事件。</span></p>
+<p><img data-src="DsfwIyGWG0U7FVp60hbktsmJ5ULT+qz1crB9Zo+mUNNhQDIOVMJRwqkB04NcEumbiK+RuH4I8wzhjpkNWiTK9RzDoKpZO7FQEDNUzTf2MP4="></p>
+<p><span style="font-size: 16px;">纪录片《地平线系列：寻找人工智能》（2012）剧照。</span></p>
+<p><span style="font-size: 16px;">人工智能最早的学派是符号主义学派，最早一批人工智能科学家多半是数学家和逻辑学家，他们在计算机诞生后把计算机与自己的研究结合起来，从而进入人工智能领域。在中国，同样是由数学家翻开了人工智能研究的第一页。在1979年，无论是机器证明中的“吴方法”走向世界，还是堪比达特茅斯会议的计算机科学暑期讨论会的举办，其背后都有着数学家的身影。也正是从这一年起，中国人工智能迈开了追赶世界的脚步。</span></p>
+<p style="text-align: center;"><img data-src="ltlBByDSz8LS2xDpve58U8mJ5ULT+qz1crB9Zo+mUNPMeyWpqLN2srj4qa2Xng2ntt9OzlWGjbHi8B8FYIsNSApAT6JOqBHCfjoQTwm3jVg="></p>
+<p><span style="font-size: 16px;">《中国人工智能简史：从1979到1993》，林军 岑峰著，人民邮电出版社2023年8月版。</span></p>
+<p><strong><span style="font-size: 16px;">原文作者｜林军 岑峰</span></strong></p>
+<p><span style="font-size: 20px;"><strong>吴文俊推开了中国人工智能研究</strong></span></p>
+<p><span style="font-size: 20px;"><strong>走向世界的大门</strong></span></p>
+<p><span style="font-size: 16px;">1979年1月，应普林斯顿高等研究院的邀请，数学家吴文俊怀揣2.5万美元，登上了赴美交流的班机。</span></p>
+<p><span style="font-size: 16px;">与他同行的是数学家陈景润。二人是中美正式建交后第一批应邀赴美学习访问的科学家，将在普林斯顿高等研究院学习和交流一段时间。陈景润交流的主题自然是“1+2”，而吴文俊此行交流的主要内容，除了他的老本行拓扑学，更多的是中国古代数学史和数学机械化，他想用自己携带的2.5万美元购买一台计算机，用于数学机械化的研究。</span></p>
+<p><span style="font-size: 16px;">吴文俊在1979年获得中国科学院</span><span style="font-size: 16px;">（下称“中科院”）</span><span style="font-size: 16px;">自然科学一等奖时，数学机械化已经成为他的主要研究方向。这个研究方向也受到世人瞩目，吴文俊的研究方法在机器定理证明界被称为“吴方法”，中国智能科学技术最高奖“吴文俊人工智能科学技术奖”就使用了吴文俊的名字，以纪念吴文俊作为中国研究者在人工智能相关领域取得的成就。</span></p>
+<p><span style="font-size: 16px;">不经意间，吴文俊推开了中国人工智能研究走向世界的大门。吴文俊对中国古代数学史的研究始于1974年前后。当时中国科学院数学研究所</span><span style="font-size: 16px;">（下称“中科院数学研究所”）</span><span style="font-size: 16px;">副所长关肇直让吴文俊研究中国古代数学。吴文俊很快发现了中国古代数学传统与由古希腊延续下来的近现代西方数学传统的重要区别，对中国古代算术进行了正本清源的分析，在许多方面产生了独到的见解。</span></p>
+<p><span style="font-size: 16px;">20世纪70年代，对外学术交流开始逐步恢复。1975年，吴文俊赴法交流，并在法国高等科学研究所作了关于中国古代数学思想的报告。这时吴文俊已经复原了日高公式的古代证明，并注意到了中国古代数学的“构造性”和“机械化”的特点。1977年春节，吴文俊用手算验证了几何定理机器证明方法的可行性，这一过程历时两个月。</span></p>
+<p><span style="font-size: 16px;">机器定理证明最初的思想源自戈特弗里德·威廉·莱布尼茨</span><span style="font-size: 16px;">（Gottfried Wilhelm Leibniz）</span><span style="font-size: 16px;">的演算推论器，以及之后演化而来的符号逻辑。后来，戴维·希尔伯特</span><span style="font-size: 16px;">（David Hilbert）</span><span style="font-size: 16px;">在此基础上于1920年推出了“希尔伯特计划”，希望将整个数学体系严格公理化。简单来讲，如果这一计划实现，就意味着对于任何一个数学猜想，不管它有多难，我们总能够知道这个猜想是否正确，并且证明或否定它。希尔伯特说的“Wirmüssen wissen,wir warden wissen”</span><span style="font-size: 16px;">（我们必须知道，我们必将知道）</span><span style="font-size: 16px;">便是这个意思。</span></p>
+<p><span style="font-size: 16px;">然而，就在此后不久的1931年，库尔特·哥德尔</span><span style="font-size: 16px;">（Kurt Gödel）</span><span style="font-size: 16px;">就提出了哥德尔不完备定理，彻底粉碎了希尔伯特的形式主义理想。但不管怎么说，哥德尔在关上这扇门的时候还是留了一扇窗。法国天才数学家雅克·埃尔布朗</span><span style="font-size: 16px;">（Jacques Herbrand）</span><span style="font-size: 16px;">的博士论文为数理逻辑的证明论和递归论奠定了基础，埃尔布朗在哥德尔不完备定理被提出后，检查了自己的论文，留下一句话——哥德尔和我的结果并不矛盾，并向哥德尔写了一封信请教。哥德尔回复了埃尔布朗，但埃尔布朗没能等到这封信，他在哥德尔回信两天后死于登山事故，年仅23岁。后来，定理证明领域的最高奖项也以埃尔布朗的名字命名，吴文俊在1997年获得了第四届埃尔布朗自动推理杰出成就奖。</span></p>
+<p><span style="font-size: 16px;">其他数学家对哥德尔定理也进行了补充。就在哥德尔证明“一阶整数</span><span style="font-size: 16px;">（算术）</span><span style="font-size: 16px;">是不可判定的”之后不久，阿尔弗莱德·塔尔斯基</span><span style="font-size: 16px;">（Alfred Tarski）</span><span style="font-size: 16px;">证明了“一阶实数</span><span style="font-size: 16px;">（几何与代数）</span><span style="font-size: 16px;">是可以判定的”，这也为机器证明奠定了基础。1936年，图灵在他的重要论文《论可计算数及其在判定问题上的应用》</span><span style="font-size: 16px;">（On Computable Numbers, with an Application to the Entscheidungsproblem）</span><span style="font-size: 16px;">中对哥德尔在1931年证明和计算限制的结果重新进行了论述，并用现在叫作图灵机的简单形式的抽象装置代替了哥德尔的以通用算术为基础的形式语言，证明了一切可计算过程都可以用图灵机模拟。这也是计算机科学和人工智能的重要理论基础。人工智能最早的学派——符号学派也正是在形式逻辑运算的基础上延伸而来的。</span></p>
+<p><span style="font-size: 16px;">回过头来说吴文俊，他在20世纪70年代到生产计算机的北京无线电一厂工作，并在那个时候开始接触计算机和机器定理证明。“如何发挥计算机的威力，将其应用到自己的数学研究上”成为吴文俊感兴趣的内容。后来，吴文俊开始研究中国古代数学史，并总结出中国古代数学的几何代数化倾向和算法化思想。在发现中国古代数学与西方数学的不同思路后，他决定换一种方法来做几何定理的机器证明。</span></p>
+<p><span style="font-size: 16px;">那个时候，吴文俊阅读了很多国外的文章，充分了解了机器证明。当时，机器定理证明最前沿的研究来自数理逻辑学家王浩，他在西南联大数学系读书期间曾师从著名哲学家、“中国哲学界第一人”金岳霖，后前往美国哈佛大学，在著名哲学家、逻辑学家威拉德·冯·奎因</span><span style="font-size: 16px;">（W.V.Quine）</span><span style="font-size: 16px;">门下学习奎因创立的形式公理系统并获得博士学位。早在1953年，王浩就已经开始思考用机器证明数学定理的可能性了。</span></p>
+<p><span style="font-size: 16px;">1958年，王浩在一台IBM7041计算机上使用命题逻辑程序证明了《数学原理》中所有的一阶逻辑定理，次年又完成了全部200条命题逻辑定理的证明。王浩之工作的意义在于宣告了用计算机进行定理证明的可能性。他在1977年回国时参加了多个影响我国科技长远发展的讨论会，并在中科院作了6次专题演讲，对国内机器证明研究有着重大的影响。言归正传，王浩此前对《数学原理》中命题逻辑定理的证明和吴文俊想要实现的几何定理机器证明之间还存在着鸿沟，前者符号逻辑的成分更多，后者则有推理的成分在内。当时，国外有很多对几何定理机器证明的研究，但都以失败告终。</span></p>
+<p><span style="font-size: 20px;"><strong>从中国古代数学思想的机械化</strong></span></p>
+<p><span style="font-size: 20px;"><strong>到“吴方法”</strong></span></p>
+<p><span style="font-size: 16px;">在吴文俊看来，失败的经验也是很重要的，它会告诉你哪些路是走不通的。他受笛卡儿思想的启发，通过引入坐标，把几何问题转化为代数问题，再按中国古代数学思想把它机械化了。吴文俊甚至把笛卡儿思想与中国古代数学思想结合起来，提出一个解决一般问题的路线：</span></p>
+<p><span style="font-size: 16px;">所有的问题都可以转变成数学问题，所有的数学问题都可以转变成代数问题，所有的代数问题都可以转变成解方程组的问题，所有解方程组的问题都可以转变成解单变元的代数方程问题。</span></p>
+<p><span style="font-size: 16px;">中国古代数学与西方的现代数学是两套不同的体系。吴文俊在不借助现代数学中的三角函数、微积分、因式分解法、高次方程解法等“现代工具”的情况下，按古人当时的知识和惯用的思维推理复原了《周髀算经》《数书九章》中的“日高图说”“大衍求一术”“增乘开方术”的证明方法。他认为中国古代数学有着自己的独到之处，秦九韶的方法具有构造性和可机械化的特点，用小计算器即可求出高次代数方程的数值解。在当时缺乏高性能计算设备的情况下，吴文俊能充分利用中国古代数学思想降维进行研究，也是难能可贵的事情。</span></p>
+<p><span style="font-size: 16px;">吴文俊按照这一思路证明的第一个定理是费尔巴哈定理，即证明了“三角形的九点圆与其内切圆以及三个旁切圆相切”。这是平面几何学中十分优美的定理之一，吴文俊的审美可见一斑。当时没有计算机，吴文俊就自己用手算。“吴方法”的一个特点是会产生大量的多项式，证明过程中涉及的最大多项式有数百项，这一计算非常困难，任何一步出错都会导致后面的计算失败。1977年春节，吴文俊首次用手算成功验证了几何定理机器证明的方法，后来，吴文俊又在一台由北京无线电一厂生产的长城2031上证明了西姆森定理。</span></p>
+<p><span style="font-size: 16px;">吴文俊将相关的研究文章《初等几何判定问题与机械化证明》发表在1977年的《中国科学》上，并将文章寄给了王浩。王浩高度评价了吴文俊的工作，并复信建议吴文俊利用已有的代数包，考虑用计算机实现吴方法。王浩没有意识到这个时候中美两国最顶尖的学者所使用的计算机的差别：长城203可以使用机器语言，但不同计算机的指令系统并不通用，利用已有的代数包行不通。所以，后来吴文俊干脆从中科院数学研究所里借了一台来中科院数学研究所访问的外国人赠送的小计算器，把所给命题转化为代数形式，再用秦九韶的方法来计算高阶方程的解。</span></p>
+<p><span style="font-size: 16px;">吴文俊几何定理机器证明的研究得到了关肇直的大力支持。关肇直曾在法国留学，是中国科学工作者协会旅法分会的创办人之一，团结了一批优秀的爱国知识分子，吴文俊就是其中之一。当时，吴文俊所在的中科院数学研究所关系复杂，有一派认为做机器证明是“离经叛道”，希望他继续从事拓扑学研究；从拓扑学和泛函分析转入控制理论的关肇直却格外支持和理解他，放话说吴文俊想干什么就让他干什么。后来，关肇直在1979年“另立山头”，成立中科院系统科学研究所时，吴文俊也跟随关肇直到了中科院系统科学研究所。</span></p>
+<p style="text-align: center;"><img data-src="8MY9RGaCWaBsd6kkgG/pScmJ5ULT+qz1crB9Zo+mUNPciwvghVY6Zuuw44yDK2Xdr7dPRsetUJAvvDcqi3Es7hKKzz6ryqLIaDcGhx1KYvc="></p>
+<p><span style="font-size: 16px;">20世纪80年代初中科院系统科学研究所原办公楼（现融科大厦）（左起：许国志、吴文俊、印度学者、关肇直，《中国人工智能简史：从1979到1993》内文插图）。</span></p>
+<p><span style="font-size: 16px;">要证明更复杂的定理，需要有更好的机器。时任中科院声学研究所所长的汪德昭院士指点了吴文俊。他告诉吴文俊中科院党组书记、副院长李昌何时何地会出现，结果真被吴文俊守到了。李昌非常开明，在20世纪50年代担任哈尔滨工业大学</span><span style="font-size: 16px;">（下称“哈工大”）</span><span style="font-size: 16px;">校长期间把哈工大办成了全国一流大学。在1954年确定的全国六所重点大学中，哈工大是唯一一所不在北京的大学。李昌对吴文俊的工作同样给予了很大支持，吴文俊去美国买计算机的2.5万美元外汇就是由李昌特批的。有了这台计算机，很多定理很快被证明出来了。</span></p>
+<p><span style="font-size: 16px;">20世纪70年代也是机器定理证明的黄金时代。1976年，两位美国数学家用高速电子计算机耗费1200小时的计算时间证明了四色定理，数学家们100多年来未能解决的难题得到解决。四色定理之所以能被证明，是因为不可约集和不可避免集是有限的，四色定理的“地图涂色”问题看似有无穷多的地图，实际上可以把它们归结为2000多种基本形状，之后利用计算机的计算能力暴力穷举，一个个去证明即可。打个比方，这种方法如同复原魔方——将魔方拆散并重新拼好——虽不优雅但确实有效。我们现在说GPT-31“大力出奇迹”，其实四色定理的证明才是“大力出奇迹”的始祖。</span></p>
+<p><span style="font-size: 16px;">然而，这种利用计算机计算能力暴力破解定理证明的做法并不能得到推广。定理证明的第一步，即定理的形式化，需要完整和严谨的表述。关于这一点，有一个关于数学家的小故事。一个天文学家、一个物理学家和一个数学家乘坐火车到苏格兰旅行，他们看到窗外有一只黑色的羊，天文学家开始感慨：“怎么苏格兰的羊都是黑色的？”物理学家纠正：“应该说苏格兰的一些羊是黑色的。”而最严谨的表达则来自数学家：“在苏格兰至少存在着一块天地，至少有一只羊，这只羊至少有一侧是黑色的。”还有一个段子，说数学问题分两类：一类是“这也要证？”，一类是“这也能证？”。</span></p>
+<p><span style="font-size: 16px;">由此可知，一个证明要得到其他数学家的认可是多么不容易。同样，要在一个交互式定理证明器里形式化一个定理，需要填补所有的技术细节，才能完成推理的“自动化”，最终用一种可行但是计算量很大的解题思路来代替对定理的证明。</span></p>
+<p><span style="font-size: 16px;">换言之，这种方式仍然依赖数学家对定理的理解，只能做到“一理一证”，只能算定理的计算机辅助证明。所以，在四色定理被计算机证明后，包括王浩在内的一批逻辑学家提出了不同意见：四色定理算被证明了吗？这种证明方式算传统证明，计算机只是起到了辅助计算的作用。一直到2005年，乔治·贡蒂尔</span><span style="font-size: 16px;">（Georges Gonthier）</span><span style="font-size: 16px;">才完成了四色定理的全部计算机化证明，其每一步逻辑推导都是由计算机完成的。</span></p>
+<p><span style="font-size: 16px;">目前人们已经用计算机证明了数百条数学定理，但这些定理大多是已知的，“机器智能”还未对数学有真正意义上的贡献。机器定理证明依赖于算法。在早期阶段，研究者们往往试图找到一个超级算法去解决所有问题，而吴文俊则将中国古代数学思想应用于几何定理的机器证明领域，做到了“一类一证”。这一点也得到了王浩的赞同，他认为自己的早期工作和吴文俊使用的方法具有共同点，即先找到一个相对可控的子领域，然后根据这个子领域的特点找出最有效的算法。吴文俊在1979年访美的时候还特地去洛克菲勒大学拜访了王浩，他的工作在机器定理界受到重视也和王浩的力荐有着一定的关系。</span></p>
+<p><span style="font-size: 16px;">“吴方法”真正传播开来，让机器定理证明在20世纪80年代第一次取得突破性进展，还有赖于曾经听过吴文俊机器定理证明课程的一位在美留学生——周咸青。周咸青本想考吴文俊机器证明方向的研究生，不过他认为微分几何是自己的弱项，害怕考不上，最终考到中国科学技术大学</span><span style="font-size: 16px;">（下称“中科大”）</span><span style="font-size: 16px;">，后来到中科院计算技术研究所代培，就此旁听了吴文俊的几何证明的课程。</span></p>
+<p><span style="font-size: 16px;">1981年，周咸青到得克萨斯大学奥斯汀分校留学，当时得克萨斯大学奥斯汀分校堪称定理证明界的王者，该校的两个研究小组都曾获得定理证明的最高奖赫布兰德奖。周咸青向罗伯特·博耶</span><span style="font-size: 16px;">（Robert Boyer）</span><span style="font-size: 16px;">提及了吴文俊的工作，博耶觉得很新鲜，便继续追问，但周咸青只知道是将几何转化为代数，具体细节则讲不出所以然。</span></p>
+<p><span style="font-size: 16px;">之后，伍迪·布莱索</span><span style="font-size: 16px;">（Woody Bledsoe）</span><span style="font-size: 16px;">便让周咸青和另一位学生王铁城去搜集资料，周咸青的博士论文便是吴方法的实现。吴文俊很快寄来了两篇文章，文章上都有他给布莱索的签名。在此后两年，这两篇文章被得克萨斯大学奥斯汀分校复印了近百次寄往世界各地，吴方法开始广为人知。</span></p>
+<p><span style="font-size: 16px;">1983年，全美定理机器证明学术会议在美国科罗拉多州举行，周咸青在会议上作了题为“用吴方法证明几何定理”的报告。周咸青开发的通用程序能自动证明130多条几何定理，其中包含莫勒定理、西姆森定理、费尔巴哈九点圆定理和笛沙格定理等难度较大的定理的证明。之后，这次会议的论文集作为美国《当代数学》系列丛书第29卷于1984年正式发表，吴文俊寄来的两篇相关论文也被收录其中。</span></p>
+<p><span style="font-size: 16px;">1986年6月，图灵奖获得者约翰·霍普克罗夫特</span><span style="font-size: 16px;">（John Hopcroft）</span><span style="font-size: 16px;">等人组织了一场几何自动推理的研讨会，讨论会的部分报告被收录在1988年12月的《人工智能》特辑中，特辑的引言文章特别介绍了吴文俊提出的代数几何新方法，认为该方法不仅为几何推理的进步做出了巨大贡献，在人工智能的三大应用问题</span><span style="font-size: 16px;">（机器人和运动规划、机器视觉、实体建模）</span><span style="font-size: 16px;">中也都具有重要的应用价值。霍普克罗夫特此后与中国多所高校密切合作，在上海交通大学、北京大学、香港中文大学</span><span style="font-size: 16px;">（深圳）</span><span style="font-size: 16px;">均有由他牵头的研究机构，吴文俊和“吴方法”大概就是他有中国情结的开始。</span></p>
+<p><img data-src="tFrMB+7VwiBW2HbD2hOnH8mJ5ULT+qz1crB9Zo+mUNOQ3VmZKpd/9EBtDkEtgsW5gNYMZaRSTEs+8YqdlGgQmW6/qCRXe9yOseiRzHiiLik="></p>
+<p><span style="font-size: 16px;">1988年《人工智能》特辑开篇对吴方法的概述（《中国人工智能简史：从1979到1993》内文插图）。</span></p>
+<p><span style="font-size: 20px;"><strong><span style="font-size: 20px;">对人工智能的保留：</span></strong></span></p>
+<p><span style="font-size: 20px;"><strong><span style="font-size: 20px;">数学机械化学派</span></strong></span></p>
+<p><span style="font-size: 16px;">尽管这些学术活动把吴文俊的名字与人工智能的概念自然而紧密地联系在了一起，但吴文俊自己依然对“人工智能”的提法有所保留。按他的说法就是：“人工智能的程序是我亲手一条一条编写的，每一条指令都是必须机械执行的动作，它根本没有智能，所谓‘人工智能’就是机械化执行人的思维过程，并不是计算机有了智能。”所以，吴文俊用王浩提出的“数学机械化”来描述自己的工作。在1977年发表于《中国科学》的论文《初等几何判定问题与机械化证明》中，吴文俊特地写了一个附注，阐明机械化思想的起源：</span></p>
+<p><span style="font-size: 16px;">我们关于初等几何定理机械化证明所用的算法，主要牵涉到一些多项式的运用技术，例如算术运算与简单消元法之类。应该指出，这些都是12至14世纪宋元时期中国数学家的创造，在那时已有相当高度的发展。……事实上，几何问题机械化与用代数方法系统求解，乃是当时中国数学家的主要成就之一，其时间远在17世纪出现解析几何之前。</span></p>
+<p><span style="font-size: 16px;">人工智能是一门交叉学科，数学自然也是与人工智能相关的基础学科之一。但从上述表述看，吴文俊机器证明的目的还是更好地去证明和辅助发现数学新定理，这和人工智能的研究是两个圈子。在当时人工智能被批判和质疑的背景下，吴文俊对人工智能的保留实际上是他的一种自保策略，乌镇智库的尼克就曾说吴文俊先生是数学家中的“人精”。</span></p>
+<p><span style="font-size: 16px;">在1979年吉林大学举办的“计算机科学暑期讨论会”上，虽然分组讨论的是人工智能的内容，但对外还是叫“智能模拟”。讷于言而敏于行，这或许也是吴文俊未受重大冲击的原因。“吴方法”开启了自动推理与方程求解的数学机械化中国学派。从1983年起，吴文俊开始陆续招收研究生从事机器证明的研习。较早的几位学生包括胡森</span><span style="font-size: 16px;">（1983—1986，获硕士学位）</span><span style="font-size: 16px;">、王东明</span><span style="font-size: 16px;">（1983—1987，获博士学位）</span><span style="font-size: 16px;">、高小山</span><span style="font-size: 16px;">（1984—1988，获博士学位）</span><span style="font-size: 16px;">、刘卓军</span><span style="font-size: 16px;">（1986—1988，获博士学位）</span><span style="font-size: 16px;">、李子明</span><span style="font-size: 16px;">（1985—1988，获硕士学位）</span><span style="font-size: 16px;">等。这批学生后来成为国内数学机械化研究的中坚力量。</span></p>
+<p><span style="font-size: 16px;">受吴方法影响的，还有两位北大数力系才子洪加威和张景中。当时，吴文俊最早的两位研究生胡森和王东明发现，许多图形若画出来是对的，就可能是定理。这一点不久被洪加威变成定理，洪加威使用的方法是用一个例子去证明一个几何定理，也称单点例证法。张景中是群英荟萃的北大数力系1954级的学生，比洪加威高一级</span><span style="font-size: 16px;">（其实北大数力系1955级也人才济济）</span><span style="font-size: 16px;">。张洪两人交情颇深，张景中在1957年被调往新疆，后来北大的老师寻找张景中时，还是从洪加威那里知道的消息。</span></p>
+<p><span style="font-size: 16px;">另一个与张景中交情颇深的数学家是杨路。在二十世纪六七十年代，张景中就和杨路一起讨论几何算法和函数迭代，杨路提出通过点与点的距离关系，不建立坐标系而直接研究几何图形的性质。这与吴文俊将中国古代数学思路与笛卡儿思想相结合有一定的相通之处。1979年，张景中调往中科大工作，1985年又调往中科院成都数理科学研究室，杨路也几乎同时完成自己的工作调动，两个人正是张不离杨，杨不离张。也就是在20世纪70年代末，张景中和杨路开始进入机器定理证明领域。</span></p>
+<p><span style="font-size: 16px;">1984年洪加威构思例证法的时候，张景中就和他建议，用一组例子比一个例子更容易实现。1989年，张景中和杨路发展了洪加威的方法，提出了数值并行法，举例的思路有所不同。张景中的工作得到吴文俊的指点和支持，1992年5月，张景中到美国威奇塔州立大学游学，吴文俊给张景中写了三页纸的英文推荐信。张景中对中国人工智能的又一贡献，是和成都七中1990年数学综合实验班的带队老师谢晋超合作做吴方法的机器定理证明的实现，具体做这个工作的，正是谢晋超当时的得意门生王小川，他是IOI11996年金牌得主，后来创办了搜狗公司，任首席执行官。</span></p>
+<p><span style="font-size: 16px;">回过头说吴文俊，吴文俊从20世纪80年代起一直致力于数学机械化的研究与推广，并得到了北大教授程民德的支持。程民德、吴文俊和另两位数学大家陈省身、胡国定是“中国数学要在21世纪率先赶上世界先进水平”的提出者，是数学天元基金的创始人，程民德的另一身份是中科院信息技术科学部信息学组的副组长，他和信息学组的组长常迵对中国信息化以及人工智能的发展有着不小的贡献。</span></p>
+<p><span style="font-size: 16px;">1990年年初，程民德指导编写了一份关于机器证明研究的国际反馈材料呈交国家科学技术委员会</span><span style="font-size: 16px;">（下称“科委”）</span><span style="font-size: 16px;">领导。当时，日本第五代智能计算机的研究一度呈现出火热的状态，但最终因数学理论和方法存在重大缺陷而放弃，而吴方法的研究有望给智能计算机的研制提供新的数学理念。6月，国家科委基础研究高技术</span><span style="font-size: 16px;">司</span><span style="font-size: 16px;">（下称“基础司”）</span><span style="font-size: 16px;">领导到中科院系统科学研究所座谈，就如何进一步支持吴文俊的机器证明工作听取了意见，吴文俊、程民德等人参与了座谈会。座谈会结束后不久，基础司拨出100万元专款支持机器证明的研究。有了这笔拨款，吴文俊很快在中科院系统科学研究所成立了数学机械化研究中心，吴文俊任主任，程民德任学术委员会主任，日常工作由北京市计算中心的吴文达主持。程民德还和石青云院士合作将吴方法应用于整体视觉，并指导研究生李洪波开创了几何定理机器证明的新方向。</span></p>
+<p><img data-src="DsfwIyGWG0U7FVp60hbktsmJ5ULT+qz1crB9Zo+mUNOfU2RNtt2JAUFvRbQUFEgXCP0j4H8AT/8E94hrl/s/YZNzL+ADkTOUF1DBNfU0lMk="></p>
+<p><span style="font-size: 16px;">《人工智能：伏羲觉醒》（2016）剧照。</span></p>
+<p><span style="font-size: 16px;">数学机械化研究中心成立之后，吴文俊又从应用出发，对符号和数值混合算法进行进一步研究。他在20世纪90年代初指出，符号计算和数值计算是两种不同的解决科学和技术发展中问题的计算方法，符号计算可以得到问题精确的完备解，但计算量大且表现形式往往十分复杂；数值计算可以快速处理许多实际应用问题，但一般只能得到局部近似解。</span></p>
+<p><span style="font-size: 16px;">吴文俊曾提出一切工程问题最终都要转化为数学问题，一切数学问题最终都要转化为方程求解的问题，混合算法的研究也为数学机械化研究中心在后续负责的数学机械化与自动推理平台及国家重点基础研究发展计划</span><span style="font-size: 16px;">（973计划）</span><span style="font-size: 16px;">项目“机构学及数控技术中的数学机械化方法”中提出求解最优化问题等提供了有效的综合方法。近年来，机器证明不仅应用在证明和辅助发现数学新定理方面，还创造或发展出一些新的方法和代数工具，用来解决计算机辅助设计、机器人控制、计算机视觉以及其他有关的数学问题。</span></p>
+<p><strong><span>跳出数学圈子，</span></strong></p>
+<p><strong><span>致力于发挥计算机的威力</span></strong></p>
+<p><span style="font-size: 16px;">除吴文俊外，当时国内还有一位数学家在机器定理证明领域闻名，他就是吉林大学的王湘浩。与吴文俊不同的是，王湘浩并没有局限于将计算机应用于数学研究，而是跳出数学圈子，致力于发挥计算机的威力，对人工智能的体系化发展起到了关键作用。</span></p>
+<p><span style="font-size: 16px;">王湘浩1915年出生于河北省安平县，从小喜欢数学。1946年夏天，王湘浩获得美国国务院奖学金赴普林斯顿大学留学。他选择代数学作为研究方向，导师是当代著名代数学家埃米尔·阿廷</span><span style="font-size: 16px;">（Emil Artin）</span><span style="font-size: 16px;">，所以他与沃尔夫奖、阿贝尔奖获得者约翰·泰特</span><span style="font-size: 16px;">（John Tate）</span><span style="font-size: 16px;">是师兄弟。王湘浩仅用一年时间就取得了硕士学位。在剩下的两年时间里，他又拿下了博士学位。能在如此短的时间拿到硕士、博士学位，除了比常人更加勤奋和努力，另一个原因大概是助学金不够用</span><span style="font-size: 16px;">（这也是当时留美的学生常见的状态）</span><span style="font-size: 16px;">，想赶紧念完书。可见，人在压力下的潜力是无穷的。</span></p>
+<p><span style="font-size: 16px;">王湘浩通过博士论文答辩后于1949年回国，被母校北京大学数学系聘为副教授，讲授代数数论等专业课及其他基础课程。当时的学生中就包含后来的北大校长丁石孙。吴文俊于1951年回国后一开始也在北京大学数学系任教，两人从那时便相熟起来。后来，王湘浩到吉林大学主持工作，博士生论文答辩一般会邀请吴文俊进入答辩委员会，其他常被邀请的还有陆汝钤、董蕴美等。加上王湘浩，一场博士答辩，四个院士坐镇，阵容十分豪华。</span></p>
+<p><span style="font-size: 16px;">1952年全国院系大重组，吴文俊被调往中科院数学研究所，王湘浩则北上吉林大学，先后成为吉林大学数学系和计算机系的首任系主任，并任副校长之职。1955年，凭借此前在代数数论方面的研究与对格伦瓦尔德定理的补充，王湘浩当选为中国科学院第一批学部委员</span><span style="font-size: 16px;">（也就是后来的科学院院士）</span><span style="font-size: 16px;">，是数学方向最早的9位学部委员之一，而吴文俊则是数学方向第10位学部委员，所以说王湘浩比吴文俊还要资深一些。</span></p>
+<p><img data-src="5LtMAMmc+K81jpOuQ2EB4smJ5ULT+qz1crB9Zo+mUNOgjIK7quzxJV70sBWziPJ6hy7PsNA/ZESMLYBa/GHivoTW52HepGUgdGHuRFarg3Q="></p>
+<p><span style="font-size: 16px;">纪录片《现代生活的秘密规则：算法》（2015）剧照。</span></p>
+<p><span style="font-size: 16px;">王湘浩也是最早从数学方向转向计算机方向的院士。1955年，王湘浩在吉林大学数学系制定了研究规划，其中就包含了计算数学。次年，国务院完成了《1956—1967年科学技术发展远景规划》</span><span style="font-size: 16px;">（简称《十二年科技规划》）</span><span style="font-size: 16px;">的制定，将计算机、自动化、电子学、半导体列为需要重点快速发展的领域，这也加速了吉林大学计算数学专业建设的步伐。</span></p>
+<p><span style="font-size: 16px;">1957至1959年，吉林大学聘请苏联专家梅索夫斯基赫开办了计算数学讲义班，参加的老师包括北京大学的徐卓群和徐萃薇、复旦大学的蒋尔雄、武汉大学的康立山等人。两年的讲义班让李荣华、李岳生、冯果忱等一批本土教师成长起来，再加上有王湘浩坐镇，已经足以奠定吉林大学在国内计算数学领域的领先地位。在这一时期，王湘浩兼任计算数学教研室的主任，他也从数学转到计算机领域，成了吉林大学计算机学科的创始人。</span></p>
+<p><span style="font-size: 16px;">王湘浩当时主要研究的是归结原理，这也是定理证明的三种算法之一。归结原理由约翰·阿兰·罗宾逊</span><span style="font-size: 16px;">（John Alan Robinson）</span><span style="font-size: 16px;">在1965年改进埃尔布朗定理后提出，但其应用范围比较窄，王湘浩和他的学生刘叙华在此基础上对归结原理进行了很多改进，提出了广义归结和锁语义归结，并指出了国外提出的有序线性归结</span><span style="font-size: 16px;">（OL归结）</span><span style="font-size: 16px;">的错误，提出了修改后的有序线性归结</span><span style="font-size: 16px;">（MOL归结）</span><span style="font-size: 16px;">。</span></p>
+<p><span style="font-size: 16px;">王湘浩在吉林大学建立了多个研究小组，成果最丰硕的当数他领头的多值逻辑小组，自动机小组、计算机代数小组等也都发展得不错。后来，吉林大学在1976年成立计算机系，计算机系的几个主要研究方向也都是从之前的小组演化而来的，并且在向人工智能靠拢的过程中又逐步形成了两大方向：自动推理模型及其证明、专家系统与知识工程，前者由刘叙华担纲，后者由管纪文负责。这些基础理论研究的重要成果也为王湘浩之后在国内首先倡导人工智能研究打下了基础。</span></p>
+<p><span style="font-size: 16px;">20世纪70年代的吉林大学由于计算数学研究开展得早，老中青三代师资力量齐备，又有这一领域资历最老的学部委员王湘浩坐镇和组织，已然成为当时计算机与人工智能研究的中心。当时正值国内多所院校建立计算机系，吉林大学也接待了不少来“取经”的老师，这也为1979年的“计算机科学暑期讨论会”的召开打下了基础。</span></p>
+<p><strong><span>20世纪70年代数学与逻辑学</span></strong></p>
+<p><strong><span>是人工智能的主流</span></strong></p>
+<p><span style="font-size: 16px;">1979年7月23日到30日，刚刚恢复活动不久的中国电子学会计算机学会</span><span style="font-size: 16px;">（中国计算机学会的前身）</span><span style="font-size: 16px;">在吉林大学召开了“计算机科学暑期讨论会”，会议由吉林大学、北京大学、中科院计算技术研究所、吉林省计算机技术研究所共同筹办，王湘浩担任会议领导小组组长，会议小组其他成员包括吴允曾、吴文俊、刘声烈、陆汝钤、曹履冰、吴治衡、张兆庆、罗铸楷、陈炳从、金淳兆、张鸣华、许孔时等，吴文俊、吴允曾、陆汝钤、张鸣华在全体会议上作了专题学术报告。会议分为智能模拟</span><span style="font-size: 16px;">（人工智能）</span><span style="font-size: 16px;">、计算机科学基本理论与操作系统、形式语言及编译理论、硬件理论及应用四个专题。</span></p>
+<p><span style="font-size: 16px;">人工智能是这次讨论会最重要的一个方向——1978年3月全国科学大会制定了《1978—1985年全国科学技术发展规划纲要》</span><span style="font-size: 16px;">（简称《八年规划纲要》）</span><span style="font-size: 16px;">，将“智能模拟”列为计算机科学的重要研究方向，也带动了一批研究者涉足人工智能领域。而吴文俊刚刚完成几何定理机器证明的吴方法，这一突破引起国内外诸多研究者的兴趣。在1979年7月25日上午的大会报告环节，吴文俊作了关于几何定理机器证明的报告。在分组讨论中，他亲自担任智能模拟组的组长。有吴文俊坐镇，智能模拟组的讨论也比其他几个组要热闹几分。</span></p>
+<p><img data-src="8MY9RGaCWaBsd6kkgG/pScmJ5ULT+qz1crB9Zo+mUNMSZH4+TVrKC7+dE5pmqRt3JzoTgEGNYa8Axn4n60nS466mvV3EEnp6dCdmKLdG1S0="></p>
+<p><span style="font-size: 16px;">计算机科学暑期讨论会代表证（提供者为何华灿，《中国人工智能简史：从1979到1993》内文插图）。</span></p>
+<p><span style="font-size: 16px;">在吴文俊之后作报告的是中科院计算技术研究所的陆汝钤，报告主题是“软件移植的工程实现”。陆汝钤也是数学家出身，1959年毕业于德国耶拿大学数学系，1972年“转行”进入计算机科学领域，在1975—1981年倡导并主持旨在软件机械生成和自动移植的系列软件计划</span><span style="font-size: 16px;">（下称“XR计划”）</span><span style="font-size: 16px;">。当时，计算机研究在国内逐步展开，但软件数量少，编写成本高</span><span style="font-size: 16px;">（按陆汝钤的统计，一条计算机指令的开发成本大概在10美元）</span><span style="font-size: 16px;">，软件成了阻碍计算机普及的绊脚石。XR计划以我国广泛使用的几类计算机为对象，解决了不同平台之间的软件移植问题，推动了当时国产机软件缺乏问题的解决。陆汝钤之后将这种基于知识的智能化软件工程思想进一步延伸到知识工程语言TUILI</span><span style="font-size: 16px;">（推理）</span><span style="font-size: 16px;">和国家七五攻关项目“专家系统开发环境”中，并因在人工智能领域的突出贡献获得了首届吴文俊人工智能科学技术奖。</span></p>
+<p><span style="font-size: 16px;">第二天上午的另两个大会报告也和人工智能有关。吴允曾来自主办方之一的北京大学，他是著名的数理逻辑学家和计算机科学家，先后在北京大学哲学系、数学系和计算机专业任教，由哲学到数学，从数理逻辑到计算机，在每一个领域均取得相当大的成就。吴允曾很早就意识到哲学和数理逻辑是计算机科学的基础，在本次大会上，他的报告主题是“希尔伯特第十问题与计算机化”。希尔伯特第十问题是一个与解方程有关的问题，哥德尔、丘奇、图灵等大师对这一问题均有关键性的研究，这一问题的计算机化正是对计算本质的理解与探索，颇具指导意义。</span></p>
+<p><span style="font-size: 16px;">最后一名报告嘉宾是来自清华大学的张鸣华。张鸣华1952年从清华大学数学系毕业后留校，是清华大学开展计算数学教学时最早的任课教师之一。他之后专攻计算理论和计算机科学基本理论的研究，著有《可计算性理论》一书。可计算性不仅是计算机科学的基础，也是人工智能的关键。可计算理论的基本思想被用于程序设计，产生了递归过程和递归数据结构，他在大会所做的报告主题是“数据流分析”。张鸣华在本届大会上还有一篇名为《框图格式的等价问题》的论文发表，该论文被评为大会在优秀论文并被推荐到全国计算机年会。</span></p>
+<p><span style="font-size: 16px;">这场会议实际上也是中国人工智能研究的一个“摸底会”。不少参会者是从“智能模拟”被列为计算机科学的重要方向之后才开始接触人工智能的，到这场会议召开时不过一年时间，很难有深入的了解和研究，而吉林大学则显示出在人工智能研究上的先发优势，王湘浩的《广义归结》、管纪文的《线性自动机的极大周期定理》和《线性自动机的奇偶性》、刘叙华的《锁语义归结原理和模糊逻辑》均入选大会优秀论文。</span></p>
+<p><span style="font-size: 16px;">另外一所表现突出的学校是武汉大学。曾宪昌的两个学生刘初长和代大为的论文</span><span style="font-size: 16px;">（分别为《代德景问题的机械算法》和《Dedekind问题的图表算法》）</span><span style="font-size: 16px;">也入选大会优秀论文。与吴文俊、王湘浩并称“机器证明三杰”的曾宪昌也是从数学转向计算机的。曾宪昌出生于数学世家，父亲是颇有影响力的数学史专家和历算专家、中国数学会的创建人之一曾昭安。1928年国立武昌中山大学改建为“国立武汉大学”时，曾昭安就是筹备委员会委员。曾宪昌是数学家汤璪真的学生，他在20世纪40年代末留美，和父亲一样在哥伦比亚大学学习数学，并遵照父亲曾昭安的嘱咐，对20世纪40年代末出现在美国费城的世界上第一台电子计算机进行实地考察。曾宪昌回国时带回一批有关计算机科学的资料，这批资料在20世纪70年代创设武汉大学计算机系时发挥了重要的参考作用。</span></p>
+<p><img data-src="8MY9RGaCWaBsd6kkgG/pScmJ5ULT+qz1crB9Zo+mUNM7SMO0LGl/+qvy9enaxyEBL/Kro3thC2e8xW4Pkhm5clIhjszR8YXansBh5oRoVm8="></p>
+<p><span style="font-size: 16px;">纪录片《现代生活的秘密规则：算法》（2015）剧照。</span></p>
+<p><span style="font-size: 16px;">曾宪昌长期从事数学和计算机科学的教学工作，他学识渊博，功力深厚，通晓英、俄、德、法、日五种语言，在数学系和计算机科学系为本科生主讲过数论、高等代数、方程式论、代数整数论、近世代数、方程式的机械求解等课程，为研究生开设过定理机器证明、机器学习、智能软件工程等课程，编写出版了《方程式论》《高等代数》《代数数论》《代数结构》等重要教材。由于在数学理论和计算机科学的定理证明方面取得了突出的学术成就，他被教育部任命为中国代表团团长，出席了在美国华盛顿召开的国际计算机1979年年会；同年底，又出席了在美国底特律近郊举行的1979年国际并行处理会议，发表了两篇论文，刊登在该会的论文集上，受到国内外同行的瞩目。</span></p>
+<p><span style="font-size: 16px;">武汉大学历史上出过不少学术世家，曾家父子算是其中的佼佼者。1958年武大在新三区马路对面修了两栋“校长楼”，一号门住的就是曾昭安、曾宪昌父子。20世纪70年代，武汉上马“一米七轧机”工程，项目召集武汉各高校相关研究者协同攻关，前期的不少技术文档就是由曾昭安翻译的，曾宪昌也参与了用计算机对“一米七轧机”工程进行优化的工作。1978年，武汉大学成立计算机系，曾宪昌也成了武汉大学计算机系首批招收研究生的导师。当时成立计算机系时武汉大学的研究生招生已经结束，学生已到校报到，数学系临时从这一批已经学习了两个多月的学生中调配了三个人去计算机系读曾宪昌的研究生，曾宪昌为这一批研究生选定的研究主题，正是机器定理证明。</span></p>
+<p><span style="font-size: 16px;">王湘浩和曾宪昌研究机器定理证明的终极目标是实现自动推理，这也是很多数学家研究到一定程度后自然而然关注的方向。菲尔兹奖得主弗拉基米尔·沃沃斯基</span><span style="font-size: 16px;">（VladimirVoevodsky）</span><span style="font-size: 16px;">从代数几何转向研究自动推理、形式化验证，就是因为他的一些工作被人构造出反例后，他对自己的很多工作、很多证明产生怀疑，于是开始试图用可靠的机器验证代替不可靠的人工检查。吴文俊自认依然是数学家，但王湘浩、曾宪昌跳出了数学研究本身，从自动推理入手，并将自动推理的能力应用到其他场景中去实现智能化。</span></p>
+<p><span style="font-size: 16px;">由于具有相同的目标和类似的背景，王湘浩和曾宪昌两个团队之间也多有合作。如研究生毕业答辩，按规定必须有校外专家参加，武汉大学计算机系和吉林大学计算机系便商定，两个学校的研究生一起答辩，这样就不用再从别的单位请人了。曾宪昌在计算机系最早招收的研究生刘初长向笔者回忆称，当时两校成立了5人答辩委员会，吉林大学有王湘浩教授、管纪文教授和刘叙华教授，武汉大学有曾宪昌教授和胡久清教授。由于吉林大学计算机系研究生多，所以答辩总是安排在吉林大学进行。之后，刘叙华、管纪文、刘初长等还共同组织举办高校人工智能学术会议、全国首届自动推理学术讨论会等多个学术活动，这是后话。</span></p>
+<p><span style="font-size: 16px;">除此之外，值得一提的是来自西北大学的何华灿。何华灿在大会上有一篇名为《仿智学概论》的论文发表，在诸多刚进入人工智能领域的研究者中算是比较突出的。何华灿也因此被王湘浩和吴文俊选中担任人工智能小组的副组长，辅助吴文俊进行小组成员的召集工作。</span></p>
+<p><span style="font-size: 16px;">从上述论文的内容看，这一时期的人工智能仍然是狭义的人工智能，研究者们研究的重点也大多局限在定理证明和形式逻辑上——这并不奇怪，20世纪70年代是符号主义的时代，数学与逻辑学是人工智能的主流。</span></p>
+<p><span style="font-size: 16px;">这场大会帮助吉林大学树立了人工智能研究执牛耳的地位，吉林大学的人工智能研究也进入一个空前繁荣的时期。除在中国早期人工智能领域起到积极的推动作用外，吉林大学也培养了几代优秀学者，管纪文、刘叙华、刘大有等均在其中；在海外开花结果的校友包括美国工程院院士、中国工程院外籍院士、普林斯顿大学教授李凯，以及《人工智能》杂志第一篇华人文章作者、澳大利亚人工智能理事会主席张成奇，他们均出自吉林大学，受过王湘浩的指点。大会后到吉林大学了解人工智能的兄弟院校越来越多。1980年，教育部委托吉林大学举办人工智能研究班，清华大学、北京航空学院等16所高校派出老师来到吉林大学学习人工智能。在这个研究班上，何华灿作为西北工业大学教师代表也参加了学习，并因此引出另一段故事。</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">本文选自</span><span style="font-size: 16px;">《中国人工智能简史》</span><span style="font-size: 16px;">，部分小标题为摘编者所加。获出版社授权刊发。</span><span style="font-size: 16px;">撰文：林军 岑峰</span><span style="font-size: 16px;">；摘编：安也；</span><span style="font-size: 16px;">编辑：</span><span style="font-size: 16px;">张进；导语</span><span style="font-size: 16px;">校对：赵琳</span><span style="font-size: 16px;">。</span><span style="font-size: 16px;">未经新京报书面授权不得转载，欢迎转发至朋友圈。</span></p>
+<p><span style="font-size: 16px;">最近微信公众号又改版啦</span></p>
+<p><span style="font-size: 16px;">大家记得将「新京报书评周刊」<strong>设置为星标</strong></span></p>
+<p><span style="font-size: 16px;">不错过每一篇精彩文章～🌟</span></p>
+<p style="text-align: center;"><img data-src="ZEdxni/u2gmtwZ8CLj8V0cmJ5ULT+qz1crB9Zo+mUNO7Kc3xCtv11C9n3pUBgDRnkf7vfFlAVtQ3v/YUwKfLcelvAm0I8cqLMSmJqaC8pvc="></p>
+<p><strong><span style="font-size: 16px;">本海报为图书市集广告，扫描小程序码，来逛秋季图书市集</span></strong><a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>          <!-- 政务账号添加来源标示处理 -->
+      <!-- 政务账号添加来源标示处理 -->
+      <p data-role="editor-name">责任编辑：<span></span></p>
+</article>
+<div id="articleTransfer"><transfer></transfer></div>
+<!-- 评论禁言通知 -->
+<div id="bannedNotice"><banned-notice></banned-notice></div>
+  <div class="statement">平台声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>    <div class="bottom-relate-wrap clear type-3">
+        <div class="read-wrap">
+        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
+    </div>
+    <div id="articleReport">
+        <report>
+    </report></div>
+</div>
+
+                            <div id="sohu-play-content"></div>
+                        </div>
+                    </div>
+                    <div data-spm="middle-banner-ad">
+                                            </div>
+                                            <div id="articleAllsee" style="height:629px"><all-see-list></all-see-list></div>
+                                        <div class="_0u4o3bh76zbp"></div>
+                    <div class="god-article-bottom" id="god_bottom_banner" data-spm="ad-text-bottom" style="display:block">
+</div>
+<div class="user-god clear" id="user-post" style="display:none">
+
+</div>                    <!-- 评论 -->
+                    <div id="meComment" style="min-height: 100px;">
+                        <me-comment>
+                    </me-comment></div>
+                    <div id="commentList">
+                        <comment-list></comment-list>
+                    </div>
+                    <div id="discuss"></div>
+                    <!-- 推荐阅读 -->
+                                        <div style="min-height:1500px" id="groomRead">
+                        <groom-read>
+                    </groom-read></div>
+                                    </div>
+                <!-- 右侧边栏 -->
+                <div class="sidebar right" id="right-side-bar" data-a="${isBaiDuAd}">
+                    <right-side-bar>
+                </right-side-bar></div>
+             </div>
+            <div id="float-btn"> <float-btn> </float-btn></div>
+            <div class="left-bottom-float-fullScreenSleepContainer" style="display:none;">
+    <div class="left-bottom-float-fullScreenSleep" style="display:none;" data-spm="ad-fullScreenSleep">
+        <div class="close-tag"></div>
+    </div>
+</div>
+<div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
+</div>        </div>
+        <script type="text/javascript">
+                        window.deployEnv = "prod"
+                    </script>
+        <script src="//js.sohu.com/pv.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/vendors-8717d0.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/main_article-068610.js"></script>        <script>
+try{
+        window.sohu_mp.article({
+        channel_id: "46",
+        news_id: "717817559",
+        cms_id: "$mpNews.cmsId",
+        media_id: "119350",
+        passport: "szRKg0qe4N@virtual-author.com",
+        weboUrl: "https://mp.sohu.com/profile?xpt=MTA0NzQ2NzcwNUBzaW5hLnNvaHUuY29t",
+        title: "《中国人工智能简史》：数学家翻开了中国人工智能研究的第一页",
+        channel_url:"/c/46",
+        integralLevel: "5",
+        categoryId:"1479",
+        //abData_fd用于abtest
+        abData:"",
+        // abData_discuss:"4", // 讨论
+        abData_discuss:"", // 讨论
+        abData_fd:"",
+        abData_tw:"",
+        originalId:"$mpNews.originalId",
+        originalStatus:"0",
+        isBaiDuAd: "",
+        isPure: "${pure}",
+        reprint: false,
+        reprintSign: "",
+        secureScore: '100',
+        sGrade: '1',
+        editor:'',
+        hideAd:'',
+        keywords: "[雅克·埃尔布朗, 古代, 定理, 人工智能, 中国, 数学, 领域, 库尔特·哥德尔, 研究, 吴文俊, 王湘浩, 定理, 数学, 吉林大学, 吴文俊]",
+        mpNewsExt:{
+            "modelId":""
+        },
+        imgsList: [
+                                             {
+                    "url" : "https://p2.itc.cn/q_70/images03/20230905/b49e665925c54d818eed67d59d923d9a.png",
+                    "width" : "814",
+                    "height" : "458",
+                }
+                                                , {
+                    "url" : "https://p4.itc.cn/q_70/images03/20230905/0344290f062b49bbbc5a3c69dea55e49.png",
+                    "width" : "270",
+                    "height" : "368",
+                }
+                                                , {
+                    "url" : "https://p5.itc.cn/q_70/images03/20230905/d3b135dd76ea4826869da03e96a18233.png",
+                    "width" : "581",
+                    "height" : "593",
+                }
+                                                , {
+                    "url" : "https://p9.itc.cn/q_70/images03/20230905/7a910b5396b940f38794dfcbb962e578.png",
+                    "width" : "620",
+                    "height" : "477",
+                }
+                                                , {
+                    "url" : "https://p2.itc.cn/q_70/images03/20230905/5a57b46cf56d4e819e8ced811d809e42.png",
+                    "width" : "816",
+                    "height" : "329",
+                }
+                                                , {
+                    "url" : "https://p7.itc.cn/q_70/images03/20230905/50d0f723297844b1862ecec52cf4d412.png",
+                    "width" : "668",
+                    "height" : "343",
+                }
+                                                , {
+                    "url" : "https://p5.itc.cn/q_70/images03/20230905/d4f7c1ea73824200a828d67915e69f22.png",
+                    "width" : "866",
+                    "height" : "600",
+                }
+                                                , {
+                    "url" : "https://p5.itc.cn/q_70/images03/20230905/f887dc2dc4d14e2984b69dd8c4f9c984.png",
+                    "width" : "643",
+                    "height" : "352",
+                }
+                                                , {
+                    "url" : "https://p6.itc.cn/q_70/images03/20230905/53c2e7ee59f842299c7a066c5ac55d2f.jpeg",
+                    "width" : "1080",
+                    "height" : "1920",
+                }
+                                        ],
+        topNavigation: [
+                                             {
+                    "url" : "http://news.sohu.com/",
+                    "name" : "新闻",
+                }
+                                                , {
+                    "url" : "http://sports.sohu.com/",
+                    "name" : "体育",
+                }
+                                                , {
+                    "url" : "http://auto.sohu.com/",
+                    "name" : "汽车",
+                }
+                                                , {
+                    "url" : "http://www.focus.cn/",
+                    "name" : "房产",
+                }
+                                                , {
+                    "url" : "http://travel.sohu.com/",
+                    "name" : "旅游",
+                }
+                                                , {
+                    "url" : "http://learning.sohu.com/",
+                    "name" : "教育",
+                }
+                                                , {
+                    "url" : "http://fashion.sohu.com/",
+                    "name" : "时尚",
+                }
+                                                , {
+                    "url" : "http://it.sohu.com/",
+                    "name" : "科技",
+                }
+                                                , {
+                    "url" : "http://business.sohu.com/",
+                    "name" : "财经",
+                }
+                                                , {
+                    "url" : "http://yule.sohu.com/",
+                    "name" : "娱乐",
+                }
+                                                , {
+                    "url" : "http://baobao.sohu.com/",
+                    "name" : "母婴",
+                }
+                                                , {
+                    "url" : "https://healthnews.sohu.com/",
+                    "name" : "健康",
+                }
+                                                , {
+                    "url" : "http://history.sohu.com/",
+                    "name" : "历史",
+                }
+                                                , {
+                    "url" : "http://mil.sohu.com/",
+                    "name" : "军事",
+                }
+                                                , {
+                    "url" : "http://chihe.sohu.com/",
+                    "name" : "美食",
+                }
+                                                , {
+                    "url" : "http://cul.sohu.com/",
+                    "name" : "文化",
+                }
+                                                , {
+                    "url" : "http://astro.sohu.com/",
+                    "name" : "星座",
+                }
+                                                , {
+                    "url" : "https://www.sohu.com/xchannel/TURBd01EQXhPVGt5",
+                    "name" : "专题",
+                }
+                                                , {
+                    "url" : "http://game.sohu.com/",
+                    "name" : "游戏",
+                }
+                                                , {
+                    "url" : "http://fun.sohu.com/",
+                    "name" : "搞笑",
+                }
+                                                , {
+                    "url" : "http://acg.sohu.com/",
+                    "name" : "动漫",
+                }
+                                                , {
+                    "url" : "http://pets.sohu.com/",
+                    "name" : "宠物",
+                }
+                                        ],
+    });
+}
+catch(e){
+    var html = '<div class="err-js">' +
+                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
+                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
+                '><em class="icon-cached"></em>刷新</a></div>';
+    $(document.body).prepend(html);
+    console.error("发生错误",e);
+}
+</script>
+<!-- 文章安全分低于等于10分不执行seo优化 -->
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>
+        <!-- 头条SEO上报JS -->
+        <script>
+            (function(){
+                var el = document.createElement("script");
+                el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42";
+                el.id = "ttzz";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(el, s);
+            })(window)
+        </script>
+    
+</body></html>

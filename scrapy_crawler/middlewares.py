@@ -128,6 +128,8 @@ class SplashProxyMiddleware:
         self.index = 0  # 轮询计数器
     @classmethod
     def from_crawler(cls, crawler):
+        spider = crawler.spider
+        spider.logger.info("SplashProxyMiddleware initialized")
         return cls(splash_urls=crawler.settings.get('SPLASH_URLS'))
 
     def process_request(self, request, spider):
@@ -140,6 +142,9 @@ class SplashProxyMiddleware:
             # 获取当前的 Splash URL 并更新 index
             splash_url = self.splash_urls[self.index]
             self.index = (self.index + 1) % len(self.splash_urls)  # 更新 index 实现轮询
+
+            # 添加日志输出以确认轮询
+            spider.logger.info(f'Using Splash URL: {splash_url}')
 
             # 设置该请求的 Splash 服务端点
             request.meta['splash']['splash_url'] = splash_url

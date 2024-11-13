@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "gvm_csrf_cookie_name=455d05f8c138ceaef16bdc7ad1390a87; ci_session=p40jielm33o335frspsjmmt3m1aj8atp; HaveRead=46062; had_show_article_favorite_login_alert=Y",
+        "Referer": "https://www.gvm.com.tw/article/46062",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.gvm.com.tw/article/46062",
+    "wait": 6
+}

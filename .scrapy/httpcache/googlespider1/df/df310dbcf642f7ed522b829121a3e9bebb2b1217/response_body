@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>人工智能如何应用在各行业领域? - 行业动态_人工智能 - 企业网D1Net - 企业IT 第1门户</title>
+	<meta name="keywords" content="人工智能">
+	<meta name="description" content="人工智能程序可以分析更多数据集，并更准确地创建预计的结果。它们可以有效地从先前预测的成功和失败中吸取教训，并不断改进自己的表现。">
+	<link rel="stylesheet" href="//www.d1net.com/statics/index/2024/css/swiper-bundle.min.css" />
+	<link rel="stylesheet" href="//www.d1net.com/statics/index/2024/css/limarquee.css">
+	<link rel="stylesheet" href="//www.d1net.com/statics/index/2024/css/reset.css">
+	<link rel="stylesheet" href="//www.d1net.com/statics/index/2024/css/common.css">
+	<link rel="stylesheet" href="//www.d1net.com/statics/index/2024/css/article.css">
+</head>
+<body>
+	<link rel="stylesheet" href="//www.d1net.com/statics/index/2024/css/header.css">
+	<div class="header">
+		<!-- 头部 -->
+		<div class="top_con">
+			<div class="top_header w-r h100">
+				<div class="header_left">
+					<p class="qyw_logo"><a href="//www.d1net.com/" title="企业网D1Net"><img src="//www.d1net.com/statics/index/2024/images/D1Net.png"></a></p>
+				</div>
+				<div class="header_right">
+					<div class="header_nav">
+						<p><a href="http://www.cioall.com" target="_blank" title="信众智-CIO社交平台">信众智-CIO社交平台</a></p>
+						<p><a href="https://www.d1edu.com" target="_blank" title="第1培训-企业数字化培训平台">第1培训-企业数字化培训平台</a></p>
+					</div>
+					<div class="header_search">
+						<div class="search_input">
+							<input type="text" id="search_q" url="//www.d1net.com/index.php?m=search&c=index&a=init&siteid=1&q=" placeholder="请输入想要搜索的内容">
+							<a class="search_img" onclick="search_btn();"><img src="//www.d1net.com/statics/index/2024/images/search_icon.png"></a>
+						</div>
+						<script type="text/javascript">
+							function search_btn()
+							{
+								const search_q = document.getElementById('search_q').value;
+								const search_url = document.getElementById('search_q').getAttribute('url');
+								if(search_q == ''){
+									alert('请输入想要搜索的内容');return false;
+								}
+								// location .href=search_url+search_q
+								window.open(search_url+search_q, '_blank');
+							}
+						</script>
+						<div class="ewm_con posr">
+							<img src="//www.d1net.com/statics/index/2024/images/ewm_icon.png" class="ewm_icon cur-p" id="showErWeiMa" title="">
+							<span class="wx_img posa" id="erweima">
+								<img src="//www.d1net.com/statics/images/channel/guanfangweixinerweima.jpg" alt="企业网D1Net微信公众号" width="110" height="110">
+							</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- 导航 -->
+		<div class="nav_con w-r">
+			<ul class="nav_box">
+																								<li class="nav_list">
+					<a href="//www.d1net.com/cio/" title="CIO" target="_blank">CIO<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/cio/cionews/" title="新闻中心" target="_blank">新闻中心</a></li>
+																		<li><a href="//www.d1net.com/cio/ciotech/" title="技术探讨" target="_blank">技术探讨</a></li>
+																		<li><a href="//www.d1net.com/cio/interview/" title="人物访谈" target="_blank">人物访谈</a></li>
+																		<li><a href="//www.d1net.com/cio/ciounion/" title="CIO联盟" target="_blank">CIO联盟</a></li>
+											</ul>
+				</li>
+												<li class="nav_list nav_on">
+					<a href="//www.d1net.com/ai/" title="人工智能" target="_blank">人工智能<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/ai/industry/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/ai/appcase/" title="应用案例" target="_blank">应用案例</a></li>
+																		<li><a href="//www.d1net.com/ai/technology/" title="技术专区" target="_blank">技术专区</a></li>
+																		<li><a href="//www.d1net.com/ai/expert/" title="专家观点" target="_blank">专家观点</a></li>
+																		<li><a href="//www.d1net.com/ai/vendors/" title="企业动态" target="_blank">企业动态</a></li>
+																	</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/bigdata/" title="大数据" target="_blank">大数据<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/bigdata/news/" title="业界动态" target="_blank">业界动态</a></li>
+																		<li><a href="//www.d1net.com/bigdata/analysis/" title="数据分析" target="_blank">数据分析</a></li>
+																		<li><a href="//www.d1net.com/bigdata/platform/" title="数据治理" target="_blank">数据治理</a></li>
+																		<li><a href="//www.d1net.com/bigdata/database/" title="数据库" target="_blank">数据库</a></li>
+																																			</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/digital/" title="数字化转型" target="_blank">数字化转型<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/digital/case/" title="应用案例" target="_blank">应用案例</a></li>
+																		<li><a href="//www.d1net.com/digital/dgnews/" title="新闻中心" target="_blank">新闻中心</a></li>
+																		<li><a href="//www.d1net.com/digital/method/" title="方法论" target="_blank">方法论</a></li>
+																		<li><a href="//www.d1net.com/digital/iv/" title="高端访谈" target="_blank">高端访谈</a></li>
+																		<li><a href="//www.d1net.com/digital/tech/" title="技术探讨" target="_blank">技术探讨</a></li>
+																	</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/cloud/" title="云计算" target="_blank">云计算<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/cloud/news/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/cloud/cases/" title="应用案例" target="_blank">应用案例</a></li>
+																		<li><a href="//www.d1net.com/cloud/tech/" title="技术专区" target="_blank">技术专区</a></li>
+																		<li><a href="//www.d1net.com/cloud/security/" title="云安全" target="_blank">云安全</a></li>
+																		<li><a href="//www.d1net.com/cloud/vendors/" title="企业动态" target="_blank">企业动态</a></li>
+																																															</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/security/" title="安全" target="_blank">安全<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/security/news/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/security/case/" title="应用案例" target="_blank">应用案例</a></li>
+																		<li><a href="//www.d1net.com/security/tech/" title="技术专区" target="_blank">技术专区</a></li>
+																		<li><a href="//www.d1net.com/security/vendor/" title="企业动态" target="_blank">企业动态</a></li>
+																																																																	</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/server/" title="服务器" target="_blank">服务器<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/server/news/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/server/tech/" title="技术专区" target="_blank">技术专区</a></li>
+																		<li><a href="//www.d1net.com/server/vendor/" title="企业动态" target="_blank">企业动态</a></li>
+																																									</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/storage/" title="存储" target="_blank">存储<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/storage/news/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/storage/technology/" title="技术专区" target="_blank">技术专区</a></li>
+																		<li><a href="//www.d1net.com/storage/enterprise/" title="企业动态" target="_blank">企业动态</a></li>
+																	</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/uc/" title="协作办公" target="_blank">协作办公<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/uc/collabration/" title="协作" target="_blank">协作</a></li>
+																		<li><a href="//www.d1net.com/uc/office/" title="办公" target="_blank">办公</a></li>
+																		<li><a href="//www.d1net.com/uc/news/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/uc/company/" title="企业动态" target="_blank">企业动态</a></li>
+																																			</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/software/" title="软件" target="_blank">软件<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/software/news/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/software/tech/" title="技术专区" target="_blank">技术专区</a></li>
+																		<li><a href="//www.d1net.com/software/vendor/" title="厂商动态" target="_blank">厂商动态</a></li>
+																																																																	</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/datacenter/" title="数据中心" target="_blank">数据中心<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/datacenter/news/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/datacenter/tech/" title="技术专区" target="_blank">技术专区</a></li>
+																		<li><a href="//www.d1net.com/datacenter/cooling/" title="绿色低碳" target="_blank">绿色低碳</a></li>
+																		<li><a href="//www.d1net.com/datacenter/vender/" title="企业动态" target="_blank">企业动态</a></li>
+																																																											</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/data/" title="网络" target="_blank">网络<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/data/news/" title="行业动态" target="_blank">行业动态</a></li>
+																		<li><a href="//www.d1net.com/data/tech/" title="技术专区" target="_blank">技术专区</a></li>
+																		<li><a href="//www.d1net.com/data/vendor/" title="企业动态" target="_blank">企业动态</a></li>
+																																			</ul>
+				</li>
+												<li class="nav_list">
+					<a href="//www.d1net.com/iot/" title="物联网" target="_blank">物联网<img src="//www.d1net.com/statics/index/2024/images/nav_down.png"></a>
+					<ul class="nav_list_box">
+																		<li><a href="//www.d1net.com/iot/market/" title="市场动态" target="_blank">市场动态</a></li>
+																		<li><a href="//www.d1net.com/iot/vendor/" title="企业动态" target="_blank">企业动态</a></li>
+																																																																	</ul>
+				</li>
+												<li class="nav_list nav_last">
+					<a href="javascript:;"><img src="//www.d1net.com/statics/index/2024/images/more_nav.png"></a>
+					<ul class="nav_last_box">
+																																																																																																						<li class=""><a href="//www.d1net.com/blockchain/" title="区块链" target="_blank" title="区块链">区块链</a></li>
+																		<li class=""><a href="//www.d1net.com/meta/" title="元宇宙" target="_blank" title="元宇宙">元宇宙</a></li>
+																		<li class=""><a href="//www.d1net.com/vc/" title="视频会议/网络会议" target="_blank" title="视频会议/网络会议">视频会议</a></li>
+																		<li class=""><a href="//www.d1net.com/chip/" title="芯片" target="_blank" title="芯片">芯片</a></li>
+																		<li class=""><a href="//www.d1net.com/scity/" title="智慧城市" target="_blank" title="智慧城市">智慧城市</a></li>
+																		<li class=""><a href="//www.d1net.com/tech/" title="创新技术" target="_blank" title="创新技术">创新技术</a></li>
+																		<li class=""><a href="//www.d1net.com/news/" title="资讯" target="_blank" title="资讯">资讯</a></li>
+																							</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+	<script type="text/javascript" src="//www.d1net.com/statics/js/jquery.min.js"></script>
+	<script type="text/javascript" src="//www.d1net.com/statics/index/2024/js/qrcode.min.js"></script>
+	<!-- <p class="goTop cur-p" title="返回顶部"><img src="//www.d1net.com/statics/index/2024/images/top.png"></p> -->
+	<div class="k_fixed">
+		<p class="weixin"><img src="//www.d1net.com/statics/index/2024/images/weixin1.png"></p>
+		<span id="wxcode"></span>
+		<p class="goTop cur-p" title="返回顶部"><img src="//www.d1net.com/statics/index/2024/images/top1.png"></p>
+	</div>
+	<style type="text/css">
+		.k_fixed .weixin{display: none;}
+		.k_fixed .goTop{border: 1px solid var(--active-color);}
+	</style>
+	<div class="w-r">
+		<!-- 通屏广告 -->
+		<div class="ad_box articleAdBox" style="margin:10px auto;">
+			<!-- <a href=""><img src="//www.d1net.com/statics/index/2024/images/ad.png"></a> -->
+		</div>
+		<!-- 面包屑导航 -->
+		<ul class="breadcrumb mt30">
+			<li>
+				<a href="//www.d1net.com/ai/" title="人工智能">人工智能</a>
+				<img src="//www.d1net.com/statics/index/2024/images/nav_down_active.png" class="rotedimg">
+			</li>
+			<li>
+				<a href="//www.d1net.com/ai/industry/" title="行业动态">行业动态</a>
+				<img src="//www.d1net.com/statics/index/2024/images/crumb_icon.png">
+			</li>
+			<li>正文</li>
+		</ul>
+		<div class="section3_con">
+			<div class="section3_left posr">
+				<div class="art_top">
+					<h2 class="art_title">人工智能如何应用在各行业领域? </h2>
+					<div class="art_info">
+						<div class="ainfo_left">
+							<p>责任编辑：cres</p>							<p>作者：HERO编译</p>							<p>2021-06-15 13:07:57</p>
+						</div>
+						<div class="ainfo_right">
+																								<p>来源：企业网D1Net</p><span>原创</span>
+																					</div>
+					</div>
+					<p class="precis">人工智能程序可以分析更多数据集，并更准确地创建预计的结果。它们可以有效地从先前预测的成功和失败中吸取教训，并不断改进自己的表现。</p>				</div>
+				<div class="article_con">
+					<div class="text">
+						<style type="text/css">
+							p#qiye a:link,
+							p#qiye a:visited {text-decoration: none;}
+							/*.text img {max-width: 630px;}*/
+						</style>
+						&ldquo;人工智能&rdquo;这一术语通常用来描述任何能够独立做出复杂而智能决策的机器，这与能够模仿或重复人类决策的机器有所不同，但这是一个经常被误用的术语。自从艾伦&middot;图灵在上世纪40年代为计算机的智能提出了著名的&ldquo;图灵测试&rdquo;理念以来，人工智能技术的应用已经成为现实。而性能更强大的计算机能够即时评估越来越多的数据，这使得编写&ldquo;狭义&rdquo;人工智能算法成为可能。这些算法已经具备了智能推理的能力，但只是针对一种预先确定的任务。狭义人工智能在各行业领域中有许多应用，以下将介绍其中的一些。
+<div>&nbsp;</div>
+<div><strong>采用人工智能的机器或算法必须能够满足如下标准：</strong></div>
+<div>&nbsp;</div>
+<div>(1)推理</div>
+<div>&nbsp;</div>
+<div>能够使用理性推断或归纳出真理。分析过去的数据和社会或自然范例以积极做出明智的决策是人工智能的关键标准。</div>
+<div>&nbsp;</div>
+<div>(2)感知</div>
+<div>&nbsp;</div>
+<div>人类和动物通过使用感觉器官感知和探索并理解世界。人类大脑可以评估看到、听到、触摸或闻到的信息。人工智能必须能够感知数据：无论是由定量数据、视觉数据、音频数据还是其他任何数据。</div>
+<div>&nbsp;</div>
+<div>(3)语言</div>
+<div>&nbsp;</div>
+<div>虽然机器通常可以模仿人类的语言，但它不被认为是智能的。为了实现真正的智能，机器必须能够使用生产性语言。生产性语言涉及使用推断的含义和已知范例来创建句子，而不仅仅是从数据库中搜索合适的词语。计算机中生产语言的主要测试被称为图灵测试。艾伦&middot;图灵是现代计算机之父之一，他设计了一项测试，旨在确定计算机是否可以智能地使用语言。如果计算机在5分钟的键盘对话中， 30%的时间以上让对方误认为是人类，那么就成功通过了图灵测试。</div>
+<div>&nbsp;</div>
+<div>(4)学习</div>
+<div>&nbsp;</div>
+<div>学习是智能的重要标志。人工智能的机器或算法可以在没有任何人工输入的情况下接收数据、分析数据并改进其自身的功能。从理论上来说，机器学习计算机可以通过不断审核数据和性能，比人类更容易识别改进领域。它还可以从外部数据集学习，这在业务应用程序中非常有用。</div>
+<div>&nbsp;</div>
+<div>那么，人工智能在各行业领域的应用是什么?可以了解一些典型的例子。而人工智能是最活跃和最吸引人的研究领域之一。</div>
+<div>&nbsp;</div>
+<div>(1)商业智能</div>
+<div>&nbsp;</div>
+<div>商业智能可以为企业分析和收集数据以制定战略。人工智能在这一领域绝对具有革命性。人工智能程序可以做出非常准确的预测见解。而在商业智能的术语中，预测洞察本质上是市场预测。传统上，这些是由人类实施的，他们分析数据并绘制出预测路线图。人工智能程序可以分析更多数据集，并更准确地创建预计的结果。它们可以有效地从先前预测的成功和失败中吸取教训，并不断改进自己的表现。</div>
+<div>&nbsp;</div>
+<div>(2)运输和库存自动化</div>
+<div>&nbsp;</div>
+<div>人工智能技术在运输和库存自动化行业发挥重要作用。通过对分析采购数据和库存的应用程序进行编程，以便自动订购新商品，可以解决运输积压和库存短缺问题，企业可以通过这种方式避免库存过多或库存不足，并且不会错过发货期限，从而节省大量费用。</div>
+<div>&nbsp;</div>
+<div>(3)客户服务</div>
+<div>&nbsp;</div>
+<div>人工智能已被证明在在线客户服务中很有用。智能聊天机器人能够为客户提供即时建议。随着时间的推移，这些机器人提供的服务会变得更好，因为它们会学习更多的社交线索并开发智能协议。目前，这些机器人程序的应用范围通常很窄：如果问题看起来很复杂，它们往往会将问题提交给工作人员。然而在未来，通过图灵测试的人工智能聊天机器人将无法与人类区分开来。这对企业有着明显的经济效益，他们可以将员工重新分配到更具生产力的任务中。</div>
+<div>&nbsp;</div>
+<div>(4)市场营销</div>
+<div>&nbsp;</div>
+<div>市场营销行业中的人工智能主要用于洞察目标受众，而在人工智能兴起之前，这种洞察是非常耗时的，而市场调查是任何营销活动的重要组成部分。人工智能搜索大型数据集，以产生更准确、更具洞察力的客户资料。这样就可以创建有针对性的广告，并为投资于营销活动的企业带来更可预测和更丰厚的回报。</div>
+<div>&nbsp;</div>
+<div>(5)制造业</div>
+<div>&nbsp;</div>
+<div>虽然机器人技术已经在制造业中应用多年，但人工智能才刚刚开始进入这一领域。人工智能程序可以从错误中吸取教训，并识别制造项目中的任何结构缺陷。这是一个特别重要的因素，在创造敏感和高度精确的项目，如卫星和计算机组件。投资人工智能的制造商可以放心，因为他们知道生产线上的质量审核过程是智能的，而且都是准确的。</div>
+<div>&nbsp;</div>
+<div>当然在某些情况下，没有什么设备能够取代人类。人类将始终在制造业中发挥主导作用，即使它主要围绕人工智能设备的维护。需要注意的是，本文提到的人工智能应用程序都无法完全取代人类，人工智能的应用范围仍然很狭窄。</div>
+<div>&nbsp;</div>
+<div><strong>版权声明：</strong>本文为企业网D1Net编译，转载需注明出处为：企业网D1Net，如果不注明出处，企业网D1Net将保留追究其法律责任的权利。</div>
+					</div>
+				</div>
+				<div class="art_keyword">
+										<a href="//www.d1net.com/index.php?m=content&c=tag&tag=690" title="人工智能">人工智能</a>
+									</div>
+				<!-- 右侧分享 -->
+				<div class="art_share">
+					<div class="share_con">
+						<p class="wx_share" title=""><img src="//www.d1net.com/statics/index/2024/images/wx.png"></p>
+						<span id="qrcode"></span>
+						<p class="shareToqq" title="分享到QQ"><img src="//www.d1net.com/statics/index/2024/images/qq.png"></p>
+						<p class="copylink" title="复制链接"><img src="//www.d1net.com/statics/index/2024/images/link.png"></p>
+					</div>
+					<div class="zan_con">
+						<p class="zan likes_btn" title="点赞" onclick="toggleLikesMode(this)"><img src="//www.d1net.com/statics/index/2024/images/zan.png"></p>
+					</div>
+				</div>
+				<input type="hidden" name="shareLink" id="shareLink" value="https://www.d1net.com/ai/industry/570608.html">
+				<input type="hidden" name="shareTitle" id="shareTitle" value="人工智能如何应用在各行业领域?">
+				<input type="hidden" name="shareDesc" id="shareDesc" value="人工智能程序可以分析更多数据集，并更准确地创建预计的结果。它们可以有效地从先前预测的成功和失败中吸取教训，并不断改进自己的表现。">
+				<input type="hidden" name="shareImgUrl" id="shareImgUrl" value="https://www.d1net.com/uploadfile/2021/0615/20210615010821167.jpg">
+				<input type="hidden" name="articleId" id="articleId" value="570608">
+				<input type="hidden" name="catid" id="catid" value="903">
+			</div>
+			<div class="section3_right">
+				<div class="ad_box articleAdBox" style="margin:0 auto 30px;">
+					<!-- <a href=""><img src="//www.d1net.com/statics/index/2024/images/ad.png" style="height: 100px;"></a> -->
+				</div>
+				<!-- CIO活动 -->
+					<div class="cio_active">
+		<a href="http://event.d1net.com/" target="_blank"><img src="//www.d1net.com/statics/index/2024/images/activity_title.png" class="activity_title"></a>
+		<div class="active_con">
+			<div class="dowebok"></div>	
+		</div>
+	</div>
+	<script type="text/javascript" src="//www.d1net.com/statics/index/2024/js/cio_active.js"></script>				<div class="right_swiper mt30">
+					<div class="tits">
+						<p><a href="//www.d1net.com/s/" target="_blank" title="热门专题">热门专题</a></p>
+					</div>
+					<div class="rswiper_con posr">
+						<div class="rzt_swiper swiper">
+							<div class="swiper-wrapper">
+																								<div class="rswiper_slide swiper-slide">
+									<a target="_blank" href="//www.d1net.com/s/philips/" title="飞利浦商用显示器:智能科技助力高效工作">
+										<img src="//www.d1net.com/statics/images/special/210/cover210.jpg">
+										<div class="rswiper_txt">
+											<p>飞利浦商用显示器:智能科技助力高效工作</p>
+											<span class="txt-more-ellipsis">智能科技助力高效工作</span>
+										</div>
+									</a>
+								</div>
+																<div class="rswiper_slide swiper-slide">
+									<a target="_blank" href="//www.d1net.com/s/ch/" title="破内卷“出海”势在必行 数字化为全球业务保驾护航">
+										<img src="//www.d1net.com/statics/images/special/209/cover209.jpg">
+										<div class="rswiper_txt">
+											<p>破内卷“出海”势在必行 数字化为全球业务保驾护航</p>
+											<span class="txt-more-ellipsis">破内卷“出海”势在必行，数字化为全球业务保驾护航</span>
+										</div>
+									</a>
+								</div>
+																<div class="rswiper_slide swiper-slide">
+									<a target="_blank" href="//www.d1net.com/s/intel2023/" title="边缘创新 数智向实">
+										<img src="//www.d1net.com/statics/images/special/207/cover207.jpg">
+										<div class="rswiper_txt">
+											<p>边缘创新 数智向实</p>
+											<span class="txt-more-ellipsis">2023英特尔智能边缘行业应用巡展·智慧协同站</span>
+										</div>
+									</a>
+								</div>
+																							</div>
+						</div>
+						<p class="swiper_rbtn zt_srbtn"><img src="//www.d1net.com/statics/index/2024/images/sright.png"></p>
+						<p class="swiper_lbtn zt_slbtn"><img src="//www.d1net.com/statics/index/2024/images/sleft.png"></p>
+					</div>
+				</div>
+				<div class="right_swiper mt30">
+					<div class="tits">
+						<p><a href="//www.d1net.com/iv/" target="_blank" title="高端访谈">高端访谈</a></p>
+					</div>
+					<div class="rswiper_con posr">
+						<div class="rft_swiper swiper">
+							<div class="swiper-wrapper">
+																								<div class="rswiper_slide swiper-slide">
+									<a target="_blank" href="//www.d1net.com/cio/interview/576711.html" title="国药国际CIO冯伟：数字化转型要打破信息化建系统的固有思维">
+										<img src="//www.d1net.com/uploadfile/2022/1130/thumb_260_146_20221130010730928.jpg">
+										<div class="rswiper_txt">
+											<p>国药国际CIO冯伟：数字化转型要打破信息化建系统的固有思维</p>
+											<span class="txt-more-ellipsis">中国国际医药卫生有限公司数智化中心总经理冯伟在接受企业网D1Net专访时提到：“回过头来看，数智化建设最难的是转思维，必须打破信息化总想去建系统的固有思维，要以平台化思维、站在运营和业务的角度思考问题。思维转变后，很多问题将迎刃而解。”</span>
+										</div>
+									</a>
+								</div>
+																<div class="rswiper_slide swiper-slide">
+									<a target="_blank" href="//www.d1net.com/cio/interview/576206.html" title="创维集团信息总监宁江：数据治理是数字化转型的必由之路">
+										<img src="//www.d1net.com/uploadfile/2022/1019/thumb_260_146_20221019121445277.jpg">
+										<div class="rswiper_txt">
+											<p>创维集团信息总监宁江：数据治理是数字化转型的必由之路</p>
+											<span class="txt-more-ellipsis">创维集团信息总监宁江在接受企业网D1Net采访时提到：“如今，站在数字化转型的全局之下回顾过去几十年的信息化建设，似乎建了很多烟囱，系统之间、流程之间不能共享数据，孤岛林立。不同时期有不同时期的特征，都有其合理性和必要性，如今再来解决这些问题为时未晚。</span>
+										</div>
+									</a>
+								</div>
+																<div class="rswiper_slide swiper-slide">
+									<a target="_blank" href="//www.d1net.com/cio/interview/574509.html" title="海尔智家技术总监高丽：云原生加速企业数字化转型">
+										<img src="//www.d1net.com/uploadfile/2022/0428/thumb_260_146_20220428094643175.png">
+										<div class="rswiper_txt">
+											<p>海尔智家技术总监高丽：云原生加速企业数字化转型</p>
+											<span class="txt-more-ellipsis">海尔智家全球数字化平台用到了哪些云原生技术产品?如何实现降本增效?在云原生技术应用方面有哪些实践和探索?云原生技术发挥了哪些价值?在本期“云原生降本增效大咖说”中，企业网D1Net采访了海尔智家全球数字化平台技术总监高丽。</span>
+										</div>
+									</a>
+								</div>
+																							</div>
+						</div>
+						<p class="swiper_rbtn ft_srbtn"><img src="//www.d1net.com/statics/index/2024/images/sright.png"></p>
+						<p class="swiper_lbtn ft_slbtn"><img src="//www.d1net.com/statics/index/2024/images/sleft.png"></p>
+					</div>
+				</div>
+				<div class="hot_art_con mt30">
+					<div class="tits">
+						<p>热文推荐</p>
+					</div>
+					<ul class="rewen_list hot_article">
+																		<li>
+							<a href="//www.d1net.com/ai/industry/582373.html" title="投资AI营销技术？回报最高的3个领域" class="rw_tit">投资AI营销技术？回报最高的3个领域</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582377.html" title="2025年各大公司将转变AI目标，但难免会遭遇挫折" class="rw_tit">2025年各大公司将转变AI目标，但难免会遭遇挫折</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582383.html" title="企业对AI模型的判断：开源为何会胜出" class="rw_tit">企业对AI模型的判断：开源为何会胜出</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582392.html" title="关于OpenAI疯狂财务状况的4个真相" class="rw_tit">关于OpenAI疯狂财务状况的4个真相</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582405.html" title="企业AI从“实验”走向“必要”，支出增长130%" class="rw_tit">企业AI从“实验”走向“必要”，支出增长130%</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582426.html" title="现在是投资实施Agentic AI的最佳时机吗？" class="rw_tit">现在是投资实施Agentic AI的最佳时机吗？</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582430.html" title="AI伦理危机曝光：科技操纵与道德底线失守" class="rw_tit">AI伦理危机曝光：科技操纵与道德底线失守</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582432.html" title="为什么多智能体能够解决LLM无法解决的复杂问题" class="rw_tit">为什么多智能体能够解决LLM无法解决的复杂问题</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582434.html" title="机器人互操作性在仓库中的作用" class="rw_tit">机器人互操作性在仓库中的作用</a>
+						</li>
+												<li>
+							<a href="//www.d1net.com/ai/industry/582444.html" title="如何三步落地企业AI应用？开源+“小模型”方式破解AI落地难题" class="rw_tit">如何三步落地企业AI应用？开源+“小模型”方式破解AI落地难题</a>
+						</li>
+																	</ul>
+				</div>
+				<!-- 相关文章 -->
+				<div class="related_articles mt30">
+					<div class="tits">
+						<p>相关文章</p>
+					</div>
+					<ul class="related_ul">
+																		<li><a href="//www.d1net.com/cio/ciounion/570570.html" title="问道青城山——2021全国CIO大会圆满收官">问道青城山——2021全国CIO大会圆满收官</a></li>
+												<li><a href="//www.d1net.com/cloud/news/570579.html" title="D1net阅闻：国家网信办：加大对区块链平台及衍生平台应用的监测力度">D1net阅闻：国家网信办：加大对区块链平台及衍生平台应用的监测力度</a></li>
+												<li><a href="//www.d1net.com/cio/ciotech/570580.html" title="医疗保健中的人工智能应用">医疗保健中的人工智能应用</a></li>
+												<li><a href="//www.d1net.com/cloud/news/570604.html" title="D1net阅闻：蚂蚁集团首席AI科学家首次公布蚂蚁“可信AI”架构体系">D1net阅闻：蚂蚁集团首席AI科学家首次公布蚂蚁“可信AI”架构体系</a></li>
+																	</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<p class="message">链接已复制，快去分享吧</p>
+
+	<link rel="stylesheet" href="//www.d1net.com/statics/index/2024/css/bottom.css">
+	<div class="footer">
+		<div class="w-r fot_con">
+			<div class="footer_left">
+				<h2>业务服务</h2>
+				<img src="//www.d1net.com/statics/index/2024/images/bot_img.png">
+				<div class="footer_nav">
+					<a href="//www.d1net.com/aboutus/aboutus/" target="_blank" title="关于我们">关于我们</a>
+					<a href="//www.d1net.com/aboutus/contact/" target="_blank" title="联系我们">联系我们</a>
+					<a href="//www.d1net.com/aboutus/privacy/" target="_blank" title="隐私条款">隐私条款</a>
+					<a href="//www.d1net.com/aboutus/hr/" target="_blank" title="招贤纳士">招贤纳士</a>
+				</div>
+			</div>
+			<p class="line"></p>
+			<div class="footer_right">
+				<div class="mb20">
+					<h2>网站地图</h2>
+					<div class="footer_link">
+						<a href="//www.d1net.com/" title="企业网D1Net" target="_blank">企业网D1Net</a>
+						<a href="http://www.cioall.com" title="信众智-CIO社交平台" target="_blank">信众智-CIO社交平台</a>
+						<a href="https://www.d1edu.com" title="第1培训" target="_blank">第1培训</a>
+						<a href="http://event.d1net.com/" title="会展活动" target="_blank">会展活动</a>
+																								<a href="//www.d1net.com/cio/" title="CIO" target="_blank">CIO</a>
+																		<a href="//www.d1net.com/ai/" title="人工智能" target="_blank">人工智能</a>
+																		<a href="//www.d1net.com/bigdata/" title="大数据" target="_blank">大数据</a>
+																		<a href="//www.d1net.com/digital/" title="数字化转型" target="_blank">数字化转型</a>
+																		<a href="//www.d1net.com/cloud/" title="云计算" target="_blank">云计算</a>
+																		<a href="//www.d1net.com/security/" title="安全" target="_blank">安全</a>
+																		<a href="//www.d1net.com/server/" title="服务器" target="_blank">服务器</a>
+																		<a href="//www.d1net.com/storage/" title="存储" target="_blank">存储</a>
+																		<a href="//www.d1net.com/uc/" title="协作办公" target="_blank">协作办公</a>
+																		<a href="//www.d1net.com/software/" title="软件" target="_blank">软件</a>
+																		<a href="//www.d1net.com/datacenter/" title="数据中心" target="_blank">数据中心</a>
+																		<a href="//www.d1net.com/data/" title="网络" target="_blank">网络</a>
+																		<a href="//www.d1net.com/iot/" title="物联网" target="_blank">物联网</a>
+																		<a href="//www.d1net.com/blockchain/" title="区块链" target="_blank">区块链</a>
+																		<a href="//www.d1net.com/meta/" title="元宇宙" target="_blank">元宇宙</a>
+																		<a href="//www.d1net.com/vc/" title="视频会议/网络会议" target="_blank">视频会议</a>
+																		<a href="//www.d1net.com/chip/" title="芯片" target="_blank">芯片</a>
+																		<a href="//www.d1net.com/scity/" title="智慧城市" target="_blank">智慧城市</a>
+																		<a href="//www.d1net.com/tech/" title="创新技术" target="_blank">创新技术</a>
+																		<a href="//www.d1net.com/news/" title="资讯" target="_blank">资讯</a>
+																							</div>
+				</div>
+				<div class="mb20">
+					<h2>友情链接</h2>
+					<div class="footer_link">
+						<a target="_blank" href="http://www.tele.hczyw.com/">慧聪通信</a>
+						<a target="_blank" href="http://www.cww.net.cn/">通信世界网</a>
+						<a target="_blank" href="http://www.c114.com.cn/">C114通信网</a>
+						<a target="_blank" href="http://www.jifang360.com/">机房360</a>
+						<a target="_blank" href="http://www.rfidworld.com.cn/">RFID世界</a>
+						<a target="_blank" href="http://www.iotworld.com.cn/">物联网世界</a>
+						<a target="_blank" href="http://www.ciotimes.com/">CIO时代</a>
+						<a target="_blank" href="http://www.ck365.cn/">中国测控</a>
+						<a target="_blank" href="http://www.echinagov.com/">国脉电子政务网</a>
+						<a target="_blank" href="https://www.faanw.com/">法安网</a>
+						<a target="_blank" href="https://www.51cto.com/">51CTO</a>
+						<a target="_blank" href="http://www.yunxihuixiang.com/">云栖网</a>
+						<a target="_blank" href="https://www.enicn.com/">ENI经济和信息化网</a>
+						<a target="_blank" href="https://www.e-works.net.cn/">e-works数字化企业网</a>
+						<a target="_blank" href="https://www.volcengine.com/">火山引擎</a>
+					</div>
+				</div>
+				<h2>合作伙伴</h2>
+				<div class="hz_con">
+					<div class="swiper mySwiper">
+						<div class="swiper-wrapper hz_swiper">
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo1.png" title="戴尔科技集团" alt="戴尔科技集团"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo9.png" title="亚马逊云科技" alt="亚马逊云科技"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo2.png" title="腾讯云" alt="腾讯云"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo10.png" title="IBM" alt="IBM"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo3.png" title="腾讯安全" alt="腾讯安全"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo11.png" title="intel" alt="intel"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo4.png" title="腾讯会议" alt="腾讯会议"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo12.png" title="Microsoft" alt="Microsoft"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo5.png" title="联想" alt="联想"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo13.png" title="CISCO" alt="CISCO"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo6.png" title="华为" alt="华为"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo14.png" title="思爱普" alt="思爱普"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo7.png" title="浪潮" alt="浪潮"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo15.png" title="飞书" alt="飞书"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo8.png" title="神州数码" alt="神州数码"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo16.png" title="火山引擎" alt="火山引擎"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo17.png" title="阿里云" alt="阿里云"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo25.png" title="锐捷" alt="锐捷"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo18.png" title="百度智能云" alt="百度智能云"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo26.png" title="轻网科技" alt="轻网科技"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo19.png" title="新华三" alt="新华三"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo27.png" title="MAXHUB" alt="MAXHUB"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo20.png" title="中企通信" alt="中企通信"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo28.png" title="亿联网络" alt="亿联网络"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo21.png" title="AVAYA" alt="AVAYA"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo29.png" title="vmware" alt="vmware"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo22.png" title="hp|poly" alt="hp|poly"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo30.png" title="帆软" alt="帆软"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo23.png" title="中兴" alt="中兴"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo31.png" title="世纪互联" alt="世纪互联"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo24.png" title="深信服科技" alt="深信服科技"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo32.png" title="神州网信" alt="神州网信"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo33.png" title="天翼云" alt="天翼云"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo41.png" title="泛微" alt="泛微"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo34.png" title="炎黄盈动" alt="炎黄盈动"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo42.png" title="ptc" alt="ptc"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo35.png" title="博云" alt="博云"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo43.png" title="罗技" alt="罗技"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo36.png" title="普元" alt="普元"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo44.png" title="杉数科技" alt="杉数科技"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo37.png" title="飞速创软" alt="飞速创软"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo45.png" title="石墨文档" alt="石墨文档"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo38.png" title="影刀RPA" alt="影刀RPA"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo46.png" title="卓豪" alt="卓豪"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo39.png" title="美云智数" alt="美云智数"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo47.png" title="Red Hat" alt="Red Hat"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo40.png" title="销售易" alt="销售易"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo48.png" title="NVIDIA" alt="NVIDIA"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo49.png" title="星网锐捷" alt="星网锐捷"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo57.png" title="好视通" alt="好视通"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo50.png" title="指掌易" alt="指掌易"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo58.png" title="爱数" alt="爱数"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo51.png" title="中科曙光" alt="中科曙光"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo59.png" title="commvault" alt="commvault"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo52.png" title="中新赛克" alt="中新赛克"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo60.png" title="奥哲" alt="奥哲"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo53.png" title="望繁信科技" alt="望繁信科技"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo61.png" title="juniper" alt="juniper"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo54.png" title="容联云" alt="容联云"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo62.png" title="OCEANBASE" alt="OCEANBASE"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo55.png" title="绿盟科技" alt="绿盟科技"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo63.png" title="infor" alt="infor"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo56.png" title="赛意" alt="赛意"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo64.png" title="Informatica" alt="Informatica"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo65.png" title="得帆" alt="得帆"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo73.png" title="上上签" alt="上上签"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo66.png" title="鼎桥" alt="鼎桥"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo74.png" title="灵雀云" alt="灵雀云"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo67.png" title="目睹" alt="目睹"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo75.png" title="科华技术" alt="科华技术"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo68.png" title="UiPath" alt="UiPath"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo76.png" title="先胜业财" alt="先胜业财"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo69.png" title="Gigamon" alt="Gigamon"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo77.png" title="极客时间" alt="极客时间"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo70.png" title="准时达" alt="准时达"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo78.png" title="Gartner" alt="Gartner"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo71.png" title="7thonline" alt="7thonline"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo79.png" title="software-ag" alt="software-ag"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo72.png" title="CLOUDFLARE" alt="CLOUDFLARE"></div>
+							<div class="swiper-slide"><img src="//www.d1net.com/statics/sponsor/images/logo80.png" title="Fabarta" alt="Fabarta"></div>
+						</div>
+					</div>
+					<span class="left_hzbtn"><img src="//www.d1net.com/statics/sponsor/images/left.png"></span>
+					<span class="right_hzbtn"><img src="//www.d1net.com/statics/sponsor/images/right.png"></span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 版权 -->
+	<p class="c_info">企业网版权所有©2010-2024	<a href="http://beian.miit.gov.cn" target="_blank">京ICP备09108050号-6</a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502049343" target="_blank"><img src="//www.d1net.com/statics//images/gaba.png">京公网安备 11010502049343号</a>
+	</p>
+	<div style="width:0;height:0;overflow:hidden;">
+		<script>
+			var _hmt = _hmt || [];
+			(function() {
+			  var hm = document.createElement("script");
+			  hm.src = "https://hm.baidu.com/hm.js?3cd737c3363ef4c91f10ec1b951b0e81";
+			  var s = document.getElementsByTagName("script")[0]; 
+			  s.parentNode.insertBefore(hm, s);
+			})();
+		</script>
+		<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fe94c34ef198ef729b95d3040fdbf2464' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+	</div>
+</body>
+<script type="text/javascript" src="//www.d1net.com/statics/js/jquery.min.js"></script>
+<script type="text/javascript" src="//www.d1net.com/statics/index/2024/js/jquery.limarquee.js"></script>
+<script type="text/javascript" src="//www.d1net.com/statics/index/2024/js/swiper-bundle.min.js"></script>
+<script type="text/javascript" src="//www.d1net.com/statics/index/2024/js/qrcode.min.js"></script>
+<script type="text/javascript" src="//www.d1net.com/statics/index/2024/js/common.js"></script>
+<script type="text/javascript" src="//www.d1net.com/statics/index/2024/js/article.js"></script>
+
+<!-- 访问统计 -->
+<script language="JavaScript" src="/api.php?op=count&id=570608&modelid=1"></script>
+<script language="JavaScript" src="/api.php?op=updatehits&id=570608&modelid=1"></script>
+</html>

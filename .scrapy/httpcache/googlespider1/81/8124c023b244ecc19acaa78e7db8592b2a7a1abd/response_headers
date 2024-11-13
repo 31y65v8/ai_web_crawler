@@ -1,8 +1,11 @@
-Content-Length: 24700
+Content-Length: 24716
 Server: nginx
-Date: Tue, 12 Nov 2024 07:48:02 GMT
+Date: Wed, 13 Nov 2024 08:09:13 GMT
 Content-Type: text/html; charset=UTF-8
 X-Powered-By: PHP/8.0.20
-Vary: Accept-Encoding, Cookie
-Cache-Control: max-age=3, must-revalidate
+Set-Cookie: __wpdm_client=56e2ae3ae0727fbf72803f2ef94d9060; path=/; secure; HttpOnly
+Link: <https://www.ctocio.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.ctocio.com/wp-json/wp/v2/posts/25086>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.ctocio.com/?p=25086>; rel=shortlink
 Content-Encoding: gzip
+Vary: Accept-Encoding, Cookie

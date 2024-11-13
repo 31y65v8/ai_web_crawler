@@ -1,0 +1,359 @@
+<!DOCTYPE html><html data-log-pv="{&quot;mpc&quot;:30}"><head>
+        <title>人工智能的八大关键技术，你知道几个？_分析_领域_应用</title>
+        <meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved.">
+<meta name="mediaid" content="AI全球视野">
+<meta property="og:type" content="news">
+<meta property="og:image" content="//q3.itc.cn/images01/20240106/9048aeaa53bb404ca49fbebf1d631984.jpeg">
+<meta property="og:url" content="www.sohu.com/a/750066444_121865302">
+<meta property="og:release_date" content="2024-01-06 20:56">
+<meta itemprop="dateUpdate" content="2024-01-06 20:56">
+<meta itemprop="datePublished" content="2024-01-06 20:56">
+<link rel="canonical" href="https://www.sohu.com/a/750066444_121865302">
+<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/750066444_121865302">
+
+<meta name="keywords" content="分析,视觉,技术,人工智能,深度,处理,系统,领域,应用,计算机,知识科普,技术,猿界,机器学习,人工智能,人机">
+<meta name="description" content="这些关键技术，如机器学习、深度学习、计算机视觉、自然语言处理等，不仅在科技领域取得了重大突破，还广泛应用于各个行业，如医疗、交通、制造等。 4. 自然语言处理技术：自然语言处理技术是通过建立计算机模型来理解和…">
+<meta property="og:description" content="这些关键技术，如机器学习、深度学习、计算机视觉、自然语言处理等，不仅在科技领域取得了重大突破，还广泛应用于各个行业，如医疗、交通、制造等。 4. 自然语言处理技术：自然语言处理技术是通过建立计算机模型来理解和…">
+<meta property="og:title" content="人工智能的八大关键技术，你知道几个？_分析_领域_应用">
+        <meta charset="utf-8"><meta name="data-spm" content="smpc"><meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="dns-prefetch" href="//statics.itc.cn"><link rel="dns-prefetch" href="//g1.itc.cn"><link rel="dns-prefetch" href="//js.sohu.com"><link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png"><link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png"><link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png"><link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png"><link rel="preload" href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" as="style"><link href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" rel="stylesheet">    <script type="text/javascript" async="" src="https://pos.baidu.com/auto_dup?di=0&amp;uuid=fa9d1efab1030c4d&amp;dri=0&amp;dis=0&amp;dai=0&amp;ps=0x0&amp;enu=encoding&amp;exps=110011&amp;ant=0&amp;psi=2926084f0f9ca695&amp;dcb=___baidu_union_callback&amp;dtm=AUTO_JSONP&amp;dvi=0.0&amp;dci=-1&amp;dpt=none&amp;tpr=1731502721172&amp;ti=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%85%AB%E5%A4%A7%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F_%E5%88%86%E6%9E%90_%E9%A2%86%E5%9F%9F_%E5%BA%94%E7%94%A8&amp;ari=2&amp;ver=1107&amp;kws=%E5%88%86%E6%9E%90%2C%E8%A7%86%E8%A7%89%2C%E6%8A%80%E6%9C%AF%2C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%2C%E6%B7%B1%E5%BA%A6%2C%E5%A4%84%E7%90%86%2C%E7%B3%BB%E7%BB%9F%2C%E9%A2%86%E5%9F%9F%2C%E5%BA%94%E7%94%A8%2C%E8%AE%A1&amp;dps=%E8%BF%99%E4%BA%9B%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%EF%BC%8C%E5%A6%82%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E3%80%81%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E3%80%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E3%80%81%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%AD%89%EF%BC%8C%E4%B8%8D%E4%BB%85%E5%9C%A8%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E4%BA%86%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%8C%E8%BF%98%E5%B9%BF%E6%B3%9B%E5%BA%94%E7%94%A8%E4%BA%8E%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%EF%BC%8C%E5%A6%82%E5%8C%BB&amp;dbv=0&amp;drs=3&amp;pcs=1024x768&amp;pss=1180x4403&amp;cfv=0&amp;cpl=1&amp;chi=1&amp;cce=true&amp;cec=UTF-8&amp;tlm=1731502721&amp;prot=2&amp;rw=768&amp;ltu=https%3A%2F%2Fwww.sohu.com%2Fa%2F750066444_121865302&amp;ltr=https%3A%2F%2Fwww.sohu.com%2Fa%2F750066444_121865302&amp;ecd=1&amp;dft=0&amp;uc=1024x768&amp;pis=-1x-1&amp;sr=1024x768&amp;tcn=1731502721&amp;dc=4&amp;aa=1"></script><script src="https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42" id="ttzz"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="//pv.sohu.com/suv/?t?=1731502721109591_1024_768?r?=https%3A%2F%2Fwww.sohu.com%2Fa%2F750066444_121865302?url?=https%3A%2F%2Fwww.sohu.com%2Fa%2F750066444_121865302?SUV?=?mpc?=30"></script></head>
+            <body class="article-page" data-region="154" data-spm="content" data-newsid="750066444">
+        <div class="wrapper-box">
+            <header id="main-header" class="error-head">
+	<div class="head-container">
+		<div class="head-nav" data-spm="nav">
+			<ul>
+			    <li class="index">
+					<a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com">
+						<span class="sohu-logo"></span>
+					</a>
+				</li>
+														<li class="nav-item"><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
+																																																																																																																									<li class="nav-item more-nav">
+					<div class="more-tag" href="javascript:void(0)">
+						<span>更多</span>
+						<div class="cor"></div>
+					</div>
+					<more-nav id="moreNav"></more-nav>
+				</li>
+				
+			</ul>
+		</div>
+		<head-right id="headRight"></head-right>
+	</div>
+</header>            <div class="location-without-nav"></div>
+            <div class="area clearfix" id="article-container">
+                <div class="column left">
+	                    <div class="user-info" id="user-info" data-spm="author">
+            <div class="user-pic">
+            <!-- fromWhere为10是马甲号作者不可点击进入个人页面 -->
+                            <a href="https://mp.sohu.com/profile?xpt=NmYyMzllMDAtYTU1Ny00OTNiLWFlNDItM2ZmZDY2MTVhZWUw" target="_blank">
+                    <img data-src="//p4.itc.cn/q_70/images03/20231207/f18e903f9b7a4dd6a6be1c7d48236ead.png" alt="">
+                </a>
+                    </div>
+        <h4>
+                    <a href="https://mp.sohu.com/profile?xpt=NmYyMzllMDAtYTU1Ny00OTNiLWFlNDItM2ZmZDY2MTVhZWUw" target="_blank">AI全球视野</a>
+                    </h4>
+    <!-- 积分 -->
+        <dl class="user-num">
+        <dd><span class="value" data-value="60" data-role="info-article-num"><em class="num"></em></span>文章</dd>
+        <dd><span class="value" data-value="" data-role="info-read-num"><em class="num"></em></span>总阅读</dd>
+    </dl>
+
+    <!-- 企业认证 -->
+            <ul class="company">
+                    </ul>
+    
+    <!-- 非马甲号作者 -->
+            <div class="user-more">
+            <a href="https://mp.sohu.com/profile?xpt=NmYyMzllMDAtYTU1Ny00OTNiLWFlNDItM2ZmZDY2MTVhZWUw" target="_blank">查看TA的文章&gt;</a>
+        </div>
+    </div>        		<div class="article-do" id="article-do" data-spm="share">
+		<div class="article-done">
+    <div class="title">评论</div>
+    <dl>
+        <dd class="comment-do" id="leftComment">
+            <a href="javascript:void(0)" data-spm-acode="8089">
+                <em class="comment-icon icon"></em>
+                <span class="num" data-role="comment-count"></span>
+            </a>
+        </dd>
+    </dl>
+</div>
+		<div id="share">
+			<share>
+		</share></div>
+	</div>
+</div>
+                <div class="left main">
+                    <div data-spm="content">
+                        <div class="text">
+                            
+<div class="text-title">
+    <h1>
+                    人工智能的八大关键技术，你知道几个？                <span class="article-tag">
+                 </span>
+    </h1>
+            <div class="article-info">
+        <span class="time" id="news-time" data-val="1704545765000">
+                        2024-01-06 20:56        </span>
+                                <div class="area"><span>发布于：</span><span>江苏省</span></div>
+    </div>
+</div>
+
+<article class="article" id="mp-editor">
+    <!-- 政务处理 -->
+                      <p>随着科技的不断发展，人工智能成为当今社会热门的话题之一。在人工智能领域中，有许多关键技术正在不断突破和演进，为人类带来了前所未有的机遇和挑战。这些关键技术，如机器学习、深度学习、计算机视觉、自然语言处理等，不仅在科技领域取得了重大突破，还广泛应用于各个行业，如医疗、交通、制造等。</p><p>通过了解和掌握这些关键技术，我们能够更好地把握人工智能带来的潜力和可能性，为构建智慧社会做出贡献。本文将重点介绍人工智能的八大关键技术，带您进入人工智能的精彩世界。</p><p class="ql-align-center"><img max-width="600" data-src="lEVudsxXQilkQo3OKeq3U7HH6fOvo1dGVDmsQWqCrcXPP/2dQElvr4c0i75Mj9hbQMGDJGFobq5rX920CqMMwRdE6V8R8jAm2l2bmnkCVC4="></p><p>1. 机器学习：机器学习是人工智能的核心技术之一，它涉及到大量的数据处理和分析，通过训练计算机来识别和理解数据，从而能够从数据中学习并发现规律和模式。机器学习的技术方法包括监督学习、无监督学习和强化学习等多种类型，每种类型都有其特定的应用场景和优势。</p><p>2. 深度学习：深度学习是机器学习的一个分支，它利用复杂的神经网络来开发AI系统。深度学习能够模拟人脑的认知能力，将复杂的数据进行分类和分析，并生成准确的结果。深度学习的应用范围非常广泛，可以应用于图像识别、自动驾驶、语音识别等领域，通过神经网络的学习和训练，实现对视觉和听觉信号的自动识别和处理。</p><p>3. 计算机视觉：计算机视觉是指通过将图像数据转换为机器可识别的形式，实现对视觉信息的建模和分析，并做出相应的决策。计算机视觉技术的应用范围非常广泛，可以应用于安全监控、自动驾驶、医疗诊断等领域，通过对图像的分析和处理，实现对目标、场景、疾病的自动识别和诊断。</p><p class="ql-align-center"><img max-width="600" data-src="r/h2ojJAPR4iF07g/Pz9W7HH6fOvo1dGVDmsQWqCrcWUEXL83oTZkL5nJKM9L40UrWKsj6oKQ1LHcFdOARXme6l6823KP5saWuW6VffppwE="></p><p>4. 自然语言处理技术：自然语言处理技术是通过建立计算机模型来理解和处理自然语言，包括机器翻译、文本分类、情感分析等多种应用。自然语言处理技术可以应用于智能客服、舆情监测、自动摘要等领域，通过对自然语言的分析和处理，实现人机之间的智能交互和沟通。</p><p>5. 脑机接口技术：脑机接口是一种在人或动物脑与外部设备间建立的直接连接通道，通过单向或双向的交流，实现脑与外部设备的信息交换。脑机接口技术的应用范围非常广泛，可以应用于神经康复、残疾辅助、人机交互等领域，通过对脑电信号的检测和处理，实现对肢体运动和感觉的辅助和增强。</p><p>6. 知识图谱：知识图谱是一种结构化的语义知识库，它以节点和边组成的图数据结构形式，描述物理世界中的概念及其相互关系。知识图谱通过符号形式来描述概念之间的关系，实现语义的表示和推理，可以应用于数据挖掘、信息检索、智能问答等领域，通过对知识图谱的利用和分析，实现更准确和智能的信息处理和决策。</p><p class="ql-align-center"><img max-width="600" data-src="FlhNHe3dnu293E6ZtX6/IbHH6fOvo1dGVDmsQWqCrcU5NtI0yvUSSGjVEmkZcn77Sk/NQSRFi2AIEaQgpWua5bPzQGqJLPbGbZ5aeNSlw7g="></p><p>7. 人机交互：人机交互是一门研究系统与用户之间交互关系的学科，它关注如何设计和实现使用户能够方便、高效地与各种系统进行交流和操作的界面和交互方式。人机交互领域涉及到众多技术和方法，包括用户界面设计、人工智能技术、人体工程学等，通过研究用户的认知、行为和情感，以及系统的人机交互设计和评估，不断优化和改进人与机器之间的交互体验。</p><p>8.自主无人系统技术：自主无人系统是一种能够通过先进的技术进行操作或管理，不需要人工干预的系统。它可以应用于无人驾驶、无人机、空间机器人等领域，通过自主导航、决策控制等技术实现无人系统的自主运行和任务执行。自主无人系统技术的应用范围非常广泛，可以应用于军事、救援、环境监测等领域，实现对危险环境和任务的无人化自主执行。</p><p>通过深入了解这些关键技术，我们能够更好地把握人工智能的发展动态，创造出更智能和高效的解决方案。人工智能技术的应用正推动着社会的创新和进步，我们应积极探索其潜力，为构建智慧社会做出贡献，创造更美好的未来。</p><h1 class="ql-align-justify">猿界算力 为人工智能提供超强算力 引爆AI革命</h1><p class="ql-align-justify">尊敬的读者，如欲查阅更多关于AI行业的研究分析和发展趋势，请浏览猿界算力（apetops . com）--资讯动态栏目，猿界算力资讯团队为您带来的AI深度报道和前沿科技解读。</p><p class="ql-align-center"><img max-width="600" data-src="9jtEdtXdLrY19r1cR6XiEA3ktgJGyhbS53N4mryGt6Krgxb4/imTuj2imZQktNrK0pNnfS68pOpmpd16inF5MLWTzmKYPwYvFkmu9a+AK6w="><a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>          <!-- 政务账号添加来源标示处理 -->
+      <!-- 政务账号添加来源标示处理 -->
+      <p data-role="editor-name">责任编辑：<span></span></p>
+</article>
+<div id="articleTransfer"><transfer></transfer></div>
+<!-- 评论禁言通知 -->
+<div id="bannedNotice"><banned-notice></banned-notice></div>
+  <div class="statement">平台声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>    <div class="bottom-relate-wrap clear type-3">
+            <div id="article-like" data-like-type="type-3">
+            <article-like>
+        </article-like></div>
+        <div class="read-wrap">
+        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
+    </div>
+    <div id="articleReport">
+        <report>
+    </report></div>
+</div>
+
+                            <div id="sohu-play-content"></div>
+                        </div>
+                    </div>
+                    <div data-spm="middle-banner-ad">
+                                            </div>
+                                            <div id="articleAllsee" style="height:629px"><all-see-list></all-see-list></div>
+                                        <div class="_0u4o3bh76zbp"></div>
+                    <div class="god-article-bottom" id="god_bottom_banner" data-spm="ad-text-bottom" style="display:block">
+</div>
+<div class="user-god clear" id="user-post" style="display:none">
+
+</div>                    <!-- 评论 -->
+                    <div id="meComment" style="min-height: 100px;">
+                        <me-comment>
+                    </me-comment></div>
+                    <div id="commentList">
+                        <comment-list></comment-list>
+                    </div>
+                    <div id="discuss"></div>
+                    <!-- 推荐阅读 -->
+                                        <div style="min-height:1500px" id="groomRead">
+                        <groom-read>
+                    </groom-read></div>
+                                    </div>
+                <!-- 右侧边栏 -->
+                <div class="sidebar right" id="right-side-bar" data-a="${isBaiDuAd}">
+                    <right-side-bar>
+                </right-side-bar></div>
+             </div>
+            <div id="float-btn"> <float-btn> </float-btn></div>
+            <div class="left-bottom-float-fullScreenSleepContainer" style="display:none;">
+    <div class="left-bottom-float-fullScreenSleep" style="display:none;" data-spm="ad-fullScreenSleep">
+        <div class="close-tag"></div>
+    </div>
+</div>
+<div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
+</div>        </div>
+        <script type="text/javascript">
+                        window.deployEnv = "prod"
+                    </script>
+        <script src="//js.sohu.com/pv.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/vendors-8717d0.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/main_article-068610.js"></script>        <script>
+try{
+        window.sohu_mp.article({
+        channel_id: "30",
+        news_id: "750066444",
+        cms_id: "$mpNews.cmsId",
+        media_id: "121865302",
+        passport: "1544494844435505152@sohu.com",
+        weboUrl: "https://mp.sohu.com/profile?xpt=NmYyMzllMDAtYTU1Ny00OTNiLWFlNDItM2ZmZDY2MTVhZWUw",
+        title: "人工智能的八大关键技术，你知道几个？",
+        channel_url:"//it.sohu.com",
+        integralLevel: "0",
+        categoryId:"882",
+        //abData_fd用于abtest
+        abData:"",
+        // abData_discuss:"4", // 讨论
+        abData_discuss:"", // 讨论
+        abData_fd:"",
+        abData_tw:"",
+        originalId:"$mpNews.originalId",
+        originalStatus:"0",
+        isBaiDuAd: "",
+        isPure: "${pure}",
+        reprint: false,
+        reprintSign: "",
+        secureScore: '100',
+        sGrade: '0',
+        editor:'',
+        hideAd:'',
+        keywords: "[分析, 视觉, 技术, 人工智能, 深度, 处理, 系统, 领域, 应用, 计算机, 知识科普, 技术, 猿界, 机器学习, 人工智能, 人机]",
+        mpNewsExt:{
+            "modelId":""
+        },
+        imgsList: [
+                                             {
+                    "url" : "//q4.itc.cn/q_70/images01/20240106/dadbbb6835c1484da536d6cc61af6a9c.jpeg",
+                    "width" : "1242",
+                    "height" : "829",
+                }
+                                                , {
+                    "url" : "//q3.itc.cn/q_70/images01/20240106/1efc4df5ba504b08875729c3ab719b6d.jpeg",
+                    "width" : "1242",
+                    "height" : "829",
+                }
+                                                , {
+                    "url" : "//q0.itc.cn/q_70/images01/20240106/6c042cc9d97c4e6cbc0c174b64179aca.jpeg",
+                    "width" : "660",
+                    "height" : "370",
+                }
+                                                , {
+                    "url" : "//q2.itc.cn/images01/20240106/2464467ac8c44a0292c16017a98ba025.jpeg",
+                    "width" : "1080",
+                    "height" : "800",
+                }
+                                        ],
+        topNavigation: [
+                                             {
+                    "url" : "http://news.sohu.com/",
+                    "name" : "新闻",
+                }
+                                                , {
+                    "url" : "http://sports.sohu.com/",
+                    "name" : "体育",
+                }
+                                                , {
+                    "url" : "http://auto.sohu.com/",
+                    "name" : "汽车",
+                }
+                                                , {
+                    "url" : "http://www.focus.cn/",
+                    "name" : "房产",
+                }
+                                                , {
+                    "url" : "http://travel.sohu.com/",
+                    "name" : "旅游",
+                }
+                                                , {
+                    "url" : "http://learning.sohu.com/",
+                    "name" : "教育",
+                }
+                                                , {
+                    "url" : "http://fashion.sohu.com/",
+                    "name" : "时尚",
+                }
+                                                , {
+                    "url" : "http://it.sohu.com/",
+                    "name" : "科技",
+                }
+                                                , {
+                    "url" : "http://business.sohu.com/",
+                    "name" : "财经",
+                }
+                                                , {
+                    "url" : "http://yule.sohu.com/",
+                    "name" : "娱乐",
+                }
+                                                , {
+                    "url" : "http://baobao.sohu.com/",
+                    "name" : "母婴",
+                }
+                                                , {
+                    "url" : "https://healthnews.sohu.com/",
+                    "name" : "健康",
+                }
+                                                , {
+                    "url" : "http://history.sohu.com/",
+                    "name" : "历史",
+                }
+                                                , {
+                    "url" : "http://mil.sohu.com/",
+                    "name" : "军事",
+                }
+                                                , {
+                    "url" : "http://chihe.sohu.com/",
+                    "name" : "美食",
+                }
+                                                , {
+                    "url" : "http://cul.sohu.com/",
+                    "name" : "文化",
+                }
+                                                , {
+                    "url" : "http://astro.sohu.com/",
+                    "name" : "星座",
+                }
+                                                , {
+                    "url" : "https://www.sohu.com/xchannel/TURBd01EQXhPVGt5",
+                    "name" : "专题",
+                }
+                                                , {
+                    "url" : "http://game.sohu.com/",
+                    "name" : "游戏",
+                }
+                                                , {
+                    "url" : "http://fun.sohu.com/",
+                    "name" : "搞笑",
+                }
+                                                , {
+                    "url" : "http://acg.sohu.com/",
+                    "name" : "动漫",
+                }
+                                                , {
+                    "url" : "http://pets.sohu.com/",
+                    "name" : "宠物",
+                }
+                                        ],
+    });
+}
+catch(e){
+    var html = '<div class="err-js">' +
+                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
+                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
+                '><em class="icon-cached"></em>刷新</a></div>';
+    $(document.body).prepend(html);
+    console.error("发生错误",e);
+}
+</script>
+<!-- 文章安全分低于等于10分不执行seo优化 -->
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>
+        <!-- 头条SEO上报JS -->
+        <script>
+            (function(){
+                var el = document.createElement("script");
+                el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42";
+                el.id = "ttzz";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(el, s);
+            })(window)
+        </script>
+    
+</body></html>

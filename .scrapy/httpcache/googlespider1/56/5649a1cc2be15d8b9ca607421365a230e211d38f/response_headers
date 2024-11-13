@@ -1,0 +1,39 @@
+Content-Length: 0
+Date: Wed, 13 Nov 2024 11:28:15 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 62
+X-Sorting-Hat-Shopid: 15647647
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=59ca349b-24e2-4b24-b749-9c4538c65140; path=/; expires=Wed, 13 Nov 2024 11:58:15 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Thu, 13 Nov 2025 11:28:15 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=US; path=/zh-hans; expires=Thu, 13 Nov 2025 11:28:15 GMT; SameSite=Lax
+Set-Cookie: cart_currency=USD; path=/; expires=Wed, 27 Nov 2024 11:28:15 GMT; SameSite=Lax
+Set-Cookie: _tracking_consent=%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22SG%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22F452FA19-da09-4316-93b0-4bbb1dac1b63%22%7D; domain=hulkapps.com; path=/; expires=Thu, 13 Nov 2025 11:28:15 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=hulkapps.com; path=/; expires=Thu, 14 Nov 2024 11:28:15 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=f87e0927-bb0d-41c0-bab2-96467d25d9b0; Expires=Thu, 13-Nov-25 11:28:15 GMT; Domain=hulkapps.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=407c64c4-15f7-4406-bfde-f9bc9e21d3d5; Expires=Wed, 13-Nov-24 11:58:15 GMT; Domain=hulkapps.com; Path=/; SameSite=Lax
+Location: https://www.hulkapps.com/zh-hans/blogs/dian-zi-shang-wu-zhong-xin/ren-gong-zhi-neng-dui-ge-xing-ye-de-ying-xiang
+X-Shopify-Nginx-No-Cookies: 0
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:5da89c241ecc68a514e9bdb3a1b47306"
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 15647647
+X-Shardid: 62
+Powered-By: Shopify
+Server-Timing: processing;dur=114, db;dur=21, db_async;dur=1.691, asn;desc="38136", edge;desc="SIN", country;desc="SG", theme;desc="127707676735", pageType;desc="article", servedBy;desc="grqf", requestID;desc="76d11476-57a9-4a15-aae8-ec3dba0028e2-1731497295"
+Server-Timing: cfRequestDuration;dur=148.000002
+X-Dc: gcp-asia-southeast1,gcp-asia-southeast1,gcp-asia-southeast1
+X-Request-Id: 76d11476-57a9-4a15-aae8-ec3dba0028e2-1731497295
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=PZfX%2BAvr8S5zcHkNn08JBbikp9kSh%2B3%2FyToD6rUZ%2BHAbvAzz0mTavlXkO%2B7LatEuaJ9xdrNIoEm6DDLgvSnuOmragK02S%2F%2FKnxED%2FRhsPxmlYsfYNLlJy0sHEGESEh1mr8E%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Download-Options: noopen
+Server: cloudflare
+Cf-Ray: 8e1e6acfbdc59fc5-SIN

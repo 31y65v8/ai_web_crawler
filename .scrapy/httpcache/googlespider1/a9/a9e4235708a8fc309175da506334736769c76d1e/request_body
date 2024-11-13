@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "c_csrf=4add20ae-3773-4426-a172-b6569cb74de9",
+        "Referer": "https://developer.aliyun.com/article/642001",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://developer.aliyun.com/article/642001",
+    "wait": 6
+}

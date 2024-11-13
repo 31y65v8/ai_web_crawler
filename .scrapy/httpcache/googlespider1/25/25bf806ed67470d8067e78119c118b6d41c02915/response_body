@@ -1,0 +1,888 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <link rel="dns-prefetch" href="//static.51offer.com">
+    <link rel="dns-prefetch" href="//s2.51offer.com">
+    <meta name="author" content="51offer.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="Expires" content="-1">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <link rel="icon" href="//static.51offer.com/skin/common/images/favicon.ico" type="image/x-icon">
+        <meta name="description" content="什么专业领域的工作最有可能被机器所取代？搞清楚这个问题，对今天的高中生、大学生、乃至研究生选择学科专业和发展方向有重要指导意义。"> 
+        <meta name="keywords" content="未来AI可能会取代哪些专业？排第一的竟然是中国学生的最爱">
+    <meta name="author" content="">
+    <title>未来AI可能会取代哪些专业？排第一的竟然是中国学生的最爱-英国选择院校|留学攻略-51offer让留学更简单
+    </title>
+
+    <meta name="applicable-device" content="pc">
+    <link rel="alternate" media="only screen and(max-width: 640px)"  href="https://m.51offer.com/article/detail_69355.html" >
+
+    <script>
+        var root_domain = '51offer.com';
+        var country = {shortName:'uk', cname:'英国'};
+    </script>
+
+    <link rel="stylesheet" href="//static.51offer.com/mod/public/global-ui/2.0.3/global.css?20171018">
+<script src="//static.51offer.com/mod/??public/badjs/1.0.1/bj-report.js,public/badjs/1.0.1/bj-wrap.js?20160923"></script>
+<script src="https://static.51offer.com/mod/npm/vue@2.5.3/dist/vue.runtime.min.js"></script>
+<script src="//static.51offer.com/mod/??seajs/seajs/2.3.0/sea.js,seajs/plugin/perload/1.0.0/preload.js,seajs/plugin/style/1.0.2/style.js,seajs/plugin/css/1.0.4/css.js,seajs/config/3.0.6/pc.js,jquery/1.8.3/jquery.js,gallery/cookie/1.0.2/cookie.js,gallery/events/1.0.0/events.js,public/log/2.0.1/log.js?2017"></script>
+<script src="//static.51offer.com/mod/public/global/4.0.0/global.js?20180503"></script>
+
+    
+    <!-- photoswipe -->
+    <link rel="stylesheet" href="//static.51offer.com/mod/gallery/photoswipe/4.1.1/??photoswipe-min.css,default-skin-min.css">
+
+    <link rel="stylesheet" href="//static.51offer.com/mod/51offer/info-channel/1.0.4/css/public.css"/>
+    <link rel="stylesheet" href="//static.51offer.com/mod/51offer/info-channel/1.0.4/css/detail.css"/>
+    
+</head>
+<body class="w1200">
+    <div class="global-header" style="position: fixed;top: 0; left: 0;z-index: 5;">
+  <div class="global-header-title global-top-search" style="*position: relative;*z-index: 39;">
+      <div class="global-header-content">
+          <div class="global-nav-left">
+              <div class="nav-home icon-phone">400-6152-656</div>
+              <div class="divide">|</div>
+              <div class="nav-login" style="display:none;">
+                  <a class="nav-login-btn" href="//account.51offer.com/login.html">登录</a>
+                  <a class="nav-register-btn" href="//account.51offer.com/register.html">注册</a>
+              </div>
+              <div class="nav-logined">
+                  <ul class="list clearfix">
+                      <li class="item i-welcome">欢迎来到51offer</li>
+                      <li class="item i-user">
+                          <div class="user-wrap">
+                              <img class="user-img" src="//s2.51offer.com/common/user/avatar/658913.jpg?imageView/2/w/24/h/24">
+                              <div class="u-name"></div>
+                              <i class="icon icon-down"> </i>
+                              <ul class="dropdown-menu">
+                                  <li id="my_letter">
+                                      <a target="_blank" href="http://www.51offer.com/email/email.html">我的邮箱</a>
+                                  </li>
+                                  <li>
+                                      <a target="_blank" href="//www.51offer.com/mall/orders/all">我的订单</a>
+                                  </li>
+                                  <li>
+                                      <a target="_blank" href="//www.51offer.com/event/appshare/index.html">我的邀请</a>
+                                  </li>
+                                  <li>
+                                      <a target="_blank" href="//account.51offer.com/user/userinfo.html">个人资料</a>
+                                  </li>
+                                  <li>
+                                      <a class="logout-btn" href="//account.51offer.com/user/logout.html">退出</a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </li>
+                  </ul>
+              </div>
+              <div class="nav-weixin-login">
+                  <i class="icon icon-weixin"> </i>
+                  <span class="text">微信快速登录</span>
+                  <i class="icon icon-down"> </i>
+                  <div class="nav-weixin-box">
+                      <form class="qrcode-form" method="post" action="//account.51offer.com/third/weChatLogin.html">
+                          <input type="hidden" name="weixincodekey">
+                          <input type="hidden" name="returnUrl">
+                          <div class="qrcode-main">
+                              <img class="qrcode-img" alt="" src="//s2.51offer.com/51offer/2015-08-21/hold.png" />
+                          </div>
+                          <div class="qrcode-desc">微信扫码，快速登录</div>
+                          <div class="qrcode-fail">
+                              <i class="icon"> </i>
+                              <strong>二维码失效</strong>
+                              <span>请点击 <em class="update-qrcode">刷新二维码</em></span>
+                          </div>
+                          <div class="qrcode-login-success">
+                              <i class="icon"> </i>
+                              <strong>您已成功扫描，</strong>
+                              <span>请在微信上确认登录</span>
+                          </div>
+                          <img class="qrcode-help-img" src="//s2.51offer.com/51offer/2015-07-31/help.png">
+                          <div class="qrcode-help-main"><em class="qrcode-help">使用帮助</em></div>
+                      </form>
+                  </div>
+              </div>
+
+              <!-- <div class="nav-new-user">
+                  <div class="new-user-button">
+                      <a target="_blank" href="https://account.51offer.com/register.html?src=526003&returnUrl=https://www.51offer.com/article/detail_90843.html"><img src="https://s2.51offer.com/common/new/2018-03-21/new_top.gif" alt="" onclick="log('send','click', 'gift_top_pc','receive','');"></a>
+                  </div>
+              </div> -->
+          </div>
+          <div class="global-search-box J_global_search small">
+            <div class="search-box">
+                <div class="search-nav">
+                    <div class="nav-cur">
+                        <span id="cur-select" data-search-name='学校'>学校</span>
+                        <i class="icon icon-down"></i>
+                    </div>
+                    <ul class="other" id="other">
+                        <li data-search-name='学校' data-placeholder="搜索你感兴趣的">学校</li>
+                        <li data-search-name='专业' data-placeholder="搜索你感兴趣的">专业</li>
+                        <li data-search-name='攻略' data-placeholder="搜索你感兴趣的">攻略</li>
+                    </ul>
+                </div>
+                <div class="subnav-major">
+                    <div class="subnav-cur" id="subnav-cur" data-countryId="44" data-countryName="uk">
+                        <img src="//s2.51offer.com/51offer/major/2017-04-21/uk.png" alt="">
+                        <i class="icon icon-down"></i>
+                    </div>
+                    <ul class="other-country" id="other-country">
+                        <li>
+                            <img src="//s2.51offer.com/51offer/major/2017-04-21/uk.png" alt="">
+                            <span data-countryId='44' data-countryName="uk">英国</span>
+                        </li>
+                        <li>
+                            <img src="//s2.51offer.com/51offer/major/2017-04-21/us.png" alt="">
+                            <span data-countryId='100001' data-countryName="us">美国</span>
+                        </li>
+                        <li>
+                            <img src="//s2.51offer.com/51offer/major/2017-04-21/au.png" alt="">
+                            <span data-countryId='61' data-countryName="au">澳洲</span>
+                        </li>
+                        <li>
+                            <img src="//s2.51offer.com/51offer/major/2017-04-21/nz.png" alt="">
+                            <span data-countryId='64' data-countryName="nz">新西兰</span>
+                        </li>
+                    </ul>
+                </div>
+                <input type="text" id="search-input" placeholder="搜索你感兴趣的">
+                <button id="search-btn"></button>
+            </div>
+            <div class="result-box">
+            </div>
+        </div>
+          <div class="global-nav-right">
+              <div class="global-app-download">
+                  <div class="ct">
+                      <a href="//www.51offer.com/article/detail_84847.html" target="_blank" style="padding:0;">小程序</a>
+                  </div>
+                  <i class="icon icon-down"> </i>
+                  <div class="global-border-shadow"></div>
+                  <div class="global-download-box">
+                      <div class="global-download">
+                          <!-- <img class="qr-code" src="//s2.51offer.com/common/2017-11-03/wxapp-icon.png" style="width: 500px;height: 157px"> -->
+                          <img class="qr-code" src="https://s2.51offer.com/common/2019-10-25/wechatQ.png" style="width: 700px;height: 157px">
+                      </div>
+                  </div>
+              </div>
+              <div class="global-app-download">
+                  <div class="ct">
+                      <a href="//www.51offer.com/app/" target="_blank" style="padding:0;">app下载</a>
+                  </div>
+                  <i class="icon icon-down"> </i>
+                  <div class="global-border-shadow"></div>
+                  <div class="global-download-box">
+                      <div class="global-download-left">
+                          <img class="qr-code" src="//s2.51offer.com/common/img/2017-03-20/app2vmnew.png" />
+                          <div>扫一扫下载</div>
+                      </div>
+                  </div>
+              </div>
+              <a href="//www.51offer.com/aboutus/" target="_blank" class="aboutus">关于我们</a>
+              <div class="global-webnav">
+                  <div class="ct">
+                      <span>网站导航</span>
+                  </div>
+                  <i class="icon icon-down"></i>
+                  <div class="global-border-shadow"></div>
+                  <div class="global-webnav-content">
+                      <dl class="clearfix">
+                          <dt>留学申请</dt>
+                          <dd><a target="_blank" href="//www.51offer.com/index/startDiy.html">在线申请</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/list/210">文书撰写</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/list/213">签证办理</a></dd>
+                      </dl>
+                      <dl class="clearfix">
+                          <dt>留学帮助</dt>
+                          <!-- <a><a target="_blank" href="//www.51offer.com/study/px_ielts/index.html">雅思</a></a>
+                          <dd><a target="_blank" href="//www.51offer.com/study/px_toefl/index.html">托福</a></dd> -->
+                          <dd><a target="_blank" href="//www.51offer.com/event/background_promotion/index.html">背景提升</a></dd>
+                          <dd><a target="_blank" href="//art.51offer.com">艺术作品集</a></dd>
+                      </dl>
+                      <dl class="clearfix">
+                          <dt>找学校</dt>
+                          <dd><a target="_blank" href="//www.51offer.com/school/uk-all-1.html">英国</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/us-all-1.html">美国</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/au-all-1.html">澳洲</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/nz-all-1.html">新西兰</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/sg-all-1.html">新加坡</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/jp-all-1.html">日本</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/hk-all-1.html">中国香港</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/ch-all-1.html">瑞士</a></dd>
+                      </dl>
+                      <dl class="clearfix">
+                          <dt>查专业</dt>
+                          <dd><a target="_blank" href="//www.51offer.com/school/major.html">英国</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/major-us-1.html">美国</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/major-au-1.html">澳洲</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/school/major-nz-1.html">新西兰</a></dd>
+                      </dl>
+                      <dl class="clearfix">
+                          <dt>看攻略</dt>
+                          <dd><a target="_blank" href="//www.51offer.com/article/uk.html">英国</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/article/us.html">美国</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/article/au.html">澳洲</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/article/nz.html">新西兰</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/article/jp.html">日本</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/article/sg/lxcs_all_1.html">新加坡</a></dd>
+                      </dl>
+                      <!-- <dl class="clearfix noborder">
+                          <dt>留学商城</dt>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/">精品推荐</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/list/208">留学申请</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/list/209">高端留学</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/list/210">文书</a></dd>
+                          // <dd><a target="_blank" href="//www.51offer.com/mall/list/211">雅思托福</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/list/213">行前</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/list/212">背景提升</a></dd>
+                          <dd><a target="_blank" href="//www.51offer.com/mall/list/214">留学百宝箱</a></dd>
+                      </dl>-->
+                  </div>
+              </div>
+          </div>
+          <a href="//www.51offer.com/event/appshare/index.html" onclick="log('send','click','gift_top_invite','gift_top_invite');" class="invite" target="_blank">邀请好友送300元奖金</a>
+      </div>
+  </div>
+</div>
+<style>
+  body {padding-top: 36px;}
+</style>
+<script>
+seajs.use(['global'], function(global) {
+  global.head.init();
+});
+</script>
+    <div class="global-header global-header-search clearfix">
+    <a class="global-header-logo" href="//www.51offer.com/" target="_blank">
+        <div class="logo-top">
+            <img src="//s2.51offer.com/common/img/2017-09-14/logo.png" alt="" class="logo-img">
+            <span class="logo-info">让留学更简单</span>
+        </div>
+        <p class="logo-bottom">专注互联网留学 · 国际财团5000万美金投资</p>
+    </a>
+    <div class="global-search-box J_global_search big">
+        <div class="search-box">
+            <div class="search-nav">
+                <div class="nav-cur">
+                    <span id="cur-select" data-search-name='学校'>学校</span>
+                    <i class="icon icon-down"></i>
+                </div>
+                <ul class="other" id="other">
+                    <li data-search-name='学校' data-placeholder="支持模糊查询、中英文查询，如“麻省”">学校</li>
+                    <li data-search-name='专业' data-placeholder="支持模糊查询、中英文查询，如“工商”">专业</li>
+                    <li data-search-name='攻略' data-placeholder="搜你感兴趣的，如“提高英语”">攻略</li>
+                </ul>
+            </div>
+            <div class="subnav-major">
+                <div class="subnav-cur" id="subnav-cur" data-countryId="44" data-countryName="uk">
+                    <img src="//s2.51offer.com/51offer/major/2017-04-21/uk.png" alt="">
+                    <i class="icon icon-down"></i>
+                </div>
+                <ul class="other-country" id="other-country">
+                    <li>
+                        <img src="//s2.51offer.com/51offer/major/2017-04-21/uk.png" alt="">
+                        <span data-countryId='44' data-countryName="uk">英国</span>
+                    </li>
+                    <li>
+                        <img src="//s2.51offer.com/51offer/major/2017-04-21/us.png" alt="">
+                        <span data-countryId='100001' data-countryName="us">美国</span>
+                    </li>
+                    <li>
+                        <img src="//s2.51offer.com/51offer/major/2017-04-21/au.png" alt="">
+                        <span data-countryId='61' data-countryName="au">澳洲</span>
+                    </li>
+                    <li>
+                        <img src="//s2.51offer.com/51offer/major/2017-04-21/nz.png" alt="">
+                        <span data-countryId='64' data-countryName="nz">新西兰</span>
+                    </li>
+                </ul>
+            </div>
+            <input type="text" id="search-input" placeholder="支持模糊查询、中英文查询，如“麻省”">
+            <button id="search-btn">搜索</button>
+        </div>
+        <div class="result-box">
+        </div>
+    </div>
+    <div class="global-app-scan">
+        <div class="scan-info">
+            <a href="//www.51offer.com/app/" target="_blank">
+                <img src="//s2.51offer.com/common/img/2017-09-14/scan-app.png" alt="" class="scan-mes">
+            </a>
+            <div class="appcode-content">
+                <img src="//s2.51offer.com/common/img/2017-03-20/app2vmnew.png" alt="" class="appcode">
+                <p>扫一扫下载</p>
+            </div>
+        </div>
+    </div>
+  </div>
+  <div class="global-header global-header-menu">
+    <div class="global-header-lists" style="*position: relative;*z-index:29;">
+        <div class="global-header-content">
+            <ul style="display: flex;justify-content:space-between;">
+                <li class="n-home" style="width: 170px;">
+                    <a href="//www.51offer.com" target="_blank" onclick="log('send','click', 'toolbar_1_pc', 'toolbar');"><i class="icon"></i><span>首页</span></a>
+                </li>
+                <li class="n-apply" style="width: 160px;" id="diylayerlxsq">
+                    <a href="//www.51offer.com/index/startDiy.html" rel="nofollow" target="_blank" onclick="log('send','click', 'toolbar_2_pc', 'toolbar');"><i class="icon"></i><span>留学申请</span></a>
+                </li>
+                <li class="n-us" style="width: 170px;">
+                    <a href="//www.51offer.com/event/us_index.html" rel="nofollow" target="_blank" onclick="log('send','click', 'toolbar_3_pc', 'toolbar');"><i class="icon"></i><span>北美中心</span></a>
+                </li>
+                <!-- <li class="n-ys">
+                    <a href="//www.51offer.com/study/px/index.html" rel="nofollow" target="_blank" onclick="log('send','click', 'toolbar_4_pc', 'toolbar');"><i class="icon"></i><span>51Pass</span><b class="caret"> </b></a>
+                    <div class="global-lists-dropdown">
+                        <a class="g-list" href="//www.51offer.com/study/px_ielts/index.html" rel="nofollow" target="_blank">雅思</a>
+                        <a class="g-list" href="//www.51offer.com/study/px_toefl/index.html" rel="nofollow" target="_blank">托福</a>
+                        <a class="g-list" href="//www.51offer.com/article/uk/yyks_all_1.html" rel="nofollow" target="_blank">考试资讯</a>
+                    </div>
+                </li> -->
+                <li class="n-lift" id="diy_abroad_escort_show" style="display: none;">
+                    <a href="//diy.51offer.com/" rel="nofollow" target="_blank" onclick="log('send','click', 'toolbar_5_pc', 'toolbar');"><i class="icon"></i><span>DIY留学护航</span></a>
+                </li>
+                <!--<li class="n-art">
+                     <a href="//art.51offer.com" target="_blank"><i class="icon"></i><span>艺术作品集</span></a>
+                 </li>-->
+                <li class="n-school" style="width: 160px;">
+                    <a href="//www.51offer.com/school/index.html" target="_blank" onclick="log('send','click', 'toolbar_6_pc', 'toolbar');">找学校</a>
+                </li>
+                <li class="n-major" style="width: 160px;">
+                    <a href="//www.51offer.com/school/major.html" target="_blank" onclick="log('send','click', 'toolbar_7_pc', 'toolbar');">查专业</a>
+                </li>
+                <li class="n-article" style="width: 155px;">
+                    <a href="//www.51offer.com/article/index.html" target="_blank" onclick="log('send','click', 'toolbar_8_pc', 'toolbar');">看攻略<b class="caret"> </b></a>
+                    <div class="global-lists-dropdown">
+                        <a class="g-list" href="//www.51offer.com/article/uk.html" target="_blank">英国</a>
+                        <a class="g-list" href="//www.51offer.com/article/au.html" target="_blank">澳洲</a>
+                        <a class="g-list" href="//www.51offer.com/article/us.html" target="_blank">美国</a>
+                        <a class="g-list" href="//www.51offer.com/article/jp.html" target="_blank">日本</a>
+                        <a class="g-list" href="//www.51offer.com/article/nz.html" target="_blank">新西兰</a>
+                        <a class="g-list" href="//www.51offer.com/article/sg/lxcs_all_1.html" target="_blank">新加坡</a>
+                    </div>
+                </li>
+                <!-- <li class="n-mall" style="width: 140px;">
+                    <a href="//www.51offer.com/mall" rel="nofollow" target="_blank" onclick="log('send','click', 'toolbar_9_pc', 'toolbar');">选服务<b class="caret"> </b></a>
+                    <div class="global-lists-dropdown">
+                        <a class="g-list" href="//www.51offer.com/mall/list/208" target="_blank">留学申请</a>
+                        // <a class="g-list" href="//www.51offer.com/mall/list/209" target="_blank">高端留学</a>
+                        <a class="g-list" href="//www.51offer.com/mall/list/210" target="_blank">文书</a>
+                        // <a class="g-list" href="//www.51offer.com/mall/list/211" target="_blank">留学考试</a>
+                        <a class="g-list" href="//www.51offer.com/mall/list/213" target="_blank">行前</a>
+                        <a class="g-list" href="//www.51offer.com/mall/list/212" target="_blank">留学周边</a>
+                        <a class="g-list" href="//www.51offer.com/mall/list/214" target="_blank">留学百宝箱</a>
+                        <a class="g-list" href="//www.51offer.com/event/campuslinkurl/index.html" target="_blank">学生公寓</a>
+                        <a class="g-list" href="//www.51offer.com/event/background_promotion/index.html" target="_blank">51背景提升</a>
+                    </div>
+                </li> -->
+            </ul>
+        </div>
+    </div>
+  </div>
+  
+  <script>
+      var USER_TYPEPATH = "//www." + root_domain + "/index/showDiyGood.html";
+      getUserType();
+      // 用户判断
+      function getUserType() {
+  
+        $.ajax({
+            url: USER_TYPEPATH,
+            // processData: true,
+            dataType: "jsonp",
+            jsonp : 'callBack', //指定一个查询参数名称来覆盖默认的 jsonp 回调参数名 callBack
+            type: "get",
+            success: function (data) {
+              if (data.data) {
+                // $('#diy_abroad_escort_show').css('display', 'block')
+                $('.topright a:first').css('display', 'block')
+                $('#diylayerlxsq').html(`<a href="//diy.51offer.com" rel="nofollow" target="_blank" onclick="log('send','click', 'toolbar_2_pc', 'diy_toolbar');"><i class="icon"></i><span>0元留学申请</span></a>`)
+
+              } else {
+                // $('#diy_abroad_escort_show').css('display', 'none')
+                $('.topright a:first').css('display', 'none')
+                $('#diylayerlxsq').html(`<a href="//www.51offer.com/index/startDiy.html" rel="nofollow" target="_blank" onclick="log('send','click', 'toolbar_2_pc', 'toolbar');"><i class="icon"></i><span>留学申请</span></a>`)
+
+              }
+            },
+            error: function (e) {
+            }
+        })
+      }
+  </script>
+
+
+    <div class="container content">
+        <div class="navbar clearfix">
+            <ul>
+                <li><a href="https://www.51offer.com/article/index.html" target="_blank">留学攻略</a>&gt;</li>
+
+                                        <li><a href="https://www.51offer.com/article/uk.html" target="_blank">英国</a>&gt;</li>
+                
+                                                            <li><a href="https://www.51offer.com/article/uk/xzyx_all_1.html" target="_blank">选择院校</a>&gt;</li>
+                                    
+                                                            <li><a href="https://www.51offer.com/article/uk/xzyx_lxfy_1.html" target="_blank">留学费用</a>&gt;</li>
+                                                    <li>未来AI可能会取代哪些专业？排第一的竟然是中国学生的最爱</li>
+            </ul>
+        </div>
+        <div class="content-bd clearfix">
+            <div class="main-content">
+                <!-- 广告 -->
+                                <div class="detail-ad mb20">
+                                            <a href="" target="_blank" onclick="log('send','click', 'articleDetail', 'headBanner', '');"><img src="https://s2.51offer.com/51offer/cms/2023-07-14/20230714111214520.png" alt="" style="width: 100%; height: 100px;"></a>
+                                    </div>
+                                <!-- 文章部分 -->
+                <div class="article">
+                    <h1 class="title">未来AI可能会取代哪些专业？排第一的竟然是中国学生的最爱</h1>
+                    <div class="desc clearfix">
+                        <div class="fl">
+                            
+
+                            <span>阅读：113547</span>
+
+                                                            <span>来源:转载</span>
+                                                                                </div>
+                        <div class="fr">
+                            <div class="bdsharebuttonbox">
+                            <div class="fl">分享：&nbsp;</div>
+                                <!-- <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> -->
+                                <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                                <!-- <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a> -->
+                                <!-- <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a> -->
+                                <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                                <a href="#" class="bds_more" data-cmd="more"></a>
+                            </div>
+                        </div>    
+                    </div>
+                                            <div class="desc-box">
+                            什么专业领域的工作最有可能被机器所取代？搞清楚这个问题，对今天的高中生、大学生、乃至研究生选择学科专业和发展方向有重要指导意义。
+                        </div>
+                                        <div class="text">
+                        <p>前不久，一场九段棋手李世石与人工智能程序AlphaGo之间的围棋人机大战，最终AlphaGo以总比分4比1完胜李世石。机器进军斗智斗勇的围棋领域，连该领域的顶尖高手都无法抵挡，机器要是进入职场，又有多少人的饭碗将不保？所以大家在选大学专业的时候，要看看自己的专业以后会不会被AI替代，如果背替代，那还要你干嘛呢？</p>
+
+<center>
+<p style="text-align:center"><img alt="" height="400" src="https://s2.51offer.com/51offer/cms/2016-05-03/20160503025857998.jpg" width="600" /></p>
+
+<p style="text-align: left;">很多人的工作会不保可不是耸人听闻。事实上，人工智能已经走进人们的生活和工作，机器正在取代越来越多的人类工作岗位，还有很多人的工作岗位迟早将会被取代。一个现实问题是：什么专业领域的工作最有可能被机器所取代？搞清楚这个问题，对今天的高中生、大学生、乃至研究生选择学科专业和发展方向有重要指导意义。</p>
+
+<p style="text-align: left;"><strong>泰晤士报高等教育最近的一个分析报告揭示：金融和会计专业的学生，未来工作被电脑和机器人取代的风险最高。</strong>这似乎是显而易见的，当今社会，钞票越来越多，但数钞票的越来越少。有意思的是，这两个专业在中国的大学属热门专业，学生趋之若鹜，不知他们是否也笃信&ldquo;风险越高回报越大&rdquo;。</p>
+
+<p style="text-align: left;"><strong>一个工作是否被电脑和机器人取代，取决于它能否被自动化；被自动化的程度越高，被取代的风险越高。</strong>自动化风险最低的职业是医科。这是容易理解的。如果医生可以被机器人取代，小编砸锅卖铁也要买一部，一则保命，二则砸了号贩子们的饭碗。</p>
+
+<p style="text-align: left;">2013年，<a href="http://www.51offer.com/school/Oxford.html"  target="_blank">牛津大学</a>学者弗雷（Carl Frey）和奥斯本（Michael Osborne）开发过一个未来20年可能被自动化的职业排行榜，考虑的因素包括职业所需要的技能（如创造力和社会知识）至今是否超越了机器的能力。他们发现，<strong>在美国，47%的工作岗位存在自动化风险</strong>。</p>
+
+<p style="text-align: left;">泰晤士报高等教育使用这个职业排行榜数据和职业前景网站（Prospects careers website）的数据库（其中列出了某个学位课程与某个特定的工作是否&ldquo;直接相关&rdquo;或对这个工作是否&ldquo;有用&rdquo;），考察了哪些学科专业被自动化的风险最高，也即学哪些专业将来饭碗丢得快。结果表明，学科专业之间的差异巨大。</p>
+
+<p style="text-align: left;"><strong>会计和金融专业特别容易受到机器的冲击</strong>，因为直接相关的工作，如会计、税务专家和金融技术人员，被认为至少有95%的可能性被自动化。</p>
+
+<p style="text-align: left;"><strong>医生则安全得多</strong>，执业医生被自动化的可能性只有2%，其他相关职业，如科学家、健康服务经理也能抵抗机器的侵占。</p>
+
+<p style="text-align: left;"><strong>信息技术和编程工作被认为是相对安全的</strong>，因此计算机科学和信息技术是自动化最少的领域之一。</p>
+
+<p style="text-align: left;">律师、管理顾问、记者、公关人员和中学教师对自动化也有相当程度的免疫力，所以总体来看，<strong>学英语和历史比学理科好</strong>。</p>
+
+<p style="text-align: left;"><strong>体育科学和生物学的工作也不大可能被自动化</strong>，因为与健康相关的职业通常被自动化的可能性都较低。</p>
+
+<p style="text-align: left;"><strong>学物理的前景怎么样？</strong>诺贝尔化学奖得主、物理学家卢瑟福说过：&ldquo;科学只有物理一个学科，其他不过相当于集邮活动而已。&rdquo;卢瑟福的话意味着物理是一切学科的基础，也是&ldquo;万金油&rdquo;，学物理可做任何事情。但是，物理专业的毕业生从事不同职业，被机器取代的风险相差悬殊，例如，从事冶金行业至少有80%的风险，但在科学研究、商业分析和教学中选择职业的人可能更安全。</p>
+
+<p style="text-align: left;"><strong>被机器取代风险最高的职业通常是低技能、可以&ldquo;熟能生巧&rdquo;的职业。</strong>呼叫中心的销售员、打字员、办事员、管理员和接待员都至少有95%的可能性被机器替代。但也有人认为，即使是相对高技能、拼智力的职业，如医生和律师，也有可能被越来越有能力的机器所取代，当然，还有一个活生生的例子：下围棋。</p>
+
+<p style="text-align: left;"><strong>在未来的职场人机大战中，如何才能确保饭碗不丢呢？</strong>牛津大学经济学讲师斯坎德(Daniel Susskind)说，为了避免淘汰，未来的学生应该加入这样的单位：工作是&ldquo;弹性的&rdquo;，工作性质愿意随着越来越多领域被自动化而改变。例如，一个护士今天所做的事情与25年前已大不相同，以前，他们处理诸如临床护理和照顾便盆之类的事务，现在他们可以进行小手术。</p>
+
+<p style="text-align: left;">至于专业领域，他建议学生&ldquo;做那些机器做不到的事情&hellip;机器是不善于人际沟通、同情和解决问题&rdquo;的，并避开那些涉及&ldquo;机械式学习和大量信息&rdquo;的领域。从这点看，大学老师的饭碗可能是很难丢掉的，只要他们会教学生、会发SCI论文。</p>
+
+<p style="text-align: left;">现代人读大学或读研大多很现实，现实到只有&ldquo;眼前的苟且&rdquo;，选择专业时考虑的首要问题往往是学什么专业好找工作、好找好工作，而很少考虑这样的工作将来被机器取代的可能性。<strong>职场是大学的出口，机器对职业饭碗的侵占势必冲击高等教育。</strong>读大学，无论学什么专业，没有&ldquo;诗和远方&rdquo;，不掌握一些机器无法替代的能力，饭碗迟早会丢掉。</p>
+
+<p style="text-align: left;"><strong>最容易被机器替代专业排名</strong></p>
+
+<p style="text-align: left;">Accountancy and finance</p>
+
+<p style="text-align: left;">Economics</p>
+
+<p style="text-align: left;">Politics and international relations</p>
+
+<p style="text-align: left;">Bussiness and management studies</p>
+
+<p style="text-align: left;">Physics</p>
+
+<p style="text-align: left;">Law</p>
+
+<p style="text-align: left;">Mathematics</p>
+
+<p style="text-align: left;">Sociology</p>
+
+<p style="text-align: left;">Modern languages</p>
+
+<p style="text-align: left;">Psychology</p>
+
+<p style="text-align: left;">Chemistry</p>
+
+<p style="text-align: left;">Civil engineering</p>
+
+<p style="text-align: left;">English</p>
+
+<p style="text-align: left;">History</p>
+
+<p style="text-align: left;">Sports science</p>
+
+<p style="text-align: left;">Fine art</p>
+
+<p style="text-align: left;">Computer science/IT</p>
+
+<p style="text-align: left;">Biology</p>
+
+<p style="text-align: left;">Medicine</p>
+
+<p style="text-align:center"><img alt="" height="299" src="https://s2.51offer.com/51offer/cms/2016-05-03/20160503030245917.jpg" width="600" /></p>
+
+<p style="text-align: left;"><strong>最后送上一个小福利：</strong></p>
+
+<p style="text-align: left;">只要你是DIY申请留学的学生，51offer可以提供签证、宿舍、奖学金、语言班、冲刺名校贴身指导等申请服务，完全<strong>免费</strong>，总价值1万元，限量510份，先到先得。详情请戳：<a href="http://www.51offer.com/event/authorization/index.html#src=012186" target="_blank">51offer DIY留学大礼包</a></p>
+</center>
+
+                    </div>
+                    <div class="optictyBottom"></div>
+                    <div class="openMore">
+                        <img style="width: 100%;" src="https://s2.51offer.com/51offer/pc/article/openMore.png" />
+                    </div>
+                </div>
+            
+                <!--  diy 广告 -->
+                                <script id="article_commend">
+                seajs.use('jquery', function(jQuery){
+                    jQuery.ajax({url:'https://www.51offer.com/article/getLevelCategoryDetailByKey.html?key=article_commend'}).then(function(res){
+                        if(res && res.article_commend && res.article_commend.length > 0){
+                            var content = res.article_commend[0]
+                            jQuery('#article_commend').before(content.contentJson)
+                        }
+                    })
+                })
+                </script>
+                                
+                                <div class="label-desc">标签：
+                                                            <a target="_blank" href="https://www.51offer.com/article/uk/tag_83_1.html" 
+                    class="tag" >法律专业</a>
+                                                                                <a target="_blank" href="https://www.51offer.com/article/uk/tag_88_1.html" 
+                    class="tag" >会计专业</a>
+                                                                                <a target="_blank" href="https://www.51offer.com/article/uk/tag_77_1.html" 
+                    class="tag" >金融专业</a>
+                                                                                <a target="_blank" href="https://www.51offer.com/article/uk/tag_59_1.html" 
+                    class="tag" style="display:none">留学指南</a>
+                                                                                <a target="_blank" href="https://www.51offer.com/article/uk/tag_73_1.html" 
+                    class="tag" style="display:none">留学就业</a>
+                                                           
+                                        <span class="author">51offer编辑：niki</span>
+                                    </div>
+                                <!-- 广告 -->
+               
+
+                <!-- 相关阅读 -->
+                                <div class="about-read">
+                    <div class="detail-title">相关阅读</div>
+                    <ul class="read-list  clearfix">
+                                                                                <li>
+                                <a target="_blank" href="https://www.51offer.com/article/detail_112189.html" onclick="log('send','click', 'articleDetail', '2024U.S.News排名“火速飙升”的美国大学！申到是不是赚到？!','112189');"><img src="https://s2.51offer.com/51offer/cms/2024-09-05/20240905043901108.jpg?imageMogr2/thumbnail/x160/crop/260x" alt="2024U.S.News排名“火速飙升”的美国大学！申到是不是赚到？!"></a>
+                                <h4><a href="https://www.51offer.com/article/detail_112189.html" target="_blank">2024U.S.News排名“火速飙升”的美国大学！申到是不是赚到？!</a></h4>
+                                                                <p><i>11165</i></p>
+                            </li>
+                                                                                                            <li>
+                                <a target="_blank" href="https://www.51offer.com/article/detail_112099.html" onclick="log('send','click', 'articleDetail', '刚刚！2024软科全球大学学术排名更新！英国8所进入TOP100','112099');"><img src="https://s2.51offer.com/51offer/cms/2024-08-16/20240816012713639.jpg?imageMogr2/thumbnail/x160/crop/260x" alt="刚刚！2024软科全球大学学术排名更新！英国8所进入TOP100"></a>
+                                <h4><a href="https://www.51offer.com/article/detail_112099.html" target="_blank">刚刚！2024软科全球大学学术排名更新！英国8所进入TOP100</a></h4>
+                                                                <p><i>20230</i></p>
+                            </li>
+                                                                                                            <li>
+                                <a target="_blank" href="https://www.51offer.com/article/detail_111993.html" onclick="log('send','click', 'articleDetail', '日本最低时资上调至1054日元，创历年新高！','111993');"><img src="https://s2.51offer.com/51offer/cms/2024-07-26/20240726110518305.png?imageMogr2/thumbnail/x160/crop/260x" alt="日本最低时资上调至1054日元，创历年新高！"></a>
+                                <h4><a href="https://www.51offer.com/article/detail_111993.html" target="_blank">日本最低时资上调至1054日元，创历年新高！</a></h4>
+                                                                <p><i>5026</i></p>
+                            </li>
+                                                                        </ul>
+                </div>
+                
+                <!-- 相关院校 -->
+                            </div>
+
+   
+            <!-- 侧栏 -->
+            <div class="aside-art">
+                                    <div class="aside-art-item">
+                        <img src="" alt="">
+                    </div>
+                
+                <div class="info-section3 side-login-gg" style="display:none;">
+                    <img src="https://s2.51offer.com/school/2018-01-24/side.png" width="310" height="326"/>
+                </div>
+
+                <!-- 新加运营banner位置 -->
+                <div class="article_yunying">
+                    <img class="yunying_banner" src="https://s2.51offer.com/51offer/pc/article/articleAdd.png">
+                </div>
+
+                <!-- 热门攻略 -->
+                                <div class="aside-art-item">
+                    <div class="aside-art-title">
+                        <h3>热门攻略</h3>
+                    </div>
+                    <div class="aside-art-content">
+                        <ul class="link-list">
+                                                            <li><a target="_blank" onclick="log('send', 'click', 'article_hot', '最适合女生的五大英国留学专业！')" href="https://www.51offer.com/article/detail_112435.html">最适合女生的五大英国留学专业！</a></li>
+                                                            <li><a target="_blank" onclick="log('send', 'click', 'article_hot', '留学党必看，帮你省钱省到爆的32个生活网站！')" href="https://www.51offer.com/article/detail_87783.html">留学党必看，帮你省钱省到爆的32个生活网站！</a></li>
+                                                            <li><a target="_blank" onclick="log('send', 'click', 'article_hot', '英国留学成本调查：一年留学需要准备多少钱？')" href="https://www.51offer.com/article/detail_112399.html">英国留学成本调查：一年留学需要准备多少钱？</a></li>
+                                                            <li><a target="_blank" onclick="log('send', 'click', 'article_hot', '重磅｜2025QS世界大学排名发布！英校大洗牌！世界第2变成了它？')" href="https://www.51offer.com/article/detail_111677.html">重磅｜2025QS世界大学排名发布！英校大洗牌！世界第2变成了它？</a></li>
+                                                            <li><a target="_blank" onclick="log('send', 'click', 'article_hot', '英国毕业生起薪排名公布，毕业就能赚36万的是什么专业？ ')" href="https://www.51offer.com/article/detail_112379.html">英国毕业生起薪排名公布，毕业就能赚36万的是什么专业？ </a></li>
+                                                            <li><a target="_blank" onclick="log('send', 'click', 'article_hot', '高薪！这几大英国留学专业让你赚得盆满钵满 ')" href="https://www.51offer.com/article/detail_112371.html">高薪！这几大英国留学专业让你赚得盆满钵满 </a></li>
+                                                            <li><a target="_blank" onclick="log('send', 'click', 'article_hot', '2019年QS世界大学排名出炉！麻省理工创造历史！')" href="https://www.51offer.com/article/detail_92691.html">2019年QS世界大学排名出炉！麻省理工创造历史！</a></li>
+                                                            <li><a target="_blank" onclick="log('send', 'click', 'article_hot', '常春藤联盟大学VS牛津剑桥，到底谁更难进？')" href="https://www.51offer.com/article/detail_91677.html">常春藤联盟大学VS牛津剑桥，到底谁更难进？</a></li>
+                                                    </ul>
+                    </div>
+                </div> 
+                
+                <!-- 填写一秒获取留学方案 -->
+                <div class="info-section3 side-test-box">
+                                        <div class="b-title">一秒获取留学方案</div>
+                                        <div class="at-section">
+                        <!-- 填写第一步留学方案信息 -->
+                        <input type="hidden" name="tempId" id="tempId"/>
+
+                        <div class="at-plan" id="J_study">
+
+                            <div class="form-group" style="*position:relative;*z-index: 30;">
+                                <div class="input-control dropdown" id="hope_in_country">
+                                    <a class="dropdown-toggle" data-toggle="dropdown">
+                                        <b class="caret"></b>
+                                        <span placeholder="选择想去的国家" data-val=""></span>
+                                    </a>
+                                    <ul class="dropdown-menu J_formSelect country_select"></ul>
+                                </div>
+                                <div class="error" id="countryError" style="display: none;">
+                                    <span class="err">*</span>
+                                    <span>请选择出国时间</span>
+                                </div>
+                            </div>
+                            <div class="form-group" style="*position:relative;*z-index: 29;">
+                                <div class="input-control dropdown" id="hope_in_year">
+                                    <a data-toggle="dropdown" class="dropdown-toggle">
+                                        <b class="caret"></b>
+                                        <span data-val="" placeholder="计划出国时间"></span>
+                                    </a>
+                                    <ul class="dropdown-menu J_formSelect year_select"></ul>
+                                </div>
+                                <div class="error" id="yearError" style="display: none;">
+                                    <span class="err">*</span>
+                                    <span>请选择出国时间</span>
+                                </div>
+                            </div>
+                            <div class="form-group" style="*position:relative;*z-index: 28;">
+                                <div class="input-control dropdown" id="grade_course_major">
+                                    <a data-toggle="dropdown" class="dropdown-toggle">
+                                        <b class="caret"></b>
+                                        <span data-val="" placeholder="请选择目前就读年级"></span>
+                                    </a>
+                                    <ul class="dropdown-menu J_formSelect major_select"></ul>
+                                </div>
+                                <div class="error" id="majorError" style="display: none;">
+                                    <span class="err">*</span>
+                                    <span>请选择就读年级</span>
+                                </div>
+                            </div>
+                                                                                    <div class="form-group" style="margin-bottom: 2px;">
+                                <a class="btn regist_and_getPlan" onclick="log('send','click', 'knowledgeArticle_detail', 'reg', 'click');">获取留学方案</a>
+                            </div>
+                            <div class="bottom-hint">已有<span>92577</span>人获得方案</div>
+                                                    </div>
+                    </div>
+                </div>
+
+                
+                <!-- 猜你喜欢 -->
+                                <div class="aside-art-item">
+                    <div class="aside-art-title">
+                        <h3>猜你喜欢</h3>
+                    </div>
+                    <div class="aside-art-content">
+                        <ul class="link-list">
+                                                            <li><a target="_blank" onclick="log('send','click', 'article_guess', 'article_guess');" href="https://www.51offer.com/article/detail_11731.html">从中英教育对比看英国留学的利与弊</a></li>
+                                                            <li><a target="_blank" onclick="log('send','click', 'article_guess', 'article_guess');" href="https://www.51offer.com/article/detail_11839.html">龙比亚大学发布校园寝室设施及住宿条件</a></li>
+                                                            <li><a target="_blank" onclick="log('send','click', 'article_guess', 'article_guess');" href="https://www.51offer.com/article/detail_15072.html">赴英住哪里？盘点看到照片就想住进去的学生公寓</a></li>
+                                                            <li><a target="_blank" onclick="log('send','click', 'article_guess', 'article_guess');" href="https://www.51offer.com/article/detail_15779.html">留学经验分享：详解英国签证申请中的资金证明</a></li>
+                                                            <li><a target="_blank" onclick="log('send','click', 'article_guess', 'article_guess');" href="https://www.51offer.com/article/detail_16017.html">华威大学会计金融录取专业申请攻略</a></li>
+                                                            <li><a target="_blank" onclick="log('send','click', 'article_guess', 'article_guess');" href="https://www.51offer.com/article/detail_16121.html">苦逼的Eve传媒选校+申请经验+心路历程</a></li>
+                                                            <li><a target="_blank" onclick="log('send','click', 'article_guess', 'article_guess');" href="https://www.51offer.com/article/detail_16349.html">在英国利兹大学读书 校内外生活多姿多彩</a></li>
+                                                            <li><a target="_blank" onclick="log('send','click', 'article_guess', 'article_guess');" href="https://www.51offer.com/article/detail_16468.html">留学生欧洲自驾游：英格兰王国古都温彻斯特</a></li>
+                                                    </ul>
+                    </div>
+                </div>      
+                                <!-- 广告 -->
+                            </div>            
+        </div>
+
+    </div>
+
+        <div class="container mt20 mb20">
+        <img src="https://s2.51offer.com/51offer/cms/2022-03-03/20220303103721364.jpg" alt="" style="width: 100%; height: 100px;" onclick="log('send','click', 'article_banner_buttom', 'article_banner_buttom')">
+    </div>
+    
+    <div class="global-footer">
+    <div class="global_copyrights">
+        <div class="other-links">
+            <a target="_blank" href="https://www.51offer.com/">英国留学</a>|
+            <a target="_blank" href="https://www.51offer.com/school/index.html">学校广场</a>|
+            <a target="_blank" href="https://www.51offer.com/article/index.html">问答社区</a>|
+            <a target="_blank" href="https://account.51offer.com/user/feedback.html" rel="nofollow">投诉与建议</a>| 
+            <a target="_blank" href="https://www.51offer.com/aboutus/" rel="nofollow">关于我们</a>|  
+            <a target="_blank" href="https://www.51offer.com/aboutus/cooperation.html" rel="nofollow">市场合作</a>|
+            <a href="https://www.51offer.com/article/index.html" target="_blank">留学资讯</a>
+        </div>
+        <div class="copyright">
+            51offer让留学更简单 <a href="https://beian.miit.gov.cn">沪ICP备11021479号-2</a> 上海市徐汇区云锦路600号航汇大厦B区12楼
+        </div>
+        <div class="safe clearfix">
+            <a class="foot-gongshang" rel="nofollow" target="_blank" href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=1u2xwmwzpxrk6u2rvor2928au92degmyr8rxc2ylwnncf0x"></a>
+            <a class="foot_zhengxin" rel="nofollow" target="_blank" href="http://www.zx110.org"></a>
+            <!--<a class="foot_pinggu" rel="nofollow" target="_blank" href="http://pinggu.zx110.org/review_url_51offer.com"></a>-->
+            <a class="foot_ipbeian" rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action"></a>
+            <a class="foot_jubao" rel="nofollow" target="_blank" href="http://www.cyberpolice.cn/wfjb"></a>
+            <a class="foot_shiming" rel="nofollow" href="https://www.anquan.org/authenticate/cert/?site=www.51offer.com&at=realname" target="_blank"></a>
+        </div>
+    </div>
+</div>
+
+<div id="__global-passport"></div>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1eaf35448ff597721be1fc0bbb93fd39";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script type="text/javascript">
+(function (i, s, o, g, r, a, m) {i['GoogleAnalyticsObject'] = r;i[r] = i[r] || function () {(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date();a = s.createElement(o), m = s.getElementsByTagName(o)[0];a.async = 1;a.src = g;m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-47326719-1', 'auto');
+ga('set', 'dimension3', window.__src__);
+ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " https://");
+(function (s, o, g, a, m) {
+    a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+})(document, 'script', _bdhmProtocol + 'hm.baidu.com/h.js?2d817197f98b64841ffa5cf9d56d54dd');
+</script>
+
+<script>
+(function(){
+  if(window.location.protocol){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+}
+})();
+</script>
+
+
+
+    <!-- 弹出注册框 -->
+    <!-- <div class="modal_mask register_modal hide">
+        <div class="modal_container">
+            <img class="modolClose" src="https://s2.51offer.com/common/new/2018-03-21/close.png" />
+            <p class="modal_tit">输入手机号码 查看更多内容</p>
+            <div class="phoneBox inputBox">
+                <span>中国+0086</span>
+                <input id='mobilePhone' maxlength="11" placeholder="输入手机号码" />
+            </div>
+            <span class="error_phone error"></span>
+            <div class="codeBox inputBox">
+                <input id="verifyCode" placeholder="验证码"/>
+                <button class="getCodeBtn codeBtn" disabled>获取短信验证码</button>
+                <button class="verifyMask"></button>
+            </div>
+            <span class="error_code error"></span>
+            <button class="confirm_btn">查看更多内容</button>
+            <div class="no_landing">暂不登录</div>
+        </div>
+    </div> -->
+    <div class="modal_mask success_modal_mask dataModal hide">
+        <div class="modal_container success_modal_container">
+            <img class="modolClose" src="https://s2.51offer.com/common/new/2018-03-21/close.png" />
+            <p class="boldTxt">恭喜您领取成功</p>
+            <p class="dataMsg">
+                下载链接：<a href="https://pan.baidu.com/s/1ZVTVBanjRuA-m-NUj8a6KQ"><span>https://pan.baidu.com/s/1ZVTVBanjRuA-m-NUj8a6KQ</span></a>
+            </p>
+            <p class="dataMsg midMargin">提取码：<span>jfp4</span></p>
+            <button class="gotMsg">我知道了</button>
+        </div>
+    </div>
+    <div class="modal_mask success_modal_mask consultModal hide">
+        <div class="modal_container success_modal_container">
+            <img class="modolClose" src="https://s2.51offer.com/common/new/2018-03-21/close.png" />
+            <p class="boldTxt">添加小助手微信 并回复“留学活动”</p>
+            <img class="wechatIcon successIcon" src="https://s2.51offer.com/index/assistant/one.jpg" />
+            <button class="gotMsg">我知道了</button>
+        </div>
+    </div>
+
+    <!-- photoswipe -->
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="pswp__bg"></div>
+        <!-- Slides wrapper with overflow:hidden. -->
+        <div class="pswp__scroll-wrap">
+            <div class="pswp__container">
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+            </div>
+            <div class="pswp__ui pswp__ui--hidden">
+                <div class="pswp__top-bar">
+                    <!--  Controls are self-explanatory. Order can be changed. -->
+                    <div class="pswp__counter"></div>
+                    <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                    <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                    <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                    <div class="pswp__preloader">
+                        <div class="pswp__preloader__icn">
+                            <div class="pswp__preloader__cut">
+                                <div class="pswp__preloader__donut"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                    <div class="pswp__share-tooltip"></div>
+                </div>
+                <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+                <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+                <div class="pswp__caption">
+                    <div class="pswp__caption__center"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- photoswipe end -->
+<script>
+    seajs.use('51offer/info-channel/1.0.4/detail');
+</script>
+
+<script type="text/javascript">
+     window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='//static.51offer.com/mod/gallery/baidushare/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+
+</body>
+</html>

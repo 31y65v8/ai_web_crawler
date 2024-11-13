@@ -1,0 +1,19 @@
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Date: Wed, 13 Nov 2024 12:22:58 GMT
+Vary: Accept-Encoding
+Vary: *
+Cache-Control: public, max-age=30
+Expires: Wed, 13 Nov 2024 12:23:27 GMT
+Last-Modified: Wed, 13 Nov 2024 12:22:57 GMT
+X-Aspnetmvc-Version: 5.2
+X-Aspnet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Encoding: gzip
+Via: cache6.l2cn3084[187,186,200-0,M], cache42.l2cn3084[188,0], vcache4.cn6132[211,211,200-0,M], vcache5.cn6132[216,0]
+Ali-Swift-Global-Savetime: 1731500578
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-Savetime: Wed, 13 Nov 2024 12:22:58 GMT
+X-Swift-Cachetime: 60
+Timing-Allow-Origin: *
+Eagleid: b7f0539917315005778657927e

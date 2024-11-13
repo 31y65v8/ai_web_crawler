@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "GPS=1; YSC=uQxQqKlV8Ns; VISITOR_INFO1_LIVE=MdDFDfspDUc; VISITOR_PRIVACY_METADATA=CgJTRxIEGgAgDw%3D%3D",
+        "Referer": "https://www.youtube.com/watch?v=e4NUpaN5Qvc",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.youtube.com/watch?v=e4NUpaN5Qvc",
+    "wait": 6
+}

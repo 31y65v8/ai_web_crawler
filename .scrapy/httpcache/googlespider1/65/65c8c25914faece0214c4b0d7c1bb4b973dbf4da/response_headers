@@ -1,0 +1,13 @@
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type, X-Requested-With, Cache-Control,Authorization,sookie
+Access-Control-Allow-Methods: GET, POST, DELETE, OPTIONS
+Access-Control-Allow-Origin: http://10.254.22.252:5001
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Wed, 13 Nov 2024 13:25:37 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Set-Cookie: acw_tc=0bdd26d217315043370745606ee7d8e57a2ae6414c56d67da782823db4451f;path=/;HttpOnly;Max-Age=1800
+Set-Cookie: advanced-stcn_web=ps9hf155mi2ke9dv6ocm7p1575; path=/; HttpOnly
+Vary: Accept-Encoding

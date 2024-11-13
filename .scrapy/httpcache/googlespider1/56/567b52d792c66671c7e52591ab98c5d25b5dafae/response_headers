@@ -1,0 +1,19 @@
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Date: Wed, 13 Nov 2024 12:24:28 GMT
+Set-Cookie: acw_tc=0a47318c17315006684501798e0078d9eaf41b97c8fe3cea65cf27b11e22a3;path=/;HttpOnly;Max-Age=1800
+Set-Cookie: connect.sid=s%3AtJm_PTk6MLWjO27GEyZrNzy1GRUqxAC8.N1aRwugLsIdNVFZOxq0uSLdkdDHIumEBJE5MBj6P%2BiI; Path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: Express
+Etag: W/"95f9-o46rLuC1PpwKPigCndQziXRKEbs"
+Expires: Thu, 14 Nov 2024 00:24:28 GMT
+Cache-Control: max-age=43200
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip
+Via: cache31.l2cn3084[280,280,200-0,M], cache18.l2cn3084[281,0], cache4.cn6365[300,300,200-0,M], cache25.cn6365[303,0]
+Ali-Swift-Global-Savetime: 1731500668
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-Savetime: Wed, 13 Nov 2024 12:24:28 GMT
+X-Swift-Cachetime: 43200
+Timing-Allow-Origin: *
+Eagleid: b7f054ad17315006683364676e

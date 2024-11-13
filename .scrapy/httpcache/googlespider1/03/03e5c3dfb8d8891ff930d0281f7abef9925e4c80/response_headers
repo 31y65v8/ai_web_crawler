@@ -3,7 +3,7 @@ Cache-Control: private
 Content-Type: text/html; charset=utf-8
 Content-Encoding: gzip
 Vary: Accept-Encoding
-Set-Cookie: ASP.NET_SessionId=pgch4sjqigeaehd0g3wsl0fl; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ASP.NET_SessionId=5c1p5krykwejsg4o12jmlfaa; path=/; secure; HttpOnly; SameSite=Lax
 X-Frame-Options: SAMEORIGIN
 X-Content-Type-Options: nosniff
 X-Xss-Protection: 1;mode=block
@@ -11,4 +11,4 @@ Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' ws: ws
 Cookie: Secure
 X-Aspnet-Version: 0
 X-Powered-By: WAF/2.0
-Date: Sun, 10 Nov 2024 07:45:38 GMT
+Date: Wed, 13 Nov 2024 12:55:49 GMT

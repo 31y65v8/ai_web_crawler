@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "AWSALB=2qslR4VLyc8NcEvGQqfZwrsL2Ku2HfO9kiQTjI3TKKPjycrWFHw+3yWaKBCrWXMzp1eZkRah5+brE+uu0yHt03qS9KjzKroP6h+vGD7m5MUKwW3wdL3GDqS7FBTK; AWSALBCORS=2qslR4VLyc8NcEvGQqfZwrsL2Ku2HfO9kiQTjI3TKKPjycrWFHw+3yWaKBCrWXMzp1eZkRah5+brE+uu0yHt03qS9KjzKroP6h+vGD7m5MUKwW3wdL3GDqS7FBTK; JSESSIONID=D555D38A720592444EDB3714CAB80AAE; GUEST_LANGUAGE_ID=zh_CN; COOKIE_SUPPORT=true",
+        "Referer": "https://www.wipo.int/zh/web/ai-tools-services/classification-assistant",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.wipo.int/zh/web/ai-tools-services/classification-assistant",
+    "wait": 6
+}

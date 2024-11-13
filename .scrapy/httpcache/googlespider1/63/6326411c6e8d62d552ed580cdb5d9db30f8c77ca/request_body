@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "AWSALB=fBkeTDZCG0e0nB8nOdEq0Ms5S5FK1nXQO9puYeGlXDInT/RTismd0d5aWMmdWvTFGP45rcl2sMapo+7BWu4yFovXk2d08yrrnm7ISPsCE6efq4QrUFOMi798/bNv; AWSALBCORS=fBkeTDZCG0e0nB8nOdEq0Ms5S5FK1nXQO9puYeGlXDInT/RTismd0d5aWMmdWvTFGP45rcl2sMapo+7BWu4yFovXk2d08yrrnm7ISPsCE6efq4QrUFOMi798/bNv",
+        "Referer": "https://www.zaobao.com.sg/finance/singapore/story20240620-3952716",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.zaobao.com.sg/finance/singapore/story20240620-3952716",
+    "wait": 6
+}

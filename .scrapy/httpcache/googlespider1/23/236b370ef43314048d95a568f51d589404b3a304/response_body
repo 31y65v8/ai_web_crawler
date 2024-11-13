@@ -1,0 +1,412 @@
+<!DOCTYPE html><html lang="zh-CN" class="has-navbar-fixed-top"><head>
+  <title>常用AI技术分类 - 行业研究数据 - 小牛行研</title>
+<meta name="description" content="小牛行研是由AI驱动的行业研究数据服务，利用深度学习对文档资料进行阅读和解析，包含有海量行业研究报告和行业数据图表，帮助您高效获取有效行业信息">
+<meta name="keywords" content="常用ai技术分类">
+<link rel="canonical" href="https://www.hangyan.co/charts/3425625205987345962">
+
+  <meta name="renderer" content="webkit">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Language" content="zh-CN">
+
+  <!-- imp verifiy -->
+  <meta name="ir-site-verification-token" value="754313524">
+  <meta name="google-adsense-account" content="ca-pub-7565556478619194">
+  <link rel="shortcut icon" type="image/x-icon" href="/packs/media/images/logo-icon-db9af3757d83a79557c9ee602595a869.png">
+
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="dKdhOd6EwcTrP4USB9YdotA8zE_rlSFyB12fYtoHz5q_M9HsT-pLijhkVp3HvDkD7rOet3gerLhbv_FEMB8cWw">
+  
+  <script src="/packs/js/application-c1e2245d4225c79bb702.js" data-turbolinks-track="reload"></script>
+  <link rel="stylesheet" media="all" href="/packs/css/application-9cc79567.css" data-turbolinks-track="reload">
+
+  <link rel="preload" href="/packs/media/fonts/iconfont-95b6b3a9532083ef4f041ab79d5c53e0.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link href="https://hangyan-prod.s3.pek3b.qingstor.com" rel="preconnect" crossorigin="">
+  <link href="https://hmcdn.baidu.com" rel="preconnect" crossorigin="">
+  <link href="https://res.wx.qq.com" rel="preconnect" crossorigin="">
+
+  <script src="https://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js" data-turbolinks-track="reload" rel="dns-prefetch"></script>
+  <script src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js" data-turbolinks-track="reload" rel="dns-prefetch"></script>
+
+</head>
+
+
+  <body data-env="production" class="w-full bg-white" data-controller="global">
+    <div id="turbo-transition-slot" data-controller="turbo-transition"></div>
+    <div class="flex flex-col min-h-screen" style="min-height: 100vh">
+      <div class="fixed w-full z-30">
+  <div class="fixed sm:relative w-full z-30 shadow-sm">
+
+  <div class="bg-white text-secondary-700 font-base" data-controller="navbar">
+      <div class="container shadow-sm mx-auto p-0 flex flex-col divide-y md:divide-y-0 md:flex-row items-center justify-between text-sm text-center">
+
+            <div class="md:hidden h-10 w-full flex flex-row items-center justify-between">
+        <div class="text-center px-0 h-auto py-0 sm:px-6 flex flex-row justify-between">
+          <a class="focus:outline-none flex align-items-center items-center my-0" href="/">
+            <img class="w-22 h-10" alt="logo" width="102" height="56" src="/packs/media/images/logo-full-d7c65ed8bb0f460635430444ce741fac.svg">
+</a>        </div>
+          <div id="autocomplete-mobile" class="rounded-full w-2/3 z-40" data-controller="autocomplete" data-autocomplete-container-value="#autocomplete-mobile" data-autocomplete-panel-container-value="#autocomplete-panel-mobile" data-autocomplete-detached-search-button-class-value="h-6 rounded-full " data-autocomplete-detached-search-button-icon-class-value="w-4 h-4" data-turbo-cache="false">
+          </div>
+          <div id="autocomplete-panel-mobile" class=""></div>
+
+        <div class="px-3 flex flex-row items-center justify-center">
+          <button class="md:hidden focus:outline-none focus:ring-0" data-navbar-target="mobileMenuOpenControl" data-action="click-&gt;navbar#toggle">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-6 h-6 p-0 md:w-10 md:h-10 md:p-2 text-primary-500">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                  </svg>
+          </button>
+          <button class="hidden md:hidden focus:outline-none focus:ring-0" data-navbar-target="mobileMenuCloseControl" data-action="click-&gt;navbar#toggle">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-6 h-6 p-0 md:w-10 md:h-10 md:p-2 text-primary-500 cursor-pointer">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                  </svg>
+          </button>
+        </div>
+      </div>
+
+            <div class="hidden md:block text-center w-full px-3 md:w-auto h-auto md:px-4 py-0 md:py-0 sm:px-6 flex flex-row justify-between">
+        <a class="focus:outline-none flex align-items-center items-center my-0 md:mb-0" href="/">
+          <img class="w-22 h-8 md:h-14" alt="logo" width="102" height="56" src="/packs/media/images/logo-full-d7c65ed8bb0f460635430444ce741fac.svg">
+</a>      </div>
+
+      <div class="hidden w-1/4 h-10 md:flex flex-col items-center justify-center"> <!-- 固定宽度占位容器 -->
+          <div id="autocomplete-desktop" class="rounded-full w-full z-40" data-controller="autocomplete" data-autocomplete-container-value="#autocomplete-desktop" data-autocomplete-panel-container-value="#autocomplete-panel-desktop" data-autocomplete-panel-layout-class-value="" data-autocomplete-panel-class-value="" data-autocomplete-form-class-value="h-8 rounded-full" data-turbo-cache="false">
+          </div>
+          <div id="autocomplete-panel-desktop" class=""></div>
+
+      </div>
+
+      <a data-navbar-target="navItem" class="hidden navbar-item" href="/charts">查数据</a>
+      <a data-navbar-target="navItem" class="hidden navbar-item" href="/reports">找报告</a>
+      <a data-navbar-target="navItem" class="hidden navbar-item" href="/pricing">价格</a>
+
+      <a rel="nofollow" data-action="click-&gt;navbar#toggle" data-navbar-target="navItem" class="hidden navbar-item" data-method="get" href="/login">登录</a>
+    </div>
+
+  </div>
+
+</div>
+
+</div>
+
+      <div id="modal" data-controller="modal" data-turbo-cache="false" class="modal-container fixed w-full animate-fade-in-down">
+
+    <div id="modal-content" data-modal-target="content" class="">
+    </div>
+
+    <div id="modal-overlay" data-modal-target="overlay" data-action="click-&gt;modal#close" class="modal-overlay hidden">
+    </div>
+</div>
+
+      <div id="flash">
+
+
+
+
+</div>
+
+
+      <div id="page-content-container" class="flex-grow flex flex-col container px-0 pt-10 md:pt-16 bg-secondary-50">
+        <div id="chart_show_content" class="content flex flex-row">
+  <div id="main-content" class="w-full md:w-2/3 h-auto">
+    <div class="w-full flex flex-col m-auto items-center justify-center">
+  <div class="box w-full ">
+    <div class="flex flex-col flex-1 items-center justify-center">
+          <div id="chart-3425625205987345962" class="box my-2 w-auto h-auto border hover:border-primary-500 flex flex-col ">
+        <div class="flex-1 flex flex-col">
+          <div class="text-sm sm:text-xs text-secondary-900 font-medium"></div>
+          <a class="glightbox flex flex-col justify-center flex-1" data-glightbox="type: image; width: 100%; height: 100vh; description: AI 技术底层突破显著，赋能医药行业发展。近年来，药物开发领域在计算机技术方面取得了重大进展，特别是在人工智能领域，利用人工智能系统和软件使用机器学习算法处理、解释和学习输入数据的人工智能药物设计得到了广泛采用。数据、算法和算力被认为是 AI 的三大支柱，持续推动 AI 领域的发展。机器学习是 AI 的一种类型，计算机可以自己学习，识别模式然后建立模型，并根据这些模型进行预测;深度学习则是机器学 习的一种进阶类型。AI 算法可以按照不同的分类标准进行类型划分，例如按照模型训练方式的差异可以分为监督学习、无监督学习，以及强化学习，按照模型预测任务的不同可分为分类算法(包括二分类和多分类)、回归算法、聚类算法、降维算法、异常检测算法等。 " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-6-c-0.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-6-c-0.png" height="376" width="907" alt="常用AI技术分类-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+        </div>
+
+    </div>
+
+      <div class="flex items-center justify-around">
+        <h1 class="text p-0">常用AI技术分类</h1>
+      </div>
+        <div class="items-center my-2 text-sm  p-4 bg-gray-100">
+          <p>研究报告节选:</p>
+          AI 技术底层突破显著，赋能医药行业发展。近年来，药物开发领域在计算机技术方面取得了重大进展，特别是在人工智能领域，利用人工智能系统和软件使用机器学习算法处理、解释和学习输入数据的人工智能药物设计得到了广泛采用。数据、算法和算力被认为是 AI 的三大支柱，持续推动 AI 领域的发展。机器学习是 AI 的一种类型，计算机可以自己学习，识别模式然后建立模型，并根据这些模型进行预测;深度学习则是机器学 习的一种进阶类型。AI 算法可以按照不同的分类标准进行类型划分，例如按照模型训练方式的差异可以分为监督学习、无监督学习，以及强化学习，按照模型预测任务的不同可分为分类算法(包括二分类和多分类)、回归算法、聚类算法、降维算法、异常检测算法等。 
+        </div>
+      <div class="flex flex-col md:flex-row mt-2 items-center justify-around">
+            <a data-turbo="true" class="text-sm md:text-sm m-3z btn btn-primary" href="/reports/3425624029770286445?page_num=6">阅读研究报告</a>
+      </div>
+      <div class="text-sm px-1 text-gray-400">最后更新: 2024-08-02</div>
+    </div>
+  </div>
+
+  <div class="w-full mt-2" data-turbo-cache="false" data-turbo-temporary="">
+      <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7565556478619194" data-ad-slot="3293086902"></ins>
+
+  </div>
+
+    <div class="box mt-2">
+      <h2 class="text-lg">相关行业研究图表</h2>
+      <hr>
+      <div class="grid grid-cols-1 gap-1 space-x-1 sm:grid-cols-2 sm:gap-1 sm:space-x-2 lg:grid-cols-2 lg:gap-1 xl:grid-cols-3 xl:gap-1">
+          <div class="flex flex-1">
+                <div id="chart-3425625212245247550" class="box my-2 w-auto h-auto border hover:border-primary-500 flex flex-col ">
+        <div class="flex-1 flex flex-col">
+          <div class="text-sm sm:text-xs text-secondary-900 font-medium">维亚生物A1技术与实验结合为药物研发注入新科技</div>
+          <a class="glightbox flex flex-col justify-center flex-1" data-glightbox="type: image; width: 100%; height: 100vh; description: 维亚生物从应用端切入方法开发打造纵向一体化平台，AI 技术结合湿实验助力新药研发。公司上海超算中心搭载英伟达 A100 芯片，为自有的 AIDD 和 CADD 算法提供充足的算力支持，同时具备开发多种药物形态的能力，具有小分子、靶向 RNA 小分子、多肽、抗体等多种药物类型的开发经验。根据公司年报披露，截止 2023 年 12 月 31 日，已累计完成 CADD/AIDD 项目数近 36 个，其中长期项目数占比为 33%;采购 CADD/AIDD 的客户数累计近 31 家。 " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-18-c-1.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-18-c-1.png" height="286" width="587" alt="维亚生物A1技术与实验结合为药物研发注入新科技-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+        </div>
+
+    </div>
+
+          </div>
+          <div class="flex flex-1">
+                <div id="chart-3425625210760463928" class="box my-2 w-auto h-auto border hover:border-primary-500 flex flex-col ">
+        <div class="flex-1 flex flex-col">
+          <div class="text-sm sm:text-xs text-secondary-900 font-medium">ADMETlab3.0数据及DMPNN-Des模型框架概览</div>
+          <a class="glightbox flex flex-col justify-center flex-1" data-glightbox="type: image; width: 100%; height: 100vh; description: ADMETlab 提供药物代谢动力学在线预测功能。ADMETlab 是 2018 年中南大学湘雅药学院曹东升课题组首次发布的一款用于计算分子属性和药物代谢动力学（ADME）的在线工具，提供了一系列计算模型，包括溶解度、血浆蛋白结合、肝脏代谢、肾脏排泄等，可以预测药物在人体内的吸收、分布、代谢和排泄过程，并评估其潜在的毒性和安全性，帮助药物研究人员更好地理解分子的性质和在人体内的行为。截止截至 2024 年 4月份，ADMETlab 2.0 文章已被引用 1088 次，网站访问量超过 170 万次，为满足更多科研工作者的使用，目前 ADMETlab 已升级到 3.0 版本。 " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-14-c-0.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-14-c-0.png" height="625" width="569" alt="ADMETlab3.0数据及DMPNN-Des模型框架概览-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+        </div>
+
+    </div>
+
+          </div>
+          <div class="flex flex-1">
+                <div id="chart-3425625212924724802" class="box my-2 w-auto h-auto border hover:border-primary-500 flex flex-col ">
+        <div class="flex-1 flex flex-col">
+          <div class="text-sm sm:text-xs text-secondary-900 font-medium">骨架跃迁移技术路径概念图</div>
+          <a class="glightbox flex flex-col justify-center flex-1" data-glightbox="type: image; width: 100%; height: 100vh; description:  资 料 来 源 ： A  Novel  Scalarized  Scaffold  Hopping  Algorithm  with Graph-BasedVariational Autoencoder for Discovery of JAK1 Inhibitors，HTI " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-20-c-2.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-20-c-2.png" height="304" width="434" alt="骨架跃迁移技术路径概念图-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+        </div>
+
+    </div>
+
+          </div>
+          <div class="flex flex-1">
+                <div id="chart-3425625213243491908" class="box my-2 w-auto h-auto border hover:border-primary-500 flex flex-col ">
+        <div class="flex-1 flex flex-col">
+          <div class="text-sm sm:text-xs text-secondary-900 font-medium">药石科技化合物激酶选择性预测平台</div>
+          <a class="glightbox flex flex-col justify-center flex-1" data-glightbox="type: image; width: 100%; height: 100vh; description: 药石科技具备一站式活性化合物计算筛选平台，为客户提供全方位解决方案。药石科技提供一整套完善的活性化合物计算筛选解决方案，从小分子数据库的准备、受体结构的准备、化合物激酶选择性预测平台、蛋白-小分子复合物分子动力学模拟等多种人工智能模型和计算化学手段的迭代筛选，再到 ADMET 性质评估、化合物多样性分析，到最后人工挑选潜在的活性化合物，进行下一步生物活性测试，每一步都采用了主流的机器学习和计算化学方法，并结合内部超大（1012~1015 量级）独有且易合成的化合物空间优势，大大地提高了早期药物筛选的命中率，及发现新颖活性分子的可能性，同时降低早期药物发现的成本。 " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-21-c-0.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-21-c-0.png" height="301" width="444" alt="药石科技化合物激酶选择性预测平台-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+        </div>
+
+    </div>
+
+          </div>
+          <div class="flex flex-1">
+                <div id="chart-3425625211834205757" class="box my-2 w-auto h-auto border hover:border-primary-500 flex flex-col ">
+        <div class="flex-1 flex flex-col">
+          <div class="text-sm sm:text-xs text-secondary-900 font-medium">维亚生物建立一站式药物研发及生产综合服务平台</div>
+          <a class="glightbox flex flex-col justify-center flex-1" data-glightbox="type: image; width: 100%; height: 100vh; description: 维亚生物成立于 2008 年，向全球创新药研发企业提供从早期基于结构的药物研发到商业化药物生产的一站式综合服务。公司搭建了 X 射线蛋白晶体技术、冷冻电镜技术（Cryo-EM）、亲和力质谱筛选技术（ASMS）、表面等离子共振技术（SPR）、氢氘交换质谱技术（HDX-MS）、计算机辅助药物设计等多个先进技术平台。 " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-18-c-0.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-18-c-0.png" height="378" width="662" alt="维亚生物建立一站式药物研发及生产综合服务平台-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+        </div>
+
+    </div>
+
+          </div>
+          <div class="flex flex-1">
+                <div id="chart-3425625209888048693" class="box my-2 w-auto h-auto border hover:border-primary-500 flex flex-col ">
+        <div class="flex-1 flex flex-col">
+          <div class="text-sm sm:text-xs text-secondary-900 font-medium">靶点识别的三种探索性策略</div>
+          <a class="glightbox flex flex-col justify-center flex-1" data-glightbox="type: image; width: 100%; height: 100vh; description: 机器学习的应用不仅限于预测现有药物或化合物的生物靶点，还可以识别任何感兴趣的疾病的新治疗靶点。机器学习分析还可以发现支撑疾病的复杂生理途径，并深入了解为什么某种特定疾病的患者之间存在差异。 " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-12-c-0.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-12-c-0.png" height="296" width="393" alt="靶点识别的三种探索性策略-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+        </div>
+
+    </div>
+
+          </div>
+      </div>
+    </div>
+
+  <div class="w-full mt-2" data-turbo-cache="false" data-turbo-temporary="">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7565556478619194" data-ad-slot="6674994371" data-ad-format="auto" data-full-width-responsive="true"></ins>
+
+  </div>
+
+    <div class="box mt-2 w-full">
+      <h2 class="text-lg">相关行业研究报告</h2>
+      <hr>
+      
+      <div class="box my-2 grid grid-cols-1">
+
+        <div class="text-base text-secondary-900 text-bg-primary-100">
+          <a data-turbo="true" href="/reports/3425624029770286445">医药与健康护理行业深度报告：AI+制药：AI技术蓬勃发展，AI+制药行业潜力巨大</a>
+        </div>
+
+          <div class="text-secondary-900 body-font w-full grid grid-cols-3 gap-0 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 xl:gap-1 ">
+                <a class="glightbox box-light my-2 mr-2 w-auto h-auto border hover:border-primary-500" data-glightbox="type: image; width: 100%; height: 100vh; description: 药石科技具备一站式活性化合物计算筛选平台，为客户提供全方位解决方案。药石科技提供一整套完善的活性化合物计算筛选解决方案，从小分子数据库的准备、受体结构的准备、化合物激酶选择性预测平台、蛋白-小分子复合物分子动力学模拟等多种人工智能模型和计算化学手段的迭代筛选，再到 ADMET 性质评估、化合物多样性分析，到最后人工挑选潜在的活性化合物，进行下一步生物活性测试，每一步都采用了主流的机器学习和计算化学方法，并结合内部超大（1012~1015 量级）独有且易合成的化合物空间优势，大大地提高了早期药物筛选的命中率，及发现新颖活性分子的可能性，同时降低早期药物发现的成本。 " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-21-c-1.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-21-c-1.png" height="291" width="406" alt="药石科技一站式先导化合物计算筛选平台-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+                <a class="glightbox box-light my-2 mr-2 w-auto h-auto border hover:border-primary-500" data-glightbox="type: image; width: 100%; height: 100vh; description: 药石科技具备一站式活性化合物计算筛选平台，为客户提供全方位解决方案。药石科技提供一整套完善的活性化合物计算筛选解决方案，从小分子数据库的准备、受体结构的准备、化合物激酶选择性预测平台、蛋白-小分子复合物分子动力学模拟等多种人工智能模型和计算化学手段的迭代筛选，再到 ADMET 性质评估、化合物多样性分析，到最后人工挑选潜在的活性化合物，进行下一步生物活性测试，每一步都采用了主流的机器学习和计算化学方法，并结合内部超大（1012~1015 量级）独有且易合成的化合物空间优势，大大地提高了早期药物筛选的命中率，及发现新颖活性分子的可能性，同时降低早期药物发现的成本。 " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-21-c-0.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-21-c-0.png" height="301" width="444" alt="药石科技化合物激酶选择性预测平台-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+                <a class="glightbox box-light my-2 mr-2 w-auto h-auto border hover:border-primary-500" data-glightbox="type: image; width: 100%; height: 100vh; description:  资 料 来 源 ： A  Novel  Scalarized  Scaffold  Hopping  Algorithm  with Graph-BasedVariational Autoencoder for Discovery of JAK1 Inhibitors，HTI " href="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-20-c-3.png"><img class="lazy " data-src="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-20-c-3.png" height="309" width="435" alt="利用GraphGMVAE进行骨架跃迁-小牛行研(hangyan.co)-AI驱动的行业研究数据服务" src=""></a>
+          </div>
+
+          <div class="text-xs text-secondary-600">海通国际 | 2024-08-02 | 28个图表</div>
+      </div>
+
+    </div>
+
+  <article class="box w-full mt-2">
+    <h2 class="text-lg">图表内容</h2>
+    <hr>
+      <span class="p-2 text-sm">表1常用AI技术分类</span><br>
+      <span class="p-2 text-sm">类别</span><br>
+      <span class="p-2 text-sm">概述</span><br>
+      <span class="p-2 text-sm">典型算法代表</span><br>
+      <span class="p-2 text-sm">监督</span><br>
+      <span class="p-2 text-sm">监督学习是指在带有标签的数据上训练得到数学模型，然后</span><br>
+      <span class="p-2 text-sm">典型算法包括支持向量机、决策树、随机森林、朴</span><br>
+      <span class="p-2 text-sm">学习</span><br>
+      <span class="p-2 text-sm">给定新的输入，模型会预测相应的输出值。</span><br>
+      <span class="p-2 text-sm">素贝叶斯、K-近邻、梯度提升、多层感知器、人工神</span><br>
+      <span class="p-2 text-sm">经网络等。</span><br>
+      <span class="p-2 text-sm">无监</span><br>
+      <span class="p-2 text-sm">督学</span><br>
+      <span class="p-2 text-sm">无监督学习则与监督学习过程相反，在没有标签的数据上训</span><br>
+      <span class="p-2 text-sm">常用的无监督学习算法包括聚类和降维。代表算法</span><br>
+      <span class="p-2 text-sm">练得到模型。</span><br>
+      <span class="p-2 text-sm">包括K均值、期望最大化、主成分分析、线性判别</span><br>
+      <span class="p-2 text-sm">分析、高斯混合模型、奇异值分解、自编码器等。</span><br>
+      <span class="p-2 text-sm">强化学习是另一种机器学习范式，不需要外部提供大量带标</span><br>
+      <span class="p-2 text-sm">强化签的数据进行训练。强化学习中有两个可交互的对象，智能</span><br>
+      <span class="p-2 text-sm">学习</span><br>
+      <span class="p-2 text-sm">体与环境，智能体利用已有动作和经验的反馈不断地与环境</span><br>
+      <span class="p-2 text-sm">进行交互，以实现特定目标或取得最大化的预期利益。</span><br>
+      <span class="p-2 text-sm">深度</span><br>
+      <span class="p-2 text-sm">深度学习是机器学习的一个子集，其源于对ANN的研究。</span><br>
+      <span class="p-2 text-sm">至今已发展出多种类型的网络架构，包括卷积神经</span><br>
+      <span class="p-2 text-sm">学习</span><br>
+      <span class="p-2 text-sm">ANN是由一系列人工神经元互连构成的网络系统，用来模拟</span><br>
+      <span class="p-2 text-sm">人类大脑神经系统的结构与功能。</span><br>
+      <span class="p-2 text-sm">网络、循环神经网络、图卷积神经网络、AE等。</span><br>
+      <span class="p-2 text-sm">资料来源：王超《人工智能在药物把，点的筛选及验证方面的应用进展》，HT</span><br>
+  </article>
+
+    <div class="box mt-2 text-sm w-full ">
+      <h2 class="text-lg">其他行业调研报告</h2>
+      <hr>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499037671399884705">资讯汇总05期：【ESG周报】科创指数表现较优，绿色债券稳步发行 - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499037662281467807">2024年10月金融数据解读：M1反弹能持续么？ - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499007539880658798">2025年全球金融市场和大类资产展望—复苏与波动（PPT） - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499007537884170092">2025年A股市场投资策略—站上起跑线（PPT） - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499007536919480170">中国财险: 2024年投资者开放日交流与思考：新能源车险转型升级的烦恼，需用发展的思维来解决 - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499007535585691494">A股市场2025年投资策略—站上起跑线 - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499007520477808476">晶合集成: 公司事件点评报告：产能满载助力Q3业绩，深度布局中高阶CIS产品 - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499007515746633562">传音控股: 公司事件点评报告：积极开发端侧AI产品，深入新兴市场驱动增长 - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499007512475076440">华勤技术: 公司事件点评报告：“2+N+3”产品战略布局，拟收购易路达补强智能终端业务 - 2024-11-11</a></div>
+        <div class="py-2"><a href="https://www.hangyan.co/reports/3499007509455177558">房地产行业跟踪周报：二手房成交同环比上升，房地产税收政策有望优化 - 2024-11-11</a></div>
+    </div>
+</div>
+
+  </div>
+  <div id="side-content" class="my-2 mx-2 flex-1 hidden md:block">
+            <div id="" class="border bg-green-700 py-4 flex flex-row items-center justify-center">
+          <div class="flex flex-col items-center justify-center pr-4">
+            <div class="text-xl text-white">微信小程序</div>
+            <div class="text-sm text-white">添加到<b>"我的小程序"</b>, 随时随地访问</div>
+          </div>
+          <div class="flex flex-col items-center justify-center">
+            <img alt="小牛行研小程序码" height="258" width="258" class="w-16 h-16 md:w-20 md:h-20 border-0 lazy" data-src="https://www.hangyan.co/packs/media/images/qrcode_miniapp_258-71b8de8cbfac1ba230d17889c6831a29.jpg" src="">
+          </div>
+        </div>
+        <div id="" class="border bg-sky-800 py-4 flex flex-row items-center justify-center">
+          <div class="flex flex-col items-center justify-center pr-4">
+            <div class="text-xl text-white">微信服务号</div>
+            <div class="text-sm text-white">关注产品动态、获知行业资讯</div>
+          </div>
+          <div class="flex flex-col items-center justify-center">
+            <img alt="小牛行研服务号二维码" height="258" width="258" class="w-16 h-16 md:w-20 md:h-20 border-0 lazy" data-src="https://www.hangyan.co/packs/media/images/qrcode_mp_258-66c7affe7c7da0508c14dff04d9a9e8d.jpg" src="">
+          </div>
+        </div>
+
+    
+<hr class="my-1">
+<a rel="nofollow" data-turbo="true" data-method="get" href="/user_feedbacks/new">
+  <div class="text-xs text-right mt-2 p-1 text-gray-500">产品吐槽|意见|建议|BUG &gt;</div>
+</a>
+    <div class="w-full mt-2" data-turbo-cache="false" data-turbo-temporary="">
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7565556478619194" data-ad-slot="3780403576" data-ad-format="auto" data-full-width-responsive="true"></ins>
+
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <div id="wechat-share-cover" data-controller="wechat-share" data-wechat-share-target="image" data-image="https://cdn.hangyan.co/charts/b1/b1142228e9815a96bca4ecc3ac7f6d2397186fcd2d57ecc19114422362e052c8-p-6-c-0.png"></div>
+
+  
+
+    <footer id="footer" class="bg-white dark:bg-secondary-800 pb-4">
+    <hr class="py-4">
+    <div class="max-w-screen-lg xl:max-w-screen-xl mx-auto px-4 sm:px-6 md:px-8 text-secondary-800 dark:text-secondary-300">
+      <ul class="text-sm font-light pb-4 flex flex-wrap justify-center">
+        <li class="w-1/4 md:w-1/3 lg:w-1/3">
+          <div class="text-center">
+            <h2 class="text-secondary-900 dark:text-secondary-200 text-md uppercase mb-4">
+              企业
+            </h2>
+            <ul>
+              <li class="mb-4 hover:text-secondary-900 dark:hover:text-white transition-colors duration-200">
+                <a href="#">
+                  关于我们
+                </a>
+              </li>
+              <li class="mb-4 ">
+                <a rel="nofollow" class="p-1 hover:text-white hover:bg-primary-500 dark:hover:text-white transition-colors duration-200" data-method="get" href="/services/helper">联系我们</a>
+              </li>
+              <li class="mb-4 hover:text-secondary-900 dark:hover:text-white transition-colors duration-200">
+                <a class="p-1 hover:text-white hover:bg-primary-500 dark:hover:text-white transition-colors duration-200" href="/affiliates">推广合作伙伴</a>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li class="w-2/4 md:w-1/3 lg:w-1/3">
+          <div class="text-center">
+            <h2 class="text-secondary-900 dark:text-secondary-200 text-md uppercase mb-4">
+              产品与服务
+            </h2>
+            <ul>
+              <li class="mb-4 hover:text-secondary-800 dark:hover:text-white flex flex-row items-center justify-center gap-x-0 md:gap-x-8">
+                <div class="flex flex-col items-center justify-center">
+                  服务号
+                  <img alt="小牛行研服务号二维码" height="258" width="258" class="w-16 h-16 md:w-20 md:h-20 border-0 lazy" data-src="https://www.hangyan.co/packs/media/images/qrcode_mp_258-66c7affe7c7da0508c14dff04d9a9e8d.jpg" src="">
+                </div>
+                <div class="flex flex-col items-center justify-center">
+                  小程序
+                  <img alt="小牛行研小程序码" height="258" width="258" class="w-16 h-16 md:w-20 md:h-20 border-0 lazy" data-src="https://www.hangyan.co/packs/media/images/qrcode_miniapp_258-71b8de8cbfac1ba230d17889c6831a29.jpg" src="">
+                </div>
+              </li>
+
+            </ul>
+          </div>
+        </li>
+        <li class="w-1/4 md:w-1/3 lg:w-1/3">
+          <div class="text-center">
+            <h2 class="text-secondary-900 dark:text-secondary-200 text-md uppercase mb-4">
+              客户倾听
+            </h2>
+            <ul>
+                <li class="mb-4">
+                  <a rel="nofollow" class="p-1 hover:text-white hover:bg-primary-500 dark:hover:text-white transition-colors duration-200" data-method="get" href="/user_feedbacks/new">您的产品建议</a>
+                </li>
+              <li class="mb-4 ">
+                <a rel="nofollow" class="p-1 hover:text-white hover:bg-primary-500 dark:hover:text-white transition-colors duration-200" data-method="get" href="/services/helper">联系客服</a>
+              </li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+      <!-- >
+            <div class="pt-4 flex border-t border-secondary-200 max-w-xs mx-auto items-center justify-between">
+                <a href="#" class="text-secondary-500 hover:text-primary-500">
+                    <span class="iconfont icon-weibo text-3xl"></span>
+                </a>
+                <a href="#" class="text-secondary-500 hover:text-green-600">
+                    <span class="iconfont icon-wechat text-3xl"></span>
+                </a>
+                <a href="#" class="text-secondary-500 hover:text-secondary-900">
+                    <span class="iconfont icon-douyin text-3xl"></span>
+                </a>
+            </div>
+            -->
+      <div class="text-center pt-2 sm:pt-4 font-light text-sm text-secondary-900 dark:text-secondary-200 flex flex-col items-center justify-center">
+        <div>北京观照卓识科技有限公司</div>
+        <div>北京市延庆区中关村延庆园长城路2号楼C座345室</div>
+        <a target="_blank" href="https://beian.miit.gov.cn">京ICP备12032824号-6</a>
+        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802035917">京公网安备11010802035917号</a>
+        <div>
+          <a target="_blank" href="/eula">服务协议</a>
+          <a target="_blank" href="/privacy">隐私政策</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+</body></html>

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "provider=xuetang",
+        "Referer": "https://www.xuetangx.com/course/cuc08091009829/",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.xuetangx.com/course/cuc08091009829/",
+    "wait": 6
+}

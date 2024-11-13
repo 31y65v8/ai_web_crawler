@@ -1,0 +1,1005 @@
+<!DOCTYPE html><html
+	class="hasSidebar hasPageActions hasBreadcrumb conceptual has-default-focus theme-light"
+	lang="zh-cn"
+	dir="ltr"
+	data-authenticated="false"
+	data-auth-status-determined="false"
+	data-target="docs"
+	x-ms-format-detection="none">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta property="og:title" content="人工智能 (AI) 体系结构 - Azure Architecture Center" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://learn.microsoft.com/zh-cn/azure/architecture/ai-ml/" /><meta property="og:description" content="开始使用人工智能 (AI)。 使用高级体系结构类型，了解 Azure AI 平台产品/服务，以及查找客户成功案例。" /><meta property="og:image" content="https://learn.microsoft.com/en-us/media/open-graph-image.png" />
+
+	<meta property="og:image:alt" content="Microsoft Learn" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+
+	<meta name="twitter:site" content="@MicrosoftLearn" />
+
+	<meta name="color-scheme" content="light dark"><meta name="author" content="RobBagby" />
+<meta name="breadcrumb_path" content="/azure/architecture/bread/toc.json" />
+<meta name="categories" content="ai-machine-learning" />
+<meta name="depot_name" content="MSDN.azure-architecture-center-pr2" />
+<meta name="description" content="开始使用人工智能 (AI)。 使用高级体系结构类型，了解 Azure AI 平台产品/服务，以及查找客户成功案例。" />
+<meta name="document_id" content="4d2db702-9c1b-2e97-21b9-341476060a26" />
+<meta name="document_version_independent_id" content="5236464c-fc27-a122-8962-5d1b57c3447c" />
+<meta name="feedback_help_link_type" content="" />
+<meta name="feedback_help_link_url" content="" />
+<meta name="feedback_product_url" content="" />
+<meta name="feedback_system" content="Standard" />
+<meta name="git_commit_id" content="e189d71cbbe88b5146d16dd1f6f5cbcde9588407" />
+<meta name="gitcommit" content="https://github.com/MicrosoftDocs/architecture-center-pr/blob/e189d71cbbe88b5146d16dd1f6f5cbcde9588407/docs/ai-ml/index.md" />
+<meta name="loc_file_id" content="Github-176383175.live.MSDN.azure-architecture-center-pr2.ai-ml/index.md" />
+<meta name="loc_source_id" content="Github-176383175#live" />
+<meta name="loc_version" content="2024-09-30T17:35:23.7435705Z" />
+<meta name="locale" content="zh-cn" />
+<meta name="ms.author" content="robbag" />
+<meta name="ms.collection" content="ce-skilling-ai-copilot" />
+<meta name="ms.contentlocale" content="zh-cn" />
+<meta name="ms.custom" content="guide" />
+<meta name="ms.custom" content="arb-aiml" />
+<meta name="ms.date" content="07/25/2022" />
+<meta name="ms.service" content="azure-architecture-center" />
+<meta name="ms.subservice" content="architecture-guide" />
+<meta name="ms.topic" content="conceptual" />
+<meta name="ms.translationtype" content="HT" />
+<meta name="original_content_git_url" content="https://github.com/MicrosoftDocs/architecture-center-pr/blob/live/docs/ai-ml/index.md" />
+<meta name="page_type" content="conceptual" />
+<meta name="products" content="azure-machine-learning" />
+<meta name="schema" content="Conceptual" />
+<meta name="site_name" content="Docs" />
+<meta name="toc_rel" content="toc.json" />
+<meta name="uhfHeaderId" content="azure" />
+<meta name="updated_at" content="2024-10-07 07:49 AM" />
+<meta name="word_count" content="5052" />
+<meta name="persistent_id" content="6adc0e5e-b088-340e-94c3-a7ab3b9c99ef" />
+	
+	<meta name="cmProducts" content="https://authoring-docs-microsoft.poolparty.biz/devrel/d6f38669-3d05-40f2-afd8-e49f7dd20884" data-source="generated" />
+	<meta name="cmProducts" content="https://authoring-docs-microsoft.poolparty.biz/devrel/68ec7f3a-2bc6-459f-b959-19beb729907d" data-source="generated" />
+	<meta name="cmProducts" content="https://microsoft-devrel.poolparty.biz/DevRelOfferingOntology/c6f99e62-1cf6-4b71-af9b-649b05f80cce" data-source="generated" />
+	
+	<meta name="spProducts" content="https://authoring-docs-microsoft.poolparty.biz/devrel/55265cca-de9b-48dc-a77a-9047cc39a575" data-source="generated" />
+	<meta name="spProducts" content="https://authoring-docs-microsoft.poolparty.biz/devrel/90370425-aca4-4a39-9533-d52e5e002a5d" data-source="generated" />
+	<meta name="spProducts" content="https://microsoft-devrel.poolparty.biz/DevRelOfferingOntology/3f56b378-07a9-4fa1-afe8-9889fdc77628" data-source="generated" />
+	<meta name="scope" content="Azure, Azure Architecture Center" /><meta name="github_feedback_content_git_url" content="https://github.com/microsoftdocs/architecture-center/blob/main/docs/ai-ml/index.md" /><link href="https://learn.microsoft.com/zh-cn/azure/architecture/ai-ml/" rel="canonical"><title>人工智能 (AI) 体系结构 - Azure Architecture Center | Microsoft Learn</title><link rel="stylesheet" href="/static/assets/0.4.028696169/styles/site-ltr.css">
+
+	<script id="msdocs-script">
+	var msDocs = {environment: {
+			supportLevel: 'production',
+			accessLevel: 'online',
+			reviewFeatures: false,
+			systemContent: true,
+			azurePortalHostname: 'portal.azure.com',
+			legacyHosting: false,
+			siteName: 'learn',
+		},data: {
+			timeOrigin: Date.now(),
+			contentLocale: 'zh-cn',
+			contentDir: 'ltr',
+			userLocale: 'zh-cn',
+			userDir: 'ltr',
+			pageTemplate: 'Conceptual',
+			brand: 'azure',
+			context: {},
+			hasBinaryRating: true,
+			feedbackHelpLinkType:'',
+			feedbackHelpLinkUrl:'',
+			standardFeedback: true,
+			showFeedbackReport: false,
+			enableTutorialFeedback: false,
+			feedbackSystem: 'Standard',
+			feedbackGitHubRepo: 'MicrosoftDocs/architecture-center',
+			feedbackProductUrl: '',extendBreadcrumb: false,isEditDisplayable: false,
+			hideViewSource: false,
+			hasPageActions: true,
+			hasPrintButton: true,
+			hasBookmark: true,
+			hasShare: true,
+			isPermissioned: false,
+			isPrivateUnauthorized: false,hasRecommendations: true,contributors: [{ name: "RobBagby", url: "https://github.com/RobBagby" },{ name: "v-regandowner", url: "https://github.com/v-regandowner" },{ name: "Court72", url: "https://github.com/Court72" },{ name: "ckittel", url: "https://github.com/ckittel" },{ name: "anaharris-ms", url: "https://github.com/anaharris-ms" },{ name: "JamesJBarnett", url: "https://github.com/JamesJBarnett" },{ name: "v-stsavell", url: "https://github.com/v-stsavell" },{ name: "jmart1428", url: "https://github.com/jmart1428" },{ name: "oscarsk91", url: "https://github.com/oscarsk91" },{ name: "openpublishbuild", url: "https://github.com/openpublishbuild" },{ name: "ShannonLeavitt", url: "https://github.com/ShannonLeavitt" },{ name: "alexbuckgit", url: "https://github.com/alexbuckgit" },{ name: "Blake-Madden", url: "https://github.com/Blake-Madden" }],},
+		functions:{}
+	};
+	</script><script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
+	<script src="https://js.monitor.azure.com/scripts/c/ms.jsll-4.min.js"></script><script src="/static/assets/0.4.028696169/global/deprecation.js"></script><script src="/static/assets/0.4.028696169/scripts/zh-cn/index-docs.js"></script></head>
+
+<body lang="zh-cn" dir="ltr">
+	<div class="header-holder has-default-focus">
+		<a href="#main" style="z-index: 1070" class="outline-color-text visually-hidden-until-focused position-fixed inner-focus focus-visible top-0 left-0 right-0 padding-xs text-align-center  has-body-background" tabindex="1">跳转至主内容</a><div hidden id="cookie-consent-holder" data-test-id="cookie-consent-container"></div>
+
+		<div id="unsupported-browser" style="
+			background-color: white;
+			color: black;
+			padding: 16px;
+			border-bottom: 1px solid grey;"
+			hidden
+		>
+			<div style="max-width: 800px; margin: 0 auto;">
+				<p style="font-size: 24px">此浏览器不再受支持。</p>
+				<p style="font-size: 16px; margin-top: 16px;">请升级到 Microsoft Edge 以使用最新的功能、安全更新和技术支持。</p>
+				<div style="margin-top: 12px;">
+					<a href="https://go.microsoft.com/fwlink/p/?LinkID=2092881 "
+						style="
+						background-color: #0078d4;
+						border: 1px solid #0078d4;
+						color: white;
+						padding: 6px 12px;
+						border-radius: 2px;
+						display: inline-block;
+						">下载 Microsoft Edge</a>
+					<a href="https://learn.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge"
+						style="
+							background-color: white;
+							padding: 6px 12px;
+							border: 1px solid #505050;
+							color: #171717;
+							border-radius: 2px;
+							display: inline-block;
+							">有关 Internet Explorer 和 Microsoft Edge 的详细信息</a>
+				</div>
+			</div>
+		</div>
+		<!-- liquid-tag banners global -->
+
+		<!-- site header -->
+		<header id="ms--site-header" data-test-id="site-header-wrapper" role="banner" itemscope="itemscope" itemtype="http://schema.org/Organization">
+			<div id="ms--mobile-nav" class="site-header display-none-tablet padding-inline-none gap-none" data-bi-name="mobile-header" data-test-id="mobile-header"></div>
+			<div id="ms--primary-nav" class="site-header display-none display-flex-tablet" data-bi-name="L1-header" data-test-id="primary-header"></div>
+			<div id="ms--secondary-nav" class="site-header display-none display-flex-tablet" data-bi-name="L2-header" data-test-id="secondary-header"></div>
+		</header><div id="content-header" class="content-header uhf-container has-padding has-default-focus border-bottom-none" data-bi-name="content-header">
+				<div class="content-header-controls margin-xxs margin-inline-sm-tablet">
+					<button type="button" class="contents-button button button-sm margin-right-xxs" data-bi-name="contents-expand" aria-haspopup="true" data-contents-button>
+						<span class="icon"><span class="docon docon-menu" aria-hidden="true"></span></span>
+						<span class="contents-expand-title">目录</span>
+					</button>
+					<button type="button" class="ap-collapse-behavior ap-expanded button button-sm" data-bi-name="ap-collapse" aria-controls="action-panel">
+						<span class="icon"><span class="docon docon-exit-mode" aria-hidden="true"></span></span>
+						<span>退出焦点模式</span>
+					</button>
+				</div>
+			</div><div id="disclaimer-holder" class="has-overflow-hidden has-default-focus">
+			<!-- liquid-tag banners sectional -->
+		</div>
+	</div>
+
+	<div class="mainContainer  uhf-container has-default-focus" data-bi-name="body">
+
+		<div class="columns has-large-gaps is-gapless-mobile "><div id="left-container" class="left-container is-hidden-mobile column is-one-third-tablet is-one-quarter-desktop">
+				<nav id="affixed-left-container" class="margin-top-sm-tablet position-sticky display-flex flex-direction-column" aria-label="主要节点"></nav>
+			</div><!-- .primary-holder -->
+			<section class="primary-holder column is-two-thirds-tablet is-three-quarters-desktop">
+				<!--div.columns -->
+				<div class="columns is-gapless-mobile has-large-gaps "><div id="main-column" class="column  is-full is-8-desktop">
+
+						<main id="main" class="" role="main" data-bi-name="content" lang="zh-cn" dir="ltr"><!-- article-header -->
+							<div id="article-header" class="background-color-body margin-top-sm-tablet margin-bottom-xs display-none-print">
+								<div class="display-flex align-items-center "><details id="article-header-breadcrumbs-overflow-popover" class="popover" data-for="article-header-breadcrumbs">
+										<summary class="button button-clear button-primary button-sm inner-focus" aria-label="所有痕迹">
+											<span class="icon">
+												<span class="docon docon-more"></span>
+											</span>
+										</summary>
+										<div id="article-header-breadcrumbs-overflow" class="popover-content padding-none">
+
+										</div>
+									</details>
+
+									<bread-crumbs id="article-header-breadcrumbs" data-test-id="article-header-breadcrumbs" class="overflow-hidden flex-grow-1 margin-right-sm margin-right-md-tablet margin-right-lg-desktop margin-left-negative-xxs padding-left-xxs"></bread-crumbs><div id="article-header-page-actions"  class="opacity-none margin-left-auto display-flex flex-wrap-no-wrap align-items-stretch"><a
+											id="lang-link-tablet"
+											class="button button-primary button-clear button-sm display-none display-inline-flex-tablet"
+											title="使用英语阅读" data-bi-name="language-toggle"
+											data-read-in-link
+											hidden>
+											<span class="icon margin-none" aria-hidden="true" data-read-in-link-icon>
+												<span class="docon docon-locale-globe"></span>
+											</span>
+											<span class="is-visually-hidden" data-read-in-link-text>使用英语阅读</span>
+										</a><button
+												type="button"
+												class="collection button button-clear button-sm button-primary display-none display-inline-flex-tablet"
+												data-list-type="collection"
+												data-bi-name="collection"
+												title="添加到集合">
+												<span class="icon margin-none" aria-hidden="true">
+													<span class="docon docon-circle-addition"></span>
+												</span>
+												<span class="collection-status is-visually-hidden">保存</span>
+											</button>
+										<details class="popover popover-right" id="article-header-page-actions-overflow">
+											<summary class="justify-content-flex-start button button-clear button-sm button-primary" aria-label="更多操作" title="更多操作">
+												<span class="icon" aria-hidden="true">
+													<span class="docon docon-more-vertical"></span>
+												</span>
+											</summary>
+											<div class="popover-content padding-xs"><button
+														data-page-action-item="overflow-mobile"
+														type="button"
+														class="justify-content-flex-start button-block button-sm has-inner-focus button button-clear display-none-tablet"
+														data-bi-name="contents-expand"
+														data-contents-button
+														data-popover-close>
+														<span class="icon">
+															<span class="docon docon-editor-list-bullet" aria-hidden="true"></span>
+														</span><span class="contents-expand-title">目录</span></button><a
+													id="lang-link-overflow"
+													class="justify-content-flex-start button-sm has-inner-focus button button-clear button-block display-none-tablet"
+													title="使用英语阅读" data-bi-name="language-toggle"
+													data-page-action-item="overflow-mobile"
+													data-check-hidden="true"
+													data-read-in-link
+													hidden
+													>
+													<span class="icon" aria-hidden="true" data-read-in-link-icon>
+														<span class="docon docon-locale-globe"></span>
+													</span>
+													<span data-read-in-link-text>使用英语阅读</span>
+												</a><button
+														type="button"
+														class="collection justify-content-flex-start button button-clear button-sm has-inner-focus button-block display-none-tablet"
+														data-list-type="collection"
+														data-bi-name="collection"
+														title="保存"
+														data-page-action-item="overflow-mobile"
+														data-check-hidden="true"
+														data-popover-close>
+														<span class="icon" aria-hidden="true">
+															<span class="docon docon-circle-addition"></span>
+														</span>
+														<span class="collection-status">保存</span>
+													</button>
+
+			 										
+													<button
+													 	type="button"
+														class="collection justify-content-flex-start button button-clear button-sm has-inner-focus button-block display-none-tablet"
+														data-list-type="plan"
+														data-bi-name="plan"
+														title="添加到计划"
+														data-page-action-item="overflow-mobile"
+														data-check-hidden="true"
+														data-popover-close
+														hidden>
+														<span class="icon" aria-hidden="true">
+															<span class="docon docon-circle-addition"></span>
+														</span>
+														<span class="plan-status">添加到计划</span>
+													</button><div aria-hidden="true" class="margin-none" data-page-action-item="overflow-all"></div>
+														<hr class="display-none-tablet margin-bottom-xxs margin-top-xxs" />
+														<h4 class="font-size-sm padding-left-xxs">通过</h4>
+
+													<a class="button button-clear button-sm button-block has-inner-focus text-decoration-none justify-content-flex-start share-facebook" data-bi-name="facebook" data-page-action-item="overflow-all">
+															<span class="icon" aria-hidden="true">
+																<span class="docon docon-facebook-share font-size-md color-primary"></span>
+															</span>
+															<span class="margin-left-xxs">Facebook</span>
+														</a>
+														<a class="button button-clear button-sm has-inner-focus button-block text-decoration-none justify-content-flex-start share-twitter" data-bi-name="twitter" data-page-action-item="overflow-all">
+															<span class="icon" aria-hidden="true">
+																<span class="docon docon-xlogo-share font-size-xxs"></span>
+															</span>
+															<span class="margin-left-xxs">x.com 共享</span>
+														</a>
+														<a class="button button-clear button-sm has-inner-focus button-block text-decoration-none justify-content-flex-start share-linkedin" data-bi-name="linkedin" data-page-action-item="overflow-all">
+															<span class="icon" aria-hidden="true">
+																<span class="docon docon-linked-in-logo font-size-sm color-primary"></span>
+															</span>
+															<span class="margin-left-xxs">LinkedIn</span>
+														</a>
+														<a class="button button-clear button-sm button-block has-inner-focus text-decoration-none justify-content-flex-start margin-bottom-xxs share-email" data-bi-name="email" data-page-action-item="overflow-all">
+															<span class="icon" aria-hidden="true">
+																<span class="docon docon-mail-message font-size-sm color-primary"></span>
+															</span>
+															<span class="margin-left-xxs">电子邮件</span>
+														</a><hr />
+													<button
+														class="button button-block button-clear button-sm justify-content-flex-start has-inner-focus margin-top-xxs"
+														title="打印"
+														type="button"
+														aria-label="打印"
+														data-bi-name="print"
+														data-page-action-item="overflow-all"
+														data-popover-close
+														data-print-page
+														data-check-hidden="true">
+														<span class="icon" aria-hidden="true">
+															<span class="docon docon-print font-size-sm color-primary"></span>
+														</span>
+														<span class="margin-left-xxs">打印</span>
+													</button>
+											</div>
+										</details>
+										
+									</div></div>
+							</div>
+							<!-- end article-header --><div>
+								<button type="button" class="border contents-button button button-clear button-sm is-hidden-tablet has-inner-focus" data-bi-name="contents-expand" data-contents-button hidden>
+									<span class="icon">
+										<span class="docon docon-editor-list-bullet" aria-hidden="true"></span>
+									</span><span class="contents-expand-title">目录</span></button>
+							</div><!-- end mobile-contents button  -->
+
+							<div class="content "><!-- azure disclaimer -->
+									<div class="disclaimer alert margin-bottom-xs">
+										<p>你当前正在访问 Microsoft Azure Global Edition 技术文档网站。 如果需要访问由世纪互联运营的 Microsoft Azure 中国技术文档网站，请访问 <a href="https://docs.azure.cn">https://docs.azure.cn</a>。</p>
+									</div><h1 id="artificial-intelligence-ai-architecture-design">人工智能 (AI) 体系结构设计</h1><div class="display-flex justify-content-space-between align-items-center flex-wrap-wrap page-metadata-container">
+										<div class="margin-right-xxs">
+											<ul class="metadata page-metadata" data-bi-name="page info" lang="zh-cn" dir="ltr"><li>项目</li><li class="visibility-hidden-visual-diff"><time class="is-invisible" data-article-date aria-label="文章评审日期" datetime="2024-10-07T07:49:00Z" data-article-date-source="calculated">10/07/2024</time>
+															</li><li class="contributors-holder display-none-print">
+															<button aria-label="查看所有参与者" class="contributors-button link-button" data-bi-name="contributors" title="查看所有参与者">13 个参与者</button>
+														</li></ul>
+										</div>
+<div id="user-feedback" class="margin-block-xxs display-none-print" data-hide-on-archived>
+	<button
+		id="user-feedback-button"
+		data-test-id="conceptual-feedback-button"
+		class="button button-sm button-clear button-primary"
+		type="button"
+		data-bi-name="user-feedback-button"
+		data-user-feedback-button
+	>
+		<span class="icon" aria-hidden="true">
+			<span class="docon docon-like"></span>
+		</span>
+		<span>反馈</span>
+	</button>
+</div></div><nav id="center-doc-outline" class="doc-outline is-hidden-desktop display-none-print margin-bottom-sm" data-bi-name="intopic toc" aria-label="本文内容">
+											<h2 id="ms--in-this-article" class="title is-6 margin-block-xs">本文内容</h2>
+										</nav><!-- <content> --><!-- cSpell:ignore maggsl scikit -->
+<p>人工智能 (AI) 是计算机模拟人类智能行为的功能。 通过 AI，计算机可以分析图像、理解语音、以自然方式交互，以及使用数据进行预测。</p>
+<p><img src="_images/ai-overview-img-001.png" alt="插图描绘了人工智能作为父概念的关系。人工智能内部是机器学习。机器学习内部是深度学习。" data-linktype="relative-path"></p>
+<h2 id="ai-concepts">AI 概念</h2>
+<h3 id="algorithm">算法</h3>
+<p>算法是用于解决问题或分析一组数据的一系列计算和规则。 它就像一个流程图，其中包含提出问题的分步说明，只不过是以数学和编程代码形式进行编写。 算法可以描述如何确定宠物是猫、狗、鱼、鸟还是蜥蜴。 另一种更复杂的算法可以描述如何识别书面或口头语言、分析其字词、将其翻译为其他语言，然后检查翻译的准确性。</p>
+<h3 id="machine-learning">机器学习</h3>
+<p><em>机器学习</em>是一种 AI 技术，可使用数学‏‏算法来创建预测模型。 该技术使用特定算法分析数据字段，并通过使用在数据中发现的模式来“学习”该数据以生成模型。 然后，使用那些模型做出与新数据有关的明智预测或决策。</p>
+<p>预测模型将根据已知数据进行验证，通过为特定业务方案选择的性能指标进行衡量，然后根据需要进行调整。 此学习和验证过程被称为“训练”。 通过定期重新训练，ML 模型会随着时间的推移而改进。</p>
+<ul>
+<li><a href="guide/data-science-and-machine-learning" data-linktype="relative-path">Microsoft 的机器学习产品有哪些？</a></li>
+</ul>
+<h3 id="deep-learning">深度学习</h3>
+<p>深度学习是一种 ML，可以自行确定其预测是否准确。 该技术也使用算法分析数据，但其操作规模比 ML 大。</p>
+<p>深度学习使用的人工神经网络由多个算法层组成。 每层均可查看传入数据，执行自己的专用分析，并生成其他层可以理解的输出。 然后，系统会将此输出传递至下一层，在其中以不同的算法执行其自己的分析，依此类推。</p>
+<p>每个神经网络都有许多层，而且有时使用多个神经网络，因此计算机可以通过自己的数据处理来学习。 与 ML 相比，此技术需要更多的数据，更高的计算能力。</p>
+<ul>
+<li><a href="/zh-cn/azure/machine-learning/concept-deep-learning-vs-machine-learning" data-linktype="absolute-path">深度学习与机器学习</a></li>
+</ul>
+<h3 id="bots">机器人</h3>
+<p>机器人是一种可执行特定任务的自动化软件程序。 你可将其视为没有身体的机器人。 早期机器人相对简单，使用相对简单的算法逻辑处理重复性任务和大型任务。 例如，搜索引擎使用 Web 爬网程序自动浏览和编录 Web 内容。</p>
+<p>机器人现已变得更加复杂，不仅可使用 AI 和其他技术来模拟人类活动和决策，通常还可通过文本消息甚至语音直接与人类交互。 例如，可以预订餐位的机器人、帮助客户服务交互的聊天机器人（或对话 AI）以及将突发新闻或科学数据发布到社交媒体网站的社交机器人。</p>
+<p>Microsoft 提供了 Azure 机器人服务，这是专为企业级机器人开发构建的托管服务。</p>
+<ul>
+<li><p><a href="/zh-cn/azure/bot-service/bot-service-overview-introduction" data-linktype="absolute-path">关于 Azure 机器人服务</a></p>
+</li>
+<li><p><a href="https://www.microsoft.com/research/publication/responsible-bots/" data-linktype="external">负责任的机器人的十个准则</a></p>
+</li>
+<li><p><a href="architecture/conversational-bot" data-linktype="relative-path">Azure 参考体系结构：企业级对话机器人</a></p>
+</li>
+</ul>
+<h3 id="autonomous-systems">自治系统</h3>
+<p>自治系统是不断发展的新类的一部分，突破了基本自动化的局限。 自治系统不是像机器人一样，几乎没有变化或毫无变化地重复执行特定任务，而是赋予计算机智能功能，使其适应不断变化的环境，以实现预期目标。</p>
+<p>智能建筑已采用自治系统自动控制照明、通风、空调及安全等操作。 更复杂的示例是自导向机器人，可用于探测坍塌的矿井，以全面反映其内部情况，确定结构稳固的部分，分析透气性，并在没有远程端实时人工监视的情况下需要救援时检测被困矿工的生命体征。</p>
+<h3 id="general-info-on-microsoft-ai">有关 Microsoft AI 的常规信息</h3>
+<p>详细了解 Microsoft AI，并随时了解相关新闻：</p>
+<ul>
+<li><p><a href="https://aischool.microsoft.com/" data-linktype="external">Microsoft AI 学校</a></p>
+</li>
+<li><p><a href="https://azure.microsoft.com/overview/ai-platform/" data-linktype="external">Azure AI 平台页</a></p>
+</li>
+<li><p><a href="https://www.microsoft.com/ai" data-linktype="external">Microsoft AI 平台页</a></p>
+</li>
+<li><p><a href="https://blogs.microsoft.com/ai/" data-linktype="external">Microsoft AI 博客</a></p>
+</li>
+<li><p><a href="https://github.com/microsoft/AI" data-linktype="external">GitHub 上的 Microsoft AI：示例、参考体系结构和最佳做法</a></p>
+</li>
+<li><p><a href="../" data-linktype="relative-path">Azure 体系结构中心</a></p>
+</li>
+</ul>
+<h2 id="high-level-architectural-types">高级体系结构类型</h2>
+<h3 id="prebuilt-ai">预生成 AI</h3>
+<p>预生成 AI 就是可供使用的现成 AI 模型、服务和 API。 这些工具可帮助你向应用、网站和流添加智能功能，而不必收集数据，然后生成、训练和发布自己的模型。</p>
+<p>例如，预生成 AI 可能是预训练模型，可以按原样合并，也可以用于为进一步自定义训练提供基准。 再比如基于云的 API 服务，你可以随意调用该服务以所需方式处理自然语言。</p>
+<h4 id="azure-ai-services">Azure AI 服务</h4>
+<p><a href="https://azure.microsoft.com/services/cognitive-services/" data-linktype="external">认知服务</a>为开发者提供了使用预生成 API 和集成工具包创建应用程序的机会，这些应用程序可以听、说、看、理解，甚至可以开始推理。 Azure AI 服务中的服务目录可分为五大支柱类别：视觉、语音、语言、Web 搜索和决策/建议。</p>
+<ul>
+<li><p><a href="/zh-cn/azure/cognitive-services/" data-linktype="absolute-path">Azure 认知服务文档</a></p>
+</li>
+<li><p><a href="https://azure.microsoft.com/try/cognitive-services/" data-linktype="external">免费试用 Azure 认知服务</a></p>
+</li>
+<li><p><a href="../data-guide/technology-choices/ai-services" data-linktype="relative-path">选择 Azure AI 服务技术</a></p>
+</li>
+<li><p><a href="../data-guide/technology-choices/natural-language-processing" data-linktype="relative-path">在 Azure 中选择自然语言处理技术</a></p>
+</li>
+</ul>
+<h4 id="prebuilt-ai-models-in-ai-builder">AI Builder 中的预生成 AI 模型</h4>
+<p>AI Builder 是 <a href="/zh-cn/power-platform/" data-linktype="absolute-path">Microsoft Power Platform</a> 中的一项新功能，可提供点击式接口，即使用户没有编码或数据科学技能，也可以向应用添加 AI。 （AI Builder 中的一些功能尚未正式发布，仍处于预览状态。有关详细信息，请参阅<a href="/zh-cn/ai-builder/availability-region" data-linktype="absolute-path">按区域划分的功能可用性</a>页。）</p>
+<p>你可以生成和训练自己的模型，但 AI Builder 还可提供立即可用的<a href="/zh-cn/ai-builder/prebuilt-overview" data-linktype="absolute-path">精选预生成 AI 模型</a>。 例如，你可基于预生成模型在 Microsoft Power Apps 中添加一个组件，以识别名片中的联系信息。</p>
+<ul>
+<li><p><a href="https://powerapps.microsoft.com" data-linktype="external">Azure 上的 Power Apps</a></p>
+</li>
+<li><p><a href="/zh-cn/ai-builder/" data-linktype="absolute-path">AI Builder 文档</a></p>
+</li>
+<li><p><a href="/zh-cn/ai-builder/model-types" data-linktype="absolute-path">AI Builder 中的 AI 模型类型</a></p>
+</li>
+<li><p><a href="/zh-cn/ai-builder/prebuilt-overview" data-linktype="absolute-path">AI Builder 中的预生成 AI 模型概述</a></p>
+</li>
+</ul>
+<h3 id="custom-ai">自定义 AI</h3>
+<p>尽管预生成 AI 很有用（而且越来越灵活），但从 AI 中获取所需内容的最佳方式或许是自己构建系统。 显然，这是一个深奥复杂的主题，除了刚介绍的内容以外，我们先看一些基本概念。</p>
+<h4 id="code-languages">代码语言</h4>
+<p>AI 的核心概念是使用算法来分析数据和生成模型，以采用有效方式进行描述（或评分）。 算法是由开发者和数据科学家（有时由其他算法）使用编程代码编写的。 目前，最常用于 AI 开发的两种编程语言是 Python 和 R。</p>
+<p><a href="https://www.python.org/" data-linktype="external">Python</a> 是一种通用的高级编程语言。 其语法简单易学，强调可读性。 没有编译步骤。 Python 具有大型标准库，但它也支持模块和包添加功能。 这有助于模块化，也有助于根据需要扩展功能。 Python 的 AI 和 ML 库生态系统较大，并且不断增长，其中包括 Azure 中随时可用的许多库。</p>
+<ul>
+<li><p><a href="https://azure.microsoft.com/develop/python/" data-linktype="external">Azure 产品主页上的 Python</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/python/" data-linktype="absolute-path">面向 Python 开发人员的 Azure</a></p>
+</li>
+<li><p><a href="/zh-cn/python/api/overview/azure/ml/?view=azure-ml-py&amp;preserve-view=true" data-linktype="absolute-path">适用于 Python 的 Azure 机器学习 SDK</a></p>
+</li>
+<li><p><a href="/zh-cn/training/paths/intro-to-ml-with-python/" data-linktype="absolute-path">有关机器学习与 Python 和 Azure Notebooks 结合使用的简介</a></p>
+</li>
+<li><p><a href="https://scikit-learn.org/stable/" data-linktype="external"><code>scikit-learn</code></a>。 用于 Python 的开源 ML 库</p>
+</li>
+<li><p><a href="https://pytorch.org/" data-linktype="external">PyTorch</a>。 具有丰富生态系统的开源 Python 库，可用于深度学习、计算机视觉、自然语言处理等</p>
+</li>
+<li><p><a href="https://www.tensorflow.org/" data-linktype="external">TensorFlow</a>。 开源符号数学库还用于 ML 应用程序和神经网络</p>
+</li>
+<li><p><a href="/zh-cn/azure/azure-functions/functions-machine-learning-tensorflow?tabs=bash" data-linktype="absolute-path">教程：在 Azure Functions 中使用 Python 和 TensorFlow 应用机器学习模型</a></p>
+</li>
+</ul>
+<p><a href="https://www.r-project.org/" data-linktype="external">R 是一种语言和环境</a>，适用于统计计算和图形。 从在线映射广泛的社交趋势和市场营销趋势到开发财务和气候模型，均可使用此语言。</p>
+<p>Microsoft 已完全采用 R 编程语言，并为 R 开发者提供了许多不同的选项，以便他们在 Azure 中运行自己的代码。</p>
+<ul>
+<li><p><a href="/zh-cn/azure/machine-learning/how-to-r-interactive-development" data-linktype="absolute-path">在 Azure 机器学习中以交互方式使用 R</a>。</p>
+</li>
+<li><p><a href="/zh-cn/azure/machine-learning/tutorial-1st-r-experiment" data-linktype="absolute-path">教程：通过 Azure 机器学习在 R 中创建逻辑回归模型</a></p>
+</li>
+</ul>
+<h4 id="training">培训</h4>
+<p>训练是机器学习的核心。 这是“教”算法创建模型的迭代过程，用于分析数据，然后根据结果做出准确预测。 此过程实际上有三个常规阶段：训练、验证和测试。</p>
+<p>在训练阶段，会对一组已知的优质数据进行标记，以便可以识别单个字段。 将标记的数据提供给为做出特定预测配置的算法。 完成操作后，该算法会输出一个模型，以一组参数的形式描述发现的模式。 在验证过程中，会对新数据进行标记并将其用于测试模型。 算法会根据需要进行调整，并可能会经历更多训练。 最后，测试阶段使用没有任何标记或预选目标的实际数据。 如果模型的结果是准确的，则将其视为准备就绪，可以进行部署。</p>
+<ul>
+<li><a href="/zh-cn/azure/machine-learning/concept-train-machine-learning-model" data-linktype="absolute-path">使用 Azure 机器学习训练模型</a></li>
+</ul>
+<h5 id="hyperparameter-tuning">超参数优化</h5>
+<p>超参数是控制训练过程本身的数据变量。 这些变量是控制算法运作方式的配置变量。 因此，超参数通常是在模型训练开始之前进行设置，并且在训练过程中不是按参数方式进行修改。 超参数优化涉及运行训练任务中的试用版，评估作业完成程度，然后根据需要进行调整。 此过程会生成多个模型，每个模型都会使用不同的超参数系列进行训练。</p>
+<ul>
+<li><a href="/zh-cn/azure/machine-learning/how-to-tune-hyperparameters" data-linktype="absolute-path">使用 Azure 机器学习优化模型的超参数</a></li>
+</ul>
+<h5 id="model-selection">模型选择</h5>
+<p>训练和超参数优化过程会生成大量候选模型。 这些模型具有许多不同的差异，包括准备数据所需的工作量、模型的灵活性、处理时间量，当然还包括其结果的准确性。 根据需求和约束条件选择最佳训练模型被称为“模型选择”，但这更像是训练前的预规划，毕竟是选择最佳训练模型。</p>
+<h5 id="automated-machine-learning-automl">自动化机器学习 (AutoML)</h5>
+<p>自动化机器学习（也称为 AutoML）是机器学习模型开发中耗时的迭代性任务实现自动化的过程。 此过程可以显著减少获取生产就绪 ML 模型所需的时间。 自动化 ML 可帮助执行模型选择、超参数优化、模型训练和其他任务，不需要用户具有广博的编程知识或域知识。</p>
+<ul>
+<li><a href="/zh-cn/azure/machine-learning/concept-automated-ml" data-linktype="absolute-path">什么是自动化机器学习？</a></li>
+</ul>
+<h4 id="scoring">计分</h4>
+<p>评分（也称为“预测”）是在给定一些新输入数据后根据训练机器学习模型生成值的过程。 创建的值（或分数）可以表示对未来值的预测，但也可能表示可能的类别或结果。 评分过程可生成多种不同类型的值：</p>
+<ul>
+<li><p>推荐项和相似性分数的列表</p>
+</li>
+<li><p>有关时序模型和回归模型的数值</p>
+</li>
+<li><p>概率值，指示新输入属于某个现有类别的可能性</p>
+</li>
+<li><p>与新项最相似的类别或群集的名称</p>
+</li>
+<li><p>分类模型的预测类或结果</p>
+</li>
+</ul>
+<p>批量评分<em><strong></strong></em>是指在某个固定时间段内收集数据，然后分批进行处理时的评分。 此过程可能包括生成业务报表或分析客户忠诚度。</p>
+<p>实时评分<em><strong></strong></em>就是正在执行且尽可能快地执行的评分。 经典示例是信用卡欺诈行为检测，但在语音识别、医学诊断、市场分析以及许多其他应用中也可以使用实时评分。</p>
+<h4 id="general-info-on-custom-ai-on-azure">有关 Azure 上自定义 AI 的常规信息</h4>
+<ul>
+<li><p><a href="https://github.com/microsoft/AI" data-linktype="external">GitHub 上的 Microsoft AI：示例、参考体系结构和最佳做法</a></p>
+</li>
+<li><p><a href="/zh-cn/python/api/overview/azure/ml/?view=azure-ml-py&amp;preserve-view=true" data-linktype="absolute-path">适用于 Python 的 Azure 机器学习 SDK</a></p>
+</li>
+<li><p><a href="https://github.com/Azure/MachineLearningNotebooks" data-linktype="external">Azure 机器学习 Python SDK 笔记本</a>。 即有关示例笔记本的 GitHub 存储库，用于演示 Azure 机器学习 Python SDK。</p>
+</li>
+<li><p><a href="https://github.com/Azure/azureml-examples/tree/main/cli/jobs/single-step/r" data-linktype="external">使用 Azure ML CLI 训练 R 模型 (v2)</a></p>
+</li>
+</ul>
+<h2 id="azure-ai-platform-offerings">Azure AI 平台产品/服务</h2>
+<p>下面是可用于根据需求开发 AI 解决方案的 Azure 技术、平台和服务的细分。</p>
+<h3 id="azure-machine-learning">Azure 机器学习</h3>
+<p>此服务是企业级机器学习服务，可更快地构建和部署模型。 Azure 机器学习提供了 Web 界面和 SDK，以便你可以大规模快速训练并部署机器学习模型和管道。 请将这些功能与开放源代码 Python 框架（如 PyTorch、TensorFlow 和 scikit-learn）配合使用。</p>
+<ul>
+<li><p><a href="guide/data-science-and-machine-learning" data-linktype="relative-path">Microsoft 的机器学习产品有哪些？</a></p>
+</li>
+<li><p><a href="https://azure.microsoft.com/services/machine-learning/" data-linktype="external">Azure 机器学习产品主页</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/machine-learning/" data-linktype="absolute-path">Azure 机器学习文档概述</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/machine-learning/overview-what-is-azure-ml" data-linktype="absolute-path">什么是 Azure 机器学习？</a> 总体定位，其中包含指向多个学习资源、SDK、文档等内容的链接</p>
+</li>
+</ul>
+<h4 id="machine-learning-reference-architectures-for-azure">Azure 机器学习参考体系结构</h4>
+<ul>
+<li><p><a href="guide/machine-learning-operations-v2" data-linktype="relative-path">机器学习操作</a></p>
+</li>
+<li><p><a href="architecture/batch-scoring-databricks" data-linktype="relative-path">Azure Databricks 上 Spark 机器学习模型的批量评分</a></p>
+</li>
+<li><p><a href="architecture/conversational-bot" data-linktype="relative-path">企业级聊天机器人</a></p>
+</li>
+</ul>
+<h3 id="azure-automated-machine-learning">Azure 自动化机器学习</h3>
+<p>Azure 为自动化 ML 提供广泛支持。 开发者可以使用无代码 UI 或通过代码优先的笔记本体验来构建模型。</p>
+<ul>
+<li><p><a href="https://azure.microsoft.com/services/machine-learning/automatedml/" data-linktype="external">Azure 自动化机器学习产品主页</a></p>
+</li>
+<li><p><a href="https://aka.ms/automlinfographic/" data-linktype="external">Azure 自动化 ML 信息图 (PDF)</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/machine-learning/tutorial-first-experiment-automated-ml" data-linktype="absolute-path">教程：使用 Azure 机器学习中的自动化 ML 创建分类模型</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/machine-learning/how-to-configure-auto-train" data-linktype="absolute-path">使用 Python 配置自动化 ML 试验</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/machine-learning/reference-azure-machine-learning-cli" data-linktype="absolute-path">将 CLI 扩展用于 Azure 机器学习</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/machine-learning/reference-azure-machine-learning-cli" data-linktype="absolute-path">使用 Azure 机器学习 CLI 自动执行机器学习活动</a></p>
+</li>
+</ul>
+<h3 id="azure-ai-services-1">Azure AI 服务</h3>
+<p>这是一系列全面的 AI 服务和认知 API，可帮助你构建智能应用。 这些特定于域的预训练 AI 模型可以使用你的数据进行自定义。</p>
+<ul>
+<li><p><a href="https://azure.microsoft.com/services/cognitive-services/" data-linktype="external">认知服务产品主页</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/cognitive-services/" data-linktype="absolute-path">Azure 认知服务文档</a></p>
+</li>
+</ul>
+<h3 id="azure-cognitive-search">Azure 认知搜索</h3>
+<p>这是 AI 支持的云搜索服务，可用于移动应用和 Web 应用开发。 此服务可搜索专用异类内容，带有用于 AI 扩充的选项（如果内容为非结构化内容或内容在采用其原始格式时无法搜索）。</p>
+<ul>
+<li><p><a href="https://azure.microsoft.com/services/search/" data-linktype="external">Azure 认知搜索产品主页</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/search/cognitive-search-concept-intro" data-linktype="absolute-path">AI 扩充入门</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/search/" data-linktype="absolute-path">Azure 认知搜索文档概述</a></p>
+</li>
+<li><p><a href="../data-guide/technology-choices/natural-language-processing" data-linktype="relative-path">在 Azure 中选择自然语言处理技术</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/search/cognitive-search-quickstart-blob" data-linktype="absolute-path">快速入门：在 Azure 门户中创建 Azure 认知搜索认知技能集</a></p>
+</li>
+</ul>
+<h3 id="azure-bot-service">Azure 机器人服务</h3>
+<p>这是一个专门设计的机器人开发环境，具有快速入门的现成模板。</p>
+<ul>
+<li><p><a href="https://azure.microsoft.com/services/bot-service/" data-linktype="external">Azure 机器人服务产品主页</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/bot-service/bot-service-overview-introduction" data-linktype="absolute-path">Azure 机器人服务文档概述</a></p>
+</li>
+<li><p><a href="architecture/conversational-bot" data-linktype="relative-path">Azure 参考体系结构：企业级对话机器人</a></p>
+</li>
+<li><p><a href="https://dev.botframework.com/" data-linktype="external">Microsoft Bot 框架</a></p>
+</li>
+<li><p><a href="https://github.com/Microsoft/BotBuilder" data-linktype="external">Microsoft Bot Framework SDK 存储库</a></p>
+</li>
+</ul>
+<h3 id="apache-spark-on-azure">Azure 上的 Apache Spark</h3>
+<p>Apache Spark 是并行处理框架，支持使用内存中处理来提升大数据分析应用程序的性能。 Spark 提供了用于内存中群集计算的基元。 Spark 作业可在内存中加载和缓存数据，并可重复查询，查询速度比基于磁盘的应用程序（如 Hadoop）快得多。</p>
+<p><a href="/zh-cn/azure/hdinsight/spark/apache-spark-overview" data-linktype="absolute-path">Azure HDInsight 中的 Apache Spark</a> 是 Microsoft 的 Apache Spark 在云中的实现。 HDInsight 中的 Spark 群集可与 Azure 存储和 Azure Data Lake Storage 兼容，因此你可以使用 HDInsight Spark 群集处理 Azure 中存储的数据。</p>
+<p><a href="https://github.com/microsoft/SynapseML" data-linktype="external">SynapseML</a>（旧称 MMLSpark）是适用于 Apache Spark 的 Microsoft 机器学习库。 这是一个开源库，在 Spark 生态系统中添加了许多深度学习和数据科学工具、网络功能和生产级性能。 详细了解<a href="guide/data-science-and-machine-learning#synapseml" data-linktype="relative-path">SynapseML 特色与功能</a>。</p>
+<ul>
+<li><p><a href="/zh-cn/azure/hdinsight/hdinsight-overview" data-linktype="absolute-path">Azure HDInsight 概述</a>。 有关功能、群集体系结构和用例的基本信息，以及指向快速入门和教程的指针。</p>
+</li>
+<li><p><a href="/zh-cn/azure/hdinsight/spark/apache-spark-ipython-notebook-machine-learning" data-linktype="absolute-path">教程：在 Azure HDInsight 中生成 Apache Spark 机器学习应用程序</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/hdinsight/spark/spark-best-practices" data-linktype="absolute-path">HDInsight 上的 Apache Spark 最佳做法</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/hdinsight/spark/apache-spark-settings" data-linktype="absolute-path">配置 HDInsight Apache Spark 群集设置</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/hdinsight/hdinsight-machine-learning-overview" data-linktype="absolute-path">HDInsight 中的机器学习</a></p>
+</li>
+<li><p><a href="https://github.com/microsoft/SynapseML" data-linktype="external">SynapseML 的 GitHub 存储库：适用于 Apache Spark 的 Microsoft 机器学习库</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/hdinsight/spark/apache-spark-creating-ml-pipelines" data-linktype="absolute-path">在 HDInsight 上创建 Apache Spark 机器学习管道</a></p>
+</li>
+</ul>
+<h3 id="azure-databricks-runtime-for-machine-learning">用于机器学习的 Azure Databricks Runtime</h3>
+<p><a href="https://azure.microsoft.com/services/databricks/" data-linktype="external">Azure Databricks</a> 是一个基于 Apache Spark 的分析平台，具有一键设置、简化的工作流以及一个供数据科学家、工程师和商业分析师相互协作的交互工作区。</p>
+<p><a href="/zh-cn/azure/databricks/runtime/mlruntime" data-linktype="absolute-path">用于机器学习的 Databricks Runtime (Databricks Runtime ML)</a> 可用于启动具有分布式训练所需全部库的 Databricks 群集。 此工具可为机器学习和数据科学提供随时可用的环境。 而且，其中包含多个常用库，包括 TensorFlow、PyTorch、Keras 和 XGBoost。 它还支持使用 Horovod 进行分布式训练。</p>
+<ul>
+<li><p><a href="https://azure.microsoft.com/services/databricks/" data-linktype="external">Azure Databricks 产品主页</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/azure-databricks/" data-linktype="absolute-path">Azure Databricks 文档</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/databricks/applications/machine-learning/" data-linktype="absolute-path">Azure Databricks 中的机器学习功能</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/databricks/runtime/mlruntime" data-linktype="absolute-path">操作指南：用于机器学习的 Databricks Runtime</a></p>
+</li>
+<li><p><a href="architecture/batch-scoring-databricks" data-linktype="relative-path">Azure Databricks 上 Spark 机器学习模型的批量评分</a></p>
+</li>
+<li><p><a href="/zh-cn/azure/databricks/applications/deep-learning/" data-linktype="absolute-path">Azure Databricks 上的深度学习概述</a></p>
+</li>
+</ul>
+<h2 id="customer-stories">客户案例</h2>
+<p>各个行业都在以令人鼓舞的创新方式应用 AI。 下面是大量客户案例研究和成功案例：</p>
+<ul>
+<li><p><a href="https://customers.microsoft.com/story/asos-retailers-azure" data-linktype="external">ASOS：在线零售商使用 Azure 机器学习服务解决难题</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/754840-kpmg-partner-professional-services-azure" data-linktype="external">KPMG 使用 Azure 认知服务帮助金融机构节省数百万美元的合规成本</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/779468-volkswagen-azure-automotive-en" data-linktype="external">Volkswagen：机器翻译用 40 种语言表达 Volkswagen</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/778859-the-young-womens-leadership-school-of-astoria-education-azure" data-linktype="external">Buncee：NYC 学校使用 Azure AI 为各个年龄各种层次的读者提供支持</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/778067-microsoft-startups-intersystems-professional-services-azure" data-linktype="external">InterSystems：数据平台公司以史无前例的速度生成重要信息，改善了 IT 健康状况</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/742112-microsoft-m12-zencity-partner-professional-services-azure" data-linktype="external">Zencity：数据驱动型初创公司提供资金帮助本地政府改善居民的生活质量</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/772105-microsoft-iot-ndrive-bosch-azure" data-linktype="external">Bosch 依靠 IoT 创新，帮助驱动程序防止严重事故，提高流量安全性</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/761416-automation-anywhere-partner-professional-services-azure" data-linktype="external">Automation Anywhere：机器人进程自动化平台开发者使用 Azure 认知服务扩充其软件</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/764974-wix-partner-professional-services-azure-cognitive-search" data-linktype="external">Wix 使用 Azure 认知搜索在 1.5 亿个网站上部署可缩放的智能搜索</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/770897-asklepios-apoqlar-azure-hololens-cognitive-services-health-en" data-linktype="external">Asklepios Klinik Altona：使用 Microsoft HoloLens 2 和 3D 可视化效果提高手术精准度</a></p>
+</li>
+<li><p><a href="https://customers.microsoft.com/story/axa-global-p-and-c" data-linktype="external">AXA Global P&amp;C：全球保险公司使用基于云的高性能计算 (HPC) 对复杂的自然灾害建模</a></p>
+</li>
+</ul>
+<p><a href="https://customers.microsoft.com/en-us/search?sq=&amp;ff=story_product_categories%26%3EArtificial%20Intelligence&amp;p=0&amp;so=story_publish_date%20desc" data-linktype="external">浏览更多 AI 客户案例</a></p>
+<h2 id="next-steps">后续步骤</h2>
+<ul>
+<li><p>要了解 Microsoft 提供的人工智能开发产品，请参阅 <a href="https://www.microsoft.com/ai" data-linktype="external">Microsoft AI 平台</a>页。</p>
+</li>
+<li><p>有关如何开发 AI 解决方案的训练，请参阅 <a href="https://aischool.microsoft.com/learning-paths" data-linktype="external">Microsoft AI 学校</a>。</p>
+</li>
+<li><p><a href="https://github.com/microsoft/AI" data-linktype="external">GitHub 上的 Microsoft AI：示例、参考体系结构和最佳做法</a>安排了基于 Microsoft 开源 AI 的存储库，并提供教程和学习材料。</p>
+</li>
+</ul>
+</div><div id="ms--inline-notifications" class="margin-block-xs" data-bi-name="inline-notification"></div><div id="assertive-live-region" role="alert" aria-live="assertive" class="visually-hidden" aria-relevant="additions" aria-atomic="true"></div>
+							<div id="polite-live-region" role="status" aria-live="polite" class="visually-hidden" aria-relevant="additions" aria-atomic="true"></div>
+							<!-- </content> -->
+
+						</main><!-- recommendations section --><!-- end recommendations section -->
+
+						<!-- feedback section --><section id="site-user-feedback-footer" class="font-size-sm margin-top-md" data-test-id="site-user-feedback-footer" data-bi-name="site-feedback-section">
+	<hr class="hr" />
+	<h2 id="feedback" class="title is-3">反馈</h2>
+	<div class="display-flex flex-wrap-wrap align-items-center">
+		<p class="font-weight-semibold margin-xxs margin-left-none">此页面是否有帮助？</p>
+		<div class="buttons">
+			<button
+				class="thumb-rating-button like button button-primary button-sm"
+				data-test-id="footer-rating-yes"
+				data-binary-rating-response="rating-yes"
+				type="button"
+				title="本文非常有用"
+				data-bi-name="button-rating-yes"
+				aria-pressed="false"
+			>
+				<span class="icon" aria-hidden="true">
+					<span class="docon docon-like"></span>
+				</span>
+				<span>是</span>
+			</button>
+			<button
+				class="thumb-rating-button dislike button button-primary button-sm"
+				data-test-id="footer-rating-no"
+				data-binary-rating-response="rating-no"
+				type="button"
+				title="本文没有用"
+				data-bi-name="button-rating-no"
+				aria-pressed="false"
+			>
+				<span class="icon" aria-hidden="true">
+					<span class="docon docon-dislike"></span>
+				</span>
+				<span>否</span>
+			</button>
+		</div>
+	</div><div class="display-flex flex-wrap-wrap margin-top-xxs"></div>
+
+</section><!-- end feedback section -->
+
+						<!-- feedback report section --><!-- end feedback report section --><aside
+								id="ms--additional-resources-mobile"
+								aria-label="其他资源"
+								class="display-none-desktop display-none-print"
+							>
+								<hr class="hr" hidden />
+								<h2 id="ms--additional-resources-mobile-heading" class="title is-3" hidden>其他资源</h2>
+								<section id="right-rail-recommendations-mobile" data-bi-name="recommendations" hidden></section>
+								<section id="right-rail-training-mobile" data-bi-name="learning-resources-card" hidden></section>
+								<section id="right-rail-events-mobile" data-bi-name="events-card" hidden></section>
+								<section id="right-rail-qna-mobile" data-bi-name="qna-link-card" hidden></section>
+							</aside><div class="border-top is-visible-interactive has-default-focus margin-top-sm "><footer id="footer-interactive" data-bi-name="footer" class="footer-layout"><div class="display-flex gap-xs flex-wrap-wrap is-full-height padding-right-lg-desktop"><a
+				data-mscc-ic="false"
+				class="locale-selector-link button button-sm button-clear flex-shrink-0"
+				href="#"
+				data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text"></span></a><div class="ccpa-privacy-link" data-ccpa-privacy-link hidden>
+<a
+	href="https://aka.ms/yourcaliforniaprivacychoices"
+	class="button button-sm button-clear flex-shrink-0"
+	data-mscc-ic="false"
+	data-bi-name="your-privacy-choices"
+>
+	<svg
+		role="img"
+		aria-label="加州消费者隐私法案 (CCPA) 禁用图标"
+		xmlns="http://www.w3.org/2000/svg"
+		viewBox="0 0 30 14"
+		xml:space="preserve"
+		height="16"
+		width="43"
+		focusable="false"
+	>
+		<title>加州消费者隐私法案 (CCPA) 禁用图标</title>
+		<path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"></path>
+		<path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"></path>
+		<path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"></path>
+		<path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"></path>
+	</svg>
+	<span>你的隐私选择</span>
+</a>
+
+		</div>
+		<div class="flex-shrink-0">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu-interactive" aria-expanded="false" title="主题" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>主题</span>
+		<span class="icon expanded-indicator" aria-hidden="true">
+			<span class="docon docon-chevron-down-light"></span>
+		</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu-interactive" role="menu">
+		<ul class="theme-selector padding-xxs" role="none">
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="light">
+					<span class="theme-light margin-right-xxs">
+						<span
+							class="theme-selector-icon border display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>亮</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="dark">
+					<span class="theme-dark margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>暗</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>高对比度</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	</div>
+	<ul class="links" data-bi-name="footerlinks">
+		<li class="manage-cookies-holder" hidden></li><li><a class="external-link-indicator" data-mscc-ic="false" href="/zh-cn/previous-versions/" data-bi-name="archivelink">早期版本</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" data-bi-name="bloglink">博客</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/zh-cn/contribute/" data-bi-name="contributorGuide">参与</a></li><li><a class="external-link-indicator" data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">隐私</a></li><li><a class="external-link-indicator" data-mscc-ic="false" href="/zh-cn/legal/termsofuse" data-bi-name="termsofuse">使用条款</a></li><li><a class="external-link-indicator" data-mscc-ic="false" href="https://www.microsoft.com/legal/intellectualproperty/Trademarks/" data-bi-name="trademarks">商标</a></li><li>&copy; Microsoft 2024</li>
+	</ul>
+</footer></div></div><div
+							id="ms--additional-resources"
+							class="right-container column is-4-desktop display-none display-block-desktop"
+							data-bi-name="pageactions"
+							role="complementary"
+							aria-label="其他资源"
+						>
+							<div id="affixed-right-container" class="margin-top-sm-tablet" data-bi-name="right-column">
+								<h2 id="ms--additional-resources-heading" class="title is-6 margin-top-md" hidden>其他资源</h2>
+								<section id="right-rail-events" data-bi-name="events-card" hidden></section>
+								<section id="right-rail-training" data-bi-name="learning-resources-card" hidden></section>
+								<section id="right-rail-recommendations" data-bi-name="recommendations" hidden></section>
+								<nav id="side-doc-outline" class="doc-outline" data-bi-name="intopic toc" aria-label="本文内容">
+									<h3>本文内容</h3>
+								</nav>
+								<section id="right-rail-qna" class="margin-top-xxs" data-bi-name="qna-link-card" hidden></section>
+							</div>
+						</div></div>
+				<!--end of div.columns -->
+
+			</section>
+			<!--end of .primary-holder -->
+
+			<!-- interactive container -->
+			<aside id="interactive-container" class="interactive-container is-visible-interactive column has-body-background-dark ">
+			</aside>
+			<!-- end of interactive container -->
+		</div>
+
+	</div>
+	<!--end of .mainContainer -->
+
+	<section class="border-top has-default-focus is-hidden-interactive margin-top-sm "><footer id="footer" data-bi-name="footer" class="footer-layout uhf-container has-padding" role="contentinfo"><div class="display-flex gap-xs flex-wrap-wrap is-full-height padding-right-lg-desktop"><a
+				data-mscc-ic="false"
+				class="locale-selector-link button button-sm button-clear flex-shrink-0"
+				href="#"
+				data-bi-name="select-locale">
+					<span class="icon" aria-hidden="true">
+						<span class="docon docon-world"></span>
+					</span>
+					<span class="local-selector-link-text"></span></a><div class="ccpa-privacy-link" data-ccpa-privacy-link hidden>
+<a
+	href="https://aka.ms/yourcaliforniaprivacychoices"
+	class="button button-sm button-clear flex-shrink-0"
+	data-mscc-ic="false"
+	data-bi-name="your-privacy-choices"
+>
+	<svg
+		role="img"
+		aria-label="加州消费者隐私法案 (CCPA) 禁用图标"
+		xmlns="http://www.w3.org/2000/svg"
+		viewBox="0 0 30 14"
+		xml:space="preserve"
+		height="16"
+		width="43"
+		focusable="false"
+	>
+		<title>加州消费者隐私法案 (CCPA) 禁用图标</title>
+		<path d="M7.4 12.8h6.8l3.1-11.6H7.4C4.2 1.2 1.6 3.8 1.6 7s2.6 5.8 5.8 5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#fff"></path>
+		<path d="M22.6 0H7.4c-3.9 0-7 3.1-7 7s3.1 7 7 7h15.2c3.9 0 7-3.1 7-7s-3.2-7-7-7zm-21 7c0-3.2 2.6-5.8 5.8-5.8h9.9l-3.1 11.6H7.4c-3.2 0-5.8-2.6-5.8-5.8z" style="fill-rule:evenodd;clip-rule:evenodd;fill:#06f"></path>
+		<path d="M24.6 4c.2.2.2.6 0 .8L22.5 7l2.2 2.2c.2.2.2.6 0 .8-.2.2-.6.2-.8 0l-2.2-2.2-2.2 2.2c-.2.2-.6.2-.8 0-.2-.2-.2-.6 0-.8L20.8 7l-2.2-2.2c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0l2.2 2.2L23.8 4c.2-.2.6-.2.8 0z" style="fill:#fff"></path>
+		<path d="M12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7c-.2-.2-.2-.6 0-.8.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0z" style="fill:#06f"></path>
+	</svg>
+	<span>你的隐私选择</span>
+</a>
+
+		</div>
+		<div class="flex-shrink-0">
+<div class="dropdown has-caret-up">
+	<button class="dropdown-trigger button button-clear button-sm has-inner-focus theme-dropdown-trigger"
+		aria-controls="theme-menu" aria-expanded="false" title="主题" data-bi-name="theme">
+		<span class="icon">
+			<span class="docon docon-sun" aria-hidden="true"></span>
+		</span>
+		<span>主题</span>
+		<span class="icon expanded-indicator" aria-hidden="true">
+			<span class="docon docon-chevron-down-light"></span>
+		</span>
+	</button>
+	<div class="dropdown-menu" id="theme-menu" role="menu">
+		<ul class="theme-selector padding-xxs" role="none">
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="light">
+					<span class="theme-light margin-right-xxs">
+						<span
+							class="theme-selector-icon border display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>亮</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="dark">
+					<span class="theme-dark margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>暗</span>
+				</button>
+			</li>
+			<li class="theme display-block" role="menuitem">
+				<button class="button button-clear button-sm theme-control button-block justify-content-flex-start"
+					data-theme-to="high-contrast">
+					<span class="theme-high-contrast margin-right-xxs">
+						<span
+							class="border theme-selector-icon display-inline-block has-body-background"
+							aria-hidden="true">
+							<svg class="svg" xmlns="http://www.w3.org/2000/svg"
+								viewBox="0 0 22 14">
+								<rect width="22" height="14" class="has-fill-body-background" />
+								<rect x="5" y="5" width="12" height="4" class="has-fill-secondary" />
+								<rect x="5" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="8" y="2" width="2" height="1" class="has-fill-secondary" />
+								<rect x="11" y="2" width="3" height="1" class="has-fill-secondary" />
+								<rect x="1" y="1" width="2" height="2" class="has-fill-secondary" />
+								<rect x="5" y="10" width="7" height="2" rx="0.3" class="has-fill-primary" />
+								<rect x="19" y="1" width="2" height="2" rx="1" class="has-fill-secondary" />
+							</svg>
+						</span>
+					</span>
+					<span>高对比度</span>
+				</button>
+			</li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	</div>
+	<ul class="links" data-bi-name="footerlinks">
+		<li class="manage-cookies-holder" hidden></li><li><a class="external-link-indicator" data-mscc-ic="false" href="/zh-cn/previous-versions/" data-bi-name="archivelink">早期版本</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog" data-bi-name="bloglink">博客</a></li>
+				<li><a class="external-link-indicator" data-mscc-ic="false" href="/zh-cn/contribute/" data-bi-name="contributorGuide">参与</a></li><li><a class="external-link-indicator" data-mscc-ic="false" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-bi-name="privacy">隐私</a></li><li><a class="external-link-indicator" data-mscc-ic="false" href="/zh-cn/legal/termsofuse" data-bi-name="termsofuse">使用条款</a></li><li><a class="external-link-indicator" data-mscc-ic="false" href="https://www.microsoft.com/legal/intellectualproperty/Trademarks/" data-bi-name="trademarks">商标</a></li><li>&copy; Microsoft 2024</li>
+	</ul>
+</footer>
+
+	</section>
+
+	<div id="action-panel" role="region" aria-label="操作面板" class="action-panel has-default-focus" tabindex="-1"></div>
+</body>
+</html>

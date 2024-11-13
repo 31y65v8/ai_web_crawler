@@ -1,0 +1,734 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>关注人工智能对劳动力市场的影响-中国社会科学网</title>
+    <meta name="renderer" content="webkit">
+<meta name="force-rendering" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="Keywords" content="人工智能;劳动力市场">
+<meta name="description" content="关注人工智能对劳动力市场的影响">
+<meta name="baidu-site-verification" content="d2eTvy3SqO">
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="131527">
+<meta name="contentid" content="5692399">
+<meta name="publishdate" content="2023-10-24">
+<meta name="author" content="社科网公用2">
+<meta name="source" content="中国社会科学网-中国社会科学报">
+    <script src="https://hm.baidu.com/hm.js?9ac7f8383ed02699dcafe4c2cba61e1f"></script><script async="" src="//cl2.webterren.com/webdig.js?z=28"></script><script async="" id="beacon-aplus" src="https://d.alicdn.com/alilog/mlog/aplus/204201353.js"></script><script type="text/javascript" src="../../../images/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../../../images/sk_pc_mobile_v2022.js"></script>
+
+    <link class="stylefile" rel="stylesheet" href="../../../images/sk_nav0_base_pc.css">
+    <link class="stylefile" rel="stylesheet" href="../../../images/sk_all_v2_pc.css">
+
+    
+    
+
+    <link rel="stylesheet" type="text/css" href="../../../images/idangerous.swiper2.7.6.css">
+    <script type="text/javascript" src="../../../images/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="../../../images/idangerous.swiper2.7.6.min.js"></script>
+    <script type="text/javascript" src="../../../images/jquery.qrcode.min.js"></script>
+    <!--[if IE 9]>
+    <script type="text/javascript" src="../../../images/placeholder.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="../../../images/jweixin-1.6.0.js"></script>
+    <script>
+
+        $(function () {
+ //请求后台获取微信分享配置及验证签名
+    $.ajax({
+ url: 'https://cssn.cn/wx-api/config/h5/share-init',
+ type: 'GET',  //方法
+ data: {
+  url: location.href,  //参数
+ },
+ headers: {},
+ contentType: "application/x-www-form-urlencoded",  //请求格式
+ dataType: 'json',
+ success: function(res) {
+  
+  //判断无附件图使用logo
+  var imgUrl = '';
+console.log(imgUrl);
+  if(imgUrl == undefined || imgUrl == null || imgUrl == '') {
+   //没有附件默认logo
+   imgUrl = 'https://www.cssn.cn/images/skweixinlog.jpg';
+  }
+ console.log(imgUrl);
+//加载微信分享配置
+  wx.config({
+   debug: false,
+   appId: res.data.appId,
+   timestamp: res.data.timestamp,
+   nonceStr: res.data.nonceStr,
+   signature: res.data.signature,
+   jsApiList: ["updateAppMessageShareData", "updateTimelineShareData"]
+  });
+ //微信分享加载
+  wx.ready(function () {
+//微信分享到朋友
+   wx.updateAppMessageShareData({ 
+    title: '关注人工智能对劳动力市场的影响',//标题
+    desc: '中国社会科学网',//描述
+    link: location.href,//链接
+    imgUrl: imgUrl,//图片
+    success: function () {
+     console.log("微信分享成功");
+    }
+   });
+//微信分享到朋友圈
+   wx.updateTimelineShareData({ 
+    title: '关注人工智能对劳动力市场的影响',//标题
+    link: location.href,//链接
+    imgUrl: imgUrl,//图片
+    success: function () {
+     console.log("微信分享成功");
+    }
+   })
+  });
+  wx.error(function(res3) {
+   console.log(res3.errMsg);
+  });
+ },
+});
+});
+
+        var isPC = IsPC();//获取是否为PC端
+        if (isPC) {//如果是PC端加载PC的js和css
+            $(".mobileStyle").remove();
+            dynamicLoadJs('../../../images/sk_nav0_base_pc.js')
+        } else {//如果是移动端加载移动端的js和css
+            if (window.sessionStorage.getItem("isPc") == "true") {
+                var oMeta = document.createElement('meta');
+                oMeta.content = '';
+                oMeta.name = 'viewport';
+                document.getElementsByTagName('head')[0].appendChild(oMeta);
+                $(".mobileStyle").remove();
+                dynamicLoadJs('../../../images/sk_nav0_base_pc.js')
+                $(function () {
+                    $(".AppBtn").css('display', 'block');
+                    $(".qrcodeCanvas_wrap").css('display', 'none');
+                    $(".nav_wrap").addClass("AppBtnBox");
+                })
+            } else {
+                $(".stylefile").remove();
+                dynamicLoadJs('../../../images/sk_base_mobile.js')
+                $(function () {
+                    $("html,body").animate({scrollTop: 0}, 100);
+                })
+            }
+            $(function () {
+                //切换pc移动
+                $(".PcBtn").click(function () {
+                    window.sessionStorage.setItem("isPc", "true")
+                    window.location.reload()
+                })
+                $(".AppBtn").click(function () {
+                    window.sessionStorage.setItem("isPc", "false")
+                    window.location.reload()
+                })
+                $(".AppBtn2").click(function () {
+                    window.sessionStorage.setItem("isPc", "false")
+                    window.location.reload()
+                })
+            })
+        }
+    </script><script type="text/javascript" src="../../../images/sk_nav0_base_pc.js"></script>
+<style type="text/css">.ops_shareLayer ul,.ops_shareLayer li,.ops_shareLayer a,.ops_shareLayer i{margin:0px;padding:0px;}.ops_shareLayer{line-height:36px;}.ops_shareLayer .ops_tit{color:#707070;float:left;margin-right:6px;font-size:12px;}.ops_shareLayer .ops_icons{}.ops_shareLayer .ops_icons li{display: block;margin: 0 auto;height:46px;width:46px;list-style:outside none none;}.ops_shareLayer .ops_icons a{float: left;border-radius: 50px;-moz-border-radius: 50px;-webkit-border-radius: 50px;padding: 10px 7px 10px 8px;width: 31px;height: 26px;transition: .3s;}.ops_shareLayer .ops_icons a i{background-image:url(http://www.cssn.cn/images/ops_icons_230603.png);height:24px;width:31px;line-height:26px;display:block;cursor:pointer;}.ops_shareLayer .ops_icons a.icon_rmwb{background-color:#ebccd1;}.ops_shareLayer .ops_icons a.icon_rmwb:hover,.ops_shareLayer .ops_icons a.icon_rmwb:focus{background-color:#cb0000;}.ops_shareLayer .ops_icons a.icon_sina{background-color:#dedede;}.ops_shareLayer .ops_icons a.icon_sina:hover{background-color:#d9534f;}.ops_shareLayer .ops_icons a.icon_sina i{background-position:0 -50px;}.ops_shareLayer .ops_icons a.icon_weixin{background-color:#dedede;}.ops_shareLayer .ops_icons a.icon_weixin:hover,.ops_shareLayer .ops_icons a.icon_weixin:focus{background-color:#5cb85c;transform: rotate(360deg);}.ops_shareLayer .ops_icons a.icon_weixin i{background-position:0 -100px;}.ops_shareLayer .ops_icons a.icon_qzone{background-color:#dedede;}.ops_shareLayer .ops_icons a.icon_qzone:hover,.ops_shareLayer .ops_icons a.icon_qzone:focus{background-color:#f0ad4e;transform: rotate(360deg);}.ops_shareLayer .ops_icons a.icon_qzone i{background-position:0 -150px;}.ops_shareLayer .ops_icons a.icon_copy{background-color:#bce8f1;}.ops_shareLayer .ops_icons a.icon_copy:hover,.ops_shareLayer .ops_icons a.icon_copy:focus{background-color:#428bca;}.ops_shareLayer .ops_icons a.icon_copy i{background-position:0 -200px;}.weixin_popup{background:#fff none repeat scroll 0 0;border:1px solid #d8d8d8;padding:10px;position:fixed;z-index:11001;text-align:left;font-size:12px;color:#333;}.weixin_popup .weixin_popup_head{color:#000;font-weight:bold;height:16px;line-height:16px;position:relative;text-align:left;}.weixin_popup .weixin_popup_head .weixin_popup_close{color:#999;font-size:16px;height:16px;position:absolute;right:0;text-decoration:none;top:0;width:16px;}.weixin_popup .weixin_popup_main{TEXT-ALIGN: center;padding-top:10px;padding-bottom:10px;}.weixin_popup .weixin_popup_foot{color:#666;line-height:22px;text-align:left;}#weixin_qrcode{height:295px;left:333.5px;bottom:150px;width:240px;}</style><script type="text/javascript" src="//d.webterren.com/common.js?z=28&amp;t=202307060113"></script><script async="" src="https://quickaplus-server-api-cn-zhangjiakou.aliyuncs.com/rcfg.js?_abfpc=07a9db51a54e2fbbcd3a64eedb46566f9c8d9cfa&amp;ak=qwfmf7ygk8c6a37if0oq266o" id="aplus-setting" type="text/javascript" charset="utf-8"></script></head>
+<body>
+<!-- 嵌套头部开始 -->
+<script>
+    // Quick Tracking 阿里sdk引入
+    (function(w, d, s, q) { 
+        w[q] =w[q] || []; 
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s); 
+        j.async=true; 
+        j.id='beacon-aplus'; 
+        j.src='https://d.alicdn.com/alilog/mlog/aplus/204201353.js'; 
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'aplus_queue');
+
+    aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['appKey', 'qwfmf7ygk8c6a37if0oq266o']  }) 
+    aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['aplus-rhost-v', 'quickaplus-server-api-cn-zhangjiakou.aliyuncs.com']  });
+
+
+
+    $(function() {
+        $('.search_input').on('keyup', function(e) {
+            if (e.keyCode == 13) {
+                gbkSub($(this))
+            } else {
+                $('.search_input').val( $(this).val() )
+            }
+        })
+        $('.search_btn').on('click', function(e) {
+            gbkSub($(this))
+        })
+
+        function gbkSub(obj) {
+            var val = encodeURIComponent($.trim ( obj.parent().find('.search_input').eq(0).val()) )
+            
+            // 埋点搜索
+            aplus_queue.push({
+                'action':'aplus.record',
+                'arguments':['search_click', 'CLK', {
+                    search_key: val,
+                    current_page_name: $('title').text(),
+                    page_name: $('title').text(), //您当前页面的自定义页面编码
+                }]
+
+            });
+            if ( val == '' ) {
+                // alert("请输入您要搜索的内容");
+                var url = 'http://www.cssn.cn/so/';
+                window.open(url);
+            } else {
+                var url = 'http://www.cssn.cn/so/s?qt=' + val;
+                window.open(url);
+            }
+        }
+    })
+
+        
+
+
+        $(function() {
+
+            var article_title = $('.qt_article_title').text();
+            var article_id = $('.qt_article_parent').attr('data-article_id');
+            var share_channel = $('.qt_article_parent').attr('data-share_channel');
+            var published_date = $('.qt_published_date').text();
+            var article_source = $('.qt_article_source').text();
+            var article_author = $('.qt_article_author').text();
+
+            // console.log('article_title:', article_title)
+            // console.log('article_id:', article_id)
+            // console.log('share_channel:', share_channel)
+            // console.log('published_date:', published_date)
+            // console.log('article_source:', article_source)
+            // console.log('article_author:', article_author)
+
+            // Quick Tracking 详情页浏览
+            aplus_queue.push({
+                'action':'aplus.sendPV',
+                'arguments':[{ is_auto: false}, {
+                    //保留字段
+                    page_name:'article_detail_page',
+                    page_title:'文章详情页',
+                    //可选参数
+                    article_title: article_title,
+                    article_id:article_id,
+                    article_author: article_author,
+                    article_source: article_source,
+                    published_date: published_date,
+                }]
+            });
+
+            // 点击分享埋点
+            $('.ops_icons a').on('click', function(e) {
+                var btnName = $(this).attr('title')
+                var isOriginal = ''
+                if (article_source.indexOf('中国社会科学网') != -1 && isOriginal != '') {
+                    isOriginal = '原创'
+                } else {
+                    isOriginal = '非原创'
+                }
+                aplus_queue.push({
+                    'action':'aplus.record',
+                    'arguments':['adp_share_click', 'CLK', {
+                        article_id: article_id,
+                        page_name: "article_detail_page", //您当前页面的自定义页面编码
+                        s_original: isOriginal,//btnName,
+                        article_title: article_title,
+                        published_date: published_date,
+                        article_source: article_source,
+                        article_author: article_author,
+                        share_channel: btnName
+                    }]
+                });
+            })
+
+            // 点击文章页中的链接埋点
+            $('.content_center a').on('click', function() {
+                aplus_queue.push({
+                    'action':'aplus.record',
+                    'arguments':['adp_hyperlinks_click', 'CLK', {
+                        article_id: $(this).attr('href'),
+                        page_name: "文章详情页-超链接点击", //您当前页面的自定义页面编码
+                    }]
+                });
+            })
+
+
+
+
+        })
+</script>
+<!-- head start -->
+<div class="top pcNone">
+    <div class="top_main">
+        <div class="top_left">
+            <a href="/"><img src="/images/sk_logo_v2022.png" alt=""></a>
+        </div>
+        <div class="top_right">
+            <div class="PcBtn"><img src="/images/sk_m_pcbtn.png" alt=""></div>
+            <div class="searchBtn"><img src="/images/sk_m_searchbtn.png" alt=""></div>
+            <div class="AppBtn"><img src="/images/sk_m_mobilebtn.png" alt=""></div>
+            <div class="search_div mobileNone">
+                <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容">
+                <input class="search_btn" name="searchButton" type="button" value="搜索">
+            </div>
+        </div>
+    </div>
+    <div class="search">
+        <div class="search_div">
+            <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容">
+            <input class="search_btn" name="searchButton" type="button" value="搜索">
+        </div>
+        <div class="search_close"></div>
+    </div>
+</div>
+<!-- head end -->
+<!-- nav start -->
+<div class="nav_wrap">
+    <div class="nav_main">
+        <div class="nav_box">
+            <ul class="nav_ul clear">
+                <li><a class="icon_learn" href="/xxzx/" target="_blank" ignoreapd="true">中心</a></li>
+                <li><a href="/xszg/" target="_blank" ignoreapd="true">学术中国</a></li>
+                <li><a href="/zkzg/" target="_blank" ignoreapd="true">智库中国</a></li>
+                <li><a href="/skwxsdt/" target="_blank" ignoreapd="true">学术地图</a></li>
+                <li><a href="http://v.cssn.cn/#/index" target="_blank" ignoreapd="true">社科视频</a></li>
+                <li><a href="/dkzgxp/" target="_blank" ignoreapd="true">中国学派</a></li>
+                <li><a href="/gjgc/" target="_blank" ignoreapd="true">国际观察</a></li>
+                <li><a href="/kgxc/" target="_blank" ignoreapd="true">考古现场</a></li>
+                <li><a href="/ggzp/" target="_blank" class="nav_zp" ignoreapd="true">公告<i></i>招聘</a></li>
+                <li><a class="arrow" href="javascript:;">学科体系<i></i></a></li>
+            </ul>
+            <a class="nav_more nav_site_pc" href="javascript:;">+</a>
+            <a class="nav_more nav_site_more" href="javascript:;"><img src="/images/sk_nav_rtbg.png"></a>
+        </div>
+        <div class="nav_fixed_logo"><a href="/"><img src="/images/sk02-logo-nav0.png" alt=""></a>
+        </div>
+        <div class="nav_fixed_search">
+            <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容">
+            <input class="search_btn" name="searchButton" type="button" value="">
+        </div>
+        <div class="AppBtn2"><img src="/images/sk_m_mobilebtn.png" alt=""></div>
+    </div>
+    <!-- 学科体系下拉菜单 -->
+    <div class="sub_xktx">
+        <div class="nav_wrapper">
+            <a href="/mkszy/" target="_blank" ignoreapd="true">马克思主义</a>
+            <a href="/zx/" target="_blank" ignoreapd="true">哲学</a>
+            <a href="/jjx/" target="_blank" ignoreapd="true">经济学</a>
+            <a href="/fx/" target="_blank" ignoreapd="true">法学</a>
+            <a href="/lsx/" target="_blank" ignoreapd="true">历史学</a>
+            <a href="/wx/" target="_blank" ignoreapd="true">文学</a>
+            <a href="/xwcbx/" target="_blank" ignoreapd="true">新闻传播学</a>
+            <a href="/ysx/" target="_blank" ignoreapd="true">艺术学</a>
+            <a href="/zzx/" target="_blank" ignoreapd="true">政治学</a>
+            <a href="/shx/" target="_blank" ignoreapd="true">社会学</a>
+            <a href="/mzx/" target="_blank" ignoreapd="true">民族学</a>
+            <a href="/jyx/" target="_blank" ignoreapd="true">教育学</a>
+            <a href="/glx/" target="_blank" ignoreapd="true">管理学</a>
+            <a href="/jsx/" target="_blank" ignoreapd="true">军事学</a>
+            <a href="/zgdsdj/" target="_blank" ignoreapd="true">中共党史党建</a>
+            <a href="/qygbx/" target="_blank" ignoreapd="true">区域国别学</a>
+            <a href="/gjaqx/" target="_blank" ignoreapd="true">国家安全学</a>
+        </div>
+    </div>
+</div>
+<!-- nav end -->
+<div class="nav_site_more_con clear">
+    <i class="more_btn"></i>
+    <div class="layout clear">
+        <h1 class="clear"><a href="/"><img src="/images/sk_logo_v2022.png" alt=""></a></h1>
+        <ul class="clear navtop">
+            <li class="icon_learn"><a href="/xxzx/" target="_blank" ignoreapd="true">中心</a></li>
+            <li><a href="/xszg/" target="_blank" ignoreapd="true">学术中国</a></li>
+            <li><a href="/zkzg/" target="_blank" ignoreapd="true">智库中国</a></li>
+            <li><a href="/skwxsdt/" target="_blank" ignoreapd="true">学术地图</a></li>
+            <li><a href="https://v.cssn.cn/#/index" target="_blank" ignoreapd="true">社科视频</a></li>
+            <li><a href="/dkzgxp/" target="_blank" ignoreapd="true">中国学派</a></li>
+            <li><a href="/gjgc/" target="_blank" ignoreapd="true">国际观察</a></li>
+            <li><a href="/kgxc/" target="_blank" ignoreapd="true">考古现场</a></li>
+            <li><a href="/ggzp/" target="_blank" class="nav_zp" ignoreapd="true">公告 · 招聘</a></li>
+        </ul>
+        <div class="more_con clear">
+            <a href="/zjzg/" target="_blank" ignoreapd="true">志鉴中国</a>
+            <a href="/skgz/" target="_blank" ignoreapd="true">社科关注</a>
+            <a href="/skyl/" target="_blank" ignoreapd="true">社科要论</a>
+            <a href="/dsskhs/" target="_blank" ignoreapd="true">社科好书</a>
+            <a href="/skqns/" target="_blank" ignoreapd="true">社科青年说</a>
+            <a href="/wlqglt/" target="_blank" ignoreapd="true">网络强国论坛</a>
+            <a href="/skrmt/" target="_blank" ignoreapd="true">社科融媒体</a>
+            <a href="/wkskjh/" target="_blank" ignoreapd="true">网刊</a>
+        </div>
+        <h3 class="clear">学科体系</h3>
+        <div class="more_con clear">
+            <a href="/mkszy/" target="_blank" ignoreapd="true">马克思主义</a>
+            <a href="/zx/" target="_blank" ignoreapd="true">哲学</a>
+            <a href="/jjx/" target="_blank" ignoreapd="true">经济学</a>
+            <a href="/fx/" target="_blank" ignoreapd="true">法学</a>
+            <a href="/lsx/" target="_blank" ignoreapd="true">历史学</a>
+            <a href="/wx/" target="_blank" ignoreapd="true">文学</a>
+            <a href="/xwcbx/" target="_blank" ignoreapd="true">新闻传播学</a>
+            <a href="/ysx/" target="_blank" ignoreapd="true">艺术学</a>
+            <a href="/zzx/" target="_blank" ignoreapd="true">政治学</a>
+            <a href="/shx/" target="_blank" ignoreapd="true">社会学</a>
+            <a href="/mzx/" target="_blank" ignoreapd="true">民族学</a>
+            <a href="/jyx/" target="_blank" ignoreapd="true">教育学</a>
+            <a href="/glx/" target="_blank" ignoreapd="true">管理学</a>
+            <a href="/jsx/" target="_blank" ignoreapd="true">军事学</a>
+            <a href="/zgdsdj/" target="_blank" ignoreapd="true">中共党史党建</a>
+            <a href="/qygbx/" target="_blank" ignoreapd="true">区域国别学</a>
+            <a href="/gjaqx/" target="_blank" ignoreapd="true">国家安全学</a>
+        </div>
+        <h3 class="clear mobileNone">新媒体矩阵</h3>
+        <div class="more_con clear mobileNone">
+            <ul class="new_media_ul">
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922337226245876.png" alt="sk_v2022_front_wechat.png">
+                        <p>微信小程序</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929538050877342.jpg" alt="小程序106.jpg">
+                        <p>微信小程序</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922336887208883.png" alt="sk_v2022_front_gzh.png">
+                        <p>微信公众号</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929539559790487.jpg" alt="微信106.jpg">
+                        <p>微信公众号</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922336458060142.png" alt="sk_v2022_front_zgxp.png">
+                        <p>中国学派</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929539793588017.jpg" alt="学派106.jpg">
+                        <p>中国学派</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020230615600845961620.png" alt="W020220922336137882083.png">
+                        <p>中国社会科学报</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020230616566952919336.jpg" alt="111.jpg">
+                        <p>中国社会科学报</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929459900615313.png" alt="123.png">
+                        <p>新浪微博</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929540194201728.jpg" alt="微博106.jpg">
+                        <p>新浪微博</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929460609289083.png" alt="123.png">
+                        <p>今日头条号</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929540425896749.jpg" alt="头条106.jpg">
+                        <p>今日头条号</p>
+                    </div>
+                </div>
+            </li>
+            
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- 嵌套头部结束 -->
+<!-- content -->
+<div class="wrap_fullWidth sk_warp_center_repeat clear qt_article_parent" data-article_id="5692399" data-share_channel="本网原创">
+    <div class="warp_center">
+        <div class="sk_crumbs">
+            <a href="../../../" target="_self" title="首页" class="CurrChnlCls">首页</a>&nbsp;&gt;&nbsp;<a href="../../" target="_self" title="社科关注" class="CurrChnlCls">社科关注</a>&nbsp;&gt;&nbsp;<a href="../" target="_self" title="本网原创" class="CurrChnlCls">本网原创</a>
+        </div>
+        <div class="warp_center_content">
+            
+            <div class="content_head">
+                <h1 class="qt_article_title">关注人工智能对劳动力市场的影响</h1>
+                
+                <div class="head_intro clear">
+                    <div class="intro_left">
+                        <span class="qt_published_date">2023-10-24</span>
+                        <span class="qt_article_author"><font>作者：</font>吴孟非 刘凤良</span>
+                        
+                        <span class="qt_article_source"><font>来源：</font>中国社会科学网-中国社会科学报</span>
+                    </div>
+                </div>
+            </div>
+            <div id="getHeight"></div>
+<div class="content_left">
+    <div class="sk_size_change"><a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a></div>
+    <div class="wxgzh">
+        <div class="wx_img"><img src="/images/sk_wx_gzh.png" alt=""></div>
+        <p>微信公众号</p>
+    </div>
+    <div class="intro_right">
+        <div class="title">— <span>分享</span> —</div>
+        <div class="ico_wx">
+            <a class="wx_icon" title="微信"></a>
+            <div class="qrcodeCanvas_wx">
+                <div class="qrcodeCanvas"><canvas width="256" height="256" style="width: 100%; height: 100%; display: block;"></canvas></div>
+            </div>
+        </div>
+        <div class="view sk_share" id="ops_share"><div class="ops_shareLayer"><ul class="ops_icons"><li><a href="javascript:void(0)" onclick="_opsShare.share('icon_sina');return false;" class="icon_sina" title="新浪微博"><i> </i></a></li></ul></div></div>
+        <script src="/images/share_cssn_v2.min.js" charset="utf-8"></script>
+        <div class="ico_url">
+            <a class="url_icon" title="复制地址"></a>
+            <div class="copyUrl">链接已复制</div>
+            <input type="text" class="link_url" style="opacity: 0;width: 1px;height: 1px;position: absolute;bottom:0;z-index: -1;" value="https://www.cssn.cn/skgz/bwyc/202310/t20231024_5692399.shtml">
+        </div>
+    </div>
+</div>
+            <div class="content_right">
+                <div class="content_center">
+                    <p><style type="text/css">
+
+.TRS_Editor P{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor p{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor TD{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor TH{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor SPAN{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor FONT{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor UL{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor LI{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor A{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}</style>
+</p><p><style type="text/css">
+
+.TRS_Editor P{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor p{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor TD{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor TH{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor SPAN{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor FONT{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor UL{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor LI{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}.TRS_Editor A{margin-bottom:15px;line-height:1.5;font-family:宋体;font-size:12pt;}</style>
+</p><p>
+</p><p align="justify">　　人工智能是一种基于计算机科学的技术，其目的是让计算机系统能够像人类一样感知、思考、学习和决策，被众多学者视为新一代通用目的技术。20世纪50年代以来，AI技术已经发展成为一个不断扩大的领域，正在对经济、社会和文化生活产生着越来越深远的影响。我们身边随处可见人工智能的身影，例如手机上的人脸识别、语音助手以及超市的无人结账系统等。众多公司也在利用人工智能提升自己的经营表现，例如电商平台利用人工智能技术来分析消费者的历史购买记录、搜索历史和浏览行为等数据，以提供个性化的推荐和购物体验，提高用户的购买意愿和交易量。但是，人们在分享人工智能带来便利的同时，也注意到了这种技术广泛应用可能存在的一些潜在问题。其中，人工智能对劳动力的潜在影响就是其中一个广受关注的方面。</p>
+<p align="justify"><strong>　　劳动力市场两极化</strong></p>
+<p align="justify">　　20世纪80年代后，欧美国家陆续出现的劳动力市场两极化的现象，近些年来在中国劳动力市场也开始逐渐显现。这种现象指就业和工资在高技能和低技能岗位的增长率较高，而在中间技能岗位上较低，呈现“两头高中间低”的特征。现代自动化生产技术的出现被认为是这种现象的主要成因之一。根据Acemoglu和Autor的研究，工作可以用“体力型”vs“认知型”以及“流程化”vs“非流程化”划分为四类，而自动化技术擅长流程化工作，无论是体力型还是认知型工作。自动化机器和软件以低廉的成本可以完成很多工人和白领的流程化工作，这也就导致了中间技能工作的就业和工资相对于高技能和低技能工作增长速度低，形成劳动力市场两极化。</p>
+<p align="justify">　　但是，随着自动聊天机器人的发布，人工智能技术再次改变了人们对于自动化的认知，其功能不仅限于与人聊天，甚至可以在一定程度上进行撰写文章、编写代码、设计网站等复杂工作。随着人工智能和机器人技术的发展，现在只有人类能完成的复杂工作在不久的未来或可以使用机器完成。机器自动化的适用范围将不再局限于流程化工作，更多的非流程化的认知或体力型工作会交由机器高效且低成本地进行。这也意味着，在未来会有更多的工人将被人工智能所取代，这部分工人的劳动收入会因此下降。</p>
+<p align="justify">　　从整个劳动力市场的层面来看，人工智能技术带来的自动化水平提高会对劳动力群体的收入造成不对称的影响。在短期内，人工智能取代特定的工作会导致相应的工人工资降低甚至是失业，收入不平等程度可能加剧。在长期中，人工智能取代工人的效应虽然依然存在，但是随着更多的新工作被创造出来以及劳动力内生选择自己所接受的教育，理论上人工智能对劳动收入不平等的冲击应该比短期程度有所缓解。</p>
+<p align="justify">　　人工智能对劳动力的替代，除了直接影响劳动力之间的工资收入不平等，还会影响资本与劳动之间的收入份额。卡尔多事实表明在长期中资本与劳动的收入占比是大体不变的，但是在近些年来这个规律开始动摇，资本逐渐在收入中的比例越来越大。其中一个原因就是劳动力和资本之间的互补性减弱了，在没有自动化技术之前生产机器必须由人来操作，当机器自动化被广泛使用之后，机器只需要少量的人工干预就可以进行自动化生产。如果人工智能进一步加强机器的自动化生产能力，更多比重的工作可能将由机器单独完成，资本收入份额变多的趋势将延续下去，劳动力在生产部门所占的收入会变得更低。持有资本的富人阶级收入占比变得更高，而普通劳动力所能挣到的工资继续下降，收入分配不平等程度会因此提高。</p>
+<p align="justify"><strong>　　收入分布或更加向顶层集中</strong></p>
+<p align="justify">　　数字化和经济全球化是促成当前收入向顶层集中的两个重要原因。在传统经济环境中，由于交通运输和信息通信的落后，行业中的最优提供者也只能在其特定的地区提供商品或者服务，而较差的提供者也在其特定区域或市场中占有一席之地，每个人都有机会从市场中获取收益，这也限制了一个人所能获得收入的上限。但是，数字化和全球化时代到来之后，商品和服务不再被时间和地点所束缚，口碑也会通过互联网高速传播，音乐、电影等作品可以被制作成各式各样的数字商品，以几乎无成本的方式复制，并销售至世界各地。因此，最优秀的产品和服务会快速地占领市场，而这些商品和服务提供者的收入不会再受到经营区域的限制。</p>
+<p align="justify">　　帕累托分布可以用于描述收入分布，这种分布也经常被描述为“二八规则”，即少部分人占有了大部分的收入或财富，其尾部可以很好地描述顶层群体收入分布，尾部越厚表示顶层群体占有的收入比例越高。这种分布生成的基本原理是随机增长与稳定性力量，例如，当变量的运动服从几何布朗运动与生灭过程就可以产生特定的帕累托分布。更直观的，考虑超级明星的收入增长过程服从几何布朗运动，且每个时期都有一定的概率破产，并由新人顶替，此时他们的收入分布就是服从帕累托分布的。收入平均增长率越高，社会流动性越低，则分布的尾部越厚，反之越薄。</p>
+<p align="justify">　　第一，顶层群体的收入通常来自其独特产品或者服务所带来的经济租金，例如企业家、律师、建筑设计师等。他们异于常人的收入本质上很难全部归为劳动收入，更多的是对他们所提供的独特产品或服务的补偿。那么他们提供的产品和服务的种类越多，质量越好，收入越高。人工智能可以通过自动化、智能化等方式，帮助产品研发人员更快、更准确地获取用户需求、设计产品、测试产品和改进产品，从整体上提高顶层人群的产品种类或者质量的增长速度。例如，抖音会向视频创作者提供视频相关的播放数据，帮助其了解当下的视频创作风向。谷歌使用机器学习技术来改进搜索算法，并且利用自然语言处理技术，使搜索结果更符合用户意图。特斯拉使用深度学习技术来优化自动驾驶系统，并且利用数据分析和机器学习来改进车辆性能和提高效率。所以，从收入增长速度角度来看，人工智能会提高顶层人群的收入占比。</p>
+<p align="justify">　　第二，人工智能对社会流动性的影响需要从行业在位者和潜在进入者两方面来看。人工智能对行业在位者是有益的，在其帮助下可以快速抓住市场需求和机遇，无形中消灭了潜在进入者的一些机会。而且人工智能的训练需要大量数据和算力来完成，潜在进入者很难获得与在位者同等的研发能力，提高了进入行业壁垒。但人工智能对潜在进入者也是同样有益的，例如依赖于深度学习算法的短视频平台在帮助企业获得利润的同时，也给了普通人更多机会，数字金融也缓解了许多创业者的金融约束。随着人工智能技术未来的发展，其对行业在位者和潜在进入者的帮助孰大，还很难下定论。但是现在通过互联网行业可以看到，那些正在将人工智能作为盈利工具的明星公司，在短期内很难被颠覆。</p>
+<p align="justify">　　面对人工智能带来的上述问题，可以采用多种政策予以积极应对。其一是提高高等教育的普及率，建立完善的职业培训体系来改善。这样可以令劳动力对不同工作有更强的适应能力，即使当前工作被人工智能和自动化机器替代，劳动力也可以快速更换自己的工作。其二是鼓励投资研发、支持科技创新和推动新兴产业发展对改善人工智能造成的收入不平等问题有两方面好处。一是新技术和新产品可以提高市场中的竞争程度，防止市场集中度过高。二是新的生产技术和新兴产业将带来新的工作岗位，提高劳动力需求，从而抑制资本收入份额不断上升的趋势。其三是鼓励创业，为创业者提供更多政策和金融支持，提高创业者的市场竞争能力。这样可以提高社会流动性，也能缓解收入向顶层集中的问题。此外，收入不平等并非一个新问题，常用的政策工具也都可以用于缓解因人工智能大面积应用带来的收入不平等问题。例如，最低工资、累进所得税、社会保障制度等。</p>
+<p align="justify"><strong>　　（作者系中国人民大学经济学院博士研究生；中国人民大学经济学院教授）</strong></p>
+<p></p>
+<p></p><p></p>
+                    
+                </div>
+                <div class="content_summary"><strong>关键词：</strong>人工智能;劳动力市场</div>
+                <div class="content_zz">
+                    转载请注明来源：<strong>中国社会科学网</strong>【编辑：周慧(报纸)闫琪（网络）】
+                </div>
+                <div class="warp_center_links clear">
+    <div class="view">
+        <div class="sk_title_02">
+            <span>社科推荐</span>
+        </div>
+        <ul>
+            
+            <li><a href="https://www.cssn.cn/skgz/202410/t20241011_5790125.shtml" target="_blank">跨学科聚焦人工智能多领域应用</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/202411/t20241113_5801958.shtml" target="_blank">探索古老智慧 共筑未来桥梁</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/202411/t20241113_5801957.shtml" target="_blank">促进文明交流互鉴的新平台</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/202411/t20241112_5801721.shtml" target="_blank">希腊“古典主义”的形式</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/202411/t20241112_5801720.shtml" target="_blank">文明交流互鉴：古典文明的现代意义</a></li>
+            
+        </ul>
+    </div>
+</div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="fiexd_title_wrap">
+    <div class="fiexd_title">
+        <span class="fiexd_title_text">关注人工智能对劳动力市场的影响</span>
+    </div>
+</div>
+<script language="javascript">
+    $(document).ready(function(){
+        //分辨率变更
+        if($(window).width()<1430){
+            $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a>')
+        }
+        if($(window).width()>1430){
+            $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="22">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a>')
+        }
+        $(window).resize(function() {
+            //分辨率变更
+            if($(window).width()<1430){
+                $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a>')
+            }
+            if($(window).width()>1430){
+                $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="22">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a>')
+            }
+        });
+        $(document).on('click','.sk_size_change a',function () {
+            // 文章字体大小调整
+            $(".sk_size_change a").removeClass('active');
+            $(this).addClass('active');
+            var size = $(this).attr('data-size')
+            setSize(size)
+        })
+    });
+    function setSize(size){
+        //文章文字大小调整
+        var fontSize = parseInt(size)
+        $(".content_center *").animate({"font-size":fontSize+'px'})
+        $(".content_center h2").animate({"font-size":parseInt(fontSize+6)+'px'})
+    }
+    (function (window, $) {
+        var web_url = window.location.href
+        $('.link_url').attr('value', web_url)
+        $('.url_icon').on('click', function () {
+            $('.link_url').select();
+            document.execCommand('copy');
+            $(this).parent().find('.copyUrl').addClass('copy_cur');
+        })
+        $('.copyUrl').on('animationend', function () {
+            $('.copyUrl').removeClass('copy_cur');
+        })
+    })(window, jQuery);
+</script>
+<script>
+    // 二维码
+    $('.qrcodeCanvas').qrcode({
+        text: window.location.href
+    });
+
+    var isPC = IsPC();
+    if (isPC) {
+        $('.qrcodeCanvas').find('canvas').eq(0).css({
+            'width': '100%',
+            'height': '100%',
+            'display': 'block'
+        })
+    }
+
+    var navWrapH = $('.nav_wrap').outerHeight()
+    var crumbsH = $('.sk_crumbs').outerHeight()
+    var fiexdH = $('.fiexd_title_wrap').outerHeight()
+    var warpCenterH = parseInt( $('.warp_center_content').css('padding-top') )
+    // var titleH = $('.content_head').find('h1').eq(0).outerHeight()
+
+    var headHeight = navWrapH + crumbsH + warpCenterH
+    var offset = $('#getHeight').offset();
+    var dis = offset['top'];
+    var leftHeight = dis - navWrapH - fiexdH
+
+    $('.fiexd_title_text').text($('.content_head').find('h1').eq(0).text())
+    // $('.fiexd_subTitle_text').text($('.content_head').find('h2').eq(0).text())
+    // $('.fiexd_title_wrap').css('top', navWrapH)
+    // console.log( 'headHeight:', headHeight )
+
+    // console.log(warpCenterH)
+    $(window).on('scroll', function() {
+
+        if ( $(window).scrollTop() > headHeight ) {
+
+            // $('.fiexd_title_wrap').show().stop().animate({'top': navWrapH},500)
+
+            $('.fiexd_title_wrap').show().css('top', navWrapH)
+
+        } else {
+            //     $('.fiexd_title_wrap').stop().animate({'top': 0} ,500, function() {
+            //         $(this).hide()
+            //     })
+
+            $('.fiexd_title_wrap').css({
+                'top': -navWrapH-32
+            })
+            // console.log( $(window).scrollTop() )
+        }
+        if ( $(window).scrollTop() > leftHeight ) {
+            $('.content_left').addClass('left_fixed')
+
+        } else {
+            $('.content_left').removeClass('left_fixed')
+        }
+    })
+</script>
+<!-- footer -->
+<div class="sk_footer sk_footer_white">
+    <div class="links">
+    <a href="/gywm/" target="_blank" ignoreapd="true">关于我们</a>
+    <a href="/ggfw/" target="_blank" ignoreapd="true">广告服务</a>
+    <a href="/wzsm/" target="_blank" ignoreapd="true">网站声明</a>
+    <a href="/wzjc/" target="_blank" ignoreapd="true">网站纠错</a>
+    <a href="/lxwm/" target="_blank" ignoreapd="true">联系我们</a>
+</div>
+<div class="icp">
+    <span>举报电话：010-65393398</span>
+    <span>举报邮箱：zgshkxw@cass.org.cn</span>
+    <span>互联网新闻信息服务许可证：10120220003</span>
+    <span><a target="_blank" rel="noopener noreferrer" href="https://beian.miit.gov.cn/" ignoreapd="true">京ICP备11013869号</a></span>
+    <span><a target="_blank" rel="noopener noreferrer" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030146" ignoreapd="true">京公网安备11010502030146号</a></span>
+</div>
+<div class="icp icp_sscp">
+    <span class="sk_sscp_logo"><img src="/images/sk_logo_sscp.png" alt=""></span>
+    <span>中国社会科学杂志社版权所有，未经书面授权禁止使用</span>
+    <span>Copyright © 2011-2024 by www.cssn.cn all rights reserved</span>
+
+    <div class="knet">
+        <script src="https://kxlogo.knet.cn/seallogo.dll?sn=a13101211010042869jlua000000&amp;size=3"></script><span style="position: relative !important;display: inline-block !important;width:92px !important;height:33px !important;"><a href="https://ss.knet.cn/verifyseal.dll?sn=a13101211010042869jlua000000&amp;pa=0.5052447754554088" oncontextmenu="return false;" style="display:inline-block !important;width:92px !important;height:33px !important;" target="_blank">            <img id="z3uq4roggqm3fs8j0e" class="" height="33px" alt="可信网站" style="opacity: 0.75; display: block !important; width: 92px !important; height: 33px !important; position: absolute !important; top: 0px !important; left: 0px !important; border: none !important;" src="https://rr.knet.cn/static/images/newLogo/star5.png">            <img id="xfft6q0clzm3fs8j0e" class="act" height="33px" alt="可信网站" style="opacity: 0.25; display: block !important; width: 92px !important; height: 33px !important; position: absolute !important; top: 0px !important; left: 0px !important; border: none !important;" src="https://rr.knet.cn/static/images/newLogo/11Y1M.png">            </a></span>
+    </div>
+
+</div>
+<div class="rightBar mobileNone">
+    <a href="javascript:void(0);" class="backTop"></a>
+</div>
+<!--天润代码统计-->
+<div style="display:none">
+<script src="/images/cssn_webdig.js" language="javascript" type="text/javascript"></script>
+</div>
+<!-- cssn.cn Baidu tongji analytics -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9ac7f8383ed02699dcafe4c2cba61e1f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+<script>
+    $(".content_center").find("div").removeAttr("class");
+    var htm=$(".content_center").html();
+    htm=htm.replace(/div/ig, "p");
+    $(".content_center").html(htm);
+</script>
+
+</body></html>

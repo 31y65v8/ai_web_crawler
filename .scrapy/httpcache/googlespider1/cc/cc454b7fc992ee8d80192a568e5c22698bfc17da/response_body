@@ -1,0 +1,606 @@
+<!DOCTYPE html><html><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="baidu-site-verification" content="4m2sgAQOuv">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	
+    <title>人工智能应用的10个主要行业 </title>
+
+	
+		<meta name="keywords" content="人工智能,AI,ocr识别,ocr,人脸识别,人脸识别sdk,人脸识别算法,离线人脸识别,NPU,卡证识别,证件识别,表格识别,瑞芯微,rv1109,合肥薪火科技">
+	
+	
+    <meta name="description" content="如今，人们对人工智能的兴趣已经上升到新的高度。机器学习、计算机视觉、计算机语音、文本和情感分析，以及自动驾驶汽车等技术都在给业界领袖带来更多的兴趣和想象力。">
+
+	<meta content="合肥薪火信息科技有限公司" name="author">
+
+	<script src="https://hm.baidu.com/hm.js?ab85aacbd3ce2ce930d524743c6e04ef"></script><script type="text/javascript">
+		var APP_ROOT = '';
+		var CART_CHECK_URL = '/cart/check';
+		var LOADER_IMG = '/Public/Home/images/lazy_loading.gif';
+	</script>
+	<link rel="stylesheet" type="text/css" href="/Public/Home/css/common.css?6789">
+	<link rel="stylesheet" type="text/css" href="/Public/Home/css/animate.css">
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+	<script type="text/javascript" src="/Public/static/jquery-1.8.2.min.js"></script>
+	
+    <style>
+        h1,h2,h3,h4,h5,h6{font-weight:700;margin:10px;padding:0;border:none;list-style-type:none}
+        body p{line-height:25px;font-size:15px}
+        .wrap{width:1000px;margin:0 auto;padding:30px 30px 10px;;background:#fff}
+        .title{text-align:center}
+        .top_1{margin:0; font-size: 26px;}
+        .header{background:#18184c!important}
+        #bdw{margin-top:80px}
+        table {
+            border-spacing: 0;border-left: 2px solid #00A0C6;border-top: 2px solid #00A0C6; border-right: 1px solid #00A0C6; border-bottom: 1px solid #00A0C6;  ;
+        }
+        td,th{border-bottom: 1px solid #00A0C6;border-right: 1px solid #00A0C6; padding: 5px 10px;}
+        .bgc{background: #DBEEF3;}
+        table p{margin:0;}
+        th{text-align: left;}
+        .content img{max-width: 100%;}
+
+    </style>
+
+	<script>
+		var _hmt = _hmt || [];
+		(function() {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?ab85aacbd3ce2ce930d524743c6e04ef";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+
+
+	<script>
+        function toast(msg, fadeTime){
+            var span = '<span style="position: fixed; padding: 10px 20px; margin-left: -20px;  background: rgba(7, 17, 27, 0.658824); font-size: 14px; border-radius: 6px; color: rgb(255, 255, 255); top: 30%; left:50%;z-index: 1000001;  ">'+msg+'</span>';
+            span = $(span);
+            $("body").append(span);
+            if(!fadeTime || fadeTime <= 0){
+                fadeTime = 3000;
+            }
+            span.fadeOut(fadeTime);
+
+        }
+
+        (function($){
+            $.fn.serializeJSON=function(){
+                var serializeObj={};
+                var array=this.serializeArray();
+                var str=this.serialize();
+                $(array).each(function(){
+                    if(serializeObj[this.name]){
+                        if($.isArray(serializeObj[this.name])&&this .value!=""){
+                            serializeObj[this.name].push(this.value);
+                        }else {
+                            if(this .value!=""){
+                                serializeObj[this.name]=[serializeObj[this.name],this.value];
+                            }
+                        }
+                    }else{
+                        if(this .value!=""){
+                            serializeObj[this.name]=this.value;
+                        }
+                    }
+                });
+                return serializeObj;
+            };
+        })(jQuery);
+
+	</script>
+
+</head>
+
+<body>
+	<!-- 通用导航栏-->
+
+	<!-- 页面主体部分-->
+	
+    <div id="bdw">
+        <div class="wrap cf clearfix">
+            <div class="article_box_left f_l">
+                <div class="title">
+                    <h1 class="top_1">人工智能应用的10个主要行业</h1>
+
+                    <p class="time">发布日期： 2019-05-14 16:34&nbsp;</p>
+                </div>
+                <div class="content"><p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">如今，人们对人工智能的兴趣已经上升到新的高度。机器学习、计算机视觉、计算机语音、文本和情感分析，以及自动驾驶汽车等技术都在给业界领袖带来更多的兴趣和想象力。然而调查发现，首席信息官和IT经理似乎仍然不确定他们如何准确地利用人工智能在其行业中创造收入。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">O‘Reilly公司在2019年发布的一份主题为“企业中人工智能的采用”的调查报告中指出，在1300名受访者中，81%的人在采用人工智能技术的公司工作。然而，只有27%的受访者表示他们在业务中有创收的人工智能项目。大多数受访者（54%）表示，目前仍处于评估阶段，并正在研究如何利用这项技术。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<strong><span style="color:#333333;font-family:&quot;">是什么阻碍了他们的部署？</span></strong>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">23%的受访者表示，最大的瓶颈是并没有认识到人工智能需求的企业文化。此外，17%的受访者表示他们的公司很难找到适当的商业案例。在工程中应用更加成熟的人工智能项目的企业中，这是一个更大的问题，近四分之一（24%）的先进组织仍在努力处理用例。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">麦肯锡公司于2018年11月进行的一项调查显示，人工智能采用率略有不同，但也发现了类似的趋势。在这份报告中，77%的受访者表示所在的公司已经部署了人工智能，但其中30%的受访者表示只是试点运行项目。值得注意的是，只有17%的受访者表示，他们的组织已经确定在其业务中在哪里可以使用人工智能。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">报告总结说，“商业世界刚刚开始利用这些技术及其收益。事实上，许多组织仍然缺乏大规模人工智能创造价值的基本实践，例如，描述人工智能机会所在的位置，以及是否有明确的策略来获取人工智能所需的数据。”</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<strong><span style="color:#333333;font-family:&quot;">那么，这些人工智能的机会在哪里呢？</span></strong>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">以下重点介绍10个使用人工智能案例的行业，在这些行业中，人工智能可以提供影响企业利润的实质性好处。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">1.电信行业</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">麦肯锡公司在其调查报告中表示，电信业是人工智能采用的领导者。调查发现，75%的电信行业受访者在其服务运营中采用人工智能，45%的受访者表示，在产品和/或服务开发中使用人工智能。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">向5G和软件定义网络的过渡为机器学习提供了明确的业务用例。虽然早期的网络技术（3G、4G等）由同质技术组成，但5G创建的网络融合了所有先前的技术以及一些新的技术。这就产生了一些极其复杂的网络体系结构。如果没有同样先进复杂的监控、管理和自动化工具，人类就无法简单地监控这些复杂的环境。在许多情况下，这些工具都结合了人工智能的功能。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">2.科技行业</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">根据麦肯锡公司的调查数据，人工智能技术的第二大采用者是科技行业。在这种情况下，其重点是创建包含人工智能的创新产品，因为59%的公司使用人工智能进行产品和/或服务开发。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">同样，O’Reilly公司的调查报告发现，57%的计算机、电子产品和技术供应商在研发中使用人工智能技术。而45%的受访者表示，在他们自己的IT系统中部署了人工智能工具。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">技术供应商清楚地认识到将人工智能融入到他们自己的产品和服务中所提供的商业机会，许多公司还在内部系统中采用工智能。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">3.金融服务</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">另一个值得注意的人工智能技术的早期采用者是金融服务业。根据麦肯锡公司的调查，49%的受访者表示将人工智能用于服务运营，40%的受访者将人工智能用于风险管理。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">股票交易者最先意识到机器学习系统在识别市场模式方面可能优于人类，而如今，基于人工智能技术的自动化系统正变得司空见惯。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">这些机器学习技术也擅长识别可能表明某人是否存在良好的信用风险或特定交易是否可能表明欺诈的模式。一些金融公司现在也向客户提供他们为满足内部需求而开发的工具，并开辟新的商业模式。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">4. 制造业</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">人工智能为制造业提供了一些不同的独特优势，其中许多与底线财务结果直接相关。事实上，麦肯锡公司的调查报告发现，与其他业务功能相比，受访者在将人工智能应用于其生产制造时看到了最大的价值。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	<span style="color:#333333;font-family:&quot;">最明显的是，工厂可以使用</span><span class="hrefStyle" style="color:#333333;font-family:&quot;">人工智能机器人</span><span style="color:#333333;font-family:&quot;">来提高生产线的速度、安全性、一致性。此外，他们还使用计算机视觉系统来检查零件。机器学习在预测性维护、供应链管理和风险管理中发挥着重要作用。</span>
+</p>
+<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+	</p><p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">5.&nbsp;</span><span class="hrefStyle" style="color:#333333;font-family:&quot;">医疗</span><span style="color:#333333;font-family:&quot;">保健</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">在O‘Reilly公司的调查中，68%的医疗保健和生命科学公司表示他们使用人工智能进行研发，34%的公司表示，他们将人工智能用于客户服务。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">人工智能研究的一个更令人兴奋的领域是医疗诊断的计算机视觉。经过数百万个数据样本的训练，人工智能系统学会识别癌症、良性肿瘤、骨折以及X光和其他成像中出现的其他情况。此外，机器学习系统可以提供一个知识库，支持基于报告症状的诊断。然而，提供者指出，这些系统旨在增强人类医生和服务提供者的服务，而不是取代他们。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">在其他方面，人工智能语音到文本系统可以帮助抄写医生笔记，减少或消除由于书写杂乱而造成的错误。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">6.社交媒体</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">众所周知，Facebook、Twitter和Instagram等社交媒体公司使用复杂的算法来确定哪些帖子，更重要的是哪些广告会显示在用户的订阅中。但这些社交媒体巨头也希望人工智能可以帮助他们解决一些最棘手的挑战，例如阻止国外势力干预选举，阻止虚假新闻的传播，保护用户隐私，阻止令人反感的内容等等。到目前为止，该技术尚未证明自己能够完成这些更困难的任务，但很多人认为随着人工智能技术的发展进步，这只是时间问题，但其他人则持怀疑态度。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">7.媒体和娱乐</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">人工智能已经证明了自己擅长于弄清楚人们想看什么内容。像Netflix和Hulu这样的流媒体服务已经能够分析大量观众的观看习惯的数据，并将这些数据转换成新的原始内容，这些内容已经受到观众的欢迎，甚至还为这些内容赢得著名奖项提供帮助。像电影制片厂和电视网络这样的传统媒体现在正在寻找能够利用人工智能保持竞争力的方法。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">使用人工智能创建实际内容的尝试并不成功。虽然计算机生成的艺术、音乐和电影的实验被证明是有趣的，但它们还不能和人类创造的内容相提并论。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">8.运输和物流</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">虽然人们现在还不能购买完全自动驾驶的汽车，但已有数千辆无人驾驶汽车上路运行。一些用于测试目的，而另一些则提供乘坐共享或出租车服务。业内人士表示，自动驾驶汽车的第一个真正的市场可能是非常有价值的卡车运输业。与人类驾驶员不同，</span><span class="hrefStyle" style="color:#333333;font-family:&quot;">自动驾驶系统</span><span style="color:#333333;font-family:&quot;">不需要休息，并且这些新车可以使货运更快、更安全。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">机器学习也在汽车行业的幕后工作发挥重要作用，因为制造商和车队管理人员正在寻找新方法，从当今日益增长的联网车辆收集的数据中获取具有价值的见解。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">9. 国防</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">美国政府也对自动驾驶汽车和基于人工智能的车辆数据分析有着浓厚的兴趣。装甲车、坦克、飞机、船只和武器系统不仅是通过计算机处理数据，而且产生了大量的数据。机器学习和计算机视觉系统可以使国防成为一个更安全、更准确、更有效的领域。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">另一方面，公众可能还没有为基于人工智能的防御系统做好准备。几十年来，科幻小说和电影探索了将人工智能置于武器系统中的负面可能性，这将让人们对基于人工智能的防御武器充满恐惧。但人们可能更愿意接受人工用于网络防御。如今的战斗更多地是在网络上进行的，而不是在现实世界中。世界各国的政府和军队越来越多地转向基于人工智能的IT安全工具来帮助他们应对攻击者的攻击。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">10.零售</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#333333;font-family:&quot;">据麦肯锡公司的调查，52%的零售商正在使用人工智能系统来改善他们的销售和营销水平。尤其是在线零售商正在利用机器学习，希望在正确的时间把正确的产品呈现在正确的客户面前。有些公司还部署了基于人工智能的聊天</span><span class="hrefStyle" style="color:#333333;font-family:&quot;">机器人</span><span style="color:#333333;font-family:&quot;">，并取得了不同程度的成功。此外，实体零售商也在使用人工智能来分析他们的销售数据，从而改变他们的销售策略。该行业的一个重点是利用人工智能创造更个性化的体验。具有讽刺意味的是，零售商和其他企业发现，人工智能的一些最佳用例是那些让世界感觉更加“人性化”的用例。</span>
+	</p>
+	<p style="color:#31424E;text-indent:2em;font-family:PingFangSC-Regular;font-size:16px;">
+		<span style="color:#666666;font-family:&quot;font-size:14px;">文章来源：企业网&nbsp; &nbsp; &nbsp;编辑：daisy</span>
+	</p>
+<p></p></div>
+            </div>
+            <p style="margin:0;"><a style="font-size: 13px; color: #999;" href="/article.html">查看更多新闻</a></p>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(function () {
+            if(location.href.indexOf("article/2072.html") > -1){
+                currentMenu("byjs");
+                $("p.time").remove();
+                $("#video_div1").html('<video style="max-width: 100%;" controls=""  name="media" ><source src="https://jmy-video.baidu.com/66a1653b6b35b856a350c943fc62b578_1280_640.mp4" type="video/mp4"></video>');
+            }else if(location.href.indexOf("article/2088.html") > -1){
+                // currentMenu("face");
+                // $("p.time").remove();
+            }else if(location.href.indexOf("article/2099.html") > -1){
+                currentMenu("3djgg");
+                $("p.time").remove();
+            }else if(location.href.indexOf("article/2119.html") > -1){
+                currentMenu("AI_Camera");
+                $("p.time").remove();
+            }else{
+                currentMenu("news");
+            }
+        });
+
+    </script>
+
+	
+		
+<div class="header">
+	<div class="warpper clearfix">
+			<div class="left">
+				<a href="/" class="logo small-resolution">
+					<img class="logoImg" src="/Public/Home/images/logos.png" alt="薪火科技">
+					<div class="info">
+						<img src="/Public/Home/images/xh.png" alt="薪火科技">
+						<span class="developers">知名的人工智能技术公司</span>
+					</div>
+				</a>
+				<a href="/" class="logo big-resolution">
+					<img class="logoImg" src="/Public/Home/images/logo.png?1" alt="薪火科技">
+					<div class="info">
+						<span class="developers">国家高新技术企业</span>
+						<span class="developers">知名的人工智能技术公司</span>
+					</div>
+				</a>
+			</div>
+			<div class="right">
+				<ul class="nav clearfix" id="setSlip">
+					<li id="index">
+						<a href="/">首页</a>
+					</li>
+					<li id="byjs">
+						<a href="/article/2072.html">边缘计算盒子<span class="tag-hot">热门</span></a>
+					</li>
+					<li id="ocr">
+						<a href="/ocr/table">通用OCR识别</a>
+						<div class="nav2menus ocr2menus">
+							<a href="/ocr/table">通用表格OCR识别</a>
+							<a href="/ocr/invoice">票据/发票识别</a>
+							<a href="/ocr/card_certificate">卡证识别</a>
+							<a href="/ocr/jzx">集装箱号识别</a>
+							<a href="/ocr/car">车牌识别</a>
+						</div>
+					</li>
+					<li id="AI_Camera">
+						<a href="/article/2119.html">AI摄像头(30+算法)</a>
+						<div class="nav2menus face2menus">
+							<a href="/article/2119.html">AI摄像头(30+算法)</a>
+							<a href="/article/2088.html">电瓶车识别</a>
+							<a href="/ocr/car">车牌识别</a>
+						</div>
+					</li>
+					<!--
+					<li id="3djgg">
+						<a href="/article/2099.html">3D结构光</a>
+					</li>
+					-->
+					<li id="face">
+						<a href="/face.html" style="font-weight: bold;letter-spacing: 2px;">人脸识别</a>
+						<div class="nav2menus face2menus">
+							<a href="/face.html">人脸识别SDK算法</a>
+							<a href="/article/2048.html">RV1109/RV1126</a>
+							<a href="/article/2070.html">RK3568方案</a>
+							<a href="/article/2071.html">人脸识别门锁</a>
+							<a href="/article/2099.html">3D结构光</a>
+							<a href="/article/2088.html">电瓶车梯控</a>
+						</div>
+					</li>
+					<!--
+					<li >
+						<a href="/user/face" style="font-weight: bold;letter-spacing: 2px;">人脸识别SDK下载</a>
+					</li>
+					-->
+					<!--
+					<li id="news">
+						<a href="/article.html">产品动态</a>
+					</li>
+					-->
+					<li id="about">
+						<a href="/about.html">关于我们</a>
+					</li>
+				</ul>
+			</div>
+		<div class="user-lg" style="">
+			<a href="/user/login" class="alogin">快捷登录</a>
+						</div>
+
+		</div>
+	</div>
+
+
+<a target="_blank" href="https://ocr.xinhuokj.com/">
+<img src="/Public/Home/images/common/ads_ocr_tools.jpg" id="ads_ocr_tools" alt="在线OCR识别小工具，一键提取图片中的文字，转成word、excel、pdf等文档" style="top: 92%;">
+</a>
+<style>
+	#login_window {
+		width: 60%; height: 600px; background: #fff; position: fixed;
+		left: 20%; top: 150px; z-index: 1000; display: none;
+	}
+	.maskShadow {
+		width: 100%; height: 100%; min-height: 1200px; background: gray;
+		position: fixed; top: 0; left: 0; z-index: 100; opacity: 0.6; display: none;
+	}
+	.btnClose{width: 36px; height: 36px;line-height: 36px; display: inline-block; float: right;font-size:
+			18px;text-align: center; cursor: pointer;}
+</style>
+
+<script>
+	$(".btnClose").click(function (){
+		$("#login_window, .maskShadow").hide();
+	})
+	function showLoginWnd(){
+		$("#login_window, .maskShadow").show();
+	}
+	$(function () {
+		var top =  '92%';
+		if($(".moduleTitle h1").length > 0){
+            top = $(".moduleTitle h1").offset().top
+		}
+        if(document.body.scrollHeight < 2000){
+            top="200px";
+		}
+		$("#ads_ocr_tools").css('top', top);
+    })
+</script>
+
+
+<script>
+	$('#face,#ocr, #car, #AI_Camera').hover(
+		function() {
+			$(this)
+				.find('.nav2menus')
+				.show()
+		},
+		function() {
+			$(this)
+				.find('.nav2menus')
+				.hide()
+		}
+	)
+	$('.aqln_menu1').mouseenter(function(e) {
+		$(this).find('.nav2menu').show()
+	})
+	$('.aqln_menu1').mouseleave(function(e) {
+		$(this).find('.nav2menu').hide()
+	})
+	$('.aqln_menu2').hover(
+		function() {
+			$(this).find('.nav2menu').show()
+		},
+		function() {
+			$(this).find('.nav2menu').hide()
+		}
+	)
+	function currentMenu(id) {
+		$('#' + id).addClass('current')
+	}
+
+	function gotoUrl(url) {
+		location.href = url
+	}
+	$(window).scroll(function(event) {
+		if ($(window).scrollTop() > 80) {
+			$('.header').addClass('active')
+		} else {
+			$('.header').removeClass('active')
+		}
+	})
+</script>
+
+	
+	<!-- 页面底部1-->
+	
+		<div class="footerWrap">
+    <div class="containers">
+        <div class="footerTit">
+            <img src="/Public/Home/images/logo.png" alt="">
+            <div class="Tits">
+                地址：安徽省合肥市高新区品恩科技园1203
+                <br> <a target="_blank" href="http://www.beian.miit.gov.cn">皖ICP备14001900号-2</a>
+                <br><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34010402701701">皖公网安备 34010402701701号</a>
+            </div>
+        </div>
+        <div class="footerList">
+            <div class="about">
+                <ul>
+                    <li class="lwhite">
+                        <p>产品链接</p>
+                        <a href="/ocr/car">车牌识别</a>
+                        <a href="/ocr/table">表格识别</a>
+                        <a href="/ocr/commonh">高精度OCR</a>
+                        <a href="/ocr/businessLicense">营业执照识别</a>
+                    </li>
+                    <li class="lwhite">
+                        <p>资源中心</p>
+                        <a target="_blank" href="/doc">OCR开发接口文档</a>
+                        <a href="/article/2059.html">实习生招聘</a>
+                        <a href="/article.html">新闻中心</a>
+                        <a target="_blank" href="http://ocr.xinhuokj.com/">图片转Excel和word</a>
+                    </li>
+                    <li class="rht_li">
+                        <p>联系我们</p>
+                        <a href="javascript:void(0)">7*24小时服务电话</a>
+                        <span>19965146021</span>
+                        <div style="height: 8px"></div>
+                        <a href="javascript:void(0)">公司邮箱</a>
+                        <span>admin@xinhuokj.com</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="youlian">
+            <p>友情链接：</p>
+            <div>
+            <a target="_blank" href="https://www.smartbi.com.cn/">思迈特软件</a>
+            <a target="_blank" href="http://www.aichinaw.com/">人工智能</a>
+            <a target="_blank" href="http://www.chinaidcard.com/">身份证阅读器</a>
+            <a target="_blank" href="https://www.jiminate.cn/">人脸识别门禁</a>
+            <a target="_blank" href="https://ocr.xinhuokj.com/">图片转Excel</a>
+            <a href="/face.html">人脸识别SDK</a>
+            <a href="/ocr/jzx">集装箱号OCR识别</a>
+            <a href="/ocr/IDCard">身份证OCR识别</a>
+            <a href="/ocr/invoice">混贴发票OCR识别</a>
+            <a target="_blank" href="https://www.qingsuyun.com/">在线培训系统</a>
+            <a target="_blank" href="https://www.joyowo.com/">人力资源外包</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--侧边栏-->
+<div class="sideBar">
+    <ul>
+        <li>
+            <div class="sideBar_module">
+                <div class="icon contactUs">
+                    联系<br>我们
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="sideBar_module" title="7*24小时客服热线" id="d_phone_call">
+                <div class="icon tel"></div>
+                <div class="emerge" style="width: 130px;">19965146021</div>
+            </div>
+        </li>
+        <li>
+            <div class="sideBar_module" title="微信" id="d_weixin">
+                <div class="icon weixin"></div>
+                <div class="emerge" style="width: 180px;">微信：18609658355</div>
+            </div>
+        </li>
+        <!--
+        <li>
+            <div class="sideBar_module" id="qidian_dom1" title="点击进行QQ咨询">
+                <div class="icon qq"></div>
+            </div>
+        </li>
+        -->
+        <li>
+            <div class="sideBar_module" title="公司邮箱">
+                <div class="icon mail"></div>
+                <div class="emerge">admin@xinhuokj.com</div>
+            </div>
+        </li>
+        <li>
+            <div class="sideBar_module" id="goTop">
+                <div class="icon toTop"></div>
+            </div>
+        </li>
+    </ul>
+</div>
+
+<script>
+
+    $(function () {
+        $('.sideBar ul>li').on('mouseenter', function (e) {
+            e.stopPropagation();
+            var base = $(this)
+            base.find('dl').addClass('hover');
+            if (base.find('.hh_box').length > 0) {
+                base.find('.hh_box').addClass('hover')
+            }
+            $('.sideBar').on('mouseleave', function () {
+                $('.sideBar dl,.hh_box').removeClass('hover');
+            })
+
+        })
+        $('.sideBar_module').hover(function(){
+            $(this).addClass('on')
+        },function(){
+            $('.sideBar_module').removeClass('on');
+        })
+        $('#goTop').click(function () {
+            $('body,html').animate({
+                'scrollTop': '0'
+            }, 600);
+        })
+    })
+    $(window).scroll(function () {
+        if ($(window).scrollTop()>=1600) {
+            $('#goTop').show()
+        }else{
+            $('#goTop').hide()
+        }
+    })
+
+
+    //打电话按钮  后台保存
+    $("#d_phone_call").mouseenter(function () {
+        $.post("/index.php?m=index&c=index&a=phone_call&remarks=PC电话，"+getBrowserInfo(),
+            {},function (data) {}, 'json')
+    });
+    //点击QQ按钮  后台保存
+    $("#qidian_dom1").click(function () {
+        $.post("/index.php?m=index&c=index&a=phone_call&remarks=电脑QQ右侧，"+getBrowserInfo(),
+            {},function (data) {}, 'json')
+    });
+
+    function getBrowserInfo() {
+        var Sys = {};
+        var ua = navigator.userAgent.toLowerCase();
+        var re = /(msie|firefox|chrome|opera|version).*?([\d.]+)/;
+        var m = ua.match(re);
+        try{
+            Sys.browser = m[1].replace(/version/, "safari");
+            Sys.ver = m[2];
+        }catch(e)
+        {
+            console.log("getBrowserInfo fail.");
+            return "未知";
+
+        }
+        var bs = Sys.browser+""+Sys.ver;
+        return bs;
+    }
+</script>
+
+
+	
+	<script type="text/javascript" src="/Public/static/bootstrap/js/bootstrap.js"></script>
+	
+	
+
+
+
+
+</body></html>

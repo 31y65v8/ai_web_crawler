@@ -1,0 +1,22 @@
+Server: nginx/1.16.1
+Date: Wed, 13 Nov 2024 13:06:44 GMT
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Link: </packs/js/application-c1e2245d4225c79bb702.js>; rel=preload; as=script; nopush,</packs/css/application-9cc79567.css>; rel=preload; as=style; nopush,</packs/media/fonts/iconfont-95b6b3a9532083ef4f041ab79d5c53e0.woff2>; rel=preload; as=font; type=font/woff2; crossorigin=anonymous,<https://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js>; rel=preload; as=script; nopush,<https://res.wx.qq.com/open/js/jweixin-1.6.0.js>; rel=preload; as=script; nopush
+Etag: W/"61152d08c7333a97e05c3f5c8bc3c80a"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: ahoy_visitor=96325f4b-c305-46cb-af56-fa5d70f0b800; path=/; expires=Fri, 13 Nov 2026 13:06:44 GMT; SameSite=Lax; secure
+Set-Cookie: ahoy_visit=f8336bfb-b79a-4278-8bac-ee7d0bc0035e; path=/; expires=Wed, 13 Nov 2024 14:06:44 GMT; SameSite=Lax; secure
+Set-Cookie: _session_id=NADyvOuzPTQSFm1BZ8t%2FeNIFT%2BpRe4k6rojVVCgWWZODFZEfOGfZtnFGcv8GeVLGv%2FLrVzM%2FJ7mZsaSYe5JO%2BU0JWQy5CudE8duQtPNVdeRnH%2Bj8D7Kr24Ues0HVvqMh7xrXbfeAvn8o8qDhsOzQdzTEzYOPIYHfSPSvsJZtjdJp64ZpLTjbv%2BWzpka61YjdW1TVuLzHmsKRvd%2BM%2BPmGn4E%2BWTA0P949TssU5xjOj0lXHSdPz5HmuEd%2FK8D%2BwfqruGmAQVa%2BoLob6J9PVU6%2B003XrCJEQulLN%2Bv2sxg9fvyff6pTOxokljU%3D--aTWxdvLZnNs9Slov--%2F55ejyLeXKtzlCh%2BmRzxnQ%3D%3D; path=/; expires=Wed, 27 Nov 2024 13:06:44 GMT; secure; HttpOnly; SameSite=Lax
+X-Request-Id: 035e5d56-bae2-4846-858c-dc2bd149411a
+X-Runtime: 0.047514
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Origin
+X-Rack-Cors: miss; no-origin
+Content-Encoding: gzip

@@ -1,0 +1,707 @@
+<!DOCTYPE html><html data-path="/p/:id"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="og:url" content="https://36kr.com/p/1468756415400711"><meta name="og:type" content="article"><meta data-react-helmet="true" name="baidu-site-verification" content="ET7tYDCqIv"><meta data-react-helmet="true" name="shenma-site-verification" content="8d43b014716644e38cc8fff2051c47a0_1623316092"><meta data-react-helmet="true" name="360-site-verification" content="b14201a8708468357bd6fab4ad556b78"><meta data-react-helmet="true" name="sogou_site_verification" content="5ZZdpkOf3U"><meta data-react-helmet="true" name="renderer" content="webkit"><meta data-react-helmet="true" name="apple-mobile-web-app-title" content="Title"><meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes"><meta data-react-helmet="true" name="apple-mobile-web-app-status-bar-style" content="black"><meta data-react-helmet="true" name="HandheldFriendly" content="True"><meta data-react-helmet="true" name="MobileOptimized" content="320"><meta data-react-helmet="true" name="applicable-device" content="pc"><meta data-react-helmet="true" name="format-detection" content="telephone=no"><meta data-react-helmet="true" property="og:description" content="人工智能领域六大分类：“深度学习、自然语言处理、计算机视觉、智能机器人、自动程序设计、数据挖掘”。"><meta data-react-helmet="true" property="og:image" content="https://img.36krcdn.com/20211103/v2_361ef75be00d4f50b3837a1600d2c54a_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center"><meta data-react-helmet="true" property="og:title" content="人工智能领域六大分类-36氪"><meta data-react-helmet="true" name="description" content="人工智能领域六大分类：“深度学习、自然语言处理、计算机视觉、智能机器人、自动程序设计、数据挖掘”。"><meta data-react-helmet="true" name="keywords" content="人工智能,机器学习,深度学习"><meta data-react-helmet="true" name="popintimestamp" content="1635992582417"><meta data-react-helmet="true" name="mobile-agent" content="format=xhtml; url=https://m.36kr.com/p/1468756415400711"><meta data-react-helmet="true" name="mobile-agent" content="format=html5; url=https://m.36kr.com/p/1468756415400711"><meta data-react-helmet="true" property="article:published_time" content="2021-11-04 10:23:02"><meta data-react-helmet="true" property="author" content="企服百科">
+    <title data-react-helmet="true">人工智能领域六大分类-36氪</title>
+    <link href="//static.36krcdn.com/36kr-web/static/app.2f38d049.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//static.36krcdn.com/36kr-web/static/article.e9944334.css">
+    
+    <link data-react-helmet="true" href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><link data-react-helmet="true" rel="dns-prefetch" href="//sta.36krcdn.com"><link data-react-helmet="true" rel="dns-prefetch" href="//pic.36krcdn.com"><link data-react-helmet="true" rel="dns-prefetch" href="//static.36krcdn.com"><link data-react-helmet="true" rel="dns-prefetch" href="//img.36krcdn.com"><link data-react-helmet="true" rel="dns-prefetch" href="//file.36krcdn.com"><link data-react-helmet="true" rel="alternate" media="only screen and(max-width: 640px)" href="https://m.36kr.com/p/1468756415400711"><link data-react-helmet="true" rel="canonical" href="https://36kr.com/p/1468756415400711"><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script async="" src="https://static.sensorsdata.cn/sdk/1.12.5/sensorsdata.min.js" charset="UTF-8"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="https://hm.baidu.com/hm.js?713123c60a0e86982326bae1a51083e1"></script><script src="https://hm.baidu.com/hm.js?1684191ccae0314c6254306a8333d090"></script><script data-react-helmet="true">
+      window.WEIXINSHARE = {
+        shareTitle: "36氪_让一部分人先看到未来",
+        shareImg: "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg",
+        imgUrl: "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg",
+        shareDesc: "36氪为您提供创业资讯、科技新闻、投融资对接、股权投资、极速融资等创业服务，致力成为创业者可以依赖的创业服务平台，为创业者提供最好的产品和服务。"
+      }
+    </script><script data-react-helmet="true">
+      // sem 统计代码
+      var _hmt= _hmt||[];
+      (function(){
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?1684191ccae0314c6254306a8333d090";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm,s);
+      })();
+    </script><script data-react-helmet="true">
+      //百度统计代码
+      var _hmt = _hmt || [];
+      (function () {
+          var hm = document.createElement('script');
+          hm.src = "https://hm.baidu.com/hm.js?713123c60a0e86982326bae1a51083e1";
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(hm, s);
+      })();
+    </script><script data-react-helmet="true">
+        // 给百度seo主动推送,  文明确认
+        (function () {
+          var bp = document.createElement('script');
+          var curProtocol = window.location.protocol.split(':')[0];
+          if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+          }
+          else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+          }
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(bp, s);
+        })();
+      </script><script data-react-helmet="true" src="https://static.geetest.com/static/tools/gt.js"></script><script data-react-helmet="true">
+        // 神策统计代码
+        (function(para) {
+          var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+          w['sensorsDataAnalytic201505'] = n;
+          w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+          var ifs = ['track','quick','register','registerPage','registerOnce','trackSignup', 'trackAbtest', 'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 'identify','login','logout','trackLink','clearAllRegister','getAppStatus'];
+          for (var i = 0; i < ifs.length; i++) {
+            w[n][ifs[i]] = w[n].call(null, ifs[i]);
+          }
+          if (!w[n]._t) {
+            x = d.createElement(s), y = d.getElementsByTagName(s)[0];
+            x.async = 1;
+            x.src = p;
+            x.setAttribute('charset','UTF-8');
+            y.parentNode.insertBefore(x, y);
+            w[n].para = para;
+          }
+        })({
+          sdk_url: 'https://static.sensorsdata.cn/sdk/1.12.5/sensorsdata.min.js',
+          heatmap_url: 'https://static.sensorsdata.cn/sdk/1.12.5/heatmap.min.js',
+          name: 'sa',
+          web_url: 'https://data.corp.36kr.com/',
+          server_url: "https://36kr.com/global/sensors/sa/sa",
+          heatmap:{
+            //default 表示开启，自动采集 $WebClick 事件，可以设置 'not_collect' 表示关闭。
+            clickmap:'default',
+            //default 表示开启，自动采集 $WebStay 事件，可以设置 'not_collect' 表示关闭。
+            scroll_notice_map:'default'
+          },
+          source_type: {
+            search: ['//baidu.com', 'cn.bing.com', '//sm.cn', 'quark.sm.cn'],
+            social: ['.facebook.com'],
+          },
+          show_log: false,
+        });
+        (function(){
+          const cookies = {};
+          document.cookie.split('; ').forEach((c) => {
+            const key = c.split('=')[0];
+            const value = c.split('=')[1];
+            cookies[key] = value;
+          });
+          const userid = cookies["userId"];
+          const cid = cookies["kr_stat_uuid"];
+          if (userid) {
+            sa.login(userid);
+          } else {
+            sa.login(cid);
+          }
+
+          sa.quick('autoTrack');
+        })();
+      </script><script data-react-helmet="true">
+      window.WEIXINSHARE = {
+        shareTitle: "人工智能领域六大分类-36氪",
+        shareImg: "https://img.36krcdn.com/20211103/v2_361ef75be00d4f50b3837a1600d2c54a_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+        imgUrl: "https://img.36krcdn.com/20211103/v2_361ef75be00d4f50b3837a1600d2c54a_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+        shareDesc: "人工智能领域六大分类：“深度学习、自然语言处理、计算机视觉、智能机器人、自动程序设计、数据挖掘”。"
+      }
+    </script><script data-react-helmet="true">
+      (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+          bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+          bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+      })();
+      </script><script data-react-helmet="true">
+        window.onload = function () {
+          if (window.appletSa || sessionStorage.getItem('appletSa')) {
+            sessionStorage.setItem('appletSa', window.appletSa || sessionStorage.getItem('appletSa'))
+            sa.track('MediaPageVIew', {media_event_value: window.appletSa})
+          }
+        }
+      </script><script>var __assign = (this && this.__assign) || function () {
+    __assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
+};
+// 埋点需求详情 https://shimo.im/sheets/aJg66OpLVX0PGC28/
+/*****工具方法*****/
+function isNumber(path) {
+    return !isNaN(Number(path));
+}
+function isObj(key) {
+    return typeof key === 'object';
+}
+/**
+ * 判断obj中是否有key这个属性
+ * @param obj {object}
+ * @param key {string}
+ */
+function objHasKey(obj, key) {
+    return obj.hasOwnProperty(key);
+}
+/**
+ * @param {{
+  *  control: Boolean,
+  *  key: string,
+  *  value: string,
+  *  data?: obj,
+  *  elseValue?: string
+  * }} option
+  *
+  * 参数说明：
+  * control 判断条件
+  * data 最终返回的对象
+  * key 添加到data中的属性
+  * value 要添加的值
+  * elseValue 如果control不成立，添加到data的值 传入此参数则添加，不传则不会添加
+  */
+function setProperty(option) {
+    var _a = option.data, data = _a === void 0 ? {} : _a, key = option.key, value = option.value, control = option.control, elseValue = option.elseValue;
+    if (control) {
+        data[key] = value;
+    }
+    else if (elseValue) {
+        data[key] = elseValue;
+    }
+    return data;
+}
+function getClass(attributes) {
+    var classObj = attributes.class || {};
+    return classObj.value || "";
+}
+var Platform;
+(function (Platform) {
+    Platform["H5"] = "H5";
+    Platform["WEB"] = "web";
+})(Platform || (Platform = {}));
+;
+function judgePlatform(userAgent) {
+    if (!userAgent && typeof window !== 'undefined') {
+        userAgent = navigator.userAgent;
+    }
+    if (!userAgent)
+        return Platform.WEB;
+    if (userAgent.match(/iPad|iPhone/i)) {
+        return Platform.H5;
+    }
+    else if (userAgent.match(/Android/i)) {
+        return Platform.H5;
+    }
+    return Platform.WEB;
+}
+/*****工具方法end*****/
+/**
+ * 统计点击跳转外链的数据
+ * 包括media_content_id、media_event_value、source_id、media_source
+ * @param {String} hrefValue
+ */
+function externalLink(hrefValue) {
+    var data = {};
+    var externalLinkList = [
+        { pathKey: '/', mediaSourceValue: 'page_home' },
+        { pathKey: 'p', mediaSourceValue: 'article' },
+        { pathKey: 'newsflashes', mediaSourceValue: 'newsflash', subPathNotNumMediaSourceValue: 'page_newsflashes' },
+        { pathKey: 'topics', mediaSourceValue: 'topics' },
+    ];
+    var pathInfo = new PathInfo(window.location.pathname);
+    // 记录外链url
+    data.media_content_id = hrefValue;
+    // 详情页中（当前地址包含ID），含有外链，发送source_id
+    Object.assign(data, setProperty({
+        control: isNumber(pathInfo.sub),
+        key: 'source_id',
+        value: pathInfo.sub,
+    }));
+    // 地方站 外链记录media_event_value
+    if (pathInfo.root === 'local') {
+        data.media_event_value = 'local_' + pathInfo.sub;
+    }
+    return Object.assign(data, genMediaSource(externalLinkList, isNumber(pathInfo.sub)));
+}
+/**
+ * 统计点击跳转www.36kr.com内链的数据
+ * 根据主站路由规则,分析点击的地址
+ * 收集source_id、media_source、media_event_value、media_content_type、media_content_id
+ * @param {String} hrefValue
+ * @param {String} className 点击的a标签所带class
+ */
+function internalLink(hrefValue, className) {
+    var pageInfo = new PageInfo(hrefValue);
+    var data = {};
+    /* 聚合页跳转id */
+    Object.assign(data, setProperty({
+        control: pageInfo.currentPath.sub && isNumber(pageInfo.currentPath.sub) && pageInfo.destPath.sub && isNumber(pageInfo.destPath.sub),
+        key: 'source_id',
+        value: pageInfo.currentPath.sub,
+    }));
+    /* 搜索结果、资讯、地方 */
+    Object.assign(data, genMediaEventValue(hrefValue));
+    // 文章详情含有跳转链接
+    Object.assign(data, setProperty({
+        control: pageInfo.currentPath.root === 'p' && isNumber(pageInfo.currentPath.sub) && isNumber(pageInfo.destPath.sub),
+        key: 'media_source',
+        value: 'article',
+    }));
+    /* 不同页面，进入详情页 */
+    Object.assign(data, intoDetailPage(pageInfo.destPath.sub));
+    /* 添加media_conten_type 针对相应页面添加属性 */
+    Object.assign(data, genContentTypeAndId(hrefValue, className));
+    return data;
+}
+/**
+ * 获取media_event_value统一方法
+ * 点击搜索结果list和地方站list跳转到详情页
+ * @param currentPath
+ * @param subHref
+ */
+function genMediaEventValue(hrefValue) {
+    var data = {};
+    var key = 'media_event_value';
+    var pageInfo = new PageInfo(hrefValue);
+    var genMediaEventValueList = [
+        { pathKey: 'search', subPathList: [
+                { key: 'articles', value: 'search_articles' },
+                { key: 'newsflashes', value: 'search_flashnews' },
+                { key: 'video', value: 'search_videos' },
+                { key: 'monographic', value: 'search_topics' },
+                { key: 'user', value: 'search_writer' },
+            ] },
+        { pathKey: 'information', subPathList: [
+                'web_news', 'contact', 'enterpriseservice', 'happy_life', 'travel',
+                'real_estate', 'web_recommend', 'technology', { key: 'zhichang', value: 'web_zhichang' }, 'innovate',
+            ] },
+        { pathKey: 'local' }
+    ];
+    for (var _i = 0, genMediaEventValueList_1 = genMediaEventValueList; _i < genMediaEventValueList_1.length; _i++) {
+        var pathItem = genMediaEventValueList_1[_i];
+        if (pageInfo.currentPath.root === pathItem.pathKey) {
+            if (pageInfo.currentPath.root === 'local') {
+                // 城市
+                data.media_event_value = 'local_' + pageInfo.currentPath.sub;
+            }
+            else {
+                for (var _a = 0, _b = pathItem.subPathList; _a < _b.length; _a++) {
+                    var subPathItem = _b[_a];
+                    var value = isObj(subPathItem) ? subPathItem.value : subPathItem;
+                    var subPathKey = isObj(subPathItem) ? subPathItem.key : subPathItem;
+                    if (pageInfo.currentPath.sub === subPathKey) {
+                        Object.assign(data, setProperty({
+                            control: isNumber(pageInfo.destPath.sub),
+                            key: key,
+                            value: value,
+                        }));
+                    }
+                }
+            }
+        }
+    }
+    return data;
+}
+/**
+ * 不同页面点击详情链接跳转到详情页，添加media_source
+ * @param subHref
+ */
+function intoDetailPage(subHref) {
+    var pathInfo = new PathInfo(window.location.pathname);
+    var intoDetailPageList = [
+        { pathKey: '/', mediaSourceValue: 'page_home' },
+        { pathKey: '/video', mediaSourceValue: 'page_video' },
+        { pathKey: '/topics', mediaSourceValue: 'page_topics' },
+        { pathKey: 'newsflashes', control: isNumber(pathInfo.sub), mediaSourceValue: 'newsflash', subPathNotNumMediaSourceValue: 'page_newsflashes' },
+        { pathKey: 'information', mediaSourceValue: 'page_information' },
+        { pathKey: 'search', mediaSourceValue: 'page_search' },
+        { pathKey: 'Calendar', mediaSourceValue: 'calendar' },
+        { pathKey: 'user', mediaSourceValue: 'user' },
+        { pathKey: 'motif', mediaSourceValue: 'motif' },
+        { pathKey: 'topics', mediaSourceValue: 'topics' },
+        { pathKey: 'video', mediaSourceValue: 'video' },
+        { pathKey: 'audio', mediaSourceValue: 'audio' },
+    ];
+    return genMediaSource(intoDetailPageList, isNumber(subHref));
+}
+/**
+ * 获取media_source统一方法
+ * 记录从何处跳转到的详情页
+ * @param pathList
+ * @param control
+ */
+function genMediaSource(pathList, control) {
+    var pathInfo = new PathInfo(window.location.pathname);
+    var key = 'media_source';
+    var data = {};
+    for (var _i = 0, pathList_1 = pathList; _i < pathList_1.length; _i++) {
+        var pathItem = pathList_1[_i];
+        if (pathInfo.path === pathItem.pathKey) {
+            data.media_source = pathItem.mediaSourceValue;
+        }
+        else if (pathInfo.root === pathItem.pathKey && pathInfo.sub) {
+            Object.assign(data, setProperty({
+                control: objHasKey(pathItem, 'control') ? pathItem.control : control,
+                key: key,
+                value: pathItem.mediaSourceValue,
+                elseValue: pathItem.subPathNotNumMediaSourceValue || null,
+            }));
+        }
+    }
+    return data;
+}
+/**
+ * 记录跳转到的具体内容类型和具体内容id
+ * @param hrefValue
+ * @param className
+ */
+function genContentTypeAndId(hrefValue, className) {
+    // 设置media_content_type和media_content_id
+    var pageInfo = new PageInfo(hrefValue);
+    var genContentTypeAndIdList = [
+        {
+            key: 'p',
+            setData: {
+                media_content_type: 'article',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'newsflashes',
+            setData: {
+                media_content_type: 'flashnews',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'video',
+            setData: {
+                media_content_type: 'video',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'v-video',
+            setData: {
+                media_content_type: 'video_portrait',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'topics',
+            setData: {
+                media_content_type: 'topic',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'motif',
+            setData: {
+                media_content_type: (function () {
+                    // TODO 这里声明了一个自执行函数，判断是否为商业主题后，给media_conten_type不同的值，可否优化?
+                    var isMotifList = pageInfo.currentPath.root === 'motif-catalog' && pageInfo.currentPath.sub === 'recomend';
+                    var isHomeEntry = className.includes('businessMotifHome-main-item-top-a');
+                    var isBusinessMotif = isMotifList || isHomeEntry;
+                    return isBusinessMotif ? 'business_motif' : 'motif';
+                })(),
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'user',
+            setData: {
+                media_content_type: 'user',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'column',
+            setData: {
+                media_content_type: 'audio',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+    ];
+    var data = {};
+    if (!isNumber(pageInfo.destPath.sub))
+        return data;
+    for (var _i = 0, genContentTypeAndIdList_1 = genContentTypeAndIdList; _i < genContentTypeAndIdList_1.length; _i++) {
+        var hrefItem = genContentTypeAndIdList_1[_i];
+        if (pageInfo.destPath.root === hrefItem.key) {
+            data = hrefItem.setData;
+        }
+    }
+    return data;
+}
+/**
+ * 根据高阶组件中，向a标签插入的属性
+ * 收集对应的广告信息 和 从哪个具体推荐位跳转到的详情页
+ * 对应的广告信息有
+ * @param elementTarget 点击的a标签
+ */
+function genPropertyAccordingToAttribute(elementTarget) {
+    // 推荐位跳转到详情页
+    var operation_list = elementTarget.getAttribute('sensors_operation_list');
+    // 运营位上具体第几帧、第几位、日签的日期
+    var index_num = elementTarget.getAttribute('sensors_index_num');
+    // 广告事件： 1、曝光  2、点击
+    var operate_type = elementTarget.getAttribute('sensors_operate_type');
+    // 具体广告位置id
+    var position_id = elementTarget.getAttribute('sensors_position_id');
+    // 具体广告的plan_id
+    var plan_id = elementTarget.getAttribute('sensors_media_content_id');
+    var genPropertyAccordingToAttributeList = [
+        {
+            control: operation_list === 'page_flow' && window.location.pathname === '/',
+            key: 'operation_list',
+            value: 'latest_articles',
+            elseValue: 'page_flow'
+        },
+        {
+            control: operation_list === 'banner',
+            key: 'operation_list',
+            value: 'banner'
+        },
+        {
+            control: operation_list === 'banner_right',
+            key: 'operation_list',
+            value: 'banner_right'
+        },
+        {
+            control: operation_list === 'author_latest_article',
+            key: 'operation_list',
+            value: 'author_latest_article'
+        },
+        {
+            control: operation_list === 'specialtopic_recommend',
+            key: 'operation_list',
+            value: 'specialtopic_recommend'
+        },
+        {
+            control: operation_list === 'video_recommend',
+            key: 'operation_list',
+            value: 'video_recommend'
+        },
+        {
+            control: operation_list === 'dailyword',
+            key: 'operation_list',
+            value: 'dailyword'
+        },
+        {
+            control: operation_list === 'latest_newsflash',
+            key: 'operation_list',
+            value: 'latest_newsflash'
+        },
+        {
+            control: operation_list === 'business_motif',
+            key: 'operation_list',
+            value: 'business_motif'
+        },
+        {
+            control: operation_list === 'hotlist',
+            key: 'operation_list',
+            value: 'hotlist'
+        },
+        {
+            control: operation_list === 'latest_videos',
+            key: 'operation_list',
+            value: 'latest_videos'
+        },
+        {
+            control: operation_list === 'recommend_motif',
+            key: 'operation_list',
+            value: 'recommend_motif'
+        },
+        {
+            control: operation_list === 'hot_author',
+            key: 'operation_list',
+            value: 'hot_author'
+        },
+        {
+            control: operation_list === 'next_card',
+            key: 'operation_list',
+            value: 'next_card'
+        },
+        {
+            control: index_num,
+            key: 'media_index_number',
+            value: index_num
+        },
+        {
+            control: operate_type,
+            key: 'operate_type',
+            value: operate_type
+        },
+        {
+            control: position_id,
+            key: 'position_id',
+            value: position_id
+        },
+        {
+            control: plan_id,
+            key: 'media_content_id',
+            value: plan_id
+        },
+        {
+            control: operate_type || position_id,
+            key: 'media_content_type',
+            value: 'ad'
+        },
+        {
+            control: position_id === '827' || operation_list === 'home_top',
+            key: 'operation_list',
+            value: 'home_top'
+        },
+        {
+            control: position_id === '817',
+            key: 'operation_list',
+            value: 'article_bottom'
+        },
+        {
+            control: position_id === '835',
+            key: 'operation_list',
+            value: 'comment_bottom'
+        },
+    ];
+    var data = {};
+    for (var _i = 0, genPropertyAccordingToAttributeList_1 = genPropertyAccordingToAttributeList; _i < genPropertyAccordingToAttributeList_1.length; _i++) {
+        var infoItem = genPropertyAccordingToAttributeList_1[_i];
+        Object.assign(data, setProperty(infoItem));
+    }
+    return data;
+}
+// 暴露给神策api的方法，此方法返回的object，神策会统一收集上报
+function manualMain(elementTarget) {
+    if (elementTarget.tagName.toLowerCase() !== 'a')
+        throw Error('目前只收集点击a标签所跳转的信息');
+    // TODO: 需要区分H5还是web
+    var data = {
+        platform: judgePlatform(window &&
+            window.initialState &&
+            window.initialState.navigator &&
+            window.initialState.navigator.userAgent)
+    };
+    var attributes = elementTarget.attributes;
+    var hrefObj = attributes.href || {};
+    var className = getClass(attributes);
+    var hrefValue = hrefObj.value || "";
+    if ((/(http|ftp|https):\/\//.test(hrefValue) && !hrefValue.includes('36kr.com')) ||
+        (/(http|ftp|https):\/\//.test(hrefValue) && hrefValue.includes('36kr.com/api/ad/'))) {
+        Object.assign(data, externalLink(hrefValue));
+    }
+    else {
+        var internalLinkHrefValue = hrefValue;
+        if (hrefValue.includes('36kr.com'))
+            internalLinkHrefValue = hrefValue.split('36kr.com')[1];
+        Object.assign(data, internalLink(internalLinkHrefValue, className));
+    }
+    // 通过标签属性，添加相关信息
+    Object.assign(data, genPropertyAccordingToAttribute(elementTarget));
+    return data;
+}
+/**
+ * 根据传入的地址生成路径信息
+ */
+var PathInfo = /** @class */ (function () {
+    function PathInfo(path) {
+        this.path = path;
+        var pathArr = path.split('/').filter(function (x) { return x !== ""; });
+        this.root = pathArr[0];
+        this.sub = pathArr[1];
+    }
+    return PathInfo;
+}());
+// 分析当前地址和传入的地址，生成当前页面的地址信息，方便业务中的数据分析
+var PageInfo = /** @class */ (function () {
+    function PageInfo(href) {
+        this.destPath = __assign({}, new PathInfo(href), new SourcePath(href));
+        this.currentPath = __assign({}, new PathInfo(window.location.pathname), new SourcePath(window.location.pathname));
+    }
+    return PageInfo;
+}());
+var SourcePath = /** @class */ (function () {
+    function SourcePath(href) {
+        this.group = SourcePath.groupFn(href);
+    }
+    SourcePath.groupFn = function (href) {
+        var pathInfo = new PathInfo(href);
+        if (pathInfo.sub && isNumber(pathInfo.sub)) {
+            return 'content';
+        }
+        else {
+            return 'default';
+        }
+    };
+    return SourcePath;
+}());
+// 区分埋点的“关键事件”
+function getCaseKey(data) {
+    if (data.hasOwnProperty('operate_type') ||
+        data.hasOwnProperty('position_id')) {
+        return 'MediaWebAD';
+    }
+    else {
+        return 'MediaWebRead';
+    }
+}
+function coverTagAClickEvent() {
+    // document.querySelectorAll('a').forEach(item => {
+    document.getElementById('app').addEventListener('click', function (e) {
+        // 兼容性处理
+        var event = e || window.event;
+        var eventPath = event.path || [];
+        var target = eventPath.filter(function (x) {
+            return x && x.nodeName && x.nodeName.toLocaleLowerCase() === 'a';
+        });
+        // 判断是否匹配目标元素
+        if (target.length !== 0) {
+            var elementTarget = target[target.length - 1];
+            if (elementTarget.getAttribute('sensors_do_not_send_data'))
+                return;
+            var targetValue_1 = elementTarget.getAttribute('target');
+            var targetHref = elementTarget.getAttribute('href');
+            var url_1 = elementTarget.href;
+            var data = manualMain(elementTarget);
+            if (!targetHref)
+                return;
+            if (!targetValue_1)
+                e.preventDefault();
+            if (window.sa && window.sa.track) {
+                window.sa.track(getCaseKey(data), data, function () {
+                    if (!targetValue_1)
+                        location.href = url_1;
+                });
+            }
+            else {
+                if (!targetValue_1)
+                    location.href = url_1;
+            }
+        }
+    });
+    // });
+}
+// 手动埋点内容
+window.onload = function () {
+    setTimeout(function () {
+        coverTagAClickEvent();
+    }, 0);
+};
+
+//# sourceMappingURL=main.js.map
+</script>
+</head>
+<body>
+<div id="app"></div>
+<script>window.initialState={"state":"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","isEncrypt":true}</script>
+<script src="//static.36krcdn.com/36kr-web/static/runtime.d44f62e1.js" type="text/javascript"></script><script src="//static.36krcdn.com/36kr-web/static/app.e107c65d.js" type="text/javascript"></script>
+
+</body></html>

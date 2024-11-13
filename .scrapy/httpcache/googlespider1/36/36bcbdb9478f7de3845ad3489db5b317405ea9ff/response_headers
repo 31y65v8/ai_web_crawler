@@ -1,0 +1,16 @@
+Content-Length: 3181656
+Date: Wed, 13 Nov 2024 12:16:32 GMT
+Server: Apache
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=315360000; includeSubDomains
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Permissions-Policy: camera=(),microphone=()
+Content-Security-Policy: base-uri 'self'; connect-src 'self'; default-src 'self'; font-src 'self' data: https:; frame-src 'self' https://*.google.com https://*.googleapis.com https://www.youtube.com https://airtw.epa.gov.tw https://airtw.moenv.gov.tw https://www.facebook.com https://embed.windy.com https://weatherwidget.io; frame-ancestors 'self'; form-action 'self'; img-src * data:; media-src 'self'; object-src https:; script-src https: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; style-src-elem https: 'unsafe-inline'
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.thvs.mlc.edu.tw
+Last-Modified: Wed, 19 Jun 2024 00:52:52 GMT
+Accept-Ranges: bytes
+Expires: max-age=A10368000, public
+Content-Type: application/pdf
+Set-Cookie: cookiesession1=678B28BB0F293363AD81D9F15237EAFE;Expires=Thu, 13 Nov 2025 12:16:32 GMT;Path=/;HttpOnly

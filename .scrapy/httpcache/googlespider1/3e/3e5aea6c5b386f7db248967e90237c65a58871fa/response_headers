@@ -1,11 +1,11 @@
-Date: Tue, 12 Nov 2024 07:49:19 GMT
+Date: Wed, 13 Nov 2024 07:51:56 GMT
 Content-Type: text/html; charset=utf-8
-Cf-Ray: 8e14ecbd2f095683-SIN
+Cf-Ray: 8e1d2df0d89fa8d3-SIN
 Cf-Cache-Status: HIT
 Cache-Control: max-age=14400, must-revalidate
 Content-Language: zh-cn
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
-Last-Modified: Fri, 08 Nov 2024 20:04:15 GMT
+Last-Modified: Tue, 12 Nov 2024 16:45:43 GMT
 Vary: Accept-Encoding
 Pragma: no-cache
 Cf-Apo-Via: tcache
@@ -13,12 +13,11 @@ Cf-Edge-Cache: cache,platform=wordpress
 Host-Header: 6b7412fb82ca5edfd0917e3957f05d89
 Host-Header: 6b7412fb82ca5edfd0917e3957f05d89
 Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UmhC7dHsjdRvW%2B4kY0326eQnVag1EE164vDk2P2OD3usYhqA9vzqe2j0YvJ4EVkTx9%2B2skkxDicVAOZO3k8qqVY5hEiHhOvu692kXb4PNU6t1nlcjA8gz9AUFEj3Qw%3D%3D"}],"group":"cf-nel","max_age":604800}
-Server-Timing: cfL4;desc="?proto=TCP&rtt=5987&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2815&recv_bytes=1105&delivery_rate=480106&cwnd=251&unsent_bytes=0&cid=2a628a2a3b5c2a54&ts=61&x=0"
-Server-Timing: cfCacheStatus;desc="HIT"
-Server-Timing: cfL4;desc="?proto=TCP&rtt=530&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2814&recv_bytes=1230&delivery_rate=5886178&cwnd=188&unsent_bytes=0&cid=1e74217b9d682a75&ts=378&x=0"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=s7tduDQt%2FOe9QzOohWiKFwIA1d9J6AiyaUytGGPSRYZISkfO7h%2Fagko654zS%2BsAYi8uZM43rxA%2FPsZTcoaPvxrTCY7Zp3wRp3nqLXUROxqe3Gn8SwpRE52gbImjceQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server-Timing: cfL4;desc="?proto=TCP&rtt=5946&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2815&recv_bytes=1115&delivery_rate=490348&cwnd=251&unsent_bytes=0&cid=135225a97f66f130&ts=33&x=0"
+Server-Timing: cfL4;desc="?proto=TCP&rtt=558&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2814&recv_bytes=1169&delivery_rate=5768924&cwnd=234&unsent_bytes=0&cid=25ae815519b4e5fc&ts=439&x=0"
 X-Cache-Enabled: False
-X-Gt-Cache-Age: 20177
+X-Gt-Cache-Age: 33485
 X-Gt-Cache-Status: HIT-TRANS
 X-Gt-Delivered-By: GTranslate v8.2.6 in 0ms visit https://gtranslate.io
 X-Gt-Origurl: /the-intersection-of-ai-across-6-major-industries-exploring-latest-ai-applications-from-business-perspective/

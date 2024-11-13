@@ -1,0 +1,386 @@
+<!DOCTYPE html><html><head><title>人工智能方法与技术 - 中国传媒大学 - XuetangX</title><meta charset="utf-8"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"><meta name="format-detection" content="telephone=no,email=no,address=no"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="renderer" content="webkit"><meta name="google" content="notranslate"><meta name="msapplication-tap-highlight" content="no"><meta http-equiv="x-dns-prefetch-control" content="on"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Cache-Control" content="no-transform "><meta http-equiv="Cache-Control" content="no-siteapp"><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Expires" content="0"><meta itemprop="keywords" name="keywords" content="人工智能方法与技术,中国传媒大学,随堂学慕课,计算机,XuetangX"><meta itemprop="description" name="description" content="       本课程强化实用性人工智能技术方法的落地应用，又紧密结合AI领域研究前沿、技术发展和未来趋势，在内容设计和教学组织上注重理论知识和创新意识、工程观念和动手能力的全面提升。追求更宽广的视野、更深邃的内涵，每节课的知识脉络设计都着力于营造意趣盎然的精彩课堂。       主要特点包括：       1）内容组织和知识脉络设计精巧用心——层层递进，环环相扣；       2）教学情境创设注重学习体验——以趣导课，以疑启思；       3）任务导行、案例驱动——激发灵感，创新思维。，人工智能方法与技术,中国传媒大学"><meta itemprop="author" name="author" content="XuetangX"><meta itemprop="name" name="title" content="人工智能方法与技术 - 中国传媒大学 - XuetangX"><meta property="og:title" content="人工智能方法与技术 - 中国传媒大学 - XuetangX"><meta property="og:description" content="       本课程强化实用性人工智能技术方法的落地应用，又紧密结合AI领域研究前沿、技术发展和未来趋势，在内容设计和教学组织上注重理论知识和创新意识、工程观念和动手能力的全面提升。追求更宽广的视野、更深邃的内涵，每节课的知识脉络设计都着力于营造意趣盎然的精彩课堂。       主要特点包括：       1）内容组织和知识脉络设计精巧用心——层层递进，环环相扣；       2）教学情境创设注重学习体验——以趣导课，以疑启思；       3）任务导行、案例驱动——激发灵感，创新思维。，人工智能方法与技术,中国传媒大学"><meta property="og:site_name" content="XuetangX"><link rel="dns-prefetch" href="//static-cdn.xuetangx.com"><link rel="dns-prefetch" href="//qn-c27.xuetangx.com"><link ref="dns-prefetch" href="//s.xuetangx.com"><link rel="dns-prefetch" href="//storagecdn.xuetangx.com"><link rel="dns-prefetch" href="//cdn.mathjax.org"><link rel="search" type="application/opensearchdescription+xml" href="/en-opensearch.xml?v=1.0" title="XuetangX"><link rel="shortcut icon" href="https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/0329/logo.ico" type="image/x-icon"><link rel="icon" href="https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/0329/logo.ico" type="image/x-icon"><script async="" id="beacon-aplus" src="https://o.alicdn.com/QTSDK/quicktracking-sdk/qt_web.umd.js"></script><script charset="UTF-8" src="https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/23/120601/head_template.min.js"></script><script type="text/javascript" src="https://turing.captcha.qcloud.com/TCaptcha.js"></script><script type="text/javascript">MathJax = {"options":{"enableMenu":false},"tex":{"inlineMath":[["$","$"],["\\(","\\)"],["[mathjaxinline]","[/mathjaxinline]"]],"displayMath":[["$$","$$"],["\\[","\\]"],["[mathjax]","[/mathjax]"]]}}</script><script type="text/javascript" src="https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/tex-chtml.js"></script><script charset="UTF-8" src="https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/240516/gzxtzx.min.js"></script><link href="https://fe-static-yuketang.yuketang.cn/fe/static/xt/1.6.301/xtassets/225.88f1b03c80fc38f3f143.css" rel="preload" as="style"><link href="https://fe-static-yuketang.yuketang.cn/fe/static/xt/1.6.301/xtassets/225_88f1b03c80fc38f3f143.js" rel="preload" as="script"><link href="https://fe-static-yuketang.yuketang.cn/fe/static/xt/1.6.301/xtassets/1.323715278a83a045c616.css" rel="stylesheet"><link href="https://fe-static-yuketang.yuketang.cn/fe/static/xt/1.6.301/xtassets/225.88f1b03c80fc38f3f143.css" rel="stylesheet"><script type="text/javascript" src="https://web-stat.jiguang.cn/web-janalytics/scripts/janalytics-web.min.js"></script><style type="text/css">.CtxtMenu_InfoClose {  top:.2em; right:.2em;}
+.CtxtMenu_InfoContent {  overflow:auto; text-align:left; font-size:80%;  padding:.4em .6em; border:1px inset; margin:1em 0px;  max-height:20em; max-width:30em; background-color:#EEEEEE;  white-space:normal;}
+.CtxtMenu_Info.CtxtMenu_MousePost {outline:none;}
+.CtxtMenu_Info {  position:fixed; left:50%; width:auto; text-align:center;  border:3px outset; padding:1em 2em; background-color:#DDDDDD;  color:black;  cursor:default; font-family:message-box; font-size:120%;  font-style:normal; text-indent:0; text-transform:none;  line-height:normal; letter-spacing:normal; word-spacing:normal;  word-wrap:normal; white-space:nowrap; float:none; z-index:201;  border-radius: 15px;                     /* Opera 10.5 and IE9 */  -webkit-border-radius:15px;               /* Safari and Chrome */  -moz-border-radius:15px;                  /* Firefox */  -khtml-border-radius:15px;                /* Konqueror */  box-shadow:0px 10px 20px #808080;         /* Opera 10.5 and IE9 */  -webkit-box-shadow:0px 10px 20px #808080; /* Safari 3 & Chrome */  -moz-box-shadow:0px 10px 20px #808080;    /* Forefox 3.5 */  -khtml-box-shadow:0px 10px 20px #808080;  /* Konqueror */  filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color="gray", Positive="true"); /* IE */}
+</style><style type="text/css">.CtxtMenu_MenuClose {  position:absolute;  cursor:pointer;  display:inline-block;  border:2px solid #AAA;  border-radius:18px;  -webkit-border-radius: 18px;             /* Safari and Chrome */  -moz-border-radius: 18px;                /* Firefox */  -khtml-border-radius: 18px;              /* Konqueror */  font-family: "Courier New", Courier;  font-size:24px;  color:#F0F0F0}
+.CtxtMenu_MenuClose span {  display:block; background-color:#AAA; border:1.5px solid;  border-radius:18px;  -webkit-border-radius: 18px;             /* Safari and Chrome */  -moz-border-radius: 18px;                /* Firefox */  -khtml-border-radius: 18px;              /* Konqueror */  line-height:0;  padding:8px 0 6px     /* may need to be browser-specific */}
+.CtxtMenu_MenuClose:hover {  color:white!important;  border:2px solid #CCC!important}
+.CtxtMenu_MenuClose:hover span {  background-color:#CCC!important}
+.CtxtMenu_MenuClose:hover:focus {  outline:none}
+</style><style type="text/css">.CtxtMenu_Menu {  position:absolute;  background-color:white;  color:black;  width:auto; padding:5px 0px;  border:1px solid #CCCCCC; margin:0; cursor:default;  font: menu; text-align:left; text-indent:0; text-transform:none;  line-height:normal; letter-spacing:normal; word-spacing:normal;  word-wrap:normal; white-space:nowrap; float:none; z-index:201;  border-radius: 5px;                     /* Opera 10.5 and IE9 */  -webkit-border-radius: 5px;             /* Safari and Chrome */  -moz-border-radius: 5px;                /* Firefox */  -khtml-border-radius: 5px;              /* Konqueror */  box-shadow:0px 10px 20px #808080;         /* Opera 10.5 and IE9 */  -webkit-box-shadow:0px 10px 20px #808080; /* Safari 3 & Chrome */  -moz-box-shadow:0px 10px 20px #808080;    /* Forefox 3.5 */  -khtml-box-shadow:0px 10px 20px #808080;  /* Konqueror */}
+.CtxtMenu_MenuItem {  padding: 1px 2em;  background:transparent;}
+.CtxtMenu_MenuArrow {  position:absolute; right:.5em; padding-top:.25em; color:#666666;  font-family: null; font-size: .75em}
+.CtxtMenu_MenuActive .CtxtMenu_MenuArrow {color:white}
+.CtxtMenu_MenuArrow.CtxtMenu_RTL {left:.5em; right:auto}
+.CtxtMenu_MenuCheck {  position:absolute; left:.7em;  font-family: null}
+.CtxtMenu_MenuCheck.CtxtMenu_RTL { right:.7em; left:auto }
+.CtxtMenu_MenuRadioCheck {  position:absolute; left: .7em;}
+.CtxtMenu_MenuRadioCheck.CtxtMenu_RTL {  right: .7em; left:auto}
+.CtxtMenu_MenuInputBox {  padding-left: 1em; right:.5em; color:#666666;  font-family: null;}
+.CtxtMenu_MenuInputBox.CtxtMenu_RTL {  left: .1em;}
+.CtxtMenu_MenuComboBox {  left:.1em; padding-bottom:.5em;}
+.CtxtMenu_MenuSlider {  left: .1em;}
+.CtxtMenu_SliderValue {  position:absolute; right:.1em; padding-top:.25em; color:#333333;  font-size: .75em}
+.CtxtMenu_SliderBar {  outline: none; background: #d3d3d3}
+.CtxtMenu_MenuLabel {  padding: 1px 2em 3px 1.33em;  font-style:italic}
+.CtxtMenu_MenuRule {  border-top: 1px solid #DDDDDD;  margin: 4px 3px;}
+.CtxtMenu_MenuDisabled {  color:GrayText}
+.CtxtMenu_MenuActive {  background-color: #606872;  color: white;}
+.CtxtMenu_MenuDisabled:focus {  background-color: #E8E8E8}
+.CtxtMenu_MenuLabel:focus {  background-color: #E8E8E8}
+.CtxtMenu_ContextMenu:focus {  outline:none}
+.CtxtMenu_ContextMenu .CtxtMenu_MenuItem:focus {  outline:none}
+.CtxtMenu_SelectionMenu {  position:relative; float:left;  border-bottom: none; -webkit-box-shadow:none; -webkit-border-radius:0px; }
+.CtxtMenu_SelectionItem {  padding-right: 1em;}
+.CtxtMenu_Selection {  right: 40%; width:50%; }
+.CtxtMenu_SelectionBox {  padding: 0em; max-height:20em; max-width: none;  background-color:#FFFFFF;}
+.CtxtMenu_SelectionDivider {  clear: both; border-top: 2px solid #000000;}
+.CtxtMenu_Menu .CtxtMenu_MenuClose {  top:-10px; left:-10px}
+</style><style id="MJX-CHTML-styles">
+mjx-container[jax="CHTML"] {
+  line-height: 0;
+}
+
+mjx-container [space="1"] {
+  margin-left: .111em;
+}
+
+mjx-container [space="2"] {
+  margin-left: .167em;
+}
+
+mjx-container [space="3"] {
+  margin-left: .222em;
+}
+
+mjx-container [space="4"] {
+  margin-left: .278em;
+}
+
+mjx-container [space="5"] {
+  margin-left: .333em;
+}
+
+mjx-container [rspace="1"] {
+  margin-right: .111em;
+}
+
+mjx-container [rspace="2"] {
+  margin-right: .167em;
+}
+
+mjx-container [rspace="3"] {
+  margin-right: .222em;
+}
+
+mjx-container [rspace="4"] {
+  margin-right: .278em;
+}
+
+mjx-container [rspace="5"] {
+  margin-right: .333em;
+}
+
+mjx-container [size="s"] {
+  font-size: 70.7%;
+}
+
+mjx-container [size="ss"] {
+  font-size: 50%;
+}
+
+mjx-container [size="Tn"] {
+  font-size: 60%;
+}
+
+mjx-container [size="sm"] {
+  font-size: 85%;
+}
+
+mjx-container [size="lg"] {
+  font-size: 120%;
+}
+
+mjx-container [size="Lg"] {
+  font-size: 144%;
+}
+
+mjx-container [size="LG"] {
+  font-size: 173%;
+}
+
+mjx-container [size="hg"] {
+  font-size: 207%;
+}
+
+mjx-container [size="HG"] {
+  font-size: 249%;
+}
+
+mjx-container [width="full"] {
+  width: 100%;
+}
+
+mjx-box {
+  display: inline-block;
+}
+
+mjx-block {
+  display: block;
+}
+
+mjx-itable {
+  display: inline-table;
+}
+
+mjx-row {
+  display: table-row;
+}
+
+mjx-row > * {
+  display: table-cell;
+}
+
+mjx-mtext {
+  display: inline-block;
+}
+
+mjx-mstyle {
+  display: inline-block;
+}
+
+mjx-merror {
+  display: inline-block;
+  color: red;
+  background-color: yellow;
+}
+
+mjx-mphantom {
+  visibility: hidden;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display="block"] {
+  width: 100% !important;
+}
+
+mjx-c::before {
+  display: block;
+  width: 0;
+}
+
+.MJX-TEX {
+  font-family: MJXZERO, MJXTEX;
+}
+
+.TEX-B {
+  font-family: MJXZERO, MJXTEX-B;
+}
+
+.TEX-I {
+  font-family: MJXZERO, MJXTEX-I;
+}
+
+.TEX-MI {
+  font-family: MJXZERO, MJXTEX-MI;
+}
+
+.TEX-BI {
+  font-family: MJXZERO, MJXTEX-BI;
+}
+
+.TEX-S1 {
+  font-family: MJXZERO, MJXTEX-S1;
+}
+
+.TEX-S2 {
+  font-family: MJXZERO, MJXTEX-S2;
+}
+
+.TEX-S3 {
+  font-family: MJXZERO, MJXTEX-S3;
+}
+
+.TEX-S4 {
+  font-family: MJXZERO, MJXTEX-S4;
+}
+
+.TEX-A {
+  font-family: MJXZERO, MJXTEX-A;
+}
+
+.TEX-C {
+  font-family: MJXZERO, MJXTEX-C;
+}
+
+.TEX-CB {
+  font-family: MJXZERO, MJXTEX-CB;
+}
+
+.TEX-FR {
+  font-family: MJXZERO, MJXTEX-FR;
+}
+
+.TEX-FRB {
+  font-family: MJXZERO, MJXTEX-FRB;
+}
+
+.TEX-SS {
+  font-family: MJXZERO, MJXTEX-SS;
+}
+
+.TEX-SSB {
+  font-family: MJXZERO, MJXTEX-SSB;
+}
+
+.TEX-SSI {
+  font-family: MJXZERO, MJXTEX-SSI;
+}
+
+.TEX-SC {
+  font-family: MJXZERO, MJXTEX-SC;
+}
+
+.TEX-T {
+  font-family: MJXZERO, MJXTEX-T;
+}
+
+.TEX-V {
+  font-family: MJXZERO, MJXTEX-V;
+}
+
+.TEX-VB {
+  font-family: MJXZERO, MJXTEX-VB;
+}
+
+mjx-stretchy-v mjx-c, mjx-stretchy-h mjx-c {
+  font-family: MJXZERO, MJXTEX-S1, MJXTEX-S4, MJXTEX, MJXTEX-A ! important;
+}
+
+@font-face /* 0 */ {
+  font-family: MJXZERO;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Zero.woff") format("woff");
+}
+
+@font-face /* 1 */ {
+  font-family: MJXTEX;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff") format("woff");
+}
+
+@font-face /* 2 */ {
+  font-family: MJXTEX-B;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff") format("woff");
+}
+
+@font-face /* 3 */ {
+  font-family: MJXTEX-I;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff") format("woff");
+}
+
+@font-face /* 4 */ {
+  font-family: MJXTEX-MI;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff") format("woff");
+}
+
+@font-face /* 5 */ {
+  font-family: MJXTEX-BI;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff") format("woff");
+}
+
+@font-face /* 6 */ {
+  font-family: MJXTEX-S1;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff") format("woff");
+}
+
+@font-face /* 7 */ {
+  font-family: MJXTEX-S2;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff") format("woff");
+}
+
+@font-face /* 8 */ {
+  font-family: MJXTEX-S3;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff") format("woff");
+}
+
+@font-face /* 9 */ {
+  font-family: MJXTEX-S4;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff") format("woff");
+}
+
+@font-face /* 10 */ {
+  font-family: MJXTEX-A;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff") format("woff");
+}
+
+@font-face /* 11 */ {
+  font-family: MJXTEX-C;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff") format("woff");
+}
+
+@font-face /* 12 */ {
+  font-family: MJXTEX-CB;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff") format("woff");
+}
+
+@font-face /* 13 */ {
+  font-family: MJXTEX-FR;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff") format("woff");
+}
+
+@font-face /* 14 */ {
+  font-family: MJXTEX-FRB;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff") format("woff");
+}
+
+@font-face /* 15 */ {
+  font-family: MJXTEX-SS;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff") format("woff");
+}
+
+@font-face /* 16 */ {
+  font-family: MJXTEX-SSB;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff") format("woff");
+}
+
+@font-face /* 17 */ {
+  font-family: MJXTEX-SSI;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff") format("woff");
+}
+
+@font-face /* 18 */ {
+  font-family: MJXTEX-SC;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff") format("woff");
+}
+
+@font-face /* 19 */ {
+  font-family: MJXTEX-T;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff") format("woff");
+}
+
+@font-face /* 20 */ {
+  font-family: MJXTEX-V;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff") format("woff");
+}
+
+@font-face /* 21 */ {
+  font-family: MJXTEX-VB;
+  src: url("https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/072302/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff") format("woff");
+}
+</style><script type="text/javascript" async="" src="https://turing.captcha.gtimg.com/1/tcaptcha-frame.7cfc3d42.js"></script><style type="text/css">@keyframes animate_dots{0%{opacity:1}to{opacity:0}}@-webkit-keyframes animate_dots{0%{opacity:1}to{opacity:0}}.dot0,.dot1{animation:animate_dots .9s infinite;-moz-animation:animate_dots .9s infinite;-webkit-animation:animate_dots .9s infinite;-o-animation:animate_dots .9s infinite}.dot1{animation-delay:.2s;-webkit-animation-delay:.2s}.dot2{animation:animate_dots .9s infinite;-moz-animation:animate_dots .9s infinite;-webkit-animation:animate_dots .9s infinite;-o-animation:animate_dots .9s infinite;animation-delay:.4s;-webkit-animation-delay:.4s}.dots_item{display:inline-block;margin-right:5px;width:10px;height:10px;border-radius:50%;background:#4886ff}.verify-icon{position:absolute;width:100%;margin-top:70px;text-align:center}.t-embed-loading{position:relative;width:300px;height:230px;background-color:#fff}.t-embed-dots{position:absolute;left:50%;top:50%;margin-left:-22.5px;margin-top:-5px}.t-embed-dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;background:#4886ff}.t-mask{width:100%;height:100%;position:fixed;_position:absolute;left:0;top:0;background:#000;opacity:.5;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);z-index:2000000000}</style><script async="" src="https://qtedu.om.moe.edu.cn/pbe.js?_abfpc=410470d6f141118f35a7a8b3467b309819bfb7ea" id="qt-setting" type="text/javascript" charset="utf-8"></script></head><body ondragstart="return!1"><div id="app"></div><div class="h-captcha" style="display:none" data-sitekey="50f6f060-c606-4e3b-b6e8-ca3b706b61e1" data-theme="dark" data-size="compact"></div><script charset="UTF-8" src="https://proxt-cdn.xuetangx.com/fe-proxtassets/xuetangX/240311/body_template.min.js?BrowseEvent=courseAbout"></script><script src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js" type="text/javascript"></script><script src="https://fe-static-yuketang.yuketang.cn/fe/static/xt/1.6.301/xtassets/manifest_c36cb1fa2998dc782641.js"></script><script src="https://fe-static-yuketang.yuketang.cn/fe/static/xt/1.6.301/xtassets/1_323715278a83a045c616.js"></script><script src="https://fe-static-yuketang.yuketang.cn/fe/static/xt/1.6.301/xtassets/10_dd17cfd5512527606751.js"></script><script src="https://fe-static-yuketang.yuketang.cn/fe/static/xt/1.6.301/xtassets/225_88f1b03c80fc38f3f143.js"></script><iframe src="https://web-stat.jpush.cn/web/report/html/janalytics.html" id="jiguang_iframe" style="display: none;"></iframe><div id="tcaptcha_transform_dy" style="opacity: 0; position: absolute; transition: opacity 0.3s linear 0s; -webkit-transition: opacity 0.3s linear 0s; top: -1000000px;"><iframe name="https://turing.captcha.qcloud.com" id="tcaptcha_iframe_dy" frameborder="0" border="0" marginheight="0" marginwidth="0" scrolling="no" src="https://turing.captcha.gtimg.com/1/template/drag_ele.html"></iframe></div></body></html>

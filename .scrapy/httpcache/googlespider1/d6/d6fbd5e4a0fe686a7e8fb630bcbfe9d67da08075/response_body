@@ -1,0 +1,1128 @@
+<!DOCTYPE html><html lang="zh-hans" dir="ltr" class=" js"><head>
+    <meta charset="utf-8">
+<script type="text/javascript" defer="" async="" src="/modules/visitors/js/tracker.min.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-WG7Y0RS7KG"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-WG7Y0RS7KG", {"groups":"default","linker":{"domains":["architect.pub"]},"link_attribution":true,"page_location":location.pathname + location.search + location.hash});</script>
+<meta name="description" content="| |【人工智能】AI知识图谱:如何对AI技术进行分类">
+<meta name="abstract" content="| |【人工智能】AI知识图谱:如何对AI技术进行分类">
+<meta name="geo.placename" content="中关村软件园">
+<meta name="geo.region" content="CN-BJ">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://architect.pub/ai-knowledge-map-how-classify-ai-technologies">
+<meta name="news_keywords" content="架构师研究会.分享架构师,企业架构,业务架构,数据架构,应用架构,技术架构,安全架构,产品架构,TOGAF,云计算,大数据,物联网,元宇宙,AI,安全,隐私,分析,微服务,云原生,数据治理,数据仓库,合规">
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<script>var _paq = window._paq = window._paq || [];var tracker = function(){var u=(("https:" == document.location.protocol) ? "" : "https://architect.pub");_paq.push(["setSiteId", 1]);_paq.push(["setTrackerUrl", u+"/visitors/_track"]);_paq.push(["setUserId", 0]);_paq.push(["setCookieDomain", ".architect.pub"]);_paq.push(["setCustomVariable", 7, "route", "entity.node.canonical", "visit"]);_paq.push(["setCustomVariable", 8, "path", "\/node\/1408", "visit"]);_paq.push(["setCustomVariable", 9, "viewed", ["node:1408"], "visit"]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"/modules/visitors/js/tracker.min.js";s.parentNode.insertBefore(g,s);};
+    document.addEventListener('readystatechange', () => {
+      // The first readyStateChange will be : interactive
+      // The second readyStateChange will be : complete
+      if (document.readyState === 'complete') {
+        tracker();
+      }
+    });
+    </script>
+<link rel="icon" href="/favicon.png" type="image/png">
+
+    <title>【人工智能】AI知识图谱:如何对AI技术进行分类 | 架构师研究会</title>
+        <link rel="preload" as="font" href="/themes/vani/fonts/open-sans.woff2" type="font/woff2" crossorigin="">
+    <link rel="preload" as="font" href="/themes/vani/fonts/roboto.woff2" type="font/woff2" crossorigin="">
+    <link rel="preload" as="font" href="/themes/vani/fonts/roboto-bold.woff2" type="font/woff2" crossorigin="">
+        <link rel="stylesheet" media="all" href="/sites/default/files/css/css_4HUrwNpRgXcTLe2lLCDoHYvnDFV0ZvcJTW9OoYqk7Xw.css?delta=0&amp;language=zh-hans&amp;theme=vani&amp;include=eJxtzlFuwzAIBuAL0fhIFrFJikqMZXAq335ZWi1a1RdAnwD9OxYOq-oqtGhxE00o8IKIBWU4JwufAFVFQm69oky_8024PAxsmNMWZjSC_XwtOqPczMexsP631Li6AfWYVB9MR9uqMJZE4RvGTAt2cVhYnFpIWJ21gDk625nznegSEBzaPWa2pDu1EfypSSXOjdMRuGLDtWG9_91eMvVS-yxsd8qwMz0tnHXaNHehH7_6fK4">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_LEdUdFNWROwtKrClf7AKbDISapfQIG31Bb2ek3fUtKs.css?delta=1&amp;language=zh-hans&amp;theme=vani&amp;include=eJxtzlFuwzAIBuAL0fhIFrFJikqMZXAq335ZWi1a1RdAnwD9OxYOq-oqtGhxE00o8IKIBWU4JwufAFVFQm69oky_8024PAxsmNMWZjSC_XwtOqPczMexsP631Li6AfWYVB9MR9uqMJZE4RvGTAt2cVhYnFpIWJ21gDk625nznegSEBzaPWa2pDu1EfypSSXOjdMRuGLDtWG9_91eMvVS-yxsd8qwMz0tnHXaNHehH7_6fK4">
+
+    
+  </head>
+  <body class="site-page page-type-article no-sidebar eu-cookie-compliance-popup-open eu-cookie-compliance-status-null" data-eu-cookie-compliance-once="true">
+        <a href="#main-content" class="visually-hidden focusable">
+      跳转到主要内容
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div class="header-top-blocks">
+  <div class="container">
+    <div class="header-block-container">
+              <div class="header-block header-block-left">
+            <div class="block-region region-header-left">
+    <div id="block-vani-remenneirong" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+      <h2 class="block-title">热门内容</h2>
+    
+  <div class="block-content">
+      <h3>今日:</h3><ul><li><a href="/open-source-free-and-open-source-minio-now-fully-licensed-under-gnu-agplv3" hreflang="zh-hans">【开源许可】从开源到免费和开源，MinIO现在在GNU AGPLv3许可</a></li><li><a href="/10-top-data-quality-tools" hreflang="zh-hans">【数据质量】十大数据质量工具</a></li><li><a href="/data-governance-framework-examples-templates-standards-best-practices-how-create-data-governance" hreflang="zh-hans">【数据治理框架】数据治理框架-示例、模板、标准、最佳实践&amp;如何创建数据治理框架？</a></li><li><a href="/17-popular-java-frameworks-2022-pros-cons-and-more" hreflang="zh-hans">【Java框架】2022 年 17 个流行的 Java 框架：优缺点等</a></li><li><a href="/saas-architecture-fundamentals-re-defining-multi-tenancy" hreflang="zh-hans">【SaaS架构】SaaS架构基础——重新定义多租户</a></li><li><a href="/building-effective-microservices-grpc-ballerina-and-go" hreflang="zh-hans">【微服务】利用gRPC、Ballerina和Go建立有效的微服务</a></li><li><a href="/what-clickhouse-how-does-it-compare-postgresql-and-timescaledb-and-how-does-it-perform-time-series" hreflang="zh-hans">【数据库选型】ClickHouse vs PostgreSQL vs TimescaleDB</a></li><li><a href="/microservices-are-dead-long-live-miniservices" hreflang="zh-hans">【微服务架构】微服务已死——迷你服务万岁</a></li><li><a href="/safe-lean-enterprises" hreflang="zh-hans">【精益】精益企业的SAFe</a></li><li><a href="/language_framework" hreflang="zh-hans">语言和框架</a></li></ul><br><h3>总体:</h3><ul><li><a href="/10-best-open-source-etl-tools-data-integration" hreflang="zh-hans">【数据集成】用于数据集成的10个最佳开源ETL工具</a></li><li><a href="/17-popular-java-frameworks-2022-pros-cons-and-more" hreflang="zh-hans">【Java框架】2022 年 17 个流行的 Java 框架：优缺点等</a></li><li><a href="/open-source-free-and-open-source-minio-now-fully-licensed-under-gnu-agplv3" hreflang="zh-hans">【开源许可】从开源到免费和开源，MinIO现在在GNU AGPLv3许可</a></li><li><a href="/open-source-data-governance-7-best-tools-consider-2023" hreflang="zh-hans">【数据治理】开源数据治理-2023年需要考虑的7个最佳工具</a></li><li><a href="/what-agpl-license-top-questions-answered" hreflang="zh-hans">【开源合规】 什么是AGPL许可证？回答的首要问题</a></li><li><a href="/microservices-are-dead-long-live-miniservices" hreflang="zh-hans">【微服务架构】微服务已死——迷你服务万岁</a></li><li><a href="/using-mysql-licensing-open-source-license-vs-commercial-license" hreflang="zh-hans">【开源合规】使用MySQL许可：开源许可与商业许可</a></li><li><a href="/minikube-vs-kind-vs-k3s-what-should-i-use" hreflang="zh-hans">【容器架构】Minikube vs.kind vs.k3s-我应该用哪一个？</a></li><li><a href="/what-sap-guigraphical-user-interfaceand-how-use-it" hreflang="zh-hans">【SAP GUI】什么是SAP GUI（图形用户界面）以及如何使用它</a></li><li><a href="/openmetadata-vs-datahub-compare-architecture-capabilities-integrations-more" hreflang="zh-hans">【数据目录】OpenMetadata与DataHub：比较架构、功能、集成等</a></li></ul><br><h3>最近浏览：</h3><ul><li><a href="/saas-architecture-fundamentals-re-defining-multi-tenancy" hreflang="zh-hans">【SaaS架构】SaaS架构基础——重新定义多租户</a></li><li><a href="/safe-lean-enterprises" hreflang="zh-hans">【精益】精益企业的SAFe</a></li><li><a href="/open-source-free-and-open-source-minio-now-fully-licensed-under-gnu-agplv3" hreflang="zh-hans">【开源许可】从开源到免费和开源，MinIO现在在GNU AGPLv3许可</a></li><li><a href="/5-popular-open-source-data-pipeline-orchestration-tools-2023" hreflang="zh-hans">【数据管道编排】2023年流行的5种开源数据管道编排工具</a></li><li><a href="/langroid-multi-agent-programming-framework-llms" hreflang="zh-hans">Langroid:LLM的多Agent编程框架</a></li><li><a href="/ilya-sutskever-former-chief-scientist-openai-gave-john-carmack-list-papers" hreflang="zh-hans">OpenAI（曾经）的首席科学家Ilya Sutskever给了John Carmack一份论文清单</a></li><li><a href="/what-clickhouse-how-does-it-compare-postgresql-and-timescaledb-and-how-does-it-perform-time-series" hreflang="zh-hans">【数据库选型】ClickHouse vs PostgreSQL vs TimescaleDB</a></li><li><a href="/what-garbage-garbage-out-and-why-it-still-problem" hreflang="zh-hans">【数据质量】什么是“垃圾进，垃圾出”，为什么它仍然是一个问题？</a></li><li><a href="/ragas-metrics-evaluate-your-retrieval-augmented-generation-rag-pipelines" hreflang="zh-hans">[RAG 评估]ragas Metrics-评估您的检索增强生成（RAG）管道</a></li><li><a href="/ultimate-list-best-software-architecture-books-2024" hreflang="zh-hans">【软件架构】最佳软件架构书籍终极榜单（2024）</a></li></ul><br>
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+        </div> <!--/.Header Left -->
+      
+              <div class="header-block header-block-right">
+            <div class="block-region region-header-right">
+    <div id="block-remenneirong" class="settings-tray-editable block" data-drupal-settingstray="editable" role="navigation">
+  
+      <h2 class="block-title">热门内容</h2>
+    
+  <div class="block-content">
+      <h3>今日:</h3><ul><li><a href="/enterprise_architecture" hreflang="zh-hans">企业架构</a></li><li><a href="/deploying-onnx-model-triton-inference-server" hreflang="zh-hans">使用Triton推理服务器部署ONNX模型</a></li><li><a href="/what-clickhouse-how-does-it-compare-postgresql-and-timescaledb-and-how-does-it-perform-time-series" hreflang="zh-hans">【数据库选型】ClickHouse vs PostgreSQL vs TimescaleDB</a></li><li><a href="/open-source-free-and-open-source-minio-now-fully-licensed-under-gnu-agplv3" hreflang="zh-hans">【开源许可】从开源到免费和开源，MinIO现在在GNU AGPLv3许可</a></li><li><a href="/saas-architecture-fundamentals-re-defining-multi-tenancy" hreflang="zh-hans">【SaaS架构】SaaS架构基础——重新定义多租户</a></li><li><a href="/datahub-linkedins-open-source-tool-data-discovery-catalog-and-metadata-management" hreflang="zh-hans">【数据目录】DataHub:领英的数据发现、目录和元数据管理开源工具</a></li><li><a href="/13-openpgp-must-know-tips-secure-key-management" hreflang="zh-hans">13 OpenPGP必须知道的安全密钥管理技巧</a></li><li><a href="/why-agile-stacey-complexity-model" hreflang="zh-hans">【敏捷】为什么敏捷？  -  Stacey复杂性模型</a></li><li><a href="/pact-101-getting-started-pact-and-consumer-driven-contract-testing" hreflang="zh-hans">【合约测试】Pact 101  - 契约和消费者驱动的合同测试入门</a></li><li><a href="/why-stacey-matrix-model-can-help-you-understand-applicability-agile-your-organisation" hreflang="zh-hans">【敏捷】为什么Stacey Matrix模型可以帮助您了解Agile对您的组织的适用性</a></li></ul><br><h3>总体:</h3><ul><li><a href="/language_framework" hreflang="zh-hans">语言和框架</a></li><li><a href="/minikube-vs-kind-vs-k3s-what-should-i-use" hreflang="zh-hans">【容器架构】Minikube vs.kind vs.k3s-我应该用哪一个？</a></li><li><a href="/17-popular-java-frameworks-2022-pros-cons-and-more" hreflang="zh-hans">【Java框架】2022 年 17 个流行的 Java 框架：优缺点等</a></li><li><a href="/10-best-open-source-etl-tools-data-integration" hreflang="zh-hans">【数据集成】用于数据集成的10个最佳开源ETL工具</a></li><li><a href="/technology-selectiondifference-between-keras-vs-tensorflow-vs-pytorch" hreflang="zh-hans">【技术选型】Keras、TensorFlow和PyTorch的区别</a></li><li><a href="/45-questions-and-solutions-data-scientists-who-test-basics-deep-learning" hreflang="zh-hans">【深度学习】45测试深度学习基础知识的数据科学家的问题（以及解决方案）</a></li><li><a href="/what-entity-relationship-diagram-erd" hreflang="zh-hans">【数据架构】什么是实体关系图(ERD)?</a></li><li><a href="/rust-web-framework-comparison" hreflang="zh-hans">【Rust架构】Rust web框架比较</a></li><li><a href="/dikw-pyramid" hreflang="zh-hans">【知识】DIKW(数据，信息，知识，智慧)金字塔</a></li><li><a href="/technology-selection-amqp-vs-mqtt" hreflang="zh-hans">【技术选型】AMQP vs MQTT</a></li></ul><br><h3>最近浏览：</h3><ul><li><a href="/agile-model-driven-development-amdd-key-scaling-agile-software-development" hreflang="zh-hans">【首席架构师看敏捷模型】从这里开始：敏捷模型驱动开发（AMDD）：扩展敏捷软件开发的关键</a></li><li><a href="/saas-architecture-fundamentals-re-defining-multi-tenancy" hreflang="zh-hans">【SaaS架构】SaaS架构基础——重新定义多租户</a></li><li><a href="/design-pattern-deep-learning-architecture-introduction" hreflang="zh-hans">【深度学习】深度学习架构的设计模式：介绍</a></li><li><a href="/safe-lean-enterprises" hreflang="zh-hans">【精益】精益企业的SAFe</a></li><li><a href="/open-source-free-and-open-source-minio-now-fully-licensed-under-gnu-agplv3" hreflang="zh-hans">【开源许可】从开源到免费和开源，MinIO现在在GNU AGPLv3许可</a></li><li><a href="/2023-state-data-infrastructure-key-trends-matt-turcks-mad-landscape" hreflang="zh-hans">【数据基础设施】2023年数据基础设施状况-MAD前景的主要趋势</a></li><li><a href="/value-chain-analysis" hreflang="zh-hans">【业务架构】价值链分析</a></li><li><a href="/5-popular-open-source-data-pipeline-orchestration-tools-2023" hreflang="zh-hans">【数据管道编排】2023年流行的5种开源数据管道编排工具</a></li><li><a href="/5-types-data-lineage-understand-all-ways-view-your-data" hreflang="zh-hans">【数据谱系】5种数据谱系：了解查看数据的所有方法</a></li><li><a href="/gan-vs-transformer-models-comparing-architectures-and-uses" hreflang="zh-hans">【GAN架构】GAN与transformer模型：比较架构和用途</a></li></ul><br>
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+        </div> <!--/.Header right -->
+          </div><!--/.header-block-container -->
+  </div><!--/.container -->
+</div><!--/.header-top-blocks -->
+<header class="header">
+  <div class="header-cicle header-cicle1"></div>
+  <div class="header-cicle header-cicle3"></div>
+  <div class="header-cicle header-cicle4"></div>
+  <div class="header-cicle header-cicle6"></div>
+  <div class="header-cicle header-cicle7"></div>
+  <div class="header-cicle header-cicle8"></div>
+  <div class="header-cicle header-cicle10"></div>
+    <div class="container">
+  <div class="header-main">
+          <div class="site-brand">
+          <div class="block-region region-site-branding">
+    <div id="block-vani-branding" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+    
+  <div class="block-content">
+  <div class="site-branding">
+  		<div class="site-logo">
+         <a href="/" title="首页" rel="home">
+            <img src="/favicon.png" alt="首页">
+         </a>
+	 </div>
+     </div>
+  </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+      </div> <!--/.site-branding -->
+              <div class="header-main-right">
+                  <div class="mobile-menu"><i class="icon-menu"></i></div>           <div class="primary-menu-wrapper">
+            <div class="menu-wrap">
+              <div class="close-mobile-menu">x</div>
+                <div class="block-region region-primary-menu">
+    <nav role="navigation" aria-labelledby="block-vani-main-menu-menu" id="block-vani-main-menu" class="settings-tray-editable block block-menu" data-drupal-settingstray="editable">
+            
+  <h2 class="visually-hidden block-title" id="block-vani-main-menu-menu">Main navigation</h2>
+  
+
+        
+              <ul class="main-menu">
+                            <li class="main-menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">主页</a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/digital_transformation">数字化 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/digital_business_automation" data-drupal-link-system-path="node/542">数字业务自动化</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/digital_solution" data-drupal-link-system-path="node/1168">数字化方案</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/digital_transformation_strategy" data-drupal-link-system-path="node/253">数字化转型战略</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/digital_governance" data-drupal-link-system-path="node/1270">数字化转型治理</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/digitization_operation" data-drupal-link-system-path="node/11">数字化运营</a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/digital_customer" data-drupal-link-system-path="node/1261">数字化客户</a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/customer" data-drupal-link-system-path="node/1557">客户</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item expanded">
+        <a href="/digital_rd" data-drupal-link-system-path="node/1164">数字化研发</a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/R%26D" data-drupal-link-system-path="node/1560">研发</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item">
+        <a href="/digital-manufacturing" data-drupal-link-system-path="node/2998">数字化制造</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="https://architect.pub/digital-production">数字化生产</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/digital_supply_chain" data-drupal-link-system-path="node/871">数字化供应链</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/sales" data-drupal-link-system-path="node/1567">数字化销售</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/service" data-drupal-link-system-path="node/2007">数字化服务</a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/digital_marketing" data-drupal-link-system-path="node/863">数字化营销</a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/marketing" data-drupal-link-system-path="node/1565">营销</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item">
+        <a href="/finance" data-drupal-link-system-path="node/1566">数字化财务</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/hr_management" data-drupal-link-system-path="node/1672">人力资源</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/legal" data-drupal-link-system-path="node/1677">数字化法务</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item expanded">
+        <a href="/enterprise-architecture-mgmt">企业架构 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/enterprise_security_architecture" data-drupal-link-system-path="node/372">企业安全架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/ea_framework" data-drupal-link-system-path="node/1884">企业架构框架</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/solution_architecture" data-drupal-link-system-path="node/281">方案架构</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item">
+        <a href="/enterprise_business_architecture" data-drupal-link-system-path="taxonomy/term/3378">企业业务架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/enterprise_technology_architecture" data-drupal-link-system-path="taxonomy/term/3379">企业技术架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/enterprise_application_architecture" data-drupal-link-system-path="taxonomy/term/3380">企业应用架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/enterprise_data_architecture" data-drupal-link-system-path="taxonomy/term/3381">企业数据架构</a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/data_application_architecture">数据应用架构 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/mdm_architecture" data-drupal-link-system-path="node/852">主数据架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/big_data_architecture" data-drupal-link-system-path="node/179">大数据架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_warehouse_architecture" data-drupal-link-system-path="node/310">数据仓库架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_protection" data-drupal-link-system-path="node/2294">数据保护</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/database-architecture" data-drupal-link-system-path="node/1925">数据库架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_modeling" data-drupal-link-system-path="node/2292">数据建模</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_hub_architecture" data-drupal-link-system-path="node/1604">数据枢纽架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_lake_architecture" data-drupal-link-system-path="node/168">数据湖架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data-fabric-architecture" data-drupal-link-system-path="node/2087">数据编制架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data-mesh-architecture" data-drupal-link-system-path="node/2068">数据网格架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_virtualization_architecture" data-drupal-link-system-path="node/1602">数据虚拟化架构</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/enterprise_integration_architecture">集成架构 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/architecture_quality">架构质量 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/software-architecture">软件架构 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/bigdata_architecture">大数据架构 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/hadoop_ecosystem" data-drupal-link-system-path="node/100">Hadoop 生态</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/spark_ecosystem" data-drupal-link-system-path="node/99">Saprk生态</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/big_data_strategy" data-drupal-link-system-path="node/197">大数据战略</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item expanded">
+        <a href="/data_and_analysis">数据和分析 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/machine_learning" data-drupal-link-system-path="node/210">机器学习</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_analytics" data-drupal-link-system-path="node/243">数据分析</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_visualization" data-drupal-link-system-path="node/1090">数据可视化</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_engineering" data-drupal-link-system-path="node/1958">数据工程</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_strategy" data-drupal-link-system-path="node/309">数据战略</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_mining" data-drupal-link-system-path="node/241">数据挖掘</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_science" data-drupal-link-system-path="node/242">数据科学</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/business_intelligence" data-drupal-link-system-path="node/45">商务智能</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item expanded">
+        <a href="/database_architecture">数据库架构 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/mysql_architecture" data-drupal-link-system-path="node/550">MySql架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/postgresql_architecture" data-drupal-link-system-path="node/554">PostgreSql架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/cloud_database" data-drupal-link-system-path="node/797">云数据库</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/memory_database" data-drupal-link-system-path="node/777">内存数据库</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/wide_column_store" data-drupal-link-system-path="node/1173">列式数据库</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/graph_database" title="图形数据库" data-drupal-link-system-path="node/1046">图形数据库</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/search_engine" data-drupal-link-system-path="node/907">搜索引擎</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/document_store" data-drupal-link-system-path="node/910">文档数据库</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item">
+        <a href="/data-governance" data-drupal-link-system-path="taxonomy/term/3389">数据治理</a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/data_management">数据管理 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/data_warehouse" data-drupal-link-system-path="node/1765">数据仓库</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_lake" data-drupal-link-system-path="node/1640">数据湖</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item">
+        <a href="/enterprise_compliance_mgmt" data-drupal-link-system-path="taxonomy/term/3391">企业合规管理</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/enterprise_governance">企业治理 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/enterprise_risk_mgmt" data-drupal-link-system-path="taxonomy/term/3393">企业风险管理</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/privacy_protection_mgmt" data-drupal-link-system-path="taxonomy/term/3394">隐私保护</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/intelligent_transformation">智能转型 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/cloud_mgmt">云计算 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/aws_platform" data-drupal-link-system-path="node/102">AWS 平台</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/saas-cloud" data-drupal-link-system-path="node/1976">SaaS云</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/salesforce" data-drupal-link-system-path="node/146">Salesforce</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/cloud_native" data-drupal-link-system-path="node/1507">云原生</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/cloud_architecture" data-drupal-link-system-path="node/124">云架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/cloud_governance" data-drupal-link-system-path="node/81">云治理</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/cloud_transformation_strategy" data-drupal-link-system-path="node/259">云转型战略</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/container_platform" data-drupal-link-system-path="node/155">容器云</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/azure_d365" data-drupal-link-system-path="node/105">微软云</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/private_cloud" data-drupal-link-system-path="node/2212">私有云</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/ai_mgmt">人工智能 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/generative_ai">生成式人工智能 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/multimodal-model" data-drupal-link-system-path="node/3164">多模态模型</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/large-video-model" data-drupal-link-system-path="node/3162">大视觉模型</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/large-language-model" data-drupal-link-system-path="node/2539">大语言模型</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/large-audio-model" data-drupal-link-system-path="node/3163">大音频模型</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item expanded">
+        <a href="/iot_mgmt">万物互联 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/Industrial_Control_Systems" data-drupal-link-system-path="node/1793">工业控制系统</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/Industrial_IoT" data-drupal-link-system-path="node/221">工业物联网</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/iot_security" data-drupal-link-system-path="node/191">物联网(IoT)安全</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/iot_architecture" data-drupal-link-system-path="node/181">物联网(IoT)架构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/iot_strategy" data-drupal-link-system-path="node/196">物联网战略</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/edge_computing" data-drupal-link-system-path="node/182">边缘计算</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item">
+        <a href="/metaverse_technology" data-drupal-link-system-path="taxonomy/term/3399">元宇宙</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/blockchain_tech">区块链 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/security_mgmt">安全 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/cloud_security" data-drupal-link-system-path="node/501">云安全</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/security_tools" data-drupal-link-system-path="node/271">安全工具</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/security_strategy" data-drupal-link-system-path="node/432">安全战略</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/security_operation" data-drupal-link-system-path="node/418">安全运营</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/application_security" data-drupal-link-system-path="node/27">应用安全</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data_security" data-drupal-link-system-path="node/120">数据安全</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/endpoint_security" data-drupal-link-system-path="node/188">终端安全</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/network_security" data-drupal-link-system-path="node/592">网络安全</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/privacy_protection" data-drupal-link-system-path="node/2241">隐私保护</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/infrastructure_mgmt">基础设施 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/software_development">软件开发 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/develop_management" data-drupal-link-system-path="node/266">开发管理</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/requirement_analysis" data-drupal-link-system-path="node/1219">需求分析</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/low_code_develop" data-drupal-link-system-path="node/1184">低代码开发</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/software-test">软件测试 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/software-design" data-drupal-link-system-path="taxonomy/term/3405">软件设计</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/devops_mgmt">DevOps <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/agile_mgmt" data-drupal-link-system-path="taxonomy/term/3410">敏捷</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/project_mgmt">项目 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/platform_and_tools">平台和工具 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/devops_tools" data-drupal-link-system-path="node/356">DevOps工具</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/cloud_computing_platform" data-drupal-link-system-path="node/306">云计算平台</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/event_hub" data-drupal-link-system-path="node/277">企业事件枢纽</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/other_tools" data-drupal-link-system-path="node/1800">其他工具</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/distributed_platform" data-drupal-link-system-path="node/305">分布式平台</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/big_data_platform" data-drupal-link-system-path="node/141">大数据平台</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/application_middleware" data-drupal-link-system-path="node/623">应用中间件</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/developmenttools" data-drupal-link-system-path="node/1616">开发工具</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/data-tools" data-drupal-link-system-path="node/1629">数据工具</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/integration_platform" data-drupal-link-system-path="node/1617">集成平台</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item expanded">
+        <a href="/language_and_framework">语言和框架 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/go_lang" data-drupal-link-system-path="node/1855">Go语言</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/javascript-develop" data-drupal-link-system-path="node/1879">Javascript开发</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/java_develop" data-drupal-link-system-path="node/580">Java开发</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/python_develop" data-drupal-link-system-path="node/1609">Python开发</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/rust_lang" data-drupal-link-system-path="node/335">Rust语言</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/typescript_develop" data-drupal-link-system-path="node/1880">TypeScript开发</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/front-end-technology" data-drupal-link-system-path="node/1516">前端技术和框架</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/algorithms_data_structures" data-drupal-link-system-path="node/1854">算法和数据结构</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/hardware_and_device">硬件和设备 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/product_mgmt">产品 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/product_management" data-drupal-link-system-path="node/365">产品管理</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/product_design" data-drupal-link-system-path="node/526">产品设计</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item expanded">
+        <a href="/technology_management">技术 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/technology_trends" data-drupal-link-system-path="node/1675">技术趋势</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/technology-selection" data-drupal-link-system-path="node/1128">技术选型</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/user_experience_mgmt">用户体验 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/it_management">IT管理 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/business_magement">商业 <span class="dropdown-arrow">+</span></a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/business_models" data-drupal-link-system-path="node/1568">商业模型</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/business_management" data-drupal-link-system-path="node/1569">商业管理</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/business_structures" data-drupal-link-system-path="node/1572">商业结构</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/business_plans" data-drupal-link-system-path="node/1570">商业计划</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/business_communication" data-drupal-link-system-path="node/1571">商务沟通</a>
+                  </li>
+                        <li class="main-menu-item expanded">
+        <a href="/entrepreneurship" data-drupal-link-system-path="node/1554">创业</a>
+                                  <ul class="submenu">
+                            <li class="main-menu-item">
+        <a href="/entrepreneurial_management">创业管理</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item">
+        <a href="/international_business" data-drupal-link-system-path="node/1556">国际商务</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/economics" data-drupal-link-system-path="node/1563">经济</a>
+                  </li>
+        </ul>
+  
+            </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/strategy_mgmt">战略 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/enterprise_management">管理 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/it_solution" data-drupal-link-system-path="taxonomy/term/3417">解决方案</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/follow" data-drupal-link-system-path="node/1011">关注</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/community_mgmt" data-drupal-link-system-path="taxonomy/term/3420">社区</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/career" data-drupal-link-system-path="node/1970">职业</a>
+                  </li>
+                        <li class="main-menu-item collapsed">
+        <a href="/career_and_position">职业和职位 <span class="dropdown-arrow">+</span></a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="/consulting-service" data-drupal-link-system-path="node/2849">咨询服务</a>
+                  </li>
+                        <li class="main-menu-item">
+        <a href="https://architect.pub/Microsoft_Column">微软专栏</a>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            </div> <!-- /.menu-wrap -->
+          </div> <!-- /.primary-menu-wrapper -->
+                      </div> <!-- /.header-right -->
+      </div><!-- /header-main -->
+  </div><!-- /container -->
+      <section id="page-header" class="clear">
+  <div class="container">
+    <div class="page-header clear">
+        <div class="block-region region-page-header">
+    <div id="block-vani-page-title" class="block">
+  
+    
+  <div class="block-content">
+      <div class="page-title-wrap">
+  
+      <h1 class="page-title"><span>【人工智能】AI知识图谱:如何对AI技术进行分类</span>
+</h1>
+    
+</div> <!--/.page-title-wrap -->
+
+    </div>
+</div> <!--/.block-content -->
+<div id="block-vani-breadcrumbs" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+    
+  <div class="block-content">
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <ol class="breadcrumb-items">
+          <li class="breadcrumb-item">
+                  <a href="/">首页</a> <span>⟶</span>
+              </li>
+          <li class="breadcrumb-item">
+                  【人工智能】AI知识图谱:如何对AI技术进行分类
+              </li>
+        </ol>
+  </nav>
+
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+    </div>
+  </div><!-- /.container -->
+</section>
+  </header>
+<div id="main-wrapper" class="main-wrapper">
+  <div class="container">
+  <div class="main-container">
+    <main id="main" class="page-content">
+      <a id="main-content" tabindex="-1"></a>            <div class="node-content">
+          <div class="block-region region-content">
+    <div id="block-vani-content" class="block">
+  
+    
+  <div class="block-content">
+        <div data-history-node-id="1408" class="layout layout--twocol-bricks">
+          <div class="layout__region layout__region--top">
+        <div id="field-language-display"><div class="js-form-item form-item form-type-item js-form-type-item form-item- js-form-item-">
+      <label>语言</label>
+        Chinese, Simplified
+        </div>
+</div>
+  <div class="field field--name-field-seo-title field--type-string field--label-above">
+    <div class="field__label">SEO Title</div>
+              <div class="field-item"><a href="/ai-knowledge-map-how-classify-ai-technologies" hreflang="zh-hans">AI Knowledge Map: How To Classify AI Technologies </a></div>
+          </div>
+
+      <div>
+              <div class="field-item">  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="field field--name-field-text field--type-text-long field--label-hidden field-item"><p>接下来的内容是绘制一个架构，以获取有关AI的知识，并遵循紧急动态，这是关于主题的现有知识的门户，允许你寻找额外信息，并最终创建有关AI的新知识。</p>
+<p><img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fcognitiveworld%2Ffiles%2F2018%2F08%2FRobotVehicleViewedByMan-S-1200x800.jpg"></p>
+<p>我在人工智能领域已经有一段时间了，我意识到有多种分类、区分、景观和信息图来表示和跟踪思考人工智能的不同方式。然而，我并不热衷于这些分类练习，主要是因为我倾向于认为，将动态数据点分类到预先确定的固定框中的努力往往不值得拥有这样一个“清晰”的框架的好处（这是一个概括，因为有时它们非常有用）。</p>
+<p><strong>我还相信，这种情况对于刚进入这个领域的人来说是很有用的，他们可以一目了然地了解这个主题的复杂性和深度，对于那些更有经验的人来说，也可以有一个参考点，并围绕特定的技术创建新的对话。</strong></p>
+<p>接下来的内容是绘制一个架构，以获取有关AI的知识，并遵循紧急动态，这是关于主题的现有知识的门户，允许你寻找额外信息，并最终创建有关AI的新知识。我称之为<strong>人工智能知识地图(AIKM)</strong>。</p>
+<p><img src="https://image.ibb.co/nEx8Ue/ai_cats.jpg"></p>
+<p>AI知识地图。我与战略创新咨询公司Axilo一起开发了AIKM，用于他们Chora平台上的活动.</p>
+<p><strong>在坐标轴上，你会发现两个宏观组，即AI范式和AI问题域</strong>。<strong>人工智能范式AI Paradigms&nbsp;(x轴)是人工智能研究人员用来解决特定人工智能相关问题的方法(包括最新的方法)。另一方面，AI问题域(y轴)是AI可以解决的问题类型。</strong>在某种意义上，它也表明了人工智能技术的潜在能力。</p>
+<p>因此，我确定了以下AI范例:</p>
+<ul>
+<li><strong>基于逻辑的工具</strong>:用于知识表示和解决问题的工具</li>
+<li><strong>基于知识的工具</strong>:基于本体和庞大的概念、信息和规则数据库的工具</li>
+<li><strong>概率方法</strong>:允许代理在不完全信息场景中行动的工具</li>
+<li><strong>机器学习</strong>:让计算机从数据中学习的工具</li>
+<li><strong>具身智</strong>能:工程工具箱，它假设一个身体(或至少部分功能集合，如运动、感知、交互和可视化)需要更高的智能</li>
+<li><strong>搜索和优化</strong>:允许智能搜索许多可能的解决方案的工具。</li>
+</ul>
+<p><strong>这六种范式也分为三种不同的宏观方法，即符号、次符号和统计(用上面不同的颜色表示)。</strong>简单地说，符号方法表明人类智能可以被简化为符号操作，次符号方法是一种事先不提供具体知识表示的方法，而统计方法是基于数学工具来解决具体的子问题。</p>
+<p>而纵轴则显示了AI所面临的问题，这里的分类是相当标准的:</p>
+<ul>
+<li>推理:解决问题的能力</li>
+<li>知识:代表和理解世界的能力</li>
+<li>计划:设定和实现目标的能力</li>
+<li>沟通能力:能听懂语言并进行沟通</li>
+<li>感知:将原始的感官输入(如图像、声音等)转换为可用信息的能力。</li>
+</ul>
+<p>框的模式将这些技术分为两组，<strong>即狭义应用程序和一般应用程序。</strong>使用的词语是有意的，但可能会出现轻微的误导。请耐心听我解释。对于任何开始研究人工智能的人来说，<strong>了解弱/窄AI (ANI)、强/一般AI (AGI)和人工超级智能(ASI)之间的区别是至关重要的</strong>。为了清晰、ASI只是一个猜测,一般人工智能的最终目标和圣杯研究者,而狭窄的AI是我们真正有今天,也就是说,一组技术是无法应付他们的范围之外(AGI)的主要区别。</p>
+<p><strong>图中使用的两种类型的线(连续线和虚线)明确指出了两者的区别，这有助于你在阅读其他介绍AI的材料时增加一些信心。</strong>然而，与此同时，这里的区别概括了只能解决特定任务的技术(通常比人类——狭义的应用要好)和其他能够解决当前或未来多个任务并与世界交互的技术(比许多人类——通用应用要好)。</p>
+<p>最后，让我们看看图形本身有什么。在地图中，不同类别的人工智能技术被表示出来。注意，我故意不命名特定的算法，而是将它们聚类到宏组中。我也不是给你提供一个价值评估，看看什么有用，什么没用，而是简单地列出研究人员和数据科学家可以利用的东西。</p>
+<p>那么你如何阅读和解释这张地图呢?让我给你两个例子…如果你看看自然语言处理，它嵌入了一类算法，使用基于知识的方法、机器学习和概率方法的组合来解决感知领域的问题。但与此同时，如果您查看基于逻辑的范式和推理问题之间的交叉地带，您可能会想，为什么那里没有技术呢?这幅地图传达的并不是没有一种可以填补空间的方法，<strong>而是当人们处理一个推理问题时，他们更喜欢使用机器学习。</strong></p>
+<p>以下是一些技术:</p>
+<ul>
+<li><strong>机器人过程自动化(RPA)</strong>:一种通过观察用户执行某项任务来提取规则和动作列表的技术</li>
+<li><strong>专家系统</strong>:一种计算机程序，它有硬编码的规则来模拟人类的决策过程。模糊系统是基于规则的系统的一个具体例子，它将变量映射为0到1之间的连续值，这与导致0/1结果的传统数字逻辑相反</li>
+<li><strong>计算机视觉(CV)</strong>:获取和理解数字图像的方法(通常分为活动识别、图像识别和机器视觉)</li>
+<li><strong>自然语言处理(NLP):</strong>处理自然语言数据的子字段(三个主要块属于该字段，即语言理解、语言生成和机器翻译)</li>
+<li><strong>神经网络(NNs或ann</strong>):一种以人类/动物大脑的神经元结构为模型的算法，可以在没有明确指示的情况下提高其性能。网络神经网络的两个主要和著名的子类是深度学习(一个多层的神经网络)和生成对抗网络(GANs -两个互相训练的网络)</li>
+<li><strong>自主系统:</strong>机器人与智能系统交叉的子领域(如智能感知、灵巧对象操作、基于计划的机器人控制等)</li>
+<li><strong>分布式人工智能(DAI)</strong>:一类通过将问题分配给彼此交互的自主“代理”来解决问题的技术。多智能体系统(MAS)、基于智能体的建模(ABM)和群体智能是这一子集的三个有用规范，集体行为从分散的自组织智能体的交互中产生</li>
+<li><strong>情感计算:</strong>处理情感识别、解释和模拟的一个子领域</li>
+<li><strong>进化算法(EA)</strong>:它是一个被称为进化计算的更广泛的计算机科学领域的子集，利用生物学启发的机制(如，突变，繁殖等)来寻找最佳解决方案。遗传算法是EAs算法中最常用的一种子集，它是一种遵循自然选择过程来选择“最适合”的候选解的搜索启发式算法</li>
+<li><strong>归纳逻辑程序设计(ILP)</strong>:使用形式逻辑来表示事实的数据库和从这些数据导出的假设的子领域</li>
+<li><strong>决策网络</strong>:是最著名的贝叶斯网络/推理的概括，它通过映射(也称为有向无环图)表示一组变量及其概率关系。</li>
+<li><strong>概率编程</strong>:一个框架，它不强迫你硬编码特定的变量，而是与概率模型一起工作。贝叶斯程序合成(BPS)在某种程度上是概率编程的一种形式，贝叶斯程序编写新的贝叶斯程序(而不是像更广泛的概率编程方法那样由人类来编写)。</li>
+<li><strong>环境智能(AmI)</strong>:一种框架，要求物理设备进入数字环境，以上下文感知外部刺激(通常由人类行动触发)并作出反应。</li>
+</ul>
+<p><strong>为了解决特定的问题，您可能会采取一种或多种方法，这又意味着一种或多种技术，因为其中许多技术并不相互排斥，而是互补的。</strong></p>
+<p>教会电脑如何在不需要明确编程的情况下学习是一项艰巨的任务，需要使用多种技术来处理多种细微差别，尽管这张地图远非完美，但它至少是让混乱景象有意义的第一次尝试。</p>
+<p><strong>我知道这里出现了一个强大的帕累托原则，也就是说，目前80%（如果不是更多的话）的努力和成果是由地图上20%的技术（即深度学习、NLP和计算机视觉）驱动的，但我也确信，拥有全方位的技术可能会帮助研究人员、创业公司和投资者。</strong></p>
+<p>我打开第一个版本的反馈,我计划把两个额外的步骤:一个是创建一个层的人工智能正面临挑战(例如,内存问题和灾难性的遗忘,转移学习,学习更少的数据与零和一次性学习,等等)和技术可用于解决特定的问题。第二，用镜头来观察不同的技术，而不是它们正在解决的问题，而是它们正在制造的问题(例如，道德问题、数据密集型问题、黑匣子和可解释性问题等)。</p>
+<p>&nbsp;</p>
+<p>原文：<a href="https://www.kdnuggets.com/2018/08/ai-knowledge-map-classify-ai-technologies.html">https://www.kdnuggets.com/2018/08/ai-knowledge-map-classify-ai-technologies.html</a></p>
+<p>本文：<a href="http://jiagoushi.pro/node/1408">http://jiagoushi.pro/node/1408</a></p>
+<p>讨论：请加入知识星球【CXO智库】或者小号【it_strategy】或者QQ群【1033354921】</p>
+</div>
+      
+      </div>
+</div>
+          </div>
+  <div class="node-links-container"><ul class="links inline"><li><a href="/user/login?destination=/ai-knowledge-map-how-classify-ai-technologies%23comment-form">登录</a> 发表评论</li><li>419 次浏览</li></ul>
+</div> <!--/.node-links-container -->
+  <div class="field field--name-node-post-date field--type-ds field--label-inline">
+    <div class="field__label">发布日期</div>
+              <div class="field-item">星期五, 十二月 25, 2020 - 16:21</div>
+          </div>
+
+  <div class="field field--name-node-changed-date field--type-ds field--label-inline">
+    <div class="field__label">最后修改</div>
+              <div class="field-item">星期四, 一月 5, 2023 - 21:56</div>
+          </div>
+
+  <div class="empty-fields empty-fields__nbsp field field--name-field-tags field--type-string field--label-above">
+    <div class="field__label">Tags</div>
+              <div class="field-item">&nbsp;</div>
+          </div>
+<section id="node-comment">
+  
+  
+
+  
+</section>
+
+            <div class="field field--name-bundle-fieldnode field--type-ds field--label-hidden field-item">Article</div>
+      
+      </div>
+    
+    
+    
+          <div class="layout__region layout__region--middle">
+        
+            <div class="field field--name-node-link field--type-ds field--label-hidden field-item">  <a href="/ai-knowledge-map-how-classify-ai-technologies" hreflang="zh-hans">Read more</a>
+</div>
+      
+      </div>
+    
+    
+    
+      </div>
+
+
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+      </div>
+      <section id="content-bottom" class="content-bottom block-section">
+    <div class="block-region region-content-bottom">
+    <div class="views-element-container settings-tray-editable block" id="block-views-block-content-recent-block-1" data-drupal-settingstray="editable">
+  
+      <h2 class="block-title">最新内容</h2>
+    
+  <div class="block-content">
+      <div><div class="view view-content-recent">
+  
+  
+  
+
+  
+    
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/togaf-modeling-organization-decomposition-diagrams-organization-mapping" hreflang="zh-hans">【业务架构】TOGAF建模：组织分解图（组织映射）</a></span></div><div class="views-field views-field-changed"><span class="field-content">15 hours ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/openstack-spine-leaf-networking-introduction" hreflang="zh-hans">【网络架构】OpenStack 脊页网络(Spine and Leaf Networking) 介绍</a></span></div><div class="views-field views-field-changed"><span class="field-content">15 hours 10 minutes ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/what-zachman-framework" hreflang="zh-hans">【企业架构】什么是Zachman框架?</a></span></div><div class="views-field views-field-changed"><span class="field-content">15 hours 12 minutes ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/togaf-modeling-data-dissemination-diagrams" hreflang="zh-hans">【数据架构】TOGAF建模:数据发布图表</a></span></div><div class="views-field views-field-changed"><span class="field-content">15 hours 16 minutes ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/safe-agile-architecture" hreflang="zh-hans">【规模化敏捷】SAFe中的敏捷架构</a></span></div><div class="views-field views-field-changed"><span class="field-content">15 hours ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/enterprise-architecture-nato-architecture-framework-archimate-work-be-done-naf-archimate-defence" hreflang="zh-hans">【企业架构】NATO架构框架与ArchiMate：为国防和ArchiMate做好准备</a></span></div><div class="views-field views-field-changed"><span class="field-content">15 hours ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/13-openpgp-must-know-tips-secure-key-management" hreflang="zh-hans">13 OpenPGP必须知道的安全密钥管理技巧</a></span></div><div class="views-field views-field-changed"><span class="field-content">22 hours ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/10-enterprise-encryption-key-management-best-practices" hreflang="zh-hans">【加密密钥】0个企业加密密钥管理最佳实践</a></span></div><div class="views-field views-field-changed"><span class="field-content">22 hours ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/dikw-pyramid" hreflang="zh-hans">【知识】DIKW(数据，信息，知识，智慧)金字塔</a></span></div><div class="views-field views-field-changed"><span class="field-content">2 days 22 hours ago</span></div></li>
+          <li><div class="views-field views-field-title"><span class="field-content"><a href="/what-entity-relationship-diagram-erd" hreflang="zh-hans">【数据架构】什么是实体关系图(ERD)?</a></span></div><div class="views-field views-field-changed"><span class="field-content">2 days 22 hours ago</span></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+      
+  
+  </div>
+</div>
+
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+</section>
+    </main>
+          </div>   </div> </div><!-- Start: Footer -->
+  <section id="footer-top">
+    <div class="footer-top footer-block-region container">
+        <div class="block-region region-footer-top">
+    <div id="block-beian" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+    
+  <div class="block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field-item"><p>网站备案号:<a href="https://beian.miit.gov.cn/">京ICP备2022026098号-2</a></p>
+</div>
+      
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+    </div>
+  </section>
+<!-- /footer-top -->
+<footer class="footer">
+      <section id="footer-blocks">
+      <div class="container footer-container">
+        <div class="footer-block footer-block-region block-section">
+                        <div class="block-region region-footer-first">
+    <nav role="navigation" aria-labelledby="block-youqinglianjie-menu" id="block-youqinglianjie" class="settings-tray-editable block block-menu" data-drupal-settingstray="editable">
+      
+  <h2 class="block-title" id="block-youqinglianjie-menu">友情链接</h2>
+  
+
+        
+              <ul class="menu">
+                          <li class="menu-item menu-item-level-1">
+                    <a href="https://cio.ceo">CIO,CTO和CDO社区</a>
+
+                  </li>
+                      <li class="menu-item menu-item-level-1">
+                    <a href="https://cpo.work">CPO宝典</a>
+
+                  </li>
+                      <li class="menu-item menu-item-level-1">
+                    <a href="https://cioctocdo.com">全球IT瞭望</a>
+
+                  </li>
+                      <li class="menu-item menu-item-level-1">
+                    <a href="https://apaas.dev">应用开发和应用开发平台</a>
+
+                  </li>
+                      <li class="menu-item menu-item-level-1">
+                    <a href="https://developer.chat">开发者开聊</a>
+
+                  </li>
+                      <li class="menu-item menu-item-level-1">
+                    <a href="https://intelligentx.net">智能化转型智库</a>
+
+                  </li>
+                      <li class="menu-item menu-item-level-1">
+                    <a href="https://architect.pub">架构师研究会</a>
+
+                  </li>
+                      <li class="menu-item menu-item-level-1">
+                    <a href="https://pgmr.cloud">程序员云开发</a>
+
+                  </li>
+                      <li class="menu-item menu-item-level-1">
+                    <a href="https://jiagoushi.pro">首席架构师社区</a>
+
+                  </li>
+          </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                  </div> <!--/footer-first -->
+
+        <div class="footer-block footer-block-region block-section">
+                        <div class="block-region region-footer-second">
+    <div id="block-zhishixingqiu" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+      <h2 class="block-title">知识星球</h2>
+    
+  <div class="block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field-item"><p><img alt="知识星球：首席架构师圈" data-caption="独家干货分享" data-entity-type="file" data-entity-uuid="f67e79be-cf65-4a9b-a3a9-a908464173d7" src="/sites/default/files/inline-images/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83_0.jpg" width="640" height="706" loading="lazy"></p>
+<p>&nbsp;</p>
+</div>
+      
+    </div>
+</div> <!--/.block-content -->
+<div id="block-douyinzhibo" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+      <h2 class="block-title">抖音直播</h2>
+    
+  <div class="block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field-item"><figure role="group" class="caption">
+<img alt="抖音:cea_cio(超级架构师)" data-entity-type="file" data-entity-uuid="6bc50ac9-861a-4a46-acaa-4d12bb21d1e9" src="/sites/default/files/inline-images/%E6%8A%96%E9%9F%B3_0.jpg" width="747" height="706" loading="lazy">
+<figcaption>干货直播，干货分享</figcaption>
+</figure>
+
+<p>&nbsp;</p></div>
+      
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+                  </div> <!--/footer-second -->
+
+        <div class="footer-block footer-block-region block-section">
+                        <div class="block-region region-footer-third">
+    <div id="block-weixinxiaohao" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+      <h2 class="block-title">微信小号</h2>
+    
+  <div class="block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field-item"><figure role="group" class="caption">
+<img alt="超级架构师" data-entity-type="file" data-entity-uuid="d6e504d0-dbfa-46b4-849a-e63df74cb2bd" src="/sites/default/files/inline-images/%E8%B6%85%E7%BA%A7%E6%9E%B6%E6%9E%84%E5%B8%88.jpg" width="430" height="430" loading="lazy">
+<figcaption>超级架构师小号：加群，私聊</figcaption>
+</figure>
+
+<p>&nbsp;</p></div>
+      
+    </div>
+</div> <!--/.block-content -->
+<div id="block-weixingongzhonghao" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+      <h2 class="block-title">微信公众号</h2>
+    
+  <div class="block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field-item"><p><img alt="超级架构师公众号" data-caption="每日推送新鲜架构知识，资讯" data-entity-type="file" data-entity-uuid="2c149649-6f3a-4a9d-bbc0-3938ae72fa78" src="/sites/default/files/inline-images/%E8%B6%85%E7%BA%A7%E6%9E%B6%E6%9E%84%E5%B8%88%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="430" height="430" loading="lazy"></p>
+<p>&nbsp;</p>
+</div>
+      
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+                  </div> <!--/footer-three -->
+
+        <div class="footer-block footer-block-region block-section">
+                        <div class="block-region region-footer-fourth">
+    <div id="block-qqqunchaojijiagoushi" class="settings-tray-editable block" data-drupal-settingstray="editable">
+  
+      <h2 class="block-title">QQ群:超级架构师</h2>
+    
+  <div class="block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field-item"><p><img alt="QQ Group" data-entity-type="file" data-entity-uuid="eb7d34cb-30fa-443b-b99f-e44475852fc8" src="/sites/default/files/inline-images/QQ%20group_chaojijiagoushi.png" width="402" height="466" loading="lazy"></p></div>
+      
+    </div>
+</div> <!--/.block-content -->
+
+  </div>
+
+                  </div> <!--/footer-fourth -->
+      </div> <!--/container -->
+    </section> <!--/footer-blocks -->
+   
+  <!-- /footer-bottom -->
+
+   <section id="footer-bottom-last">
+    <div class="container">
+    <div class="footer-bottom-last">
+                <div class="copyright">
+            © 2024 架构师研究会, All rights reserved.
+          </div>
+                  </div> <!--/.social icons -->
+    </div> <!-- /.container -->
+    </section></footer></div> <!-- /.container -->
+   <!-- /footer-bottom-last -->
+   <!-- end condition if copyright or social icons -->
+
+<div class="scrolltop"><div class="scrolltop-icon">↑</div></div>
+<!-- End: Footer -->
+
+  
+
+    
+          
+        <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1408","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"zh-hans"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"G-WG7Y0RS7KG","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":2,"trackCrossDomains":["architect.pub"],"trackUrlFragments":true},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003E\u66f4\u591a\u4fe1\u606f\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003E\u66f4\u591a\u4fe1\u606f\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003ENo, thanks\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"zh-hans","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"statistics":{"data":{"nid":"1408"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"25a5de6dbb794f9f39fe719c200901ef519e946b4b815e3edbc4415ee5c2dce8"}}</script>
+<script src="/sites/default/files/js/js_KdQ0YnECIo2_srb2ld1kg7ljaWxxGvnnWMZ2DhpCTxU.js?scope=footer&amp;delta=0&amp;language=zh-hans&amp;theme=vani&amp;include=eJxtzlFuwzAIBuAL0fhIFrFJikqMZXAq335ZWi1a1RdAnwD9OxYOq-oqtGhxE00o8IKIBWU4JwufAFVFQm69oky_8024PAxsmNMWZjSC_XwtOqPczMexsP631Li6AfWYVB9MR9uqMJZE4RvGTAt2cVhYnFpIWJ21gDk625nznegSEBzaPWa2pDu1EfypSSXOjdMRuGLDtWG9_91eMvVS-yxsd8qwMz0tnHXaNHehH7_6fK4"></script>
+<script src="/modules/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=10.2.1" defer=""></script>
+<script src="/sites/default/files/js/js_G7zvfzmAi0qtmjvh1eWfVk5BIDFbIq16alLlBYv3F5s.js?scope=footer&amp;delta=2&amp;language=zh-hans&amp;theme=vani&amp;include=eJxtzlFuwzAIBuAL0fhIFrFJikqMZXAq335ZWi1a1RdAnwD9OxYOq-oqtGhxE00o8IKIBWU4JwufAFVFQm69oky_8024PAxsmNMWZjSC_XwtOqPczMexsP631Li6AfWYVB9MR9uqMJZE4RvGTAt2cVhYnFpIWJ21gDk625nznegSEBzaPWa2pDu1EfypSSXOjdMRuGLDtWG9_91eMvVS-yxsd8qwMz0tnHXaNHehH7_6fK4"></script>
+
+  
+
+<div id="sliding-popup" role="alertdialog" aria-describedby="popup-text" class="sliding-popup-bottom" style="height: auto; width: 100%; bottom: 0px;"><div aria-labelledby="popup-text" class="eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in" aria-hidden="false">
+  <div class="popup-content info eu-cookie-compliance-content">
+        <div id="popup-text" class="eu-cookie-compliance-message" role="document">
+      <h2>We use cookies on this site to enhance your user experience</h2><p>By clicking the Accept button, you agree to us doing so.</p>
+              <button type="button" class="find-more-button eu-cookie-compliance-more-button find-more-button-processed" tabindex="0">更多信息</button>
+          </div>
+
+    
+    <div id="popup-buttons" class="eu-cookie-compliance-buttons">
+            <button type="button" class="agree-button eu-cookie-compliance-secondary-button" tabindex="0">Accept</button>
+              <button type="button" class="decline-button eu-cookie-compliance-default-button" tabindex="0">No, thanks</button>
+          </div>
+  </div>
+</div></div></body></html>

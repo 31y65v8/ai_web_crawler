@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="author" content="">
+<title>宁波AI替代率最高和最低的20大职业 有人算出来了-新闻中心-中国宁波网</title>
+<meta name="keywords" content="">
+<meta name="description" content="　　今年以来，火遍全网的人工智能(AI)聊天机器人ChatGPT，令人大呼震撼。在感慨科技进步之余，不少网友还感受到一丝危机感：这年头有AI如此，要人类何用？有朝一日，自己的工作会不会被AI取代？
+
+　　这不，你关心的各职业AI替代率，有人算出来了！4月，微信公众号城市数据团列出了在招聘达到一定规模的中国职业中，AI...">
+<script src="https://hm.baidu.com/hm.js?f6f5a90167e67e974e7c7380028b0a47"></script><script>
+    function loadScript(url, callback){
+        var script = document.createElement ("script")
+        script.type = "text/javascript";
+        if (script.readyState){ //IE
+            script.onreadystatechange = function(){
+                if (script.readyState == "loaded" || script.readyState == "complete"){
+                    script.onreadystatechange = null;
+                    callback();
+                }
+            };
+        } else { //Others
+            script.onload = function(){
+                callback();
+            };
+        }
+        script.src = url;
+        document.getElementsByTagName("head")[0].appendChild(script);
+    }
+    function addSheetFile(path){
+        var fileref = document.createElement("link")
+        fileref.rel = "stylesheet";
+        fileref.type = "text/css";
+        fileref.href = path;
+        fileref.media = "screen";
+        var headobj = document.getElementsByTagName('head')[0];
+        headobj.appendChild(fileref);
+    }
+    window.onload = function(){
+        var ua=navigator.userAgent.toLowerCase();
+        var bIsIphoneOs=ua.match(/iphone os/i)=="iphone os";
+        var bIsAndroid=ua.match(/android/i)=="android";
+        var bIsWM=ua.match(/windows mobile/i)=="windows mobile";
+        if(bIsIphoneOs||bIsAndroid||bIsWM){
+            addSheetFile('http://news.cnnb.com.cn/packages/2015/css/mobile/article.css');
+            addSheetFile('http://news.cnnb.com.cn/packages/2015/css/MPreview.mobile.css');
+            loadScript("http://news.cnnb.com.cn/packages/2015/js/jquery-2.1.4.min.js",function(){
+            loadScript("http://news.cnnb.com.cn/packages/2015/js/MPreview.mobile.min.js",function(){
+                    $('#pc,embed').remove();
+                    $('#mobile').css('display', 'block');
+                    $('a').each(function(index, el) {
+                        $(this).attr('target', '_self');
+                    });
+                    var w = $(document).width() * 0.9;
+                    var h = w * 2 / 3;
+                    if(typeof(video) != "undefined"){
+                        CKobject.embed('http://flash.cnnb.com.cn:8080/ckplayer6.7/ckplayer/ckplayer.swf','a1','ckplayer_a1',w,h,true,flashvars,video,params);
+                    }
+                    $(window).bind('orientationchange',function(e){
+                        window.location.reload();
+                    });
+                    // var data = [];
+                    var title  = '宁波AI替代率最高和最低的20大职业 有人算出来了';
+                    var direction = 'left';
+                    var wrap = document.querySelector('#overlay');
+                    var elem = document.querySelectorAll('.contentArea img');
+                    $('.contentArea img').each(function(index, el) {
+                        $(this).removeAttr('style');
+                        $(this).removeAttr('height');
+                        // data.push($(this).attr('src'));
+                    });
+                    $("a").on('touch',function(e){
+                        var href = $(this).attr("href");
+                        var classname = $(this).attr("class");
+                        // alert(classname);
+                        if(classname == "gototop"){
+                            $('body,html').animate({scrollTop:0},1000);
+                        }else{
+                            window.location.href = href;
+                        }
+                    })
+                    for(var i = 0,len = elem.length;i < len;i++){
+                        elem[i].addEventListener('touch', function(e) {
+                            // e.preventDefault();
+                            wrap.className = wrap.className + ' in';
+                            var item = [];
+                            item.push(this.src);
+                            setTimeout(function() {
+                                MPreview({
+                                    data: item,
+                                    title: title,
+                                    direction: direction,
+                                    wrap: '#overlay',
+                                    init: function() {
+                                        // window.console && console.log('MPreview.mobile init');
+                                    },
+                                    close: function() {
+                                        wrap.className = wrap.className.replace(' in', '');
+                                    }
+                                });
+                            }, 400);
+                        });
+                    };
+                });
+            });
+        }else{
+            addSheetFile('http://news.cnnb.com.cn/packages/2020/css/moban.css');
+            loadScript("http://news.cnnb.com.cn/packages/2015/js/jquery-1.11.3.min.js",function(){
+                    $('#mobile').remove();
+                    $('#pc').css('display', 'block');
+                    $('a').each(function(index, el) {
+                        $(this).attr('target', '_blank');
+                    });
+                    $('#news_more_page_div_id a').each(function(index, el) {
+                        $(this).attr('target', '_self');
+                    });
+                    $('#Zoom img').each(function(index, el) {
+                        $(this).removeAttr('style');
+                        $(this).removeAttr('height');
+                    });
+            });
+        }
+    }
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f6f5a90167e67e974e7c7380028b0a47";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<link rel="stylesheet" type="text/css" href="http://news.cnnb.com.cn/packages/2020/css/moban.css" media="screen"><script type="text/javascript" src="http://news.cnnb.com.cn/packages/2015/js/jquery-1.11.3.min.js"></script></head>
+<body>
+<style>
+    #pc,#mobile{display: none;}
+	#Zoom img{ margin:5px 0;}
+</style>
+<div id="pc" style="display: block;">
+    <div id="topMenu">
+        
+        <ul class="mainNav menu1">
+            <li><a href="http://www.cnnb.com.cn/" target="_blank">首页</a></li>
+            <li class="dropdown">
+                <a href="http://news.cnnb.com.cn/" rel="dropmenu1" target="_blank">新闻</a>
+                <ul>
+<li class="dropNav"><a href="http://news.cnnb.com.cn/toutiao/" target="_blank">头条</a></li>
+<li class="dropNav"><a href="http://news.cnnb.com.cn/jctp/" target="_blank">精彩图片</a></li>
+<li class="dropNav"><a href="http://news.cnnb.com.cn/gnyw/gnsz/" target="_blank">国内政经</a></li>
+<li class="dropNav"><a href="http://news.cnnb.com.cn/gnyw/rdjj/" target="_blank">热点聚焦</a></li>
+<li class="dropNav"><a href="http://news.cnnb.com.cn/gjyw/" target="_blank">国际</a></li>
+<li class="dropNav"><a href="http://news.cnnb.com.cn/shxw/" target="_blank">社会</a></li>
+<li class="dropNav"><a href="http://news.cnnb.com.cn/ylxw/" target="_blank">文娱</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://nbnews.cnnb.com.cn/" rel="dropmenu1" target="_blank">宁波</a>
+                <ul>
+                <li class="dropNav"><a href="http://nbnews.cnnb.com.cn/sz/" target="_blank">时政·经济</a></li>
+                <li class="dropNav"><a href="http://nbnews.cnnb.com.cn/cj/" target="_blank">民生·城事</a></li>
+                <li class="dropNav"><a href="http://nbnews.cnnb.com.cn/sh/" target="_blank">突发·现场</a></li>
+                <li class="dropNav"><a href="hhttp://nbnews.cnnb.com.cn/kjw/" target="_blank">科技·教育</a></li>
+                <li class="dropNav"><a href="http://nbnews.cnnb.com.cn/wt/" target="_blank">文化·体育</a></li>
+                </ul>
+            </li>
+            <li class="dropdown edt">
+                <a href="http://nb8185.cnnb.com.cn/" rel="dropmenu1" target="_blank">e点通</a>
+                <ul>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=1176&amp;filter=sortid&amp;sortid=23&amp;orderby=lastpost" target="_blank">书记留言箱</a></li>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=1176&amp;filter=sortid&amp;sortid=24&amp;orderby=lastpost" target="_blank">市长留言箱</a></li>
+                <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/plus/list.php?tid=1401" target="_blank">部门回复精  选</a></li>
+                <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/html/1756/" target="_blank">市民文明巡访</a></li>
+                <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/plus/list.php?tid=1398" target="_blank">小e追踪调查</a></li>
+                <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/html/292/797/1025/1398/1485/" target="_blank">e眼关注（视频）</a></li>
+                <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/html/292/27/1284/" target="_blank">林萍微心愿工作室</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="http://bbs.cnnb.com.cn/" rel="dropmenu1" target="_blank">论坛</a>
+                <ul>               
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=2" target="_blank">民声热点</a></li>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=1176" target="_blank">我要问政</a></li>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=57" target="_blank">风云楼市</a></li>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=3" target="_blank">公共交通</a></li>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=1036" target="_blank">人在旅途</a></li>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=17" target="_blank">摄影天地</a></li>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=61" target="_blank">情感驿站</a></li>
+                <li class="dropNav"><a href="https://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&amp;fid=365" target="_blank">三江闲话</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" rel="dropmenu1" target="_blank">行业</a>
+                <ul>
+                <li class="dropNav"><a href="http://yy.cnnb.com.cn/" target="_blank">云涌创业</a></li>
+                <li class="dropNav"><a href="http://jingj.cnnb.com.cn/" target="_blank">经济</a></li>
+                <li class="dropNav"><a href="http://hd.cnnb.com.cn/" target="_blank">活动</a></li>
+                <li class="dropNav"><a href="https://www.nbrc.com.cn/" target="_blank">求职</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" rel="dropmenu1" target="_blank">视频</a>
+                <ul>
+                <li class="dropNav"><a href="http://v.cnnb.com.cn/" target="_blank">在线视听</a></li>
+                <li class="dropNav"><a href="http://ggg.cnnb.com.cn/" target="_blank">三哥演义</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul class="subNav">
+            <li><a href="http://www.cnnb.com.cn/search/index.html" target="_blank">搜索</a></li>
+            <li style="color: #dddddd;">|</li>
+            <li><a href="http://mail.cnnb.com.cn/" target="_blank">邮箱</a></li>
+            <li style="color: #dddddd;">|</li>
+            <li id="sc"><a href="" target="_blank">收藏</a></li>
+        </ul>
+    </div>
+    <div class="nextmenu">
+    	<img src="http://news.cnnb.com.cn/packages/2015/images/1_2.jpg">
+    	<p class="p1">新闻</p>
+    	<p class="p2">报料热线：81850000</p>
+    </div>
+    <div style="width: 1170px; margin: 0 auto;">
+    <div class="mainArea">
+       
+        <div class="titleArea">
+            <div class="leftPart">
+                <div class="position"><span>
+
+您当前的位置 ： <a href="http://www.cnnb.com.cn/index.shtml" target="_blank">中国宁波网</a> &nbsp;&gt;&nbsp; <a href="http://news.cnnb.com.cn/index.shtml" target="_blank">新闻中心</a> &nbsp;&gt;&nbsp; <a href="http://nbnews.cnnb.com.cn/index.shtml" target="_blank">宁波</a> &nbsp;&gt;&nbsp; <a href="http://nbnews.cnnb.com.cn/sz/index.shtml" target="_blank">时政·经济</a>
+</span></div>
+                <div style="width:790px; height:2px; background-color:#468dcc;float:left;"></div>
+            </div>    
+                <div class="heading" style="padding: 28px 0 10px;">宁波AI替代率最高和最低的20大职业 有人算出来了</div>
+                <div class="subhead" style="height: 22px;float: left;font-size: 20px;line-height: 22px;padding-bottom: 28px;color:#666666;"></div>
+                <div class="source">
+                <span class="left"> 2023-04-25 06:43:00</span>
+                <span class="left">稿源： 
+
+<a href="http://daily.cnnb.com.cn/nbwb/html/2023-04/25/content_1359211.htm?div=-1" target="_blank">中国宁波网</a>
+　</span>
+                <div class="tool">
+                    <div class="fontSize">
+                        <a onclick="doZoom(20)" target="_blank"><img src="http://news.cnnb.com.cn/packages/2015/images/1_14.jpg"></a>
+                        <a onclick="doZoom(18)" target="_blank"><img src="http://news.cnnb.com.cn/packages/2015/images/1_15.jpg"></a>
+                        <a onclick="doZoom(16)" target="_blank"><img src="http://news.cnnb.com.cn/packages/2015/images/1_16.png"></a>
+                    </div>
+                    <script type="text/javascript">
+                        function doZoom(size) {
+                            var zoom = document.all ? document.all['Zoom'] : document.getElementById('Zoom');
+                            zoom.style.fontSize = size + 'px';
+                        }
+						sc.onclick = function(){
+							alert("请使用组合快捷键'Ctrl+D'添加");
+						}
+                    </script>
+                </div>
+                </div>
+        </div>
+        <div class="contentArea">
+            <div class="leftPart">
+                
+                <div class="article">
+                    <center id="topic">
+
+
+</center>
+                    <div id="Zoom"><p>　　今年以来，火遍全网的人工智能(AI)聊天机器人——ChatGPT，令人大呼震撼。在感慨科技进步之余，不少网友还感受到一丝危机感：“这年头有AI如此，要人类何用？”“有朝一日，自己的工作会不会被AI取代？”</p>
+
+<p>　　这不，你关心的各职业AI替代率，有人算出来了！4月，微信公众号“城市数据团”列出了在招聘达到一定规模的中国职业中，AI替代率最高和最低的25个职业，结果颠覆了人们的固有认知。</p>
+
+<p>　　<strong>“用魔法来审判魔法”</strong></p>
+
+<p>　　此次发布AI替代率的“城市数据团”，背后是上海脉策数据科技有限公司。该公司官网显示，公司于2016年完成A轮融资，并在2018年入选杭州城市大脑专班，打造完成杭州旅游大脑，在国内大数据领域广为人知。</p>
+
+<p>　　至于各职业的AI替代率，到底是怎么算出来的？“城市数据团”发文指出，它采用市场上真实招聘数据，将每份职业拆解为多项具体任务和工作内容，再让GPT逐一标注每项工作内容被AI替代的可能性，堪称“用魔法来审判魔法”——</p>
+
+<p>　　比如“人力资源部员工”，这一岗位包含“新员工招聘”“员工入职手续办理”“安排及开展新员工入职培训”等职能，可拆解出“撰写和准备培训资料”“安排时间表”等数十条具体工作内容，再由GPT挨个“打分”，得出的结论更有意义。</p>
+
+<p>　　按照这一框架，“城市数据团”不仅给出了全国职业的AI替代率排名，还提供精确到各个城市的版本。在宁波，AI替代率最高和最低的20大职业，与全国大同小异——</p>
+
+<p>　　翻译、保险核保人员、统计调查员、视觉传达设计人员、装饰美工、美术编辑、广告设计师、银行综合柜员、文学作家、风险管理师、前厅服务员的AI替代率均在80%以上。别说媒体行业的文字记者和编辑，连程序员都榜上有名。</p>
+
+<p>　　再来看宁波AI替代率最低的20大职业。模具设计工程及技术人员、安全员、缝纫工、保洁员、装饰装修工、模具工……不少“蓝领”工种的AI替代率均不足16%。当然，活跃于都市生活的家政服务员、美甲师、面点师也很难被替代。</p>
+
+<div align="center"><img border="0" src="http://www.cnnb.com.cn/pic/003/008/956/00300895696_c16f4469.jpg" width="550"></div>
+
+<p>　　<strong>AI能全面替代脑力劳动吗？</strong></p>
+
+<p>　　这份AI替代率数据，和人们的认知大相径庭。过去的三次工业革命，都是通过机械化和自动化，取代重复而繁杂的流水线“蓝领”工作；而GPT的诞生，意味着人工智能将介入人类引以为豪的脑力劳动，给“白领”和中产带来冲击。</p>
+
+<p>　　国研软件新经济研究院主任李栋认为，GPT是一款基于计算机平台的大型语言模型，所以操作平台以计算机为主的职业，更容易被GPT等AI取代，“在计算机上留有的‘痕迹’越多，AI越容易学，‘进化’效率就越快。”</p>
+
+<p>　　“比如备受关注的AI绘画、AI写作，正是通过计算机学习人类的海量作品，再进行创作。相比之下，保洁员、模具工、装修工等领域，尚未出现像计算机一样高效的自动化设备，因此AI替代率暂时保持较低水准。”李栋分析道。</p>
+
+<p>　　有分析指出，人工智能掀起的技术革命，让人类从UGC(用户生产内容)时代进入AIGC(人工智能生产内容)时代。《AIGC智能创作时代》一书指出，虽然存在AI替代人类的担忧，但人类的创造物最终会帮助人类自身发展，如代替创作中的重复环节，提升创作效率；将创意与创作分离，拓展创作边界，让内容创作者从人工智能的生成作品中寻找灵感和思路。换言之，与其害怕被AI“抢饭碗”，不妨将AI视为生产力工具，考虑如何让它“为我所用”。</p>
+
+<p>　　最近，宁波边缘物联有限公司总经理郑元杰一直在琢磨着驾驭AI工具。他用ChatGPT编程制作了一个打地鼠的小游戏，而他的IT同事们则用ChatGPT编写协议调试工具的代码。当被问及如何看待“程序员AI替代率达75%”时，他脱口而出：“那些用AI编程的人，也得看得懂AI写的代码，才能辅助工作！GPT等AI能提供解题思路，目前还无法全面替代人类。未来的程序员、设计师、文字工作者必须培养运用AI工具解决问题的能力，提升就业竞争力。”</p>
+
+<p>　　从记者的亲身体验看，尽管“文字记者”荣登AI替代率20强，但目前还无法把稿件都丢给AI写——ChatGPT引用案例的真实性存疑，难保不会犯下“曹雪芹撰写《水浒传》”这样的差错；AI并不掌握记者采访获得的第一手资料……不过，用AI来选标题、列提纲，倒是表现不错。</p>
+
+<div align="center"><img border="0" src="http://www.cnnb.com.cn/pic/003/008/956/00300895697_7e0ffff8.jpg" width="530"></div>
+
+<p>　　<strong>网友评论：</strong></p>
+
+<p>　　我要青春不要痘：人工智能代替人类部分的工作是必然的，我们既要适应这个趋势，也要有危机意识。尤其是从事简单重复工作者的岗位更是会被机器人首先取代。人们现在就要未雨绸缪，不断提高充实自己，在未来职场竞争中占得先机。我倒是很希望机器人早日走入家庭，帮我做家务，让我们有更多时间去享受生活。</p>
+
+<p>　　丫头茅舍：人工智能对人的创新和想象能力提出了新的挑战，一些程序性和机械性工作会被取代。最近的ChatGPT让写作者很恐慌，认为以后写作只要交给机器就好了，但我认为，其实是对写作的内容有了更高要求，比如不能只是材料的堆砌。</p>
+
+<p>　　路人甲：短期来看，ChatGPT及其代表的人工智能技术将会在劳动力市场发挥越来越大的作用，带来更多便捷的技术和服务，但会有一个技术成熟和推广的过程，不会突然带来颠覆性影响，更不可能替代人类。但长期来看，随着人工智能技术大飞跃在未来发生，是会带来人的普遍自由和解放，还是普遍失业和弃民，抑或出现最坏的一幕——人工智能统治世界，在很大程度上取决于人类能否探索出一套让人工智能有益发展、造福于民的办法。</p>
+
+<p>　　iamRose：AI最可怕的一点不在于它目前可以做到什么，而在于它的迭代速度远远超过人的学习速度。而且创造、维护它的，都是全球最聪明最顶尖的科研人员，光是这点，绝大多数人都已经难以望项其背啦。</p>
+
+<p>　　甬上用户321qts：我不但心，毕竟人工智能也是人制造出来的。随着人工智能飞速发展，有些职业确实由人工智能代表，像医院里的达芬奇机器人，一些精细高难度手术由机器人来操作。不过达芬奇再先进，操控者也是人。所以我完全不担心职业被人工智能代替，人工智能反而促进了职业更优化更先进更合理。</p>
+
+<p>　　宁波晚报记者 严瑾</p>
+ 
+
+
+
+</div>
+                    <p class="right"><b>编辑：</b> 陈捷<span class="right" style="color:rgb(110,110,110);font-size:14px;padding-left: 30px;">纠错：<a href="mailto:171964650@qq.com" target="_blank" style="text-decoration: underline;padding-right:5px;">171964650@qq.com</a></span></p>
+                    <p class="clearfix"></p>
+                </div>
+<div>
+<!--<a href="http://www.lulong.cn" target="_blank"><img src="http://www.cnnb.com.cn/pic/0/04/16/04/4160461_914457.gif" width="650" height="40"></a>-->
+</div>
+
+                
+                <div class="picnewsArea">
+                    <ul>
+
+
+<li><a href="http://news.cnnb.com.cn/system/2023/06/30/030500270.shtml" target="_blank" title="与张人亚&quot;同行&quot; 打卡沉浸式互动党课《小镇密码》"><img src="http://www.cnnb.com.cn/pic/003/009/164/00300916422_d842ec43.jpg" alt="与张人亚&quot;同行&quot; 打卡沉浸式互动党课《小镇密码》"><p>与张人亚"同行" 打卡沉浸式互动党课《小镇密码》</p></a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/30/030500174.shtml" target="_blank" title="亚帆灯塔亮灯"><img src="http://www.cnnb.com.cn/pic/003/009/163/00300916349_32ce4d9f.jpg" alt="亚帆灯塔亮灯"><p>亚帆灯塔亮灯</p></a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/29/030500152.shtml" target="_blank" title="&quot;中国历代绘画大系&quot;展7月1日亮相甬城 记者为你提前探营"><img src="http://www.cnnb.com.cn/pic/003/009/163/00300916334_f79a631b.jpg" alt="&quot;中国历代绘画大系&quot;展7月1日亮相甬城 记者为你提前探营"><p>"中国历代绘画大系"展7月1日亮相甬城 记者为你提前探营</p></a></li>
+                    </ul>
+                </div>
+                <div class="picline">
+                	<ul>
+
+
+<li><a href="http://news.cnnb.com.cn/system/2023/06/27/030499151.shtml" target="_blank" title="男子调座椅遭后排老人狂踹 12306：可向列车员求助"><img src="http://www.cnnb.com.cn/pic/003/009/155/00300915551_33a2d534.jpg" alt="男子调座椅遭后排老人狂踹 12306：可向列车员求助"><p>男子调座椅遭后排老人狂踹 12306：可向列车员求助 <img src="http://www.cnnb.com.cn/home/images/09/xtb01.png" border="0"></p></a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/26/030498979.shtml" target="_blank" title="高校领导被实名举报 市纪委监委已介入"><img src="http://www.cnnb.com.cn/pic/003/009/153/00300915377_i1000200000135be_b5c5c513.jpg" alt="高校领导被实名举报 市纪委监委已介入"><p>高校领导被实名举报 市纪委监委已介入<img src="http://www.cnnb.com.cn/home/images/09/xtb01.png" border="0"></p></a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/27/030499410.shtml" target="_blank" title="钟南山与学生合照意外被亲：感受到广医同学的热爱"><img src="http://www.cnnb.com.cn/pic/003/009/157/00300915716_i1000200000135be_bce89780.png" alt="钟南山与学生合照意外被亲：感受到广医同学的热爱"><p>钟南山与学生合照意外被亲：感受到广医同学的热爱<img src="http://www.cnnb.com.cn/home/images/09/xtb01.png" border="0"></p></a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/26/030498761.shtml" target="_blank" title="浅水湾影视文化产业园开园！宁波又添一处影视新地标"><img src="http://www.cnnb.com.cn/pic/003/009/151/00300915141_i1000200000135be_27f1e080.jpg" alt="浅水湾影视文化产业园开园！宁波又添一处影视新地标"><p>浅水湾影视文化产业园开园！宁波又添一处影视新地标<img src="http://www.cnnb.com.cn/home/images/09/xtb01.png" border="0"></p></a></li>
+                    </ul>
+                </div>
+                <div class="quickLink">
+                    <div class="link"><a href="http://www.cnnb.com.cn/" target="_blank">中国宁波网首页</a></div>
+                    <div class="link"><a href="http://news.cnnb.com.cn/" target="_blank">新闻中心首页</a></div>
+                </div>
+            </div>
+        </div>
+         
+	</div>
+	<div class="rightPart">
+                <style media="screen">
+                    .ovh{overflow: hidden;}
+                    li.withPic {height: 72px;margin: 20px 0;}
+                    li.withPic img {float: left;margin-right: 10px;width: 90pt;height: 72px;}
+                    li.withPic .content {float: left;width: 175px;}
+                    p.date {font-family: "Arial";padding-top: 5px;font-size: 12px;color: #999;}
+                    ul.items li {height: 30px;overflow: hidden;}
+                    ul.items li a {font-size: 14px;color: rgb(57, 57, 57);line-height: 1.5em;white-space: nowrap;font-family: 'MicroSoft YaHei',"微软雅黑";}
+                </style>
+                <div class="rightPart">
+                    <div class="section-01 ovh">
+                        <div class="module" style="border-bottom: 2px #468dcc solid;"><span class="orangle">24小时</span>新闻点击榜</div>
+						<style>
+							li.withPic .content{
+								white-space: pre-line;
+								line-height: 20px;
+							}
+						</style>
+                        <ul>
+<li class="withPic">
+<a href="http://news.cnnb.com.cn/system/2023/06/29/030500011.shtml" target="_blank" title="64岁的麦当娜因细菌感染住进ICU抢救 入院前一天还在漂发"><img src="http://www.cnnb.com.cn/pic/003/009/161/00300916121_i1000200000135be_4cfb81ad.jpg" alt="64岁的麦当娜因细菌感染住进ICU抢救 入院前一天还在漂发"></a>
+<div class="content">
+<p class="title"><a href="http://news.cnnb.com.cn/system/2023/06/29/030500011.shtml" target="_blank" title="64岁的麦当娜因细菌感染住进ICU抢救 入院前一天还在漂发">64岁的麦当娜因细菌感染住进ICU抢救 入院前一天还在漂发</a></p>
+<!--<p class='date'>2023-06-29 13:37</p>-->
+</div>
+</li>
+<li class="withPic">
+<a href="http://news.cnnb.com.cn/system/2023/06/29/030499988.shtml" target="_blank" title="2023年宁波市奉化区普通高中录取分数线公布"><img src="http://www.cnnb.com.cn/pic/003/009/161/00300916117_aafc173f.jpg" alt="2023年宁波市奉化区普通高中录取分数线公布"></a>
+<div class="content">
+<p class="title"><a href="http://news.cnnb.com.cn/system/2023/06/29/030499988.shtml" target="_blank" title="2023年宁波市奉化区普通高中录取分数线公布">2023年宁波市奉化区普通高中录取分数线公布</a></p>
+<!--<p class='date'>2023-06-29 12:35</p>-->
+</div>
+</li>
+<li class="withPic">
+<a href="http://news.cnnb.com.cn/system/2023/06/29/030499889.shtml" target="_blank" title="高温来了 请做好打“打持久战”的准备"><img src="http://www.cnnb.com.cn/pic/003/008/675/00300867564_i1000200000135be_bac70c4e.jpg" alt="高温来了 请做好打“打持久战”的准备"></a>
+<div class="content">
+<p class="title"><a href="http://news.cnnb.com.cn/system/2023/06/29/030499889.shtml" target="_blank" title="高温来了 请做好打“打持久战”的准备">高温来了 请做好打“打持久战”的准备</a></p>
+<!--<p class='date'>2023-06-29 09:27</p>-->
+</div>
+</li>                        </ul>
+                        <ul>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/29/030499880.shtml" target="_blank" title="瓦格纳去了白俄罗斯 更戏剧性的一幕发生了">瓦格纳去了白俄罗斯 更戏剧性的一幕发生了</a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/29/030499986.shtml" target="_blank" title="“男子驾车碾死妻子”双方均系二婚 案发前1小时曾激烈争吵">“男子驾车碾死妻子”双方均系二婚 案发前1...</a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/29/030500029.shtml" target="_blank" title="宁波新一批5宗市区宅地挂牌 包括庆丰滨江地块、&quot;鸟巢&quot;旁地块">宁波新一批5宗市区宅地挂牌 包括庆丰滨江地...</a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/29/030499979.shtml" target="_blank" title="空腹吃了大量新鲜荔枝 宁波一名5岁女童突发昏迷">空腹吃了大量新鲜荔枝 宁波一名5岁女童突发昏迷</a></li>
+<li><a href="http://news.cnnb.com.cn/system/2023/06/29/030500078.shtml" target="_blank" title="多所高校停用微信支付 微信道歉了">多所高校停用微信支付 微信道歉了</a></li>                        </ul>
+                    </div>
+                    <div class="phoneewm">
+                    	<h2>
+                    		扫一扫，中国宁波网装进手机
+                    	</h2>
+                    	<div class="bottle">
+                    		<div class="bo-le">
+                    		<img src="http://news.cnnb.com.cn/packages/2020/img/nbwewm.gif">
+                    		<p>中国宁波网手机版</p>
+                    		</div>
+                    		<div class="bo-ri">
+                    			<img src="http://news.cnnb.com.cn/packages/2020/img/wxgzh.gif">
+                    			<p>微信公众号</p>
+                    		</div>
+                    	</div>
+                    </div>
+                    <div class="section-01 ovh" style="padding-top: 27px;">
+                        <div class="module"><a href="http://nbnews.cnnb.com.cn/" target="_blank"><span class="orangle">本地</span>看点</a></div>
+                        <ul>
+<li>
+<a href="http://news.cnnb.com.cn/system/2023/06/29/030500080.shtml" target="_blank">宁波新能源车消费市场又燃起一把"火"</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2023/06/29/030500029.shtml" target="_blank">宁波新一批5宗市区宅地挂牌 包括这些地块</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2023/06/29/030500025.shtml" target="_blank"><img border="0" src="http://www.cnnb.com.cn/home/images/09/xtb01.png">海曙这所学校将于9月投用 设计规模为72班</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2023/06/30/030500169.shtml" target="_blank">鄞县大桥人行步道"断头" 谁来打通？</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2023/06/29/030500103.shtml" target="_blank">九龙大道快速路一期工程启动建设 2026年建成</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2023/06/29/030500035.shtml" target="_blank">6月30日、7月2日2天 地铁延长运营、加开班次</a>
+</li>                        </ul>
+                    </div>
+                    <div class="section-01" style="padding-top: 17px;">
+                    	<div class="headl"><a href="http://opinion.cnnb.com.cn/mzlt/" target="_blank">明州论坛</a>/<a href="http://opinion.cnnb.com.cn/yccb/" target="_blank">甬城晨笔</a></div>
+                    	<ul style="border-bottom: dashed 1px #d8d8d8; padding-bottom: 10px;">
+
+
+<li><a href="http://opinion.cnnb.com.cn/system/2023/06/30/030500249.shtml" target="_blank" title="调查研究要慎防“走调”">调查研究要慎防“走调”</a></li>
+<li><a href="http://opinion.cnnb.com.cn/system/2023/06/28/030499540.shtml" target="_blank" title="“两只猪蹄”揭示了体育本质">“两只猪蹄”揭示了体育本质</a></li>
+<li><a href="http://opinion.cnnb.com.cn/system/2023/06/21/030497357.shtml" target="_blank" title="付出要纯粹，得到要心安">付出要纯粹，得到要心安</a></li>
+<li><a href="http://opinion.cnnb.com.cn/system/2023/06/01/030490967.shtml" target="_blank" title="以优化服务推动主题教育走深走实">以优化服务推动主题教育走深走实</a></li>
+                        </ul>
+                        <ul>
+
+
+<li><a href="http://opinion.cnnb.com.cn/system/2023/06/26/030498720.shtml" target="_blank" title="让科技放大爱心与慈善">让科技放大爱心与慈善</a></li>
+<li><a href="http://opinion.cnnb.com.cn/system/2023/06/25/030498377.shtml" target="_blank" title="村里建技能实践基地一举多得">村里建技能实践基地一举多得</a></li>
+<li><a href="http://opinion.cnnb.com.cn/system/2023/06/21/030497368.shtml" target="_blank" title="推广龙舟运动应有所作为">推广龙舟运动应有所作为</a></li>
+<li><a href="http://opinion.cnnb.com.cn/system/2023/06/19/030496762.shtml" target="_blank" title="有一种“借”是贪腐的遮羞布">有一种“借”是贪腐的遮羞布</a></li>
+                        </ul>
+                    </div>
+                    <ul class="mhj">
+                       <li style="float: left;">
+
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/21/030497363.shtml" target="_blank" title="变味的粽子"><img src="http://www.cnnb.com.cn/pic/003/009/139/00300913932_96b12f61.jpg" alt="变味的粽子"><p>变味的粽子</p></a>
+</li>
+                        <li style="float: right;">
+
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/15/030495427.shtml" target="_blank" title="一叶障目"><img src="http://www.cnnb.com.cn/pic/003/009/113/00300911392_c0171e4d.jpg" alt="一叶障目"><p>一叶障目</p></a>
+</li>
+                    </ul>
+                    <div class="section-01" style="display: none;">
+                    	<div class="headl"><a href="http://www.cnnb.com.cn/ll/cz/" target="_blank">茶座</a>/<a href="http://www.cnnb.com.cn/ll/ll/gdjc/" target="_blank">文摘</a></div>
+                    	<ul style="border-bottom: dashed 1px #d8d8d8; padding-bottom: 10px;">
+<li>
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/27/030499105.shtml" target="_blank">投身革命即为家</a>
+</li>
+<li>
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/16/030496021.shtml" target="_blank">一句话把人讲笑，一句话把人讲跳</a>
+</li>
+<li>
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/15/030495424.shtml" target="_blank">王安石的体察民情之道</a>
+</li>
+<li>
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/02/030491335.shtml" target="_blank">“甬”字或暗藏春秋战国宁波青铜冶炼地线索</a>
+</li>                        </ul>
+                        <ul>
+<li>
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/20/030497059.shtml" target="_blank">影视作品不能“为热搜造剧”</a>
+</li>
+<li>
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/20/030497054.shtml" target="_blank">孟国栋：李杜并称与李杜优劣论的根源</a>
+</li>
+<li>
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/25/030498422.shtml" target="_blank">张春枝：文化内涵是传统节日的灵魂</a>
+</li>
+<li>
+<a href="http://www.cnnb.com.cn/ll/system/2023/06/20/030497113.shtml" target="_blank">悦琪（辑）：走向“物感城市+人感城市”</a>
+</li>                        </ul>
+                    </div>
+                    
+                </div>
+            </div>
+    <div class="foot">
+	   <p>中国宁波网（宁波甬派传媒股份有限公司）版权所有(C)</p>
+	   <p>Copyright(C) 2001-2023 cnnb.com.cn  All Rights Reserved</p>
+	   <p>互联网新闻信息服务许可证：3312017004      信息网络传播视听节目许可证：1104076</p>
+	   <p>违法和不良信息举报电话：0574-81850000　举报邮箱：nb81850@qq.com</p>
+</div>
+	</div>
+</div>
+
+
+
+<!--ecms sync check [sync_thread_id="3bcee7cc5a424330844ab778a62d31c1" sync_date="2023-06-30 12:06:18" check_sum="3bcee7cc5a424330844ab778a62d31c1]--></body></html>

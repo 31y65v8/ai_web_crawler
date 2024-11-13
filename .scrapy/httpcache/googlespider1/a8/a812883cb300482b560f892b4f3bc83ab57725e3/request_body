@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "acw_tc=0bdd26d217315043370745606ee7d8e57a2ae6414c56d67da782823db4451f; advanced-stcn_web=ps9hf155mi2ke9dv6ocm7p1575",
+        "Referer": "http://www.stcn.com/article/detail/1409772.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "http://www.stcn.com/article/detail/1409772.html",
+    "wait": 6
+}

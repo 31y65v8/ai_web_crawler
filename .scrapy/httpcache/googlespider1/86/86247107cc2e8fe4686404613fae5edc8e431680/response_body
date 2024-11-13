@@ -1,0 +1,180 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no"/>
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<title>五种不同类型的人工智能 - C114通信网</title>
+<link rel="shortcut icon" type="image/x-icon" href="//m.c114.com.cn/favicon.ico"/>
+<link rel="stylesheet" href="css/2014/comment.css?v1.2" />
+<link rel="stylesheet" href="css/2014/read.css?v1.7" />
+<script type="text/javascript" src="//www.c114.com.cn/js/jquery-1.11.0.min.js"></script>
+<script src="js/comment.js"></script>
+<script src="//www.c114.com.cn/digg/query.asp?id=1237940"></script>
+<script src="js/read-v1.js?v1.01"></script>
+<link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.21/skins/default/aliplayer-min.css" />
+<script charset="utf-8" type="text/javascript" src="https://g.alicdn.com/de/prismplayer/2.9.21/aliplayer-h5-min.js"></script>
+<script>
+//pc 跳转
+if(!isUa('mobile')){
+	window.location = 'https://www.c114.com.cn/ai/5339/a1237940.html';
+}
+
+var thref = 'https://m.c114.com.cn/w5339-1237940.html';  //文章地址
+var title = '五种不同类型的人工智能';  //文章标题
+//var yearTime = '2023-7-19 14:33:06';  //时间
+var yearTime = '2023';  //年
+var day = '19'
+var month = '7'; 
+var monthadd = month < 10 ? '0' + month : month;
+var monthDay = monthadd + '.' + day;
+var isVideo = 0;
+</script>
+
+</head>
+
+<body>
+<div class="tab">
+	
+	<div class="top">
+		<div class="l" id="nav">
+			<a class="link1">C114通信网</a>
+			<ul>
+				<li><a href="https://m.c114.com.cn/index.asp?c=wap">C114首页</a></li>
+				<li class="bottom"><a href="https://m.c114.com.cn/column/?id=5339">> 人工智能</a></li>
+			</ul>
+		</div>
+		<div class="r">2023-7-19 14:33</div>
+	</div>
+
+	<div class="articleNews content-player">
+		<h1>五种不同类型的人工智能</h1>
+
+		
+
+		<div class="content" id="contentText">
+			<p>近年来，人工智能重塑了企业对从数据中提取见解的看法。大多数人认为这是下一个突破性技术。据PwC称，到2030年，人工智能可能为全球经济贡献15.7万亿美元。</p>
+<p class="pictext" align="left"><strong>人工智能的类型</strong></p>
+<p>人工智能，是一种通过计算机和算法实现智能化的技术。其通过不断的学习和演化，使计算机变得越来越&ldquo;聪明&rdquo;，能够进行对话、推理、学习等复杂的操作。</p>
+<p>以下是五种不同类型的人工智能，如机器学习、深度学习、NLP、计算机视觉以及XAI。</p>
+<p><strong>1. 机器学习: </strong>人工智能包括机器学习作为一个组成部分。其被描述为扫描数据集，然后从中学习以做出有根据判断的算法。在机器学习的情况下，计算机软件通过执行各种任务并观察这些任务的性能如何随着时间的推移而提高，从经验中学习。</p>
+<p><strong>2. 深度学习: </strong>深度学习也可以被看作是机器学习的一部分。深度学习旨在通过教学生如何在概念层次中表示世界来增强能力。其演示了概念是如何与更简单的概念联系起来的，以及如何用更少的抽象表示来表示更复杂的概念。</p>
+<p><strong>3. 自然语言处理(NLP): </strong>自然语言处理(NLP)是一种人工智能，其结合了人工智能和语言学，使人类能够用自然语言与机器人进行交流。使用Google语音搜索的Google自然语言处理是是自然语言处理的一个简单例子。</p>
+<p><strong>4. 计算机视觉: </strong>计算机视觉在组织中用于改善用户体验，同时降低成本并增强安全性。计算机视觉市场正以与其能力相同的速度增长，预计到2025年将达到262亿美元。这几乎是30%的年增长率。</p>
+<p><strong>5. 可解释的人工智能(XAI): </strong>可解释的人工智能是一系列策略和方法的集合，使人类用户能够理解和信任机器学习算法的发现和输出。可解释的人工智能指的是解释人工智能模型、其预计影响和任何偏见的能力。其有助于定义模型的正确性、公平性和透明度，并导致人工智能驱动的决策。</p>
+<p><strong>人工智能的应用</strong></p>
+<p>人工智能目前在各个领域都有广泛的应用。以下列举几个主要的领域。</p>
+<p><strong>1. 医疗</strong></p>
+<p>人工智能在医疗领域可以用于疾病诊断、药物开发、个性化治疗等方面。其中，医学影像诊断是目前应用最广泛的领域之一，人工智能可以通过对大量医学影像资料的学习，精准地对疾病进行诊断和分析。同时，人工智能能够帮助医生分析患者的基因、病史、药物治疗反应等信息，为患者制定更加个性化的治疗方案。</p>
+<p><strong>2. 工业</strong></p>
+<p>人工智能在工业领域中的应用主要体现在智能制造和自动化生产方面。通过运用人工智能，可以实现机器人自动化控制，优化生产过程，提高生产效率和品质。同时，通过对工艺数据进行分析和优化，人工智能还能够为工厂和企业提供精准的决策支持。</p>
+<p><strong>3. 交通</strong></p>
+<p>人工智能在交通领域中的应用主要包括智能驾驶、交通流量优化等。智能驾驶是人工智能在交通领域中的一个重要应用，通过对驾驶环境的识别和分析，自动驾驶汽车能够根据交通规则和道路条件进行安全驾驶。</p>
+<p><strong>人工智能的发展</strong></p>
+<p>人工智能的发展近年来非常迅速，随着计算机性能和算法的不断提高，人工智能的应用场景越来越广泛。</p>
+<p><strong>在算法方面</strong>，深度学习是目前最主要的人工智能之一。其通过多层神经网络的训练学习，来提升计算机的识别和分类能力。同时，今后防卫人工智能算法和开源社区的发展也将对人工智能技术的应用和发展起到积极的促进作用。</p>
+<p><strong>在应用方面</strong>，人工智能将会在多个领域得到广泛应用，包括医疗、教育、金融等领域。当前，人工智能在生活中的应用还存在一些问题，如隐私保护、数据安全等方面还需要进一步加强。</p>
+<p>总之，随着科技的不断进步和创新，人工智能在未来将为人类带来更多的便利和改变。我们相信，人工智能在各个领域的发展将会更加突飞猛进，创造更美好的未来。</p>
+		</div>
+		<!-- <div class="playeraudio"><img src="/images/broadcast.png"><span>播报</span></div>
+		<audio controls preload class="article-audio">
+		  	<source src="" type="audio/mp3">
+		</audio> -->
+		<div class="author">
+			来源：千家网
+		</div>
+	</div>
+
+	
+	<h4 class="t2"><a>相关</a></h4>
+	<ul class="relativeNews">
+		<li><a href="https://m.c114.com.cn/w245-1277349.html">三星在人工智能热潮中落后，市值蒸发1260亿美元</a><span class="time">爱集微 <span>11/8</span></span></li><li><a href="https://m.c114.com.cn/w51-1277347.html">受人工智能需求推动，中国台湾芯片产值将创下1650亿美元纪录</a><span class="time">爱集微 <span>11/8</span></span></li><li><a href="https://m.c114.com.cn/w241-1277318.html">向新聚力 智算未来，2024年重庆人工智能与先进计算发展大会成功举办</a><span class="time">C114通信网 <span>11/7</span></span></li><li><a href="https://m.c114.com.cn/w5339-1277309.html">贝索斯、OpenAI等资本方以24亿美元估值投资机器人初创公司Physical Intelligence</a><span class="time">IT之家 问舟 <span>11/7</span></span></li><li><a href="https://m.c114.com.cn/w80-1276964.html">北京电信以DC为中心的全光算力底座精品网荣获第三届光华杯全光运力专题赛特等奖</a><span class="time">C114通信网 <span>11/4</span></span></li><li><a href="https://m.c114.com.cn/w5339-1276578.html">韩国开设国家人工智能研究中心 力争跻身全球AI G3</a><span class="time">C114通信网 颜翊 <span>10/29</span></span></li>
+	</ul>
+	
+	<div class="keyword">
+		<a href="https://www.c114.com.cn/keyword/%BC%C6%CB%E3%BB%FA">计算机</a><a href="https://www.c114.com.cn/keyword/Google">Google</a><a href="https://www.c114.com.cn/keyword/%CD%F8%C2%E7">网络</a>
+	</div>
+
+	<div id="commentLoad"></div>
+
+	<div class="foot">本评论 更新于：2024-11-13 20:45:41</div>
+
+	<div class="menu">
+		<div class="menuRoll" id="menuRoll">
+			<p class="rollTop"></p>
+			<p class="rollBack"></p>
+			<p class="rollBottom"></p>
+		</div>
+		<div class="menuMore" id="menuMore">
+			<div class="menuWX">
+				<h4>扫二维码关注C114微信</h4>
+				<p class="a1"><img src="images/weixin-c114.jpg"/></p>
+				<p class="a2">您也可以搜微信公众号：C114通信网</p>
+			</div>
+			<div class="menuNight">
+				<p class="l"><a>夜间模式</a></p>
+				<p class="r"><a id="night"></a></p>
+			</div>
+			<div class="menuSize">
+				<p class="l"><a>字体大小</a></p>
+				<div class="r" id="textSize"><p><a>小</a><a>中</a><a>大</a><a>超大</a></p></div>
+			</div>
+		</div>
+		<div class="menu1">
+			<p class="a1"><a id="dig"><span>0</span></a></p>
+			<p class="a2"><a id="bury"><span>0</span></a></p>
+			<p class="a3"><span class="chat"></span></p>
+			<p class="a4" id="more"><a></a></p>
+		</div>
+	</div>
+	<input type="hidden" name="id" value="1237940"/>
+</div>
+
+<div class="app-open">
+	<div class="app-l">
+		<img class="close" src="images/close-app.png">
+		<img class="appicon" src="images/appicon.png">
+		<div class="app-title">在C114 APP中与业内人士畅聊通信行业热点话题！</div>
+	</div>
+	<div class="app-r">
+		<div class="app-weixin">
+			
+			<wx-open-launch-app id="launch-btn" appid="wx735a0b80f71eb831" extinfo='{"messageExt": {"id":"1237940"}}'>
+			  <template>
+			  	<style>
+					.btn{border:0; outline: none; color: #fff; background: #099; padding: 3px 5px; border-radius: 20px; overflow: hidden; display: block;}
+			  	</style>
+				<button class="btn">立即打开</button>
+			  </template>
+			</wx-open-launch-app>
+		</div>
+		
+		<div id="openapp" class="openC114" onclick="openApp({'id':1237940});" style="display:none;">立即打开</div>
+	</div>
+</div>
+<!--海报-->
+<div class="dialog-wrapper-post">
+    <div class="share-post">
+        <img src="https://www.c114.com.cn/topic/images/6060/close.png" alt="" class="img-close" id="closePoster">
+        <div id="qrcode"></div>
+        <div id="h">
+            <canvas id="myCanvas"></canvas>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="/js/jquery.qrcode.min.js"></script>
+<script type="text/javascript" src="/js/wechat.js?v1.1"></script>
+<script type="text/javascript" src="/js/aliplayer.js?v1.7"></script>
+<div style="display:none">
+	<img src="//www.c114.com.cn/counter/?t=AE&e=1237940" style="display:none"/>
+	
+	<script>(function(){var bp=document.createElement('script');var curProtocol=window.location.protocol.split(':')[0];if(curProtocol==='https'){bp.src='https://zz.bdstatic.com/linksubmit/push.js'}else{bp.src='http://push.zhanzhang.baidu.com/push.js'}var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(bp,s)})();</script>
+	
+	<script type="text/javascript">
+	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcd94c924e0f27e790866975185adedb4' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+</div>
+<!--2024-11-13 20:45:41-->
+
+</body>
+</html>

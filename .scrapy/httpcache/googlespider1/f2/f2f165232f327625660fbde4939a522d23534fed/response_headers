@@ -1,0 +1,12 @@
+Server: nginx
+Date: Wed, 13 Nov 2024 12:32:05 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Frame-Options: deny
+Set-Cookie: et_token=e08b49356d9bdc6e9c356c3fc3e12b98; expires=Fri, 20-Oct-2124 12:32:05 GMT; Max-Age=3153600000; path=/; domain=ettoday.net; HttpOnly
+Set-Cookie: et_client_country=SG; expires=Thu, 14-Nov-2024 12:32:05 GMT; Max-Age=86400; path=/; domain=ettoday.net; HttpOnly
+Set-Cookie: et_client_country_set=Y; expires=Thu, 14-Nov-2024 12:32:05 GMT; Max-Age=86400; path=/; domain=ettoday.net; HttpOnly
+Set-Cookie: check_pc_mobile=pc; expires=Fri, 20-Oct-2124 12:32:05 GMT; Max-Age=3153600000; path=/; domain=ettoday.net
+Access-Control-Allow-Origin: http://www.ettoday.net
+X-Xss-Protection: 1; mode=block
+Content-Encoding: gzip

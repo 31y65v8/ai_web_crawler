@@ -1,0 +1,1228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:wb="http://open.weibo.com/wb"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="applicable-device" content="pc">
+    <title>2024年生成式AI行业技术发展现状分析 生成式AI行业技术发展总体步入发展蓬勃时期_研究报告 - 前瞻产业研究院</title>    
+    <meta name="Keywords" content="生成式AI,技术发展现状,人工智能IT支出,专利技术数量">
+    <meta name="Description" content="AIGC行业分析报告：生成式AI(GenAI)是计算机科学的一个分支，涉及无监督和半监督算法，使计算机能够使用之前创建的内容(如文本、音频、视频、图像和代码)来创建新内容，以响应简短的提示问题。当前，生成式AI行业技术发展总体步入发展蓬勃时期，技术飞速演进，生成式AI的IT支出逐年增长。行业主要上市公司：百度(BIDU.O);科大讯飞(002230);腾讯(0700.HK);阿里巴巴(BABA.N);商汤科技(0020.HK);拓尔思(300229);出门问问(2438.HK)等。">
+    <link rel="apple-touch-icon-precomposed" href="https://img1.qianzhan.com/img/apple-touch-icon.png">    
+    <link rel="stylesheet" type="text/css" href="https://img1.qianzhan.com/2017bg/css/common.css?v=2024081501">
+    <link rel="stylesheet" type="text/css" href="https://img1.qianzhan.com/2017bg/css/report2021.css?v=20220523">
+    <link rel="stylesheet" type="text/css" href="https://img1.qianzhan.com/2017bg/css/art.css?v=2024081501">
+    <script src="//hm.baidu.com/hm.js?a9b00cf154400f0153e60e8b50b2c34a"></script><script type="text/javascript" src="https://img1.qianzhan.com/scripts/jquery-1.8.2.min.2017.js?v=20170401" charset="UTF-8"></script>
+    <script type="text/javascript" src="https://img1.qianzhan.com/2017bg/js/site.js?v=20170401" charset="UTF-8"></script>
+    <!--[if lt IE 9]>
+        <script src="https://img1.qianzhan.com/2017bg/js/html5shiv.min.js"></script>
+    <![endif]-->
+    
+    <link rel="alternate" media="only screen and(max-width: 760px)" href="//xw.qianzhan.com/report/detail/300/240515-c3a2ce9d.html">
+    <script type="text/javascript">
+        if (top.location != self.location) {
+            top.location = self.location.href;
+        }
+        if (window.location.href.indexOf("?from=xw") > 0) {
+            sDialog.setCookie('computer', '1', 30, '.qianzhan.com');
+        }
+        if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+            var computer = sDialog.getCookie('computer');
+            if (computer != "1") {
+                try {
+                    if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                        window.location.href = '//xw.qianzhan.com/report/detail/300/240515-c3a2ce9d.html';
+                    }
+                } catch (e) { }
+            }
+        }
+    </script>
+        
+
+
+</head>
+<body>
+   
+<!-- 顶部  -->
+<div class="top">
+	<div class="container clearfix">
+		<div class="l top_nav">
+            <a href="//www.qianzhan.com/" target="_blank" title="前瞻网">前瞻网</a> 
+            <a href="https://f.qianzhan.com/keyan/" target="_blank">可行性研究</a>
+			<a href="https://bg.qianzhan.com/report/reportdingzhi/" target="_blank">专项市场调研</a>
+            <a href="https://f.qianzhan.com/lanpishu/" target="_blank">白皮书/蓝皮书</a>
+        </div>
+		<div class="r" id="div_logininfo">
+            <div class="top_btn"><a href="//user.qianzhan.com/account/login" rel="nofollow">请登录</a><i>|</i><a href="/user/shopCart" rel="nofollow">购物车</a><i>|</i><a href="//user.qianzhan.com/account/login" rel="nofollow">我的订单</a><i>|</i><a href="//user.qianzhan.com/account/regstep1" rel="nofollow">免费注册</a></div>
+        </div>
+	</div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $.getScript("//user.qianzhan.com/account/getuserinfo?callback=uiCallback");
+    });
+    function uiCallback(json) {
+        if (json.id > 0) {
+            $('#div_logininfo').html('<div class="top_userinfo"><a href="//user.qianzhan.com/profile/' + json.id + '.html" target="_blank">' + json.name + '，您好！</a> 　<a href="/user/shopCart" rel="nofollow">购物车</a>　<a href="//bg.qianzhan.com/user/myorders" target="_blank">我的订单</a>　<a href="//user.qianzhan.com/account/logout">退出</a></div>');
+        }
+    }
+</script>
+<div class="headers">
+	<div class="box f-cb">
+		<div class="logo"><a href="/"><img src="/images/logo.png" alt="前瞻产业研究院"></a></div>
+		<div class="tel">
+			<p>报告服务热线<i class="icon-phone"></i><b class="rope" style="font-size:20px;">400-068-7188</b></p>
+		</div>
+		<div class="menus">
+			<ul>
+				<li>
+					<a href="/">首页</a>
+				</li>
+						
+				<li>
+					<a href="https://f.qianzhan.com/aboutus/" target="_blank">风口·洞察<i class="ffi ml5 c9">I</i></a>
+					<div class="child">
+						<ul class="inblock">
+							<li class="hotclass"><a href="//www.qianzhan.com/analyst/" target="_blank">经济学人</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list/300.html" target="_blank">行业洞察</a></li>
+							<li><a href="https://bg.qianzhan.com/trends/" target="_blank">前瞻趋势</a></li>
+							<li><a href="http://baike.qianzhan.com/" target="_blank">产业百科</a></li>
+							<li><a href="https://bg.qianzhan.com/report/articlekeysmap/" target="_blank">行业全景图谱</a></li>
+						</ul>
+					</div>
+				</li>
+				<li>
+					<a href="/report/" style="color:#fffc00;">产业研究<i class="ffi ml5 c9">I</i></a>
+					<div class="child childReport" style="width: 900px; left:-200px;">
+						<ul class="f-cb">
+							<li><a href="https://bg.qianzhan.com/report/list2/3362.html" target="_blank">能源电力</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3368.html" target="_blank">节能环保</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3365.html" target="_blank">金融/保险/投资</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3371.html" target="_blank">医疗/健康/养老</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3374.html" target="_blank">互联网/信息技术</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3377.html" target="_blank">通信/电子/芯片</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3428.html" target="_blank">家用电器</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3383.html" target="_blank">智能/高端装备</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3386.html" target="_blank">机械设备</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3389.html" target="_blank">电气设备</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3392.html" target="_blank">仪器仪表</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3380.html" target="_blank">交通/物流/仓储</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3395.html" target="_blank">汽车产业</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3398.html" target="_blank">化工/新材料</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3401.html" target="_blank">钢铁有色</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3404.html" target="_blank">房产建筑</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3407.html" target="_blank">建材家居</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3410.html" target="_blank">城市规划</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3413.html" target="_blank">现代服务</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3416.html" target="_blank">旅游/酒店/餐饮</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3419.html" target="_blank">文教/体育/娱乐</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3422.html" target="_blank">包装/印刷/纸</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3425.html" target="_blank">食品/饮料/酒</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3431.html" target="_blank">纺织/服装/鞋</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3434.html" target="_blank">零售/日化/快消</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3437.html" target="_blank">农林牧渔</a></li>
+							<li><a href="https://bg.qianzhan.com/report/list2/3440.html" target="_blank">安防/公用其他</a></li>
+							<li class="f-cb" style="height: 30px;width: 100%;"></li>
+						</ul>
+						<div class="zt-childs f-cb">
+							<div class="f-cb">
+								<ul>
+									<p class="zt-name">精选专题报告</p>
+									<li><a href="https://bg.qianzhan.com/report/hotlist/" class="red" target="_blank">3000+精品报告</a></li>
+									<li><a href="https://bg.qianzhan.com/report/chanyelian/" target="_blank">产业链招商报告</a></li>   
+									<li><a href="https://bg.qianzhan.com/report/qushi/" target="_blank">技术咨询报告</a></li>    
+									<li><a href="https://bg.qianzhan.com/report/world/" class="red" target="_blank">全球产业报告</a></li>
+									<li><a href="https://bg.qianzhan.com/report/quanjing100/" target="_blank">100大行业全景</a></li>
+									<li><a href="https://bg.qianzhan.com/report/combo/" target="_blank">行业专题套餐</a></li>
+									<li><a href="https://bg.qianzhan.com/report/chanyelianjuece/" target="_blank">产业链决策套餐</a></li>
+									<li><a href="https://bg.qianzhan.com/report/free/" target="_blank">前瞻免费报告</a></li>
+									<li class="half"><a href="https://bg.qianzhan.com/report/lianglian/" class="red" target="_blank">两链（图、库、清单）报告</a></li>  
+								</ul>
+							</div>
+							<div class="f-cb" style="float: right;">
+								<ul>
+									<p class="zt-name">专项定制</p>
+									<li><a href="https://bg.qianzhan.com/report/qyppcs" class="red" target="_blank">行业地位证明<sup>HOT</sup></a></li> 
+									<li><a href="https://ipo.qianzhan.com/mutou/" target="_blank">IPO募投可研</a></li>
+									<li><a href="https://f.qianzhan.com/keyan/" class="red" target="_blank">可行性研究</a></li>
+									<li><a href="https://bg.qianzhan.com/report/ipo" target="_blank">招股说明书撰写</a></li>
+									<li><a href="https://f.qianzhan.com/lanpishu/" target="_blank">行业白/蓝皮书</a></li>
+									<li><a href="https://ipo.qianzhan.com/xifen/" target="_blank">IPO细分市场研究</a></li>
+									<li><a href="https://bg.qianzhan.com/report/reportdingzhi" target="_blank">银行授信研究</a></li>
+									<li><a href="https://bg.qianzhan.com/report/reportdingzhi" target="_blank">尽职调查研究</a></li>
+									<li><a href="https://bg.qianzhan.com/report/reportdingzhi" class="red" target="_blank">专项市场调研<sup>HOT</sup></a></li>
+									<li><a href="https://f.qianzhan.com/shenbao/" target="_blank">专精特新申报</a></li>
+									<li><a href="https://f.qianzhan.com/shenbao/" target="_blank">小巨人申报</a></li>
+									<li><a href="https://f.qianzhan.com/shenbao/" target="_blank">单项冠军申报</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="https://bg.qianzhan.com/report/qyppcs" target="_blank" style="color:#fffc00;">行业地位证明<i class="ffi ml5 c9">I</i></a>
+                    <div class="child" style="width: 180px;">
+						<ul class="inblock">
+							<li><a href="https://bg.qianzhan.com/report/qyppcs/" target="_blank">行业地位证明</a></li>
+		                    <li><a href="https://f.qianzhan.com/shenbao/" target="_blank">专精特新申报</a></li>
+							<li><a href="https://f.qianzhan.com/shenbao/" target="_blank">小巨人申报</a></li>
+							<li><a href="https://f.qianzhan.com/shenbao/" target="_blank">单项冠军申报</a></li>
+						</ul>
+					</div>
+				</li>
+				<li>
+					<a href="https://d.qianzhan.com/" target="_blank">产业大数据<i class="ffi ml5 c9">I</i></a>
+					<div class="child childReport" style="width: 390px;">						
+						<div class="zt-childs childSingle f-cb">
+							<div class="f-cb" style="width: 140px;">
+								<ul>
+									<p class="zt-name">经济数据</p>
+									<li style="text-align: center;"><a href="https://d.qianzhan.com/xdata/list/xfyyy0yyIxPyywyy2xDxfd.html" target="_blank">中国宏观</a></li>
+									<li style="text-align: center;"><a href="https://d.qianzhan.com/xdata/list/xfyyOxqx1yyWxhxapJ.html" target="_blank">省市宏观</a></li>
+									<li style="text-align: center;"><a href="https://d.qianzhan.com/xdata/list/xfyyydy8yEyhHyEx4xR.html" target="_blank">全球宏观</a></li>
+									<li style="text-align: center;"><a href="https://d.qianzhan.com/xdata/list/xfx5yyyex0xTyynHxey0.html" target="_blank">行业经济</a></li>
+									<li style="text-align: center;"><a href="https://d.qianzhan.com/xdata/list/xCxl2y0xw.html" target="_blank">进出口</a></li>
+		                            <li style="text-align: center;"><a href="javascript:;">&nbsp;</a></li>
+                                    <li style="text-align: center;"><a href="javascript:;">&nbsp;</a></li>
+								</ul>
+							</div>
+							<div class="f-cb" style="width: 210px;float: right;">
+								<ul>
+									<p class="zt-name">数据系统</p>
+									<li style="text-align: center;"><a href="https://y.qianzhan.com/" target="_blank" class="red">全国产业园库<sup>HOT</sup></a></li>
+									<li style="text-align: center;"><a href="https://stock.qianzhan.com/" target="_blank">上市大数据</a></li>
+									<li style="text-align: center;"><a href="https://www.qichamao.com/" target="_blank">企业大数据</a></li>
+									<li style="text-align: center;"><a href="https://x.qianzhan.com/" target="_blank">前瞻图表库</a></li>
+									<li style="text-align: center;"><a href="https://z.qianzhan.com/" target="_blank" class="red">智慧招商系统<sup>HOT</sup></a></li>
+									<li style="text-align: center;"><a href="https://zc.qianzhan.com/" target="_blank">政策大数据</a></li>
+									<li style="text-align: center;"><a href="https://bg.qianzhan.com/report/changyedata" target="_blank" class="red">产业决策大数据系统<sup>HOT</sup></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<a href="https://f.qianzhan.com/chanyeguihua2/" target="_blank">产业规划<i class="ffi ml5 c9">I</i></a>
+					<div class="child childReport" style="width: 310px;">
+						<ul class="f-cb">
+							<li><a href="https://f.qianzhan.com/chanyeguihua2/" class="red" target="_blank">产业规划<sup>HOT</sup></a></li>
+							<li><a href="https://f.qianzhan.com/sww/" class="red" target="_blank">十五五规划</a></li>
+							<li><a href="https://f.qianzhan.com/dkjj/" class="red" target="_blank">低空经济</a></li>
+							<li><a href="https://f.qianzhan.com/dzxx/" target="_blank">电子信息</a></li>
+							<li><a href="https://f.qianzhan.com/xnyqc/" target="_blank">新能源汽车</a></li>
+							<li><a href="https://f.qianzhan.com/swyy/" class="red" target="_blank">生物医药</a></li>
+							<li><a href="https://f.qianzhan.com/jcdl/" target="_blank">集成电路</a></li>
+							<li><a href="https://f.qianzhan.com/hyjj/" target="_blank">海洋经济</a></li>
+							<li><a href="https://f.qianzhan.com/gdzb/" target="_blank">高端装备</a></li>
+							<li><a href="https://f.qianzhan.com/rgzn/" target="_blank">人工智能</a></li>
+							<li><a href="https://f.qianzhan.com/xdwl/" target="_blank">现代物流</a></li>
+							<li><a href="https://f.qianzhan.com/xny/" target="_blank">新能源</a></li>
+							<li><a href="https://f.qianzhan.com/sp/" target="_blank">食品产业</a></li>
+							<li><a href="https://f.qianzhan.com/xdfw/" target="_blank">现代服务</a></li>
+							<li><a href="https://f.qianzhan.com/yj/" target="_blank">应急产业</a></li>
+							<li><a href="https://f.qianzhan.com/ylqx/" target="_blank">医疗器械</a></li>
+							<li><a href="https://f.qianzhan.com/xcl/" target="_blank">新材料</a></li>
+						</ul>
+					</div>						
+				</li>
+						
+				<li>
+					<a href="https://f.qianzhan.com/aboutus/" target="_blank">关于我们<i class="ffi ml5 c9">I</i></a>
+					<div class="child">
+						<ul class="inblock">
+							<li><a href="/report/guide/yanjiuyuan.html" target="_blank">关于我们</a></li>
+							<li><a href="https://f.qianzhan.com/joinus/" target="_blank">加入我们</a></li>							
+							<li><a href="https://f.qianzhan.com/aboutus/list/572.html" target="_blank">公司动态</a></li>								
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<script>
+    $(window).scroll(function () {
+        if ($(window).scrollTop() > 100) {
+            $(".headers").addClass("heads-fixed");
+        } else {
+            $(".headers").removeClass("heads-fixed");
+        }
+    });
+</script>
+<!-- 搜索 -->
+<div class="rpt-search-box clearfix">
+    <div class="rpt-sea-b">
+        <div class="rpt-box_con">
+            <h2 class="rpt-box_tit f28">决策精品报告</h2>
+            <div class="rpt-box_fm">
+                <input class="rpt-box_fm_txt" type="text" id="keyword" placeholder="请输入报告关键词，例如：低空经济" value="" onkeydown="if(event.keyCode==13) { $('#btn_dsearch').click(); }" surl="https://bg.qianzhan.com/report/search/k-{0}.html">
+                <button class="rpt-box_fm_btn" id="btn_dsearch" onclick="doSearch();">
+                    <i class="icon-search"></i>
+                </button>
+                <div class="dropdown rpt-box_fm_dropdown">
+                    <button id="rpt-box_dorpdown-btn" class="dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <em>研究报告</em> <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="rpt-box_dorpdown-btn" id="searchSels">
+                        <li><a href="#" surl="/report/search/k-{0}.html" tip="请输入报告关键词，例如：低空经济" onclick="return searchSel(this);">
+                            研究报告</a></li>
+                        <li><a href="#" surl="https://d.qianzhan.com/xdata/xsearch?q={0}" tip="请输入数据关键词，例如：广东 GDP" onclick="return searchSel(this);">经济数据</a></li>
+                        <li><a href="#" surl="https://t.qianzhan.com/search/?q={0}" tip="请输入关键词，例如：人工智能" onclick="return searchSel(this);">产业资讯</a></li>
+                        <li><a href="#" surl="https://stock.qianzhan.com/" tip="请输入股票代码/名称，例如：万科" onclick="return searchSel(this);">上市数据</a></li>
+                        <li><a href="#" surl="https://www.qichamao.com/search/qy/{0}/?o=0&amp;area=0&amp;areaN=%E5%85%A8%E5%9B%BD" tip="请输入企业关键词，例如：阿里巴巴" onclick="return searchSel(this);">企业信息</a></li>
+                    </ul>
+                </div>
+            </div>        
+            <div class="rpt-box_kw" style="text-align: left;">               
+                <a href="/report/articlekeysmap/" target="_blank" style="float:right;color: #f00;font-size:15px;">380+行业全景图谱 »</a>
+            </div>    
+        </div>
+        <script type="text/javascript">
+            function doSearch() {
+                if ($("#keyword").val().length > 0 || $("#keyword").attr("surl").indexOf('{') == -1) {
+                    var sUrl = $("#keyword").attr("surl").replace("{0}", QZSHFilter($("#keyword").val().replace("+", "＋")));
+                    if (sUrl.indexOf("https:") != -1)
+                        QZFMSubmit(sUrl, "_blank");
+                    else
+                        QZFMSubmit(sUrl);
+                }
+                else {
+                    $("#keyword").focus();
+                    sDialog.activeMsg("keyword", $("#keyword").attr("placeholder"), 'L', 0, 5000, 'fade');
+                }
+                return false;
+            }
+            function searchSel(obj) {
+                $('#keyword').attr("placeholder", $(obj).attr("tip"));
+                $('#keyword').attr("surl", $(obj).attr("surl"));
+                $('#rpt-box_dorpdown-btn').find("em").html($(obj).html());
+                return doSearch();
+            }
+        </script>
+    </div>
+</div>
+<!--<div class="text-c"><a href="/report/youhui20" target="_blank"><img src="/zhuanti/huodong/images/event.jpg"></a></div>-->
+
+
+
+    <div class="container mt-md clearfix">
+        <div class="main">
+            <!--当前位置-->
+		    <div class="location mb-lg"><i class="icon-address"></i> 当前位置： <a href="//bg.qianzhan.com/">前瞻产业研究院</a> » 
+            
+            <a href="//bg.qianzhan.com/report/list/562.html">风口·洞察</a> »
+                    
+            <a href="//bg.qianzhan.com/report/list/300.html">行业洞察</a>
+            </div>
+            
+<!--cache:False-->
+
+        <div id="div_conbody">
+            <h1 id="h_title">2024年生成式AI行业技术发展现状分析 生成式AI行业技术发展总体步入发展蓬勃时期</h1>
+            <div class="lh24 mt30 bb1e pb10">
+                <div class="r">
+                    <ul class="share share_art share_art_top ffi r clf">
+                        <li class="weibo"><a href="#" onclick="return shared2(2)">U</a></li>
+                        <li class="weixin"><a href="#" weixin="1" onclick="return showWX(this);">V</a><span class="spnShareWX"><img height="94" width="94" alt=""><i class="tag_bd"></i><i class="tag"></i></span></li>
+                        <li class="zone"><a href="#" onclick="return shared2(0);">c</a></li>                        
+                    </ul>
+                    <span class="lh24 f12 c9 r">分享到：</span>
+                </div>
+                <span class="l f15 cb mr10 lh24 blue_lighten">&nbsp;<span id="pubtime_baidu" class="f12">2024-05-15 18:24:25</span>　　<span id="source_baidu" class="f12">来源：前瞻产业研究院</span>　</span><span class="sns"><em class="view"><i class="ffi">E</i>5307</em><a class="comm" href="#comment"><i class="ffi">G</i>0</a></span>
+                <input type="hidden" id="hidtext" name="hidtext" value="">
+                <input type="hidden" id="ae_n_cateId" name="ae_n_cateId" value="300">
+            </div>
+                           
+                <div class="related-news">            	    
+            	    <ul>
+                    <li><i class="tag"></i><a href="https://bg.qianzhan.com/report/detail/2112221759170673.html?v=title" target="_blank" class="blue_dtn">2024-2029年中国<em class="red">AIGC</em>产业发展前景预测与投资战略规划分析报告</a></li>
+                     
+                            <li><i class="tag"></i><a href="https://bg.qianzhan.com/report/detail/f048b03a50c54565.html?v=title0" target="_blank" class="blue_dtn">2024-2029年中国<em class="red">人工智能</em>行业发展前景预测与投资战略规划分析报告</a></li>                   
+                            
+                            <li><i class="tag"></i><a href="https://bg.qianzhan.com/report/detail/f048b03a50c54565.html?v=title1" target="_blank" class="blue_dtn">2024-2029年中国<em class="red">人工智能</em>行业发展前景预测与投资战略规划分析报告</a></li>                   
+                            
+                            <li><i class="tag"></i><a href="https://bg.qianzhan.com/report/detail/1612061637279834.html?v=title2" target="_blank" class="blue_dtn">2024-2029年全球<em class="red">人工智能芯片（AI芯片）</em>行业市场调研与发展前景研究报告</a></li>                   
+                            
+                            <li><i class="tag"></i><a href="https://bg.qianzhan.com/report/detail/2303151833490527.html?v=title4" target="_blank" class="blue_dtn">2024-2029年中国人工智能数据中心（AIDC，<em class="red">智算中心</em>）行业发展前景与投资战略规划分析报告</a></li>                   
+                                        		
+            	    </ul>
+                </div>
+               
+
+            <div class="art" style="padding:0px 20px;" id="divArtBody">
+                <p><strong>行业主要上市公司：</strong>百度(BIDU.O);<a kid="002230.SZ" href="https://stock.qianzhan.com/hs/zhengquan_002230.SZ.html" class="blue_dtn" target="_blank">科大讯飞</a>(002230);腾讯(0700.HK);阿里巴巴(BABA.N);商汤科技(0020.HK);<a kid="300229.SZ" href="https://stock.qianzhan.com/hs/zhengquan_300229.SZ.html" class="blue_dtn" target="_blank">拓尔思</a>(300229);出门问问(2438.HK)等。</p>
+<p><strong>本文核心数据：</strong>生成式AI行业技术图谱;生成式AI行业相关专利情况</p>
+<p><strong>生成式AI行业技术图谱</strong></p>
+<p>生成式AI(GenAI)是计算机科学的一个分支，涉及无监督和半监督算法，使计算机能够使用之前创建的内容(如文本、音频、视频、图像和代码)来创建新内容，以响应简短的提示问题。AI大模型为生成式AI提供了技术基础和能力，而生成式AI则展示了大模型在实际应用中的潜在价值。</p>
+<p>生成式AI进入探索爆发期，某些细分技术经过爆发开始走向落地，某些细分技术还处于培育期有待挖掘潜力。生成式AI技术图谱主要评估了当前市场上技术的成熟度与发展潜力。从下到上，代表当前采用度越高;从左到右的3条曲线，代表当前对于整体市场规模的影响。一定程度上，左侧曲线当前的渗透率较高，右侧的曲线未来的增长潜力更高。</p>
+<p style="text-align:left">技术图谱展示了三种类型的技术，其中变革性技术将彻底重塑市场和投资战略，可能创造新的业务和市场机会，并为企业和消费者市场带来新能力。递增性技术在现有技术的基础上进行了重大改进，以提供更好的业务结果。机会性技术将根据具体的使用情况而发展，其改进现有技术/流程的能力尚未确定或有限。</p>
+<p style="text-align:center"><img src="https://img3.qianzhan.com/news/202405/15/20240515-2f9afc9c76d66bfc.png" alt="图表1：全球生成式AI相关技术图谱" width="617"></p>
+<p><strong>生成式AI行业技术发展历程：生成式AI技术飞速演进</strong></p>
+<p>生成式Al技术飞速发展，在ChatGPT推出后的几个月里，主要大型语言模型(LLM)的发展时间线如下图所示，生成式AI技术及相关企业发展呈现发布周期之短、初创公司数量之众、与现有软件的整合之快，皆不同凡响。</p>
+<p style="text-align:center"><img src="https://img3.qianzhan.com/news/202405/15/20240515-ad9cf6f8ca66d780.png" alt="图表2：全球生成式AI行业技术发展大事记(一)" width="635"></p>
+<p style="text-align:center"><img src="https://img3.qianzhan.com/news/202405/15/20240515-66d14fb6f0680a2a.png" alt="图表3：全球生成式AI行业技术发展大事记(二)" width="637"></p>
+<p><strong>中国人工智能和生成式人工智能市场IT支出预测</strong></p>
+<p>中央企业要“开展AI+专项行动，强化需求牵引，加快重点行业赋能，构建一批产业多模态优质数据集，打造从基础设施、算法工具、智能平台到解决方案的大模型赋能产业生态。”中央企业正加快布局人工智能发展，推动人工智能多领域跨界融合应用。</p>
+<p>就人工智能支出而言，中国将继续引领亚太地区人工智能市场发展，占亚太地区人工智能总支出的五成，预计到2027年中国人工智能总投资规模将突破400亿美元，年复合增长率为25.6%。中国正在致力于推动人工智能的进步与发展，逐步成为全球人工智能强国。</p>
+<p style="text-align:center"><img src="https://img3.qianzhan.com/news/202405/15/20240515-346dc04056596305.png" alt="图表4：2022-2027年中国人工智能和生成式人工智能市场IT支出(单位：亿美元)" width="583"></p>
+<p><strong>大模型的应用已经不局限于NLP(自然语言处理) 领域</strong></p>
+<p>目前大模型的应用已经不局限于NLP(自然语言处理)领域，包括图片、语音、视频、代码等多种模态的应用开始涌现，而大模型、生成算法与多模态等底层技术的突破成为了生成式AI的质变的关键。一方面，目前大模型可以广泛适用于各类下游任务，当前已经成为了生成式AI的底层框架。许多跨领域的AI应用均是构建于大模型之上，能够解决多任务、多场景、多功能需求，支撑各种模态的生成;另一方面，包括生成对抗网络(GAN)、变分自编码器(VAE)、扩散模型(DiffusionModel)、神经辐射场(Nerf)等快速涌现的生成算法，以大模型为基础，能够创造出文字、图片、语音、视频、代码等各种模态的内容，而基于此之上的多模态应用开始涌现。此外，超级深度学习近年来的快速发展带来了深度神经网络技术在大模型和多模态两个方向上的不断突破，并为AIGC技术能力的升级提供了强力的支撑和全新的可能性。</p>
+<p style="text-align:center"><img src="https://img3.qianzhan.com/news/202405/15/20240515-a584c1cf241ff4df.png" alt="图表5：生成式AI应用与多模态模型" width="648"></p>
+<p><strong>“生成对抗网络”相关专利数量最高</strong></p>
+<p>生成式人工智能的核心在于训练模型以理解和模仿数据分布，其中最具代表性的当属变分自编码器(Variational Autoencoders,  VAEs)、生成对抗网络(Generative Adversarial Networks,  GANs)以及Transformer架构下的语言模型如GPT系列。随着算力提升和算法优化，这些模型不断迭代，从早期简单的模式生成发展到如今能生成高度逼真且有逻辑连贯性的复杂内容。结合Incopat对生成式AI相关专利技术数量情况的统计来看，截至2024年4月，“生成对抗网络”相关专利技术数量最高，专利数量超过3500项。</p>
+<p style="text-align:center"><img src="https://img3.qianzhan.com/news/202405/15/20240515-bbc5c64ed61d8e06.png" alt="图表6：截至2024年生成式AI相关专利技术数量情况(单位：%)" width="594"></p>
+<p>更多本行业研究分析详见前瞻产业研究院《<a href="https://bg.qianzhan.com/report/detail/2112221759170673.html" target="_blank" class="blue_dtn">中国AIGC产业发展前景预测与投资战略规划分析报告</a>》。</p>
+<p>同时前瞻产业研究院还提供<a href="https://d.qianzhan.com/" target="_blank" class="blue_dtn">产业大数据</a>、<a href="https://bg.qianzhan.com/report/hotlist/" target="_blank" class="blue_dtn">产业研究报告</a>、<a href="https://f.qianzhan.com/chanyeguihua2/" target="_blank" class="blue_dtn">产业规划</a>、<a href="https://f.qianzhan.com/yuanqu/" target="_blank" class="blue_dtn">园区规划</a>、<a href="https://f.qianzhan.com/chanyezhaoshang/" target="_blank" class="blue_dtn">产业招商</a>、<a href="https://bg.qianzhan.com/report/lianglian/" target="_blank" class="blue_dtn">产业图谱</a>、<a href="https://z.qianzhan.com/" target="_blank" class="blue_dtn">智慧招商系统</a>、<a href="https://bg.qianzhan.com/report/qyppcs" target="_blank" class="blue_dtn">行业地位证明</a>、<a href="https://ipo.qianzhan.com/mutou/" target="_blank" class="blue_dtn">IPO咨询/募投可研</a>、<a href="https://bg.qianzhan.com/report/qyppcs" target="_blank" class="blue_dtn">专精特新小巨人申报</a>等解决方案。在招股说明书、公司年度报告等任何公开信息披露中引用本篇文章内容，需要获取前瞻产业研究院的正规授权。</p>
+<p>更多深度行业分析尽在<a href="https://ecoapp.qianzhan.com/" target="_blank" class="blue_dtn">【前瞻经济学人APP】</a>，还可以与500+经济学家/资深行业研究员交流互动。更多企业数据、企业资讯、企业发展情况尽在<a href="https://www.qichamao.com/app/app.html" target="_blank" class="blue_dtn">【企查猫APP】</a>，性价比最高功能最全的企业查询平台。</p> 
+            </div>
+            
+            <div class="listpage mt30">
+                
+            </div>
+           
+           <!--qstr:+(catId:220 catId:300 catId:506 catId:459) +lang:CN +state:1 +(title:"生成 式 ai"~10^1.2 summary:"生成 式 ai"~50)-->
+           
+               <!--相关阅读-->
+                <div class="related-news">
+            	    <div class="f18 mb-sm"><p><b>相关阅读</b></p></div>
+            	    <ul>
+                     
+                        <li><i class="tag"></i><a href="https://bg.qianzhan.com/trends/detail/506/240621-3a41914b.html" target="_blank" class="blue_dtn">预见2024：2024年中国<em>生成</em><em>式</em><em>AI</em>行业市场规模、竞争格局及发展前景预测　未来市场规模约为22万亿元</a></li>                   
+                        
+                        <li><i class="tag"></i><a href="https://www.qianzhan.com/analyst/detail/220/240621-6d9ef14a.html" target="_blank" class="blue_dtn">预见2024：《2024年中国<em>生成</em><em>式</em><em>AI</em>行业全景图谱》(附市场规模、竞争格局和发展前景等)</a></li>                   
+                        
+                        <li><i class="tag"></i><a href="https://bg.qianzhan.com/trends/detail/506/240611-df6b03f0.html" target="_blank" class="blue_dtn">【干货】2024年中国<em>生成</em><em>式</em><em>AI</em>行业产业链现状及市场竞争格局分析　广东省为企业主要聚集地</a></li>                   
+                        
+                        <li><i class="tag"></i><a href="https://www.qianzhan.com/analyst/detail/220/240611-8963ff9c.html" target="_blank" class="blue_dtn">【干货】<em>生成</em><em>式</em><em>AI</em>行业产业链全景梳理及区域热力地图</a></li>                   
+                        
+                        <li><i class="tag"></i><a href="https://bg.qianzhan.com/report/detail/300/240605-931a89cb.html" target="_blank" class="blue_dtn">2024年中国<em>生成</em><em>式</em><em>AI</em>行业发展现状分析　我国<em>生成</em><em>式</em><em>AI</em>市场规模约为14.4万亿元</a></li>                   
+                                    		
+            	    </ul>
+                </div>
+               
+                <div class="rptList clf mt40 mr20 ml20">
+            	    <h2 class="f16 bb2f2 pb5">相关深度报告 <span class="cc ml5">REPORTS</span></h2>
+				    <div class="col-2"><a href="https://bg.qianzhan.com/report/detail/2112221759170673.html?v=footer1" target="_blank"><img src="https://img3.qianzhan.com/report/cover/21/2112221759170673.gif" alt="2024-2029年中国AIGC产业发展前景预测与投资战略规划分析报告"></a></div>
+				    <div class="col-10">
+					    <a href="https://bg.qianzhan.com/report/detail/2112221759170673.html?v=footer2" target="_blank">2024-2029年中国<em class="red">AIGC</em>产业发展前景预测与投资战略规划分析报告</a>
+					    <p>本报告前瞻性、适时性地对AIGC产业的发展背景、供需情况、市场规模、竞争格局等行业现状进行分析，并结合多年来AIGC产业发展轨迹及实践经验，对AIGC产业未来的发展前景做...</p>
+                        <p class="prs"> <a href="https://bg.qianzhan.com/report/detail/2112221759170673.html?v=footer3" target="_blank" class="shoping"><span>查看详情</span></a></p>
+				    </div>
+			    </div>
+               
+            <div class="mt30" style="font-style:italic;font-size:12px">
+            本文来源前瞻产业研究院，内容仅代表作者个人观点，本站只提供参考并不构成任何投资及应用建议。（若存在内容、版权或其它问题，请联系：service@qianzhan.com）　<i style="color:red;">品牌合作与广告投放请联系：0755-33015062 或 hezuo@qianzhan.com</i>
+            </div>
+        </div>
+        <div class="clf pb10 mt30">            
+            <div class="clf mt20">
+                <p class="art_zan_wrap"><span id="divZan" class="art_zan" onclick="iZan(this);"><i class="ffi zan">p</i><i class="num">42</i></span><span class="sns"><a class="comm" href="#comment"><i class="ffi">q</i>0</a></span></p>
+                <div class="r">
+                    <ul class="share share_art ffi r clf">
+                        <li class="weibo"><a href="#" onclick="return shared2(2)">U</a></li>
+                        <li class="weixin"><a href="#" weixin="1" onclick="return showWX(this);">V</a><span class="spnShareWX"><img height="94" width="94" alt=""><i class="tag_bd"></i><i class="tag"></i></span></li>
+                        <li class="zone"><a href="#" onclick="return shared2(0)">c</a></li>                        
+                    </ul>
+                    <span class="lh30 f16 c6 r">分享：</span>
+                </div>
+            </div>
+        </div>        
+        
+        <div class="bt1e pt10 clf">
+            
+            <div class="tags l tags_blue"><span class="f14 c6">标签：</span>
+            
+                <a href="//t.qianzhan.com/search/?q=%e7%94%9f%e6%88%90%e5%bc%8fAI" target="_blank">生成式AI</a>
+            
+                <a href="//t.qianzhan.com/search/?q=%e6%8a%80%e6%9c%af%e5%8f%91%e5%b1%95%e7%8e%b0%e7%8a%b6" target="_blank">技术发展现状</a>
+            
+                <a href="//t.qianzhan.com/search/?q=%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bdIT%e6%94%af%e5%87%ba" target="_blank">人工智能IT支出</a>
+            
+                <a href="//t.qianzhan.com/search/?q=%e4%b8%93%e5%88%a9%e6%8a%80%e6%9c%af%e6%95%b0%e9%87%8f" target="_blank">专利技术数量</a>
+            
+            </div>
+             
+            <p class="art-coop r text-r">品牌、内容合作请点这里：<a href="//t.qianzhan.com/help/cooperation" target="_blank">寻求合作 ››</a></p>
+        </div>
+        <div class="mt40" style="text-align:center;">
+            <a href="https://f.qianzhan.com/chanyeguihua/" target="_blank"><img src="https://img1.qianzhan.com/img/gg/qz/chanye_760.jpg?20190731"></a>
+        </div>
+        <div class="art_qr mt40 p20 ble clf">
+            
+
+    <div class="ad-qzcyyjy">
+        <ul class="clf">
+             <li>
+                <a class="ad-qzcyyjy_item3 deg360" href="https://f.qianzhan.com/chanyeguihua2/" target="_blank">
+                    <i class="qzcyicon qzico-cy"></i>
+                    <p>产业规划</p>
+                </a>
+            </li>            
+            <li>
+                <a class="ad-qzcyyjy_item4 deg360" href="https://f.qianzhan.com/yuanqu/" target="_blank">
+                    <i class="icon-gn-yqgh"></i>
+                    <p>园区规划 </p>
+                </a>
+            </li>            
+            <li>
+                <a class="ad-qzcyyjy_item6 deg360" href="https://f.qianzhan.com/chanyezhaoshang/" target="_blank">
+                    <i class="icon-gn-syjhs"></i>
+                    <p>产业招商</p>
+                </a>
+            </li>
+            <li>
+                <a class="ad-qzcyyjy_item1 deg360" href="https://f.qianzhan.com/keyan/" target="_blank">
+                    <i class="icon-gn-kxxbg"></i>
+                    <p>可行性研究</p>
+                </a>
+            </li>
+            <li>
+                <a class="ad-qzcyyjy_item3 deg360" href="https://f.qianzhan.com/dkjj/" target="_blank">
+                    <i class="icon-gn-hlwj"></i>
+                    <p>低空经济</p>
+                </a>
+            </li> 
+            <li>
+                <a class="ad-qzcyyjy_item5 deg360" href="https://f.qianzhan.com/gdzb/" target="_blank">
+                    <i class="qzcyicon qzico-gz"></i>
+                    <p>高端装备</p>
+                </a>
+            </li> 
+            <li>
+                <a class="ad-qzcyyjy_item2 deg360" href="https://f.qianzhan.com/swyy/" target="_blank">
+                    <i class="icon-gn-zxdy"></i>
+                    <p>生物医药</p>
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+
+            <div class="row">
+                <div class="col-6">    
+                	<p class="l mr15"><img src="//img1.qianzhan.com/2017bg/images/qzjjxr_wx.jpg" height="94" width="94" alt=""></p>           		
+		            <p class="f14 lh24">
+		                </p><h3 class="mb-xs"><b>前瞻经济学人</b></h3>
+		                <span>专注于中国各行业市场分析、未来发展趋势等。扫一扫立即关注。</span>
+		            <p></p>
+                </div>
+                <div class="col-6">    
+                	<p class="l mr15"><img src="//img1.qianzhan.com/2017bg/images/yjywx.png" height="94" width="94" alt=""></p>           		
+		            <p class="f14  lh24">
+		                </p><h3 class="mb-xs"><b>前瞻产业研究院</b></h3>
+		                <span>中国产业咨询领导者，专业提供产业规划、产业申报、产业升级转型、产业园区规划、可行性报告等领域解决方案，扫一扫关注。</span>
+		            <p></p>
+                </div>
+            </div>
+        </div>        
+        <!--qstr3:+status:1 +(type:1 type:24 type:22 type:17) +lang:CN +(title:"生成 式 ai"~10^3.0 summary:"生成 式 ai"~10^0.1) _total:0-->
+        
+           <div class="mt60" style="position: relative;">
+               <h2 class="f20 bb2f2 pb5">推荐报告<span class="cc ml5">REPORT</span></h2>
+               <a href="https://bg.qianzhan.com/report/hotlist/" target="_blank" class="blue_dtn" style="position: absolute;right: 0;top: 0;line-height: 36px;font-size: 16px;">1500+精品报告大全 »</a>
+               <div class="row report-content-tj">                    
+                    
+                    <div class="col-4 mt-md">
+                    	<div class="hotRep">
+                    		<a href="https://bg.qianzhan.com/report/detail/2107281820303509.html" target="_blank" class="hotimg">
+                    			<img src="https://img3.qianzhan.com/report/cover/21/2107281820303509.gif" width="218" height="218" alt="2024-2029年全球及中国数字政府建设（政府数字化转型）市场前景与投资战略规划分析报告" style="display: inline;">
+                    		</a>
+                    		<a href="https://bg.qianzhan.com/report/detail/2107281820303509.html" target="_blank" class="txt">2024-2029年全球及中国<em class="fontblue">数字政府建设（政府数字化转型）</em>市场前景与投资战略规划分析报告</a>
+                    	</div>
+                    </div>
+                  
+                    <div class="col-4 mt-md">
+                    	<div class="hotRep">
+                    		<a href="https://bg.qianzhan.com/report/detail/2104271617244688.html" target="_blank" class="hotimg">
+                    			<img src="https://img3.qianzhan.com/report/cover/21/2104271617244688.gif" width="218" height="218" alt="中国智能传感器产业“十四五”市场前瞻与发展规划分析报告" style="display: inline;">
+                    		</a>
+                    		<a href="https://bg.qianzhan.com/report/detail/2104271617244688.html" target="_blank" class="txt">中国<em class="fontblue">智能传感器</em>产业“十四五”市场前瞻与发展规划分析报告</a>
+                    	</div>
+                    </div>
+                  
+                    <div class="col-4 mt-md">
+                    	<div class="hotRep">
+                    		<a href="https://bg.qianzhan.com/report/detail/965da1c6f88d4b41.html" target="_blank" class="hotimg">
+                    			<img src="https://img3.qianzhan.com/report/cover/96/965da1c6f88d4b41.gif" width="218" height="218" alt="2024-2029年全球及中国政府信息化发展前景展望与投资战略规划分析报告" style="display: inline;">
+                    		</a>
+                    		<a href="https://bg.qianzhan.com/report/detail/965da1c6f88d4b41.html" target="_blank" class="txt">2024-2029年全球及中国<em class="fontblue">政府信息化</em>发展前景展望与投资战略规划分析报告</a>
+                    	</div>
+                    </div>
+                  
+                    <div class="col-4 mt-md">
+                    	<div class="hotRep">
+                    		<a href="https://bg.qianzhan.com/report/detail/2011271914397726.html" target="_blank" class="hotimg">
+                    			<img src="https://img3.qianzhan.com/report/cover/20/2011271914397726.gif" width="218" height="218" alt="2024-2029年中国高铁后市场前瞻与投资战略规划分析报告" style="display: inline;">
+                    		</a>
+                    		<a href="https://bg.qianzhan.com/report/detail/2011271914397726.html" target="_blank" class="txt">2024-2029年中国<em class="fontblue">高铁后市场</em>前瞻与投资战略规划分析报告</a>
+                    	</div>
+                    </div>
+                  
+                    <div class="col-4 mt-md">
+                    	<div class="hotRep">
+                    		<a href="https://bg.qianzhan.com/report/detail/4dda76c887f9460e.html" target="_blank" class="hotimg">
+                    			<img src="https://img3.qianzhan.com/report/cover/4d/4dda76c887f9460e.gif" width="218" height="218" alt="2024-2029年中国保险行业市场前瞻与投资规划分析报告" style="display: inline;">
+                    		</a>
+                    		<a href="https://bg.qianzhan.com/report/detail/4dda76c887f9460e.html" target="_blank" class="txt">2024-2029年中国<em class="fontblue">保险</em>行业市场前瞻与投资规划分析报告</a>
+                    	</div>
+                    </div>
+                  
+                    <div class="col-4 mt-md">
+                    	<div class="hotRep">
+                    		<a href="https://bg.qianzhan.com/report/detail/3920355f7aee4ad6.html" target="_blank" class="hotimg">
+                    			<img src="https://img3.qianzhan.com/report/cover/39/3920355f7aee4ad6.gif" width="218" height="218" alt="2024-2029年中国数字孪生在公安系统应用（数字警务）市场前瞻与投资战略规划分析报告" style="display: inline;">
+                    		</a>
+                    		<a href="https://bg.qianzhan.com/report/detail/3920355f7aee4ad6.html" target="_blank" class="txt">2024-2029年中国<em class="fontblue">数字孪生在公安系统应用（数字警务）</em>市场前瞻与投资战略规划分析报告</a>
+                    	</div>
+                    </div>
+                                      
+                </div>
+            </div>
+        
+           
+        <script type="text/javascript">
+            function iZan(obj) {
+                $(obj).addClass('art_zan_active');
+                var num = $(obj).find(".num");
+                if (!num.attr("add")) {
+                    var numVal = parseInt(num.html()) + 1;
+                    num.html(numVal.toString());
+                    num.attr("add", "1");
+                    var data = { r: '241113212450', id: '240515-c3a2ce9d', name: $('#h_title').html(), cate: '300', type: 'news', url: document.URL };
+                    $.getScript("//log.qianzhan.com/handle/favorAdd?" + $.param(data), function () {
+                        if (success) {
+                            sDialog.activeMsg("divZan", '提交成功，感谢您的参与！', 'L', 0, 2500, 'slide-R');
+                        } else {
+                            sDialog.activeMsg("divZan", '您已提交过“赞”， 感谢您的参与！', 'L', 0, 2500, 'slide-R');
+                        }
+                    });
+                } else {
+                    sDialog.activeMsg("divZan", '您已提交过“赞”， 感谢您的参与！', 'L', 0, 2500, 'slide-R');
+                }
+                return false;
+            }
+            function shared2(s2) {
+                var desc = $("meta[name='Description']").attr("content");
+                var imgUrl = '';
+                var img = $("div.art").find("img:first");
+                if (img.length == 1)
+                    imgUrl = img.attr("src");
+                return shareText22(s2, document.URL, $('#h_title').html(), imgUrl, desc);
+            }
+            function showWX(obj) {
+                var nxt = $(obj).next();
+                var img = nxt.find("img");
+                if (nxt.css("display") == "none") {
+                    if (!img.attr("src"))
+                        img.attr("src", "//img4.qianzhan.com/QrImgHandler.ashx?e=Medium&q=Two&s=4&t=" + encodeURIComponent(document.URL));
+                    nxt.fadeIn();
+                } else {
+                    nxt.hide();
+                }
+                return false;
+            }
+            function doShang(m) {
+                sDialog.loading('处理中，请稍后...');
+                var ajax = {
+                    url: '/pay/shangCreate', type: 'POST', dataType: 'json', cache: false,
+                    data: { m: m, gid: '240515-c3a2ce9d', title: '2024年生成式AI行业技术发展现状分析 生成式AI行业技术发展总体步入发展蓬勃时期', author: '羅', url2: document.URL, shmd: '1516e9cf163afb19' },
+                    success: function (json, statusText) {
+                        sDialog.hideLoading();
+                        if (json.success) {
+                            location.href = "/pay/shang?sid=" + json.errors.sid;
+                        } else {
+                            sDialog.error(json.errors.text, "错误提示", 260, 80);
+                        }
+                    }
+                };
+                $.ajax(ajax);
+                return false;
+            }
+            $(document).ready(function () {
+                $(document.body).bind("click", function (event) {
+                    if ($(event.target).attr("weixin")) {
+                        return false;
+                    }
+                    $('.spnShareWX').hide();
+                });
+
+                $('div.lazyimg').find("img[original]").lazyload({
+                    placeholder: defImg,
+                    effect: 'fadeIn',
+                    threshold: 120
+                });
+
+                //$('#divArtBody').find("img").css("cursor", "pointer").bind("click", function () {
+                //    window.open("https://x.qianzhan.com/xcharts/?v=bg", "_blank");
+                //});
+                $('#selShang').find("a").bind("click", function () {
+                    var m = $(this).html().replace('元', '');
+                    return doShang(m);
+                });               
+            });           
+        </script>
+
+        <!--评论-->
+                
+        <div class="mt30 clf" style="text-align:center; background:#f2f2f2; padding:15px 60px 10px">
+            <div style="float:left;">                
+                <a href="https://d.qianzhan.com/" target="_blank"><img src="https://img3.qianzhan.com/gg/35/20171024104522-35cedeb6.jpg" alt="前瞻数据库"></a>
+            </div>
+            <div style="float:right;">                
+                <a href="https://www.qianzhan.com/go/tYpzTR" target="_blank"><img src="http://img3.qianzhan.com/gg/98/20180306134540-98ae6688.gif" alt="企查猫"></a>
+            </div>
+        </div>
+       <script type="text/javascript">
+           function articleError() {
+               $("#tooltip").remove();
+               sDialog.loadIFrame("/Common/ArticleError?text", '我来挑错', 540, 320, false);
+               return false;
+           }
+           function closeErrorTip() {
+               $("#tooltip").remove();
+               return false;
+           }
+           function doTongji() {
+               var data = { r: '241113212450', tmd: 'e2f561a1138ff952', gid: '240515-c3a2ce9d', cid: '300', referer: document.referrer.toLowerCase(), url2: document.URL.toLowerCase() };
+               $.getScript("//log.qianzhan.com/handle/doNewsVisited1?" + $.param(data));
+           }
+           $(function () {
+
+               doTongji();
+
+               //图片加链接
+               /*$('#div_content').find("img").each(function (i) {
+               if (!$(this).parent().attr("href")) {
+               $('<a href="//www.qianzhan.com/photo/" target="_blank"></a>').insertBefore($(this)).append($(this));
+               }
+               });*/
+
+               //挑错初始化
+               $("#div_conbody").mouseup(function (e) {
+                   var x = -30;
+                   var y = 25;
+                   var text = "";
+                   if (document.selection) {
+                       text = document.selection.createRange().text;
+                   }
+                   else if (window.getSelection()) {
+                       text = window.getSelection();
+                   }
+                   else if (document.getSelection) {
+                       text = document.getSelection();
+                   }
+                   if (text != "") {
+                       $("#hidtext").val(text);
+                       var tooltip = '<div id="tooltip" class="share_popup" style="display:none;">'
+                                + '<div class="clf"><ul class="share share_art ffi r clf"><li class="weibo"><a href="#" onclick="return shareText2(2);">U</a></li><li class="weibo-qq"><a href="#" onclick="return shareText2(1);">n</a></li><li class="zone"><a href="#" onclick="return shareText2(0);">c</a></li><li class="baidu"><a href="#" onclick="return shareText2(3, this);">m</a></li></ul><span class="lh30 f16 c6 r">分享到：</span></div>'
+                                + '<p class="share_popup_btn clf"><a class="r orange" href="//t.qianzhan.com/help/seekreport" target="_blank">寻求报道</a><a class="blue" href="#" onclick="return articleError();">我来挑错</a></p><i class="tag_bd tag_bd2"></i><i class="tag tag2"></i>'
+                                + '</div>';
+                       $("body").append(tooltip);
+                       $("#tooltip").css({
+                           "top": (e.pageY + y) + "px",
+                           "left": (e.pageX + x) + "px",
+                           "position": "absolute"
+                       }).show("fast");
+                   }
+               }).mousedown(function () {
+                   $("#tooltip").remove();
+               });
+           });
+        </script>
+
+
+
+
+        </div>
+        <div class="side mt-lg">
+            
+  <style>
+      .xiaoCXBox {
+            background: #eee;
+            text-align: center;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            overflow: hidden;
+        }
+  </style>
+    <div class="mb-lg">
+        <a href="https://bg.qianzhan.com/" target="_blank"><img src="//img1.qianzhan.com/2017/images/bgindex_ad.png" alt=""></a>
+    </div>
+        
+    <div class="mb-lg xiaoCXBox">
+        <img src="https://bg.qianzhan.com/images/qzbgk320.png" alt="前瞻报告库" width="300" height="290">
+    </div>
+
+    <!-- 广告 -->
+   <!-- <div class="mb-lg advBox">
+        <script type="text/javascript"> document.write("<a href='https://bg.qianzhan.com/report/hotlist/' target='_blank'><im" + "g src" + "='https://img3.qianzhan.com/gg/cc/20200513091421-cc269134.gif' alt='前瞻报告' width='300' height='250' /></a>");</script>
+    </div>-->
+
+    <div id="divXFAD">
+        
+
+ <!-- 咨询·服务 -->
+ <div id="div_services">
+    <h2 class="tit-d pb10 bb2_blue">咨询·服务</h2>
+    <div class="row gutter-w10 cst-svc">	 
+        <a class="col-4 cst-svc_item deg360" href="https://f.qianzhan.com/chanyeguihua2/" target="_blank">
+			<i class="qzcyicon qzico-cy"></i>
+			<em>产业规划</em>
+		</a>   
+        <a class="col-4 cst-svc_item deg360" href="https://f.qianzhan.com/yuanqu/" target="_blank">
+		    <i class="icon-gn-yqgh"></i>
+		    <em>园区规划</em>
+	    </a>
+        <a class="col-4 cst-svc_item deg360" href="https://f.qianzhan.com/chanyezhaoshang/" target="_blank">
+		    <i class="icon-gn-syjhs"></i>
+		    <em>产业招商</em>
+	    </a>           
+	    <a class="col-4 cst-svc_item deg360" href="https://f.qianzhan.com/keyan/" target="_blank">
+		    <i class="icon-gn-kxxbg"></i>
+		    <em>可行性报告</em>
+	    </a>
+	    <a class="col-4 cst-svc_item deg360" href="https://bg.qianzhan.com/report/reportdingzhi" target="_blank">
+			<i class="icon-gn-zxdy"></i>
+			<em>专项市场调研</em>
+		</a>
+        <a class="col-4 cst-svc_item deg360" href="https://bg.qianzhan.com/report/qyppcs" target="_blank">
+		    <i class="icon-gn-hlwj"></i>
+		    <em>行业地位证明</em>
+	    </a>
+    </div>
+ </div>
+
+
+    </div>
+    <!-- 研究员关注榜 -->
+	<div class="mt-lg">
+		<h2 class="tit-d mb-md pb10 bb2_blue">研究员周关注榜</h2>
+        
+		<ul class="rsc-rank">
+            
+<li><a class="rsc-rank_face face" href="//www.qianzhan.com/analyst/profile/1048.html" target="_blank"><img src="https://img3.qianzhan.com/analyst/photos/1048_180x180.gif" alt="朱茜" width="60" height="60"></a><div class="rsc-rank_hd"><span><i class="icon-like"></i><em>411074</em></span><a href="//www.qianzhan.com/analyst/profile/1048.html" target="_blank">朱茜</a></div><div class="rsc-rank_honor">医药 / 医疗 / 大健康</div></li>
+<li><a class="rsc-rank_face face" href="//www.qianzhan.com/analyst/profile/14485.html" target="_blank"><img src="https://img3.qianzhan.com/analyst/photos/202012/02140017_14485_180x180.gif" alt="何佳" width="60" height="60"></a><div class="rsc-rank_hd"><span><i class="icon-like"></i><em>406315</em></span><a href="//www.qianzhan.com/analyst/profile/14485.html" target="_blank">何佳</a></div><div class="rsc-rank_honor">新能源 / 制造</div></li>
+<li><a class="rsc-rank_face face" href="//www.qianzhan.com/analyst/profile/3100.html" target="_blank"><img src="https://img3.qianzhan.com/analyst/photos/201611/04155425_3100_180x180.gif" alt="吴小燕" width="60" height="60"></a><div class="rsc-rank_hd"><span><i class="icon-like"></i><em>293676</em></span><a href="//www.qianzhan.com/analyst/profile/3100.html" target="_blank">吴小燕</a></div><div class="rsc-rank_honor">能源 / 环境 / 自助服务</div></li>
+<li><a class="rsc-rank_face face" href="//www.qianzhan.com/analyst/profile/5455.html" target="_blank"><img src="https://img3.qianzhan.com/analyst/photos/201706/22085146_5455_180x180.gif" alt="穆晓菲" width="60" height="60"></a><div class="rsc-rank_hd"><span><i class="icon-like"></i><em>282131</em></span><a href="//www.qianzhan.com/analyst/profile/5455.html" target="_blank">穆晓菲</a></div><div class="rsc-rank_honor"></div></li>
+<li><a class="rsc-rank_face face" href="//www.qianzhan.com/analyst/profile/14758.html" target="_blank"><img src="https://img3.qianzhan.com/analyst/photos/202103/01171206_14758_180x180.gif" alt="童锡来" width="60" height="60"></a><div class="rsc-rank_hd"><span><i class="icon-like"></i><em>239783</em></span><a href="//www.qianzhan.com/analyst/profile/14758.html" target="_blank">童锡来</a></div><div class="rsc-rank_honor">金融、 材料工业、 文化</div></li>
+<li><a class="rsc-rank_face face" href="//www.qianzhan.com/analyst/profile/6220.html" target="_blank"><img src="https://img3.qianzhan.com/analyst/photos/201712/26112440_6220_180x180.gif" alt="蔡志濠" width="60" height="60"></a><div class="rsc-rank_hd"><span><i class="icon-like"></i><em>227161</em></span><a href="//www.qianzhan.com/analyst/profile/6220.html" target="_blank">蔡志濠</a></div><div class="rsc-rank_honor"></div></li>
+
+        </ul>
+        
+    </div>
+ 
+    <!-- 排行榜 -->
+    <div class="mt-lg">
+        <div class="tabtit_side" id="div_hottabs"><a class="cur" idx="1" onclick="return false;">周排行</a><a href="#" idx="2" onclick="return false;">月排行</a></div>
+        <div id="div_hotlist">
+            
+            <ul idx="1" class="list_round list_round_h40 txtHidden">
+                
+<li class="cur1 mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241108-e22111dd.html" target="_blank">【干货】数字内容产业链全景梳理及区域热力地图</a></li>
+<li class="cur2 mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241107-1f50a913.html" target="_blank">2024年铝电解电容器行业上市公司全方位对比</a></li>
+<li class="cur3 mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241108-a24d3d1d.html" target="_blank">2024年中国无人机行业全景图谱</a></li>
+
+                
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241107-d3396833.html" target="_blank">智能手机行业产业链全景梳理及区域热力地图</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241107-ea5abfcf.html" target="_blank">中国电梯行业投融资及兼并重组分析</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241108-5702c0f7.html" target="_blank">2024年中国及31省市石油化工行业政策汇总及解读（全）</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241107-0031b15c.html" target="_blank">2024年中国及31省市养老机器人行业政策汇总及解读</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241106-9c284e53.html" target="_blank">2024年中国及31省市单克隆抗体行业政策汇总及解读</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241108-360c56e5.html" target="_blank">2024年医药制造外包行业上市公司全方位对比</a></li>
+
+            </ul>
+            
+            
+            <ul idx="2" class="list_round list_round_h40 txtHidden" style="display: none;">
+                
+<li class="cur1 mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241017-713f6da1.html" target="_blank">【投资视角】2024年中国石油化工行业投融资现状及兼并重组分析</a></li>
+<li class="cur2 mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241017-4b367855.html" target="_blank">重磅！2024年中国及31省市塑料制品行业政策汇总、解读及发展目标分析</a></li>
+<li class="cur3 mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241018-3b94a5a2.html" target="_blank">预见2024：2024年中国海上光伏行业市场规模、竞争格局及发展前景分析</a></li>
+
+                
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241017-3dcef224.html" target="_blank">【干货】2024年中国养老机器人行业产业链现状及市场竞争格局分析</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241017-0234a3f9.html" target="_blank">【最全】2024年中国康复医疗行业上市公司市场竞争格局分析 四大方面进行全方位对比</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241018-47342be2.html" target="_blank">重磅！2024年中国及31省市通用航空行业政策汇总、解读及发展目标分析</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241018-16576a8b.html" target="_blank">【行业深度】2024年中国洗衣液行业竞争格局及市场份额分析</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241018-5b9f7f42.html" target="_blank">【建议收藏】重磅！2024年上海市低空经济产业链全景图谱</a></li>
+<li class="mt15"><i class="ffi">H</i><a href="https://bg.qianzhan.com/trends/detail/506/241018-dd1a919b.html" target="_blank">【投资视角】2024年中国健康体检行业投融资现状及兼并重组分析 融资活跃度整体较低</a></li>
+
+            </ul>
+            
+        </div>
+    </div>
+    <script type="text/javascript">
+        function changHot(idx) {
+            var ul = $('#div_hotlist').find('ul[idx=' + idx + ']');
+            if (idx == '1')
+                ul.next().hide();
+            else
+                ul.prev().hide();
+            ul.show();
+        }
+        $(document).ready(function () {
+            $('#div_hottabs a').bind("mouseenter", function () {
+                changHot($(this).attr("idx"));
+                $(this).parent().children().removeClass("cur");
+                $(this).addClass("cur");
+            });
+        });
+    </script>
+    <!-- 广告 -->
+    <div class="mt30 advBox" style="position: relative;">
+            <script type="text/javascript">document.write("<a href='https://www.qianzhan.com/go/typztr' target='_blank'><im"+"g src"+"='https://img3.qianzhan.com/gg/2f/20191224110149-2fe43faf.jpg' alt='前瞻企业查询宝App' width='300' height='250' /></a>");</script><a href="https://www.qianzhan.com/go/typztr" target="_blank"><img src="https://img3.qianzhan.com/gg/2f/20191224110149-2fe43faf.jpg" alt="前瞻企业查询宝App" width="300" height="250"></a>
+        <p style="position: absolute;display: inline-block;bottom: 20px;right: 20px;background: rgba(0,0,0,0.6);padding: 2px 5px;font-size: 12px;color: #ddd;z-index:99;transform: scale(0.8)">广告</p></div>
+	<div class="mt-lg ilazy">
+		<h2 class="tit-d mb-md pb10 bb2_blue"><a href="//www.qianzhan.com/analyst/" target="_blank">今日推荐</a></h2>
+        
+		<div class="jjhotNews">
+			<ul>
+                
+<li><a href="https://www.qianzhan.com/analyst/detail/329/241113-e788e129.html" target="_blank"><img original="https://img3.qianzhan.com/news/202411/13/20241113-c369b2f7d58f5144_320x192x21.png" width="90" height="50" alt="入华25年，“豪车”品牌集体渡劫" src="//img1.qianzhan.com/img/img_hold1x1.gif"><p>入华25年，“豪车”品牌集体渡劫</p></a></li>
+<li><a href="https://www.qianzhan.com/analyst/detail/220/241113-821ea8dc.html" target="_blank"><img original="https://img3.qianzhan.com/cms/202210/28/20221028-56d56cc88b7e309f_320x192x22.png" width="90" height="50" alt="2024年中国石油化工行业发展现状分析 " src="//img1.qianzhan.com/img/img_hold1x1.gif"><p>2024年中国石油化工行业发展现状分析 </p></a></li>
+<li><a href="https://www.qianzhan.com/analyst/detail/220/241113-3020ab4f.html" target="_blank"><img original="https://img3.qianzhan.com/cms/202210/28/20221028-4372e705be7a122a_320x192x22.png" width="90" height="50" alt="2024年中国及31省市机械式停车设备行业政策汇总及解读" src="//img1.qianzhan.com/img/img_hold1x1.gif"><p>2024年中国及31省市机械式停车设备行业政策汇总及解读</p></a></li>
+<li><a href="https://www.qianzhan.com/analyst/detail/220/241113-0cd4f4da.html" target="_blank"><img original="https://img3.qianzhan.com/cms/202210/28/20221028-520e64f5026e624b_320x192x22.png" width="90" height="50" alt="2024年中国智能手机行业销售渠道分析" src="//img1.qianzhan.com/img/img_hold1x1.gif"><p>2024年中国智能手机行业销售渠道分析</p></a></li>
+<li><a href="https://www.qianzhan.com/analyst/detail/220/241113-7f8903e7.html" target="_blank"><img original="https://img3.qianzhan.com/cms/202210/28/20221028-d52f0aff604017c3_320x192x22.png" width="90" height="50" alt="2024年美国家庭储能电池市场现状及竞争格局分析 " src="//img1.qianzhan.com/img/img_hold1x1.gif"><p>2024年美国家庭储能电池市场现状及竞争格局分析 </p></a></li>
+<li><a href="https://www.qianzhan.com/analyst/detail/220/241113-d32b0c4f.html" target="_blank"><img original="https://img3.qianzhan.com/cms/202210/28/20221028-db55bbc05f028c77_320x192x22.png" width="90" height="50" alt="中国净水器行业投融资及兼并重组分析" src="//img1.qianzhan.com/img/img_hold1x1.gif"><p>中国净水器行业投融资及兼并重组分析</p></a></li>
+
+			</ul>
+		</div>
+        
+	</div>
+    <script type="text/javascript">
+        $(function () {
+            $('div.ilazy').find("img[original]").lazyload({
+                placeholder: defImg,
+                effect: 'fadeIn',
+                threshold: 120
+            });
+        });
+    </script>
+    <div class="mt-lg">
+        <div class="box-bg side-box" style="padding-top: 0;padding-bottom: 10px;position: relative;">
+            <div id="marquee" style="height: 40px;">
+				<ul style="height: 240px;">                    
+					<li><a target="_blank" href="https://f.qianzhan.com/dajiankang/"><img alt="大健康" src="https://f.qianzhan.com/images/marq1.jpg"></a></li>
+					<li><a target="_blank" href="https://f.qianzhan.com/wenhualvyou/"><img alt="文化旅游" src="https://f.qianzhan.com/images/marq2.jpg"></a></li>
+					<li><a target="_blank" href="https://f.qianzhan.com/yuanqu/"><img alt="园区规划" src="https://f.qianzhan.com/images/marq3.jpg"></a></li>
+					<li><a target="_blank" href="https://f.qianzhan.com/xiandainongye/"><img alt="现代农业" src="https://f.qianzhan.com/images/marq4.jpg"></a></li>
+					<li><a target="_blank" href="https://f.qianzhan.com/tesexiaozhen/"><img alt="特色小镇" src="https://f.qianzhan.com/images/marq5.jpg"></a></li>                    
+                    <li><a target="_blank" href="https://f.qianzhan.com/tianyuan/" title="田园综合体"><img alt="田园综合体" src="https://f.qianzhan.com/images/marq6.jpg"></a></li>
+				<li><a target="_blank" href="https://f.qianzhan.com/dajiankang/"><img alt="大健康" src="https://f.qianzhan.com/images/marq1.jpg"></a></li><li><a target="_blank" href="https://f.qianzhan.com/wenhualvyou/"><img alt="文化旅游" src="https://f.qianzhan.com/images/marq2.jpg"></a></li><li><a target="_blank" href="https://f.qianzhan.com/yuanqu/"><img alt="园区规划" src="https://f.qianzhan.com/images/marq3.jpg"></a></li><li><a target="_blank" href="https://f.qianzhan.com/xiandainongye/"><img alt="现代农业" src="https://f.qianzhan.com/images/marq4.jpg"></a></li><li><a target="_blank" href="https://f.qianzhan.com/tesexiaozhen/"><img alt="特色小镇" src="https://f.qianzhan.com/images/marq5.jpg"></a></li><li><a target="_blank" href="https://f.qianzhan.com/tianyuan/" title="田园综合体"><img alt="田园综合体" src="https://f.qianzhan.com/images/marq6.jpg"></a></li></ul>
+			</div>						
+			<a href="javascript:void(0);" id="goL2"><i class="icon-barr-thin"></i></a> <a href="javascript:void(0);" id="goR2"><i class="icon-barr-thin"></i></a>
+        </div>        
+    </div>
+    <div id="divXFAD1" style="height:0px;"></div>
+    <script type="text/javascript" src="https://f.qianzhan.com/scripts/marquee.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('div.ilazy').find("img[original]").lazyload({
+                placeholder: defImg,
+                effect: 'fadeIn',
+                threshold: 120
+            });
+
+            $(window).bind("scroll", Scroll2FixTops);
+
+            var maqHeight = $("#marquee li").height();
+            $('#marquee').css("height", maqHeight * 2 + 40);
+            $('#marquee').kxbdSuperMarquee({
+                distance: maqHeight + 20,
+                time: 3,
+                btnGo: { up: '#goL2', down: '#goR2' },
+                direction: 'down'
+            });
+        });
+        var wxFixed = 0;
+        function Scroll2FixTops() {
+            var _bottom = $(document).scrollTop();
+            if (!wxFixed && $('#divXFAD1').offset().top < _bottom) {
+                var left = $('#divXFAD').offset().left;
+                var width = $('#divXFAD').width();
+                $('#divXFAD').css({ position: "fixed", left: left, top: 60, width: width + "px" });
+                wxFixed = 1;
+            } else if (wxFixed && $('#divXFAD1').offset().top > _bottom) {
+                $('#divXFAD').css({ position: "inherit", left: "", top: "" });
+                wxFixed = 0;
+            }
+        }
+    </script>
+
+        </div>
+    </div>
+    <div class="mb-lg">&nbsp;</div>
+    
+<!--在线咨询和qq-->
+<div class="kfonline2">
+	<div class="closeBox">
+		在线咨询
+	</div>
+	<div class="kfcont">
+		<em class="close">×</em>
+		<div><a href="http://tb.53kf.com/code/client/10037428/1?custom_channel=https%3a%2f%2fbg.qianzhan.com%2freport%2fdetail%2f300%2f240515-c3a2ce9d.html" target="_blank" data-trace="true" data-cateid="53kfwindow" onclick="return openZX(this);"><img src="https://img1.qianzhan.com/2017bg/images/bg_on_sv4.gif" alt="在线咨询"></a></div>
+		<div class="kfLink2">
+            <a href="https://f.qianzhan.com/keyan/?f=bg" target="_blank" class="k-5" data-trace="true" data-cateid="可行性报告"><span>可行性报告</span></a>
+			<a href="https://bg.qianzhan.com/report/qyppcs/?f=bg" target="_blank" class="k-6" data-trace="true" data-cateid="行业地位证明"><span style="font-size:13px;">行业地位证明</span></a>
+			<a href="https://f.qianzhan.com/chanyeguihua2/?f=bg" target="_blank" class="k-1" data-trace="true" data-cateid="产业规划"><span>产业规划</span></a>
+			<a href="https://f.qianzhan.com/yuanqu/?f=bg" target="_blank" class="k-2" data-trace="true" data-cateid="园区规划"><span>园区规划</span></a>
+			<a href="https://f.qianzhan.com/chanyezhaoshang/?f=bg" class="k-3" target="_blank" data-trace="true" data-cateid="产业招商"><span>产业招商</span></a>
+			<a href="https://ipo.qianzhan.com/mutou/?f=bg" class="k-4" target="_blank" data-trace="true" data-cateid="募投可研"><span style="padding-left: 42px;">募投可研</span></a>			
+			
+		</div>
+	</div>
+    <div style="background-color: #f8f8f8;border-top: 1px solid #fff;text-align: center;padding:8px 0;">
+		<p style="color: #c00">
+			<span style="display: block;font-size: 13px;color: #999">项目热线</span>
+			0755-33015070
+		</p>
+	</div>
+</div>
+<script type="text/javascript">
+    $(function () {        
+        $(".kfonline2 .close").click(function () {
+            $(".kfonline2 .kfcont").hide();
+            $(".kfonline2 .closeBox").show();
+            return false;
+        });
+
+        $(".kfonline2 .closeBox").click(function () {
+            $(".kfonline2 .kfcont").show();
+            $(".kfonline2 .closeBox").hide();
+            return false;
+        });
+
+        $(".kfLink2 a").hover(function () {
+            $(this).addClass("kshow" + $(this).index()).siblings().removeClass("kshow0 kshow1 kshow2 kshow3 kshow4 kshow5");
+        });
+    });
+
+    function openZX(obj) {
+        try {
+            window.open("http://tb.53kf.com/code/client/10037428/1", "_blank", "height=600,width=800,top=200,left=250,status=yes,toolbar=no,menubar=no,resizable=yes,scrollbars=no,location=no,titlebar=no");
+            Click53KefuWindow(obj);
+        } catch (e) { }
+        return false;
+    }
+    var loadTime = new Date();
+    function Click53KefuWindow(obj) {
+        var currentTime = new Date();
+        var totalTime = currentTime - loadTime;
+        loadTime = currentTime;
+        var cateid = $(obj).attr("data-cateid");
+        var data = { tmd: '79e23cac9a3229ec', gid: 'bg.qianzhan', totalTime: totalTime, cid: cateid, referer: document.referrer.toLowerCase(), url2: document.URL.toLowerCase() };
+        $.getScript("//log.qianzhan.com/handle/doReportVisited1?" + $.param(data));
+    }
+</script>
+    
+    <script type="text/javascript">
+        var cUrl = window.top.location.toString();
+        var myExp = /^http(s)?:\/\/[a-z0-9\.]*?qianzhan\.com\//ig;
+        var redir2 = myExp.test(cUrl);
+        if (!redir2 && cUrl.indexOf('baiducontent.com/') == -1 && cUrl.indexOf('360webcache.com/') == -1) {
+            window.top.location = cUrl.replace(/^http(s)?:\/\/.*?\//ig, "https" + "://bg.qia" + "nzhan.com/");
+        }
+    </script>    
+    
+
+    <!-- 右侧悬浮导航 -->
+    <div id="rcol_fixed">
+        <a href="javascript:;" class="qz-app">关注我们<i class="tagr"></i>
+        	<div class="weixinFudong">
+        		<img src="//img1.qianzhan.com/2017bg/images/qr.png" width="120" height="120" alt="前瞻网微信号">
+        		<p>扫一扫关注我们</p>
+        	</div>
+        </a>
+        <div id="feedback">
+            <p class="btns">意见反馈<i class="tagr"></i></p>
+            <div id="feedback_form">
+                <textarea class="tta" id="feedbackCon" placeholder="请输入您的意见，我们将不断改进！"></textarea>
+                <p class="clf">
+                    <input type="button" value="提交" class="sbt btn_blue r" onclick="FeedbackSubmit(this);">
+                </p>
+                <i class="close">×</i>
+            </div>
+        </div>       
+        <a id="backtop" class="ffi" href="#">J</a>
+    </div>
+    <script type="text/javascript">
+         $(document).ready(function () {
+             // 意见反馈
+             $('#feedback .btns').click(function () {
+                 if ($(this).parent().hasClass("open")) {
+                     closeFeedback();
+                 } else {
+                     $(this).parent().addClass('open');
+                     $('#feedback_form').animate({
+                         opacity: '1',
+                         marginLeft: '-10px'
+                     }, 300);
+                 }
+             });
+             $('#feedback_form .close').click(function () {
+                 closeFeedback();
+             });
+         });
+         function sc2Top0() {
+             $(document.body).scrollTop(0);
+             return false;
+         }
+
+         function closeFeedback() {
+             $('#feedback').removeClass('open');
+             $('#feedback_form').css({
+                 opacity: '0',
+                 marginLeft: '0'
+             });
+         }
+         var canSendMsg = true;
+         function FeedbackSubmit(obj) {
+             if (!canSendMsg) {
+                 sDialog.error("您提交太快了，请稍息一分钟再发吧！", "提示", 250, 80);
+                 return false;
+             }
+             var fdCon = $('#feedbackCon').val();
+             if (fdCon == '' || fdCon.length < 30) {
+                 sDialog.activeMsg('feedbackCon', '请输入您的意见或建议，不少于30个字', 'T', 220, 2000, 'slide-R');
+                 return false;
+             }
+
+             if (fdCon.length > 1000) {
+                 sDialog.activeMsg('feedbackCon', '请输入少于1000字的意见或建议', 'T', 220, 2000, 'slide-R');
+                 return false;
+             }
+
+             $(obj).attr("disabled", "disabled");
+             var ajax = {
+                 url: '/about/feedbackAdd', type: 'POST', dataType: 'json', cache: false,
+                 data: { msg: fdCon },
+                 success: function (json, statusText) {
+                     $(obj).removeAttr("disabled", "disabled");
+                     if (json.success) {
+                         $('#feedbackCon').val('');
+                         sDialog.message("提交成功，感谢您的反馈！", "成功提示", 1500, 260, 60);
+                         canSendMsg = false;
+                         setTimeout(function () { canSendMsg = true; }, 60 * 1000);
+                         closeFeedback(); //关闭
+                     } else {
+                         sDialog.error(json.errors.text, "错误提示", 260, 80);
+                     }
+                 }
+             };
+             $.ajax(ajax);
+             return false;
+         }
+    </script>
+
+<!-- 底部帮助链接 -->
+<div class="help">
+	<div class="container" style="position: relative;">
+        <span class="linefoot"></span>
+		<div class="row">
+            <div class="col-9">	
+			    <dl class="col-2 help_item">
+				    <dt><a href="//bg.qianzhan.com/report/guide/yanjiuyuan.html" target="_blank">新手指南</a></dt>
+				    <dd><a href="//bg.qianzhan.com/report/guide/yanjiuyuan.html" target="_blank">关于前瞻研究院</a></dd>
+				    <dd><a href="//bg.qianzhan.com/report/guide/dinggou.html" target="_blank">关于订购</a></dd>
+				    <dd><a href="//bg.qianzhan.com/report/guide/productquestions.html" target="_blank">关于报告</a></dd>
+			    </dl>
+			    <dl class="col-2 help_item">
+				    <dt><a href="//bg.qianzhan.com/report/guide/yingxiangli.html" target="_blank">购买帮助</a></dt>
+                    <dd><a href="//bg.qianzhan.com/report/guide/yingxiangli.html" target="_blank">品牌影响力</a></dd>								
+				    <dd><a href="//bg.qianzhan.com/report/guide/pingjia.html" target="_blank">客户评价</a></dd>
+                    <dd><a href="//bg.qianzhan.com/report/guide/certificate.html" target="_blank">企业资质</a></dd>
+			    </dl>
+			    <dl class="col-2 help_item">
+				    <dt><a href="//bg.qianzhan.com/report/guide/payinfo.html" target="_blank">配送支付</a></dt>
+				    <dd><a href="//bg.qianzhan.com/report/guide/payinfo.html" target="_blank">支付方式</a></dd>
+				    <dd><a href="//bg.qianzhan.com/report/guide/deliver.html" target="_blank">发货与配送</a></dd>
+				    <dd><a href="//bg.qianzhan.com/report/guide/invoice.html" target="_blank">发票说明</a></dd>
+			    </dl>
+			    <dl class="col-2 help_item">
+				    <dt><a href="//bg.qianzhan.com/report/guide/saleservice.html" target="_blank">售后保障</a></dt>
+				    <dd><a href="//bg.qianzhan.com/report/guide/saleservice.html" target="_blank">售后条款</a></dd>
+				    <dd><a href="//bg.qianzhan.com/report/guide/quality.html" target="_blank">品质保证</a></dd>
+				    <dd><a href="//bg.qianzhan.com/report/guide/inform.html" target="_blank">投诉与举报</a></dd>
+			    </dl>
+                <dl class="col-4 help_item help_item_zhixun">
+				    <dt><a href="https://f.qianzhan.com/" target="_blank">规划·咨询</a></dt>
+				    <dd>
+                        <a href="https://f.qianzhan.com/chanyeguihua2/" target="_blank">产业规划</a>					    
+				    </dd>
+                    <dd>
+					    <a href="https://f.qianzhan.com/keyan/" target="_blank">可行性研究</a>
+				    </dd>				    				    
+                    <dd>
+					    <a href="https://f.qianzhan.com/yuanqu/" target="_blank">园区规划</a>
+				    </dd>
+                    <dd>
+					    <a href="https://bg.qianzhan.com/report/reportdingzhi" target="_blank">专项市场调研</a>
+				    </dd>
+                    <dd>
+					    <a href="https://f.qianzhan.com/chanyezhaoshang/" target="_blank">产业招商</a>
+				    </dd>				    
+				    <dd>
+					    <a href="https://bg.qianzhan.com/report/qyppcs" target="_blank">行业地位证明</a>
+				    </dd>
+			    </dl>
+            </div>
+			<div class="col-3">
+				<div class="row">
+					<dl class="col-8 help_item" style="padding-left: 0;">
+						<dt>联系客服</dt>
+						<dd>服务热线：<span class="help_tel">400-068-7188</span></dd>
+						<dd>售后热线：<span class="help_tel">0755-33013088</span></dd>						
+					</dl>
+					<dl class="col-4 help_item help_qr">
+						<dt>关注我们</dt>
+						<dd><img src="https://img1.qianzhan.com/2017bg/images/wixin.jpg" class="weixin" alt="关注前瞻产业研究院"></dd>
+					</dl>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- 底部版权 -->
+<div class="ft">
+    <div class="ft_link"><a href="//bg.qianzhan.com/report/guide/yanjiuyuan.html" target="_blank">关于我们</a><i>|</i><a href="//bg.qianzhan.com/report/guide/contact.html" target="_blank">联系我们</a><i>|</i><a href="//t.qianzhan.com/help/cooperation" target="_blank">媒体合作</a><i>|</i><a href="//t.qianzhan.com/help/disclaimer" target="_blank">免责声明</a><i>|</i><a href="//t.qianzhan.com/help/termsofservice" target="_blank">服务条款</a><i>|</i><a href="//t.qianzhan.com/help/feedback" target="_blank">问题反馈</a></div>
+    <div class="ft_link"><span>违法和不良信息举报电话：400-068-7188　　举报邮箱：service@qianzhan.com</span>　　<a href="https://t.qianzhan.com/help/feedback" target="_blank" class="c9">在线反馈/投诉</a>　　<a href="https://www.piyao.org.cn/mobile.htm" target="_blank">中国互联网联合辟谣平台</a></div>
+    <div class="ft_copyright"><span>Copyright © 1998-2024</span><span>深圳前瞻资讯股份有限公司</span><span>All rights reserved.</span><a href="https://www.qianzhan.com/go/pHSH3T" target="_blank">粤ICP备11021828号-2</a><span>增值电信业务经营许可证：<a href="//www.qianzhan.com/html/icp.html" target="_blank">粤B2-20130734</a></span></div>
+</div>
+
+<script type="text/javascript">
+    var _host = "bg.qianzhan.com";
+    var _code = "86780bd5c039f606162c443afad3a227";
+    if (_host == "bg.qianzhan.com")
+        _code = "a9b00cf154400f0153e60e8b50b2c34a";
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?" + _code;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+    <script type="text/javascript">
+        var sizeW = window.screen.width, sizeH = window.screen.height;
+        $().ready(function () {
+            var nsize = sizeW + 'x' + sizeH;
+            var size = sDialog.getCookie('screensize');
+            if (nsize != size) {
+                sDialog.setCookie('screensize', nsize, 30 * 24 * 60);
+            }
+
+            // 标识广告
+            var $adDiv = "<p style='position: absolute;display: inline-block;bottom: 20px;right: 20px;background: rgba(0,0,0,0.6);padding: 2px 5px;font-size: 12px;color: #ddd;z-index:99;transform: scale(0.8)'>广告</p>";
+            $(".advBox").each(function () {
+                if ($(this).find("img").length > 0) {
+                    $(this).css("position", "relative");
+                    $(this).append($adDiv);
+                }
+            });
+        });
+    </script>
+
+
+</body></html>

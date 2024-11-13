@@ -1,0 +1,860 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>AI发展历史 - 幂简集成</title>
+	<meta name="description" content="在很多人的认知中“AI=大模型=人工智能”，要深入理解这些技术的相关性及差异，就需要从人工智能发展史的角度来剖析，从各个技术的演化方向来理解，从而对当下热点的大语言模型、智能识别、计算机视觉、AI生成、AI Agent、RAG应用等的走向有个清晰认知。">
+	<link rel="canonical" href="https://www.explinks.com/wiki/ai-history/">
+	<script type="text/javascript" charset="UTF-8" async="" src="https://sdk.51.la/js-sdk-pro.min.js" id="LA_COLLECT"></script><script async="" src="https://cdn.matomo.cloud/explinks.matomo.cloud/matomo.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MZMQT7ML"></script><script src="https://hm.baidu.com/hm.js?73ff955c8b5d4daa7b9a86b986d7ee7a"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":{"0":{"@type":"TechArticle","@id":"https://www.explinks.com/wiki/ai-history/#article","isPartOf":{"@id":"https://www.explinks.com/wiki/ai-history/"},"author":{"name":"姚建东","@id":"https://www.explinks.com/#/schema/person/0a4c4bc596e43a9a377517500d0d87f5"},"headline":"AI发展历史","datePublished":"2024-06-27T11:42:58+00:00","dateModified":"2024-11-07T01:28:27+00:00","mainEntityOfPage":{"@id":"https://www.explinks.com/wiki/ai-history/"},"wordCount":528,"publisher":{"@id":"https://www.explinks.com/#organization"},"image":{"@id":"https://www.explinks.com/wiki/ai-history/#primaryimage"},"thumbnailUrl":"https://cdn.explinks.com/wp-content/uploads/2024/06/image-690.png","inLanguage":"zh-CN"},"1":{"@type":"WebPage","@id":"https://www.explinks.com/wiki/ai-history/","url":"https://www.explinks.com/wiki/ai-history/","name":"AI发展历史 - 幂简集成","isPartOf":{"@id":"https://www.explinks.com/#website"},"primaryImageOfPage":{"@id":"https://www.explinks.com/wiki/ai-history/#primaryimage"},"image":{"@id":"https://www.explinks.com/wiki/ai-history/#primaryimage"},"thumbnailUrl":"https://cdn.explinks.com/wp-content/uploads/2024/06/image-690.png","datePublished":"2024-06-27T11:42:58+00:00","dateModified":"2024-11-07T01:28:27+00:00","description":"在很多人的认知中“AI=大模型=人工智能”，要深入理解这些技术的相关性及差异，就需要从人工智能发展史的角度来剖析，从各个技术的演化方向来理解，从而对当下热点的大语言模型、智能识别、计算机视觉、AI生成、AI Agent、RAG应用等的走向有个清晰认知。","breadcrumb":{"@id":"https://www.explinks.com/wiki/ai-history/#breadcrumb"},"inLanguage":"zh-CN","potentialAction":[{"@type":"ReadAction","target":["https://www.explinks.com/wiki/ai-history/"]}]},"2":{"@type":"ImageObject","inLanguage":"zh-CN","@id":"https://www.explinks.com/wiki/ai-history/#primaryimage","url":"https://cdn.explinks.com/wp-content/uploads/2024/06/image-690.png","contentUrl":"https://cdn.explinks.com/wp-content/uploads/2024/06/image-690.png","width":678,"height":433},"4":{"@type":"WebSite","@id":"https://www.explinks.com/#website","url":"https://www.explinks.com/","name":"幂简集成","description":"品种超全的API平台","publisher":{"@id":"https://www.explinks.com/#organization"},"alternateName":"Explinks","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.explinks.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"zh-CN"},"5":{"@type":"Organization","@id":"https://www.explinks.com/#organization","name":"北京幂简科技有限公司","alternateName":"幂简科技","url":"https://www.explinks.com/","logo":{"@type":"ImageObject","inLanguage":"zh-CN","@id":"https://www.explinks.com/#/schema/logo/image/","url":"https://cdn.explinks.com/wp-content/uploads/2024/07/image-e1703211764687-new.png","contentUrl":"https://cdn.explinks.com/wp-content/uploads/2024/07/image-e1703211764687-new.png","width":494,"height":149,"caption":"北京幂简科技有限公司"},"image":{"@id":"https://www.explinks.com/#/schema/logo/image/"}}}}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<meta name="keywords" content="AI发展历史,wiki,开发者,api学院,幂简集成">    <link rel="stylesheet" href="https://cdn.explinks.com/wp-content/uploads/blocksy/css/global.css">
+    <link rel="stylesheet" href="https://cdn.explinks.com/wp-content/uploads/blocksy/css/main.min.css">
+    <link rel="stylesheet" href="https://cdn.explinks.com/wp-content/uploads/explinks/css/style.css?ver=1.0719">
+	<link rel="stylesheet" href="https://cdn.explinks.com/wp-content/uploads/explinks/css/blog-index.css?ver=1.0719">
+    <link rel="stylesheet" href="https://cdn.explinks.com/wp-content/uploads/explinks/css/header-footer.css?ver=1.0719">	
+    <!-- search -->
+    <link rel="stylesheet" href="https://cdn.explinks.com/wp-content/uploads/explinks/css/search-box.css?ver=1.0809">
+    <script src="https://cdn.explinks.com/wp-content/uploads/explinks/js/search-box.js?ver=1.0809"></script>
+		<link rel="stylesheet" href="https://cdn.explinks.com/wp-content/uploads/explinks/css/markdown-theme-github.css?ver=1.0726">	
+	        <script src="https://static.explinks.com/hub/static/script/baidu-analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5CKJRYRB2J"></script>
+    </head>
+
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZMQT7ML"
+height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div id="main-container" class="blog_main_box_lxx blog_main_box_lxx_detail">
+		<!--头部start-->		
+		         <div id="headerID" style="padding-bottom: 100px;">
+			<div class="lxx_dialog_mark_box"></div>            
+        	<div class="lxx_header_box">
+				<div class="lxx_header_box_shadow">
+					<section class="main lxx_main">
+						<div class="lxx_main_left">
+						    <a href="https://www.explinks.com">
+						    <img src="https://cdn.explinks.com/wp-content/uploads/2023/12/image-e1703211764687-new.png" alt="幂简集成LOGO">
+						    </a>
+							
+							<div class="lxx_main_left_box">
+								<div class="lxx_menu_box">
+									<div class="lxx_menu_item"><a href="/api">API Hub</a></div>
+									<div class="lxx_menu_item"><a href="/provider">开放平台</a></div>
+									<div class="lxx_menu_item"><a href="/blog">API学院</a></div>
+									<div class="lxx_menu_item"><a href="/wiki">词汇表</a></div>
+									<div class="lxx_menu_item"><a href="/docs/what-is-explinks">产品介绍</a></div>
+									<div class="lxx_menu_item"><a href="/company/about">关于我们</a></div>								</div>
+							</div>
+						</div>
+						<div id="mt-search-box" style="width: 200px;height: 62px;"></div>
+						<div class="lxx_main_right">
+							<a href="https://console.explinks.com/" target="_blank" rel="nofollow" class="btn_lxx">控制台</a> 
+						</div>
+					</section>
+				</div>				
+			</div>
+		</div>		         
+       	
+	<!--头部end-->
+
+<!-- mian content begin -->
+<div class="article-index" style="margin-bottom: 15px;font-size: 16px;">
+     <a href="/wiki/">所有WIKI</a> &gt; 
+          <a href="https://www.explinks.com/wiki/filter-A/">A字母</a> &gt; 
+          AI发展历史</div>
+<div class="blog_main_box_content flex JC-between">
+     <!-- wiki正文 -->
+     <div class="blog_main_box_content_left">
+         <div class="blog_detail_box">             
+                          <h1 class="blog_detail_title">AI发展历史</h1>
+             <div class="detail_date_row  AI-center">
+                 <div class="article_date_box">2024-06-27</div> 
+             </div> 
+             <div class="markdown-body blog_detail_content">
+                <div>
+                    <!--  <span class="detail_tag">【】</span> -->
+                    <span>
+<p>在过去的十年里，人工智能（<a href="https://www.explinks.com/wiki/what-is-an-ai-assistant/" data-type="link" data-id="https://www.explinks.com/wiki/what-is-an-ai-assistant/">AI</a>）领域经历了翻天覆地的变化，特别是大规模语言模型的飞速发展，使得公众几乎将AI与这些庞大的模型划上了等号。为了深入理解这些技术之间的联系和差异，我们需要从AI的发展历史着手，探索不同技术的演进路径，以便对当前的热门技术如巨型语言模型、智能识别、计算机视觉、AI创作、AI代理、RAG等有一个基本的认识。</p>
+
+
+
+<p>回顾AI的发展历程，我们可以将其大致划分为六个主要阶段。尽管对于这一历史分期存在一些争议，但这并不影响我们对AI发展脉络的把握。这种分期方法主要是基于神经网络模型的演化来进行的。实际上，模型的发展与技术创新密切相关，并且与计算机的计算能力有着直接的联系。例如，在神经网络最初被提出时，许多学者对此表现出极大的兴趣，但由于当时计算能力的限制，AI的发展经历了一段漫长的停滞期。</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="678" height="433" src="https://cdn.explinks.com/wp-content/uploads/2024/06/image-690.png" alt="" class="wp-image-14958" srcset="https://cdn.explinks.com/wp-content/uploads/2024/06/image-690.png 678w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-690-229x146.png 229w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-690-150x96.png 150w" sizes="(max-width: 678px) 100vw, 678px"></figure>
+
+
+
+<p><br></p>
+
+
+
+<p>1、人工智能起步发展期：1943年—20世纪60年代<br>2、人工智能反思发展期：20世纪70年代<br>3、人工智能应用发展期：20世纪80年代<br>4、人工智能平稳发展期：20世纪90年代—2010年<br>5、人工智能蓬勃发展期：2011年-2018年<br>6、LLM繁荣发展期：2018年-2023年</p>
+
+
+
+<h2 id="title-0" class="wp-block-heading">起步发展期：1943年—20世纪60年代</h2>
+
+
+
+<p>自从人工智能（AI）这个概念被提出，它就逐渐分化为两大主要学派：符号主义和联结主义（神经网络），并取得了一系列重要的科学成果，例如机器证明定理、下棋程序和人机对话等，这些都推动了人工智能历史上的第一个发展高潮。</p>
+
+
+
+<p>1943年，美国神经科学家沃伦·斯特·麦卡洛克和逻辑学家沃尔特·皮茨提出了神经元的数学模型，为现代人工智能学科的建立奠定了基础。</p>
+
+
+
+<p>1950年，艾伦·图灵提出了著名的“图灵测试”，使得机器智能的概念开始被广泛认知。同年，克劳德·香农提出了计算机下棋的构想。</p>
+
+
+
+<p>1956年，在达特茅斯学院的夏季研讨会上，“人工智能”这一术语被正式提出，标志着人工智能作为一个独立学科的诞生。</p>
+
+
+
+<p>1957年，弗兰克·罗森布拉特在IBM-704计算机上实现了他发明的“感知机”模型，这是早期神经网络研究的一个重要里程碑。</p>
+
+
+
+<p>1958年，大卫·考克斯提出了逻辑回归模型，这是一种线性分类模型，结构与感知机相似，但使用了Sigmoid激活函数，目的是最大化分类的准确性。</p>
+
+
+
+<p>1959年，亚瑟·塞缪尔首次定义了机器学习：一个旨在让计算机能够自主学习而无需显式编程的研究领域。</p>
+
+
+
+<p>1961年，伦纳德·乌尔和查尔斯·沃斯勒发表了一篇关于模式识别的论文，描述了他们尝试利用机器学习或自组织过程来设计模式识别程序。</p>
+
+
+
+<p>1965年，I.J. 古德提出了“AI威胁论”，警告说机器的超级智能可能会超出人类的控制，这一观点后来被多位科学家进一步探讨。</p>
+
+
+
+<p>1966年，麻省理工学院的约瑟夫·魏岑鲍姆开发了ELIZA程序，使得人与计算机之间的自然语言对话成为可能，ELIZA通过关键词匹配规则来生成回复。</p>
+
+
+
+<p>1967年，托马斯等人提出了K最近邻（KNN）算法，这是一种基于实例最近邻数据的分类方法。</p>
+
+
+
+<p>1968年，爱德华·费根鲍姆提出了首个专家系统DENDRAL，并定义了“知识库”这一概念。该系统在化学领域拥有丰富的知识，能够通过质谱数据推断分子结构，这标志着人工智能史上第二次浪潮的开始。</p>
+
+
+
+<p>1969年，马文·明斯基在其著作《感知器》中提出了XOR问题，指出单层感知器无法解决XOR这类线性不可分问题，这一发现导致神经网络研究进入了一个长达十年的低谷期。</p>
+
+
+
+<h2 id="title-1" class="wp-block-heading">反思发展期：20世纪70年代</h2>
+
+
+
+<p>在人工智能的早期发展阶段，尽管取得了一些突破性的成果，但在尝试解决更复杂问题时，受限于当时的计算能力限制和理论发展的不足，许多预期的目标未能实现，导致人工智能领域经历了一个相对平静的时期。</p>
+
+
+
+<p>1974年，哈佛大学的保罗·沃博斯在其博士论文中首次提出了利用误差反向传播（BP算法）来训练人工神经网络的理论。尽管这一时期的研究并未受到广泛关注，但BP算法的核心思想是利用误差的导数（梯度）来调整权重，以期逐步减少误差，最终使网络具备“万能近似”的能力。</p>
+
+
+
+<p>1975年，马文·明斯基在论文《框架理论》中提出了知识表示的学习框架，这成为了人工智能研究的一个关键转折点。</p>
+
+
+
+<p>1976年，兰德尔·戴维斯致力于开发和维护庞大的知识库，并提出通过集成面向对象的模型可以增强知识库的开发、维护和应用的一致性。同年，斯坦福大学的爱德华·肖特利夫等开发了首个用于诊断和治疗血液感染的医疗专家系统MYCIN。</p>
+
+
+
+<p>同年，斯坦福大学的勒纳特发表了论文《启发式搜索在数学中的应用》，介绍了一个名为“AM”的程序，该程序利用大量启发式规则来探索新的数学概念，并重新发现了数百个数学中的标准概念和定理。</p>
+
+
+
+<p>1977年，海斯·罗思等人开发的基于逻辑的机器学习系统取得了初步进展，尽管当时它只能学习单一概念，还未能在实际应用场景中广泛使用。</p>
+
+
+
+<p>1979年，汉斯·贝利纳开发的计算机程序在双陆棋比赛中战胜了世界冠军，这一成就标志着人工智能发展的一个重要里程碑。随后，在罗德尼·布鲁克斯和其他人的努力下，基于行为的机器人学迅速崛起，成为人工智能的一个重要分支。同时，格瑞·特索罗开发的自学双陆棋程序也为后来的强化学习研究奠定了基础。</p>
+
+
+
+<h2 id="title-2" class="wp-block-heading">应用发展期：20世纪80年代</h2>
+
+
+
+<p>人工智能的发展进入了一个新的高峰期，这标志着其历史上又一个快速增长阶段。专家系统通过模仿人类专家的知识和经验来解决特定领域的问题，实现了人工智能从理论探索到实际应用、从一般推理策略的讨论到专门知识应用的重大转变。同时，机器学习（尤其是神经网络）探索了不同的学习策略和各种学习方法，并在众多实际应用中逐步恢复活力。</p>
+
+
+
+<p>1980年，卡内基梅隆大学（CMU）举办了首届机器学习国际研讨会，这标志着机器学习研究在全球范围内的兴起。</p>
+
+
+
+<p>同年，德鲁·麦迪蒙和乔恩·多伊尔提出了非单调逻辑，以及随后的机器人系统。</p>
+
+
+
+<p>1980年，卡耐基梅隆大学为DEC公司开发了XCON专家系统，该系统每年为公司节省了四千万美元，取得了巨大成功。</p>
+
+
+
+<p>1981年，R.P. Paul出版了第一本机器人学教科书《机器人操纵器：数学、编程和控制》，这标志着机器人学科的成熟。</p>
+
+
+
+<p>1982年，大卫·马尔发表了他的代表作《视觉计算理论》，提出了计算机视觉的概念，并构建了系统的视觉理论，对认知科学产生了深远影响。</p>
+
+
+
+<p>同年，约翰·霍普菲尔德发明了霍普菲尔德网络，这是最早的递归神经网络（RNN）的原型。霍普菲尔德神经网络模型是一种单层反馈神经网络，具有从输出到输入的反馈连接，它的出现极大地激发了神经网络领域的兴趣。</p>
+
+
+
+<p>1983年，特伦斯·谢诺夫斯基和杰弗里·欣顿等人发明了玻尔兹曼机，也称为随机霍普菲尔德网络，这是一种无监督模型，用于对输入数据进行重构以提取数据特征进行预测分析。</p>
+
+
+
+<p>1985年，朱迪亚·珀尔提出了贝叶斯网络，他以倡导人工智能的概率方法和发展贝叶斯网络而闻名，还因发展了一种基于结构模型的因果和反事实推理理论而受到赞誉。贝叶斯网络是一种模拟人类推理过程中因果关系的不确定性处理模型，如常见的朴素贝叶斯分类算法就是贝叶斯网络最基本的应用。</p>
+
+
+
+<p>1986年，罗德尼·布鲁克斯发表了论文《移动机器人鲁棒分层控制系统》，这标志着基于行为的机器人学科的创立，机器人学界开始关注实际工程主题。</p>
+
+
+
+<p>同年，杰弗里·欣顿等人提出了多层感知器（MLP）与反向传播（BP）训练相结合的理念，解决了单层感知器无法进行非线性分类的问题，开启了神经网络的新高潮。</p>
+
+
+
+<p>同年，罗斯·昆兰提出了ID3决策树算法。决策树模型可视为多个规则的组合，与神经网络的黑盒模型不同，它具有良好的模型解释性。ID3算法的核心思想是通过自顶向下的贪心策略构建决策树，根据信息增益来选择特征进行划分。</p>
+
+
+
+<p>1989年，乔治·西本科证明了“万能近似定理”，简单来说，多层前馈网络可以近似任意函数，其表达力与图灵机等价，从根本上消除了对神经网络表达力的质疑。</p>
+
+
+
+<p>同年，扬·勒丘恩结合反向传播算法与权值共享的卷积神经层发明了卷积神经网络（CNN），并首次将CNN成功应用于美国邮局的手写字符识别系统中。CNN通常由输入层、卷积层、池化层和全连接层组成，卷积层负责提取图像中的局部特征，池化层用于降低参数量级，全连接层则输出结果。</p>
+
+
+
+<h2 id="title-3" class="wp-block-heading">平稳发展期：20世纪90年代—2010年</h2>
+
+
+
+<p>互联网技术的迅猛发展极大地推动了人工智能领域的创新研究，使得AI技术变得更加实用，人工智能的各个分支都取得了显著的进步。在2000年代初，由于专家系统需要编码大量明确的规则，这不仅降低了效率还增加了成本，因此人工智能研究的重点从基于知识系统转向了机器学习，这是AI发展史上的一个重大转变。</p>
+
+
+
+<p>1995年，Cortes和Vapnik提出了支持向量机（SVM），它在处理小样本、非线性及高维模式识别问题时展现了显著的优势，并能扩展到函数拟合等其他机器学习问题。SVM是在感知机基础上的改进，基于统计学习理论的VC维理论和结构风险最小化原则，与感知机的主要区别在于SVM寻找的是最大化样本间隔的超平面，具有更强的泛化能力，并通过核函数处理线性不可分问题。</p>
+
+
+
+<p>同年，Freund和Schapire提出了AdaBoost算法，这是一种Boosting集成学习方法，通过串行组合弱学习器来提升泛化性能。与Bagging方法不同，Boosting主要优化偏差。</p>
+
+
+
+<p>1997年，IBM的深蓝超级计算机战胜了国际象棋世界冠军加里·卡斯帕罗夫，深蓝通过穷举所有可能的走法并执行深度搜索来实现智能。</p>
+
+
+
+<p>同年，Sepp Hochreiter和Jürgen Schmidhuber提出了长短期记忆网络（LSTM），这是一种复杂的循环神经网络，通过引入遗忘门、输入门和输出门来解决长序列训练中的梯度消失问题。</p>
+
+
+
+<p>1998年，蒂姆·伯纳斯-李提出了语义网的概念，目的是通过添加计算机可理解的语义元数据，使互联网成为一个基于语义链接的通用信息交换媒介。</p>
+
+
+
+<p>2001年，John Lafferty提出了条件随机场模型（CRF），这是一种基于贝叶斯理论的判别式概率图模型，在自然语言处理任务中表现出色。</p>
+
+
+
+<p>同年，布雷曼博士提出了随机森林算法，这是一种通过Bagging并行组合多个有差异的弱学习器来优化泛化性能的集成学习方法。</p>
+
+
+
+<p>2003年，David Blei, Andrew Ng和Michael I. Jordan提出了LDA，这是一种无监督学习方法，用于推测文档的主题分布。</p>
+
+
+
+<p>同年，Google发表了三篇大数据领域的奠基性论文，为大数据存储和分布式处理提供了理论基础。</p>
+
+
+
+<p>2005年，波士顿动力公司推出了一款具有动力平衡的四足机器狗，能够适应复杂地形。</p>
+
+
+
+<p>2006年，杰弗里·辛顿和他的学生鲁斯兰·萨拉赫丁诺夫正式提出了深度学习的概念，开启了深度学习在学术界和工业界的浪潮，辛顿也因此被誉为深度学习之父。深度学习使用多层隐藏层网络结构，通过大量的向量计算来学习数据的高阶表示。</p>
+
+
+
+<p>2010年，Sinno Jialin Pan和Qiang Yang发表了关于迁移学习的调查文章。迁移学习是利用已有知识（如训练好的网络权重）来学习新知识以适应特定目标任务的方法，核心在于找到已有知识和新知识之间的相似性。</p>
+
+
+
+<h2 id="title-4" class="wp-block-heading">蓬勃发展期：2011年-2018年</h2>
+
+
+
+<p>随着大数据、云计算、互联网、物联网等信息技术的发展，泛在感知数据和图形处理器等计算平台推动以深度神经网络为代表的人工智能技术飞速发展，大幅跨越了科学与应用之间的技术鸿沟，诸如<strong>图像分类、语音识别、知识问答、人机对弈、无人驾驶</strong>等人工智能技术实现了重大的技术突破，迎来人工智能发展史上首次爆发式增长的新高潮，大批<strong>智能识别企业</strong>及应用由此诞生。</p>
+
+
+
+<p>2011年，IBM Watson问答机器人参与Jeopardy回答测验比赛最终赢得了冠军。Waston是一个集自然语言处理、知识表示、自动推理及机器学习等技术实现的电脑问答（Q&amp;A）系统。</p>
+
+
+
+<p>2012年，Hinton和他的学生Alex Krizhevsky设计的<strong>AlexNet神经网络模型</strong>在ImageNet竞赛大获全胜，这是史上第一次有模型在 ImageNet 数据集表现如此出色，并引爆了神经网络的研究热情。<br>AlexNet是一个经典的<strong>CNN模型</strong>，在数据、算法及算力层面均有较大改进，创新地应用了Data Augmentation、ReLU、Dropout和LRN等方法，并使用<strong>GPU</strong>加速网络训练。</p>
+
+
+
+<p>2012年，谷歌正式发布谷歌知识图谱Google Knowledge Graph），它是Google的一个从多种信息来源汇集的知识库，通过Knowledge Graph来在普通的字串搜索上叠一层相互之间的关系，协助使用者更快找到所需的资料的同时，也可以知识为基础的搜索更近一步，以提高Google搜索的质量。知识图谱是结构化的语义知识库，是符号主义思想的代表方法，用于以符号形式描述物理世界中的概念及其相互关系。其通用的组成单位是RDF三元组(实体-关系-实体)，实体间通过关系相互联结，构成网状的知识结构。</p>
+
+
+
+<p>2013年，Durk Kingma和Max Welling在ICLR上以文章《Auto-Encoding Variational Bayes》提出<strong>变分自编码器</strong>（<strong>Variational Auto-Encoder，VAE</strong>）。<br>VAE基本思路是将真实样本通过编码器网络变换成一个理想的数据分布，然后把数据分布再传递给解码器网络，构造出生成样本，模型训练学习的过程是使生成样本与真实样本足够接近。</p>
+
+
+
+<p>2013年，Google的Tomas Mikolov 在《Efficient Estimation of Word Representation in Vector Space》提出经典的 Word2Vec模型用来学习单词分布式表示，因其简单高效引起了工业界和学术界极大的关注。<br>Word2Vec基本的思想是学习每个单词与邻近词的关系，从而将单词表示成低维稠密向量。通过这样的分布式表示可以学习到单词的语义信息，直观来看，语义相似的单词的距离相近。<br>Word2Vec网络结构是一个浅层神经网络（输入层-线性全连接隐藏层-&gt;输出层），按训练学习方式可分为CBOW模型(以一个词语作为输入，来预测它的邻近词)或Skip-gram模型 (以一个词语的邻近词作为输入，来预测这个词语)。</p>
+
+
+
+<p>2014年，聊天程序“尤金·古斯特曼”（Eugene Goostman）在英国皇家学会举行的“2014图灵测试”大会上，首次“通过”了图灵测试。</p>
+
+
+
+<p>2014年，Goodfellow及Bengio等人提出生成对抗网络（Generative Adversarial Network，GAN），被誉为近年来最酷炫的神经网络。<br>GAN是基于强化学习(RL)思路设计的，由生成网络(Generator, G)和判别网络(Discriminator, D)两部分组成， 生成网络构成一个映射函数G: Z→X（输入噪声z, 输出生成的伪造数据x）, 判别网络判别输入是来自真实数据还是生成网络生成的数据。在这样训练的博弈过程中，提高两个模型的生成能力和判别能力。</p>
+
+
+
+<p>2015年，为纪念人工智能概念提出60周年，深度学习三巨头LeCun、Bengio和Hinton(他们于2018年共同获得了图灵奖)推出了深度学习的联合综述《Deep learning》。<br>《Deep learning》文中指出深度学习就是一种特征学习方法，把原始数据通过一些简单的但是非线性的模型转变成为更高层次及抽象的表达，能够强化输入数据的区分能力。通过足够多的转换的组合，非常复杂的函数也可以被学习。</p>
+
+
+
+<p>2015年，Microsoft Research的Kaiming He等人提出的<strong>残差网络（ResNet）</strong>在ImageNet大规模视觉识别竞赛中获得了图像分类和物体识别的优胜。<br>残差网络的主要贡献是发现了网络不恒等变换导致的“退化现象（Degradation）”，并针对退化现象引入了 “快捷连接（Shortcut connection）”，缓解了在深度神经网络中增加深度带来的梯度消失问题。</p>
+
+
+
+<p>2015年，谷歌开源TensorFlow框架。它是一个基于数据流编程（dataflow programming）的符号数学系统，被广泛应用于各类机器学习（machine learning）算法的编程实现，其前身是谷歌的神经网络算法库DistBelief。</p>
+
+
+
+<p>2015年，马斯克等人共同创建OpenAI。它是一个非营利的研究组织，使命是确保通用人工智能 (即一种高度自主且在大多数具有经济价值的工作上超越人类的系统）将为全人类带来福祉。其发布热门产品的如：OpenAI Gym，GPT等。</p>
+
+
+
+<p>2016年，谷歌提出联邦学习方法，它在多个持有本地数据样本的分散式边缘设备或服务器上训练算法，而不交换其数据样本。<br>联邦学习保护隐私方面最重要的三大技术分别是： 差分隐私 ( Differential Privacy )、同态加密 ( Homomorphic Encryption )和 隐私保护集合交集 ( Private Set Intersection )，能够使多个参与者在不共享数据的情况下建立一个共同的、强大的机器学习模型，从而解决数据隐私、数据安全、数据访问权限和异构数据的访问等关键问题。</p>
+
+
+
+<p>2016年，AlphaGo与围棋世界冠军、职业九段棋手李世石进行围棋人机大战，以4比1的总比分获胜。<br>AlphaGo是一款围棋人工智能程序，其主要工作原理是“深度学习”，由以下四个主要部分组成：策略网络（Policy Network）给定当前局面，预测并采样下一步的走棋；快速走子（Fast rollout）目标和策略网络一样，但在适当牺牲走棋质量的条件下，速度要比策略网络快1000倍；价值网络（Value Network）估算当前局面的胜率；蒙特卡洛树搜索（Monte Carlo Tree Search）树搜索估算每一种走法的胜率。<br>在2017年更新的AlphaGo Zero，在此前的版本的基础上，结合了强化学习进行了自我训练。它在下棋和游戏前完全不知道游戏规则，完全是通过自己的试验和摸索，洞悉棋局和游戏的规则，形成自己的决策。随着自我博弈的增加，神经网络逐渐调整，提升下法胜率。更为厉害的是，随着训练的深入，AlphaGo Zero还独立发现了游戏规则，并走出了新策略，为围棋这项古老游戏带来了新的见解。</p>
+
+
+
+<p>2017年，中国香港的汉森机器人技术公司（Hanson Robotics）开发的类人机器人索菲亚，是历史上首个获得公民身份的一台机器人。索菲亚看起来就像人类女性，拥有橡胶皮肤，能够表现出超过62种自然的面部表情。其“大脑”中的算法能够理解语言、识别面部，并与人进行互动。</p>
+
+
+
+<h2 id="title-5" class="wp-block-heading">LLM繁荣发展期：2018年-2023年</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="754" height="584" src="https://cdn.explinks.com/wp-content/uploads/2024/06/image-691.png" alt="" class="wp-image-14959" srcset="https://cdn.explinks.com/wp-content/uploads/2024/06/image-691.png 754w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-691-189x146.png 189w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-691-150x116.png 150w" sizes="(max-width: 754px) 100vw, 754px"></figure>
+
+
+
+<p>这张图很好地展示了近年来大规模语言模型的发展，并突出了其中的一些最知名的模型。同一分支上的模型具有更紧密的关系。</p>
+
+
+
+<ul>
+<li>基于变压器的模型以非灰色显示</li>
+
+
+
+<li>蓝色分支中只有解码器的模型</li>
+
+
+
+<li>粉色分支中只有编码器的模型</li>
+
+
+
+<li>绿色的编码器-解码器模型分支</li>
+</ul>
+
+
+
+<p>模型在时间轴上的垂直位置表示它们的发布日期。开源模型表示为实心方形，而闭源模型则用空心方形表示。</p>
+
+
+
+<p>这些模型在其训练策略、模型架构和应用领域上存在差异。为了更清楚地了解LLM的格局，我们将它们分为两类：仅编码器或编码器-解码器语言模型以及仅解码器语言模型。在图1中，我们展示了语言模型的详细演化过程。从这个进化树中，我们得到一些有趣的观察结果：</p>
+
+
+
+<p>a）仅解码器模型逐渐主导了LLM的发展。在LLM发展的早期阶段，仅解码器模型不如仅编码器和编码器-解码器模型受欢迎。然而，在2021年之后，随着具有改变游戏规则的LLM（例如GPT-3）的引入，仅解码器模型经历了显著的发展。与此同时，在BERT带来的最初爆炸性增长之后，仅编码器模型逐渐开始衰落。</p>
+
+
+
+<p>b）OpenAI始终在LLM领域保持着领导地位，无论是当前还是未来。其他公司和机构在开发与GPT-3和当前的GPT-4相媲美的模型方面努力迎头赶上OpenAI。这种领导地位可以归因于OpenAI对技术道路的坚定承诺，即使最初并不被广泛认可。</p>
+
+
+
+<p>c）Meta在开源LLM方面作出了重要贡献，并促进了LLM的研究。在考虑到对开源社区的贡献，特别是与LLM相关的贡献时，Meta凸显出作为最慷慨的商业公司之一，因为Meta开发的所有LLM都是开源的。</p>
+
+
+
+<p>d）LLM呈现出趋向于封闭源的趋势。在LLM发展的早期阶段（2020年之前），大多数模型都是开源的。然而，随着GPT-3的引入，公司越来越倾向于封闭其模型，例如PaLM、LaMDA和GPT-4。因此，学术研究人员在LLM训练上进行实验变得更加困难。因此，基于API的研究可能会成为学术界主要的方法。</p>
+
+
+
+<p>e）编码器-解码器模型仍然具有前景，因为这种架构仍在积极探索，而且其中大多数都是开源的。谷歌对开源编码器-解码器架构做出了重大贡献。然而，解码器模型的灵活性和多功能性似乎使得谷歌对此方向的坚持不太具有前景。</p>
+
+
+
+<h2 id="title-6" class="wp-block-heading">2000年以来重要的人工智能企业</h2>
+
+
+
+<h3 id="title-7" class="wp-block-heading">1、波士顿动力公司（Boston Dynamics）</h3>
+
+
+
+<p>波士顿动力公司（英语：Boston Dynamics）创办与是一家美国的工程与机器人设计公司，此公司的著名产品包含在国防高等研究计划署（DARPA）出资下替美国军方开发的四足机器人：波士顿机械狗，以及DI-Guy，一套用于写实人类模拟的现成软件（COTS）。此公司早期曾和美国系统公司一同接受来自美国海军航空作战中心训练处（NAWCTSD）的一份合约，该合约的内容是要以DI-Guy人物的互动式3D电脑模拟，取代海军飞机弹射任务训练影片。</p>
+
+
+
+<p>该公司由Marc Raibert和其合伙人一起创办。Marc Raibert是著名的机器人学家。其28岁毕业于MIT，随后在CMU担任过副教授，并且在那里建立了CMUleg实验室研究与机器人有关的控制和视觉处理相关的技术。在37岁时回到MIT的继续从事机器人相关的科研和教学工作。在1992年，其与合伙人一起创办了Boston Dynamics这家公司，开启了机器人研究的新纪元。</p>
+
+
+
+<p>波士顿动力公司于&nbsp;2005&nbsp;年推出一款四足机器人——big Dog&nbsp;，它被人们亲切地称为&nbsp;“大狗”，也正是这款四足机器人让波士顿动力公司名声大噪。大狗抛开传统的轮式或履带式机器人，转而研究四足机器人，是因为四足机器人能够适应更多地形地貌，通过性能更强。同时，在波士顿动力公司发布的宣传视频中，Big Dog&nbsp;在装载着重物的情况下，仍能对人类从其侧面的踢踹做出灵敏的反应，始终保持站立的姿态。</p>
+
+
+
+<p>在2013年12月13日，波士顿动力公司被Google收购。2017年6月9日软银以不公开的条款收购谷歌母公司Alphabet旗下的波士顿动力公司。</p>
+
+
+
+<h3 id="title-8" class="wp-block-heading">2、IBM沃森挑战史上最强Jeopardy！</h3>
+
+
+
+<p>Watson是一种能够回答自然语言提出的问题的问答计算机系统，由主要研究员David Ferrucci领导的研究小组在IBM的DeepQA项目中开发。Watson以IBM的创始人兼第一任首席执行官工业家Thomas J. Watson的名字命名。</p>
+
+
+
+<p>最初开发Watson计算机系统是为了回答测验节目&nbsp;Jeopardy！中的问题，并且在2011年参与Jeopardy比赛与与冠军布拉德·鲁特（Brad Rutter）和肯·詹宁斯（Ken Jennings）竞争。最终赢得了胜利赢得一百万美元的冠军奖金。</p>
+
+
+
+<h3 id="title-9" class="wp-block-heading">3、谷歌自动驾驶汽车（Google self-driving car）</h3>
+
+
+
+<p>Google的自动驾驶技术开发始于2009年1月17日，一直在在该公司秘密的X实验室中进行，在2010年10月9日《纽约时报》透露其存在之后，当天晚些时候，谷歌通过正式宣布了自动驾驶汽车计划。该项目由斯坦福大学人工智能实验室（SAIL）的前负责人塞巴斯蒂安·特伦（Sebastian Thrun&nbsp;）和510系统公司和安东尼机器人公司的创始人安东尼·莱万多夫斯基（Anthony Levandowski）发起。</p>
+
+
+
+<p>在Google工作之前，Thrun和包括Dmitri Dolgov，Anthony Levandowski和Mike Montemerlo在内的15位工程师共同为SAIL开展了名为VueTool的数字地图技术项目。许多团队成员在2005 DARPA大挑战赛上见面，Thrun和Levandowski都有团队竞争自动无人驾驶汽车挑战。在2007年，Google收购了整个VueTool团队，以帮助推进Google的街景技术。</p>
+
+
+
+<p>作为街景服务开发的一部分，购买了100辆丰田普锐斯，并配备了莱康多夫斯基公司510 Systems开发的Topcon盒，数字地图硬件。2008年，街景小组启动了“地面真相”项目，目的是通过从卫星和街景中提取数据来创建准确的路线图。这为Google的自动驾驶汽车计划奠定了基础。</p>
+
+
+
+<p>2014年5月下旬，Google展示了其无人驾驶汽车的新原型，该汽车无方向盘，油门踏板或制动踏板，并且100％自治。12月，他们展示了一个功能完备的原型，计划从2015年初开始在旧金山湾区道路上进行测试。这款车名Firefly，旨在用作实验平台和学习，而不是大量生产。</p>
+
+
+
+<p>2015年，联合创始人Anthony Levandowski和CTO Chris Urmson离开了该项目。2015年8月，Google聘用了现代汽车前高管约翰·克拉夫奇克（John Krafcik）作为首席执行官。&nbsp;2015年秋天，Google向总工程师纳撒尼尔·费尔菲尔德（Nathaniel Fairfield）的合法盲人朋友提供了“世界上第一个完全无人驾驶的公共道路上的骑行服务”&nbsp;。这次乘车之旅由得克萨斯州奥斯汀市圣塔克拉拉谷盲中心的前首席执行官史蒂夫·马汉（Steve Mahan）乘车。这是公共道路上的第一个完全无人驾驶的汽车。它没有测试驾驶员或警察护送，也没有方向盘或地板踏板。截至2015年底，这辆汽车已实现超过100万英里的自驾里程。</p>
+
+
+
+<h3 id="title-10" class="wp-block-heading">4、OpenAI</h3>
+
+
+
+<p>OpenAI，由诸多硅谷大亨联合建立的人工智能非营利组织。2015年马斯克与其他硅谷科技大亨进行连续对话后，决定共同创建OpenAI，希望能够预防人工智能的灾难性影响，推动人工智能发挥积极作用。特斯拉电动汽车公司与美国太空技术探索公司SpaceX创始人马斯克、Y Combinator总裁阿尔特曼、天使投资人彼得·泰尔（Peter Thiel）以及其他硅谷巨头2014年12月份承诺向OpenAI注资10亿美元。</p>
+
+
+
+<p>OpenAI的使命是确保通用人工智能&nbsp;(Artificial General Intelligence, AGI)，即一种高度自主且在大多数具有经济价值的工作上超越人类的系统，将为全人类带来福祉。不仅希望直接建造出安全的、符合共同利益的通用人工智能，而且愿意帮助其它研究机构共同建造出这样的通用人工智能以达成他们的使命。</p>
+
+
+
+<h2 id="title-11" class="wp-block-heading">人工智能发展史关键人物图谱</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="796" src="https://cdn.explinks.com/wp-content/uploads/2024/06/image-697-1024x796.png" alt="" class="wp-image-14965" srcset="https://cdn.explinks.com/wp-content/uploads/2024/06/image-697-1024x796.png 1024w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-697-188x146.png 188w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-697-150x117.png 150w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-697-768x597.png 768w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-697-1536x1195.png 1536w, https://cdn.explinks.com/wp-content/uploads/2024/06/image-697-2048x1593.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<p>发展初期：</p>
+
+
+
+<p>1943年，美国神经科学家麦卡洛克（Warren McCulloch）和逻辑学家皮茨（Water Pitts）提出神经元的数学模型，这是现代人工智能学科的奠基石之一。</p>
+
+
+
+<p>1950年，艾伦·麦席森·图灵（Alan Mathison Turing）提出“图灵测试”（测试机器是否能表现出与人无法区分的智能），让机器产生智能这一想法开始进入人们的视野。</p>
+
+
+
+<p>1957年,弗兰克·罗森布拉特（Frank Rosenblatt）在一台IBM-704计算机上模拟实现了一种他发明的叫做“感知机”（Perceptron）的神经网络模型。</p>
+
+
+
+<p>1969年，“符号主义”代表人物马文·明斯基（Marvin Minsky）的著作《感知器》提出对XOR线性不可分的问题</p>
+
+
+
+<p>高潮期：</p>
+
+
+
+<p>2012年，Hinton和他的学生Alex Krizhevsky设计的<strong>AlexNet深度卷积神经网络模型</strong>在ImageNet竞赛大获全胜，标志着深度学习时代的来临。</p>
+
+
+
+<p>2013年，Google的Tomas Mikolov 在《Efficient Estimation of Word Representation in Vector Space》提出经典的 Word2Vec模型用来学习单词分布式表示。</p>
+
+
+
+<p>2014年，Goodfellow及Bengio等人提出生成对抗网络（Generative Adversarial Network，GAN），被誉为近年来最酷炫的神经网络。</p>
+
+
+
+<p>2018年，谷歌提出了<strong>Transformer模型</strong>。Transformer凭借其自注意力机制和encoder-decoder架构，在机器翻译、NLP等任务中取得了显著成效。随后的BERT、GPT系列模型更是将Transformer推向了巅峰，引领了自然语言处理领域的变革。</p>
+
+
+
+<h2 id="title-12" class="wp-block-heading">LLM繁荣的计算核心：GPU</h2>
+
+
+
+<p>GPU的定位是<strong>并行计算芯片，</strong>主要是将其中非常复杂的数学和几何计算抽出，变成一个超高密度、能够并行计算的方式。最初专用于图形处理，后渐渐用于高密度通用计算，包括AI计算。<br>GPU 的发展源于80年代，IBM是GPU理念的创始者，但它并未坚持。所以真正意义上的<strong>第一款GPU是英伟达在1999年发布的Geforce 256，</strong>并正式提出一个响亮的名字“Graphics Processing Unit”，这就是GPU的来源。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="362" src="https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739705807.png" alt="" class="wp-image-20740" srcset="https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739705807.png 1024w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739705807-238x84.png 238w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739705807-150x53.png 150w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739705807-768x272.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<p><strong>GPU早期是为了用于图形渲染</strong></p>
+
+
+
+<p>GPU早期一般为了3D渲染而设计。从计算机图形学的角度，GPU将三维事件的点阵通过矩阵变化投影到二维平面上，这个过程叫做光栅化，最终在显示器上结果。GPU的能力基本上是顶点处理、光栅化、像素处理等，这个过程包含大量的矩阵计算，刚好利用了GPU的并行性。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="463" src="https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739929091.png" alt="" class="wp-image-20741" srcset="https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739929091.png 1024w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739929091-238x108.png 238w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739929091-150x68.png 150w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283739929091-768x347.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<p><strong>GPU走向了通用计算</strong></p>
+
+
+
+<p>2003年，GPGPU（General Purpose computing on GPU）的概念被首次提出来。GPU不再以图形的3D加速为唯一目的，而是能够用于任意并行的通用计算，例如科学计算、数据分析、基因、云游戏、AIGC等。</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="527" src="https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283740052010.png" alt="" class="wp-image-20742" srcset="https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283740052010.png 1024w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283740052010-238x122.png 238w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283740052010-150x77.png 150w, https://cdn.explinks.com/wp-content/uploads/2024/10/企业微信截图_17283740052010-768x395.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+
+
+
+<p>随着2007年英伟达推出 CUDA 1.0版本，使其旗下所有 GPU 芯片都适应 CUDA 架构，CUDA生态和价格也是英伟达的最核心竞争力，也是英伟达万亿市值的关键因素之一。英伟达投入了一万以上的工程师在发展这个体系，基本上把人工智能里的大部分场景都做了深度优化。英伟达长期投入CUDA生态建设，为开发者服务，建立好了一系列的开源生态。</p>
+
+
+
+<h2 id="title-13" class="wp-block-heading">AI发展历史英文视频资料</h2>
+
+
+
+<p>A brief history of AI</p>
+
+
+
+<p><a href="https://www.explinks.com/links/75f955b926c1673098643156587dc434/?goto=https%3A%2F%2Fwww.voanews.com%2Fa%2Fhistory-of-ai%2F7466123.html" target="_blank" rel="nofollow">https://www.voanews.com/a/history-of-ai/7466123.html</a></p>
+
+
+
+<p>AI history：</p>
+
+
+
+<figure class="wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div style="width: 640px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-14957-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://originalfileserver.aminer.cn/sys/aminer/history/AI-history-1.mp4?_=1"><a href="https://www.explinks.com/links/195bc2e3d4b7062e7fb3af8d44eec76a/?goto=https%3A%2F%2Foriginalfileserver.aminer.cn%2Fsys%2Faminer%2Fhistory%2FAI-history-1.mp4" target="_blank" rel="nofollow">https://originalfileserver.aminer.cn/sys/aminer/history/AI-history-1.mp4</a></video></div>
+</div></figure>
+
+
+
+<h2 id="title-14" class="wp-block-heading">常见问题答案</h2>
+
+
+
+<p><strong>1、AI发展历史上有哪些重要的里程碑？<br></strong>答案：AI发展历史中的重要里程碑包括1956年达特茅斯会议上“人工智能”一词的首次提出、1960年代初期感知器的发明、1980年代专家系统的兴起、1997年IBM的深蓝战胜国际象棋冠军、以及2012年AlexNet在ImageNet竞赛中取得突破性胜利。</p>
+
+
+
+<p><strong>2、AI发展历史中有哪些关键的转折点？<br></strong>答案：AI发展历史中的关键转折点包括1956年达特茅斯会议的召开，这次会议标志着人工智能作为一个正式研究领域的诞生；1970年代末到1980年代初的AI寒冬，由于技术未能满足高期望而导致资金和兴趣的减少；以及2010年代深度学习的兴起，它带来了AI在图像识别、语音处理和自然语言理解等方面的显著进步。</p>
+
+
+
+<p><strong>3、在AI发展历史中，哪些事件促进了深度学习的发展？<br></strong>答案：在AI发展历史中，促进深度学习发展的事件包括2006年Hinton和他的学生提出深度信念网络和无监督预训练技术；2012年AlexNet在ImageNet竞赛中的胜利，这标志着深度卷积神经网络在图像识别任务中的有效性；以及随后GPU的广泛应用，它为训练大型深度学习模型提供了必要的计算能力。</p>
+
+
+
+<p><strong>4、AI发展历史中，哪些算法或模型对AI的进步起到了关键作用？<br></strong>答案： 在AI发展历史中，起到关键作用的算法或模型包括1950年代的感知器模型、1980年代的反向传播算法、1990年代的支持向量机（SVM）和随机森林，以及21世纪初的深度学习模型，如卷积神经网络（CNN）、循环神经网络（RNN）和长短期记忆网络（LSTM）。</p>
+
+
+
+<p><strong>5、AI发展历史中，哪些人物对AI的进步做出了重大贡献？<br></strong>答案：在AI发展历史中，对AI进步做出重大贡献的人物包括艾伦·图灵，他提出了图灵测试和图灵机的概念；马文·明斯基和约翰·麦卡锡，他们在达特茅斯会议上共同提出了“人工智能”这一术语；以及杰弗里·辛顿、杨立昆和约书亚·本吉奥，他们在深度学习领域的研究推动了AI的现代发展。</p>
+
+
+
+<p><strong>6、AI发展历史中，有哪些技术或应用改变了我们的生活方式？<br></strong>答案：在AI发展历史中，改变我们生活方式的技术或应用包括智能手机中的语音助手（如Siri和Google Assistant）、推荐系统（如Netflix和Amazon的个性化推荐）、自动驾驶汽车技术、以及医疗诊断中的AI应用，它们通过提高效率、便利性和安全性，极大地影响了我们的日常生活。</p>
+
+
+
+<h2 id="title-15" class="wp-block-heading">其他AI相关参考资料：</h2>
+
+
+
+<p><a href="https://www.explinks.com/api/ai_live_warm_up" target="_blank">直播AI生成暖场文案</a></p>
+
+
+
+<p><a href="https://www.explinks.com/api/ai_official_document_writing" target="_blank">AI公文写作</a></p>
+
+
+
+<p><a href="https://www.explinks.com/blog/ai-marketing-apis-enhance-brand-image-and-reputation/" data-type="link" data-id="https://www.explinks.com/blog/ai-marketing-apis-enhance-brand-image-and-reputation/">AI营销类API提升品牌形象和声誉</a></p>
+
+
+
+<p><a href="https://www.explinks.com/api/ai_business_growth_ideas" target="_blank">AI生成企业成长理念</a></p>
+
+
+
+<p><a href="https://www.explinks.com/blog/why-is-the-opportunity-for-ai-agent-to-b/" data-type="link" data-id="https://www.explinks.com/blog/why-is-the-opportunity-for-ai-agent-to-b/">为什么说AI Agent的机会在To B？</a></p>
+
+
+
+<p><a href="https://www.explinks.com/api/scd202407198442155f5177" target="_blank">Agentic AI 工作流程-Respell</a></p>
+
+
+
+<p></p>
+
+
+
+<h2 id="title-16" class="wp-block-heading">参考资料</h2>
+
+
+
+<p>转载自：<a href="https://www.explinks.com/links/6d1ae281a2eae25ede0a3ed1d952d6ac/?goto=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F1405798" target="_blank" rel="nofollow">四张图片道清AI大模型的发展史(1943-2023)</a><br><a href="https://www.explinks.com/links/8c969b7113fdcbb7987077b94bc042ce/?goto=https%3A%2F%2Fwww.aminer.cn%2Fai-history" target="_blank" rel="nofollow">AI发展历史</a><br><a href="https://www.explinks.com/links/4058ca7195feeb0095ead8f27f1d3638/?goto=https%3A%2F%2Flivevideostack.cn%2Fnews%2Finterview-20231226%2F" target="_blank" rel="nofollow">一文读懂GPU的过去、现在和未来</a><br><a href="https://www.explinks.com/links/64625ed74d2acb2a26d70751c5fb3501/?goto=https%3A%2F%2F36kr.com%2Fp%2F2775145128117377" target="_blank" rel="nofollow">AI芯片战争：英伟达是科技之巅？</a></p>
+</span>
+                </div>
+             </div>
+          </div>
+          <!-- 推荐阅读7篇 -->
+                    <!--  tag -->
+                    <!-- 上一个/下一个 -->
+                    
+     </div>
+     
+     <!-- 右侧滑动区 -->
+     <div class="blog_main_box_content_right">
+          <div id="blog_content_top" style="padding-top: 120px;margin-top: -120px;"></div>
+          <!-- API导航 -->
+          <div class="blog_find_api_box">
+              <div class="title_box">
+                搜索、试用、集成国内外API！
+              </div>
+              <div class="content_box">
+                幂简集成<a href="/" target="_blank">API平台</a>已有 <span style="color: red;">4665</span>种API!
+              </div>
+              <a href="/api" class="link_btn" target="_blank">API大全</a>
+          </div>
+          <!-- 同话题热门 -->
+                    <!-- 相似主题 -->
+                   <!-- 文章目录 -->
+              
+          <div class="blog_detail_index_box">
+              <div class="blog_detail_index_show" style="margin-top: 30px;">
+                  <div class="hot_article_title">
+                    内容目录
+                  </div>
+                  <div class="article-index">
+                    
+<ol id="index-ol"><li><a href="#title-0" title="起步发展期：1943年—20世纪60年代">起步发展期：1943年—20世纪60年代</a></li><li><a href="#title-1" title="反思发展期：20世纪70年代">反思发展期：20世纪70年代</a></li><li><a href="#title-2" title="应用发展期：20世纪80年代">应用发展期：20世纪80年代</a></li><li><a href="#title-3" title="平稳发展期：20世纪90年代—2010年">平稳发展期：20世纪90年代—2010年</a></li><li><a href="#title-4" title="蓬勃发展期：2011年-2018年">蓬勃发展期：2011年-2018年</a></li><li><a href="#title-5" title="LLM繁荣发展期：2018年-2023年">LLM繁荣发展期：2018年-2023年</a></li><li><a href="#title-6" title="2000年以来重要的人工智能企业">2000年以来重要的人工智能企业</a></li><ul id="index-ul"><li><a href="#title-7" title="1、波士顿动力公司（Boston Dynamics）">1、波士顿动力公司（Boston Dynamics）</a></li><li><a href="#title-8" title="2、IBM沃森挑战史上最强Jeopardy！">2、IBM沃森挑战史上最强Jeopardy！</a></li><li><a href="#title-9" title="3、谷歌自动驾驶汽车（Google self-driving car）">3、谷歌自动驾驶汽车（Google self-driving car）</a></li><li><a href="#title-10" title="4、OpenAI">4、OpenAI</a></li></ul><li><a href="#title-11" title="人工智能发展史关键人物图谱">人工智能发展史关键人物图谱</a></li><li><a href="#title-12" title="LLM繁荣的计算核心：GPU">LLM繁荣的计算核心：GPU</a></li><li><a href="#title-13" title="AI发展历史英文视频资料">AI发展历史英文视频资料</a></li><li><a href="#title-14" title="常见问题答案">常见问题答案</a></li><li><a href="#title-15" title="其他AI相关参考资料：">其他AI相关参考资料：</a></li><li><a href="#title-16" title="参考资料">参考资料</a></li></ol>
+                  </div>
+                  <div>
+                  	<div style="font-size: 14px;margin: 20px 0 0 0;"><a href="#blog_content_top">返回顶部</a></div>
+                  </div>
+              </div> 
+          </div> 
+                    
+		       </div>
+</div>
+<script src="https://js.linkz.ai/?key=100071263221369856722"></script>
+
+
+
+</div>
+<!-- content end -->
+<!-- footer begin -->
+<div id="explinks-footer" data-footer="type-1" style="border-top: 1px solid #e6e6e6;background-color: #f4f5f7;">
+	
+<!-- User -->
+<div id="explinks-footer" data-footer="type-1">
+	<footer id="footer" class="ct-footer2" data-id="type-1" itemscope="" itemtype="https://schema.org/WPFooter" style="background-color: #f1f4fe;">
+		<div data-row="top" style="margin-top: 15px;">
+			<div class="ct-top-container">
+				<div>
+					<div style="border-radius: 100%">
+						<div style="padding-right: var(--wp--preset--spacing--30); padding-bottom: var(--wp--preset--spacing--20); padding-left: var(--wp--preset--spacing--30); flex-basis: 50%">
+							<figure class="wp-block-image aligncenter size-large is-resized has-custom-border">
+								<img decoding="async" src="https://cdn.explinks.com/wp-content/uploads/2023/12/image-e1703756327221.png" alt="幂简集成ICON" style="border-radius: 0px; width: 100px">
+							</figure>
+						</div>
+						<div>
+						    <p style="font-size: 15px;padding: 0 30px;">
+						    幂简集成是创新的API接口平台，一站搜索、试用、集成国内外API接口。
+						    </p>
+						</div>							
+					</div>				
+				</div>
+				<div class="ct-top-block">
+					<div class="ct-widget wp-block-group lxx_footer_line is-layout-flow wp-block-group-is-layout-flow">
+						<h5 class="ct-top-block-heading wp-block-heading">
+							API接口</h5>
+						<ul style="font-size: 14px; line-height: 2;">
+							<li><a href="https://www.explinks.com/api/" target="_blank">API接口大全</a></li>
+							<li><a href="https://www.explinks.com/bookmark/free_api_nav" target="_blank">免费API接口</a></li>
+							<li><a href="https://www.explinks.com/bookmark/abstract_api_nav" target="_blank">抽象API接口</a></li>
+							<li><a href="https://www.explinks.com/bookmark/hot_api_nav" target="_blank">精选API接口</a></li>
+							<li><a href="https://www.explinks.com/bookmark/usa_api_nav" target="_blank">美国API接口</a></li>
+							<li><a href="https://www.explinks.com/bookmark/abroad_api_nav" target="_blank">国外API接口</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="ct-top-block">
+					<div class="ct-widget wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+						<h5 class="ct-top-block-heading wp-block-heading">
+							 API接口</h5>
+						<ul style="font-size: 14px; line-height: 2;">
+							<li><a href="https://www.explinks.com/bookmark/ai_api_nav" target="_blank">人工智能API</a></li>
+							<li><a href="https://www.explinks.com/bookmark/aigc_api_nav" target="_blank">AI生成API</a></li>
+							<li><a href="https://www.explinks.com/bookmark/web3_api_nav" target="_blank">Web3 API</a></li>
+							<li><a href="https://www.explinks.com/bookmark/seo_api_nav" target="_blank">SEO API接口</a></li>
+							<li><a href="https://www.explinks.com/bookmark/data_api_nav" target="_blank">数据API接口</a></li>
+							<li><a href="https://www.explinks.com/bookmark/dev_api_nav" target="_blank">在线工具API</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="ct-top-block">
+					<div class="ct-widget wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+						<h5 class="ct-top-block-heading wp-block-heading">
+							API知识库</h5>
+						<ul style="font-size: 14px; line-height: 2;">
+							<li><a href="https://www.explinks.com/blog/category/api-concept">API是什么</a></li>
+							<li><a href="https://www.explinks.com/blog/category/api-solution">如何调用API</a></li>
+							<li><a href="https://www.explinks.com/blog/category/api-integration">如何集成API</a></li>
+							<li><a href="https://www.explinks.com/blog/category/api-monetization">API货币化</a></li>
+							<li><a href="https://www.explinks.com/blog/category/api-development">如何开发API</a></li>
+							<li><a href="https://www.explinks.com/blog/category/api-security">API安全</a></li>
+						</ul>
+					</div>
+				</div>
+								<div class="ct-top-block">
+					<div class="ct-widget wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+						<h5 class="ct-top-block-heading wp-block-heading">
+							幂简集成</h5>
+						<ul style="font-size: 14px; line-height: 2;">
+							<li><a href="https://www.explinks.com/company/about">关于我们</a></li>
+							<li><a href="https://www.explinks.com/company/joinus">加入我们</a></li>
+							<li><a href="https://www.explinks.com/company/service-agreement">服务条款</a></li>
+							<li><a href="https://www.explinks.com/company/privacy-policy">隐私协议</a></li>
+							<li><a href="https://www.explinks.com/sitemap.xml">网站地图</a>
+						</li></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+<div class="footer-line"></div>				
+		<div data-row="bottom">
+			<div class="ct-bottom-container">
+				<div data-column="widget-area-6">
+					<div class="ct-widget widget_block widget_text" id="block-53">
+						<p style="font-size: 14px">Copyright © 2024 All Rights Reserved 北京蜜堂有信科技有限公司</p>
+					</div>
+				</div>
+				<div data-column="widget-area-5">
+					<div class="widget_block" id="block-68">
+						<div class="footer-license">
+							<div class="is-layout-flow ">
+								<p style="padding-top: 0; padding-right: var(--wp--preset--spacing--60); padding-bottom: 0; font-size: 14px">
+									增值电信业务经营许可证：京B2-20191889</p>
+							</div>
+							<div class="is-layout-flow " style="padding-right: var(--wp--preset--spacing--30);line-height: initial;">
+								<figure class="wp-block-image size-large is-resized">
+									<img decoding="async" src="https://cdn.explinks.com/wp-content/uploads/2023/12/police.png" alt="" style="object-fit: cover; width: 20px; height: 20px">
+								</figure>
+							</div>
+							<div class="ct-widget is-layout-flow " style="padding-right: 0; padding-left: 0">
+								<p class="has-palette-color-2-color has-text-color has-link-color" style="font-size: 14px"><a href="https://beian.miit.gov.cn/" target="_blank" rel="nofollow">京ICP备18034931号</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="display: grid;grid-template-columns: 1fr 1fr;">
+				<div data-column="widget-area-6">
+					<div class="ct-widget widget_block widget_text" id="block-53">
+						<p style="font-size: 14px">公司地址： 北京市朝阳区光华路和乔大厦C座1508</p>
+					</div>
+				</div>
+				<div data-column="widget-area-5">
+					 <p style="font-size: 14px">意见反馈：010-533324933,mtyy@miitang.com</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>	
+</div>		
+<!-- footer end -->
+	<script>
+    new SearchBox({
+        // 容器选择器
+        el: "#mt-search-box",
+        // 搜索页面地址
+        searchUrl: "/search",
+        inputPlacehoder: "请输入您想查找的关键词"
+        
+    });
+    </script>
+
+
+</body></html>

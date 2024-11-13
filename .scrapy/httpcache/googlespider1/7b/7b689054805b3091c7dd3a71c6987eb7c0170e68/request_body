@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "JSESSIONID=80DDB538C7975D31B93CF2F1F46113B2",
+        "Referer": "https://std.samr.gov.cn/gb/search/gbDetailed?id=FC816D04FF3E62EBE05397BE0A0AD5FA",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://std.samr.gov.cn/gb/search/gbDetailed?id=FC816D04FF3E62EBE05397BE0A0AD5FA",
+    "wait": 6
+}

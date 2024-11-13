@@ -1,0 +1,643 @@
+<!DOCTYPE html><html><head>
+    <title>人工智能会取代科学家吗—新闻—科学网</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="人工智能，机器学习，机器人，科学家,[mynews.keys]">
+
+    <script language="javascript" type="text/javascript">
+		function showsize(sid)
+		{
+				document.getElementById("content"+1).style.fontSize=sid;
+				document.getElementById("content"+1).className='f'+sid;
+			
+		}
+		function showandhide(showid,hideid)
+        {
+         document.getElementById(showid).style.display="";
+         document.getElementById(hideid).style.display="none";
+          document.getElementById(showid+"1").style.background="#005007";
+         document.getElementById(hideid+"1").style.background="#787878";
+        }
+
+
+	
+
+    </script>
+    <style type="text/css">
+body { margin:0; padding:0; background:#e4e6df url(/images/a-b-mbr.jpg) repeat-y center top; text-align:center; font:13px Arial, Helvetica, sans-serif; }
+#wrap { margin:0 auto; text-align:left; width:970px; padding:0 0px; w\idth:970px;background:#ffffff}
+img { border:0; }
+td{font:13px 宋体}
+#header { width:100%; margin-top:5px;text-align:center; }
+#fielder {margin:0 auto; text-align:left; width:970px;}
+#fielderleft {width:450px; float: left;font:13px 宋体;color:#b41319;height:20px; text-align:right;margin-top:5px}
+#fielderright {width:520px; float: right;height:20px}
+#fielderleft a{font:13px 宋体;color:#b41319; text-decoration:none; }
+#main {margin:0 auto; text-align:left; width:960px; padding:0 4px;}
+#footer { width:100%; height:66px;margin-top:10px; clear:both; text-align:center; }
+ #foot1{text-align:center;background:#d7ceaa;color:#885f17;width:100%; height:30px;margin-top:10px;vertical-align:bottom}
+#foot1 a{font:12px 宋体, Helvetica, sans-serif;color:#885f17; text-decoration:none;}
+#mleft{float: left; width:680px}
+#mright{float: right; width:270px;text-align:left;}
+.html1{font:12px 宋体;color:#333333; text-decoration:none; }
+.html2{font:12px 宋体;color:#885f17; text-decoration:none; }
+#headerleft ul {text-align:left; width:456px;  margin:0; padding:0; list-style:none;  }
+#headerleft li{ margin-right: auto;display:inline;vertical-align:bottom;}
+#headerleft { float:left; width:456px; height:22px text-align:left; }
+#headerleft a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#headerright a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#head2{background:#ba1414;width:970px;bgcolor:#ba1414;margin-top:0px}
+textarea { font: 12px Arial, Helvetica, sans-serif; border:1px solid #333333; }
+.input{ font: 11px Arial, Helvetica, sans-serif; border:1px solid #333333;}
+.rblinput{ font: 11px Arial; border:0;width:30px}
+.ulclass{margin:8px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.ulclass li{display:inline;}
+.h1ulclass{margin:0px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.h1ulclass li{display:inline;}
+.plnum{width: 30px;color:#587c19;font:12px 宋体; text-align:center; font-weight:bold;margin-left:-14px}
+.highlight2{font-size:12px;color:#333333;text-decoration:none;}
+a:hover {
+	color: #ba1413;
+
+	text-decoration: underline;
+}
+a{ text-decoration:none;color:#333333;}
+#head1{width:970px;margin-top:0px}
+#head2 td{font:12px 宋体}
+#field8 a{font:13px 宋体;color:#fff; text-decoration:none;}
+#content1 a{color: #800000;}
+#content1 {font:14px 宋体;}
+img{max-width:600px}
+#field8 td{ height:20px;}
+.f12{font-size:12px；word-break: break-all;font:12px ;}
+.f14{font-size:14px；word-break: break-all;font:14px }
+.f16{font-size:16px；word-break: break-all;font:16px }
+.ifcomm{}
+.f12 p {font-size:12px；word-break: break-all;font:12px }
+.f14 p {font-size:14px；word-break: break-all;font:14px }
+.f16 p {font-size:16px；word-break: break-all;font:16px }
+.bq{text-indent:0em;font-weight:bold;font-size:13px;border:solid 1px #333 ;padding:10px;}
+</style>
+<script type="text/javascript" src="/js/lazyload/jquery.min.js"></script>
+<script type="text/javascript" src="/js/lazyload/jquery.lazyload.js"></script>
+		<script type="text/javascript"> 
+			jQuery(document).ready( 
+			function($){ 
+				$("img").lazyload({ 
+					placeholder : "/js/lazyload/grey.gif", 
+					effect      : "fadeIn",
+					threshold : 200
+				}); 
+			}); 
+		</script> 
+</head>
+<body>
+   <div id="wrap">
+      <script src="/html/js/htmlnewshead.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+function browserRedirect() { 
+
+var sUserAgent= navigator.userAgent.toLowerCase(); 
+
+var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
+
+var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
+
+var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
+
+var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
+
+var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
+
+var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
+
+var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
+
+var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+
+if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
+
+ document.write("<div style='padding-left:4em'><a href=\"http://wap.sciencenet.cn/mobile.php?type=detail&cat=news&id=443188&mobile=1\" style='font-size:2em;color:#ba1413; line-height:2em;text-indent:4em'>点击此处切换为手机版网页</a></div>"); 
+  
+} else { 
+
+//window.location= '电脑网站地址'; 
+
+} 
+
+} 
+
+browserRedirect(); 
+
+</script>
+      <!--登录-->
+		<iframe src="http://bbs.sciencenet.cn/plus.php?mod=iframelogin" style="width:970px; height:32px; " scrolling="no" frameborder="0"></iframe>
+            <!--导航-->
+           ﻿<link href="https://www.sciencenet.cn/css/indexhead.css" type="text/css" rel="stylesheet">
+     <div class="logo">
+          <div class="lg"><a href="https://news.sciencenet.cn/"><img src="/images/news.jpg" width="231" height="84" alt="科学网新闻频道"></a></div>
+		 <div class="rg02">
+		 <div class="rg"><span style="float:left;">
+                        <a href="https://www.sciencenet.cn/life/" style="color:#fff">生命科学</a> | 
+                        <a href="https://www.sciencenet.cn/medicine/" style="color:#fff">医学科学</a> | 
+                        <a href="https://www.sciencenet.cn/chemistry/" style="color:#fff">化学科学</a> | 
+                        <a href="https://www.sciencenet.cn/material/" style="color:#fff">工程材料</a> | 
+                        <a href="https://www.sciencenet.cn/information/" style="color:#fff">信息科学</a> | 
+                        <a href="https://www.sciencenet.cn/earth/" style="color:#fff">地球科学</a> | 
+                        <a href="https://www.sciencenet.cn/mathematics/" style="color:#fff">数理科学</a> | 
+                        <a href="https://www.sciencenet.cn/policy/" style="color:#fff">管理综合</a> </span> 
+		  <span style=" float:right;  "> <a href="https://blog.sciencenet.cn/blog-45-1064777.html" style="color:#fff">站内规定</a> | <a href="https://wap.sciencenet.cn/" style="color:#fff">手机版</a></span></div>
+          <div class="rg01"><span style="float:left;  ">
+               <a href="https://www.sciencenet.cn/">首页</a> | <a href="https://news.sciencenet.cn/">新闻</a> | <a href="https://blog.sciencenet.cn/blog.php">博客</a> | <a href="https://news.sciencenet.cn/ys/">院士</a> | <a href="https://talent.sciencenet.cn/">人才</a> | <a href="https://meeting.sciencenet.cn">会议</a> | <a href="https://fund.sciencenet.cn/">基金·项目</a> | <a href="https://paper.sciencenet.cn/">论文</a> | <a href="https://blog.sciencenet.cn/blog.php?mod=video">视频·直播</a> | <a href="https://paper.sciencenet.cn/AInews">小柯机器人</a> | <a href="https://kxxsh.sciencenet.cn/">医学科普</a>
+          </span>
+			  <div style="float:right; padding-left:0px;">
+				   <form style="display:inline" method="get" action="https://www.baidu.com/baidu" accept-charset="utf-8" name="f1">
+					  <input style=" width:100px;border:0" maxlength="40" size="31" name="word">
+					  <input type="submit" style="cursor:pointer; width:56px; font-size:12px; background-color:#880008; border-width:0px; height:16px; color:#fff;" value="本站搜索">
+					  <input type="hidden" value="2097152" name="ct">
+					  <input type="hidden" value="3" name="cl">
+					  <input type="hidden" value="news.sciencenet.cn" name="si">
+					  <input type="hidden" value="utf-8" name="ie">
+				  </form>
+			  </div>
+          </div></div>
+        </div> 
+
+        <div style="line-height: 10px; height: 10px; clear: both;  ">
+            &nbsp;</div>
+        <div id="main">
+            <div id="mleft">
+                <table border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+                    <tbody><tr>
+                        <td style="width: 680px;">
+                            <table id="content" style="border: solid 1px #bbc89b; width: 680px; text-align: center;
+                                background-color: #f8f9f4; table-layout:fixed">
+                                <tbody><tr>
+                                    <td align="left">
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 82%; font: 12px 宋体; float: left; ">
+                                            作者：齐芳 来源：<a href="http://epaper.gmw.cn/gmrb/html/2020-07/23/nw.D110000gmrb_20200723_1-16.htm" target="_blank" class="highlight2">光明日报</a> 发布时间：2020/7/23 10:12:32</div>
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 18%; font: 12px 宋体; float: right">
+                                            选择字号：<span onclick="showsize(12)" style="background-color: #587c19; color: #fff;
+                                                font-size: 12px; cursor: pointer">小</span> <span onclick="showsize(14)" style="background-color: #587c19;
+                                                    color: #fff; font-size: 12px; cursor: pointer">中</span> <span onclick="showsize(16)" style="background-color: #587c19; color: #fff; font-size: 12px; cursor: pointer">
+                                                        大</span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <div id="content1" style=" padding:15px; text-align: left; line-height: 24px;
+                                            word-wrap: break-word;word-break:break-all" class="f14">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody><tr>
+                                                    <td height="20">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px">
+                                                        <b></b></td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="style1" style="font-size: 22px; color: #587c19; font-family: 黑体;
+                                                        line-height: 30px">
+                                                        人工智能会取代科学家吗</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px">
+                                                        <b></b></td>
+                                                </tr>
+                                            </tbody></table>
+                                            <p style="text-indent: 2em; text-align: center;">
+	&nbsp;</p>
+<p style="text-indent:2em">
+	<strong>传统认为，科技工作因其高度的创新性，因此科技工作者很难被人工智能取代。但日前，国际学术期刊《自然》发表的一篇论文吸引了大家的眼球。科学家们改造了一种汽车装配线上常见的机器人，让它可以在化学实验室内工作。通过与机器学习算法相连，这种机器人可以使用和人类化学家一样的标准分析仪器，“相当于使研究人员而非仪器变得自动化”。同时，由于它和人类体积相当，可以在传统实验室内工作，而无须建立或改造新实验室。在提高一种聚合光催化剂性能的实验中，这款机器人在2～3天内便优化了反应条件，而人类要几个月的时间才能做到。原因之一，就是这种机器人采取了激光扫描和触觉反馈相结合的方式实现定位，而不是视觉系统——不用“看”的机器人无须光亮，因此极大地提高了光催化实验的效率。研究者认为，这个机器人将在传统实验室有更多应用。那么，人工智能会取代化学家吗？会取代科学家吗？本期，我们邀请兰州大学化学化工学院教授王为，中国<font class="frd">科学院</font>自动化研究所研究员侯增广，和中国<font class="frd">科学院</font>物理研究所研究员王磊一起来谈谈这个话题。</strong></p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>1.人工智能已成为科学家的好帮手</strong></p>
+<p style="text-indent:2em">
+	<strong>侯增广（中国<font class="frd">科学院</font>自动化研究所研究员）：</strong>简单地说，《自然》刊登的论文在技术方面有两个亮点。一是采用机器人代替传统实验室的实验员，克服了光催化实验人工操作过程中的一些问题。这个实验应用的就是常见的具有机械臂的移动机器人平台，它连续运行了8天，做了688个实验。第二个亮点是采用了贝叶斯算法，这是一种基于概率统计的分类算法，使实验效率大大提升。</p>
+<p style="text-indent:2em">
+	机器人最早在制造和生产领域得到应用。目前，在科学发现领域，机器人在精度要求比较高的场景中，如时间精度、位置精度、操作精度等，有了很多应用。例如，人工授精要求把精子准确地送入卵子中，精度要求比较高，这类任务如果采用机器人将比人工操作的效率高很多。</p>
+<p style="text-indent:2em">
+	人工智能的应用给科研带来很多新变化，增加了新可能。比如，采用人工智能方法对数据的采集更客观、分析更准确。同时，人工智能有强大的计算能力，能够发现人容易忽略的小样本事件、罕见样本事件，可能给科学研究带来意想不到的发现。</p>
+<p style="text-indent:2em">
+	<strong>王为（兰州大学化学化工学院教授）：</strong>人工智能如何帮助化学家？我们首先要理解“化学学科”和“人工智能”的内涵和外延，判断它们各自面临的瓶颈和发展的方向，再分析它们可能采用什么方式交汇融通。</p>
+<p style="text-indent:2em">
+	化学是发现和创造物质的学科。要解决的基本问题包括：物质如何（精准）创制？物质的组成和结构如何？物质有什么（独特）的功能？上述问题的解决，从根本上讲需要对微观物质世界的底层逻辑形成理论体系。因此，化学学科既需要动脑，也需要动手：从发现和创造物质的实践中获得数据，从数据中总结新的经验和规律，再从经验和规律中指导未知的、获得新数据的实践。简言之，化学学科的发展需要从微观到宏观的多尺度层级上，高效精准获取数据、建立数据和理论之间的强连接、完备理论体系。</p>
+<p style="text-indent:2em">
+	新一代人工智能的核心是在大数据基础<font class="frd">上将</font>智能问题转化为数据问题，其发展需要三个核心要素的支撑：计算能力、海量数据、数学算法。人工智能的基本层级是智能放大和综合，包括信息的采集、录入和分析。进阶层级是智能预测，即在大数据基础上预测特定事物的发生概率。高级层级是智能学习，即通过算法上的革新，突破人类的思考模式，在基本规律下自主地创造机器的思考模式，从而输出全局最优的结果。</p>
+<p style="text-indent:2em">
+	人工智能在化学领域中的应用初见端倪。其对于化学家的帮助可能表现在以下几个层级：一是辅助动手，高效获得数据。二是辅助动脑。通过对海量数据的分析，人工智能可能预测出新的物质合成途径、发现物质的新功能、建立新的逻辑连接（构效关系）等。三是针对化学领域的核心问题，通过深度学习（算法创新）和深度自动化，实现动手和动脑的深度结合，完成自主创新。以此标准衡量，人工智能在化学领域中的应用还处在起步阶段。《自然》这篇工作的核心亮点是提供了高效获取数据的深度自动化研究平台，为将来动脑和动手的有效结合起到示范作用。</p>
+<p style="text-indent:2em">
+	<strong>王磊（中国<font class="frd">科学院</font>物理所研究员）：</strong>今天的人工智能已经在科研领域给科学家带来很多帮助。我们可以想象，爱迪生发明灯芯，要对各种材料不停试错，如果有这种机器人的帮助，那可能提早电灯的发明。其实，在科研领域有很多类似的应用。比如我们<font class="frd">中<font class="frd">科院</font></font>物理所，在晶体材料的合成和生长上，就使用人工智能作为辅助。我们所几辈科研人员在这个行业深耕几十年，留下了丰富的实验数据，但都是写在纸上的。我们把这些实验记录数字化，再“训练”一个识别程序，就能用来预测晶体能不能长成等。再比如，在材料科学中，很多时候科学家们要从材料微观组成，例如原子排列顺序等，来推测材料可能具备的宏观功能，例如亲水性等。通常这个计算是很复杂的，需要耗费大量时间。现在，人工智能通过“学习”之前的计算结果，已经可以完成这部分工作。当然，其准确性还有很大提升空间。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>2.什么样的科技工作者会被替代</strong></p>
+<p style="text-indent:2em">
+	<strong>王为：</strong>我的基本观点是：人工智能在未来会替代重复性的化学实验和测试工作，有可能改变甚至变革化学研究的范式，但从根本上无法替代化学家。</p>
+<p style="text-indent:2em">
+	就获取数据而言，人工智能在预先设计的化学实验中表现得更加高效。相较于人的操作，其标准化程度更高、误差更小，能帮助化学家获得更大量的、标准化的、可对比的数据。就数据分析而言，相比于人类记忆以及理解数据的局限性，人工智能可以更为精准、有效地收集、分析、整合数据，并可能寻找到相应的规律。因此，人工智能有可能在化学领域的应用中率先取得突破，从而改变甚至变革化学研究的基本模式。</p>
+<p style="text-indent:2em">
+	而取得突破的先决条件至少有两点。一是获取海量数据。人工智能的基础是大数据。就机器学习的需求而言，目前化学领域所能提供的数据数量非常有限、可对比度极低。二是实现算法创新。基于化学领域提出的特定科学问题，在海量数据存在的前提下，通过算法创新，突破化学领域现有的思考模式和理论框架，锁定多参数复杂体系的最优解。就此而言，人工智能在化学领域中的应用还有很长的道路要走。</p>
+<p style="text-indent:2em">
+	<strong>侯增广：</strong>人工智能很可能给实验室带来巨大变革，甚至出现无人实验室。但我认为，短时间内，人工智能和机器人不能替代科学家。我们看《自然》刊登的这个实验中，进行实验顶层设计的，比如实验架构等，还是科学家，机器人和人工智能只不过是人的手和眼的延伸。我认为，即便深度学习等人工智能方法发展起来，也不太可能替代科学家。因为人工智能是建立在算法之上，它的能力的获取是基于大量数据得来的，强大的基于数据的计算能力是人工智能的核心能力。但人工智能和真实的生物智能还有很大差距，人从来就不是这么思考的，人类的智能是基于知识、而非基于数据的。而这点，人工智能还做不到。比如我们课题组在研究手术机器人。在某些方面，它的精准度比普通医生要高。但是人体是非常复杂的，每个人的情况也千差万别，遇到复杂病灶、复杂障碍如何处理？这点机器人还不行，比不上经验丰富的医生。因为这些能力和判断都是基于经验知识的，而非简单数据。</p>
+<p style="text-indent:2em">
+	<strong>王磊：</strong>科研中，那些重复性高的、有固定流程的工作可能被替代。但对于是否能替代科学家这个问题，我的看法是比较保守的。比如我们物理学，最重要的是在现象中发现新的物理定律。但目前的人工智能算法，还看不到能发现新物理定律的可能，作出创新性发现的可能性比较小。我现在做的深度学习与计算物理交叉的研究，起码目前还没有看到人工智能能够取代科学家的证据。虽然现在也有很多实验模拟一个环境，看看人工智能是否能取得重新发现。比如给人工智能万有引力定律发现之前的各种数据，看人工智能能不能像牛顿一样发现万有引力定律。有些实验声称获得了很好的结果，但仔细研究这些实验，会发现其中有很多可控的空间。因此，我总体认为，目前的人工智能做出创造性发现的可能性比较小。</p>
+<p style="text-indent: 2em; text-align: center;">
+	<strong>3.人工智能是否会引发与人争工作的伦理隐忧</strong></p>
+<p style="text-indent:2em">
+	<strong>侯增广：</strong>我觉得这方面担忧是不必要的。我们借助人工智能和机器人可以提高工作效率，把人从重复性的、危险性的工作中解放出来。这是一种社会的进步。当然，人工智能的发展也面临很多伦理问题，这不可能在一个访谈中尽谈。我只能从我所在的这个领域谈一个伦理问题的例子：目前的人工智能方法是不能够保证计算结果百分百正确，我们应该把什么样问题的决定权交给人工智能？如果出现失误，这个责任应该由谁来承担？我们再以手术机器人为例。之前说过，人体是十分复杂的，手术中会遇到各种各样的状况。如果是人做手术，他很清楚自己能力或技术的边界在哪里，什么样的问题是他不能解决的。因此，可以及时向老师、前辈请教，或者邀请其他科室的大夫来会诊。但如果是机器人自主做手术，它是按照程序来运行的，这个程序不可能包含所有可能发生的情况，机器人也不会清楚自己能力和技术的边界。那么，在某些程序交由机器人来判断和决定的情况下，一旦手术失败，这个责任由谁来承担？是算法的研究者，是机器人的制造商，还是按下操作键的医护人员？这是一个值得大家关注的伦理问题。</p>
+<p style="text-indent:2em">
+	<strong>王磊：</strong>每一次技术的更新换代，都会带来产业的变化，某些工种可能被替代，从而引导劳动力向不同的方向分流。我觉得从人类整体的发展而言，与人争工作这个伦理问题可能不是最急迫的。我们目前讨论更多的伦理问题，是如何让机器不“染上”人类的偏见。我们知道，人工智能是基于大数据的，这些数据集的标签的制备过程都需要人。特别是，原来数据集是由人写的，可能会进行克制。现在数据集都是互联网搜集的，偏见很难避免，比如基于肤色的偏见、基于性别的偏见等。那么，在人工智能的应用中，如何在算法中去除这些偏见，是我们要面对的比较紧迫的伦理问题。</p>
+<p style="text-indent:2em">
+	&nbsp;</p>
+<div style="text-indent:2em;color: #587c19;font-size:13px; ">
+	特别声明：本文转载仅仅是出于传播信息的需要，并不意味着代表本网站观点或证实其内容的真实性；如其他媒体、网站或个人从本网站转载使用，须保留本网站注明的“来源”，并自负版权等法律责任；作者如果不希望被转载或者联系转载稿费等事宜，请与我们接洽。</div>
+
+                                           
+                                            <div style="border-bottom: solid 1px #bfc89d; vertical-align: bottom; width: 100%;
+                                                height: 20px">
+                                            </div>
+                                            <div style="width: 100%; height: 20px; text-align: center; margin:10px">
+                                            <!-- JiaThis Button BEGIN -->
+<script src="/html/js/share.js" type="text/javascript"></script>
+<!-- JiaThis Button END -->
+                                            </div>
+                                            
+                                        </div>
+                                    </td>
+                                </tr>
+
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+                <div style="line-height: 10px; height: 10px; clear: both;">
+                        &nbsp;</div>
+                <div style=" vertical-align: bottom; width: 100%;
+                                             text-align:right">
+                                           
+
+
+             <div style="float:left"> 
+             <script src=" http://www.sciencenet.cn/kxwad/js/a20.js" type="text/javascript"></script>
+             </div>
+                                        <form action="/html/mail.aspx" method="post" id="myform" style="float:right">
+                                       
+                                            <span onclick="javascript:window.print()" style="cursor: pointer; background-color: #587c19;
+                                                color: #fff;">&nbsp;打印&nbsp;</span> <span style="color: #587c19">发E-mail给：</span><input name="txtemail" type="text" value="" size="22" id="txtemail" style="background-color: #eeeee8">&nbsp;
+                                            <input type="hidden" id="myurl" name="myurl" runat="server" value="443188">
+                                            <input type="submit" value="" style="background-image: url(/images/go.gif); background-color: Transparent;
+                                                width: 30px; background-repeat: no-repeat; border-width: 0; height: 21px"></form>
+                                        &nbsp; &nbsp;&nbsp;
+                </div>
+               <div style="line-height: 20px; height: 20px; clear: both;">
+                        &nbsp;</div>
+                         <div style="color:#784704; text-align:left;clear: both;;display:none;" class="ifcomm">以下评论只代表网友个人观点，不代表科学网观点。&nbsp;</div>
+                <div style="border: solid 1px #bbc89b; width: 680px; text-align: center; background-color: #f8f9f4; color:#333333;;display:none;" class="ifcomm">
+                   <div id="commd"></div>
+                     <div style="text-align:left;width: 94%;"><a href="/html/comment.aspx?id=443188" style="color:#ba1413; text-decoration:none"><img src="/images/newcomm.gif"></a></div>
+                    <div style="text-align:left;width: 94%;border-top: solid 0px #bfc89d" id="formcomm">
+                    
+                    <iframe src="/html/newscomm.aspx?nid=443188" style="margin: 0px;
+                    padding: 0px" frameborder="0" scrolling="no" height="160px" width="100%"></iframe>
+                   
+                    </div>
+                </div>
+               
+                </div>
+                <div id="mright">
+                
+                <script src="/html/js/n1.js" type="text/javascript"></script>
+                    <!--相关新闻和相关论文-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" id="xgnews1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgnews','xgpaper')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关新闻</span></td>
+                            <td align="left" id="xgpaper1" style="background: #787878; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgpaper','xgnews')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关论文</span></td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="xgnews">
+                                    <ul class="ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="/htmlnews/2020/7/443175.shtm" class="highlight2" target="_blank">科学家揭示陆地棉早熟遗传机制</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="/htmlnews/2020/7/443159.shtm" class="highlight2" target="_blank">全球首个心梗人工智能预警系统研发成功</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="/htmlnews/2020/7/443130.shtm" class="highlight2" target="_blank">科学家探明干眼高发与雾霾相关机制</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="/htmlnews/2020/7/443066.shtm" class="highlight2" target="_blank">首台国产骨科手术机器人完成全膝关节置换</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="/htmlnews/2020/7/443049.shtm" class="highlight2" target="_blank">人工智能识别健康和发病土壤</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="/htmlnews/2020/7/443047.shtm" class="highlight2" target="_blank">想让作物更抗洪？科学家找到刹车和油门 </a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="/htmlnews/2020/7/443046.shtm" class="highlight2" target="_blank">中国科学家获迄今最强暗能量观测证据</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="/htmlnews/2020/7/443034.shtm" class="highlight2" target="_blank">科学家通过星系巡天发现迄今最强暗能量观测证据</a></li>
+</ul>
+
+                                   
+                                </div>
+                                <div id="xgpaper" style="display: none">
+                                   <ul class="ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="/htmlpaper/2020/7/20207211849447257698.shtm" class="highlight2" target="_blank">科学家揭示随机光场中涡旋导致相干性退化的机理</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="/htmlpaper/2020/7/202072118573863957696.shtm" class="highlight2" target="_blank">科学家找到消除成瘾记忆的“橡皮擦”</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="/htmlpaper/2020/7/202072119504170457695.shtm" class="highlight2" target="_blank">科学家研究证实每晚睡6-7小时可预防痴呆</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="/htmlpaper/2020/7/20207211924636357681.shtm" class="highlight2" target="_blank">人工智能识别健康和发病土壤</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="/htmlpaper/2020/7/20207171132714057649.shtm" class="highlight2" target="_blank">科学家揭示“刺猬基因”功能的阶梯式演化</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="/htmlpaper/2020/7/202071417495611257580.shtm" class="highlight2" target="_blank">中国科学家取得铌酸锂光波导制备技术突破</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="/htmlpaper/2020/7/202071315293897957546.shtm" class="highlight2" target="_blank">科学家首次精准编辑线粒体基因</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="/htmlpaper/2020/7/202071123501743757522.shtm" class="highlight2" target="_blank">实验室将迎来机器人研究员</a></li>
+</ul>
+
+                                   
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                  <script src="/html/js/n2.js" type="text/javascript"></script>
+                    <!--图片新闻-->
+                    
+                         ﻿<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" colspan="2" style="background-image: url(/images/lmsy_jbg_br.jpg);
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="/imgnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px">图片新闻</a></td>
+                        </tr>
+                        <tr>
+                            <td style="width: 100%; height: 8px; border-width: 1px; text-align: right;" colspan="2">
+                            </td>
+                        </tr><tr><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href="https://news.sciencenet.cn//htmlnews/2024/11/533882.shtm" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/20241113111417590.jpg" width="118" height="65" alt="超大容量变速抽蓄工程进入机电安装阶段"></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href="https://news.sciencenet.cn/https://news.sciencenet.cn/htmlnews/2024/11/533857.shtm" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/20241113936344160.jpg" width="118" height="65" alt="研究增强光动力灭菌效果"></a>
+</td>
+</tr><tr><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href="https://news.sciencenet.cn/https://blog.sciencenet.cn/blog-45-1458513.html" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/20241111163017600.jpg" width="118" height="65" alt="问答之间 | 如何开展科研之路"></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href="https://news.sciencenet.cn/https://blog.sciencenet.cn/blog-45-1459543.html" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/202411111625575580.jpg" width="118" height="65" alt="研究生学位论文如何顺利通过外审和答辩"></a>
+</td>
+
+ 
+                        </tr><tr style="">
+                            <td style="width: 100%; border-width: 1px; text-align: right; height: 20px;" colspan="2">
+                                <a href="/imgnews.aspx" target="_blank" style="color: #3f6417">&gt;&gt;更多</a></td>
+                        </tr>
+                    </tbody></table>
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                        <script src="/html/js/n3.js" type="text/javascript"></script>
+                    <!--新闻排行和评论排行-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" id="zph1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('zph','yph')">
+                                <a href="/zphnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">一周新闻排行</a></td>
+                            <td align="left" id="yph1" style="background: #787878; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('yph','zph')">
+                                <a href="/yphnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">一周新闻评论排行</a></td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="zph">
+                                    ﻿<ul class="h1ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533566.shtm" class="highlight2" target="_blank">预见未来：“天关”卫星“前传”</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533554.shtm" class="highlight2" target="_blank">第十八届中国青年科技奖拟表彰对象公示</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533763.shtm" class="highlight2" target="_blank">琚宜文获国际先进材料协会最高奖</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533611.shtm" class="highlight2" target="_blank">美国博士来中国找蛇，受聘高校并收获跨国爱情</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533658.shtm" class="highlight2" target="_blank">新型纳米水凝胶可增强免疫系统肿瘤杀伤力</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533573.shtm" class="highlight2" target="_blank">“背靠背”发现植物免疫激活新机制</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533693.shtm" class="highlight2" target="_blank">俄罗斯推迟3项重大科学项目</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533654.shtm" class="highlight2" target="_blank">我国科学家荣获多项创新水研究国际奖项</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">9</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533506.shtm" class="highlight2" target="_blank">激进出版模式可能让eLife失去影响因子</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">10</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533731.shtm" class="highlight2" target="_blank">用古DNA和基因组完成“庖丁解原牛”</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="/zphnews.aspx" target="_blank" style="color: #567b1c; font-size: 12px">更多&gt;&gt;</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div id="yph" style="display: none">
+                                    ﻿<ul class="h1ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="/htmlnews/2021/2/453545.shtm" class="highlight2" target="_blank">中国学者Nature发文：识骨寻宗</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="/htmlnews/2021/2/453548.shtm" class="highlight2" target="_blank">我国勘探开发重心向西转移</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="/htmlnews/2021/2/453549.shtm" class="highlight2" target="_blank">即便只一天 脏空气都可能影响孩子心脏健康</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="/htmlnews/2021/2/453530.shtm" class="highlight2" target="_blank">这个“就地过年”的春节，你幸福吗？</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="/htmlnews/2021/2/453521.shtm" class="highlight2" target="_blank">科大讯飞发布全新一代智能办公本</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="/htmlnews/2021/2/453547.shtm" class="highlight2" target="_blank">强化领导注重实效 动态督促形成合力</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="/htmlnews/2021/2/453544.shtm" class="highlight2" target="_blank">突出重点强抓手 推动党建谋发展</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="/htmlnews/2021/2/453534.shtm" class="highlight2" target="_blank">比超级计算机快百万亿倍仅是量子计算的第一步</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">9</li>&nbsp;<li><a href="/htmlnews/2021/2/453508.shtm" class="highlight2" target="_blank">人类肠道中生活着14万种病毒</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">10</li>&nbsp;<li><a href="/htmlnews/2021/2/453529.shtm" class="highlight2" target="_blank">中国现代科学家的家国情怀</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="/yphnews.aspx" target="_blank" style="color: #567b1c; font-size: 12px">更多&gt;&gt;</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                   
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                        <script src="/html/js/n4.js" type="text/javascript"></script>
+                    <!--博文精选-->
+                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" colspan="2" style="background:#a4934b url(/images/lmd_jby_mbr.jpg) no-repeat;
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="http://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="font: 13px 宋体; color: #fff;
+                                    font-weight: bold; line-height: 20px">编辑部推荐博文</a></td>
+                        </tr>
+                         <tr>
+                            <td colspan="2">
+                            <div>
+                                    ﻿<ul class="h1ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-45-1459543.html" class="highlight2" target="_blank">研究生学位论文如何顺利通过外审和答辩</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-45-1459239.html" class="highlight2" target="_blank">科学网2024年10月十佳博文榜单公布！</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-45-1458513.html" class="highlight2" target="_blank">问答之间 | 如何开展科研之路</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-3244891-1459840.html" class="highlight2" target="_blank">漫谈地表水监测的“三智一体”模式</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-3411509-1459700.html" class="highlight2" target="_blank">上海大学丁常胜和高彦峰等综述</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-3574014-1459827.html" class="highlight2" target="_blank">Taylor &amp; Francis 编辑润色预付即送京东卡</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="http://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="color: #567b1c; font-size: 12px">更多&gt;&gt;</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <div style="line-height: 10px; height: 15px; clear: both; ">
+                        &nbsp;</div>
+                        <script src="/html/js/n5.js" type="text/javascript"></script>
+                    <!--论坛精选-->
+                    
+                </div>
+            </div>
+            <div id="footer">
+
+                <script src="/html/inc/foot.js" type="text/javascript"></script><script src="/html/jkong.aspx" type="text/javascript"></script><div id="foot1" style="height:90px;line-height:20px"><p style="margin-top:5px; clear:both"><a href="http://www.sciencenet.cn/aboutus.aspx" target="_blank">关于我们</a> | <a href="http://www.sciencenet.cn/shengming.aspx" target="_blank">网站声明</a> | <a href="http://www.sciencenet.cn/tiaokuang.aspx" target="_blank">服务条款</a> | <a href="http://www.sciencenet.cn/contact.aspx" target="_blank">联系方式</a> | <a href="https://www.sciencenet.cn/jubao.aspx" target="_blank">举报</a> | <a href="https://stimes.sciencenet.cn/">中国科学报社</a><br><a href="http://www.beian.miit.gov.cn" target="_blank">&nbsp;<span style="color:#4e5e10">京ICP备07017567号-12</span>&nbsp;</a><span style="color:#4e5e10;font:12px 宋体, Helvetica, sans-serif">互联网新闻信息服务许可证10120230008</span>&nbsp;<span style="color:#4e5e10;font:12px 宋体, Helvetica, sans-serif">京公网安备  11010802032783</span><br><span style="color:#4e5e10; font-size:12px;font-family: 宋体;">Copyright @ 2007-2024 中国科学报社 All Rights Reserved<br>地址：北京市海淀区中关村南一条乙三号&nbsp;电话：010-62580783 </span></p></div><p style="height:0px;display:none"><script src=" https://hm.baidu.com/h.js?cbf293a46e1e62385b889174378635f1" type="text/javascript"></script></p>
+
+            </div>
+        </div>
+
+<script src="http://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+//*******************
+
+ $.post("http://news.sciencenet.cn/html/c.aspx?id=443188&com=1" ,
+
+                 function (data) {
+                     if (data != "") {
+                        document.getElementById('commd').innerHTML=data;
+                     }
+                     
+                 });
+//******************
+var url=encodeURIComponent(location.href);
+ 
+  $.ajax({
+    type : "get",
+    url : "http://wap.sciencenet.cn/api/jssdk.php?url="+url,//替换网址，xxx根据自己jssdk文件位置修改
+    dataType : "jsonp",
+    jsonp: "callback",
+    jsonpCallback:"success_jsonpCallback",
+    success : function(data){
+        wx.config({
+	 debug: false,
+　　　　 appId: data.appId,
+　　　　 timestamp: data.timestamp,
+　　　　 nonceStr: data.nonceStr,
+　　　　 signature: data.signature,
+　　　　jsApiList: [
+       　　"onMenuShareTimeline", //分享给好友
+       　　"onMenuShareAppMessage", //分享到朋友圈
+       　　"onMenuShareQQ",  //分享到QQ
+       　　"onMenuShareWeibo" //分享到微博
+]
+});
+},
+   error:function(data){
+          
+     }
+});
+  wx.ready(function (){
+  var shareData = {
+  title: '科学网-人工智能会取代科学家吗',
+  desc: '科学网-人工智能会取代科学家吗',//这里请特别注意是要去除html
+  link:location.href,
+  imgUrl: 'http://news.sciencenet.cn/images/logo300.png'
+  };
+  wx.onMenuShareAppMessage(shareData);
+  wx.onMenuShareTimeline(shareData);
+  wx.onMenuShareQQ(shareData);
+  wx.onMenuShareWeibo(shareData);
+    });
+
+ window.onload = function(){
+		if (typeof WeixinJSBridge == "undefined"){
+		    if( document.addEventListener ){
+		        document.addEventListener('MenuShareTimeline', WeiXinShareBtn, false);
+		    }else if (document.attachEvent){
+		        document.attachEvent('MenuShareTimeline', WeiXinShareBtn); 
+		        document.attachEvent('onMenuShareTimeline', WeiXinShareBtn);
+		    }
+		}else{
+			//WeiXinShareBtn();
+		}
+	};
+</script>
+
+
+</body></html>

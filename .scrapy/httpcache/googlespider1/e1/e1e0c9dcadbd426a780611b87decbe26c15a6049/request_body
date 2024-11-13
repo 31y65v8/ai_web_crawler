@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.siemens.com/cn/zh/company/innovation/artificial-intelligence.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.siemens.com/cn/zh/company/innovation/artificial-intelligence.html",
+    "wait": 6
+}

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "key=value",
+        "Referer": "https://www.fxiaoke.com/crm/information-41771.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.fxiaoke.com/crm/information-41771.html",
+    "wait": 6
+}

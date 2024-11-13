@@ -1,0 +1,16 @@
+Content-Length: 0
+Content-Type: text/html
+Server: nginx
+Date: Wed, 13 Nov 2024 12:18:36 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Apple-Jingle-Correlation-Key: XY5KDN5IKDTGVJLCZO5JZOIHMA
+X-Daiquiri-Instance: daiquiri:10001:daiquiri-all-shared-ext-9664bf676-kj5vz:7987:24RELEASE235:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-as4-amp-daiquiri-ingress-prod
+X-Link-Via: fscm14:443;xianymp018:443;fzct321:443;
+X-B2F-Cs-Cache: no-cache
+X-Cache-Status: MISS from KS-CLOUD-FZ-CT-321-01
+X-Cache-Status: MISS from KS-CLOUD-XIANY-MP-018-18
+X-Cache-Status: MISS from KS-CLOUD-FS-CM-14-06
+X-Ksc-Request-Id: 73e8bdadd3838c1d245d65a14610f4f9
+X-Cache: MISS KS-CLOUD
+Cdn-Server: ksft
+X-Cdn-Request-Id: 73e8bdadd3838c1d245d65a14610f4f9

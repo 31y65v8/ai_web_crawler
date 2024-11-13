@@ -10,6 +10,7 @@ from datetime import datetime
 from scrapy_crawler.items import ScrapyCrawlerItem
 from scrapy_splash import SplashRequest
 from scrapy import Request
+from bs4 import BeautifulSoup
 
 '''
 使用scrapy直接爬取Google响应请求的html页面
@@ -29,15 +30,41 @@ class GoogleSpiderSpider(scrapy.Spider):
     #allowed_domains = ['google.com']
     start_urls = ['http://google.com']
 
+    # 数据文件路径
+    csv_file_path = 'data.csv'
+
+    # 初始化，检查文件是否存在，若存在则加载已有的标题以防止重复
+    def __init__(self, *args, **kwargs):
+        super(GoogleSpiderSpider, self).__init__(*args, **kwargs)
+        self.existing_titles = set()  # 用于存储已存在的标题，以避免重复
+        '''if os.path.exists(self.csv_file_path):
+            with open(self.csv_file_path, mode='r', encoding='utf-8') as file:
+                reader = csv.DictReader(file)
+                for row in reader:
+                    self.existing_titles.add(row['title'])'''
+
+    def write_to_csv(self, item):
+        # 如果 CSV 文件不存在，则写入表头
+        file_exists = os.path.exists(self.csv_file_path)
+        is_empty = file_exists and os.path.getsize(self.csv_file_path) == 0
+        with open(self.csv_file_path, mode='a', newline='', encoding='utf-8') as file:
+            fieldnames = ['title', 'url', 'last_modified', 'crawl_time', 'language', 'keyword', 'source', 'text']
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
+
+            if is_empty:  # 如果文件为空，则写入表头
+                writer.writeheader()
+
+            writer.writerow(item)  # 写入一行数据
+
     # 读取 cookies 的函数
     def load_cookies(self):
-        with open('cookies.json', 'r') as f:
+        with open('gcookies.json', 'r') as f:
             cookies = json.load(f)
         return cookies
 
     custom_settings = {
         'ROBOTSTXT_OBEY': False,
-        'LOG_LEVEL': 'INFO',
+        'LOG_LEVEL': 'DEBUG',
         'CONCURRENT_REQUESTS_PER_DOMAIN': 2,
         'CONCURRENT_REQUESTS' : 2,
         'RETRY_TIMES': 3,
@@ -47,33 +74,15 @@ class GoogleSpiderSpider(scrapy.Spider):
 
     }
 
-    # 创建数据库连接并初始化表
-    #def __init__(self, *args, **kwargs):
-     #   super().__init__(*args, **kwargs)
-        # 连接 SQLite 数据库
-      #  self.conn = sqlite3.connect('web_data.db')
-       # self.cursor = self.conn.cursor()
-        # 创建数据表
-        #self.cursor.execute('''CREATE TABLE IF NOT EXISTS g_test_webpages (
-                                           #id INTEGER PRIMARY KEY AUTOINCREMENT,
-                                           #title TEXT,
-                                           #html_file_path TEXT,
-                                           #link TEXT,
-                                           #position INTEGER,
-                                           #date TEXT
-                                         #)''')
+
     # 基础关键词
-    base_queries = ['人工智能应用',
-                    ]
+    base_queries = ['人工智能发展历程',]
 
     # 拓展关键词
-    extension_queries = [
-        '行业'
-
-    ]
+    extension_queries = ['大事纪']
 
     # 组合生成查询
-    combined_queries = []
+    combined_queries = [ ]
 
     def start_requests(self):
         '''headers = {
@@ -96,6 +105,7 @@ class GoogleSpiderSpider(scrapy.Spider):
         # 加载 cookies
         cookies = self.load_cookies()
 
+        #组合关键词
         for base in self.base_queries:
             for extension in self.extension_queries:
                 query = f"{base} AND {extension}"
@@ -180,6 +190,14 @@ class GoogleSpiderSpider(scrapy.Spider):
 
     # 调用 is_dynamic 方法判断页面类型
     def check_dynamic(self,response):
+        #通过标题判断之前是否爬取过该网页
+        title = response.xpath('//title/text()').get()
+        if title and title not in self.existing_titles:
+            self.existing_titles.add(title)  # 将标题添加到已爬取的集合中
+        else:
+            self.logger.info(f"标题 {title} 已存在，跳过此网页")
+            return
+
         if self.is_dynamic(response.text):
             # 如果是动态网页，使用 Splash 渲染页面,再调用 parse_article
             self.logger.info(f"动态网页: {response.url}，使用 Splash 渲染")
@@ -247,7 +265,7 @@ class GoogleSpiderSpider(scrapy.Spider):
         #限制爬取搜索结果页数，每页10条
         page_number = response.meta.get('page_number', 1)  # 获取当前页码
 
-        if  2 < page_number < 6:  # 限制爬取的最大页数（这里是5页）
+        if  page_number < 10:  # 限制爬取的最大页数（这里是5页）
             # 获取下一页的链接
             #next_page = response.css('a#pnnext::attr(href)').get()  # 获取翻页链接（下一页）
             next_page = response.css('a[aria-label="Next page"]::attr(href)').get()
@@ -277,6 +295,16 @@ class GoogleSpiderSpider(scrapy.Spider):
         # 提取 HTML 源代码
         html_source = response.text
 
+        # 使用 BeautifulSoup 解析 HTML 内容
+        soup = BeautifulSoup(html_source, "html.parser")
+
+        # 获取纯文本，去除所有 HTML 标签
+        text1 = soup.get_text()
+
+        # 使用正则表达式替换多个空格为一个空格，并去掉开头和结尾的空格
+        text = re.sub(r'\s+', ' ', text1).strip()
+
+
         # 提取网页更新时间（如果有）
         last_modified = response.headers.get('Last-Modified', None)  # 获取 HTTP 响应头中的 "Last-Modified" 字段
         if last_modified:
@@ -289,25 +317,25 @@ class GoogleSpiderSpider(scrapy.Spider):
 
         # 创建一个文件夹存储 HTML 文件
         #folder_path = 'test'
-        folder_path = 'Google'+ '-'.join(self.combined_queries)
-        os.makedirs(folder_path, exist_ok=True)
-        print(f"文件夹 '{folder_path}' 创建成功")
+        #folder_path = 'Google'+ '-'.join(self.combined_queries)
+        #os.makedirs(folder_path, exist_ok=True)
+        #print(f"文件夹 '{folder_path}' 创建成功")
 
         # 生成 HTML 文件名（避免特殊字符）
-        filename = f"{title}.txt".replace(" ", "_").replace(":", "_").replace("/", "_")
-        filename = filename.replace("\\", "_").replace("?", "_").replace("*", "_")
-        filename = filename.replace('"', "_").replace("<", "_").replace(">", "_").replace("|", "_")
+        #filename = f"{title}.txt".replace(" ", "_").replace(":", "_").replace("/", "_")
+        #filename = filename.replace("\\", "_").replace("?", "_").replace("*", "_")
+        #filename = filename.replace('"', "_").replace("<", "_").replace(">", "_").replace("|", "_")
         # 文件路径
-        file_path = os.path.join(folder_path, filename)
+        #file_path = os.path.join(folder_path, filename)
 
         #简单的判重：同一个文件夹中标题相同的网页只存储一次
-        if os.path.exists(file_path):
-            print(f"文件 '{file_path}' 已存在，跳过保存和数据库存储。")
-            return
+        #if os.path.exists(file_path):
+        #    print(f"文件 '{file_path}' 已存在，跳过保存和数据库存储。")
+        #   return
 
         # 保存 HTML 到文件
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(html_source)
+        #with open(file_path, 'w', encoding='utf-8') as f:
+        #   f.write(html_source)
 
         # 提取语言信息
         # 优先使用 HTTP 响应头中的 Content-Language
@@ -331,47 +359,18 @@ class GoogleSpiderSpider(scrapy.Spider):
         item['crawl_time'] = crawl_time
         item['language'] = language
         item['keyword'] = self.keyword
-        item['file_path'] = file_path
+        item['text'] = text
+        item['source'] = 'google'
+        #item['file_path'] = file_path
+
+        # 写入 CSV 文件
+        self.write_to_csv(item)
+        print(f"{title}已存入csv文件")
+
+
 
         # 返回 item,将 item 传递到pipelines进行存入数据库处理
         yield item
 
-    '''# 打印返回的 HTML 内容，查看是否包含验证码或者其他异常页面
-    self.logger.debug(f"Response content: {response.text[:1000]}")  # 打印前 1000 个字符
-    '''
-
-    ''' # 直接获取并保存 HTML 内容
-        html_content = response.text
-        #title = response.xpath('//title/text()').get()  # 从网页中提取标题
-        dt = datetime.now().strftime('%Y-%m-%d %H:%M:%S')'''
-
-    '''
-        # 创建目录存放 HTML 文件
-        os.makedirs('html_files', exist_ok=True)
-        file_name = f'html_files/{title}_{dt}.html'.replace(" ", "_").replace(":", "_").replace("/", "_")
-
-        with open(file_name, 'w', encoding='utf-8') as f:
-            f.write(html_content)
-        self.logger.info(f"Saved HTML file at: {file_name}")
-
-        # 你可以选择将 HTML 内容保存到数据库或者进行其他处理'''
-
-    '''
-    def parse_article(self, response):
-        # 获取页面内容并保存 HTML
-        title = response.meta['title']
-        link = response.meta['link']
-        html_content = response.text
-        dt = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-
-        # 创建目录并保存 HTML 文件
-        os.makedirs('html_files', exist_ok=True)
-        file_name = f'html_files/{title}_{dt}.html'.replace(" ", "_").replace(":", "_").replace("/", "_")
-
-        with open(file_name, 'w', encoding='utf-8') as f:
-            f.write(html_content)
-
-        self.logger.info(f"Saved HTML file at: {file_name}")
-    '''
 
 

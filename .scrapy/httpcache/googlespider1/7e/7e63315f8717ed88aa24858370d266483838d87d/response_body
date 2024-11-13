@@ -1,0 +1,160 @@
+<!DOCTYPE html><html><head>
+<!-- <geektime>1587544895799</geektime> -->
+    <meta charset="utf-8">
+    
+        <title>这可能是人工智能领域覆盖最全的一份技术趋势报告_AI&amp;大模型_未来今日研究所_InfoQ精选文章</title>
+        <meta name="description" content="这可能是人工智能领域覆盖最全的一份技术趋势报告" id="metadesc">
+    
+    <meta name="keywords" content="AI&amp;大模型,自动驾驶,银行,语言 开发,操作系统,编程语言,保险,汽车,自然语言处理,芯片&amp;算力,数字人才培养,医疗,企业动态,5G/IoT,框架,人工智能,机器人,AI,系统,研究" id="metakeywords">
+    <meta property="og:image" content="https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    
+        <link rel="icon" type="image/png" sizes="32x32" href="//static001.infoq.cn/static/infoq/www/img/share-default-5tgbiuhgfefgujjhg.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="//static001.infoq.cn/static/infoq/www/img/share-default-5tgbiuhgfefgujjhg.png">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <link rel="canonical" href="https://www.infoq.cn/article/a315uodombwrnrzh*mzp">
+    <meta property="og:title" content="这可能是人工智能领域覆盖最全的一份技术趋势报告_AI&amp;大模型_未来今日研究所_InfoQ精选文章">
+    <meta property="og:url" content="https://www.infoq.cn/article/a315uodombwrnrzh*mzp">
+    <meta property="og:description" content="这可能是人工智能领域覆盖最全的一份技术趋势报告">
+
+    <script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-TN7V5ES6HZ&amp;cx=c&amp;_slc=1"></script><script async="" src="https://static.sensorsdata.cn/sdk/1.15.15/sensorsdata.min.js" charset="UTF-8"></script><script src="https://hm.baidu.com/hm.js?094d2af1d9a57fd9249b3fa259428445"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+    <script type="text/javascript" src="//static001.geekbang.org/static/js/bufferLogger.1.0.8.min.js"></script>
+    <script src="https://g.alicdn.com/dingding/dingtalk-jsapi/2.7.13/dingtalk.open.js"></script>
+    
+        <script type="text/javascript" src="//g.alicdn.com/de/prismplayer/2.8.2/aliplayer-min.js"></script>
+        <script type="text/javascript" src="//static001.geekbang.org/static/time/js/hls.8361666e7e2690d988ff5fe775b62bbe.js"></script>
+    
+        
+    <script src="https://probe.bjmantis.net/chat/jquery-1.12.4.min.js"></script>
+    
+    <script src="https://pg-chatn4.bjmantis.net/chat/js/dist/mantis.min.js?5539#632d6bc2779bf400016e55b2"></script>
+    <script type="text/javascript">
+        if (!('flex' in document.documentElement.style) && !navigator.userAgent.match(/spider|googlebot|bingbot|geekbang|yahoo! Slurp/i)) {
+            window.location.href = '//static001.geekbang.org/static/common/browser_update/index.html'
+        }
+    </script>
+    <script>
+        (function(){
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https'){
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            }
+            else{
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+        })();
+    </script>
+<link href="https://static001.geekbang.org/static/infoq/www/css/app.b238f137.css" rel="stylesheet"><script src="https://pg-chatn4.bjmantis.net/chat/js/dist2/1725952827-mantis_probe.min.js?5539#632d6bc2779bf400016e55b2" type="text/javascript" defer=""></script><link rel="stylesheet" type="text/css" href="https://static001.geekbang.org/static/infoq/www/css/chunk-highlightjs.ce2a2394.css"><script charset="utf-8" src="https://static001.geekbang.org/static/infoq/www/js/chunk-highlightjs.05e5ac5f.js"></script><link rel="stylesheet" type="text/css" href="https://static001.geekbang.org/static/infoq/www/css/chunk-katex.26fbacea.css"><script charset="utf-8" src="https://static001.geekbang.org/static/infoq/www/js/chunk-katex.a956ad4c.js"></script><link rel="stylesheet" type="text/css" href="https://static001.geekbang.org/static/infoq/www/css/chunk-geek-editor.7768c941.css"><script charset="utf-8" src="https://static001.geekbang.org/static/infoq/www/js/chunk-geek-editor.5f04566c.js"></script><script charset="utf-8" src="https://static001.geekbang.org/static/infoq/www/js/chunk-4e923fdb.ded49bbc.js"></script><link rel="stylesheet" type="text/css" href="https://static001.geekbang.org/static/infoq/www/css/PageArticleV2.1d948153.css"><script charset="utf-8" src="https://static001.geekbang.org/static/infoq/www/js/PageArticleV2.b5f1d224.js"></script></head>
+
+<body>
+<!---->
+<img src="https://static001.infoq.cn/static/infoq/img/logo-121-75.yuij86g.png" alt="这可能是人工智能领域覆盖最全的一份技术趋势报告_AI&amp;大模型_未来今日研究所_InfoQ精选文章" style="display: none;">
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-103082599-11', 'auto');
+    ga('send', 'pageview');
+</script>
+<script>
+    var isRobot = /ltdgeekbang/i.test(window.navigator.userAgent.toLowerCase())
+    if (!isRobot) {
+        var __gBaiduSiteIdConfig__ = {
+            infoq: '094d2af1d9a57fd9249b3fa259428445',
+            xie: 'c53c258392315152cda6662d99774537'
+        };
+        var _hmt = _hmt || [];
+        _hmt.push(['_setAccount', __gBaiduSiteIdConfig__.infoq]);
+        _hmt.push(['_setAutoPageview', true]);
+        _hmt.push(['_setAccount', __gBaiduSiteIdConfig__.xie]);
+        _hmt.push(['_setAutoPageview', true]);
+
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?" + __gBaiduSiteIdConfig__.infoq;
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+        
+    }
+</script>
+<script>
+    
+    var isSmart = /swan\//.test(window.navigator.userAgent) || /^webswan-/.test(window.name);
+    if (isSmart) {
+        var smart = document.createElement("script");
+        smart.src = "https://b.bdstatic.com/searchbox/icms/searchbox/js/swan-2.0.21.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(smart, s);
+    }
+</script>
+<script>
+    (function(para) {
+        var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+        if(typeof(w['sensorsDataAnalytic201505']) !== 'undefined') {
+            return false;
+        }
+        w['sensorsDataAnalytic201505'] = n;
+        w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+        var ifs = ['track','quick','register','registerPage','registerOnce','trackSignup', 'trackAbtest', 'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 'identify','login','logout','trackLink','clearAllRegister','getAppStatus'];
+        for (var i = 0; i < ifs.length; i++) {
+            w[n][ifs[i]] = w[n].call(null, ifs[i]);
+        }
+        if (!w[n]._t) {
+            x = d.createElement(s), y = d.getElementsByTagName(s)[0];
+            x.async = 1;
+            x.src = p;
+            x.setAttribute('charset','UTF-8');
+            w[n].para = para;
+            y.parentNode.insertBefore(x, y);
+        }
+    })({
+        sdk_url: 'https://static.sensorsdata.cn/sdk/1.15.15/sensorsdata.min.js',
+        heatmap_url: 'https://static.sensorsdata.cn/sdk/1.15.15/heatmap.min.js',
+        name: 'sensors',
+        server_url: 'https://sscentry.geekbang.org/sa?project=production',
+        show_log: false,
+        is_track_single_page: true,
+        heatmap: {
+            clickmap: 'not_collect',
+            scroll_notice_map: 'not_collect'
+        },
+        preset_properties: {
+            latest_referrer_host: true,
+            latest_landing_page: true,
+            url: true
+        }
+    });
+</script>
+<script>
+    (function(win, export_obj) {
+        win['LogAnalyticsObject'] = export_obj;
+        if (!win[export_obj]) {
+            function _collect() {
+                _collect.q.push(arguments);
+            }
+            _collect.q = _collect.q || [];
+            win[export_obj] = _collect;
+        }
+        win[export_obj].l = +new Date();
+    })(window, 'collectEvent');
+</script>
+<script async="" src="https://lf3-data.volccdn.com/obj/data-static/log-sdk/collect/5.0/collect-rangers-v5.1.4.js"></script>
+
+    <script type="text/javascript" src="//www.infoq.cn/static/infoq/www/article/main.js?v=1.2"></script>
+
+
+
+<div class="common-login-modal"><div data-v-66e08e49="" id="gk-layer" gkmodal-color="base" class="modal-login Modal_gk-modal_3ly5T"><!----><!----></div><div data-v-95b8db28="" id="gk-layer" gkmodal-color="base" class="modal-guide Modal_gk-modal_3ly5T"><!----><!----></div><div data-v-0b61e37e="" id="gk-layer" gkmodal-color="base" class="modal-receive-success Modal_gk-modal_3ly5T"><!----><!----></div><div data-v-de1e5142="" id="gk-layer" gkmodal-color="base" class="modal-rebind Modal_gk-modal_3ly5T"><!----><!----></div></div><div id="gkui-modal-controller"><!----></div><div data-v-742c2edc="" id="gkui-message-list" style="top: 24px;"><span data-v-742c2edc=""></span></div><div tabindex="-1" role="dialog" aria-hidden="true" class="pswp pswp--zoom-allowed"><div class="pswp__bg"></div><div class="pswp__scroll-wrap"><div class="pswp__container"><div class="pswp__item"></div><div class="pswp__item"></div><div class="pswp__item"></div></div><div class="pswp__ui pswp__ui--hidden"><div class="pswp__top-bar"><div class="pswp__counter"></div><button title="Close (Esc)" class="pswp__button pswp__button--close"></button><button title="Share" class="pswp__button pswp__button--share"></button><button title="Toggle fullscreen" class="pswp__button pswp__button--fs"></button><button title="Zoom in/out" class="pswp__button pswp__button--zoom"></button><div class="pswp__preloader"><div class="pswp__preloader__icn"><div class="pswp__preloader__cut"><div class="pswp__preloader__donut"></div></div></div></div></div><div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"><div class="pswp__share-tooltip"></div></div><button title="Previous (arrow left)" class="pswp__button pswp__button--arrow--left"></button><button title="Next (arrow right)" class="pswp__button pswp__button--arrow--right"></button><div class="pswp__caption"><div class="pswp__caption__center"></div></div></div></div></div><div><div id="gk-layer" gkmodal-color="logPhone" class="Modal_gk-modal_3ly5T"><!----><!----></div></div></body></html>

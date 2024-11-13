@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "http://ai.ruc.edu.cn/newslist/newsdetail/20240902100.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "http://ai.ruc.edu.cn/newslist/newsdetail/20240902100.html",
+    "wait": 6
+}

@@ -1,0 +1,491 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<!--start component 文档组件(meta-title)-->
+
+<!-- 页面等比例缩放 -->
+<meta name="viewport" content="width=1360">
+<!-- 页面等比例缩放 end -->
+
+<title> AI正在悄悄改变航天——人工智能技术在航天领域应用前景初探_中国航天科技集团</title>
+
+<link rel="shortcut icon" href="../../../dbsource/1982056/1982057.ico"  type="image/x-icon">
+<link rel="icon" href="../../../dbsource/1982056/1982057.ico" type="image/x-icon">
+<!--end component 文档组件(meta-title)-->
+
+<link href="../../../template/2000777/2000778.css" rel="stylesheet" type="text/css">
+<script src="../../../template/2000777/2000897.js" type="text/javascript"></script>
+<script type="text/javascript" src="../../../template/2000777/2000898.js"></script>
+</head>
+
+<body>
+
+<!--start component HTML组件(20WZ_head1)-->
+<script type="text/JavaScript">
+function zhou(){
+   var pattern = /.*[/"@#$%^&.',"<>]{1,}.*/;
+   if((solecism = pattern.exec(fm.fullText.value))!= null){
+      alert("不能包含特殊字符!");
+      return;
+   }
+ fm.submit();
+}
+</script>
+<style>
+.header_search{float:right;margin-top:30px;}
+.clear{clear: both;font-size: 0;line-height: 0;}
+</style>
+
+
+<div class="header">
+ <div class="common_wrap">
+  <a href="http://www.spacechina.com/n25/index.html" class="logo"></a>
+
+<div class="header_search">
+</div>
+
+  <div class="header_port">
+   <a href="http://english.spacechina.com/n16421/index.html" target="_blank">English</a>
+   <span>|</span>
+   <a href="javascript:void(0)" name="StranLink" id="StranLink">繁體中文</a>
+   <span>|</span>
+   <a href="https://mail.spacechina.com/" target="_blank">邮箱</a>
+   <span>|</span>
+   <a href="http://www.spacechina.com/n25/n13529/n147965/index.html" target="_blank">网站地图</a>
+  </div>
+
+<div class="clear"></div>
+ </div>
+
+<script type="text/javascript" src="../../../dbsource/1982056/1982167.js"></script>
+<!--end component HTML组件(20WZ_head1)-->
+
+<!--start component HTML组件(19_header2)-->
+<script language=JavaScript type=text/JavaScript> 
+function showa(idy)
+{
+ var obja = document.getElementById(idy);
+ var objas = document.getElementById(idy+"k");
+ for(var k=0;k<10;k++){
+  var jidy ="menua"+k;
+  var taba = document.getElementById(jidy);
+  var tabas = document.getElementById(jidy +"k");
+  if(jidy == idy){
+   objas.className="curr";
+   obja.style.display="block";
+   }else{  
+    taba.style.display ="none";
+    tabas.className=""; 
+  }
+ }
+} 
+</script>
+
+
+
+
+ <div class="nav">
+  <div class="common_wrap">
+   <div class="nav_major">
+
+    <a href="../../../index.html"  class="curr" onmouseover="showa('menua0')" id="menua0k"  target="_blank">首页</a>
+    <a href="../../../n142/index.html"  onmouseover="showa('menua1')" id="menua1k"  target="_blank">关于我们</a>
+    <a href="../../../n2014789/index.html"  onmouseover="showa('menua2')" id="menua2k"  target="_blank">新闻中心</a>
+    <a href="../../../n962369/index.html"  onmouseover="showa('menua3')" id="menua3k"  target="_blank">党的建设</a>
+    <a href="../../../n2014703/index.html"  onmouseover="showa('menua4')" id="menua4k"  target="_blank">人力资源</a>
+    <a href="../../../n146/index.html"  onmouseover="showa('menua5')" id="menua5k"  target="_blank">产品与业务</a>
+    <a href="../../../n1991299/index.html"  onmouseover="showa('menua6')" id="menua6k"  target="_blank">科技创新</a>
+    <a href="../../../n148/index.html"  onmouseover="showa('menua7')" id="menua7k"  target="_blank">航天文化</a>
+    <a href="../../../n150/index.html"  onmouseover="showa('menua8')" id="menua8k"  target="_blank">航天网群</a>
+    <a href="../../../n1995122/index.html"  onmouseover="showa('menua9')" id="menua9k"  target="_blank">信息公开</a>
+
+   </div>
+  </div>
+
+  <div class="nav_sub" style="height:36px; line-height:36px; background-image:none; background-color:#315791; text-align:right;">
+
+<!--首页-->
+
+   <div class="common_wrap" id="menua0" style="display:block; width:940px;  padding-right:260px;">
+    <a href="../../../n2014789/n2014804/index.html" target="_blank">集团要闻</a>
+<a href="../../../n2014789/n2014799/index.html" target="_blank">党组声音</a>
+<a href="../../../n2014789/n2014824/index.html" target="_blank">媒体聚焦</a>
+<a href="../../../n2014789/n2014809/index.html" target="_blank">一线新闻</a>
+<a href="../../../n2014789/n2014839/index.html" target="_blank">专题报道</a>
+<a href="http://szb.htgjjl.com/" target="_blank">航天数字报</a>
+   </div>
+
+<!--关于我们-->
+
+   <div class="common_wrap" id="menua1" style="display:none; width:890px;  padding-right:310px;">
+    <a href="../../../n142/n152/index.html" target="_blank">集团概况</a>
+    <a href="../../../n142/n154/index.html" target="_blank">企业文化</a>
+    <a href="../../../n142/n162/index.html" target="_blank">上市公司</a>
+    <a href="../../../n142/n158/index.html" target="_blank">社会责任</a>
+    <a href="../../../n142/n353157/index.html" target="_blank">品牌介绍</a>
+   </div>
+
+<!--新闻中心-->
+
+   <div class="common_wrap" id="menua2" style="display:none;">
+    <a href="../../../n2014789/n2014804/index.html" target="_blank">集团要闻</a>
+      <a href="../../../n2014789/n2014799/index.html" target="_blank">党组声音</a>
+<a href="../../../n2014789/n2014794/index.html" target="_blank">国资动态</a>
+    <a href="../../../n2014789/n2014809/index.html" target="_blank">一线新闻</a>
+    <a href="../../../n2014789/n2014814/index.html" target="_blank">国际合作</a>
+    <a href="../../../n2014789/n2014819/index.html" target="_blank">通知公告</a>
+    <a href="../../../n2014789/n2014824/index.html" target="_blank">媒体聚焦</a>
+    <a href="../../../n2014789/n2014829/index.html" target="_blank">媒体期刊</a>
+    <a href="../../../n2014789/n2014834/index.html" target="_blank">视频中心</a>
+    <a href="../../../n2014789/n2014839/index.html" target="_blank">专题报道</a>
+   </div>
+
+<!--党的建设-->
+
+   <div class="common_wrap" id="menua3" style="display:none; width:930px;  padding-right:360px;">
+    <a href="../../../n962369/n962398/index.html" target="_blank">党建动态</a>
+    <a href="../../../n962369/n3485830/index.html" target="_blank">党员先锋</a>
+    <a href="../../../n962369/n2020897/index.html" target="_blank">职工之家</a>
+    <a href="../../../n962369/n2020902/index.html" target="_blank">团青风采</a>
+   </div>
+
+<!--人力资源-->
+
+   <div class="common_wrap" id="menua4" style="display:none; width:965px;  padding-right:235px;">
+    <a href="../../../n2014703/n3482507/index.html" target="_blank">院士专家</a>   
+    <a href="../../../n2014703/n3482518/index.html" target="_blank">大家风范</a>   
+    <a href="../../../n2014703/n3482523/index.html" target="_blank">技能精英</a>
+    <a href="../../../n2014703/n3482528/index.html" target="_blank">团队风采</a>
+    <a href="../../../n2014703/n2014708/index.html" target="_blank">加入我们</a>
+   </div>
+
+<!--产品与业务-->
+
+   <div class="common_wrap" id="menua5" style="display:none; width:1044px;  padding-right:156px;">
+    <a href="../../../n146/n234/index.html" target="_blank">主营业务</a>
+    <a href="../../../n146/n238/index.html" target="_blank">产品介绍</a>
+    <a href="http://www.icasc.cn/zhanlan/index.html" target="_blank">网上展会</a>
+   </div>
+
+<!--科技创新-->
+
+   <div class="common_wrap" id="menua6" style="display:none;">
+    <a href="../../../n1991299/n1991333/index.html" target="_blank">产学研动态</a>
+    <a href="../../../n1991299/n1991338/index.html" target="_blank">创新成果</a>
+    <a href="../../../n1991299/n1991343/index.html" target="_blank">实验资源</a>
+    <a href="../../../n1991299/n1991358/index.html" target="_blank">科技奖项</a>
+    <a href="../../../n1991299/n1991353/index.html" target="_blank">专利工作</a>
+    <a href="../../../n1991299/n1991348/index.html" target="_blank">标准工作</a>
+   </div>
+
+<!--航天文化-->
+
+   <div class="common_wrap" id="menua7" style="display:none;">
+    <a href="../../../n148/n272/index.html" target="_blank">航天科普</a>
+    <a href="../../../n148/n278/index.html" target="_blank">航天图书</a>
+    <a href="../../../n148/n2020942/index.html" target="_blank">视觉航天</a>
+    <a href="../../../n148/n280/index.html" target="_blank">网上展馆</a>
+    <a href="../../../n148/n2020947/index.html" target="_blank">特色活动</a>
+   </div>
+
+<!--航天网群-->
+
+   <div class="common_wrap" id="menua8" style="display:none;">
+    <a href="../../../n150/n284/index.html" target="_blank">成员单位</a>
+    <a href="../../../n150/n290/index.html" target="_blank">子站专题</a>
+    <a href="../../../n150/n292/index.html" target="_blank">子站服务</a>
+    <a href="../../../n150/n294/index.html" target="_blank">子站展示</a>
+   </div>
+
+<!--信息公开-->
+
+   <div class="common_wrap" id="menua9" style="display:none;">
+    <a href="../../../n1995122/n1996785/index.html" target="_blank">重大事项</a>
+    <a href="../../../n1995122/n1996790/index.html" target="_blank">经营管理</a>
+    <a href="../../../n1995122/n1996795/index.html" target="_blank">重大人事信息</a>
+    <a href="../../../n1995122/n1996800/index.html" target="_blank">社会责任</a>
+    <a href="../../../n1995122/n1997293/index.html" target="_blank">企业信息</a>
+    <a href="../../../n142/n162/index.html" target="_blank">上市公司</a>
+    <a href="../../../n1995122/n1997298/index.html" target="_blank">人才招聘</a>
+   </div>
+
+  </div>
+ </div>
+</div>
+
+
+<style>
+.header{height:116px; background-color:#eeeeee;}
+.logo{float:left; width:411px; height:100px;}
+.header_port{float:right; height:24px; font-size:12px; color:#666666; margin-top:30px;}
+.header_port span{margin:0 10px;}
+.header_port a{color:#666666; line-height:24px; vertical-align:middle;}
+.header_port a:hover{color:#003399;}
+.search_box{width:114px; height:22px; line-height:22px; border:1px solid #9a9a9a; background:none; padding:0 5px; margin-left:20px;}
+.btn_search_submit{display:inline-block; width:24px; height:24px; vertical-align:middle;}
+.nav{position:absolute; width:100%; height:auto; top:84px; right:0; z-index:99; font-size:14px;}
+.nav_major{font-size:16px; line-height:19px; height:32px; float:right;}
+.nav_major a{float:left; padding:0 9px; border-bottom:3px solid #eeeeee; padding-bottom:10px;}
+.nav_major a.curr{border-bottom:3px solid #000000; color:#003d82;}
+
+.nav_sub a{margin-right:24px; font-size:15px; color:#ffffff;}
+</style>
+<!--end component HTML组件(19_header2)-->
+
+<div class="olist">
+	<div class="common_wrap">
+		
+<!--start component 当前路径(location)-->
+<div class="article_location">您当前的位置：       <a href="../../../index.html"target="_blank">首页</a>
+        &nbsp;  →  &nbsp;
+       <a href="../../../n1991299/index.html" target="_blank">科技创新</a>
+        &nbsp;  →  &nbsp;
+       <a href="../../../n1991299/n1991333/index.html" target="_blank">产学研动态</a>
+    →  &nbsp;正文
+
+</div>
+<!--end component 当前路径(location)-->
+
+		
+<!--start component 文档组件(content)-->
+  
+
+<div class="article_title">AI正在悄悄改变航天——人工智能技术在航天领域应用前景初探</div>
+  <div class="article_attr">
+    来源：中国航天报 &nbsp;&nbsp;&nbsp;&nbsp;日期：2023年02月17日&nbsp;&nbsp;&nbsp;&nbsp;字体：【<a onclick="doZoom(20)" style="cursor:pointer">大</a>】【<a onclick="doZoom(16)" style="cursor:pointer">中</a>】【<a onclick="doZoom(12)" style="cursor:pointer">小</a>】
+  </div>
+  <div class="article_text" id="zoom">
+   <p style="margin-bottom: 1em; text-indent: 2em">ChatGPT现在很火。作为一个人工智能聊天机器人，它拥有信息整合能力、自然语言处理能力，能根据要求进行聊天、撰写论文、创作诗歌，还可以生成游戏剧本、编写程序代码。而在航天工程任务中，需要处理大量数据，协同大量仪表、设备与传感装置，那么人工智能在航天领域可以大显身手吗？</p><p style="margin-bottom: 1em; text-indent: 2em">事实上，科幻电影对人工智能技术作用于航天领域的合理想象，正在悄悄发生。</p><p style="margin-bottom: 1em; text-indent: 2em"><strong>对自我诊断修复能力的&ldquo;渴望&rdquo;</strong></p><p style="margin-bottom: 1em; text-indent: 2em">航天器造价高、工作环境复杂，在空间环境中若发生故障，则很难修复，从而造成重大损失。因此，航天器故障诊断技术能否向着智能高效化的方向发展显得尤为重要。</p><p style="margin-bottom: 1em; text-indent: 2em">&ldquo;我们原来采用预先设定规则的故障诊断方法，需要对各种可能出现的异常设定判断阈值，这就需要大量的专家经验，但对经验之外的故障通常缺乏检测能力。&rdquo;中国航天科技集团有限公司五院通信与导航卫星总体部信息室副主任宫江雷表示。</p><p style="margin-bottom: 1em; text-indent: 2em">人工智能技术或可成为卫星诊断自身故障的&ldquo;好帮手&rdquo;。卫星设计师正试图让航天器搭载人工智能处理部件上天，实现自主导航、控制、数据处理、故障判断和重构维修工作。</p><p style="margin-bottom: 1em; text-indent: 2em">以往，卫星在轨的运行状态、故障、寿命等情况要通过地面测控系统进行监测、预警，&ldquo;而人工智能算法具备不断学习强化和自适应的特性，数据怎么变，它就怎么调整，并且会变得越来越准确。&rdquo;宫江雷表示。</p><p style="margin-bottom: 1em; text-indent: 2em">&ldquo;特别是随着现在通信、导航、遥感需求的兴起和网络复杂度的提升，对远程信息传输进行良好管理并确保优质的传输性能和可靠性，比以往任何时候都重要。&rdquo;宫江雷指出，例如太空垃圾增多，空间碎片撞击航天器概率变大；卫星互联网的发展导致信息安全领域的隐患越来越大等，这些都预示着人工智能技术有着巨大的发挥空间。</p><p style="margin-bottom: 1em; text-indent: 2em">传统的故障特征提取与识别评估方法是基于人类经验的，难以准确描述复杂故障特征信息。而结合不同应用场景下的多种人工智能学习算法，可有效提高航天器复杂撞击损伤检测效率和损伤特征分类效果，在探测和评估之余提供风险预警和修复帮助。</p><p style="margin-bottom: 1em; text-indent: 2em"><strong>ChatGPT与航天结合的设想</strong></p><p style="margin-bottom: 1em; text-indent: 2em">航天科技集团一院正在开展&ldquo;智慧火箭&rdquo;研究，使火箭在出现故障时自动识别结果、主动更改策略，实行自主化飞行，让火箭更智能、更聪明。</p><p style="margin-bottom: 1em; text-indent: 2em">在高密度发射常态化的今天，火箭对自主故障诊断及任务重构能力也十分&ldquo;渴望&rdquo;。一院研究发展中心人工智能专家介绍，&ldquo;我们将结合人工智能与信息技术，建立运载火箭全生命周期的智慧健康监测系统，将其贯穿火箭设计验证、生产制造、测试发射和飞行试验全生命周期。&rdquo;</p><p style="margin-bottom: 1em; text-indent: 2em">能不能研究一个定制化的ChatGPT？</p><p style="margin-bottom: 1em; text-indent: 2em">航天设计师们设想：通过构建智能化辅助设计系统，整合现有的海量资料及资源，模拟人脑思考的过程，形成一个&ldquo;智慧大脑&rdquo;，人工智能未来可能会成为设计航天产品的辅助工具。</p><p style="margin-bottom: 1em; text-indent: 2em">定制化的ChatGPT也许会像一个经验丰富的航天高级专家，可以对文本数据进行系统化分析、理解与信息提取，辅助设计师开展运载火箭和航天器的设计工作。由于&ldquo;智慧大脑&rdquo;能够在很短的时间内完成大量知识的学习，并从中找出最优方案，设计的标准化和设计水平也能够得到保证。</p><p style="margin-bottom: 1em; text-indent: 2em">以智慧火箭为例，在生产过程中，&ldquo;智慧大脑&rdquo;可以完成对火箭全生命周期信息的收集与保障，建立起一个综合档案履历资料库，收集制造、装配、测试各个过程的数据与知识，构建大数据分析中心，作为智慧火箭的数据支撑与健康诊断的依据，降低设计和研制成本、提高测发效率、提升火箭的可靠性。</p><p style="margin-bottom: 1em; text-indent: 2em">ChatGPT也需要通过深度学习对人类思维方式建模，让机器能够理解人的行为，并将知识运用到与用户的交互中，达到机器&ldquo;人性化&rdquo;的终极目标，实现人工智能技术在航天领域的应用。</p><p style="margin-bottom: 1em; text-indent: 2em">专家指出，实现定制化ChatGPT，还需要航天工作者将大量训练样本和知识信息注入机器学习过程中，并不断提升算法的泛化性和适应性，在应用层进行强化训练，提高算法水平。</p><p style="margin-bottom: 1em; text-indent: 2em"><strong>担忧之处与先期破冰</strong></p><p style="margin-bottom: 1em; text-indent: 2em">人工智能技术的发展与应用，正在悄悄改变航天产品设计的原有模式和格局。然而，宫江雷也指出了当下的困难：航天器的遥测故障样本数据较少，深度学习算法训练和应用的效果会受限。除此之外，将人工智能方法应用于在轨航天器仍有许多需要解决的问题，如当前航天器存在的计算能力、存储资源不足等。</p><p style="margin-bottom: 1em; text-indent: 2em">当前，大部分人工智能技术还处于&ldquo;弱人工智能&rdquo;阶段，因此航天领域仍以发展辅助分析和辅助决策层次的人工智能技术为主。</p><p style="margin-bottom: 1em; text-indent: 2em">以神经网络为核心的人工智能具有&ldquo;不可解释性&rdquo;，这意味着人类无法知道智能算法给出这个结果的原因。&ldquo;不可解释&rdquo;就意味着风险，特别是在要求&ldquo;万无一失&rdquo;的航天工程任务中，这也是航天设计师们所担忧的。</p><p style="margin-bottom: 1em; text-indent: 2em">&ldquo;我们要对&lsquo;小样本学习&rsquo;进行破局，试图通过有限数量的数据集训练出较好的效果。我们还亟须提升星上处理能力，一方面采用高性能的宇航级芯片提升星上计算能力，另一方面升级星上信息系统架构，提升星上数据传输能力，为人工智能算法在卫星上的应用夯实基础。&rdquo;宫江雷说。</p><p style="margin-bottom: 1em; text-indent: 2em">随着算法、算力和云技术的进一步突破，航天设计师们对未来&ldquo;强人工智能&rdquo;在航天领域的应用持乐观看好的态度。宫江雷始终认为，人工智能技术向航天领域的渗透日趋广泛，未来一定会实现技术的跨代，从而促进整个航天领域的发展。太空之中、九天之外，也有望成为人工智能的一个重要舞台。（邓雨楠）</p>  </div>
+
+
+<script type="text/javascript">
+ function doZoom(size){
+  document.getElementById('zoom').style.fontSize=size+'px'
+ }
+</script>
+<!--end component 文档组件(content)-->
+
+	</div>
+</div>
+
+<!--start component HTML组件(19_bottom1)-->
+<div class="bottom">
+  <div class="common_wrap2 clearfix" style="overflow:visible;">
+    <div class="lxwm">
+      <div class="lxwm_title">联系我们</div>
+      <div class="lxwm_con">
+        电话：010-68372291<br />
+        传真：010-68372291<br />
+        地址：北京市海淀区阜成路16号<br />
+        邮编：100048<br />
+      </div>
+    </div>
+
+    <style>
+      .sbHolder .sbTog{display:none;}
+    </style>
+
+
+    <div class="website">
+      <div class="website_item">
+        <div class="website_item_title">集团网群<a href="#" class="sbToggle"></a></div>
+        <div class="website_item_con">
+          <div name="link1" id="link1" class="sbHolder">
+            <p class="sbSelector" style="width:177px;">大型科研生产联合体<a href="javascript:;" class="sbToggle"></a></p>
+            <ul class="sbOptions sbTog" style="position: absolute;top:23px;">
+              <li> <a href=http://calt.spacechina.com/  target="_blank">中国运载火箭技术研究院</a></li>
+              <li> <a href=http://www.aaspt.net/  target="_blank">航天动力技术研究院</a></li>
+              <li> <a href=http://www.cast.cn/  target="_blank">中国空间技术研究院</a></li>
+              <li> <a href="http://ht6y.net.netecweb.com/"  target="_blank">航天推进技术研究院</a></li>
+              <li> <a href="javascript:;">四川航天技术研究院</a></li>
+              <li> <a href=http://www.sast.cn/  target="_blank">上海航天技术研究院</a></li>
+              <li> <a href="http://www.caaet.cn/" target="_blank">中国航天电子技术研究院</a></li>
+              <li> <a href=http://www.caaa-spacechina.com/  target="_blank">中国航天空气动力技术研究院</a></li>
+            </ul>
+          </div>
+
+
+          <div name="link2" id="link2" class="sbHolder">
+            <p class="sbSelector" style="width:177px;">专业公司<a href="javascript:;" class="sbToggle"></a></p>
+            <ul class="sbOptions sbTog" style="position: absolute;top:23px;">
+              <li> <a href=http://www.chinasatcom.com/  target="_blank">中国卫通集团股份有限公司</a></li>
+              <li> <a href=http://www.luckyfilm.com.cn/  target="_blank">中国乐凯集团有限公司</a></li>
+              <li> <a href=http://cn.cgwic.com/  target="_blank">中国长城工业集团有限公司</a></li>
+              <li> <a href=http://www.chinasiwei.com/  target="_blank">中国四维测绘技术有限公司</a></li>
+              <li> <a href=http://www.astfc.com/  target="_blank">航天科技财务有限责任公司</a></li>
+              <li> <a href=http://www.caih.cn/  target="_blank">航天投资控股有限公司</a></li>
+              <li> <a href=http://www.casil-group.com/big5/index-c.html  target="_blank">中国航天国际控股有限公司</a></li>
+              <li> <a href=http://www.bjsasc.com/  target="_blank">北京神舟航天软件技术有限公司</a></li>
+              <li> <a href=http://www.chinasaat.com/  target="_blank">深圳航天科技创新研究院</a></li>
+
+              <!--  <li> <a href=http://www.alitchina.com/  target="_blank">航天长征国际贸易有限公司</a></li>  -->
+              <!--  <li> <a href=http://www.cresda.com/>中国资源卫星应用中心</a></li>  -->
+            </ul>
+          </div>
+
+
+          <div name="link3" id="link3" class="sbHolder">
+            <p class="sbSelector" style="width:177px;">直属单位<a href="javascript:;" class="sbToggle"></a></p>
+            <ul class="sbOptions sbTog" style="position: absolute;top:23px;">
+              <li> <a href=http://www.caecc.com/  target="_blank">中国航天系统科学与工程研究院</a></li>
+              <li> <a href=http://www.ht708.com.cn/  target="_blank">中国航天标准化与产品保证研究院</a></li>
+              <li> <a href=http://www.htgjjl.com/  target="_blank">中国航天科技国际交流中心</a></li>
+              <li> <a href=http://www.spacechina.com/n25/n142/n152/n12989/n13961/c25158/content.html  target="_blank">航天档案馆</a></li>
+              <li> <a href="javascript:;">航天通信中心</a></li>
+
+            </ul>
+          </div>
+
+
+          <div name="link4" id="link4" class="sbHolder">
+            <p class="sbSelector" style="width:177px;">上市公司<a href="javascript:;" class="sbToggle"></a></p>
+            <ul class="sbOptions sbTog" style="position: absolute;top:23px;">
+              <li> <a href=http://www.spacesat.com.cn  target="_blank">中国东方红卫星股份有限公司</a></li>
+              <li> <a href=http://www.ht-saae.com/  target="_blank">上海航天汽车机电股份有限公司</a></li>
+              <li> <a href="http://www.china-htdl.com/"  target="_blank">陕西航天动力高科技股份有限公司</a></li>
+              <li> <a href=http://www.catec-ltd.cn/  target="_blank">航天时代电子技术股份有限公司</a></li>
+              <li> <a href=http://energine.hk/c/index.php  target="_blank">中国航天万源国际（集团）有限公司</a></li>
+              <li> <a href=http://www.casil-group.com/  target="_blank">中国航天国际控股有限公司</a></li>
+              <li> <a href=http://www.apstar.com/cn/  target="_blank">亚太卫星控股有限公司</a></li>
+
+              <!--<li> <a href=http://www.navinfo.com/>北京四维图新科技股份有限公司</a></li>-->
+
+
+              <li> <a href=http://gufen.luckyfilm.com.cn/  target="_blank">乐凯胶片股份有限公司</a></li>
+              <li> <a href=http://www.china-ceco.com/  target="_blank">航天长征化学工程股份有限公司</a></li>
+              <li> <a href="http://www.aimtcl.com/"  target="_blank">航天智造科技股份有限公司</a></li>
+              <li> <a href="https://www.asiet.net/"  target="_blank">北京航天神舟智能装备科技股份有限公司</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="website_item" style="margin-left:34px;">
+        <div class="website_item_title">网站链接</div>
+        <div class="website_item_con">
+          <div name="link5" id="link5" class="sbHolder">
+            <p class="sbSelector" style="width:177px;">政府机构<a href="javascript:;" class="sbToggle"></a></p>
+            <ul class="sbOptions sbTog" style="position: absolute;top:23px;">
+              <li> <a href=http://www.gov.cn/  target="_blank">中央人民政府门户网站</a></li>
+              <li> <a href=http://www.mod.gov.cn/  target="_blank">国防部</a></li>
+              <li> <a href=http://www.ndrc.gov.cn/  target="_blank">国家发展和改革委员会</a></li>
+              <li> <a href=http://www.most.gov.cn/  target="_blank">科学技术部</a></li>
+              <li> <a href=http://www.miit.gov.cn/  target="_blank">工业和信息化部</a></li>
+              <li> <a href=http://www.sasac.gov.cn/index.html  target="_blank">国有资产监督管理委员会</a></li>
+              <li> <a href=http://www.sastind.gov.cn  target="_blank">国家国防科技工业局</a></li>
+              <li> <a href=http://www.cnsa.gov.cn  target="_blank">国家航天局</a></li>
+            </ul>
+          </div>
+
+
+          <div name="link6" id="link6" class="sbHolder">
+            <p class="sbSelector" style="width:177px;">军工集团<a href="javascript:;" class="sbToggle"></a></p>
+            <ul class="sbOptions sbTog" style="position: absolute;top:23px;">
+
+              <!--   <li> <a href=http://www.cnnc.com.cn/  target="_blank">中国核工业集团公司</a></li>-->
+
+              <li> <a href=http://www.cnnc.com.cn/  target="_blank">中国核工业集团有限公司</a></li>
+              <li> <a href=http://www.casic.com.cn/  target="_blank">中国航天科工集团有限公司</a></li>
+              <li> <a href=http://www.avic.com.cn/  target="_blank">中国航空工业集团有限公司</a></li>
+              <!-- <li> <a href=http://www.cssc.net.cn/index.php  target="_blank">中国船舶工业集团有限公司</a></li>-->
+              <li> <a href=http://www.csic.com.cn/  target="_blank">中国船舶集团有限公司</a></li>
+              <li> <a href=http://www.norincogroup.com.cn/ target="_blank">中国兵器工业集团有限公司</a></li>
+              <li> <a href=http://www.csgc.com.cn/  target="_blank">中国兵器装备集团有限公司</a></li>
+              <li> <a href=http://www.cetc.com.cn/  target="_blank">中国电子科技集团有限公司</a></li>
+            </ul>
+          </div>
+
+
+          <div name="link8" id="link8" class="sbHolder">
+            <p class="sbSelector" style="width:177px;">媒体服务<a href="javascript:;" class="sbToggle"></a></p>
+            <ul class="sbOptions sbTog" style="position: absolute;top:23px;">
+              <li> <a href=http://www.people.com.cn/  target="_blank">人民网</a></li>
+              <li> <a href=http://www.xinhuanet.com/  target="_blank">新华网</a></li>
+              <li> <a href=http://www.cntv.cn/  target="_blank">央视网</a></li>
+              <li> <a href=http://www.qstheory.cn/  target="_blank">求是网</a></li>
+              <li> <a href=http://www.chinadaily.com.cn/  target="_blank">中国日报网</a></li>
+              <li> <a href=http://www.cnr.cn/?tk=0.5565496661693379  target="_blank">央广网</a></li>
+              <li> <a href=http://gb.cri.cn/  target="_blank">国际在线</a></li>
+              <li> <a href=https://www.qq.com/  target="_blank">腾讯网</a></li>
+
+              <!--<li> <a href=http://media.sohu.com/>搜狐传媒频道</a></li>-->
+
+            </ul>
+          </div>
+        </div>
+      </div>
+
+
+      <script type="text/javascript">
+        $(document).ready(function(){
+          $(".sbHolder").click(function(){
+            if($(this).children("ul").is(":hidden")){
+              $(".sbHolder ul").hide();
+              $(this).find("ul").show();
+            }else{
+              $(this).find("ul").hide(); 
+            }
+          });
+        })
+        $(document).bind("click",function (e) {
+          var e = e || event;
+          window.event? window.event.cancelBubble = true : e.stopPropagation();
+          if (e.target.className != "sbToggle" && e.target.className != "sbSelector" && e.target.className != "sbOptions sbTog") {
+            $(".sbHolder ul").hide();
+          }
+        })
+      </script>
+    </div>
+<!--end component HTML组件(19_bottom1)-->
+
+<!--start component 导航条(19_bottom2)-->
+<div class="rdlm">
+   <div class="rdlm_title">热点栏目</div>
+   <div class="rdlm_con">
+
+    <a href="../../../n142/index.html">关于我们</a>
+    <a href="../../../n2014789/index.html">新闻中心</a>
+    <a href="../../../n962369/index.html">党的建设</a>
+    <a href="../../../n2014703/index.html">人力资源</a>
+    <a href="../../../n146/index.html">产品与业务</a>
+    <a href="../../../n1991299/index.html">科技创新</a>
+    <a href="../../../n148/index.html">航天文化</a>
+    <a href="../../../n150/index.html">集团网群</a>
+
+   </div>
+  </div>
+<!--end component 导航条(19_bottom2)-->
+
+<!--start component HTML组件(19_bottom3)-->
+<div class="index_media">
+   <div class="index_media_item">
+    <img src="../../../template/1997343/1997391.png" />
+    <div class="index_media_name">中国航天科技集团<br/>官方微信</div>
+   </div>
+   <div class="index_media_item" style="margin-left:10px;">
+    <img src="../../../template/1997343/1997390.png" />
+    <div class="index_media_name">中国航天科技集团<br/>新浪微博</div>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="footer">
+
+
+<p><a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">京ICP备13027524号</a>
+<span style="margin:0 10px;">|</span>
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700098" target="_blank">京公网安备：11040102700098号</a>
+</p>
+
+ <p><a href="../../../n13529/n147963/index.html" target="_blank">法律声明</a><span style="margin:0 10px;">|</span><a href="../../../n13529/n147965/index.html" target="_blank">网站地图</a><span style="margin:0 10px;">|</span><a href="../../../n13529/n147967/index.html" target="_blank">使用帮助</a><span style="margin:0 10px;">|</span><a href="../../../n13529/n147969/index.html" target="_blank">隐私与安全</a></p>
+ <p>中国航天科技集团有限公司 版权所有</p>
+</div>
+<a href="javascript:void(0);" class="btn_back2Top"><img src="../../../template/1997343/1997357.png" /></a>
+<script type="text/javascript" src="../../../template/1997343/2000256.js"></script>
+<!--end component HTML组件(19_bottom3)-->
+
+</body>
+</html>

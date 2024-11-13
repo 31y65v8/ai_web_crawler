@@ -1,0 +1,7 @@
+Server: nginx
+Date: Wed, 13 Nov 2024 12:32:00 GMT
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Max-Age: 1800
+Set-Cookie: cookieId=7d7a88df22fe5382f18aa6dac027c000; Domain=51offer.com; Expires=Thu, 13-Nov-2025 12:31:59 GMT; Path=/

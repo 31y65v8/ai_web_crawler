@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>人工智能行业人才需求旺盛 - 第一物流网</title>
+    <meta name="keywords" content="人工只能 人才"/>
+    <meta name="description" content="未来5到10年，对社会改变最大的将是人工智能（AI）。人工智能将深刻改变社会，代替很多岗位，也会创造出很多新的岗位。哪个国家掌握了人工智能的话语权，就掌握了全球的话语权。"/>
+    <link rel="stylesheet" type="text/css" href="/css/flex.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" href="/css/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+    <script type="javascript" src="/js/bootstrap.min.js"></script>
+ 
+</head>
+<body style="padding-top:0px;background-color: #fff;">
+<div class="top container-fluid">
+    <div class="container" flex='main:justify cross:center'>
+        <div class="top-child"><span>欢迎来到第一物流网</span></div>
+        <div class="top-child text-right">
+                        <a href="/index/user/register">注册</a>
+            <a href="/index/user/login">登录</a>
+
+            
+ &nbsp; &nbsp; &nbsp;<a href="http://old.cn156.com/" target="_blank">第一物流网旧址</a>
+        </div>
+    </div>
+</div>
+<div class="header container">
+    <div class="header-left">
+        <a href="/"><img src="/images/logo.jpg" alt=""></a>
+    </div>
+    <div class="header-center">
+        <form action="/cms/s.html" class="parent" method="get">
+            <input type="text" name="q" value="" placeholder="请输入搜索内容">
+            <input type="submit" value="搜索">
+        </form>
+    </div>
+    <div class="header-right" flex='main:justify cross:center'>
+        <div><img src="/images/er.jpg" alt=""></div>
+        <div>
+            <p>关注掌链公众号</p>
+            <p>洞悉物流供应链</p>
+        </div>
+    </div>
+</div>
+<div class="menu container">
+
+
+    <div class="menu-fs">
+        <div class="menu-list fsrtls">
+            <div class="menu-title"><a href="/cms/c/toutiao.html">头条</a></div>
+            <div class="menu-tx" style="width: 50px"><a href="/cms/c/wuliu.html">物流</a></div>
+            <div class="menu-tx" style="width: 50px"><a href="/cms/c/jinrong.html">金融</a></div>
+        </div>
+        <div class="menu-list">
+            <div class="menu-title" style="width: 80px"><a href="/cms/c/kuaiwuliu.html">快物流</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/kuaidi.html">快递</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/kuaiyun.html">快运</a></div>
+        </div>
+        <div class="menu-list" style="width: 134px">
+            <div class="menu-title" style="width: 134px"><a href="/cms/c/gongyinglianjinrong.html">供应链金融</a></div>
+            <!--<div class="menu-tx"><a href="">物流</a></div>-->
+            <!--<div class="menu-tx"><a href="">金融</a></div>-->
+        </div>
+        <div class="menu-list" style="width: 167px">
+            <div class="menu-title" style="width: 167px"><a href="/cms/c/shangyongche.html">商用车</a></div>
+            <!--<div class="menu-tx"><a href="">物流</a></div>-->
+            <!--<div class="menu-tx"><a href="">金融</a></div>-->
+        </div>
+        <div class="menu-list">
+            <div class="menu-title" style="width: 80px"><a href="/cms/c/shuzhiwuliu.html">数智物流</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/qiye.html">企业</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/shichang.html">市场</a></div>
+        </div>
+        <div class="menu-list" style="width: 200px">
+            <div class="menu-title" style="width: 88px"><a href="/cms/c/yunshuwuliu.html">运输物流</a></div>
+              <div class="menu-tx" style="width: 53px"><a href="/cms/c/luyun.html">陆运</a></div>
+            <div class="menu-tx" style="width: 43px"><a href="/cms/c/zonghe.html">综合</a></div>
+          
+        </div>
+        <div class="menu-list">
+            <div class="menu-title" style="width: 80px"><a href="/cms/c/wuliudichan.html">物流地产</a></div>
+           
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/yuanqu.html">园区</a></div>
+             <div class="menu-tx" style="width: 40px"><a href="/cms/c/dichan.html">地产</a></div>
+        </div>
+    </div>
+    <div class="menu-fs">
+        <div class="menu-list fsrtls">
+            <div class="menu-title"><a href="/cms/special/slist">专题</a></div>
+            <div class="menu-tx" style="width: 50px"><a href="/cms/c/shendu.html">深度</a></div>
+            <div class="menu-tx" style="width: 50px"><a href="/cms/c/renwu.html">人物</a></div>
+        </div>
+        <div class="menu-list">
+            <div class="menu-title" style="width: 80px"><a href="/cms/c/gongyinglian.html">供应链</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/fuwu.html">服务</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/guanli.html">管理</a></div>
+            <!--<div class="menu-tx"><a href="">金融</a></div>-->
+        </div>
+        <div class="menu-list" style="width: 134px">
+            <div class="menu-title" style="width: 134px"><a href="/cms/c/wuliutourongzi.html">物流投融资</a></div>
+            <!--<div class="menu-tx"><a href="">物流</a></div>-->
+            <!--<div class="menu-tx"><a href="">金融</a></div>-->
+        </div>
+        <div class="menu-list">
+            <!--<div class="menu-title"><a href="">头条</a></div>-->
+            <div class="menu-tx" style="width: 100px"><a href="/cms/c/wuliuxingjiche.html">物流星级车</a></div>
+            <div class="menu-tx"><a href="/cms/c/zhongzhongka.html">中重卡</a></div>
+        </div>
+        <div class="menu-list">
+            <div class="menu-title" style="width: 80px"><a href="/cms/c/zhengceyanbao.html">政策研报</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/zhengce.html">政策</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/yanjiu.html">研究</a></div>
+        </div>
+        <div class="menu-list" style="width: 200px">
+            <div class="menu-title" style="width: 88px"><a href="/cms/c/jishuzhuangbei.html">技术装备</a></div>
+            <div class="menu-tx" style="width: 50px"><a href="/cms/c/keji.html">科技</a></div>
+            <div class="menu-tx" style="width: 50px"><a href="/cms/c/chanpin.html">产品</a></div>
+        </div>
+        <div class="menu-list">
+            <div class="menu-title" style="width: 80px"><a href="/cms/c/rencaipeixun.html">人才培训</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/yuanxiao.html">院校</a></div>
+            <div class="menu-tx" style="width: 40px"><a href="/cms/c/peixun.html">培训</a></div>
+        </div>
+    </div>
+</div>
+<!-- 以上导航结束 -->
+
+
+<!-- 内容页 -->
+<div class="container">
+    <div class="advertisement">
+       <!--<a href=""><img src="/images/l1.jpg" alt=""></a>-->
+        <a href="http://logistics.coscoshipping.com/" target="_blank"><img src="/uploads/20230608/0bbea38f26afb0895c4df7b82f9f4a7d.png" class="img-responsive"/></a>
+    </div>
+    <div class="currentLocation">
+        当前位置：         <a href="/">Home</a> >
+                <a href="/cms/c/rencaipeixun.html">人才培训</a> >
+                <a href="/cms/c/zhaop.html">招聘</a> >
+            </div>
+    <div flex='main:justify cross:top'>
+        <div>
+            <div class="listdealtx">
+                <div class="chattxle" flex='main:justify cross:center'>
+                    <div class="detailtitle" >人工智能行业人才需求旺盛</div>
+                </div>
+                <div class="datelss">来源：经济参考报  &nbsp;&nbsp;	作者：  阅读：2222 	日期：2018-03-06</div>
+                <div class="tao">
+                    <div>　　“未来5到10年，对社会改变最大的将是人工智能（AI）。人工智能将深刻改变社会，代替很多岗位，也会创造出很多新的岗位。哪个国家掌握了人工智能的话语权，就掌握了全球的话语权。”科大讯飞董事长刘庆峰说。</div><div><br></div><div>　　《经济参考报》记者近日在浙江、安徽、辽宁等地调研了解到，企业普遍反映缺乏人工智能人才，认为随着AI在各个行业的应用不断深入，人才需求会越来越强烈。当前，对于人工智能人才培养，院校、企业在人才培养定位、模式、校企结合等方面仍存在困惑。</div><div><br></div><div style="text-align: center;"><a href="/data/attachment/portal/201803/06/130932xhllucgyafr5puco.jpg"   target="_blank"><img src="/data/attachment/portal/201803/06/130932xhllucgyafr5puco.jpg"></a></div><div><b><br></b></div><div><b>　　行业火爆人才稀缺</b></div><div><br></div><div>　　人工智能行业到底如何火爆？“到处都喊着要人才。”东北大学机器人科学与工程学院教授张云洲这样形容。</div><div><br></div><div>　　过去几年，科大讯飞辽宁分公司每年从高校招毕业生，人数都在1000人以上，2018年预计将达到2000人以上。“随着AI在各个行业的应用深入，人才的需求会越来越强烈，对高精端人才的需求会更加旺盛。”科大讯飞辽宁分公司总经理江厚军说。</div><div><br></div><div>　　在人工智能企业较为密集的杭州，创始人们同样为“招人”而头疼。</div><div><br></div><div>　　“人工智能行业发展迅猛，市场需求足够大，但真正的人才稀缺。优秀的工程师，市面上很难招到。”杭州大拿科技股份有限公司创始人陈明权说，目前该公司员工约40人，校园招聘和猎头招聘各占一半，2018年希望再招50到100人，不过在985、211或者行业内名校都“招不满”。</div><div><br></div><div>　　“一些好的大学里会有类似计算视觉方向的实验室，但离直接工作要求的能力还有一定距离。”陈明权说。</div><div><br></div><div>　　安徽咪鼠科技公司负责人冯海洪也有类似的感觉：“人才市场上几乎没有人工智能人才，有也抢不到，我们只能招计算机专业毕业生自己培养。培养周期是半年到一年，才能够进入这个行业。”该公司以智能语音鼠标为应用方向，30多名员工中约有20人从事人工智能开发。</div><div><br></div><div>　　人工智能人才招聘难、培养难，留住自然也难。冯海洪说：“要给足够的学习机会和快速成长机会。我们有股票期权，工资方面至少符合市场水平，有时候还要超过他们的预期。”</div><div><br></div><div>　　据《经济参考报》记者在一些相关企业了解，一般一两年工作经验的员工月薪约8000元，能够独立操作的员工月薪可过万元，且上涨速度很快。</div><div><br></div><div><b>　　企业全球招募人才</b></div><div><br></div><div>　　人工智能企业“大家社区”的杨洋说，人工智能的三个基础点，一是算法，包括深度学习，二是大数据，这是人工智能的支撑，三是运算能力和硬件，“这几个方面的人才需求都很旺盛”。</div><div><br></div><div>　　人工智能行业到底缺少什么样的人才？冯海洪认为，一是一些逻辑算法方面的人才，做底层技术算法研究；二是基于一些核心技术平台如人脸识别、语音识别等线上云端能够使用的人才，基于平台开发的人才；三是大数据人才，人工智能产品基本都涉及数据分析、处理；四是人工智能硬件产品人才，对新的终端产品有所了解，比如机器人、手机等。</div><div><br></div><div>　　中德新松教育科技集团管理咨询部部长杨涛认为，人工智能领域不再是需要单一型人才，而是需要有交叉学科背景的复合型人才。</div><div><br></div><div>　　另一方面，稀缺的人才主要分布在北京等少数大城市中。一些企业反映，现在三线城市基本招不到人工智能人才，招到也留不住，一些企业只能招实习生，靠带新的方式培养人工智能人才。</div><div><br></div><div>　　为了破解人才招募难题，一些企业把视野放宽到“全球”。如科大讯飞展开招募国际顶尖人才的“春晓行动”，在美国硅谷、加拿大多伦多等AI人才汇聚的地区设立实验室、办事机构等。“人才的招募，不能仅仅局限在国内。”江厚军说。</div><div><br></div><div>　<b>　“人才培养还在摸索”</b></div><div><br></div><div>　　据专家介绍，目前国内有37个高校设立了智能科学学科（即AI方向的学科），7个高校成立了机器人学院，60余个高校在建机器人专业。不过，对于人工智能人才培养，无论高校还是企业都存在困惑。</div><div><br></div><div>　　目前，多个高校开始探索人工智能人才培养，如西安电子科技大学成立了人工智能学院，中国科学技术大学信息学院成立了人工智能英才班。</div><div><br></div><div>　　行业内的“领头羊”企业，成为联合高校培养人才的生力军。“我们在全国所有的名校、国际名校都设立了联合实验室，一些优秀的研究生毕业以后直接进入实验室工作，更快速地对接企业的研究课题，能够更快速地培养自身的人才队伍。”江厚军说。</div><div><br></div><div>　　据介绍，科大讯飞和清华大学的联合实验室中，“讯飞医疗机器人”首次参加全国执业医师资格考试，取得了465分的高分，通过考试；科大讯飞和哈工大成立的联合实验室中，完全“本土培养”的专家，已成为国际知名的人工智能专家。</div><div><br></div><div>　　科大讯飞和高校的合作还提前到了本科生阶段。“我们和东北大学等全国20多所学校开展合作，这样学生毕业以后就能够进入企业直接工作。”江厚军说。</div><div><br></div><div>　　不过，对于人工智能人才培养，无论高校学者还是企业的负责人，都认为存在多方面困惑，一是人才培养的目标、定位、培养方案等尚无统一标准。</div><div><br></div><div>　　东北大学机器人科学与工程学院是国内985高校首个机器人科学与工程学院，由东北大学、中国科学院沈阳自动化研究所和沈阳新松机器人自动化股份有限公司合作组建。“虽然到处都喊着要人才，但机器人专业是新设立的，到底从什么方向培养，学生需要什么技能，大家都还在摸索。面向未来到底培养出的学生适不适应社会需求，也有很大的风险。”张云洲说。</div><div><br></div><div>　　据了解，现在已经成立了全国机器人工程专业的教育联盟。目前在建机器人专业的60多个高校，已经在联合交流讨论如何培养人才。</div><div><br></div><div>　　安徽省信息产业投资控股有限公司总裁祁东风认为，人工智能产业刚刚起步，不仅是新型产业，也是边缘科学，基本定义还在完善之中，其中不乏泡沫，产业的发展方向也尚不清晰。</div><div><br></div><div>　　二是顶级人才往企业流动，专任教师不足。一些从业者告诉《经济参考报》记者，目前人工智能顶级人才都在企业之中，工业界挖走了很多学术界的人才。这种情况不仅限于中国，在硅谷等也存在。“我们学院，专任教师比较少，目前采取的是和信息学院、计算机学院等联合培养模式。”张云洲表示。</div><div><br></div><div>　　三是校企结合模式在体制、经费方面存在制约。学校现有的专业、知识体系比较单一，如机械、电气、软件专业，还是各学各的，需要企业的参与，但企业如何参与，怎么获得合理回报，还存在体制障碍。</div><div><br></div><div>　　杨涛说，其所在的中德新松教育科技集团已开办了多期“工业机器人应用工程师”培训班，参与短期体验、培训的达五六千人次，100多人获得了认证工程师证书。集团还计划跟中高职、本科高校合作，共建专业、学院等，从起始年级开始培养机器人领域的操作、维护维修工程师，以及具备机械设计方案、软件设计方案、集成方案的设计师等。目前这些领域就业前景看好，在辽沈地区，系统集成设计师、软件设计师等月薪上万元，南方收入更高。</div><div><br></div><div>　　但问题同样存在。“成人短期培训班，虽然目前效果不错，但真正培养行业所需要的综合性人才，还是希望跟学校合作进行学历教育。不过在学费不可能大幅上涨的情况下，目前这方面学校经费有限，开展相关学历教育很困难。我们也开展了一些合作，目前进展比较慢。”杨涛说。</div><div><br></div><div>　　“现在我们有新松机器人作为实践基地，有德国的学校、师资，有新松机器人工业联盟的联盟单位，有专家，但要探索‘企业主导、政府推动、学校参与’的联合共建混合制学院模式，既没有相关的政策，也没有获得国家补贴的可能性。”杨涛说。</div><div><p style="text-align: center;"><a href="/data/attachment/portal/201803/06/130933ogg4vviqqnz04gqz.jpg"   target="_blank"><img src="/data/attachment/portal/201803/06/130933ogg4vviqqnz04gqz.jpg"></a></p></div>                </div>
+
+
+            </div>
+
+        </div>
+        <div class="channeright">
+            <div class="charightlss">
+                <div class="chanertitle" flex='main:justify cross:bottom'>
+                    <div class="titlelss">猜你喜欢</div>
+                    <!--<div><a href="">MORE</a></div>-->
+                </div>
+                <div class="rightconlitt">
+                    <ul>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/zhaop/42796.html" title="处处是商机：很牛的创业新点子！">处处是商机：很牛的创业新点子！</a></li>
+                            </div>
+                            <div id="">
+                                <a href="/cms/zhaop/42796.html" title="处处是商机：很牛的创业新点子！">9 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/zhaop/97719.html" title="货拉拉2020校招走进湖南大学 召唤新型物流人才">货拉拉2020校招走进湖南大学 召唤</a></li>
+                            </div>
+                            <div id="">
+                                <a href="/cms/zhaop/97719.html" title="货拉拉2020校招走进湖南大学 召唤新型物流人才">5 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/zhaop/41631.html" title="物流人在美国的待遇，你知道吗？">物流人在美国的待遇，你知道吗？</a></li>
+                            </div>
+                            <div id="">
+                                <a href="/cms/zhaop/41631.html" title="物流人在美国的待遇，你知道吗？">9 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/zhaop/39844.html" title="看懂老板的身体语言，对一个职场人来说太重要！">看懂老板的身体语言，对一个职场人来说</a></li>
+                            </div>
+                            <div id="">
+                                <a href="/cms/zhaop/39844.html" title="看懂老板的身体语言，对一个职场人来说太重要！">9 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/zhaop/43596.html" title="职场暗语：揭秘上司那点儿小心思！">职场暗语：揭秘上司那点儿小心思！</a></li>
+                            </div>
+                            <div id="">
+                                <a href="/cms/zhaop/43596.html" title="职场暗语：揭秘上司那点儿小心思！">9 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/zhaop/80725.html" title="西安国际陆港多式联运有限公司招聘公告">西安国际陆港多式联运有限公司招聘公告</a></li>
+                            </div>
+                            <div id="">
+                                <a href="/cms/zhaop/80725.html" title="西安国际陆港多式联运有限公司招聘公告">7 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/zhaop/90972.html" title="山东渤海湾港口集团招聘公告">山东渤海湾港口集团招聘公告</a></li>
+                            </div>
+                            <div id="">
+                                <a href="/cms/zhaop/90972.html" title="山东渤海湾港口集团招聘公告">6 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/zhaop/72811.html" title="河南万庄农资集团招聘启事：因为有你梦想同在">河南万庄农资集团招聘启事：因为有你梦</a></li>
+                            </div>
+                            <div id="">
+                                <a href="/cms/zhaop/72811.html" title="河南万庄农资集团招聘启事：因为有你梦想同在">8 years ago</a>
+                            </div>
+                        </div>
+                                       
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="charightlsimg">
+
+                <!--<a href=""><img src="/images/l4.jpg" alt=""></a>-->
+                <a href="http://www.beiben.cn/" target="_blank"><img src="/uploads/20210303/e0c94cc445de569964038462424971d4.jpg" class="img-responsive"/></a>
+            </div>
+
+            <div class="charightlss">
+                <div class="chanertitle" flex='main:justify cross:bottom'>
+                    <div class="titlelss">推荐专题</div>
+                    <!--<div><a href="">MORE</a></div>-->
+                </div>
+                <div class="rightconlitt">
+                    <ul>
+
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/special/2021niandongfengliuqimoupianbainianchongciguoliu.html" title="2021年东风柳汽：谋篇百年 冲刺国六  ">2021年东风柳汽：谋篇百年 冲刺国</a></li>
+                            </div>
+                            <div >
+                                <a href="/cms/special/2021niandongfengliuqimoupianbainianchongciguoliu.html" title="2021年东风柳汽：谋篇百年 冲刺国六  ">2 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/special/gaoduanqingkashanqiqingkaK5000shangshi.html" title="高端轻卡 陕汽轻卡K5000上市">高端轻卡 陕汽轻卡K5000上市</a></li>
+                            </div>
+                            <div >
+                                <a href="/cms/special/gaoduanqingkashanqiqingkaK5000shangshi.html" title="高端轻卡 陕汽轻卡K5000上市">3 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/special/zhongtongkuaidiweilejiazhijingzheng2021qiyezhuanti.html" title="中通快递：为了价值竞争2021企业专题">中通快递：为了价值竞争2021企业专</a></li>
+                            </div>
+                            <div >
+                                <a href="/cms/special/zhongtongkuaidiweilejiazhijingzheng2021qiyezhuanti.html" title="中通快递：为了价值竞争2021企业专题">3 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/special/zhilingguoliuxinshidaishandekaC7ranyouche.html" title="质领国六新时代 汕德卡C7燃油车">质领国六新时代 汕德卡C7燃油车</a></li>
+                            </div>
+                            <div >
+                                <a href="/cms/special/zhilingguoliuxinshidaishandekaC7ranyouche.html" title="质领国六新时代 汕德卡C7燃油车">3 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/special/dongfengliuqichenglong2020nianduzhuanti.html" title="东风柳汽乘龙2020年度专题">东风柳汽乘龙2020年度专题</a></li>
+                            </div>
+                            <div >
+                                <a href="/cms/special/dongfengliuqichenglong2020nianduzhuanti.html" title="东风柳汽乘龙2020年度专题">3 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/special/zhuanweichengpeidazaojianghuaixingruiheijingang.html" title="专为城配打造 江淮星锐黑金刚">专为城配打造 江淮星锐黑金刚</a></li>
+                            </div>
+                            <div >
+                                <a href="/cms/special/zhuanweichengpeidazaojianghuaixingruiheijingang.html" title="专为城配打造 江淮星锐黑金刚">3 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/special/2019nanjingchezhan.html" title="2019年广汽日野第六届TS服务技能大赛总决赛圆满结束">2019年广汽日野第六届TS服务技能</a></li>
+                            </div>
+                            <div >
+                                <a href="/cms/special/2019nanjingchezhan.html" title="2019年广汽日野第六届TS服务技能大赛总决赛圆满结束">3 years ago</a>
+                            </div>
+                        </div>
+                                                <div flex='main:justify cross:center'>
+                            <div>
+                                <li><a href="/cms/special/zhongguochengshilvsewuliugaoduanluntan.html" title="中国城市绿色物流高端论坛">中国城市绿色物流高端论坛</a></li>
+                            </div>
+                            <div >
+                                <a href="/cms/special/zhongguochengshilvsewuliugaoduanluntan.html" title="中国城市绿色物流高端论坛">3 years ago</a>
+                            </div>
+                        </div>
+                                                <!--<div flex='main:justify cross:center'>-->
+                            <!--<div>-->
+                                <!--<li><a href="">标题内容占位标题内容</a></li>-->
+                            <!--</div>-->
+                            <!--<div id="">-->
+                                <!--<a href="">2021-01-15</a>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                        <!--<div flex='main:justify cross:center'>-->
+                            <!--<div>-->
+                                <!--<li><a href="">标题内容占位标题内容</a></li>-->
+                            <!--</div>-->
+                            <!--<div id="">-->
+                                <!--<a href="">2021-01-15</a>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                        <!--<div flex='main:justify cross:center'>-->
+                            <!--<div>-->
+                                <!--<li><a href="">标题内容占位标题内容</a></li>-->
+                            <!--</div>-->
+                            <!--<div id="">-->
+                                <!--<a href="">2021-01-15</a>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                        <!--<div flex='main:justify cross:center'>-->
+                            <!--<div>-->
+                                <!--<li><a href="">标题内容占位标题内容</a></li>-->
+                            <!--</div>-->
+                            <!--<div id="">-->
+                                <!--<a href="">2021-01-15</a>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                        <!--<div flex='main:justify cross:center'>-->
+                            <!--<div>-->
+                                <!--<li><a href="">标题内容占位标题内容</a></li>-->
+                            <!--</div>-->
+                            <!--<div id="">-->
+                                <!--<a href="">2021-01-15</a>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                        <!--<div flex='main:justify cross:center'>-->
+                            <!--<div>-->
+                                <!--<li><a href="">标题内容占位标题内容</a></li>-->
+                            <!--</div>-->
+                            <!--<div id="">-->
+                                <!--<a href="">2021-01-15</a>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                        <!--<div flex='main:justify cross:center'>-->
+                            <!--<div>-->
+                                <!--<li><a href="">标题内容占位标题内容</a></li>-->
+                            <!--</div>-->
+                            <!--<div id="">-->
+                                <!--<a href="">2021-01-15</a>-->
+                            <!--</div>-->
+                        <!--</div>-->
+
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+</div>
+
+
+
+
+
+<script src="js/swiper.min.js"></script>
+<script type="text/javascript">
+    var mySwiper = new Swiper('.swiper-container',{
+        loop: true,
+        autoplay: 3000,
+    })
+
+</script>
+
+
+<script src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+
+<script>
+
+    var  url=location.href;
+
+    $.ajax({
+
+        type : "get",
+
+        url : "http://www.cn156.com/jssdk.php?url="+url,
+
+        dataType : "jsonp",
+
+        jsonp: "callback",
+
+        jsonpCallback:"success_jsonpCallback",
+
+        success : function(data){
+
+            wx.config({
+
+                debug: false,
+
+                appId: data.appId,
+
+                timestamp: data.timestamp,
+
+                nonceStr: data.nonceStr,
+
+                signature: data.signature,
+
+                jsApiList: [
+
+                    'onMenuShareTimeline',//
+
+                    'onMenuShareAppMessage',
+
+                    'onMenuShareQQ',
+
+                    'onMenuShareWeibo',
+
+                    'onMenuShareQZone'
+
+                ]
+
+            });
+
+        },
+
+        error:function(data){
+
+          alert(data);
+          //  alert("连接失败！");
+
+        }
+
+    });
+
+    wx.ready(function () {
+
+        var shareData = {
+
+            title: '人工智能行业人才需求旺盛',
+
+            desc: '未来5到10年，对社会改变最大的将是人工智能（AI）。人工智能将深刻改变社会，代替很多岗位，也会创造出很多新的岗位。哪个国家掌握了人工智能的话语权，就掌握了全球的话语权。',
+
+            link: url,
+
+            imgUrl: 'http://www.cn156.com/assets/addons/cms/img/noimage.jpg'
+
+        };
+
+        wx.onMenuShareAppMessage(shareData);//分享给好友
+
+        wx.onMenuShareTimeline(shareData);//分享到朋友圈
+
+        wx.onMenuShareQQ(shareData);//分享给手机QQ
+
+        wx.onMenuShareWeibo(shareData);//分享腾讯微博
+
+        wx.onMenuShareQZone(shareData);//分享到QQ空间
+
+    });
+
+    wx.error(function (res) {
+  //alert(res);//错误提示
+      // alert(res.errMsg);//错误提示
+
+    });
+
+</script>
+</body>
+</html>
+
+
+<div>
+    <div class="footcontent">
+        <div class="footer" flex='main:justify cross:top'>
+           
+            <li class="foot-text"  style="border: 0;">
+                <a href="/cms/p/guanyuwomen.html">关于我们</a>
+            </li>
+            <li class="foot-text">
+                <a href="/cms/p/jingyingzhaopin.html">精英招聘</a>
+            </li>
+            <li class="foot-text">
+                <a href="/cms/p/banquanshengming.html">版权声明</a>
+            </li>
+            <li class="foot-text">
+                <a href="/cms/p/falvguwen.html">法律顾问</a>
+            </li>
+            <li class="foot-text">
+                <a href="/cms/p/guanggaofuwu.html">广告服务</a>
+            </li>
+             <li class="foot-text">
+                <a href="/cms/p/lianxiwomen.html">联系我们</a>
+            </li>
+        </div>
+    </div>
+    <div class="footbeian"><p>© 2021 CN156.com Interactive. All rights reserved. 北京掌链传媒科技有限公司 版权所有.    <br>
+    邮箱：<a href="mailto:cn156@188.com">cn156@188.com</a>&nbsp;《第一物流网》版权所有，未经合法授权禁止复制、不得转载或建立镜像。<br>
+    中华人民共和国工业和信息化部备案：<a href="http://beian.miit.gov.cn/" target="_blank">京ICP备18029850号-3</a>
+    </p></div>
+    
+    
+
+</div>
+
+</div>
+
+
+
+</body>
+</html>

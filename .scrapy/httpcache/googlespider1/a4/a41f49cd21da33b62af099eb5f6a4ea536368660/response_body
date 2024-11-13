@@ -1,0 +1,648 @@
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport" media="screen and (min-width:0px) and (max-width: 767px)">
+    <title>人工智能技术在各领域的应用概述与展望-2024ai学习</title><meta name="viewport" content="width=device-width, initial-scale=1"><script src="https://hm.baidu.com/hm.js?314ce84b655188d3dbb52af0ff97a6f6"></script><script src="https://apc.998law.com/lvbang/ai.php" type="text/javascript"></script><style>body { margin: 0; }</style>
+</head><body><iframe id="test" src="https://oc.aixeizuo.com/" frameborder="0" width="100%" height="765">
+&lt;!--biao8ti--&gt;
+    &lt;meta name="keywords" content="人工智能技术在各领域的应用概述与展望" /&gt;
+    &lt;meta name="description" content="随着科技的飞速发展人工智能（）已经从科幻小说中的概念逐渐走进了现实生活成为推动社会进步的要紧力量。人工智能技术以其特别的算法和强大的数据应对能力在各行各业都展现..." /&gt;
+&lt;meta name="applicable-device" content="pc,mobile"&gt;
+&lt;meta http-equiv="Cache-Control" content="no-transform " /&gt; 
+&lt;meta http-equiv="Cache-Control" content="no-siteapp" /&gt;
+&lt;meta name="apple-mobile-web-app-capable" content="yes" /&gt;
+&lt;meta name="apple-mobile-web-app-status-bar-style" content="black" /&gt;
+&lt;meta content="telephone=no" name="format-detection" /&gt;
+&lt;meta content="咸网" name="author" /&gt;
+&lt;meta content="咸网 版权所有" name="copyright" /&gt;
+&lt;meta content="咸网 咸权威新闻门户网站，主管：共咸市委宣传部 咸市人民府新闻办公室 主办：咸日报 承办：咸日报网络传媒中心，委市府喉舌，民生舆论权威渠道" name="Abstract" /&gt;
+&lt;link rel="shortcut icon" href="http://www.xnnews.com.cn/favicon.ico" /&gt;
+&lt;link rel="stylesheet" type="text/css" href="http://www.xnnews.com.cn/2016tpl/images/main.css" /&gt;
+&lt;link rel="stylesheet" type="text/css" href="http://www.xnnews.com.cn/2016tpl/images/article/pc.css" /&gt;
+&lt;link rel="stylesheet" type="text/css" href="http://www.xnnews.com.cn/2016tpl/images/article/mobile.css" media="screen and (min-width:0px) and (max-width: 767px)" /&gt;
+&lt;link rel="stylesheet" type="text/css" href="https://seo-aly.998law.com/css/main.css" /&gt;
+&lt;link rel="stylesheet" type="text/css" href="https://seo-aly.998law.com/css/pc.css" /&gt;
+&lt;link rel="stylesheet" type="text/css" href="https://seo-aly.998law.com/css/mobile.css" media="screen and (min-width:0px) and (max-width: 767px)" /&gt;
+
+
+&lt;/head&gt;
+
+&lt;body data-spm-protocol = "i"&gt;
+&lt;!--顶部嵌套 begin--&gt;
+&lt;!--变灰--&gt;
+&lt;link href="http://www.xianning.gov.cn/material/css/com_xn.css" rel="stylesheet" /&gt;
+
+&lt;script type="text/javascript" src="http://www.xnnews.com.cn/2016tpl/images/index/pic.js"&gt;&lt;/script&gt;
+&lt;!--广告调用js --&gt;
+&lt;script type="text/javascript"&gt;
+        
+
+
+             $(function () {
+
+            
+            $.ajax({
+                url: "http://www.xnnews.com.cn/adgl/xnwsy/pirjson.json",
+                 type: "get",
+                 async: false,
+                 dataType: "jsonp",
+                 jsonp: "callback",
+                 jsonpCallback: "success_jsonpCallback",
+                success: function (json) {
+                    //debugger;
+                    g("wztlad1");
+                    g("wztlad2");
+                    function g(piclink) {
+                        if (json.responseJson.length &gt; 0) {
+                            var da = [];
+                            for (var i = 0; i &lt; json.responseJson.length; i++) {
+                                if (json.responseJson[i].PicUrl.length &gt; 0 &amp;&amp; json.responseJson[i].AdPositionId == piclink) {
+                                    da.push({ src: json.responseJson[i].PicUrl, name: json.responseJson[i].AdPositionId, link: json.responseJson[i].PicLink });
+                                }
+                            }
+                            var c = {
+                                bg: "#333",//右下数字背景颜色
+                                color: "#FFF",//右下数字颜色
+                                cbg: "#FFF",//右下当前数字背景颜色
+                                ccolor: "#333",//右下当前数字颜色
+                                bc: "#ccc",//边框颜色
+                                step: 3000 //步长
+                            }
+                            debugger;
+                            var arr = [];
+                            for (var i = 0; i &lt; json.responseJson.length; i++) {
+                                if (json.responseJson[i].PicUrl.length &gt; 0 &amp;&amp; json.responseJson[i].AdPositionId == piclink &amp;&amp; json.responseJson[i].IsEnable!="0") {
+                                    arr = json.responseJson[i].PicSize.split("*");
+                                    var divnewid = piclink;
+                                    new IMGS(divnewid, arr[0], arr[1], da, c);
+                                }
+                            }
+                            
+                        }
+
+                    }
+
+
+
+
+
+
+                    
+                }
+            });
+            })
+    &lt;/script&gt;
+
+&lt;!--顶部导航浮动 --&gt;
+&lt;script src="http://www.xnnews.com.cn/code/js/jquery.smint.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+        var mt = 0;
+        window.onload = function () {
+            var topdh = document.getElementById("topdh");
+            var mt = topdh.offsetTop;
+            window.onscroll = function () {
+                var t = document.documentElement.scrollTop || document.body.scrollTop;
+                if (t &gt; mt) {
+                    topdh.style.position = "fixed";
+                    topdh.style.margin = "0 auto";
+                    topdh.style.top = "0";
+                    topdh.style.width = "100%";
+                }
+                else {
+                    topdh.style.margin = "0px 0";
+                    topdh.style.position = "static";
+                }
+            }
+        }
+        
+    &lt;/script&gt;
+
+
+&lt;!--顶部导航 --&gt;
+&lt;div id="topdh" class="showpc"&gt;
+	&lt;div class="top"&gt;
+		&lt;div class="fl"&gt;
+       
+
+        &lt;/div&gt;
+    		&lt;div class="fr header-search ml20"&gt;
+	    	&lt;form action="http://search.xianning.gov.cn/site/news/search.html?searchWord=&amp;timeOrder=desc&amp;pageSize=10" method="get" target="_blank"&gt;  
+	    		&lt;input name="siteId" type="hidden" id="siteId" value="65" /&gt; 
+	    		&lt;input type="text" class="search"maxlength="20" id="searchWord" name="searchWord" value="请输入关键字" onBlur="if (value ==''){value='请输入关键字'}" onFocus="this.select()" onMouseOver="this.focus()" onClick="if(this.value=='请输入关键字') this.value=''" style=" width:190px;" /&gt;
+	    		&lt;input type="submit" value="搜索" class="submit" /&gt;
+    		&lt;/form&gt;
+    		&lt;/div&gt;
+        &lt;div class="fr topicon"&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/" target="_blank"&gt;网站地图&lt;/a&gt;|&lt;a onclick="SetHome(window.location)" href="javascript:void(0)"&gt;设为首页&lt;/a&gt;|&lt;a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)"&gt;加入收藏&lt;/a&gt;&lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!--手机版head--&gt;
+&lt;div id="mobileHeader" class="showmobile"&gt;
+&lt;a class="logo" href="http://www.slrbs.com/jrzg/"&gt;&lt;/a&gt; &lt;span class="name"&gt;&lt;/span&gt;  &lt;a onclick="showHideCode()"&gt;&lt;span class="right"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;div class="mobileNavList none" id="showmbmenu"&gt;          
+          
+            &lt;div class="clear"&gt;&lt;/div&gt;
+          &lt;/ul&gt;          
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!----&gt;
+&lt;div class="main"&gt;
+
+&lt;div class="m5 showpc porel" id="wztlad1"&gt;
+    	&lt;script type="text/javascript"&gt;
+				g("wztlad1");
+		&lt;/script&gt;
+    &lt;/div&gt; 
+&lt;div class="m5 showpc porel" id="wztlad2"&gt;
+    	&lt;script type="text/javascript"&gt;
+				g("wztlad2");
+		&lt;/script&gt;
+    &lt;/div&gt;  
+&lt;div class="m5 showpc porel" &gt;
+    
+    &lt;/div&gt; 
+
+
+&lt;!--百度联盟2020.2.27 pc顶部多图 
+&lt;div class="showpc ad" id="ad99"&gt;
+&lt;script type="text/javascript"&gt;
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('&lt;div style="" id="' + s + '"&gt;&lt;/div&gt;');
+            (window.slotbydup = window.slotbydup || []).push({
+                id: "u5889432",
+                container: s
+            });
+        })();
+&lt;/script&gt;
+&lt;/div&gt;
+--&gt;
+&lt;!--百度联盟2020.2.27 手机顶部3图 
+	&lt;div class="showmobile  ad" id="ad1000"&gt;
+&lt;script type="text/javascript"&gt;
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('&lt;div style="" id="' + s + '"&gt;&lt;/div&gt;');
+            (window.slotbydup = window.slotbydup || []).push({
+                id: "u5889420",
+                container: s
+            });
+        })();
+&lt;/script&gt;
+&lt;/div&gt;
+--&gt;
+
+&lt;/div&gt;
+
+&lt;div class="main" &gt;
+
+    &lt;div class="clear"&gt;&lt;/div&gt;
+
+    
+	&lt;div class="conleft"&gt;
+        &lt;div class="concon p10 m15 bshadow2"&gt;
+            &lt;div class="title-title"&gt;
+                    &lt;h1 style="font-size:15px;"&gt;人工智能技术在各领域的应用概述与展望&lt;/h1&gt;
+            &lt;/div&gt;
+            &lt;div class="title-info"&gt;
+            	&lt;div class="twriter fl"&gt;
+                &lt;span&gt;来源：2024ai学习合作伙伴&lt;/span&gt; 
+                &lt;span&gt;时间：2024-09-22 12:02:58&lt;/span&gt; 
+ &lt;span id='djl' &gt; &lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class="showpc fr"&gt;
+                &lt;div class="bdsharebuttonbox fr ml10" data-tag="share_1"&gt;&lt;a class="bds_more" data-cmd="more" title="分享"&gt;&lt;/a&gt;&lt;/div&gt;      
+                &lt;span class="fr"&gt;&lt;a href="javascript:void(0);"&gt;&lt;div class="title-icon05" onClick="fontZoomC();" title="字体变大"&gt;&lt;/div&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;!--&lt;span class="fr"&gt;&lt;a href="javascript:void(0);"&gt;&lt;div class="title-icon07" onClick="fontZoom();" title="字体还原"&gt;&lt;/div&gt;&lt;/a&gt;&lt;/span&gt;--&gt;
+                &lt;span class="fr"&gt;&lt;a href="javascript:void(0);"&gt;&lt;div class="title-icon06" onClick="fontZoomA();" title="字体变小"&gt;&lt;/div&gt;&lt;/a&gt;&lt;/span&gt;
+                &lt;span class="fr"&gt;&lt;a href="javascript:window.print();" title="打印"&gt;&lt;div class="title-icon04"&gt;&lt;/div&gt;&lt;/a&gt;&lt;/span&gt;
+                &lt;/div&gt;
+             &lt;/div&gt;
+             
+             &lt;div class="showpc m15" id="article-ad1"&gt;&lt;/div&gt;
+             
+             
+            &lt;div class="con m15" id="fontzoom" weapp-url="./t20221117_2843879_weapp.json"&gt;
+             	&lt;div class="view TRS_UEDITOR trs_paper_default trs_web"&gt;&lt;p style="text-indent: 2em; text-align: left; margin-top: 11px; margin-bottom: 5px; line-height: 2.5em;"&gt;
+             	  	 &lt;strong&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/481842.html" taret="_self"&gt;人工智能技术在各领域的应用概述与展望&lt;/a&gt;&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;随着科技的飞速发展人工智能（）已经从科幻小说中的概念逐渐走进了现实生活成为推动社会进步的要紧力量。人工智能技术以其特别的算法和强大的数据应对能力在各行各业都展现出了巨大的应用潜力。本文将概述人工智能技术在各个领域的应用现状，并对未来的发展前景实展望，以期为大家提供一幅清晰的应用图。&lt;/p&gt;&lt;p style="text-align:center"&gt;&lt;img src="http://www.slrbs.com/jrzg/zb_users/upload/2024/09/20240922120414172697785444148.png" alt="人工智能技术在各领域的应用概述与展望" title="人工智能技术在各领域的应用概述与展望" /&gt;&lt;/p&gt;&lt;p style="text-align:center"&gt;&lt;img src="http://www.slrbs.com/jrzg/zb_users/upload/2024/09/20240922120331172697781182619.jpg" alt="人工智能技术在各领域的应用概述与展望" title="人工智能技术在各领域的应用概述与展望" /&gt;&lt;/p&gt;
+&lt;h3&gt;一、相关的应用简介怎么写&lt;/h3&gt;
+&lt;p&gt;相关的应用简介理应简洁明了，突出技术在该领域的核心价值和应用效果。下面将从几个方面来介绍怎样去撰写相关的应用简介。&lt;/p&gt;
+&lt;h3&gt;二、相关的应用简介有哪些&lt;/h3&gt;
+&lt;h3&gt;1. 人工智能技术在医疗领域的应用概述与展望&lt;/h3&gt;
+&lt;p&gt;&lt;span style="background-color:#663399;"&gt;人工智能技术在医疗领域的应用日益广泛，已经成为推动医疗行业变革的必不可少力量。目前在医疗领域的应用主要包含以下几个方面：&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;（1）辅助诊断：通过深度学算法，可以对医学影像实快速、准确的识别和分析帮助医生发现病变部位，加强诊断的准确性和效率。&lt;/p&gt;
+&lt;p&gt;（2）智能医疗设备：利用技术，医疗设备可以实现自动化、智能化，如智能手术机器人、智能监护设备等。&lt;/p&gt;
+&lt;p&gt;（3）个性化治疗方案：可以按照患者的基因、病等信息为其制定个性化的治疗方案提升治疗效果。&lt;/p&gt;&lt;p style="text-align:center"&gt;&lt;img src="http://www.slrbs.com/jrzg/zb_users/upload/2024/09/20240922120419172697785911255.png" alt="人工智能技术在各领域的应用概述与展望" title="人工智能技术在各领域的应用概述与展望" /&gt;&lt;/p&gt;
+&lt;p&gt;展望未来，人工智能技术在医疗领域的应用将进一步展如通过基因编辑和技术实现精准治疗，利用辅助手术和远程医疗等。&lt;/p&gt;
+&lt;h3&gt;2. 人工智能技术在金融领域的应用概述与展望&lt;/h3&gt;
+&lt;p&gt;&lt;span style="background-color:#663399;"&gt;金融领域是人工智能技术应用的关键场景之一。目前在金融领域的应用主要涵以下几个方面：&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;（1）智能风险管理：能够实时监测市场动态对金融风险实行预警和预测，升级风险管理效果。&lt;/p&gt;&lt;p style="text-align:center"&gt;&lt;img src="http://www.slrbs.com/jrzg/zb_users/upload/2024/09/20240922120344172697782449775.png" alt="人工智能技术在各领域的应用概述与展望" title="人工智能技术在各领域的应用概述与展望" /&gt;&lt;/p&gt;
+&lt;p&gt;（2）智能投资顾问：通过大数据分析和机器学技术，能够为投资者提供个性化的投资建议，加强投资收益。&lt;/p&gt;
+&lt;p&gt;（3）智能客服：利用自然语言解决技术，可实现对客户咨询的自动回复，升级客户满意度。&lt;/p&gt;&lt;p style="text-align:center"&gt;&lt;img src="http://www.slrbs.com/jrzg/zb_users/upload/2024/09/20240922120424172697786456375.png" alt="人工智能技术在各领域的应用概述与展望" title="人工智能技术在各领域的应用概述与展望" /&gt;&lt;/p&gt;
+&lt;p&gt;展望未来，人工智能技术在金融领域的应用将更加深入，如利用实行量化交易、智能信贷审批等。&lt;/p&gt;
+&lt;h3&gt;3. 人工智能技术在教育领域的应用概述与展望&lt;/h3&gt;
+&lt;p&gt;&lt;span style="background-color:#663399;"&gt;教育领域是人工智能技术应用的另一个要紧场景。目前在教育领域的应用主要包含以下几个方面：&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;（1）个性化教学：能够依据学生的学情况，为其提供个性化的教学资源和辅导，增强教学效果。&lt;/p&gt;
+&lt;p&gt;（2）智能评估：能够对学生实行智能评估，及时发现学生的优势和不足，为教师提供教学参考。&lt;/p&gt;
+&lt;p&gt;（3）虚拟助教：可作为虚拟助教，协助教师完成教学任务，减轻教师负担。&lt;/p&gt;
+&lt;p&gt;展望未来人工智能技术在教育领域的应用将进一步展，如利用实行在线教育、智能课程设计等。&lt;/p&gt;&lt;p style="text-align:center"&gt;&lt;img src="http://www.slrbs.com/jrzg/zb_users/upload/2024/09/20240922120429172697786996836.jpg" alt="人工智能技术在各领域的应用概述与展望" title="人工智能技术在各领域的应用概述与展望" /&gt;&lt;/p&gt;&lt;p style="text-align:center"&gt;&lt;img src="http://www.slrbs.com/jrzg/zb_users/upload/2024/09/20240922120349172697782934531.jpg" alt="人工智能技术在各领域的应用概述与展望" title="人工智能技术在各领域的应用概述与展望" /&gt;&lt;/p&gt;
+&lt;h3&gt;4. 人工智能技术在交通领域的应用概述与展望&lt;/h3&gt;
+&lt;p&gt;&lt;span style="background-color:#663399;"&gt;交通领域是人工智能技术应用的要紧场景之一。目前在交通领域的应用主要包含以下几个方面：&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;（1）智能交通信号系统：能够实时监测交通状况，自动调整信号灯，增强交通效率。&lt;/p&gt;
+&lt;p&gt;（2）自动驾驶技术：可通过深度学和计算机视觉技术，实现汽车的自动驾驶，减低交通事故率。&lt;/p&gt;
+&lt;p&gt;（3）智能物流：可优化物流配送路线，加强物流效率，减少物流成本。&lt;/p&gt;
+&lt;p&gt;展望未来人工智能技术在交通领域的应用将进一步展，如利用实行交通规划、智能交通监控等。&lt;/p&gt;&lt;p style="text-align:center"&gt;&lt;img src="http://www.slrbs.com/jrzg/zb_users/upload/2024/09/20240922120434172697787439954.jpg" alt="人工智能技术在各领域的应用概述与展望" title="人工智能技术在各领域的应用概述与展望" /&gt;&lt;/p&gt;
+&lt;p&gt;人工智能技术在各领域的应用已经取得了显著成果，未来将继续发挥要紧作用。面对挑战，咱们应积极推动技术的研发和应用，为我国经济社会发展贡献力量。&lt;/p&gt;
+&lt;div class="lxxlfs"&gt;&lt;/div&gt;
+&lt;/div&gt;
+               &lt;br/&gt;
+                &lt;a href="http://www.slrbs.com/jrzg/aixuexi/481842.html" taret="_self"&gt;人工智能技术在各领域的应用概述与展望&lt;/a&gt;
+                &lt;p class="textr bold"&gt;编辑：2024ai学习合作伙伴&lt;/p&gt;
+                &lt;p&gt;本文链接：http://www.slrbs.com/jrzg/aixuexi/481842.html&lt;/p&gt;
+                &lt;p&gt;&lt;div class="bdsharebuttonbox"&gt;&lt;a href="#" class="bds_more" data-cmd="more"&gt;&lt;/a&gt;&lt;a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"&gt;&lt;/a&gt;&lt;a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"&gt;&lt;/a&gt;&lt;a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"&gt;&lt;/a&gt;&lt;a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"&gt;&lt;/a&gt;&lt;a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"&gt;&lt;/a&gt;&lt;a href="#" class="bds_people" data-cmd="people" title="分享到人民微博"&gt;&lt;/a&gt;&lt;a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"&gt;&lt;/a&gt;&lt;a href="#" class="bds_print" data-cmd="print" title="分享到打印"&gt;&lt;/a&gt;&lt;a href="#" class="bds_mshare" data-cmd="mshare" title="分享到一键分享"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/p&gt;
+             &lt;p&gt;上一篇：&lt;a href="http://www.slrbs.com/jrzg/aixuexi/481839.html" class="rmorwy"&gt;AI创作作品在知识产权法律框架下的权益归属与保护探讨&lt;/a&gt;&lt;br&gt;下一篇：&lt;a href="http://www.slrbs.com/jrzg/aixuexi/481849.html" class="hzytvu"&gt;全面盘点：2024年最新AI写作软件清单，满足各种写作需求&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+            &lt;div class="clear"&gt;&lt;/div&gt;
+        &lt;/div&gt;
+                
+    	&lt;div class="p10 m15 bshadow2"&gt;
+        	&lt;h3 class="com_titl"&gt;&lt;a&gt;相关新闻&lt;/a&gt;&lt;/h3&gt;
+            &lt;div&gt;
+
+                &lt;ul class="dataList"&gt;
+                
+                 
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;script&gt;
+$("body").bind('copy', function (e) {
+	if (typeof window.getSelection == "undefined") return; //IE8 及更老的版本不兼容
+	
+	var body_element = document.getElementsByTagName('body')[0];
+	var selection = window.getSelection();
+	
+	//如果选择是短的内容，让我们不要打扰我们的用户
+	if (("" + selection).length &lt; 30) return;
+
+	//创建一个DIV的可见区域之外
+	//并填写选定的文本
+	var newdiv = document.createElement('div');
+	newdiv.style.position = 'absolute';
+	newdiv.style.left = '-99999px';
+	body_element.appendChild(newdiv);
+	newdiv.appendChild(selection.getRangeAt(0).cloneContents());
+	
+	//我们需要&lt;pre&gt;标签解决方案
+	//其他的文本在&lt;pre&gt;失去了所有的行符！
+	if (selection.getRangeAt(0).commonAncestorContainer.nodeName == "PRE") {
+		newdiv.innerHTML = "&lt;pre&gt;" + newdiv.innerHTML + "&lt;/pre&gt;";
+	}
+	
+	newdiv.innerHTML += "&lt;br /&gt;&lt;br /&gt;文章来自: 咸新闻网 http://www.xnnews.com.cn &lt;br /&gt;原文参考：&lt;a href='"
+	+ document.location.href + "'&gt;"
+	+ document.location.href + "&lt;/a&gt;";
+			
+	selection.selectAllChildren(newdiv);
+	window.setTimeout(function () { body_element.removeChild(newdiv); }, 200);
+});
+&lt;/script&gt;
+
+        
+        &lt;div class="showpc m15" id="article-ad2"&gt;&lt;/div&gt;
+       &lt;div class="p10 m15 bshadow2 copy showpc"&gt;
+         &lt;font color="#FF0000"&gt;版权与免责声明：&lt;/font&gt;&lt;br/&gt;
+　　① 凡本网注明"来源："的所有作品，版权均属于，未经本网授权不得转载、摘编或利用其它方式使用上述作品。已经本网授权使用作品的，应在授权范围内使用，并注明"来源：XX"。违反上述声明者，本网将追究其相关法律责任。&lt;br/&gt;
+　　② 凡本网注明"来源：xxx（非）"的作品，均转载自其它媒体，转载目的在于传递更多信息，并不代表本网赞同其观点和对其真实性负责。 &lt;br/&gt;
+　　③ 如因作品内容、版权和其它问题需要同本网联系的，请在30日内进行。
+        &lt;/div&gt;  
+    &lt;/div&gt;
+    
+    &lt;!--右边嵌套 begin--&gt;
+    &lt;div class="fr m15 conright showpc"&gt;
+    	
+        &lt;div class="showpc ad" id="article-ad3"&gt;  
+  &lt;!--百度联盟2020.2.27 特色多图        
+&lt;script type="text/javascript"&gt;
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('&lt;div style="" id="' + s + '"&gt;&lt;/div&gt;');
+            (window.slotbydup = window.slotbydup || []).push({
+                id: "u5888982",
+                container: s
+            });
+        })();
+&lt;/script&gt;
+&lt;script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"&gt;&lt;/script&gt;
+--&gt; 
+
+        &lt;/div&gt;
+&lt;!--啤酒 ad 2022.06.20--&gt;
+
+        &lt;div class="showpc ad" id="article-ad3"&gt;        
+		
+		    
+		   
+		    
+
+        &lt;/div&gt;
+
+        &lt;div class="m15" id="fixed"&gt;
+            
+        	&lt;h3 class="com_titl"&gt;&lt;a&gt;编辑推荐&lt;/a&gt;&lt;/h3&gt;
+
+            &lt;ul class="rank_list"&gt;
+                            
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/481812.html" target="_blank" title="全方位攻略：钉钉写作文实战技巧与常见问题解答"&gt;全方位攻略：钉钉写作文实战技巧与常见问题解答&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aizhishi/481811.html" target="_blank" title="手机版钉钉全新升级：一键体验AI写作助手便捷功能"&gt;手机版钉钉全新升级：一键体验AI写作助手便捷功能&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aitong/481808.html" target="_blank" title="人工智能绘画作品能否被认定为艺术：探讨AI创作艺术的界定与价值"&gt;人工智能绘画作品能否被认定为艺术：探讨AI创作艺术的界定与价值&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aizhishi/481807.html" target="_blank" title="ai学术写作平台有哪些：软件推荐、平台列表及助手官网"&gt;ai学术写作平台有哪些：软件推荐、平台列表及助手官网&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/481805.html" target="_blank" title="如何利用AI去写文案：赚钱技巧、必备软件与方法汇总"&gt;如何利用AI去写文案：赚钱技巧、必备软件与方法汇总&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aitong/481798.html" target="_blank" title="AI智能写作助手：实时在线生成文章、报告与创意内容，一站式解决写作需求"&gt;AI智能写作助手：实时在线生成文章、报告与创意内容，一站式解决写作需求&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/481797.html" target="_blank" title="云端智能写作助手：高效在线写作工具助力内容创作"&gt;云端智能写作助手：高效在线写作工具助力内容创作&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aizhishi/481794.html" target="_blank" title="AI上色工具快捷键大全：快速掌握色彩填充技巧与实用操作指南"&gt;AI上色工具快捷键大全：快速掌握色彩填充技巧与实用操作指南&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aizhishi/481793.html" target="_blank" title="ai智能写作网站免费：支持英语及人工智能写作的免费平台"&gt;ai智能写作网站免费：支持英语及人工智能写作的免费平台&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aitong/469239.html" target="_blank" title="AI关键词情侣文案创作全攻略：打造浪漫、创意、情感共鸣的文案秘"&gt;AI关键词情侣文案创作全攻略：打造浪漫、创意、情感共鸣的文案秘&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aizhishi/481867.html" target="_blank" title="ai写作神器全免费：赋能内容创作，实现高效文章撰写与一键生成"&gt;ai写作神器全免费：赋能内容创作，实现高效文章撰写与一键生成&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aizhishi/481869.html" target="_blank" title="探讨AI创作作品的知识产权归属与保护：涵版权、专利及商标等多个维度"&gt;探讨AI创作作品的知识产权归属与保护：涵版权、专利及商标等多个维度&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aitong/481872.html" target="_blank" title="人工智能×宫廷雅韵：古典风AI文案创作集锦"&gt;人工智能×宫廷雅韵：古典风AI文案创作集锦&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/481876.html" target="_blank" title="AI艺术创作与鉴指南：全面解析如何撰写AI作品析与相关搜索问题解答"&gt;AI艺术创作与鉴指南：全面解析如何撰写AI作品析与相关搜索问题解答&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aizhishi/481879.html" target="_blank" title="AI作品设计：设计思路说明与作品集汇编"&gt;AI作品设计：设计思路说明与作品集汇编&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aitong/481880.html" target="_blank" title="ai可以写游戏脚本吗知乎：文章推荐与深度解析"&gt;ai可以写游戏脚本吗知乎：文章推荐与深度解析&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aizhishi/481884.html" target="_blank" title="智慧赋能：AI驱动下的创新艺术佳作"&gt;智慧赋能：AI驱动下的创新艺术佳作&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aitong/481886.html" target="_blank" title="'智能游戏AI脚本生成与训练专用软件工具'"&gt;'智能游戏AI脚本生成与训练专用软件工具'&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aitong/481887.html" target="_blank" title="AI艺术创作：探索人工智能生成的绘画作品与创意无限"&gt;AI艺术创作：探索人工智能生成的绘画作品与创意无限&lt;/a&gt;&lt;/li&gt;
+
+                                    &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/481889.html" target="_blank" title="深入解析：游戏AI脚本模型的训练、优化与应用策略"&gt;深入解析：游戏AI脚本模型的训练、优化与应用策略&lt;/a&gt;&lt;/li&gt;
+                   
+                 
+            &lt;/ul&gt;
+            
+        &lt;/div&gt;
+     
+       &lt;div class="m15" id="fixed"&gt;
+        	&lt;h3 class="com_titl"&gt;&lt;a&gt;最新资讯&lt;/a&gt;&lt;/h3&gt;
+           
+            &lt;ul class="rank_list"&gt;
+                
+                
+                                     
+                                     
+                                     
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592788.html" target="_blank" title="女孩穿婚纱的文案：简短句子、说说汇编与撰写技巧"&gt;女孩穿婚纱的文案：简短句子、说说汇编与撰写技巧&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592762.html" target="_blank" title="ai文案生成器github：免费版网页版与版使用"&gt;ai文案生成器github：免费版网页版与版使用&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592750.html" target="_blank" title="AI文案创作与资源导航：全面收录免费在线写作工具与实用网址大全"&gt;AI文案创作与资源导航：全面收录免费在线写作工具与实用网址大全&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592731.html" target="_blank" title="主流AI写作工具软件哪个好，综合对比优劣与性能评测"&gt;主流AI写作工具软件哪个好，综合对比优劣与性能评测&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592728.html" target="_blank" title="最新主流AI写作工具软件大全：热门应用汇总与一键指南"&gt;最新主流AI写作工具软件大全：热门应用汇总与一键指南&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592723.html" target="_blank" title="探索热门AI写作助手：盘点主流智能写作工具软件一览"&gt;探索热门AI写作助手：盘点主流智能写作工具软件一览&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592713.html" target="_blank" title="AI绘画创作全过程解析：从灵感生成到作品展示的全方位指南"&gt;AI绘画创作全过程解析：从灵感生成到作品展示的全方位指南&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592707.html" target="_blank" title="深入解析：亚马逊文案的内涵与撰写技巧"&gt;深入解析：亚马逊文案的内涵与撰写技巧&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592700.html" target="_blank" title="全面解析亚马逊商品标题撰写攻略：覆关键词、提升搜索排名、吸引潜在买家"&gt;全面解析亚马逊商品标题撰写攻略：覆关键词、提升搜索排名、吸引潜在买家&lt;/a&gt;&lt;/li&gt;
+
+                                     &lt;li class="top3"&gt;&lt;em&gt;1&lt;/em&gt;&lt;a href="http://www.slrbs.com/jrzg/aixuexi/592692.html" target="_blank" title="亚马逊AI写文案怎么写：打造高颜值亚马逊文案撰写技巧与策略"&gt;亚马逊AI写文案怎么写：打造高颜值亚马逊文案撰写技巧与策略&lt;/a&gt;&lt;/li&gt;
+                   
+                 
+            &lt;/ul&gt;
+            
+        &lt;/div&gt;
+
+                                         
+                                       
+
+       &lt;div class="m15" id="fixed"&gt;
+        	&lt;h3 class="com_titl" style="color:#fff;"&gt;&lt;a&gt;更多资讯&lt;/a&gt;&lt;/h3&gt;
+
+            &lt;ul class="rank_list"&gt;
+       
+          
+            &lt;/ul&gt;
+ 
+        &lt;/div&gt;
+                                   
+        
+                  
+		&lt;div class="clear"&gt;&lt;/div&gt;
+               
+        &lt;div class="m15"&gt;
+            &lt;h3 class="com_titl"&gt;&lt;a href="http://www.slrbs.com/jrzg/" target="_blank"&gt; 新媒体&lt;/a&gt;&lt;/h3&gt;                        
+        	&lt;div id="hwslider"&gt;
+			    &lt;ul&gt;
+                	
+                   
+			        &lt;li class="active"&gt;
+                    &lt;div class="intro"&gt;&lt;strong&gt;喜讯！咸多了一个“中国天然氧吧”&lt;/strong&gt;&lt;/div&gt;
+                    &lt;a href="#" target="_blank"&gt;&lt;img src='//www.taogaofen.com/file/jy.jpg' alt="喜讯！咸多了一个“中国天然氧吧”" width="100%" /&gt;&lt;/a&gt;
+                    &lt;/li&gt;
+                    
+                    
+                    &lt;li&gt;
+                    &lt;div class="intro"&gt;&lt;strong&gt;投资26亿元！嘉鱼县官桥八组把大学办到家门口&lt;/strong&gt;&lt;/div&gt;
+                    &lt;a &gt;&lt;img src='http://www.xnnews.com.cn/xmt/202210/W020221009359512217229.jpg' alt="投资26亿元！嘉鱼县官桥八组把大学办到家门口" width="100%" /&gt;&lt;/a&gt;
+                    &lt;/li&gt;
+                    
+                    &lt;li&gt;
+                    &lt;div class="intro"&gt;&lt;strong&gt;咸一地入选中国美丽休闲乡村&lt;/strong&gt;&lt;/div&gt;
+                    &lt;a &gt;&lt;img src='http://www.xnnews.com.cn/xmt/202210/W020221009358770527237.jpg' alt="咸一地入选中国美丽休闲乡村" width="100%" /&gt;&lt;/a&gt;
+                    &lt;/li&gt;
+                    
+                    &lt;li&gt;
+                    &lt;div class="intro"&gt;&lt;strong&gt;省级名单揭晓，咸这户家庭上榜！&lt;/strong&gt;&lt;/div&gt;
+                    &lt;a &gt;&lt;img src='http://www.xnnews.com.cn/xmt/202210/W020221009354005345160.jpg' alt="省级名单揭晓，咸这户家庭上榜！" width="100%" /&gt;&lt;/a&gt;
+                    &lt;/li&gt;
+                    
+                    &lt;li&gt;
+                    &lt;div class="intro"&gt;&lt;strong&gt;距银泉大道不足百米，竟藏着这些卫生死角！&lt;/strong&gt;&lt;/div&gt;
+                    &lt;a &gt;&lt;img src='http://www.xnnews.com.cn/xmt/202105/W020210527427265152896.png' alt="距银泉大道不足百米，竟藏着这些卫生死角！" width="100%" /&gt;&lt;/a&gt;
+                    &lt;/li&gt;
+                    
+                    
+			    &lt;/ul&gt;
+                &lt;!--
+			    &lt;div id="dots"&gt;
+			    	&lt;span data-index="1" class="active"&gt;&lt;/span&gt;
+			    	&lt;span data-index="2"&gt;&lt;/span&gt;
+			    	&lt;span data-index="3"&gt;&lt;/span&gt;
+			    &lt;/div&gt;  --&gt;
+			    &lt;a href="javascript:;" id="prev" class="arr"&gt;&amp;lt;&lt;/a&gt;
+			    &lt;a href="javascript:;" id="next" class="arr"&gt;&amp;gt;&lt;/a&gt;
+			&lt;/div&gt; 
+      &lt;/div&gt;
+      &lt;div class="clear"&gt;&lt;/div&gt;     	
+&lt;!--百度联盟2020.2.27 特色图文      	&lt;div class="showpc m15 ad" id="article-ad4"&gt; 
+
+               &lt;script type="text/javascript"&gt;
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('&lt;div style="" id="' + s + '"&gt;&lt;/div&gt;');
+            (window.slotbydup = window.slotbydup || []).push({
+                id: "u5889010",
+                container: s
+            });
+        })();
+&lt;/script&gt;
+
+        &lt;/div&gt;--&gt; 
+        &lt;div class="m15"&gt;
+        	&lt;h3 class="com_titl" style="color:#fff;"&gt;社会新闻&lt;/h3&gt;
+            &lt;div class="ri_lb"&gt;
+                &lt;ul&gt;
+                	
+                 
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+
+        &lt;/div&gt;
+        &lt;div class="showpc m15" id="article-ad3"&gt;        
+
+        &lt;/div&gt;
+        &lt;div class="clear"&gt;&lt;/div&gt;
+               
+        &lt;div class="m15"&gt;
+        &lt;!--	&lt;h3 class="com_titl"&gt;&lt;a href="#" target="_blank"&gt;非常男女&lt;/a&gt;&lt;/h3&gt;--&gt;
+            
+            
+            &lt;div class="ri_tpjx"&gt;
+               
+            &lt;/div&gt;          
+            
+            
+            &lt;div class="ri_tpjx"&gt;
+                
+            &lt;/div&gt;          
+            
+            
+            &lt;div class="ri_tpjx"&gt;
+                
+            &lt;/div&gt;          
+            
+            
+            &lt;div class="ri_tpjx"&gt;
+              
+            &lt;/div&gt;          
+            
+       &lt;/div&gt;
+
+  &lt;!--百度联盟2020.2.27 原生橱窗       
+         &lt;div class="showpc m15 ad" id="article-ad5"&gt;     
+
+&lt;script type="text/javascript"&gt;
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('&lt;div style="" id="' + s + '"&gt;&lt;/div&gt;');
+            (window.slotbydup = window.slotbydup || []).push({
+                id: "u5889152",
+                container: s
+            });
+        })();
+&lt;/script&gt;
+
+        &lt;/div&gt;
+     --&gt;      
+    &lt;div class="clear"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!--右边嵌套 end--&gt;
+&lt;div class="clear"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+ &lt;div class="footer m15"&gt;
+	&lt;div class="main"&gt;
+    	&lt;div class="showpc"&gt;
+        &lt;div class="mtad"&gt;
+    	&lt;ul&gt;
+        
+        &lt;/ul&gt;
+        &lt;div class="clear"&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        
+         &lt;p class="jbtb "&gt;
+                   
+                    &lt;div class="clear"&gt;&lt;/div&gt;
+          &lt;/p&gt;
+        &lt;p class="m15"&gt;
+         
+
+
+&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="showmobile"&gt;
+      	&lt;p&gt;Copyright &amp;copy; 2005 - 2017 xnnews.com.cn&lt;/p&gt; &lt;p&gt;版权所有 咸网 鄂ICP备06000000号&lt;/p&gt; &lt;p&gt;互联网新闻信息服务许可证编号：42000000000号&lt;!--fa8fa--&gt;&lt;!--cai8cai--&gt;&lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!--侧边栏部分begin--&gt;
+&lt;script&gt;
+   /*---------返回顶部----------*/
+   $(function() {
+	    $(".btn_top").hide();
+		$(".btn_top").live("click",function(){
+			$('html, body').animate({scrollTop: 0},300);return false;
+		})
+		$(window).bind('scroll resize',function(){
+			if($(window).scrollTop()&lt;=300){
+				$(".btn_top").hide();
+			}else{
+				$(".btn_top").show();
+			}
+		})
+   })
+	
+   /*---------返回顶部 end----------*/
+&lt;/script&gt;
+
+&lt;!---侧边栏部分end--&gt;
+
+&lt;!--  手机版返回顶部--&gt;
+&lt;div class="showmobile"&gt;
+&lt;a href="javascript:void(0)" class="btn_top back" style="display: block;"&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+&lt;/script&gt;
+
+
+
+&lt;/body&gt;
+&lt;/html&gt;&lt;!--100.64 ms , 49 queries , 5223kb memory , 2 errors--&gt;</iframe></body></html>

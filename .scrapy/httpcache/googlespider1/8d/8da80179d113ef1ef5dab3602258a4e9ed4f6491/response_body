@@ -1,0 +1,2222 @@
+<!DOCTYPE html><html class="ltr" dir="ltr" lang="zh-CN"><head>
+	<title>基于人工智能（AI）的知识产权数据分类</title>
+	<meta content="initial-scale=1.0, width=device-width" name="viewport">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+<meta content="IP classifications are crucial tools allowing companies, inventors and research and development organizations to conduct reliable IP searches and manage their IP portfolios." lang="en-US" name="description"><meta content="classification, IP data, assistant, tool, machine-learning" lang="en-US" name="keywords">
+
+
+<script src="https://script.crazyegg.com/pages/versioned/common-scripts/c145caf9bd0f62535e3720b5d68c2190.js" type="text/javascript" async=""></script><script src="https://hm.baidu.com/hm.js?95e64d347633bfd0a2462e25c93606d6"></script><script type="text/javascript" async="" defer="" src="https://wipoanalytics.wipo.int/matomo/js/container_oj6DkAWh.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P7RLS2"></script><script type="importmap">{"imports":{"react-dom":"/o/frontend-js-react-web/__liferay__/exports/react-dom.js","@clayui/breadcrumb":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$breadcrumb.js","@clayui/form":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$form.js","@clayui/popover":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$popover.js","@clayui/charts":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$charts.js","@clayui/shared":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$shared.js","@clayui/localized-input":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$localized-input.js","@clayui/modal":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$modal.js","@clayui/empty-state":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$empty-state.js","react":"/o/frontend-js-react-web/__liferay__/exports/react.js","@clayui/navigation-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$navigation-bar.js","@clayui/color-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$color-picker.js","@clayui/pagination":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination.js","@clayui/icon":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$icon.js","@clayui/table":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$table.js","@clayui/autocomplete":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$autocomplete.js","@clayui/slider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$slider.js","@clayui/management-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$management-toolbar.js","@clayui/multi-select":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-select.js","@clayui/nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$nav.js","@clayui/time-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$time-picker.js","@clayui/provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$provider.js","@clayui/upper-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$upper-toolbar.js","@clayui/panel":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$panel.js","@clayui/loading-indicator":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$loading-indicator.js","@clayui/list":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$list.js","@clayui/drop-down":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$drop-down.js","@clayui/date-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$date-picker.js","@clayui/label":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$label.js","@clayui/data-provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$data-provider.js","@liferay/frontend-js-api/data-set":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api$data-set.js","@clayui/core":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$core.js","@clayui/pagination-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination-bar.js","@clayui/layout":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$layout.js","@clayui/multi-step-nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-step-nav.js","@liferay/frontend-js-api":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api.js","@clayui/toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$toolbar.js","@clayui/css":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$css.js","@clayui/badge":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$badge.js","@clayui/alert":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$alert.js","@clayui/link":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$link.js","@clayui/card":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$card.js","@clayui/progress-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$progress-bar.js","@clayui/tooltip":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tooltip.js","@clayui/button":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$button.js","@clayui/tabs":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tabs.js","@clayui/sticker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$sticker.js"},"scopes":{}}</script><script data-senna-track="permanent" src="/o/frontend-js-svg4everybody-web/index.js?&amp;mac=xBimnpl6PfodLjk5lbNNRjGpEMw=&amp;browserId=other&amp;languageId=zh_CN&amp;minifierType=js" type="text/javascript"></script>
+<script data-senna-track="temporary">var Liferay = window.Liferay || {};Liferay.Icons = Liferay.Icons || {};Liferay.Icons.controlPanelSpritemap = 'https://cdn.webcms.wipo.int/o/admin-theme/images/clay/icons.svg';Liferay.Icons.spritemap = 'https://cdn.webcms.wipo.int/o/wipo-universal-theme/images/clay/icons.svg';</script>
+<link data-senna-track="permanent" href="https://cdn.webcms.wipo.int/o/frontend-theme-font-awesome-web/css/main.css?&amp;mac=KWb8CY3oOhD728SI0G+NfXJbH/E=&amp;browserId=other&amp;languageId=zh_CN&amp;minifierType=css&amp;themeId=wipouniversaltheme_WAR_wipouniversaltheme" rel="stylesheet" type="text/css">
+<script data-senna-track="permanent" src="/combo?browserId=other&amp;minifierType=js&amp;languageId=zh_CN&amp;t=1730310603914&amp;/o/frontend-js-jquery-web/jquery/jquery.min.js&amp;/o/frontend-js-jquery-web/jquery/init.js&amp;/o/frontend-js-jquery-web/jquery/ajax.js&amp;/o/frontend-js-jquery-web/jquery/bootstrap.bundle.min.js&amp;/o/frontend-js-jquery-web/jquery/collapsible_search.js&amp;/o/frontend-js-jquery-web/jquery/fm.js&amp;/o/frontend-js-jquery-web/jquery/form.js&amp;/o/frontend-js-jquery-web/jquery/popper.min.js&amp;/o/frontend-js-jquery-web/jquery/side_navigation.js" type="text/javascript"></script>
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/web/ai-tools-services/classification-assistant" rel="canonical">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/es/web/ai-tools-services/classification-assistant" hreflang="es-ES" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/zh/web/ai-tools-services/classification-assistant" hreflang="zh-CN" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/ru/web/ai-tools-services/classification-assistant" hreflang="ru-RU" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/ar/web/ai-tools-services/classification-assistant" hreflang="ar-SA" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/fr/web/ai-tools-services/classification-assistant" hreflang="fr-FR" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/web/ai-tools-services/classification-assistant" hreflang="en-US" rel="alternate">
+<link data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/web/ai-tools-services/classification-assistant" hreflang="x-default" rel="alternate">
+<meta property="og:description" content="IP classifications are crucial tools allowing companies, inventors and research and development organizations to conduct reliable IP searches and manage their IP portfolios.">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:locale:alternate" content="ar_SA">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="es_ES">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:locale:alternate" content="ru_RU">
+<meta property="og:locale:alternate" content="zh_CN">
+<meta property="og:site_name" content="ai-tools-services">
+<meta property="og:title" content="基于人工智能（AI）的知识产权数据分类">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.wipo.int/web/ai-tools-services/classification-assistant">
+
+
+<link href="https://cdn.webcms.wipo.int/o/wipo-universal-theme/images/favicon.ico" rel="apple-touch-icon">
+<link href="https://cdn.webcms.wipo.int/o/wipo-universal-theme/images/favicon.ico" rel="icon">
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/o/wipo-universal-theme/css/clay.css?browserId=other&amp;themeId=wipouniversaltheme_WAR_wipouniversaltheme&amp;minifierType=css&amp;languageId=zh_CN&amp;t=1730310600000" id="liferayAUICSS" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+	<link href="/combo?browserId=other&amp;minifierType=css&amp;themeId=wipouniversaltheme_WAR_wipouniversaltheme&amp;languageId=zh_CN&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fo%2Fproduct-navigation-product-menu-web%2Fcss%2Fmain.css&amp;t=1730310600000" rel="stylesheet" type="text/css" data-senna-track="temporary" id="543decdd">
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return true;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 0;
+			},
+
+			getRevision: function() {
+				return '';
+			},
+			getVersion: function() {
+				return '';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return false;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return false;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return false;
+			},
+			isSafari: function() {
+				return false;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return false;
+			},
+			isWindows: function() {
+				return false;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			
+		];
+
+		(function () {
+			var available = {};
+
+			var direction = {};
+
+			
+
+				available['en_US'] = '英语\x20\x28美国\x29';
+				direction['en_US'] = 'ltr';
+
+			
+
+				available['es_ES'] = '西班牙语\x20\x28西班牙\x29';
+				direction['es_ES'] = 'ltr';
+
+			
+
+				available['fr_FR'] = '法语\x20\x28法国\x29';
+				direction['fr_FR'] = 'ltr';
+
+			
+
+				available['ru_RU'] = '俄语\x20\x28俄罗斯\x29';
+				direction['ru_RU'] = 'ltr';
+
+			
+
+				available['zh_CN'] = '中文\x20\x28中国\x29';
+				direction['zh_CN'] = 'ltr';
+
+			
+
+				available['ar_SA'] = '阿拉伯语\x20\x28沙特阿拉伯\x29';
+				direction['ar_SA'] = 'rtl';
+
+			
+
+				available['de_DE'] = '德语\x20\x28德国\x29';
+				direction['de_DE'] = 'ltr';
+
+			
+
+				available['pt_PT'] = '葡萄牙语\x20\x28葡萄牙\x29';
+				direction['pt_PT'] = 'ltr';
+
+			
+
+				available['ja_JP'] = '日语\x20\x28日本\x29';
+				direction['ja_JP'] = 'ltr';
+
+			
+
+				available['ko_KR'] = '韩语\x20\x28韩国\x29';
+				direction['ko_KR'] = 'ltr';
+
+			
+
+			Liferay.Language = {
+				available,
+				direction,
+				get: function(key) {
+					return key;
+				}
+			};
+		})();
+
+		var featureFlags = {"LPS-170122":false,"LPS-190890":false,"COMMERCE-9410":false,"LPS-172903":false,"LPS-178642":false,"LPS-187284":false,"LRAC-10632":false,"LPS-187285":false,"LPS-189187":false,"LPS-114786":false,"COMMERCE-8087":false,"LRAC-10757":false,"LPS-180090":false,"LPS-170809":false,"LPS-178052":false,"LPS-189856":false,"LPS-188645":false,"LPS-182184":false,"LPS-157670":false,"COMMERCE-11026":false,"LPS-180328":false,"COMMERCE-11028":false,"LPS-169923":false,"LPS-171364":false,"LPS-192282":false,"COMMERCE-11181":false,"LPS-153714":false,"COMMERCE-10890":false,"LPS-170670":false,"LPS-169981":false,"LPS-177664":false,"LPS-177027":false,"LPS-177668":false,"LPS-172416":false,"LPS-172017":false,"LPS-163118":false,"LPS-135430":false,"LPS-134060":false,"LPS-164563":false,"LPS-122920":false,"LPS-148856":false,"LPS-173135":false,"LPS-182728":false,"LPS-167253":false,"LPS-169992":false,"LPS-187142":false,"LPS-183498":false,"LRAC-14055":false,"LPS-187854":false,"LPS-179483":false,"LPS-166479":false,"LPS-165346":false,"LPS-144527":false,"COMMERCE-8949":false,"LPS-188060":false,"LPS-149256":false,"LPS-165482":false,"COMMERCE-11287":false,"LPS-174939":false,"LPS-174816":false,"LPS-186360":false,"LPS-189430":false,"LPS-153332":false,"LPS-179669":false,"LPS-174417":false,"LPS-183882":false,"LPS-155284":false,"LPS-186558":false,"LPS-176083":false,"LPS-158675":false,"LPS-184413":false,"LPS-184016":false,"LPS-180292":false,"LPS-159643":false,"LPS-161033":false,"LPS-164948":false,"LPS-184255":false,"LPS-129412":false,"LPS-183727":false,"LPS-166126":false,"LPS-182512":false,"LPS-187846":false,"LPS-186757":false};
+
+		Liferay.FeatureFlags = Object.keys(featureFlags).reduce(
+			(acc, key) => ({
+				...acc, [key]: featureFlags[key] === 'true' || featureFlags[key] === true
+			}), {}
+		);
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 104857600
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '8';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/zh/group/ai-tools-services/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/zh/web/ai-tools-services/classification-assistant';
+				},
+				getLayoutURL: function() {
+					return 'https://www.wipo.int/zh/web/ai-tools-services/classification-assistant';
+				},
+				getParentLayoutId: function() {
+					return '0';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'zh-Hans-CN';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fweb\x2fai-tools-services\x2fclassification-assistant';
+			},
+			getCDNBaseURL: function() {
+				return 'https://cdn.webcms.wipo.int';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return 'https://cdn.webcms.wipo.int';
+			},
+			getCompanyGroupId: function() {
+				return '20123';
+			},
+			getCompanyId: function() {
+				return '20097';
+			},
+			getDefaultLanguageId: function() {
+				return 'en_US';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'zh_CN';
+			},
+			getParentGroupId: function() {
+				return '1830793';
+			},
+			getPathContext: function() {
+				return '';
+			},
+			getPathImage: function() {
+				return '/image';
+			},
+			getPathJavaScript: function() {
+				return '/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/zh/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://cdn.webcms.wipo.int/o/wipo-universal-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/o/wipo-universal-theme';
+			},
+			getPlid: function() {
+				return '1429';
+			},
+			getPortalURL: function() {
+				return 'https://www.wipo.int';
+			},
+			getRealUserId: function() {
+				return '20102';
+			},
+			getRemoteAddr: function() {
+				return '10.44.247.21';
+			},
+			getRemoteHost: function() {
+				return '10.44.247.21';
+			},
+			getScopeGroupId: function() {
+				return '1830793';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '1830793';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://www.wipo.int/group/ai-tools-services/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '1830793';
+			},
+			getURLControlPanel: function() {
+				return '/zh/group/control_panel?refererPlid=1429';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fweb\x2fguest';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '20102';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+
+			isStagedPortlet: function() {
+				
+					
+					
+						return false;
+					
+				
+			},
+
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=zh_CN&t=1730310597952&';
+			},
+			getDateFormat: function() {
+				return '%Y-%m-%d';
+			},
+			getEditorCKEditorPath: function() {
+				return '/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+				
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/o/frontend-js-web';
+			},
+			getPortletRootPath: function() {
+				return '/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=other&minifierType=&languageId=zh_CN&t=1730310597952';
+			}
+		};
+
+		Liferay.authToken = '5udUEbzi';
+
+		
+
+		Liferay.currentURL = '\x2fzh\x2fweb\x2fai-tools-services\x2fclassification-assistant';
+		Liferay.currentURLEncoded = '\x252Fzh\x252Fweb\x252Fai-tools-services\x252Fclassification-assistant';
+	// ]]>
+</script>
+
+<script data-senna-track="temporary" type="text/javascript">window.__CONFIG__= {basePath: '',combine: true, defaultURLParams: null, explainResolutions: false, exposeGlobal: false, logLevel: 'warn', moduleType: 'module', namespace:'Liferay', reportMismatchedAnonymousModules: 'warn', resolvePath: '/o/js_resolve_modules/1d5252eb-dc21-455a-a405-81637cc46650', url: '/combo/?browserId=other&minifierType=js&languageId=zh_CN&t=1730310597952&', waitTimeout: 60000};</script><script data-senna-track="permanent" src="https://cdn.webcms.wipo.int/o/frontend-js-loader-modules-extender/loader.js?&amp;mac=kuyYLzgmJRuntKLenfFpZdHstco=&amp;browserId=other&amp;languageId=zh_CN&amp;minifierType=js" type="text/javascript"></script><script data-senna-track="permanent" src="/combo?browserId=other&amp;minifierType=js&amp;languageId=zh_CN&amp;t=1730310597952&amp;/o/frontend-js-aui-web/aui/aui/aui-min.js&amp;/o/frontend-js-aui-web/liferay/modules.js&amp;/o/frontend-js-aui-web/liferay/aui_sandbox.js&amp;/o/frontend-js-aui-web/aui/attribute-base/attribute-base-min.js&amp;/o/frontend-js-aui-web/aui/attribute-complex/attribute-complex-min.js&amp;/o/frontend-js-aui-web/aui/attribute-core/attribute-core-min.js&amp;/o/frontend-js-aui-web/aui/attribute-observable/attribute-observable-min.js&amp;/o/frontend-js-aui-web/aui/attribute-extras/attribute-extras-min.js&amp;/o/frontend-js-aui-web/aui/event-custom-base/event-custom-base-min.js&amp;/o/frontend-js-aui-web/aui/event-custom-complex/event-custom-complex-min.js&amp;/o/frontend-js-aui-web/aui/oop/oop-min.js&amp;/o/frontend-js-aui-web/aui/aui-base-lang/aui-base-lang-min.js&amp;/o/frontend-js-aui-web/liferay/dependency.js&amp;/o/frontend-js-aui-web/liferay/util.js&amp;/o/frontend-js-web/liferay/dom_task_runner.js&amp;/o/frontend-js-web/liferay/events.js&amp;/o/frontend-js-web/liferay/lazy_load.js&amp;/o/frontend-js-web/liferay/liferay.js&amp;/o/frontend-js-web/liferay/global.bundle.js&amp;/o/frontend-js-web/liferay/portlet.js&amp;/o/frontend-js-web/liferay/workflow.js&amp;/o/oauth2-provider-web/js/liferay.js" type="text/javascript"></script>
+<script data-senna-track="temporary" type="text/javascript">window.Liferay = Liferay || {}; window.Liferay.OAuth2 = {getAuthorizeURL: function() {return 'https://www.wipo.int/o/oauth2/authorize';}, getBuiltInRedirectURL: function() {return 'https://www.wipo.int/o/oauth2/redirect';}, getIntrospectURL: function() { return 'https://www.wipo.int/o/oauth2/introspect';}, getTokenURL: function() {return 'https://www.wipo.int/o/oauth2/token';}, getUserAgentApplication: function(externalReferenceCode) {return Liferay.OAuth2._userAgentApplications[externalReferenceCode];}, _userAgentApplications: {}}</script><script data-senna-track="temporary" type="text/javascript">try {var MODULE_MAIN='portal-workflow-task-web@5.0.62/index';var MODULE_PATH='/o/portal-workflow-task-web';AUI().applyConfig({groups:{workflowtasks:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-workflow-tasks":{path:"main.js",requires:["liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='commerce-product-content-web@4.0.102/index';var MODULE_PATH='/o/commerce-product-content-web';AUI().applyConfig({groups:{productcontent:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),modules:{"liferay-commerce-product-content":{path:"product_content.js",requires:["aui-base","aui-io-request","aui-parse-content","liferay-portlet-base","liferay-portlet-url"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='dynamic-data-mapping-web@5.0.93/index';var MODULE_PATH='/o/dynamic-data-mapping-web';!function(){const a=Liferay.AUI;AUI().applyConfig({groups:{ddm:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:a.getFilterConfig(),modules:{"liferay-ddm-form":{path:"ddm_form.js",requires:["aui-base","aui-datatable","aui-datatype","aui-image-viewer","aui-parse-content","aui-set","aui-sortable-list","json","liferay-form","liferay-map-base","liferay-translation-manager","liferay-util-window"]},"liferay-portlet-dynamic-data-mapping":{condition:{trigger:"liferay-document-library"},path:"main.js",requires:["arraysort","aui-form-builder-deprecated","aui-form-validator","aui-map","aui-text-unicode","json","liferay-menu","liferay-translation-manager","liferay-util-window","text"]},"liferay-portlet-dynamic-data-mapping-custom-fields":{condition:{trigger:"liferay-document-library"},path:"custom_fields.js",requires:["liferay-portlet-dynamic-data-mapping"]}},root:MODULE_PATH+"/js/"}}})}();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-taglib@12.3.5/index';var MODULE_PATH='/o/frontend-taglib';AUI().applyConfig({groups:{"frontend-taglib":{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-management-bar":{path:"management_bar/js/management_bar.js",requires:["aui-component","liferay-portlet-base"]},"liferay-sidebar-panel":{path:"sidebar_panel/js/sidebar_panel.js",requires:["aui-base","aui-debounce","aui-parse-content","liferay-portlet-base"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='staging-taglib@7.0.46/index';var MODULE_PATH='/o/staging-taglib';AUI().applyConfig({groups:{stagingTaglib:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-export-import-management-bar-button":{path:"export_import_entity_management_bar_button/js/main.js",requires:["aui-component","liferay-search-container","liferay-search-container-select"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='journal-web@5.0.151/index';var MODULE_PATH='/o/journal-web';AUI().applyConfig({groups:{journal:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-journal-navigation":{path:"navigation.js",requires:["aui-component","liferay-portlet-base","liferay-search-container"]},"liferay-portlet-journal":{path:"main.js",requires:["aui-base","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-editor-alloyeditor-web@5.0.42/index';var MODULE_PATH='/o/frontend-editor-alloyeditor-web';AUI().applyConfig({groups:{alloyeditor:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-alloy-editor":{path:"alloyeditor.js",requires:["aui-component","liferay-portlet-base","timers"]},"liferay-alloy-editor-source":{path:"alloyeditor_source.js",requires:["aui-debounce","liferay-fullscreen-source-editor","liferay-source-editor","plugin"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-js-components-web@2.0.53/index';var MODULE_PATH='/o/frontend-js-components-web';AUI().applyConfig({groups:{components:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='invitation-invite-members-web@5.0.29/index';var MODULE_PATH='/o/invitation-invite-members-web';AUI().applyConfig({groups:{"invite-members":{base:MODULE_PATH+"/invite_members/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-portlet-invite-members":{path:"main.js",requires:["aui-base","autocomplete-base","datasource-io","datatype-number","liferay-portlet-base","liferay-util-window","node-core"]}},root:MODULE_PATH+"/invite_members/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='item-selector-taglib@5.3.14/index.es';var MODULE_PATH='/o/item-selector-taglib';AUI().applyConfig({groups:{"item-selector-taglib":{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-image-selector":{path:"image_selector/js/image_selector.js",requires:["aui-base","liferay-item-selector-dialog","liferay-portlet-base","uploader"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='contacts-web@5.0.52/index';var MODULE_PATH='/o/contacts-web';AUI().applyConfig({groups:{contactscenter:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-contacts-center":{path:"main.js",requires:["aui-io-plugin-deprecated","aui-toolbar","autocomplete-base","datasource-io","json-parse","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='staging-processes-web@5.0.49/index';var MODULE_PATH='/o/staging-processes-web';AUI().applyConfig({groups:{stagingprocessesweb:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-staging-processes-export-import":{path:"js/main.js",requires:["aui-datatype","aui-dialog-iframe-deprecated","aui-modal","aui-parse-content","aui-toggler","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='calendar-web@5.0.78/index';var MODULE_PATH='/o/calendar-web';AUI().applyConfig({groups:{calendar:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-calendar-a11y":{path:"calendar_a11y.js",requires:["calendar"]},"liferay-calendar-container":{path:"calendar_container.js",requires:["aui-alert","aui-base","aui-component","liferay-portlet-base"]},"liferay-calendar-date-picker-sanitizer":{path:"date_picker_sanitizer.js",requires:["aui-base"]},"liferay-calendar-interval-selector":{path:"interval_selector.js",requires:["aui-base","liferay-portlet-base"]},"liferay-calendar-interval-selector-scheduler-event-link":{path:"interval_selector_scheduler_event_link.js",requires:["aui-base","liferay-portlet-base"]},"liferay-calendar-list":{path:"calendar_list.js",requires:["aui-template-deprecated","liferay-scheduler"]},"liferay-calendar-message-util":{path:"message_util.js",requires:["liferay-util-window"]},"liferay-calendar-recurrence-converter":{path:"recurrence_converter.js",requires:[]},"liferay-calendar-recurrence-dialog":{path:"recurrence.js",requires:["aui-base","liferay-calendar-recurrence-util"]},"liferay-calendar-recurrence-util":{path:"recurrence_util.js",requires:["aui-base","liferay-util-window"]},"liferay-calendar-reminders":{path:"calendar_reminders.js",requires:["aui-base"]},"liferay-calendar-remote-services":{path:"remote_services.js",requires:["aui-base","aui-component","liferay-calendar-util","liferay-portlet-base"]},"liferay-calendar-session-listener":{path:"session_listener.js",requires:["aui-base","liferay-scheduler"]},"liferay-calendar-simple-color-picker":{path:"simple_color_picker.js",requires:["aui-base","aui-template-deprecated"]},"liferay-calendar-simple-menu":{path:"simple_menu.js",requires:["aui-base","aui-template-deprecated","event-outside","event-touch","widget-modality","widget-position","widget-position-align","widget-position-constrain","widget-stack","widget-stdmod"]},"liferay-calendar-util":{path:"calendar_util.js",requires:["aui-datatype","aui-io","aui-scheduler","aui-toolbar","autocomplete","autocomplete-highlighters"]},"liferay-scheduler":{path:"scheduler.js",requires:["async-queue","aui-datatype","aui-scheduler","dd-plugin","liferay-calendar-a11y","liferay-calendar-message-util","liferay-calendar-recurrence-converter","liferay-calendar-recurrence-util","liferay-calendar-util","liferay-scheduler-event-recorder","liferay-scheduler-models","promise","resize-plugin"]},"liferay-scheduler-event-recorder":{path:"scheduler_event_recorder.js",requires:["dd-plugin","liferay-calendar-util","resize-plugin"]},"liferay-scheduler-models":{path:"scheduler_models.js",requires:["aui-datatype","dd-plugin","liferay-calendar-util"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='commerce-frontend-impl@4.0.49/index';var MODULE_PATH='/o/commerce-frontend-impl';AUI().applyConfig({groups:{commercefrontend:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),modules:{"liferay-commerce-frontend-management-bar-state":{condition:{trigger:"liferay-management-bar"},path:"management_bar_state.js",requires:["liferay-management-bar"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='product-navigation-taglib@6.0.54/index';var MODULE_PATH='/o/product-navigation-taglib';AUI().applyConfig({groups:{controlmenu:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-product-navigation-control-menu":{path:"control_menu/js/product_navigation_control_menu.js",requires:["aui-node","event-touch"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/document-library-web@6.0.163/document_library/js/index';var MODULE_PATH='/o/document-library-web';AUI().applyConfig({groups:{dl:{base:MODULE_PATH+"/document_library/js/legacy/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"document-library-upload-component":{path:"DocumentLibraryUpload.js",requires:["aui-component","aui-data-set-deprecated","aui-overlay-manager-deprecated","aui-overlay-mask-deprecated","aui-parse-content","aui-progressbar","aui-template-deprecated","liferay-search-container","querystring-parse-simple","uploader"]}},root:MODULE_PATH+"/document_library/js/legacy/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='exportimport-web@5.0.76/index';var MODULE_PATH='/o/exportimport-web';AUI().applyConfig({groups:{exportimportweb:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-export-import-export-import":{path:"js/main.js",requires:["aui-datatype","aui-dialog-iframe-deprecated","aui-modal","aui-parse-content","aui-toggler","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-state-web@1.0.18/index';var MODULE_PATH='/o/frontend-js-state-web';AUI().applyConfig({groups:{state:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-react-web@5.0.31/index';var MODULE_PATH='/o/frontend-js-react-web';AUI().applyConfig({groups:{react:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-search-web@6.0.114/index';var MODULE_PATH='/o/portal-search-web';AUI().applyConfig({groups:{search:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-search-bar":{path:"search_bar.js",requires:[]},"liferay-search-custom-filter":{path:"custom_filter.js",requires:[]},"liferay-search-facet-util":{path:"facet_util.js",requires:[]},"liferay-search-modified-facet":{path:"modified_facet.js",requires:["aui-form-validator","liferay-search-facet-util"]},"liferay-search-modified-facet-configuration":{path:"modified_facet_configuration.js",requires:["aui-node"]},"liferay-search-sort-configuration":{path:"sort_configuration.js",requires:["aui-node"]},"liferay-search-sort-util":{path:"sort_util.js",requires:[]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-workflow-kaleo-designer-web@5.0.115/index';var MODULE_PATH='/o/portal-workflow-kaleo-designer-web';AUI().applyConfig({groups:{"kaleo-designer":{base:MODULE_PATH+"/designer/js/legacy/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-kaleo-designer-autocomplete-util":{path:"autocomplete_util.js",requires:["autocomplete","autocomplete-highlighters"]},"liferay-kaleo-designer-definition-diagram-controller":{path:"definition_diagram_controller.js",requires:["liferay-kaleo-designer-field-normalizer","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-dialogs":{path:"dialogs.js",requires:["liferay-util-window"]},"liferay-kaleo-designer-editors":{path:"editors.js",requires:["aui-ace-editor","aui-ace-editor-mode-xml","aui-base","aui-datatype","aui-node","liferay-kaleo-designer-autocomplete-util","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-field-normalizer":{path:"field_normalizer.js",requires:["liferay-kaleo-designer-remote-services"]},"liferay-kaleo-designer-nodes":{path:"nodes.js",requires:["aui-datatable","aui-datatype","aui-diagram-builder","liferay-kaleo-designer-editors","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-remote-services":{path:"remote_services.js",requires:["aui-io","liferay-portlet-url"]},"liferay-kaleo-designer-templates":{path:"templates.js",requires:["aui-tpl-snippets-deprecated"]},"liferay-kaleo-designer-utils":{path:"utils.js",requires:[]},"liferay-kaleo-designer-xml-definition":{path:"xml_definition.js",requires:["aui-base","aui-component","dataschema-xml","datatype-xml"]},"liferay-kaleo-designer-xml-definition-serializer":{path:"xml_definition_serializer.js",requires:["escape","liferay-kaleo-designer-xml-util"]},"liferay-kaleo-designer-xml-util":{path:"xml_util.js",requires:["aui-base"]},"liferay-portlet-kaleo-designer":{path:"main.js",requires:["aui-ace-editor","aui-ace-editor-mode-xml","aui-tpl-snippets-deprecated","dataschema-xml","datasource","datatype-xml","event-valuechange","io-form","liferay-kaleo-designer-autocomplete-util","liferay-kaleo-designer-editors","liferay-kaleo-designer-nodes","liferay-kaleo-designer-remote-services","liferay-kaleo-designer-utils","liferay-kaleo-designer-xml-util","liferay-util-window"]}},root:MODULE_PATH+"/designer/js/legacy/"}}});
+} catch(error) {console.error(error);}</script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		
+			
+				
+				
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+		
+
+			
+
+			
+		
+		
+	
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+		
+	
+
+
+
+	
+		
+		
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" data-senna-off="true" href="https://www.wipo.int/o/wipo-universal-theme/css/main.css?browserId=other&amp;themeId=wipouniversaltheme_WAR_wipouniversaltheme&amp;minifierType=css&amp;languageId=zh_CN&amp;t=1730310600000" id="liferayThemeCSS" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+<script data-senna-track="temporary">var Liferay = window.Liferay || {}; Liferay.CommerceContext = {"commerceAccountGroupIds":[],"accountEntryAllowedTypes":["person"],"commerceChannelId":"0","currency":{"currencyId":"1277304","currencyCode":"USD"},"commerceSiteType":0};</script><link href="/o/commerce-frontend-js/styles/main.css" rel="stylesheet" type="text/css">
+<style data-senna-track="temporary" type="text/css">
+</style>
+<script>
+Liferay.Loader.require(
+'frontend-js-spa-web@5.0.40/init',
+function(frontendJsSpaWebInit) {
+try {
+(function() {
+frontendJsSpaWebInit.default({"navigationExceptionSelectors":":not([target=\"_blank\"]):not([data-senna-off]):not([data-resource-href]):not([data-cke-saved-href]):not([data-cke-saved-href])","cacheExpirationTime":-1,"clearScreensCache":false,"portletsBlacklist":["com_liferay_nested_portlets_web_portlet_NestedPortletsPortlet","com_liferay_site_navigation_directory_web_portlet_SitesDirectoryPortlet","com_liferay_questions_web_internal_portlet_QuestionsPortlet","com_liferay_account_admin_web_internal_portlet_AccountUsersRegistrationPortlet","com_liferay_portal_language_override_web_internal_portlet_PLOPortlet","com_liferay_login_web_portlet_LoginPortlet","com_liferay_login_web_portlet_FastLoginPortlet"],"validStatusCodes":[221,490,494,499,491,492,493,495,220],"debugEnabled":false,"loginRedirect":"","excludedPaths":["/c/document_library","/documents","/image"],"userNotification":{"message":"看起来这需要比预期更长的时间。","title":"糟糕","timeout":30000},"requestTimeout":0})
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'@liferay/frontend-js-state-web@1.0.18',
+function(FrontendJsState) {
+try {
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><link data-senna-track="temporary" href="/o/layout-common-styles/main.css?plid=1429&amp;segmentsExperienceId=2218840&amp;t=1719405722169" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title:event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+</script><script>
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+
+
+
+
+
+
+<!-- css universal start -->
+<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@100;300;400;500;600;700;800;900&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css"> -->
+<link rel="stylesheet" href="https://webcomponents.wipo.int/wipo-navbar/ulf-fonts.css"> 
+<!-- css universal end -->
+<!-- Start Navbar Component-->
+	<style>
+        @font-face {
+          font-family: 'simplon';
+          font-weight: 400;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Regular-WebXL.woff2")
+        }
+        @font-face {
+          font-family: 'simplon';
+          font-weight: 500;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Medium-WebXL.woff2")
+        }
+        @font-face {
+          font-family: 'simplon';
+          font-weight: 700;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Bold-WebXL.woff2")
+        }
+      </style>
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-theme/js/cookie.js"></script>
+<script type="module" src="https://cdnjs.wipo.int/universal-lf-webcomponents/latest/components/wipo-footer.js"></script>
+<link rel="stylesheet" href="https://cdnjs.wipo.int/universal-lf-webcomponents/latest/style/footer.css">
+<script src="https://webcomponents.wipo.int/polyfills/webcomponents-loader.js"></script>
+<script src="https://webcomponents.wipo.int/wipo-navbar/wipo-navbar.js"></script>    
+<!-- End Navbar Component -->	<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+'ad_storage': 'granted',
+'ad_user_data': 'denied',
+'ad_personalization': 'denied',
+'analytics_storage': 'granted'
+});
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P7RLS2');</script>
+<!-- End Google Tag Manager -->
+<!-- Start Matomo -->
+<script type="text/javascript" src="https://webcomponents.wipo.int/wipo-analytics/wipo-analytics-oj6DkAWh.js"></script>
+<!-- End Matomo -->
+<!-- Start baidu -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?95e64d347633bfd0a2462e25c93606d6";
+var s = document.getElementsByTagName("script")[0]; 
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!-- End baidu -->
+<!-- Start CrazzyEgg -->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0115/2064.js" async="async"></script>
+<!-- End CrazzyEgg --></head>
+<body class="ulf-wipo" data-spy="scroll" data-target="#ulf-toc" id="wipo-int">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav aria-label="快速链接" class="bg-dark cadmin quick-access-nav text-center text-white" id="ncxg_quickAccessNav">
+		
+			
+				<a class="d-block p-2 sr-only sr-only-focusable text-reset" href="#main-content">
+		跳转到主内容
+	</a>
+			
+			
+		
+	</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="d-flex flex-column min-vh-100">
+<header class="container-navbar-outer" id="container-navbar-outer">
+<nav class="container-fluid container-fluid-max-xl">
+<wipo-navbar full-mode="" language="zh" languageoptions="[{&quot;code&quot;:&quot;ar&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=1429&amp;redirect=%2Fzh%2Fweb%2Fai-tools-services%2Fclassification-assistant&amp;languageId=ar_SA&quot;},{&quot;code&quot;:&quot;en&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=1429&amp;redirect=%2Fzh%2Fweb%2Fai-tools-services%2Fclassification-assistant&amp;languageId=en_US&quot;},{&quot;code&quot;:&quot;es&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=1429&amp;redirect=%2Fzh%2Fweb%2Fai-tools-services%2Fclassification-assistant&amp;languageId=es_ES&quot;},{&quot;code&quot;:&quot;fr&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=1429&amp;redirect=%2Fzh%2Fweb%2Fai-tools-services%2Fclassification-assistant&amp;languageId=fr_FR&quot;},{&quot;code&quot;:&quot;ru&quot;,&quot;link&quot;:&quot;/zh/c/portal/update_language?p_l_id=1429&amp;redirect=%2Fzh%2Fweb%2Fai-tools-services%2Fclassification-assistant&amp;languageId=ru_RU&quot;},{&quot;code&quot;:&quot;zh&quot;}]" custombreadcrumbs="[{&quot;itemName&quot;:&quot;人工智能工具和服务&quot;,&quot;itemURL&quot;:&quot;/web/ai-tools-services&quot;},{&quot;itemName&quot;:&quot;Classification Assistant&quot;,&quot;itemURL&quot;:&quot;https://www.wipo.int/zh/web/ai-tools-services/classification-assistant&quot;}]" helpoptions="[{
+&quot;code&quot;: &quot;contact&quot;,
+&quot;link&quot;: &quot;https://www3.wipo.int/contact/zh/area.jsp?area=ai&quot;,
+&quot;sameTab&quot;: &quot;false&quot;
+},
+{
+&quot;code&quot;: &quot;termsOfUse&quot;,
+&quot;link&quot;: &quot;https://www.wipo.int/tools/zh/disclaim-ipportal.html&quot;
+},
+{
+&quot;code&quot;: &quot;privacyPolicy&quot;,
+&quot;link&quot;: &quot;https://www.wipo.int/tools/zh/privacy_policy-ipportal.html&quot;
+}]">
+<div style="height: 48px; width: 100%"></div>
+</wipo-navbar></nav></header>
+<!--SEO links -->
+<div id="wipo-seo-links" class="hide"></div>	
+<div class="d-flex flex-column flex-fill position-relative" id="wrapper">
+	<section class=" flex-fill" id="content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="layout-content portlet-layout" id="main-content" role="main">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style data-senna-track="temporary" type="text/css">
+.portlet-borderless .portlet-content {padding: 0;}</style>
+
+
+
+
+	
+
+	
+
+	<div class="lfr-layout-structure-item-e0bc1026-f859-93a9-bc87-6a577e35d3d0 lfr-layout-structure-item-container ulf-section container-fluid container-fluid-max-xl" style="">
+ <div class="lfr-layout-structure-item-block-id-include--copy- lfr-layout-structure-item-e87f1779-ba35-b7a5-ddb3-0e34891b87a9 " style="">
+  <div id="fragment-ffcb64fd-a863-666d-07ac-b13852640e92">
+   <div class="row row-heading" id="1">
+    <div class="col-md-9">
+     <div>
+      <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-0aecc2ee-0668-776e-7aa5-b85d4159ae6b " style="">
+       <div id="fragment-1abe1d11-cbec-e2b7-e658-df20d2ed3a95">
+        <h1 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">基于人工智能（AI）的知识产权数据分类</h1>
+       </div>
+       <style>.fragment-heading-text-colored a {
+	color: inherit;
+}</style>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="lfr-layout-structure-item-45bea559-d59a-596f-be6c-c2ecd1cdcf02 lfr-layout-structure-item-row " style="">
+  <div class="row align-items-lg-start align-items-sm-start align-items-start align-items-md-start flex-lg-row flex-sm-row flex-row flex-md-row">
+   <div class="col col-lg-8 col-sm-12 col-12 col-md-8">
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-cc0708a2-e958-4efa-dd41-3ac8de80ce93 " style="">
+     <div id="fragment-9d670835-bad0-3caa-5060-2d9bbf706da0">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       <span class="lead">知识产权<a data-senna-off="true" href="https://www.wipo.int/classifications/zh/">分类</a>是公司、发明人和研发机构得以进行可靠的知识产权检索和管理其知识产权组合的重要工具。知识产权分类也是政府必不可少的知识产权行政管理工具，在专利局等不同利益攸关方之间的互操作性和交流中发挥着重要作用。</span>
+      </div>
+     </div>
+     <style>.component-paragraph img {
+	max-width: 100%;
+}</style>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-button lfr-layout-structure-item-1e3940d9-89e3-2c82-4940-ac8d15a8c9aa " style="">
+     <div id="fragment-a6e9d45d-806d-d66f-29d1-cfd9f0eb51e2">
+      <div class="component-button text-break"><a class="btn btn-nm btn-secondary" data-lfr-editable-id="link" data-lfr-editable-type="link" href="https://vienna-assistant.branddb.wipo.int/" id="fragment-wuzp-link" target="_blank">阅读分类常问问题</a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="col col-lg-4 col-sm-12 col-12 col-md-4">
+    <div class="lfr-layout-structure-item-card-w-top-image-u--copy- lfr-layout-structure-item-88232e25-a038-cb99-c09f-0db74684d238 " style="">
+     <div id="fragment-ff48e822-a922-3f36-084a-6dd611d605a1">
+      <div class="card feature-highlight-card">
+       <div class="card-body">
+        <h2 class="card-title" data-lfr-editable-id="card-title" data-lfr-editable-type="text">快速链接</h2>
+        <div>
+         <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-05bac872-dd0c-4108-9066-e76a47432496 " style="">
+          <div id="fragment-50636d63-e943-6cbb-c576-9ca4f048a4dd">
+           <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+            <ul>
+             <li><a href="#tool">IPC专利分类工具</a></li>
+             <li><a href="#assistant">商标用维也纳分类助手</a></li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="lfr-layout-structure-item-a08dedb9-1144-c69a-025d-c7b4217bee14 lfr-layout-structure-item-container ulf-section ulf-line container-fluid container-fluid-max-xl" style="">
+ <div class="lfr-layout-structure-item-9bfb53c4-d280-c1b0-5b51-f0d9d0dcf39c lfr-layout-structure-item-row " style="">
+  <div class="row align-items-lg-start align-items-sm-start align-items-start align-items-md-start flex-lg-row flex-sm-row flex-row flex-md-row">
+   <div class="col col-lg-8 col-sm-12 col-12 col-md-8">
+    <div class="lfr-layout-structure-item-block-id-include--copy- lfr-layout-structure-item-7e75bfff-5e36-6468-0696-794e22f68895 " style="">
+     <div id="fragment-8324a95e-baf6-f2b7-6866-8346c339a075">
+      <div class="row row-heading" id="1">
+       <div class="col-md-9">
+        <div>
+         <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-75060294-7cab-09f5-fbca-0440036c4682 " style="">
+          <div id="fragment-6fd0249b-8647-5d1c-d7ee-b2123978e9bc">
+           <h2 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">用人工智能对专利和商标进行分类</h2>
+          </div>
+          <style>.fragment-heading-text-colored a {
+	color: inherit;
+}</style>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-23a9e24f-aa1b-be20-6fb2-3b3d6415400d " style="">
+     <div id="fragment-bcdcceb2-ec72-e0c7-876a-8c8a8fed42f9">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       行业专家传统上对知识产权资料进行人工分类。然而，在“大数据”时代，分类的层次结构非常复杂（包含数千个类别），分类已经成为一项非常耗时的工作。因此，需要有<strong>可靠、快速、可扩展的方</strong>法和算法来帮助专家们完成知识产权分类任务。
+      </div>
+     </div>
+     <style>.component-paragraph img {
+	max-width: 100%;
+}</style>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-e781fb9c-d493-e8d7-4357-b4904e5f92c3 " style="">
+     <div id="fragment-502af097-0f1f-c58c-d85e-28fa6c44cbb8">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       分类后的专利和商标代表大量的数据，其中涉及大量的人工干预。这是机器学习中训练算法的理想用例。所有可得的经人类专家分类的专利和商标都可以用来训练机器学习分类标准。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-cf79419d-86e8-e123-f111-84ed70778159 " style="">
+     <div id="fragment-909f88cb-fe44-2aa5-3a9d-869235e03f4c">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       自动化辅助分类是一项非常有益的帮助，因为材料量很大，而且需要特定领域的知识来完成这一成本高昂的人工任务。
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="col col-lg-4 col-sm-12 col-12 col-md-4"></div>
+  </div>
+ </div>
+ <div class="lfr-layout-structure-item-ca8e44c1-9217-c49e-78c5-8f50c794745a lfr-layout-structure-item-row ulf-section" style="">
+  <div class="row align-items-lg-start align-items-sm-start align-items-start align-items-md-start flex-lg-row flex-sm-row flex-row flex-md-row">
+   <div class="col col-lg-8 col-sm-12 col-12 col-md-8">
+    <div class="lfr-layout-structure-item-block-id-include--copy- lfr-layout-structure-item-647b4c34-8646-8f5f-773d-ef0b702cd1e5 " style="">
+     <div id="fragment-ad9b00a1-2edd-b312-47fb-3684f3612e13">
+      <div class="row row-heading" id="tool">
+       <div class="col-md-9">
+        <div>
+         <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-2fa494d8-690a-4b3d-225b-08f94c9ac7aa " style="">
+          <div id="fragment-15ae5a6c-f6de-1714-446a-30f6e51cbee3">
+           <h3 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">IPC专利分类工具</h3>
+          </div>
+          <style>.fragment-heading-text-colored a {
+	color: inherit;
+}</style>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-a8c2ccd8-73ce-877f-708c-65f1998614c1 " style="">
+     <div id="fragment-6c58911c-4500-ad01-6f85-356bbdfcce61">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       基于人工智能的<a data-senna-off="true" href="https://www.wipo.int/classifications/ipc/zh/">IPC</a>分类工具（IPCCAT—IPC计算机辅助分类系统）使用户只需输入一个文本，就将根据IPC自动分类。
+      </div>
+     </div>
+     <style>.component-paragraph img {
+	max-width: 100%;
+}</style>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-a9a3e4dc-c8f2-165e-1b1c-d9a08356395b " style="">
+     <div id="fragment-dc9f05a2-cff0-42fb-1cfd-412b990231de">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       它可以作为一项网络服务，或通过<a href="https://ipcpub.wipo.int/" rel="noopener" target="_blank">IPC公布平台（IPCPUB）</a>的“检索功能”公开提供。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-45bf5aac-242e-8265-cc4f-0f2748327316 " style="">
+     <div id="fragment-0caee52a-2402-47e5-a4a4-6507fd5e6e30">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       通过添加一个文本，例如发明的摘录，用户就可以得到与该文本所包含的技术领域最有可能匹配的预测的IPC号，并标明了预测的可信度。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-7edf8692-ca0c-efcc-fa73-09a92aa88c76 " style="">
+     <div id="fragment-e26956b0-4a02-002c-5ecb-fafde2c9e61c">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       IPCCAT可以提供大类、小类、大组或小组级别的IPC号预测。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-2d8189a5-327d-ef01-aebb-affbfe54dbcd " style="">
+     <div id="fragment-59a1ce87-ca9e-e4cb-022e-b1ec87b93b26">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       除英文外，IPCCAT还可以通过WIPO Translate服务以下列语言进行自动翻译，提供跨语言文本分类：
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-86b99046-2d44-6f42-74e7-2f271da32e0c lfr-layout-structure-item-row " style="">
+     <div class="row align-items-lg-start align-items-sm-start align-items-start align-items-md-start flex-lg-row flex-sm-row flex-row flex-md-row">
+      <div class="col col-lg-6 col-sm-12 col-12 col-md-6">
+       <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-525c8b46-89af-406e-7c03-733bb70a4a00 " style="">
+        <div id="fragment-3b179143-b6ed-c023-f98a-f0cea2d41c40">
+         <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+          <ul>
+           <li>ar：阿拉伯文，</li>
+           <li>de：德文，</li>
+           <li>es：西班牙文，</li>
+           <li>fr：法文（IPC的另一种作准语文），</li>
+           <li>ko：韩文，</li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col col-lg-6 col-sm-12 col-12 col-md-6">
+       <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-009615be-2e3b-a495-6639-1b841b201084 " style="">
+        <div id="fragment-1e75e95b-a4b4-8d3b-8abe-fa5ee9b6210f">
+         <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+          <ul>
+           <li>ja：日文，</li>
+           <li>pt：葡萄牙文，</li>
+           <li>ru：俄文，</li>
+           <li>zh：中文。</li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-f7faf33c-8b3e-4149-c970-c86128997c5c " style="">
+     <div id="fragment-ed9ae74d-3f39-8760-97f2-d7da33bfab29">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       用户随之有可能以不同语言浏览与对应的IPC号相关的上下文信息，并访问专利数据库或其他专利分类方案。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-button lfr-layout-structure-item-375f244e-279d-0d2e-8f07-ef11766616e6 " style="">
+     <div id="fragment-f445e8a9-5a2c-1316-0391-e629702c862d">
+      <div class="component-button text-break"><a class="btn btn-nm btn-primary" data-lfr-editable-id="link" data-lfr-editable-type="link" href="https://ipcpub.wipo.int/" id="fragment-dajt-link" target="_blank">访问IPCCAT</a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="col col-lg-4 col-sm-12 col-12 col-md-4">
+    <div class="lfr-layout-structure-item-card-modal-video-u lfr-layout-structure-item-85bcf63c-f77b-e325-5446-e3eb91d51c5b " style="">
+     <div id="fragment-53ad83bd-9917-1f00-ab75-1ad78c02f497">
+      <div class="card card-ver-no-bg">
+       <figure class="figure"><a href="#" data-toggle="modal" data-target="#Modal-kmen">
+         <div class="video-cover"><img alt="Image" src="/documents/d/ai-tools-services/images-ai-fievet-960.jpg" class="card-img-top" data-lfr-editable-id="card-image" data-lfr-editable-type="image">
+          <div class="video-play-icon"><span class="material-symbols-outlined">play_circle</span>
+          </div>
+         </div> </a>
+       </figure>
+       <div class="card-body">
+        <div>
+         <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-48a695aa-efbe-1e6e-ec59-e33e7695b31d " style="">
+          <div id="fragment-a3fdd555-d07a-1b8b-7503-ab9730caccd6">
+           <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+            <p>IPCCAT帮助专利申请人和知识产权局审查员依照<a data-senna-off="true" href="https://www.wipo.int/classifications/ipc/zh/">国际专利分类（IPC</a>）大类、小类、大组或小组，把专利申请自动分类，归入相应技术部门。</p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div> <!--Modal-->
+      <div class="modal fade" id="Modal-kmen" style="display:none" tabindex="-1" aria-labelledby="" aria-hidden="true" data-backdrop="static" role="dialog">
+       <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+         <div class="modal-header">
+          <h4 class="modal-title" id=""></h4> <button type="button" class="close btn-secondary" data-dismiss="modal" aria-label="Close"> <span class="material-symbols-outlined">close</span> </button>
+         </div>
+         <div class="modal-body bg-gray-10">
+          <video id="VideoItem-kmen" width="100%" controls="" crossorigin="anonymous"><source src="https://multimedia.wipo.int/wipo/en/about-ip/ai_fievet_18062018.mp4" type="video/mp4">
+          </video>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <script>(function() {const configuration = {"cardImage":"","videoSource":"https://multimedia.wipo.int/wipo/en/about-ip/ai_fievet_18062018.mp4","subtitleSource":"","cardStyle":"card-ver-no-bg","headingLevel":"h2","showHeading":"no"}; const fragmentElement = document.querySelector('#fragment-53ad83bd-9917-1f00-ab75-1ad78c02f497'); const fragmentEntryLinkNamespace = 'kmen'; const fragmentNamespace = 'kmen'; const layoutMode = 'view';$("#Modal-"+fragmentEntryLinkNamespace).on('shown.bs.modal', function () {
+	console.log("shown event fired");
+  $('#VideoItem-'+fragmentEntryLinkNamespace).get(0).play();
+});
+
+$("#Modal-"+fragmentEntryLinkNamespace).on('hide.bs.modal', function () {
+	console.log("hide event fired");
+  $('#VideoItem-'+fragmentEntryLinkNamespace).get(0).pause();
+});}());</script>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="lfr-layout-structure-item-acd7a723-0fa5-ee6c-1bd7-856229152a5a lfr-layout-structure-item-row " style="">
+  <div class="row align-items-lg-start align-items-sm-start align-items-start align-items-md-start flex-lg-row flex-sm-row flex-row flex-md-row">
+   <div class="col col-lg-8 col-sm-12 col-12 col-md-8">
+    <div class="lfr-layout-structure-item-block-id-include--copy- lfr-layout-structure-item-decf7392-e653-30ee-fc42-76bf01e5a557 " style="">
+     <div id="fragment-910a6208-24d9-8540-95a0-520765422acd">
+      <div class="row row-heading" id="assistant">
+       <div class="col-md-9">
+        <div>
+         <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-1c5326e7-8fba-4cd9-61cd-0911e19c5858 " style="">
+          <div id="fragment-0080a34c-07f5-30cb-e530-b38b3ae897fe">
+           <h3 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">商标用维也纳分类助手</h3>
+          </div>
+          <style>.fragment-heading-text-colored a {
+	color: inherit;
+}</style>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-c6094646-fda7-6e3f-5011-160c53176708 " style="">
+     <div id="fragment-2caff872-fd01-39d3-9391-7ce35298a4e3">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       这款基于人工智能的工具可以帮助用户更容易地根据<a data-senna-off="true" href="https://www.wipo.int/classifications/vienna/zh/">维也纳分类</a>对商标图形进行分类。
+      </div>
+     </div>
+     <style>.component-paragraph img {
+	max-width: 100%;
+}</style>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-7d976ad4-f117-7821-6fec-06e6f69c4378 " style="">
+     <div id="fragment-971c7f6f-8b42-faed-b683-7f107c405a27">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       用户只需将图形拖入维也纳分类助手，就会经历若干筛选步骤：首先，将显示出29个主要类别，其中相关类别高亮显示，并给出相关性评分（*****）。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-5d7882fd-71bb-35b8-9717-35f99d20b5a5 " style="">
+     <div id="fragment-dda0a5f0-d85a-3b3e-af48-6e2eb85d1283">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       然后，用户可以选择推荐选项或其他选项。如果选择的是备用部分，该工具将会提醒用户，至少要选择一个主要部分。之后，便根据维也纳分类对图形进行分类。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-802a5517-3fca-0c8c-f1c0-a7d5eacc5a3c " style="">
+     <div id="fragment-10bb6520-a4ed-acbc-d9ff-d7b5e9fa53d7">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       维也纳分类助手不仅显著提高了不同人类分类标准之间的分类一致性，为每个图形提供了更全面的分类，而且对于新的分类标准来说也是一个很好的训练工具。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-button lfr-layout-structure-item-f5b1b3b5-5d80-6510-5172-be1d63dae18b " style="">
+     <div id="fragment-b0228acd-fa6a-398f-04a2-8ae1d0d3cabe">
+      <div class="component-button text-break"><a class="btn btn-nm btn-primary" data-lfr-editable-id="link" data-lfr-editable-type="link" href="https://vienna-assistant.branddb.wipo.int/" id="fragment-umek-link" target="_blank">访问维也纳分类助手</a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="col col-lg-4 col-sm-12 col-12 col-md-4">
+    <div class="lfr-layout-structure-item-card-w-top-image-u--copy- lfr-layout-structure-item-ea47c307-2d36-d2f2-a103-99beabcd8841 " style="">
+     <div id="fragment-a2aa2898-0a94-8d77-1616-c2ac1adb0ae3">
+      <div class="card feature-highlight-card">
+       <div class="card-body">
+        <h2 class="card-title" data-lfr-editable-id="card-title" data-lfr-editable-type="text"><a target="_blank" href="https://www3.wipo.int/bnd-api/vienna-classification-assistant/videos">更多视频</a></h2>
+        <div>
+         <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-b09979a6-2867-1f96-b20c-0d85ded3a7bd " style="">
+          <div id="fragment-8e17b915-eec2-021f-cc3e-68bbd5486d4b">
+           <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+            分类助手的快速入门。拖入您的第一个图形，开始尝试。
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+<div class="lfr-layout-structure-item-f40703ce-275b-1501-195e-95ec36eb5310 lfr-layout-structure-item-container ulf-section ulf-line container-fluid container-fluid-max-xl" style="">
+ <div class="lfr-layout-structure-item-block-id-include--copy- lfr-layout-structure-item-992e668d-45bb-5214-f703-0d736c1b3acb " style="">
+  <div id="fragment-f34a9d99-9d44-0ffb-8500-7dc9a22f1f99">
+   <div class="row row-heading" id="1">
+    <div class="col-md-9">
+     <div>
+      <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-15168f92-dda0-12d3-7b00-fe10ef168d47 " style="">
+       <div id="fragment-bf084fec-1f0e-3048-a18f-14ecd25befc8">
+        <h2 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">全球商品和服务浏览器</h2>
+       </div>
+       <style>.fragment-heading-text-colored a {
+	color: inherit;
+}</style>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="lfr-layout-structure-item-f3c272be-6762-2f21-e273-e3772c24a55e lfr-layout-structure-item-row " style="">
+  <div class="row align-items-lg-start align-items-sm-start align-items-start align-items-md-start flex-lg-row flex-sm-row flex-row flex-md-row">
+   <div class="col col-lg-8 col-sm-12 col-12 col-md-8">
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-55c39ea1-5cd8-cd81-f587-5437e0043fd5 " style="">
+     <div id="fragment-c6e2ace6-d2ca-e989-f65c-0a2c2729d708">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       <p>该工具旨在帮助商标申请人在申请过程中以不同语言选择适当的商品和服务词条及其相关尼斯分类。该工具还为知识产权局的商标审查员审定商标申请人提供支持。</p>
+      </div>
+     </div>
+     <style>.component-paragraph img {
+	max-width: 100%;
+}</style>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-paragraph lfr-layout-structure-item-db0ea2c5-4c70-3135-9d86-c29f916bc593 " style="">
+     <div id="fragment-0658d2d9-c764-6b98-2681-99bafc9f229c">
+      <div class="clearfix component-paragraph text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="rich-text">
+       该工具以从全球品牌数据库主要商标库计算的统计数字为基础，以图形方式显示词条的历史接受程度、出现这些词条的商标数量以及接受这些词条的知识产权局。该工具的检索功能之一是由人工智能驱动的语义检索。全球商品和服务浏览器利用神经网络对词条进行分析，并在相同语言和其他支持语言中找到最接近的词条。
+      </div>
+     </div>
+    </div>
+    <div class="lfr-layout-structure-item-basic-component-button lfr-layout-structure-item-40ba9ebe-db7f-a97f-9e4d-3a3399006629 " style="">
+     <div id="fragment-4d33e63c-468f-8d16-3640-d60f9b239a29">
+      <div class="component-button text-break"><a class="btn btn-nm btn-primary" data-lfr-editable-id="link" data-lfr-editable-type="link" href="https://gs-terms-explorer.branddb.wipo.int/" id="fragment-ekgs-link" target="_blank">访问全球商品和服务词条浏览器</a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="col col-lg-4 col-sm-12 col-12 col-md-4"></div>
+  </div>
+ </div>
+</div>
+<div class="lfr-layout-structure-item-e96054bc-7aa9-07a5-9b63-b863a6ccaf45 lfr-layout-structure-item-container bg-gray-9" style="">
+ <div class="lfr-layout-structure-item-30f793c5-7728-8949-054f-cd923fd86270 lfr-layout-structure-item-container ulf-section container-fluid container-fluid-max-xl" style="">
+  <div class="lfr-layout-structure-item-block-id-include--copy- lfr-layout-structure-item-fe740137-9951-3ec7-937c-1ac812258978 " style="">
+   <div id="fragment-ac33786f-5a6d-0941-07a2-5987d68c5f7e">
+    <div class="row row-heading" id="1">
+     <div class="col-md-9">
+      <div>
+       <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-42f41d3a-4d40-5628-1f3a-dba09c280d79 " style="">
+        <div id="fragment-3e02b999-b1db-927a-5f13-64a20cc3b332">
+         <h2 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">相关链接</h2>
+        </div>
+        <style>.fragment-heading-text-colored a {
+	color: inherit;
+}</style>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="lfr-layout-structure-item-e76dc114-863d-b9eb-5247-615b1ded4e6e lfr-layout-structure-item-row " style="">
+   <div class="row align-items-lg-start align-items-sm-start align-items-start align-items-md-start flex-lg-row flex-sm-row flex-row flex-md-row">
+    <div class="col col-lg-4 col-sm-12 col-12 col-md-4">
+     <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-4713a484-fab9-9c72-fe45-9b9c102c8bcf " style="">
+      <div id="fragment-62a2ca04-24e0-304b-6ec1-05db91f8e33c">
+       <h3 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">关于知识产权</h3>
+      </div>
+     </div>
+     <div class="lfr-layout-structure-item-list-paragraph--copy- lfr-layout-structure-item-deb71620-7d32-9fb9-da59-2c8864c2067e " style="">
+      <div id="fragment-590c3aa6-b6fd-7bac-2daf-6f8418dd0b51">
+       <ul class="text-decoration-none dividers">
+        <li data-lfr-editable-id="element-li_1" data-lfr-editable-type="rich-text"><a data-senna-off="true" href="https://www.wipo.int/patents/zh/">专利</a></li>
+        <li data-lfr-editable-id="element-li_2" data-lfr-editable-type="rich-text"><a data-senna-off="true" href="https://www.wipo.int/trademarks/zh/">商标</a></li>
+        <li data-lfr-editable-id="element-li_3" data-lfr-editable-type="rich-text"><a data-senna-off="true" href="https://www.wipo.int/about-ip/zh/artificial_intelligence/">人工智能与知识产权</a></li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="col col-lg-4 col-sm-12 col-12 col-md-4">
+     <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-5f5d0533-4587-b6eb-e8d6-cbf7a8eeb385 " style="">
+      <div id="fragment-11966bd6-9471-5c7a-3ab5-f0b1da55bda8">
+       <h3 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">分类</h3>
+      </div>
+     </div>
+     <div class="lfr-layout-structure-item-list-paragraph--copy- lfr-layout-structure-item-77de1c96-4543-353f-d2ca-45f838971874 " style="">
+      <div id="fragment-f7eda50d-e8a4-5a6d-97f5-48a9e4be5af8">
+       <ul class="text-decoration-none dividers">
+        <li data-lfr-editable-id="element-li_1" data-lfr-editable-type="rich-text"><a data-senna-off="true" href="https://www.wipo.int/classifications/ipc/zh/">国际专利分类（IPC）</a></li>
+        <li data-lfr-editable-id="element-li_2" data-lfr-editable-type="rich-text"><a data-senna-off="true" href="https://www.wipo.int/classifications/nivilo/vienna/index.htm?lang=EN" target="_blank">维也纳分类</a></li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="col col-lg-4 col-sm-12 col-12 col-md-4">
+     <div class="lfr-layout-structure-item-basic-component-heading lfr-layout-structure-item-ce91f220-6ea8-cb94-ad50-19bb5573b2c9 " style="">
+      <div id="fragment-b5ddd9fe-e37d-6ca5-6f84-1d7028f3bfd7">
+       <h3 class="component-heading mb-0 text-break" data-lfr-editable-id="element-text" data-lfr-editable-type="text">知识产权数据库</h3>
+      </div>
+     </div>
+     <div class="lfr-layout-structure-item-list-paragraph--copy- lfr-layout-structure-item-11b50422-f5b7-d260-ecf6-34ea3f208352 " style="">
+      <div id="fragment-ff20b0ed-7522-5de6-6512-5248388edc3b">
+       <ul class="text-decoration-none dividers">
+        <li data-lfr-editable-id="element-li_1" data-lfr-editable-type="rich-text"><a data-senna-off="true" href="https://www.wipo.int/patentscope/zh/">PATENTSCOPE</a></li>
+        <li data-lfr-editable-id="element-li_2" data-lfr-editable-type="rich-text"><a data-senna-off="true" href="https://www.wipo.int/reference/zh/branddb/">全球品牌数据库</a></li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+
+
+		</div>
+	
+
+
+<form action="#" aria-hidden="true" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><button hidden="" type="submit">隐藏的</button></form>
+
+	
+	</section>
+</div>
+<div class="container-footer-outer">
+<div class="container-fluid container-fluid-max-xl">
+<wipo-footer id="footer">
+<span slot="contact">https://www3.wipo.int/contact/zh/area.jsp?area=ai</span>
+<span slot="media">https://www.wipo.int/pressroom/zh/</span>
+<span slot="terms">https://www.wipo.int/tools/zh/disclaim.html</span>
+<span slot="privacy">https://www.wipo.int/zh/web/privacy-policy</span>
+<span slot="accessibility">https://www.wipo.int/zh/web/accessibility</span>
+<span slot="sitemap">https://www.wipo.int/tools/zh/sitemap.html</span>
+<span slot="newsletters">https://www3.wipo.int/newsletters/zh/</span>
+<span slot="podcast">https://www.wipo.int/zh/web/podcasts</span>
+<span slot="rss-feed">https://www.wipo.int/news/zh/</span>
+</wipo-footer>
+</div>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+
+</script><script>
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2fzh\x2fweb\x2fai-tools-services\x2fclassification-assistant';
+		Liferay.currentURLEncoded = '\x252Fzh\x252Fweb\x252Fai-tools-services\x252Fclassification-assistant';
+
+	// ]]>
+</script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+				
+
+				
+
+				
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function () {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function (event) {
+		if (window.Analytics) {
+			const eventProperties = {
+				className: event.className,
+				classPK: event.classPK,
+				commentId: event.commentId,
+				text: event.text,
+			};
+
+			const blogNode = document.querySelector(
+				'[data-analytics-asset-id="' + event.classPK + '"]'
+			);
+
+			const dmNode = document.querySelector(
+				'[data-analytics-file-entry-id="' + event.classPK + '"]'
+			);
+
+			if (blogNode) {
+				eventProperties.title = blogNode.dataset.analyticsAssetTitle;
+			}
+			else if (dmNode) {
+				eventProperties.title = dmNode.dataset.analyticsFileEntryTitle;
+			}
+
+			Analytics.send('posted', 'Comment', eventProperties);
+		}
+	};
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function (event) {
+		if (window.Analytics) {
+			let title = event.contentTitle;
+
+			if (!title) {
+				const dmNode = document.querySelector(
+					'[data-analytics-file-entry-id="' + event.classPK + '"]'
+				);
+
+				if (dmNode) {
+					title = dmNode.dataset.analyticsFileEntryTitle;
+				}
+			}
+
+			Analytics.send('VOTE', 'Ratings', {
+				className: event.className,
+				classPK: event.classPK,
+				ratingType: event.ratingType,
+				score: event.score,
+				title,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+
+	function getValueByAttribute(node, attr) {
+		return (
+			node.dataset[attr] ||
+			(node.parentElement && node.parentElement.dataset[attr])
+		);
+	}
+
+	function sendAnalyticsEvent(anchor) {
+		var fileEntryId = getValueByAttribute(anchor, 'analyticsFileEntryId');
+		var title = getValueByAttribute(anchor, 'analyticsFileEntryTitle');
+		var version = getValueByAttribute(anchor, 'analyticsFileEntryVersion');
+
+		if (fileEntryId) {
+			Analytics.send('documentDownloaded', 'Document', {
+				groupId: themeDisplay.getScopeGroupId(),
+				fileEntryId,
+				preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+				title,
+				version,
+			});
+		}
+	}
+
+	function handleDownloadClick(event) {
+		if (window.Analytics) {
+			if (event.target.nodeName.toLowerCase() === 'a') {
+				sendAnalyticsEvent(event.target);
+			}
+			else if (
+				event.target.parentNode &&
+				event.target.parentNode.nodeName.toLowerCase() === 'a'
+			) {
+				sendAnalyticsEvent(event.target.parentNode);
+			}
+			else {
+				var target = event.target;
+				var matchTitle =
+					target.title && target.title.toLowerCase() === 'download';
+				var matchAction = target.action === 'download';
+				var matchLexiconIcon = !!target.querySelector(
+					'.lexicon-icon-download'
+				);
+				var matchLexiconClassName = target.classList.contains(
+					'lexicon-icon-download'
+				);
+				var matchParentTitle =
+					target.parentNode &&
+					target.parentNode.title &&
+					target.parentNode.title.toLowerCase() === 'download';
+				var matchParentLexiconClassName =
+					target.parentNode &&
+					target.parentNode.classList.contains('lexicon-icon-download');
+
+				if (
+					matchTitle ||
+					matchParentTitle ||
+					matchAction ||
+					matchLexiconIcon ||
+					matchLexiconClassName ||
+					matchParentLexiconClassName
+				) {
+					var selectedFiles = document.querySelectorAll(
+						'.form .custom-control-input:checked'
+					);
+
+					selectedFiles.forEach(({value}) => {
+						var selectedFile = document.querySelector(
+							'[data-analytics-file-entry-id="' + value + '"]'
+						);
+
+						sendAnalyticsEvent(selectedFile);
+					});
+				}
+			}
+		}
+	}
+
+	Liferay.once('destroyPortlet', () => {
+		document.body.removeEventListener('click', handleDownloadClick);
+	});
+
+	Liferay.once('portletReady', () => {
+		document.body.addEventListener('click', handleDownloadClick);
+	});
+
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function (data) {
+		if (window.Analytics) {
+			Analytics.send('shared', 'SocialBookmarks', {
+				className: data.className,
+				classPK: data.classPK,
+				type: data.type,
+				url: data.url,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	function showDialog(uri, title) {
+		Liferay.Util.openModal({
+			id: 'sharingDialog',
+			iframeBodyCssClass: 'sharing-dialog',
+			height: '475px',
+			size: 'md',
+			title: title,
+			url: uri,
+		});
+	}
+
+	var Sharing = {
+		manageCollaborators: function (classNameId, classPK) {
+			var manageCollaboratorsParameters = {
+				classNameId: classNameId,
+				classPK: classPK,
+			};
+
+			var manageCollaboratorsURL = Liferay.Util.PortletURL.createPortletURL(
+				'https://www.wipo.int/zh/group/ai-tools-services/~/control_panel/manage?p_p_id=com_liferay_sharing_web_portlet_ManageCollaboratorsPortlet&p_p_lifecycle=0&p_p_state=pop_up&p_p_auth=DGfwfKPN',
+				manageCollaboratorsParameters
+			);
+
+			showDialog(
+				manageCollaboratorsURL.toString(),
+				'管理协作者'
+			);
+		},
+
+		share: function (classNameId, classPK, title) {
+			var sharingParameters = {
+				classNameId: classNameId,
+				classPK: classPK,
+			};
+
+			var sharingURL = Liferay.Util.PortletURL.createPortletURL(
+				'https://www.wipo.int/zh/group/ai-tools-services/~/control_panel/manage?p_p_id=com_liferay_sharing_web_portlet_SharingPortlet&p_p_lifecycle=0&p_p_state=pop_up&p_p_auth=TVUVH4kQ',
+				sharingParameters
+			);
+
+			showDialog(sharingURL.toString(), title);
+		},
+	};
+
+	Liferay.Sharing = Sharing;
+})();
+
+	if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+
+</script><script>
+Liferay.Loader.require(
+'layout-taglib@16.0.1/render_layout_structure/js/InfoItemActionHandler',
+'frontend-js-web/index',
+function(InfoItemActionHandler, frontendJsWeb) {
+try {
+AUI().use(
+  'liferay-menu',
+function(A) {
+(function() {
+Liferay.component('infoItemActionComponent', new InfoItemActionHandler.default({"executeInfoItemActionURL":"https:\/\/www.wipo.int\/zh\/c\/portal\/execute_info_item_action?p_l_mode=view&plid=1429","namespace":"","spritemap":"https:\/\/cdn.webcms.wipo.int\/o\/wipo-universal-theme\/images\/clay\/icons.svg"}), { destroyOnNavigate: true, portletId: ''});
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	var {delegate} = frontendJsWeb;
+
+	delegate(
+		document,
+		'focusin',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.add('open');
+		}
+	);
+
+	delegate(
+		document,
+		'focusout',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.remove('open');
+		}
+	);
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 0; i < liferayNotices.length; i++) {
+		Liferay.Util.openToast(liferayNotices[i]);
+	}
+
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+		var {openToast} = frontendJsWeb;
+
+		AUI().use(
+			'liferay-session',
+			function() {
+				Liferay.Session = new Liferay.SessionBase(
+					{
+						autoExtend: true,
+						redirectOnExpire: false,
+						redirectUrl: 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fweb\x2fguest',
+						sessionLength: 600,
+						sessionTimeoutOffset: 130,
+						warningLength: 60
+					}
+				);
+
+				
+			}
+		);
+	
+})();
+});
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=zh_CN&amp;t=1730310600000" type="text/javascript"></script>
+
+
+
+
+<script>
+Liferay.Loader.require(
+'frontend-js-alert-support-web@2.0.13/index',
+function(AlertProvider) {
+try {
+(function() {
+AlertProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-tooltip-support-web@4.0.22/index',
+function(TooltipSupport) {
+try {
+(function() {
+TooltipSupport.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-tabs-support-web@2.0.15/index',
+function(TabsProvider) {
+try {
+(function() {
+TabsProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-collapse-support-web@2.0.17/index',
+function(CollapseProvider) {
+try {
+(function() {
+CollapseProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-dropdown-support-web@2.0.14/index',
+function(DropdownProvider) {
+try {
+(function() {
+DropdownProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script type="text/javascript">
+Liferay.CustomDialogs = {enabled: false};
+
+</script><script>
+
+</script><!--<script src="https://cdnjs.wipo.int/npm/jquery/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>-->
+<script src="https://cdnjs.wipo.int/npm/popper.js@1.16.0/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.wipo.int/npm/bootstrap@4.4.1/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdn.webcms.wipo.int/o/wipo-universal-theme/js/universal.js"></script>
+
+
+		
+	
+
+<script type="text/javascript">
+window.MatomoTagManager.customHtmlDataStore[0](window.MatomoTagManager.customHtmlDataStore[1]);
+window.MatomoTagManager.customHtmlDataStore[2]();
+window.MatomoTagManager.customHtmlDataStore[3]();
+</script><script type="text/javascript">
+window.MatomoTagManager.customHtmlDataStore[4]["init"](window.MatomoTagManager.customHtmlDataStore[5]);
+window.MatomoTagManager.customHtmlDataStore[6]["initNavbarAnalytics"]();
+</script><script type="text/javascript">
+window.MatomoTagManager.customHtmlDataStore[7](window.MatomoTagManager.customHtmlDataStore[8]);
+</script></body></html>

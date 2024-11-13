@@ -1,0 +1,29 @@
+Server: CloudFront
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 13 Nov 2024 08:02:55 GMT
+Set-Cookie: AWSALB=YQOKZgz47AUwepKvf825oLEiRCyLymc+r6T6FGxsc/99ZAAhsWWL0i0DjAbftGhEJEvJf4BdriFm/chHGT5yjfDMh3cS0rN89dXqnMrK0l+QSFBNcu14/Lh7zmAX; Expires=Wed, 20 Nov 2024 08:02:55 GMT; Path=/
+Set-Cookie: AWSALBCORS=YQOKZgz47AUwepKvf825oLEiRCyLymc+r6T6FGxsc/99ZAAhsWWL0i0DjAbftGhEJEvJf4BdriFm/chHGT5yjfDMh3cS0rN89dXqnMrK0l+QSFBNcu14/Lh7zmAX; Expires=Wed, 20 Nov 2024 08:02:55 GMT; Path=/; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Auth-Group-Type: y-anoy
+Cache-Control: max-age=0, no-cache, no-store
+X-Drupal-Dynamic-Cache: UNCACHEABLE
+Link: <https://www.zaobao.com.sg/news/china/story20240707-4074279?amp> rel="amphtml"
+X-Ua-Compatible: IE=edge
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Etag: W/"1731484975"
+X-Oag-Host: 74916d740a23796815afae8dbd0e2bb47f6a7023df1f0ef35d3e61f1aab17b96
+P3P: CP=HONK
+Content-Encoding: gzip
+Vary: Cookie,Accept-Encoding
+Vary: Origin
+X-Cache: Miss from cloudfront
+Via: 1.1 c106f05f2975ff09883b7e0cd3024cee.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SIN2-P7
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 0zkHRPjh9KXazZzfr73_MEk8Ou59D87BjvlSNM3lyR1Ze5oNrj0ruA==
+Referrer-Policy: strict-origin-when-cross-origin
+Server-Timing: cdn-upstream-layer;desc="REC",cdn-upstream-dns;dur=0,cdn-upstream-connect;dur=2,cdn-upstream-fbl;dur=856,cdn-cache-miss,cdn-pop;desc="SIN2-P7",cdn-rid;desc="0zkHRPjh9KXazZzfr73_MEk8Ou59D87BjvlSNM3lyR1Ze5oNrj0ruA==",cdn-downstream-fbl;dur=883

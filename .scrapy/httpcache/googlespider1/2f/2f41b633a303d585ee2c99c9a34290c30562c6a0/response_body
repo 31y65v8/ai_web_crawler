@@ -1,0 +1,550 @@
+<!DOCTYPE html><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no,email=no,adress=no">
+    <title>AI视频｜人工智能行业快“没电”了？背后可能没那么简单</title>
+    <link rel="stylesheet" href="/wxShare/css/wx_newsdetail.css?ver=20200819">
+    <script src="https://hm.baidu.com/hm.js?bc9cd710bb72814c83b46b075c6cb3bc"></script><script type="text/javascript" src="/js/jquery/1.8.3/jquery.min.js"></script>
+</head>
+
+<body style="width: 640px; margin: 0px auto;">
+<div style="display:none">
+	<img src="https://images.shobserver.com/images/logo.png">
+</div>
+
+<div class="xiazai-top">
+  <img src="/images/wx/logo-top.png" style="width:135px;margin-left:10px;">
+  <img src="/images/wx/open-top.png" class="open-app" style="width:77px;" onclick="tryOpenApp();">
+</div>
+
+
+<div class="news-container">
+	<input type="hidden" id="nid" value="734281">
+	<input type="hidden" id="newstype" value="5">
+	
+    <h1 class="news-title">AI视频｜人工智能行业快“没电”了？背后可能没那么简单</h1>
+    
+    <div class="news-attr-box">
+    	<span class="subsection-icon" onclick="showSubsectionPage(122);">
+    		<img src="https://images.shobserver.com/img/2023/12/5/cea4d4cffc1d428c8bf59a0a1c90495b.jpg" onerror="this.src='/wxShare/images/subsection-default.jpg';this.onerror=null;">	
+    	</span>
+    	<span class="subsection-name-box" onclick="showSubsectionPage(122);">
+    			<span class="news-attr subsection-name">大局观</span>
+        <span class="news-attr publish-time">2024-04-04 08:00</span>
+    	</span>
+        <div style="margin-top:7px;">
+        	<span class="news-attr" style="margin-right:12px;">来源：上观新闻</span>
+        	<span class="news-attr">作者：曾雨欣 张龑飞 黄海昕</span>
+        </div>
+    </div>
+    <div class="news-summary">
+    	人工智能系统好比一家永不打烊的餐厅。“店面”变大了，“顾客”变多了，用到的电就会越来越多。
+    	<div class="left-border"></div>
+   	</div>
+    
+    <div class="video-box">
+		<video id="video" data-id="16964" video-news-id="734281" controls="controls" webkit-playsinline="" poster="https://images.shobserver.com/news/690_390/2024/04/03/l_cb20240403211002751099.jpg" height="170" playsinline="true" x5-playsinline="x5-playsinline" x-webkit-airplay="allow">
+			<source src="https://jfdailypro.oss-cn-hangzhou.aliyuncs.com/demo/transcode/413c3713-7e52-46eb-be21-9e532da0128f.mp4" type="video/mp4">
+	    	您的浏览器不支持视频播放
+		</video>
+	</div>
+        
+        <!-- 活动报名按钮 -->
+        
+        <!-- 问答卷参与按钮 -->
+   
+     <!-- 投票参与按钮 -->
+    
+    <!-- 音频 -->
+    
+    <!-- 正文 -->
+	<div class="news-content"><p>随着ChatGPT、Sora等大模型横空出世，全球对人工智能（AI）行业的发展前景寄予厚望。然而就在2月底，马斯克直呼“明年没电了”，让人们担忧起电力危机是否会制约人工智能发展。《华尔街日报》也于3月27日发文，针对AI耗电量进行报道。虽然马斯克的警告值得关注，但人工智能“没电”的说法可能并不严谨。电作为一种二次能源，需通过其他形式的能源转化而来，也许AI电力问题并非简单的能源存量问题，还受到人工智能发展规模及供电体系的结构性影响。</p><p style="font-weight: 800; margin-top: 32px; margin-bottom: 32px; text-align: center;">来自行业大佬的警告</p><p>目前，人工智能的应用场景已拓展至生活的方方面面，如智能家居、内容创作、交通驾驶等等。据斯坦福大学的数据，自2015年以来，全球人工智能资金增长了7倍多，到2022年，全球企业对人工智能的投资总额接近920亿美元。</p><p>人工智能背后的能耗成本，也随行业的蓬勃发展越来越受重视。作为科技创新与行业变革的领先者，世界首富马斯克的脑子里也早早就充满了“能源焦虑”。在人工智能的话题还没像今天一样火热时，他便呼吁尽早解决其日益增长的电力需求。时至今日，他甚至明确提出期限：明年，我们就会“没有足够的电”。</p><p>不仅是马斯克，英伟达CEO黄仁勋及OpenAI CEO山姆·奥特曼也多次公开宣称，如果不采取措施，人工智能发展可能会受到能源供应限制的制约。</p><p>这些行业大佬为未来人工智能发展面临的掣肘与危机敲响了警钟。</p><p style="font-weight: 800; margin-top: 32px; margin-bottom: 32px; text-align: center;">人工智能需要多少电？</p><p>问题来了。如果人工智能受制于能源，那它到底要用多少电？寻找这个答案，首先要理解人工智能系统的运行。</p><p>人工智能系统好比一家永不打烊的餐厅。启动炉灶、烤箱；运转制冷设备；切菜、炒菜……这个耗电过程和人工智能系统的如出一辙，运转服务器、数据中心等等设备；确保冷却系统开启，维持设备不过热；耗费大量时间进行数据处理和计算，尤其是训练一些深度学习模型时。</p><p>在这过程中，人工智能不断接收、理解并回应指令。餐厅不断有人下单，后厨就需要不间断运转。随着应用规模扩大，“店面”变大了，“顾客”变多了，用到的电就会越来越多。</p><p>马斯克的担忧正基于对AI算力增长速度的观察。OpenAI在2018年发布的报告指出，自2012年以来，用于AI训练的计算量呈指数增长，每3、4个月翻一番。随着计算量增加、耗时增加，尤其在生成式人工智能的应用推动下，相应的电力消耗大幅增加。单拿最出名的大模型ChatGPT举例，据美国《纽约客》报道，ChatGPT每天响应大约2亿个需求，在此过程中消耗超过50万度（1度=1千瓦时）电力，相当于1.7万个美国家庭平均一天的用电量。</p><p>马斯克的“预言”是否会成真？据波士顿咨询集团预计，2022年到2030年，美国数据中心用电量将从126太瓦时（1太瓦时=10亿千瓦时）最低增长至335太瓦时，最高增长至390太瓦时，用电量增长率在166.7%～209.5%之间。而美国能源信息署公开的信息显示，2022年美国全口径净发电量约为4243.136太瓦时，同比增长3.3%。如果维持目前的发电量增速，确实很难确定在未来的某个时间点，人工智能用电量与美国发电量的平衡会不会被打破。</p><p>这可能正是马斯克所担忧的事情。美国是世界上目前发电能力最强的国家，但是近年来美国的发电量增长率呈现出波动趋势，与气候变化、经济活动、能源效率及全球供应链变化等多种因素都不无关联。人工智能发展需要大量电力来支持服务器和高性能计算设备的运行，行业大佬们的担忧并非空穴来风。</p><p style="font-weight: 800; margin-top: 32px; margin-bottom: 32px; text-align: center;">“缺电”有可能，但也绝非易事</p><p>众所周知，电不是天然能源，电力问题涉及能源、基建、政策、技术等多个方面，无法用简单的“有”或“没有”一言以蔽之。</p><p>国际能源署（IEA）对清洁能源能起到的作用相当乐观。根据国际能源署发布的《2024至2026年电力分析及预测》，预计到2026年底，包括可再生能源和核能在内的低碳能源将占全球发电量的46%，并可满足所有额外需求增长。其中就包括用电需求将翻番的人工智能。</p><p>除了通过多样化的能源组合提升供应能力，电力供应也受国家调控和技术革新影响。</p><p>马斯克发出警告的背后，很可能是基于行业领袖的立场，为保证人工智能可持续发展，从而吸引政策制定者的关注。就目前而言，在人工智能领域的国际竞争中，无论从投资力度还是实施规模来看，美国都是行业领跑者。发展势头越迅猛，能源消耗的速度也会越快。马斯克看上去在“贩卖焦虑”，实则可能是为保不时之需。</p><p>技术革新的影响同样不容忽视。储能技术的发展或在一定程度上缓解人工智能对电力的大胃口。另外，人工智能行业自身也在为降低能耗成本而努力。例如，英伟达最新推出的Blackwell芯片据称可将能耗降低25倍。</p><p>尽管现在谈“没电”为时尚早，但这些声音确实给人工智能行业、大力发展人工智能的世界各国提了个醒。人工智能时代也许就在不远的将来，届时人们的生活方式可能彻底被人工智能重塑，未来面临缺电的就不仅仅是一个行业，而是影响整个人类的生活。</p></div>
+	
+    <!-- 活动报名按钮 -->
+	
+    <!-- 问答卷参与按钮 -->
+	
+    <!-- 投票参与按钮 -->
+    
+</div>
+
+<div class="news-edit-info">
+	<span>栏目主编：吴宏浩</span>
+	<span>文字编辑：吴宏浩</span>
+	
+	
+	
+	
+	
+	<span class="copyright">未经正式授权严禁转载本文，侵权必究</span>
+</div>
+
+
+
+<style type="text/css">
+
+	.relate-news-section{
+		padding:0 14px;
+		margin-top:14px;
+		display:none;
+	}
+	
+	.relate-news-title{
+		font-size:18px;
+		font-weight: bold;
+		color:#232323;
+		margin:0;
+		padding:0 0 6px 2px;
+	}
+	
+	.relate-news-container{
+	
+	}
+	
+	.relate-news-container .itemLink{
+		display:block;
+		text-transform:none;
+		overflow:hidden;
+		text-decoration:none;
+		width:49%;
+		height:auto;
+		float:left;
+		padding:5px 0;
+	}
+	
+	.relate-news-container .itemImg{
+		border:0;
+		margin:0;
+		padding:0;
+		width:100%;
+		vertical-align:middle;
+	}
+	
+	.relate-news-container .itemTitle{
+		display:block;
+		text-align:justify;
+		margin:3px 0;
+		font-size:14px;
+		line-height:19px;
+		max-height:57px;
+		color:#4a494e;
+		overflow:hidden;
+	}
+	
+	.clear{
+		clear:both;
+	}
+	.gap{
+		background-color: #f2f2f2;
+		height:7px;
+	}
+	
+</style>
+<div id="ralation-gap" class="gap"></div>	
+<section class="relate-news-section" style="display: block;">
+
+	<h2 class="relate-news-title">相关阅读</h2>
+	<div class="relate-news-container"><a class="itemLink" href="/wx/detail.do?id=729585" style="margin-right: 2%;">
+			<img src="https://images.shobserver.com/news/690_390/2024/03/22/l_cb20240322181950322076.jpg" class="itemImg">
+			<span class="itemTitle">给OpenAI加持的人形机器人递刀子，发生什么？这轮科学爆炸引发哲学讨论</span>
+		</a><a class="itemLink" href="/wx/detail.do?id=723472">
+			<img src="https://images.shobserver.com/news/690_390/2024/01/23/l_cb20240123170404703099.jpg" class="itemImg">
+			<span class="itemTitle">OpenAI高管联名回击：马斯克曾支持盈利，要求并入特斯拉，获得控制权</span>
+		</a><a class="itemLink" href="/wx/detail.do?id=708330" style="margin-right: 2%;">
+			<img src="https://images.shobserver.com/news/690_390/2024/01/23/l_cb20240123153354100083.jpg" class="itemImg">
+			<span class="itemTitle">ChatGPT研发科学家：加入已形成的“浪潮”有危险，这与新颖性探索相悖</span>
+		</a><a class="itemLink" href="/wx/detail.do?id=717590">
+			<img src="https://images.shobserver.com/news/690_390/2024/02/01/1200x900_xxjpsgc007044_20240201_pepfn1a001.jpg" class="itemImg">
+			<span class="itemTitle">面对Sora，马斯克“坐不住”了</span>
+		</a></div>
+	<div class="clear"></div>
+	
+	<!-- 模板区域 -->
+	<div id="relateItemModel" style="display:none;">
+		<a class="itemLink" href="">
+			<img src="" class="itemImg">
+			<span class="itemTitle"></span>
+		</a>
+	</div>
+	
+	<script type="text/javascript">
+	
+		$(function(){
+			var nid = $("#nid").val() || 0;
+			$.getJSON("/wx/getRelationNews.do?nid=" + nid, function(data){
+				if (data && data.success)
+				{
+					var list = data.object;
+					if (list && list.length > 0)
+					{
+						var imgBaseUrl = "https://images.shobserver.com/";
+						var container = $(".relate-news-container");
+						$.each(list,function(i,item){							
+							var relateNewsItem = $("#relateItemModel .itemLink").clone();
+							
+							relateNewsItem.attr("href","/wx/detail.do?id=" + item.rid);
+							relateNewsItem.find(".itemImg").attr("src", imgBaseUrl + "news/690_390/" + item.picurl);
+							relateNewsItem.find(".itemTitle").text(item.rtitle);
+							if (i%2 == 0)
+							{
+								relateNewsItem.css("margin-right","2%");
+							}
+							container.append(relateNewsItem);
+						});
+						
+						$(".relate-news-section").show();
+						$("#ralation-gap").addClass("gap");//有数据时增加分割线
+					}
+				}
+			});
+		});
+		
+	</script>
+</section>
+
+<style type="text/css">
+
+	.more-news-title{
+		font-size:18px; 
+		font-weight:bold;
+		color:#232732; 
+		padding:14px 0 0 16px;
+		margin:0px; 
+	}
+	.more-news-container{
+		margin:0 16px;
+		list-style: none;
+		padding:0;
+	}
+	
+	.more-news-item{
+	    font-size:0;
+	    padding:16px 0;
+	    border-bottom: 1px solid #efefef;
+	}
+	.more-news-item a{
+		overflow:hidden;
+		display: block;
+		text-decoration: none;
+	}
+	.more-news-item table{
+		 border-collapse: collapse;
+		 width:100%;
+	}
+	.more-news-item table td{
+		padding:0;
+		vertical-align: top;
+	}
+	.more-news-item .left{
+		width:calc(100% - 125px);
+		padding-right:10px;
+		position:relative;
+	}
+	.relation-news-title{
+		padding:0;
+		margin:0;
+		font-size:16px;
+		font-weight:normal;
+		color:#505050;
+		line-height:1.25;
+		display:-webkit-box;
+		overflow:hidden;
+		text-overflow:ellipsis;
+		-webkit-line-clamp:3;
+		-webkit-box-orient:vertical;
+	}
+	.relation-news-attr{
+		color:#b9b9b9;
+		font-size:12px;
+		position: absolute;
+		bottom: 0;
+		left:0;
+		width:100%;
+	}
+	.more-news-item .right{
+		width:125px;
+	}
+	
+	.gap{
+		background-color: #f2f2f2;
+		height:7px;
+	}
+	
+</style>
+<div id="hot-news_gap" class="gap"></div>
+<section class="hot-news-section">
+
+	<h2 class="more-news-title">热门推荐</h2>
+	<div class="more-news-container"><li class="more-news-item">
+			<a href="/wx/detail.do?id=817745">
+				<table>
+					<tbody><tr>
+						<td class="left">
+							<h3 class="relation-news-title">俄罗斯、伊朗两国银行支付系统将正式连接</h3>
+							<div class="relation-news-attr">
+								<span class="news-section">纵览</span>
+								<span class="news-publish-time" style="margin-left:8px;">1天前</span>
+							</div>
+						</td>
+						<td class="right">
+							<img src="https://images.shobserver.com//news/600_400/2024/01/23/l_cb20240123170403930095.jpg" style="width:100%;">
+						</td>
+					</tr>
+				</tbody></table>
+			</a>	
+		</li><li class="more-news-item">
+			<a href="/wx/detail.do?id=817764">
+				<table>
+					<tbody><tr>
+						<td class="left">
+							<h3 class="relation-news-title">女子“刀片嗓”近一年，医院一查竟是因为每天喝咖啡……</h3>
+							<div class="relation-news-attr">
+								<span class="news-section">纵览</span>
+								<span class="news-publish-time" style="margin-left:8px;">1天前</span>
+							</div>
+						</td>
+						<td class="right">
+							<img src="https://images.shobserver.com//news/600_400/2021/09/03/l_3271.jpg" style="width:100%;">
+						</td>
+					</tr>
+				</tbody></table>
+			</a>	
+		</li><li class="more-news-item">
+			<a href="/wx/detail.do?id=817974">
+				<table>
+					<tbody><tr>
+						<td class="left">
+							<h3 class="relation-news-title">搞权色交易、违规打听案情，上海市纪委监委办公厅原副主任蔡永彤被逮捕</h3>
+							<div class="relation-news-attr">
+								<span class="news-section">反腐记</span>
+								<span class="news-publish-time" style="margin-left:8px;">23小时前</span>
+							</div>
+						</td>
+						<td class="right">
+							<img src="https://images.shobserver.com//news/600_400/2022/09/02/l_7728.jpg" style="width:100%;">
+						</td>
+					</tr>
+				</tbody></table>
+			</a>	
+		</li><li class="more-news-item">
+			<a href="/wx/detail.do?id=817953">
+				<table>
+					<tbody><tr>
+						<td class="left">
+							<h3 class="relation-news-title">上海首例！国产脑机接口产品在华山医院植入成功，瘫痪患者已能下床</h3>
+							<div class="relation-news-attr">
+								<span class="news-section">创新之城</span>
+								<span class="news-publish-time" style="margin-left:8px;">12小时前</span>
+							</div>
+						</td>
+						<td class="right">
+							<img src="https://images.shobserver.com//news/600_400/2024/11/12/l_cb20241112170224876066.png" style="width:100%;">
+						</td>
+					</tr>
+				</tbody></table>
+			</a>	
+		</li></div>
+	<div class="clear"></div>
+	
+	<!-- 模板区域 -->
+	<div id="itemModel" style="display:none;">
+		<li class="more-news-item">
+			<a href="">
+				<table>
+					<tbody><tr>
+						<td class="left">
+							<h3 class="relation-news-title"></h3>
+							<div class="relation-news-attr">
+								<span class="news-section"></span>
+								<span class="news-publish-time" style="margin-left:8px;"></span>
+							</div>
+						</td>
+						<td class="right">
+							<img src="" style="width:100%;">
+						</td>
+					</tr>
+				</tbody></table>
+			</a>	
+		</li>
+	</div>
+	
+	<script type="text/javascript">
+	
+		$(function(){
+			var nid = $("#nid").val() || 0;
+			$.getJSON("/wx/getHotNews.do?nid=" + nid, function(data){
+				if (data && data.success)
+				{
+					var list = data.object;
+					if (list && list.length > 0)
+					{
+						var imgBaseUrl = "https://images.shobserver.com/";
+						var container = $(".more-news-container");
+						//container.append('');
+						$.each(list,function(i,item){
+							var hotNewsItem = $("#itemModel .more-news-item").clone();
+							hotNewsItem.find("a").attr("href","/wx/detail.do?id=" + item.id);
+							hotNewsItem.find(".relation-news-title").text(item.title);
+							hotNewsItem.find(".news-section").text(item.subsectionname);
+							hotNewsItem.find(".news-publish-time").text(item.publishHours);
+							hotNewsItem.find("img").attr("src",imgBaseUrl+"/news/600_400/"+item.picurl);
+							container.append(hotNewsItem);
+						});
+						
+						$(".hot-news-section").show();
+						$("#hot-news_gap").addClass("gap");//有数据时增加分割线
+					}
+				}
+			});
+		});
+		
+	</script>
+</section>
+
+
+<link rel="stylesheet" type="text/css" href="/css/wx_reply.css?ver=1.2">
+<style type="text/css">
+</style>
+<script type="text/javascript" src="/js/wx_reply.js?ver=1.2"></script>
+
+<!-- 登录区域 -->
+<!-- 
+<div class="login-win">
+	<input type="hidden" id="uid" value="-1" />
+	<input type="hidden" id="nickName" value="" />
+	
+	<div class="login-body">
+		<div class="login-win-head">
+			<span class="login-win-title">登录</span>
+			<span class="login-win-close" onclick="closeLoginWin();"></span>
+		</div>
+		<div style="margin:10px 0;font-size:14px;">上观用户先来登录吧！</div>
+		
+		<div class="third-login">
+			<span>社交账号直接登录</span>
+			<a href="javascript:wxLogin();" class="wx-login-btn"></a>
+		</div>
+		
+		<div class="input-box">
+			<input class="login-input" id="mobile" type="text" placeholder="手机号" />
+		</div>
+		
+		<div class="input-box">
+			<input class="login-input" id="pwd" type="password" placeholder="密码" />
+		</div>
+		
+		<div class="input-box">
+			<input class="login-input" id="verify" type="text" placeholder="请输入图片中的字符" style="width:136px;" />
+			<img class="verifyImg" id="verifyImg" src="" onclick="changeVerifyImg();" />
+			<span style="font-size:12px;color:#999;" onclick="changeVerifyImg();">换一张</span>
+		</div>
+		
+		<div class="login-msg"></div>
+		<div class="login-submit-btn" onclick="login();">登 录</div>
+		<div style="padding:4px 0 2px 0;">
+			<input type="checkbox" id="remember_me" checked="checked" style="vertical-align: middle;margin:0;">
+			<label for="remember_me" style="font-size:12px;">记住我</label>
+		</div>
+	</div>
+</div>
+-->
+<div id="user-replay-gap"></div>	
+<section class="user-reply-section">
+
+	<!-- 发表评论 -->
+	<!-- <div class="add-reply-section">
+		<span class="comm-num">评论<span style="font-size:12px;">(<span id="comm-num">0</span>)</span></span>
+		<span class="tip-com" id="icommt_commt" onclick="showCommText();">
+			<img src="/images/pen.png" style="width:14px;margin:0 5px;">我也说两句
+		</span>
+		<textarea class="comm-text" id="commText" rows="4" placeholder="最多能输入800个汉字"></textarea>
+		<div style="width:96%;margin:0 auto;text-align:right;">
+			<a href="javascript:void(0);" class="submit-btn" onclick="saveReply(this);">发表</a>
+		</div>
+	</div> -->
+	
+	<!-- 热门评论 -->
+	<!-- <div class="hot-reply-section">
+		<div class="hot-reply-title">热门评论</div>
+		<ul class="hot-reply-list"></ul>
+	</div> -->
+	
+	<!-- 最新评论 -->
+	<div class="new-reply-section">
+		<div class="hot-reply-title">最新评论</div>
+		<ul class="new-reply-list"></ul>
+		<!-- <span class="rob-sofa">快来抢沙发吧~</span>
+		<span class="more-reply" onclick="getMoreReply(this);">加载更多…</span>
+		<span class="no-more">已显示全部内容</span> -->
+	</div>
+	
+	<div class="more-reply-openapp" onclick="tryOpenApp();">打开上观新闻APP，发表评论</div>
+	
+</section>
+<div style="height:70px;"></div> <!-- 底部悬浮框的高度 -->
+
+<div class="xiazai-bottom" id="xiazaiBottom" style="width: 640px; left: 192px; display: block;">
+   <img src="/images/wx/logo-bottom.png" style="width:125px;margin-left:15px;">
+   <img src="/images/wx/open-bottom.png" class="open-app" style="width:80px;top:20%;" onclick="tryOpenApp();">
+</div>
+
+<!-- 本地统计 -->
+<script type="text/javascript" src="/js/newsCountUV.js"></script>
+<script type="text/javascript">
+	var staticHtml = false;
+	shagUVCount("734281","6"); // 执行统计代码
+	
+	//视频统计代码
+	function dovideo(vid,newsid){
+		var nid = 734281;
+		var newstype = 5;
+		var videoshowtype = 0;
+		var viewtype = newstype;
+		if(newstype == 5 && videoshowtype == 1){
+			viewtype = 7;
+		}
+		if(newsid == null || newsid == undefined || newsid == '')
+		 viewtype = 8;
+		 playmode=2;
+		 var isreplay = replayvideo[vid];
+		 if(isreplay != null && isreplay != undefined)
+		 playmode = 3;
+		videoUVCount(vid,0,nid,"6",viewtype,playmode)
+	}
+	
+	$(function(){
+	initVideoPlayer();
+	})
+</script><script type="text/javascript" src="/news/view/accesscount?platform=6&amp;newsid=734281&amp;guid=&amp;func=addShagDataCookie&amp;t=1731496440446"></script>
+
+<!-- 微信分享 -->
+<script type="text/javascript" src="//res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="/js/weixinShare.js?version=20210202"></script>
+
+<!-- 页面脚本 -->
+<script type="text/javascript" src="/wxShare/js/wx_newsdetail.js?version=20210202"></script>
+
+
+<div style="display:none;">
+<!-- 百度统计 -->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      // hm.src = "//hm.baidu.com/hm.js?d2c6a93993df2a648067f803933825c3";
+	  hm.src = "https://hm.baidu.com/hm.js?bc9cd710bb72814c83b46b075c6cb3bc";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<!-- CNZZ统计 -->
+<script type="text/javascript">
+var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cspan id='cnzz_stat_icon_1258256578'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1258256578' type='text/javascript'%3E%3C/script%3E"));
+</script><span id="cnzz_stat_icon_1258256578"></span><script src=" https://s95.cnzz.com/z_stat.php?id=1258256578" type="text/javascript"></script>
+</div>
+ 
+
+</body></html>

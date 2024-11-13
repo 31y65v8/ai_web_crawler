@@ -1,0 +1,1355 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="applicable-device" content="pc,mobile">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
+  <meta name="theme-color" content="#000000">
+  <meta name="aplus-core" content="aplus.js">
+    <meta name="data-spm" content="a2c6h">
+  <title>人工智能基础知识:介绍人工智能的历史，基本概念和应用领域-阿里云开发者社区</title>
+  <meta name="date" content="2023-10-31 13:06:02">
+  <meta name="last-modified" content="2023-10-31 13:06:02">
+  <meta name="keywords" content="机器学习深度学习,人工智能,自然语言处理,搜索推荐,计算机视觉">
+  <meta name="description" content="人工智能基础知识:介绍人工智能的历史，基本概念和应用领域">
+  <meta property="og:title" content="人工智能基础知识:介绍人工智能的历史，基本概念和应用领域-阿里云开发者社区">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="人工智能基础知识:介绍人工智能的历史，基本概念和应用领域">
+  <meta property="og:image" content="https://img.alicdn.com/tfs/TB1LCE1aQ5E3KVjSZFCXXbuzXXa-200-200.png">
+  <meta property="og:url" content="https://developer.aliyun.com/article/1363331">
+  <link rel="preconnect" href="https://at.alicdn.com">
+  <link rel="preconnect" href="https://query.aliyun.com">
+  <link rel="canonical" href="https://developer.aliyun.com/article/1363331">
+  
+  <link rel="stylesheet" href="//g.alicdn.com/aliyun/developer-aliyun-com-fe/2.8.39/css/??articleDetail.css,yuqueDocViewer.css,markdownViewer.css,medalDialog.css,mathjax.css,report.css">
+  
+  <link href="https://gw.alipayobjects.com/os/lib/ali/yuque-editor/1.8.18/dist/antd.css" rel="stylesheet">
+  <link href="https://gw.alipayobjects.com/os/lib/ali/yuque-editor/1.8.18/dist/yuque_editor.css" rel="stylesheet">
+  
+  
+    <link rel="shortcut icon" href="//img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico" type="image/x-icon">
+    
+    <link rel="stylesheet" href="https://g.alicdn.com/code/npm/@ali??hmod-ace-2023-box/0.1.0/index.css,hmod-ace-2023-developer-global-community-nav/0.0.69/index.css,hmod-aliyun-com-global-nav-search/0.5.19/index.css,hmod-aliyun-com-global-nav/0.2.9/index.css">
+    <link rel="stylesheet" href="https://g.alicdn.com/hmod/ace-homepage-2020-hmod-footer/0.1.8/index.css">
+    
+
+  <script type="text/javascript" async="" src="https://d.alicdn.com/alilog/aplus/1.13.9/plugin/aplus_spmact.js"></script><script type="text/javascript" async="" src="https://d.alicdn.com/alilog/??aplus/1.13.9/aplus_pc.js?v=20240910171434"></script><script nonce="7a90fc9d5468431d89bc7375690b5616">
+    var GLOBAL_CONFIG = {
+      "csrf_key": 'p_csrf',
+      "csrf_val": '41800174-2fa3-46c8-a54b-56e22f4447b1',
+      "wechat_disable": false,
+      "articleId": '1363331',
+      "groupCode": null,
+      "groupInfo": null,
+      "articleRealGroupCode": null,
+      "needLarkJs": true,
+      "larkContent": '',
+      "isLogin": false,
+      "isBest": false,
+      "authorUccId": 'iq6uphgu4buq6',
+      "visitorUccId": null,
+      "communityCode": null,
+      "community": null,
+      "freeTierInfo":'[]',
+      "commentSwitch":true,
+      "isOfficialBlog":false,
+      "cloudProductCodeList":'[\"nlp\",\"nlsintel\",\"nls\"]',
+    };
+  </script>
+  <style>
+    .article-detail #skill-builder-waker-button{
+        margin-left: 16px;
+    }
+  </style>
+<meta name="referrer" content="no-referrer-when-downgrade"><script async="" crossorigin="anonymous" src="https://log.mmstat.com/eg.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script><style type="text/css">#action-btns {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background: #f5f5f6;
+  position: relative;
+}
+.custom-pic .before-icon,
+.custom-pic .after-icon {
+  width: 40px;
+  height: 40px;
+}
+.custom-pic .after-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+.custom-pic:hover .after-icon {
+  display: block;
+}
+.btn-item,
+.btn-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 12px;
+}
+.action-pic {
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  background-color: #fff;
+  position: relative;
+  cursor: pointer;
+}
+.action-pic:hover .action-pic-hover {
+  display: block;
+}
+.action-pic .action-pic-hover {
+  position: absolute;
+  display: none;
+  left: 50px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  padding: 3px 8px;
+  font-size: 14px;
+  color: #181818;
+  background: #fff;
+  -webkit-box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.32);
+          box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.32);
+  white-space: nowrap;
+}
+.action-pic .action-pic-hover::after {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  content: '';
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  background-color: #fff;
+  left: -4px;
+  top: calc(50% + -4px);
+  border-top: none;
+  border-left: none;
+  -webkit-box-shadow: -1px 1px 1px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: -1px 1px 1px 0 rgba(0, 0, 0, 0.1);
+}
+.action-collection-normalPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i2/O1CN01jDRFpN1bfqB1sunaO_!!6000000003493-2-tps-80-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-collection-normalPic:hover::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01w5KtOH1CgsgJ4gU67_!!6000000000111-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-collection-colorPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01w5KtOH1CgsgJ4gU67_!!6000000000111-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-shang-normalPic:hover:before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN0102148M1mt5V1sQ7Q4_!!6000000005011-2-tps-80-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-shang-normalPic:before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01upRCtM1hGY5mLY3vx_!!6000000004250-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-shang-colorPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN0102148M1mt5V1sQ7Q4_!!6000000005011-2-tps-80-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-ask-product-follow-normalPic {
+  background: #fff;
+}
+.action-ask-product-follow-normalPic:hover {
+  background: #ff6a00;
+}
+.action-ask-product-follow-normalPic:hover::before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  content: '';
+  width: 20px;
+  height: 24px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01jf9imS1VSfAejbzTo_!!6000000002652-2-tps-26-28.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-ask-product-follow-normalPic::before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  content: '';
+  width: 20px;
+  height: 24px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01qqRJxg22QioFfWxXZ_!!6000000007115-2-tps-26-28.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-ask-product-follow-colorPic {
+  background: #ff6a00;
+}
+.action-ask-product-follow-colorPic::before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  content: '';
+  width: 20px;
+  height: 24px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01jf9imS1VSfAejbzTo_!!6000000002652-2-tps-26-28.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-question-follow-normalPic {
+  background: #fff;
+}
+.action-question-follow-normalPic:hover {
+  background: #ff6a00;
+}
+.action-question-follow-normalPic:hover::before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  content: '';
+  width: 20px;
+  height: 24px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01jf9imS1VSfAejbzTo_!!6000000002652-2-tps-26-28.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-question-follow-normalPic::before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  content: '';
+  width: 20px;
+  height: 24px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01qqRJxg22QioFfWxXZ_!!6000000007115-2-tps-26-28.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-question-follow-colorPic {
+  background: #ff6a00;
+}
+.action-question-follow-colorPic::before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  content: '';
+  width: 20px;
+  height: 24px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01jf9imS1VSfAejbzTo_!!6000000002652-2-tps-26-28.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-like-normalPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i2/O1CN01LY9WyV1rqrYd1oGyz_!!6000000005683-2-tps-80-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-like-normalPic:hover::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i2/O1CN01My6zBu1DwHc8cdAyY_!!6000000000280-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-like-colorPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i2/O1CN01My6zBu1DwHc8cdAyY_!!6000000000280-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-comment-normalPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i2/O1CN01l0Lrmk20dQU1gDtlx_!!6000000006872-2-tps-80-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-comment-normalPic:hover::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i4/O1CN01Y3SxcJ1d9ROIgwgAD_!!6000000003693-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-focus-normalPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i3/O1CN019dg1d01iFv4Tlox2E_!!6000000004384-2-tps-80-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-focus-normalPic:hover::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01nkERNk1rgmqZW8gd5_!!6000000005661-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-focus-colorPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01nkERNk1rgmqZW8gd5_!!6000000005661-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-share-normalPic::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i2/O1CN01YDEFGk21AP01JRYrS_!!6000000006944-2-tps-80-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-share-normalPic:hover::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: '';
+  width: 40px;
+  height: 40px;
+  background-image: url(https://img.alicdn.com/imgextra/i3/O1CN01HX0f7l1fw6hov9TXt_!!6000000004070-2-tps-82-82.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.action-item-num {
+  height: 17px;
+  line-height: 17px;
+  background: #e9ebec;
+  border-radius: 8.16px;
+  text-align: center;
+  font-family: PingFangSC-Regular;
+  font-size: 12px;
+  color: #868686;
+  letter-spacing: 0.25px;
+  padding: 0 7px;
+  margin-top: -5px;
+  z-index: 99;
+  min-width: 28px;
+}
+.action-share-normalPic {
+  position: relative;
+}
+.share-hover,
+.triangle {
+  display: none;
+}
+.action-share-normalPic:hover .share-hover {
+  display: block;
+  position: absolute;
+  left: 44px;
+  top: 10px;
+  height: 17px;
+  width: 24px;
+  font-family: PingFangSC-Regular;
+  font-size: 12px;
+  color: #868686;
+  letter-spacing: 0;
+  text-align: justify;
+  background-color: #fff;
+}
+.action-share-normalPic:hover .triangle {
+  display: block;
+  position: absolute;
+  left: 40px;
+  top: 13px;
+  border-style: solid;
+  border-width: 3px 3px 3px 3px;
+  border-color: transparent transparent #fff transparent;
+  width: 0px;
+  height: 0px;
+}
+.close-btn {
+  position: absolute;
+  right: 10px;
+  top: 2px;
+  font-size: 22px;
+  cursor: pointer;
+}
+.share-dialog-mask {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1001;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.share-hover-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  -webkit-box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.2);
+  width: 448px;
+  height: 156px;
+  padding: 28px 26px 26px 40px;
+}
+.share-hover-box.hidden {
+  display: none;
+}
+.share-hover-box .hover-left {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.share-hover-box .hover-left .top-icon-box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item {
+  width: 42px;
+  margin-right: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item .icon-img {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: block;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item .icon-text {
+  text-align: center;
+  line-height: 17px;
+  font-size: 12px;
+  color: #181818;
+  letter-spacing: 0.14px;
+  margin-top: 4px;
+  width: 45px;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.iconqq .icon-img {
+  background: url('https://img.alicdn.com/tfs/TB1s9x3xNv1gK0jSZFFXXb0sXXa-84-84.png') no-repeat center center;
+  background-size: 100% 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.iconqq:hover .icon-img {
+  background: url('https://img.alicdn.com/tfs/TB1gUp0xQP2gK0jSZPxXXacQpXa-84-84.png') no-repeat center center;
+  background-size: 100% 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.iconzon .icon-img {
+  background: url('https://img.alicdn.com/tfs/TB1w5R2xQY2gK0jSZFgXXc5OFXa-84-84.png') no-repeat center center;
+  background-size: 100% 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.iconzon:hover .icon-img {
+  background: url('https://img.alicdn.com/tfs/TB1vOR2xQY2gK0jSZFgXXc5OFXa-84-84.png') no-repeat center center;
+  background-size: 100% 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.iconwb .icon-img {
+  background: url('https://img.alicdn.com/tfs/TB1RspVxGL7gK0jSZFBXXXZZpXa-84-84.png') no-repeat center center;
+  background-size: 100% 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.iconwb:hover .icon-img {
+  background: url('https://img.alicdn.com/tfs/TB1mGB3xQL0gK0jSZFxXXXWHVXa-84-84.png') no-repeat center center;
+  background-size: 100% 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.icondd .icon-img {
+  background: url('https://img.alicdn.com/tfs/TB1Oet3xUY1gK0jSZFMXXaWcVXa-84-84.png') no-repeat center center;
+  background-size: 100% 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.icondd .ding-float {
+  display: none;
+  position: absolute;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  top: 92px;
+  z-index: 1001;
+  width: 85px;
+  height: 85px;
+  padding: 5px;
+  background: #fff;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.icondd .ding-float img {
+  width: 100%;
+  height: 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.icondd:hover .icon-img {
+  background: url('https://img.alicdn.com/tfs/TB119d1xUT1gK0jSZFhXXaAtVXa-84-84.png') no-repeat center center;
+  background-size: 100% 100%;
+}
+.share-hover-box .hover-left .top-icon-box .icon-item.icondd:hover .ding-float {
+  display: block;
+}
+.share-hover-box .hover-left .copy-box {
+  margin-top: 12px;
+}
+.share-hover-box .hover-left .copy-box .copy-title {
+  text-align: left;
+  line-height: 17px;
+  font-size: 12px;
+  color: #181818;
+  letter-spacing: 0.14px;
+}
+.share-hover-box .hover-left .copy-box .copy-area {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 8px;
+}
+.share-hover-box .hover-left .copy-box .copy-area .copy-value {
+  width: 172px;
+  border: 1px solid #eaeaea;
+  height: 28px;
+  outline: none;
+  font-size: 12px;
+  color: #181818;
+  padding-left: 12px;
+}
+.share-hover-box .hover-left .copy-box .copy-area .copy-btn {
+  background: #ff6a00;
+  width: 54px;
+  height: 28px;
+  line-height: 28px;
+  font-size: 12px;
+  color: #ffffff;
+  letter-spacing: 0.14px;
+  cursor: pointer;
+  text-align: center;
+}
+.share-hover-box .hover-right {
+  width: 122px;
+  border-left: 1px solid #d5d5d5;
+  padding-left: 23px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.share-hover-box .hover-right .right-title {
+  text-align: center;
+  line-height: 17px;
+  font-size: 12px;
+  color: #181818;
+  letter-spacing: 0.14px;
+}
+.share-hover-box .hover-right .right-img {
+  width: 120px;
+  height: 120px;
+}
+.share-hover-box .hover-right .right-img img {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+.focus-dialog {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1001;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.focus-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 318px;
+  height: 150px;
+  padding: 28px 26px 26px 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background: #fff;
+}
+.focus-box .close-focus {
+  position: absolute;
+  right: 30px;
+  top: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.focus-box .focus-text {
+  font-size: 20px;
+  margin: 20px 0 20px;
+}
+.focus-box .focus-btn {
+  padding: 5px 5px;
+  background: #ff6a00;
+  color: #fff;
+  width: 80px;
+  height: 20px;
+  border-radius: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+@media (max-width: 750px) {
+  #action-btns {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    width: 100%;
+    height: 80px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    background: #fff;
+    padding: 20px 32px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  .btn-item {
+    margin-left: 32px;
+    margin-right: 32px;
+    position: relative;
+  }
+  .btn-item::after {
+    content: '|';
+    width: 1px;
+    height: 12.5px;
+    position: absolute;
+    left: 60px;
+    top: 12px;
+    color: #dddddd;
+  }
+  .btn-item:first-child {
+    margin-left: 0;
+  }
+  .btn-item:last-child {
+    margin-right: 0;
+  }
+  .btn-item:last-child::after {
+    content: '';
+  }
+  .action-pic {
+    width: 18px;
+    height: 18px;
+    border-radius: 40px;
+    margin-bottom: 4px;
+  }
+  .action-pic:hover .action-pic-hover {
+    display: none;
+  }
+  .action-collection-colorPic::before,
+  .action-like-colorPic::before,
+  .action-focus-colorPic::before,
+  .action-comment-colorPic::before {
+    width: 18px;
+    height: 18px;
+  }
+  .action-collection-normalPic::before,
+  .action-like-normalPic::before,
+  .action-focus-normalPic::before,
+  .action-comment-normalPic::before {
+    width: 18px;
+    height: 18px;
+  }
+  .action-shang-normalPic:hover:before {
+    content: '';
+    display: none;
+  }
+  .action-shang-normalPic:before {
+    position: absolute;
+    left: 0;
+    top: -1px;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i1/O1CN014B5uu01vYK5L8AMdM_!!6000000006184-2-tps-30-30.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-shang-colorPic::before {
+    position: absolute;
+    left: 0;
+    top: -1px;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01ZrIkfH1ed2grUNwyb_!!6000000003893-2-tps-30-30.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-collection-normalPic::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i4/O1CN01LrY4pn20jq1vG24HE_!!6000000006886-2-tps-38-36.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-collection-normalPic:hover::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i4/O1CN01LrY4pn20jq1vG24HE_!!6000000006886-2-tps-38-36.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-collection-colorPic::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01YXN4ZC1TYxIXZuuTn_!!6000000002395-2-tps-36-36.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-like-normalPic::before {
+    position: absolute;
+    left: 0;
+    top: -1px;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i3/O1CN010fSOtS1DYvQ6pWq4M_!!6000000000229-2-tps-36-36.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-like-normalPic:hover::before {
+    position: absolute;
+    left: 0;
+    top: -1px;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i3/O1CN010fSOtS1DYvQ6pWq4M_!!6000000000229-2-tps-36-36.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-like-colorPic::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i1/O1CN01FhqKXy1XvdN9D4z8A_!!6000000002986-2-tps-32-36.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-comment-normalPic::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i4/O1CN01kKOGuT1LEmvqAkU66_!!6000000001268-2-tps-34-32.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-focus-normalPic::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 16px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i1/O1CN013vpdex1efKaUhv54C_!!6000000003898-2-tps-36-40.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-focus-normalPic:hover::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 16px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i1/O1CN013vpdex1efKaUhv54C_!!6000000003898-2-tps-36-40.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-focus-colorPic::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: '';
+    width: 16px;
+    height: 18px;
+    background-image: url(https://img.alicdn.com/imgextra/i2/O1CN01KsQsvU1IY4lYYUqrD_!!6000000000904-2-tps-36-40.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .action-item-num {
+    height: 17px;
+    line-height: 17px;
+    background: #fff;
+    border-radius: 0;
+    text-align: center;
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+    color: rgba(23, 26, 29, 0.4);
+    letter-spacing: 0.25px;
+    z-index: 99;
+    min-width: 28px;
+    padding: 0;
+  }
+  .custom-pic .before-icon,
+  .custom-pic .after-icon {
+    width: 18px;
+    height: 16px;
+  }
+  .custom-pic .after-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .btn-focus {
+    position: relative;
+  }
+  .btn-share {
+    display: none;
+  }
+  .focus-box {
+    width: 200px;
+    height: 120px;
+  }
+}
+</style><style type="text/css">.comments-btns {
+  width: 42px;
+  height: 18px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+</style><script async="" crossorigin="anonymous" src="https://log.mmstat.com/eg.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script><script async="" crossorigin="anonymous" src="https://log.mmstat.com/eg.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script><script async="" crossorigin="anonymous" src="https://log.mmstat.com/eg.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script><link rel="stylesheet" type="text/css" href="https://g.alicdn.com/developer-cloud-assets/aliyun-skill-builder-fe/1.17.5/385.chunk.css"><script async="" crossorigin="anonymous" src="https://log.mmstat.com/eg.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script><script async="" crossorigin="anonymous" src="https://log.mmstat.com/eg.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script><script async="" crossorigin="anonymous" src="https://log.mmstat.com/eg.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script></head>
+<body data-spm="12873639"><script src="https://retcode.alicdn.com/retcode/bl.js" crossorigin=""></script><script type="text/javascript" id="beacon-aplus" src="//g.alicdn.com/alilog/mlog/aplus_v2.js" exparams="category=&amp;userid=&amp;aplus&amp;yunid=&amp;yunpk=&amp;channel=&amp;cps=" nonce="7a90fc9d5468431d89bc7375690b5616" cspx="7a90fc9d5468431d89bc7375690b5616" async="">
+</script>
+  
+  
+    <div class="yuque-sdk-extra-container yuquesdk"></div>
+    <script nonce="7a90fc9d5468431d89bc7375690b5616">
+      window._VIEWER_JS_URL = "https://gw.alipayobjects.com/os/lib/ali/yuque-editor/1.8.18/dist/yuque_editor.js";
+      window._VIEWER_CSS_URL = [
+        `https://gw.alipayobjects.com/os/lib/ali/yuque-editor/1.8.18/dist/antd.css`,
+        `https://gw.alipayobjects.com/os/lib/ali/yuque-editor/1.8.18/dist/yuque_editor.css`,
+      ];
+      window.__imageBrowser_options = {
+        container : document.querySelectorAll(".yuque-sdk-extra-container.yuquesdk")
+      };
+    </script>
+    <script type="text/javascript" src="//gw.alipayobjects.com/os/lib/??moment/2.24.0/min/moment.min.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script>
+    <script type="text/javascript" src="//gw.alipayobjects.com/as/g/larkgroup/lake-codemirror/6.0.2/CodeMirror.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script>
+    <script nonce="7a90fc9d5468431d89bc7375690b5616">
+      /*<![CDATA[*/
+      if(!window.React || window.React.version != "16.14.0") {
+        var nonce = '7a90fc9d5468431d89bc7375690b5616';
+        document.write('<script type="text/javascript" src="//g.alicdn.com/developer_center/developer-fresh-aliyun-com-fe/0.7.41/??react.js,react-dom.js" nonce="'+ nonce + '"><\/script>');
+      }
+      GLOBAL_CONFIG.larkContent = '<!doctype lake><meta name=\"doc-version\" content=\"1\" /><meta name=\"viewport\" content=\"adapt\" /><meta name=\"typography\" content=\"traditional\" /><h2 data-lake-id=\"dc42c2d0e89f2f10245e7b25979cc136\" id=\"NYdX7\">\u5F15\u8A00\uFF1A\u4EBA\u5DE5\u667A\u80FD\u7684\u5B9A\u4E49\u548C\u91CD\u8981\u6027<\/h2><p data-lake-id=\"f4e9258cbce5ddbe46b81817fe9a8aed\">\u968F\u7740\u79D1\u6280\u7684\u98DE\u901F\u53D1\u5C55\uFF0C\u4EBA\u5DE5\u667A\u80FD\uFF08Artificial Intelligence\uFF0C\u7B80\u79F0AI\uFF09\u5DF2\u7ECF\u6210\u4E3A\u4E00\u4E2A\u7099\u624B\u53EF\u70ED\u7684\u9886\u57DF\u3002\u4ECE<a href=\"https://so.csdn.net/so/search?q=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&amp;spm=1001.2101.3001.7020\" target=\"_blank\">\u81EA\u52A8\u9A7E\u9A76<\/a>\u6C7D\u8F66\u5230\u667A\u80FD\u8BED\u97F3\u52A9\u624B\uFF0C\u4ECE\u667A\u80FD\u5236\u9020\u5230\u533B\u7597\u8BCA\u65AD\uFF0C\u4EBA\u5DE5\u667A\u80FD\u7684\u5E94\u7528\u5DF2\u7ECF\u6E17\u900F\u5230\u6211\u4EEC\u751F\u6D3B\u7684\u65B9\u65B9\u9762\u9762\u3002\u90A3\u4E48\uFF0C\u4EC0\u4E48\u662F\u4EBA\u5DE5\u667A\u80FD\uFF1F\u5B83\u4E3A\u4EC0\u4E48\u5982\u6B64\u91CD\u8981\uFF1F<\/p><p data-lake-id=\"f6cf23a6101bcb2f2ef003b0ca6384eb\">\u4EBA\u5DE5\u667A\u80FD\u662F\u4E00\u95E8\u7814\u7A76\u5982\u4F55\u8BA9\u8BA1\u7B97\u673A\u6A21\u62DF\u3001\u6269\u5C55\u548C\u8F85\u52A9\u4EBA\u7C7B\u667A\u80FD\u7684\u5B66\u79D1\u3002\u5B83\u65E8\u5728\u4F7F\u8BA1\u7B97\u673A\u80FD\u591F\u7406\u89E3\u3001\u63A8\u7406\u3001\u5B66\u4E60\u3001\u8BA1\u5212\u548C\u611F\u77E5\u7B49\uFF0C\u4EE5\u5B9E\u73B0\u7C7B\u4F3C\u4EBA\u7C7B\u7684\u667A\u80FD\u884C\u4E3A\u3002\u7B80\u5355\u6765\u8BF4\uFF0C\u4EBA\u5DE5\u667A\u80FD\u5C31\u662F\u8BA9\u8BA1\u7B97\u673A\u5177\u6709\u7C7B\u4EBA\u7684\u667A\u80FD\uFF0C\u4EE5\u89E3\u51B3\u5404\u79CD\u590D\u6742\u95EE\u9898\u3002<\/p><p data-lake-id=\"e07abd6ddb55f4c43199e7ef9f65e8f1\">\u4EBA\u5DE5\u667A\u80FD\u4E4B\u6240\u4EE5\u91CD\u8981\uFF0C\u539F\u56E0\u6709\u4EE5\u4E0B\u51E0\u70B9\uFF1A<\/p><ol data-lake-id=\"67d9d7f65e207a53c3d8fa1f8e07f662\"><li data-lake-id=\"05d1b6ccace7984229402e8938d64d58\">\u63D0\u9AD8\u751F\u4EA7\u6548\u7387\uFF1A\u901A\u8FC7\u4F7F\u7528\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\uFF0C\u4F01\u4E1A\u53EF\u4EE5\u5927\u5E45\u63D0\u9AD8\u751F\u4EA7\u6548\u7387\uFF0C\u964D\u4F4E\u6210\u672C\u3002\u4F8B\u5982\uFF0C\u5728<a href=\"https://so.csdn.net/so/search?q=%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0&amp;spm=1001.2101.3001.7020\" target=\"_blank\">\u667A\u80FD\u5236\u9020<\/a>\u4E2D\uFF0C\u5DE5\u4E1A\u673A\u5668\u4EBA\u53EF\u4EE5\u5728\u7E41\u91CD\u3001\u5371\u9669\u6216\u9700\u8981\u7CBE\u786E\u64CD\u4F5C\u7684\u73AF\u5883\u4E2D\u66FF\u4EE3\u4EBA\u5DE5\uFF0C\u4FDD\u8BC1\u751F\u4EA7\u7684\u7A33\u5B9A\u548C\u5B89\u5168\u3002<br /><\/li><li data-lake-id=\"6068fbd6a683722ce6e61a94b9464629\">\u6539\u5584\u751F\u6D3B\u8D28\u91CF\uFF1A\u4EBA\u5DE5\u667A\u80FD\u53EF\u4EE5\u5E2E\u52A9\u4EBA\u4EEC\u66F4\u597D\u5730\u89E3\u51B3\u65E5\u5E38\u751F\u6D3B\u4E2D\u7684\u95EE\u9898\uFF0C\u4F8B\u5982\u901A\u8FC7\u8BED\u97F3\u52A9\u624B\u8FDB\u884C\u667A\u80FD\u5BB6\u5C45\u63A7\u5236\u3001\u4F7F\u7528\u667A\u80FD\u63A8\u8350\u7CFB\u7EDF\u4E3A\u7528\u6237\u63A8\u8350\u5408\u9002\u7684\u5546\u54C1\u7B49\u3002<br /><\/li><li data-lake-id=\"fa99e74253807181428b4669dcb600c1\">\u9A71\u52A8\u521B\u65B0\u4E0E\u7814\u7A76\uFF1A\u4EBA\u5DE5\u667A\u80FD\u4E3A\u5404\u4E2A\u9886\u57DF\u7684\u7814\u7A76\u548C\u521B\u65B0\u63D0\u4F9B\u4E86\u5F3A\u5927\u7684\u652F\u6301\u3002\u5728\u533B\u5B66\u9886\u57DF\uFF0C\u901A\u8FC7\u6DF1\u5EA6\u5B66\u4E60\u6280\u672F\uFF0C\u8BA1\u7B97\u673A\u53EF\u4EE5\u5728\u533B\u5B66\u5F71\u50CF\u4E2D\u81EA\u52A8\u8BC6\u522B\u75C5\u7076\uFF0C\u8F85\u52A9\u533B\u751F\u8FDB\u884C\u8BCA\u65AD\u3002\u5728\u5929\u6587\u5B66\u9886\u57DF\uFF0C\u4EBA\u5DE5\u667A\u80FD\u53EF\u4EE5\u5E2E\u52A9\u79D1\u5B66\u5BB6\u81EA\u52A8\u68C0\u6D4B\u5E76\u8BC6\u522B\u9065\u8FDC\u661F\u7CFB\u4E2D\u7684\u6052\u661F\u3001\u884C\u661F\u7B49\u5929\u4F53\u3002<br /><\/li><li data-lake-id=\"f92f01c3b51d7ec00e6f0be15d081859\">\u5E94\u5BF9\u5168\u7403\u6027\u6311\u6218\uFF1A\u4EBA\u5DE5\u667A\u80FD\u5728\u5E94\u5BF9\u6C14\u5019\u53D8\u5316\u3001\u73AF\u5883\u4FDD\u62A4\u3001\u75BE\u75C5\u63A7\u5236\u7B49\u5168\u7403\u6027\u6311\u6218\u65B9\u9762\u53D1\u6325\u7740\u91CD\u8981\u4F5C\u7528\u3002\u4F8B\u5982\uFF0C\u901A\u8FC7\u5206\u6790\u5927\u91CF\u7684\u6C14\u8C61\u6570\u636E\uFF0C\u4EBA\u5DE5\u667A\u80FD\u53EF\u4EE5\u5E2E\u52A9\u9884\u6D4B\u5929\u6C14\u53D8\u5316\uFF0C\u4E3A\u9632\u707E\u51CF\u707E\u63D0\u4F9B\u652F\u6301\u3002<br /><\/li><\/ol><p data-lake-id=\"dd368245967f066bf1352eed4a3b7d5f\">\u7EFC\u4E0A\u6240\u8FF0\uFF0C\u4EBA\u5DE5\u667A\u80FD\u5BF9\u4E8E\u73B0\u4EE3\u793E\u4F1A\u7684\u53D1\u5C55\u5177\u6709\u5DE8\u5927\u7684\u63A8\u52A8\u529B\u3002\u5728\u672C\u7BC7\u6587\u7AE0\u4E2D\uFF0C\u6211\u4EEC\u5C06\u4ECE\u4EBA\u5DE5\u667A\u80FD\u7684\u5386\u53F2\u3001\u57FA\u672C\u6982\u5FF5\u548C\u5E94\u7528\u9886\u57DF\u7B49\u65B9\u9762\uFF0C\u4E3A\u8BFB\u8005\u5448\u73B0\u4EBA\u5DE5\u667A\u80FD\u7684\u5168\u8C8C\u3002\u5E0C\u671B\u901A\u8FC7\u4E86\u89E3\u4EBA\u5DE5\u667A\u80FD\u7684\u5185\u6DB5\u548C\u5F71\u54CD\uFF0C\u80FD\u591F\u6FC0\u53D1\u8BFB\u8005\u5BF9\u8FD9\u4E00\u9886\u57DF\u7684\u5174\u8DA3\uFF0C\u8FDB\u4E00\u6B65\u5B66\u4E60\u548C\u5B9E\u8DF5\u3002<\/p><p data-lake-id=\"1a44d927d96f67e50a93eb1bad452fa7\">\u5728\u540E\u7EED\u7684\u6587\u7AE0\u4E2D\uFF0C\u6211\u4EEC\u5C06\u66F4\u6DF1\u5165\u5730\u63A2\u8BA8\u4EBA\u5DE5\u667A\u80FD\u7684\u5404\u4E2A\u5B50\u9886\u57DF\uFF0C\u5982\u673A\u5668\u5B66\u4E60\u3001\u6DF1\u5EA6\u5B66\u4E60\u3001\u81EA\u7136\u8BED\u8A00\u5904\u7406\u7B49\uFF0C\u5E76\u7ED3\u5408\u5B9E\u9645\u6848\u4F8B\u4E0E\u4EE3\u7801\u793A\u4F8B\uFF0C\u5E2E\u52A9\u8BFB\u8005\u66F4\u597D\u5730\u7406\u89E3\u548C\u5E94\u7528\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u3002\u901A\u8FC7\u5B66\u4E60\u4EBA\u5DE5\u667A\u80FD\uFF0C\u6211\u4EEC\u5C06\u80FD\u591F\u66F4\u597D\u5730\u5E94\u5BF9\u672A\u6765\u7684\u6311\u6218\uFF0C\u5171\u540C\u63A8\u52A8\u79D1\u6280\u8FDB\u6B65\uFF0C\u4E3A\u4EBA\u7C7B\u793E\u4F1A\u7684\u53D1\u5C55\u505A\u51FA\u8D21\u732E\u3002<\/p><p data-lake-id=\"3c80e0d38e5d55d1b25f1bb574c7c4c2\"><strong>\u6B22\u8FCE\u5404\u4F4D\u7684\u8BA2\u9605\u672C\u4E13\u680F\uFF0C\u540E\u7EED\u5C06\u4F1A\u5C06\u672C\u4E13\u680F\u8BBE\u7F6E\u6210\u4ED8\u8D39\u4E13\u680F\uFF08\u73B0\u5728\u8BA2\u9605\u540E\u7EED\u5C06\u4E0D\u9700\u8981\u4ED8\u8D39\uFF09<\/strong><\/p><h2 data-lake-id=\"e5aeb7687574b7b5cab6ce37451b81b6\" id=\"qoUd6\"><a name=\"t1\"><\/a>\u4E00 \u4EBA\u5DE5\u667A\u80FD\u7684\u5386\u53F2\uFF1A<\/h2><h3 data-lake-id=\"7e69c86d6a1daa79aae2b27d89d8dca1\" id=\"917tB\"><a name=\"t2\"><\/a>1.\u65E9\u671F\u5C1D\u8BD5\uFF1A\u56FE\u7075\u673A\u3001\u4EBA\u5DE5\u795E\u7ECF\u7F51\u7EDC<\/h3><p data-lake-id=\"d3cb8417e2ad96f515eddccfd211a575\">\u4EBA\u5DE5\u667A\u80FD\u7684\u8D77\u6E90\u53EF\u4EE5\u8FFD\u6EAF\u523020\u4E16\u7EAA40\u5E74\u4EE3\u3002\u5F53\u65F6\uFF0C\u82F1\u56FD\u8BA1\u7B97\u673A\u79D1\u5B66\u5BB6\u827E\u4F26\xB7\u56FE\u7075\u63D0\u51FA\u4E86\u8457\u540D\u7684\u201C\u56FE\u7075\u673A\u201D\u6982\u5FF5\uFF0C\u4E3A\u8BA1\u7B97\u673A\u79D1\u5B66\u548C\u4EBA\u5DE5\u667A\u80FD\u7684\u53D1\u5C55\u5960\u5B9A\u4E86\u57FA\u7840\u3002\u540C\u65F6\uFF0C\u795E\u7ECF\u7F51\u7EDC\u6A21\u578B\u7684\u96CF\u5F62\u4E5F\u8BDE\u751F\u4E86\u30021943\u5E74\uFF0C\u6C83\u4F26\xB7\u9EA6\u5361\u6D1B\u514B\u548C\u6C83\u5C14\u7279\xB7\u76AE\u8328\u63D0\u51FA\u4E86\u4EBA\u5DE5\u795E\u7ECF\u7F51\u7EDC\u7684\u57FA\u672C\u6A21\u578B\uFF0C\u5373\u201C\u9EA6\u5361\u6D1B\u514B-\u76AE\u8328\u795E\u7ECF\u5143\u201D\u3002<\/p><h3 data-lake-id=\"017bf1a1830289b38f31546880323eb2\" id=\"IaoRC\"><a name=\"t3\"><\/a>2.\u4E13\u5BB6\u7CFB\u7EDF\u65F6\u4EE3<\/h3><p data-lake-id=\"d7db4a27327a39c13b09e8b2489920e5\">20\u4E16\u7EAA60\u5E74\u4EE3\u81F380\u5E74\u4EE3\uFF0C\u4EBA\u5DE5\u667A\u80FD\u9886\u57DF\u51FA\u73B0\u4E86\u201C\u4E13\u5BB6\u7CFB\u7EDF\u201D\u7684\u6982\u5FF5\u3002\u4E13\u5BB6\u7CFB\u7EDF\u662F\u4E00\u79CD\u57FA\u4E8E\u77E5\u8BC6\u5E93\u548C\u63A8\u7406\u673A\u5236\u7684\u8BA1\u7B97\u673A\u7A0B\u5E8F\uFF0C\u80FD\u591F\u6A21\u62DF\u4EBA\u7C7B\u4E13\u5BB6\u7684\u63A8\u7406\u8FC7\u7A0B\uFF0C\u89E3\u51B3\u7279\u5B9A\u9886\u57DF\u7684\u95EE\u9898\u3002\u8FD9\u4E00\u65F6\u671F\uFF0C\u8BB8\u591A\u9886\u57DF\u7684\u4E13\u5BB6\u7CFB\u7EDF\u5E94\u7528\u76F8\u7EE7\u51FA\u73B0\uFF0C\u5982\u533B\u5B66\u8BCA\u65AD\u3001\u5316\u5B66\u5206\u6790\u7B49\u3002<\/p><h3 data-lake-id=\"df7ec0cd2d779ad815bdf1dab6c98f61\" id=\"sQVXp\"><a name=\"t4\"><\/a>3.\u673A\u5668\u5B66\u4E60\u7684\u5D1B\u8D77<\/h3><p data-lake-id=\"1c8780ee1525b9ff61b53e803fc97007\">20\u4E16\u7EAA80\u5E74\u4EE3\u81F390\u5E74\u4EE3\uFF0C\u968F\u7740\u8BA1\u7B97\u673A\u6280\u672F\u7684\u53D1\u5C55\u548C\u5927\u91CF\u6570\u636E\u7684\u79EF\u7D2F\uFF0C\u673A\u5668\u5B66\u4E60\u6210\u4E3A\u4EBA\u5DE5\u667A\u80FD\u9886\u57DF\u7684\u7814\u7A76\u70ED\u70B9\u3002\u673A\u5668\u5B66\u4E60\u662F\u4E00\u79CD\u8BA9\u8BA1\u7B97\u673A\u901A\u8FC7\u6570\u636E\u5B66\u4E60\u77E5\u8BC6\u548C\u6280\u80FD\u7684\u65B9\u6CD5\uFF0C\u800C\u65E0\u9700\u8FDB\u884C\u663E\u5F0F\u7F16\u7A0B\u3002\u8FD9\u4E00\u65F6\u671F\uFF0C\u8BB8\u591A\u7ECF\u5178\u7684\u673A\u5668\u5B66\u4E60\u7B97\u6CD5\u88AB\u63D0\u51FA\uFF0C\u5982\u51B3\u7B56\u6811\u3001\u652F\u6301\u5411\u91CF\u673A\u7B49\u3002<\/p><h3 data-lake-id=\"ae2dbb48c4cb308e1d927bc77b2d0d2e\" id=\"mZSND\"><a name=\"t5\"><\/a>4.\u6DF1\u5EA6\u5B66\u4E60\u7684\u9769\u547D<\/h3><p data-lake-id=\"913772ad3df90390594d184078131579\">21\u4E16\u7EAA\u521D\uFF0C\u6DF1\u5EA6\u5B66\u4E60\u6280\u672F\u9010\u6E10\u5D1B\u8D77\u3002\u6DF1\u5EA6\u5B66\u4E60\u662F\u673A\u5668\u5B66\u4E60\u7684\u4E00\u4E2A\u5206\u652F\uFF0C\u4E3B\u8981\u4F9D\u8D56\u795E\u7ECF\u7F51\u7EDC\u6A21\u578B\uFF0C\u7279\u522B\u662F\u6DF1\u5C42\u795E\u7ECF\u7F51\u7EDC\u8FDB\u884C\u5B66\u4E60\u3002\u968F\u7740\u786C\u4EF6\u8BA1\u7B97\u80FD\u529B\u7684\u63D0\u5347\u548C\u5927\u6570\u636E\u7684\u666E\u53CA\uFF0C\u6DF1\u5EA6\u5B66\u4E60\u5728\u8BA1\u7B97\u673A\u89C6\u89C9\u3001\u81EA\u7136\u8BED\u8A00\u5904\u7406\u7B49\u9886\u57DF\u53D6\u5F97\u4E86\u7A81\u7834\u6027\u7684\u6210\u679C\u30022012\u5E74\uFF0CAlexNet\u5728ImageNet\u56FE\u50CF\u8BC6\u522B\u7ADE\u8D5B\u4E2D\u53D6\u5F97\u4E86\u51A0\u519B\uFF0C\u6210\u4E3A\u6DF1\u5EA6\u5B66\u4E60\u9886\u57DF\u7684\u91CC\u7A0B\u7891\u3002<\/p><h3 data-lake-id=\"8760659c66a70621afb1498750f5eb13\" id=\"vRtcB\"><a name=\"t6\"><\/a>5.\u5F53\u4EE3\u4EBA\u5DE5\u667A\u80FD\u7684\u6311\u6218\u548C\u672A\u6765\u5C55\u671B<\/h3><p data-lake-id=\"484cf691e93958f04e256108dd636433\">\u867D\u7136\u4EBA\u5DE5\u667A\u80FD\u53D6\u5F97\u4E86\u663E\u8457\u7684\u8FDB\u5C55\uFF0C\u4F46\u4ECD\u7136\u9762\u4E34\u7740\u8BB8\u591A\u6311\u6218\u3002\u4F8B\u5982\uFF0C\u5F53\u524D\u7684\u4EBA\u5DE5\u667A\u80FD\u7CFB\u7EDF\u5F88\u96BE\u5B9E\u73B0\u591A\u9886\u57DF\u77E5\u8BC6\u7684\u6574\u5408\uFF0C\u5927\u90E8\u5206\u4ECD\u7136\u5C40<\/p><p data-lake-id=\"e79c186edeb1e1db4fc6d179c338551c\">\u9650\u4E8E\u7279\u5B9A\u4EFB\u52A1\u548C\u9886\u57DF\u3002\u6B64\u5916\uFF0C\u4EBA\u5DE5\u667A\u80FD\u7684\u53EF\u89E3\u91CA\u6027\u3001\u5B89\u5168\u6027\u548C\u9690\u79C1\u4FDD\u62A4\u7B49\u95EE\u9898\u4E5F\u9700\u8981\u8FDB\u4E00\u6B65\u7814\u7A76\u548C\u89E3\u51B3\u3002<\/p><p data-lake-id=\"004fa4567735a82a6e56b1eab6885668\">\u672A\u6765\uFF0C\u4EBA\u5DE5\u667A\u80FD\u5C06\u671D\u7740\u4EE5\u4E0B\u65B9\u5411\u53D1\u5C55\uFF1A<\/p><ol data-lake-id=\"87de1cac0e1a12d3a0159ed1eee7b591\"><li data-lake-id=\"461c3a285f68b143111046480dcf6420\">\u901A\u7528\u4EBA\u5DE5\u667A\u80FD\uFF1A\u76EE\u524D\u7684\u4EBA\u5DE5\u667A\u80FD\u5927\u591A\u4E13\u6CE8\u4E8E\u7279\u5B9A\u4EFB\u52A1\uFF0C\u672A\u6765\u7684\u53D1\u5C55\u65B9\u5411\u5C06\u662F\u901A\u7528\u4EBA\u5DE5\u667A\u80FD\uFF08AGI\uFF09\uFF0C\u5373\u5177\u6709\u5E7F\u6CDB\u8BA4\u77E5\u80FD\u529B\u3001\u80FD\u591F\u5728\u591A\u4E2A\u9886\u57DF\u548C\u4EFB\u52A1\u4E2D\u8868\u73B0\u51FA\u7C7B\u4EBA\u667A\u80FD\u7684\u7CFB\u7EDF\u3002<br /><\/li><li data-lake-id=\"9922276cf2a5268b900e1968d1afe1ca\">\u53EF\u89E3\u91CA\u6027\u548C\u53EF\u4FE1\u8D56\u7684\u4EBA\u5DE5\u667A\u80FD\uFF1A\u4E3A\u4E86\u8BA9\u4EBA\u5DE5\u667A\u80FD\u66F4\u597D\u5730\u670D\u52A1\u4E8E\u4EBA\u7C7B\uFF0C\u6211\u4EEC\u9700\u8981\u6784\u5EFA\u53EF\u89E3\u91CA\u548C\u53EF\u4FE1\u8D56\u7684\u4EBA\u5DE5\u667A\u80FD\u7CFB\u7EDF\u3002\u8FD9\u610F\u5473\u7740\u9700\u8981\u7814\u7A76\u65B0\u7684\u7B97\u6CD5\u548C\u65B9\u6CD5\uFF0C\u4F7F\u4EBA\u5DE5\u667A\u80FD\u7CFB\u7EDF\u7684\u51B3\u7B56\u8FC7\u7A0B\u66F4\u52A0\u900F\u660E\uFF0C\u4FBF\u4E8E\u4EBA\u7C7B\u7406\u89E3\u548C\u76D1\u7BA1\u3002<br /><\/li><li data-lake-id=\"8d1d84f931f1ffa33b75654a356c9466\">\u4EBA\u5DE5\u667A\u80FD\u4E0E\u4EBA\u7C7B\u534F\u4F5C\uFF1A\u4EBA\u5DE5\u667A\u80FD\u4E0D\u4EC5\u8981\u53D6\u4EE3\u4EBA\u7C7B\u7684\u67D0\u4E9B\u5DE5\u4F5C\uFF0C\u66F4\u91CD\u8981\u7684\u662F\u4E0E\u4EBA\u7C7B\u5BC6\u5207\u534F\u4F5C\uFF0C\u5171\u540C\u89E3\u51B3\u590D\u6742\u95EE\u9898\u3002\u672A\u6765\u7684\u4EBA\u5DE5\u667A\u80FD\u7CFB\u7EDF\u5C06\u66F4\u52A0\u5F3A\u8C03\u4E0E\u4EBA\u7C7B\u7684\u4EA4\u4E92\uFF0C\u4EE5\u53CA\u5BF9\u4EBA\u7C7B\u9700\u6C42\u7684\u7406\u89E3\u548C\u6EE1\u8DB3\u3002<br /><\/li><li data-lake-id=\"308f326b6ec6c5dc4caadc69eb3509fb\">\u6570\u636E\u5B89\u5168\u548C\u9690\u79C1\u4FDD\u62A4\uFF1A\u968F\u7740\u5927\u6570\u636E\u548C\u4EBA\u5DE5\u667A\u80FD\u7684\u5E7F\u6CDB\u5E94\u7528\uFF0C\u6570\u636E\u5B89\u5168\u548C\u9690\u79C1\u4FDD\u62A4\u6210\u4E3A\u8D8A\u6765\u8D8A\u91CD\u8981\u7684\u8BAE\u9898\u3002\u672A\u6765\u7684\u4EBA\u5DE5\u667A\u80FD\u7CFB\u7EDF\u9700\u8981\u5728\u4FDD\u8BC1\u6027\u80FD\u7684\u540C\u65F6\uFF0C\u66F4\u52A0\u6CE8\u91CD\u7528\u6237\u9690\u79C1\u7684\u4FDD\u62A4\uFF0C\u9075\u5B88\u76F8\u5173\u6CD5\u5F8B\u6CD5\u89C4\u3002<br /><\/li><li data-lake-id=\"f7e6d9a112b0ff247fc1f26add686c79\">\u4EBA\u5DE5\u667A\u80FD\u4F26\u7406\uFF1A\u968F\u7740\u4EBA\u5DE5\u667A\u80FD\u5728\u5404\u4E2A\u9886\u57DF\u7684\u5E7F\u6CDB\u5E94\u7528\uFF0C\u4EBA\u5DE5\u667A\u80FD\u4F26\u7406\u95EE\u9898\u65E5\u76CA\u51F8\u663E\u3002\u5982\u4F55\u786E\u4FDD\u4EBA\u5DE5\u667A\u80FD\u7CFB\u7EDF\u7684\u516C\u5E73\u3001\u900F\u660E\u548C\u53EF\u63A7\uFF0C\u9632\u6B62\u6EE5\u7528\u548C\u6B67\u89C6\u7B49\u95EE\u9898\uFF0C\u5C06\u6210\u4E3A\u672A\u6765\u4EBA\u5DE5\u667A\u80FD\u7814\u7A76\u7684\u91CD\u8981\u65B9\u5411\u3002<br /><\/li><\/ol><p data-lake-id=\"c87a301119d654ac5be5ac3c61b733c9\">\u603B\u4E4B\uFF0C\u4EBA\u5DE5\u667A\u80FD\u4F5C\u4E3A\u4E00\u4E2A\u4E0D\u65AD\u53D1\u5C55\u7684\u9886\u57DF\uFF0C\u5C06\u7EE7\u7EED\u5F15\u9886\u79D1\u6280\u521B\u65B0\u7684\u6D6A\u6F6E\u3002\u5728\u63A2\u7D22\u672A\u6765\u7684\u9053\u8DEF\u4E0A\uFF0C\u6211\u4EEC\u9700\u8981\u4E0D\u65AD\u5B66\u4E60\u3001\u5B9E\u8DF5\u548C\u521B\u65B0\uFF0C\u5171\u540C\u63A8\u52A8\u4EBA\u5DE5\u667A\u80FD\u9886\u57DF\u7684\u7E41\u8363\u53D1\u5C55\uFF0C\u4E3A\u4EBA\u7C7B\u793E\u4F1A\u7684\u8FDB\u6B65\u8D21\u732E\u529B\u91CF\u3002<\/p><h2 data-lake-id=\"2a7e1c1a109e7f46abd9b982e8486f95\" id=\"BHqnW\"><a name=\"t7\"><\/a>\u4E8C \u4EBA\u5DE5\u667A\u80FD\u7684\u57FA\u672C\u6982\u5FF5\uFF1A<\/h2><h3 data-lake-id=\"55fa46c80b8576f87628dc868f88b0eb\" id=\"YXO0d\"><a name=\"t8\"><\/a>1.\u5F31\u4EBA\u5DE5\u667A\u80FD\u4E0E\u5F3A\u4EBA\u5DE5\u667A\u80FD<\/h3><p data-lake-id=\"30ffec80fd01061449c4d83fd54b7964\">\u5F31\u4EBA\u5DE5\u667A\u80FD\uFF08Weak AI\uFF09\u6307\u7684\u662F\u4E13\u6CE8\u4E8E\u89E3\u51B3\u7279\u5B9A\u4EFB\u52A1\u7684\u4EBA\u5DE5\u667A\u80FD\u7CFB\u7EDF\u3002\u8FD9\u7C7B\u7CFB\u7EDF\u901A\u5E38\u5728\u67D0\u4E00\u7279\u5B9A\u9886\u57DF\u8868\u73B0\u51FA\u8272\uFF0C\u4F46\u7F3A\u4E4F\u5E7F\u6CDB\u7684\u8BA4\u77E5\u80FD\u529B\u3002\u8BB8\u591A\u76EE\u524D\u7684\u4EBA\u5DE5\u667A\u80FD\u5E94\u7528\uFF0C\u5982\u8BED\u97F3\u8BC6\u522B\u3001\u56FE\u50CF\u8BC6\u522B\u7B49\uFF0C\u90FD\u5C5E\u4E8E\u5F31\u4EBA\u5DE5\u667A\u80FD\u3002<\/p><p data-lake-id=\"a6de9ffc38838796ad621bc350abd576\">\u5F3A\u4EBA\u5DE5\u667A\u80FD\uFF08Strong AI\uFF09\u662F\u6307\u5177\u6709\u7C7B\u4F3C\u4E8E\u4EBA\u7C7B\u7684\u5E7F\u6CDB\u8BA4\u77E5\u80FD\u529B\u7684\u4EBA\u5DE5\u667A\u80FD\u7CFB\u7EDF\u3002\u8FD9\u7C7B\u7CFB\u7EDF\u80FD\u591F\u5728\u591A\u4E2A\u9886\u57DF\u548C\u4EFB\u52A1\u4E2D\u8868\u73B0\u51FA\u7C7B\u4EBA\u667A\u80FD\uFF0C\u751A\u81F3\u8D85\u8D8A\u4EBA\u7C7B\u3002\u76EE\u524D\uFF0C\u5F3A\u4EBA\u5DE5\u667A\u80FD\u4ECD\u7136\u662F\u7814\u7A76\u7684\u76EE\u6807\uFF0C\u5C1A\u672A\u5B9E\u73B0\u3002<\/p><h3 data-lake-id=\"80e02cbcdf9bb202cece8ed3b13c8e5a\" id=\"CdYsW\"><a name=\"t9\"><\/a>2.\u4EBA\u5DE5\u667A\u80FD\u7684\u5B50\u9886\u57DF\uFF1A\u673A\u5668\u5B66\u4E60\u3001\u6DF1\u5EA6\u5B66\u4E60\u3001\u81EA\u7136\u8BED\u8A00\u5904\u7406\u7B49<\/h3><ul data-lake-id=\"877abb7f2edddc5396ea2bb5a893747e\"><li data-lake-id=\"d2464f0fb22a64752f0026a71ba330a5\">\u673A\u5668\u5B66\u4E60\uFF08Machine Learning\uFF09\uFF1A\u673A\u5668\u5B66\u4E60\u662F\u4EBA\u5DE5\u667A\u80FD\u7684\u4E00\u4E2A\u5B50\u9886\u57DF\uFF0C\u901A\u8FC7\u8BA9\u8BA1\u7B97\u673A\u4ECE\u6570\u636E\u4E2D\u5B66\u4E60\u77E5\u8BC6\u548C\u6280\u80FD\uFF0C\u800C\u65E0\u9700\u8FDB\u884C\u663E\u5F0F\u7F16\u7A0B\u3002\u5E38\u89C1\u7684\u673A\u5668\u5B66\u4E60\u7B97\u6CD5\u5305\u62EC\u51B3\u7B56\u6811\u3001\u652F\u6301\u5411\u91CF\u673A\u3001\u8D1D\u53F6\u65AF\u5206\u7C7B\u5668\u7B49\u3002<br /><\/li><li data-lake-id=\"0ea8b69ec08be5f55e521b498a5f6f4e\">\u6DF1\u5EA6\u5B66\u4E60\uFF08Deep Learning\uFF09\uFF1A\u6DF1\u5EA6\u5B66\u4E60\u662F\u673A\u5668\u5B66\u4E60\u7684\u4E00\u4E2A\u5206\u652F\uFF0C\u4E3B\u8981\u4F9D\u8D56\u795E\u7ECF\u7F51\u7EDC\u6A21\u578B\uFF0C\u7279\u522B\u662F\u6DF1\u5C42\u795E\u7ECF\u7F51\u7EDC\u8FDB\u884C\u5B66\u4E60\u3002\u6DF1\u5EA6\u5B66\u4E60\u6280\u672F\u5728\u8BA1\u7B97\u673A\u89C6\u89C9\u3001\u81EA\u7136\u8BED\u8A00\u5904\u7406\u7B49\u9886\u57DF\u53D6\u5F97\u4E86\u7A81\u7834\u6027\u7684\u6210\u679C\uFF0C\u5982\u5377\u79EF\u795E\u7ECF\u7F51\u7EDC\uFF08CNN\uFF09\u3001\u5FAA\u73AF\u795E\u7ECF\u7F51\u7EDC\uFF08RNN\uFF09\u7B49\u3002<br /><\/li><li data-lake-id=\"84a4d02e6f5d94ed03b17ea80405feb3\">\u81EA\u7136\u8BED\u8A00\u5904\u7406\uFF08Natural Language Processing\uFF0C\u7B80\u79F0NLP\uFF09\uFF1A\u81EA\u7136\u8BED\u8A00\u5904\u7406\u662F\u7814\u7A76\u5982\u4F55\u8BA9\u8BA1\u7B97\u673A\u7406\u89E3\u3001\u751F\u6210\u548C\u5904\u7406\u4EBA\u7C7B\u81EA\u7136\u8BED\u8A00\u7684\u9886\u57DF\u3002NLP\u6280\u672F\u5E7F\u6CDB\u5E94\u7528\u4E8E\u8BED\u97F3\u8BC6\u522B\u3001\u673A\u5668\u7FFB\u8BD1\u3001\u60C5\u611F\u5206\u6790\u7B49\u4EFB\u52A1\u3002<br /><\/li><\/ul><h3 data-lake-id=\"26e337dc686f9562de471ad9c8875425\" id=\"BaYwP\"><a name=\"t10\"><\/a>3.\u4E3B\u8981\u7684\u5B66\u4E60\u8303\u5F0F\uFF1A\u76D1\u7763\u5B66\u4E60\u3001\u65E0\u76D1\u7763\u5B66\u4E60\u3001\u534A\u76D1\u7763\u5B66\u4E60\u3001\u5F3A\u5316\u5B66\u4E60<\/h3><ul data-lake-id=\"4d1c50708f43a47010a4c33711cdce28\"><li data-lake-id=\"75def140e48dc4be281a642bb4157894\">\u76D1\u7763\u5B66\u4E60\uFF08Supervised Learning\uFF09\uFF1A\u76D1\u7763\u5B66\u4E60\u662F\u6307\u4ECE\u5E26\u6709\u6807\u7B7E\u7684\u8BAD\u7EC3\u6570\u636E\u4E2D\u5B66\u4E60\u6A21\u578B\u7684\u8FC7\u7A0B\u3002\u5728\u8FD9\u79CD\u60C5\u51B5\u4E0B\uFF0C\u8BA1\u7B97\u673A\u901A\u8FC7\u62DF\u5408\u8F93\u5165\u7279\u5F81\u4E0E\u8F93\u51FA\u6807\u7B7E\u4E4B\u95F4\u7684\u6620\u5C04\u5173\u7CFB\uFF0C\u8FDB\u884C\u9884\u6D4B\u548C\u5206\u7C7B\u3002<br /><\/li><li data-lake-id=\"11bb9b02d434075b9a427120d062ed1d\">\u65E0\u76D1\u7763\u5B66\u4E60\uFF08Unsupervised Learning\uFF09\uFF1A\u65E0\u76D1\u7763\u5B66\u4E60\u662F\u6307\u5728\u6CA1\u6709\u6807\u7B7E\u7684\u8BAD\u7EC3\u6570\u636E\u4E2D\u5BFB\u627E\u6A21\u5F0F\u548C\u7ED3\u6784\u7684\u8FC7\u7A0B\u3002\u5E38\u89C1\u7684\u65E0\u76D1\u7763\u5B66\u4E60\u4EFB\u52A1\u5305\u62EC\u805A\u7C7B\uFF08Clustering\uFF09\u548C\u964D\u7EF4\uFF08Dimensionality Reduction\uFF09\u3002\u8FD9\u79CD\u5B66\u4E60\u65B9\u6CD5\u8BD5\u56FE\u901A\u8FC7\u6316\u6398\u6570\u636E\u4E2D\u7684\u6F5C\u5728\u89C4\u5F8B\uFF0C\u4E3A\u6570\u636E\u8D4B\u4E88\u610F\u4E49\u3002<br /><\/li><li data-lake-id=\"63519070b43bc00f2a8ff325a0c29e76\">\u534A\u76D1\u7763\u5B66\u4E60\uFF08Semi-supervised Learning\uFF09\uFF1A\u534A\u76D1\u7763\u5B66\u4E60\u4ECB\u4E8E\u76D1\u7763\u5B66\u4E60\u548C\u65E0\u76D1\u7763\u5B66\u4E60\u4E4B\u95F4\uFF0C\u5229\u7528\u5C11\u91CF\u5E26\u6709\u6807\u7B7E\u7684\u6570\u636E\u548C\u5927\u91CF\u65E0\u6807\u7B7E\u7684\u6570\u636E\u8FDB\u884C\u5B66\u4E60\u3002\u8FD9\u79CD\u65B9\u6CD5\u901A\u8FC7\u7ED3\u5408\u76D1\u7763\u548C\u65E0\u76D1\u7763\u5B66\u4E60\u7684\u4F18\u70B9\uFF0C\u63D0\u9AD8\u4E86\u5B66\u4E60\u6548\u679C\uFF0C\u5C24\u5176\u662F\u5728\u6807\u7B7E\u6570\u636E\u7A00\u7F3A\u7684\u60C5\u51B5\u4E0B\u3002<br /><\/li><li data-lake-id=\"88b2b46825501173d13d8b5b6687c70a\">\u5F3A\u5316\u5B66\u4E60\uFF08Reinforcement Learning\uFF09\uFF1A\u5F3A\u5316\u5B66\u4E60\u662F\u4E00\u79CD\u57FA\u4E8E\u5956\u52B1\u4FE1\u53F7\u8FDB\u884C\u5B66\u4E60\u7684\u65B9\u6CD5\u3002\u5728\u8FD9\u4E2A\u8FC7\u7A0B\u4E2D\uFF0C\u667A\u80FD\u4F53\uFF08Agent\uFF09\u901A\u8FC7\u4E0E\u73AF\u5883\u4E92\u52A8\uFF0C\u91C7\u53D6\u4E00\u7CFB\u5217\u7684\u884C\u52A8\uFF0C\u5E76\u4ECE\u73AF\u5883\u4E2D\u83B7\u5F97\u5956\u52B1\u6216\u60E9\u7F5A\u4FE1\u53F7\u3002\u901A\u8FC7\u4E0D\u65AD\u5730\u8BD5\u9519\u548C\u4F18\u5316\uFF0C\u667A\u80FD\u4F53\u5B66\u4F1A\u5728\u7ED9\u5B9A\u7684\u73AF\u5883\u4E2D\u91C7\u53D6\u6700\u4F73\u884C\u52A8\u4EE5\u5B9E\u73B0\u76EE\u6807\u3002<br /><\/li><\/ul><p data-lake-id=\"fd8caebe443acc7e9064f340ac6840a1\">\u901A\u8FC7\u638C\u63E1\u8FD9\u4E9B\u57FA\u672C\u6982\u5FF5\uFF0C\u6211\u4EEC\u53EF\u4EE5\u66F4\u597D\u5730\u7406\u89E3\u4EBA\u5DE5\u667A\u80FD\u7684\u5185\u6DB5\u548C\u6280\u672F\u65B9\u6CD5\u3002\u5728\u540E\u7EED\u7684\u6587\u7AE0\u4E2D\uFF0C\u6211\u4EEC\u5C06\u66F4\u6DF1\u5165\u5730\u63A2\u8BA8\u5404\u4E2A\u5B50\u9886\u57DF\u7684\u6280\u672F\u548C\u5E94\u7528\uFF0C\u5E76\u7ED3\u5408\u5B9E\u9645\u6848\u4F8B\u4E0E\u4EE3\u7801\u793A\u4F8B\uFF0C\u5E2E\u52A9\u8BFB\u8005\u66F4\u597D\u5730\u7406\u89E3\u548C\u5E94\u7528\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u3002<\/p><h2 data-lake-id=\"59fecd2f705c7eeb1f878702996a5e99\" id=\"YjOqE\"><a name=\"t11\"><\/a>\u4E09 \u4EBA\u5DE5\u667A\u80FD\u5E94\u7528\u9886\u57DF\uFF1A<\/h2><ol data-lake-id=\"c0e03b3d06c4d2be46a7410aa13eca0e\"><li data-lake-id=\"076bc3085e8469cbcdf9d680624038ad\">\u8BA1\u7B97\u673A\u89C6\u89C9\uFF1A\u8BA1\u7B97\u673A\u89C6\u89C9\u662F\u4E00\u95E8\u7814\u7A76\u5982\u4F55\u8BA9\u8BA1\u7B97\u673A\u7406\u89E3\u548C\u5904\u7406\u56FE\u50CF\u4FE1\u606F\u7684\u5B66\u79D1\u3002\u901A\u8FC7\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\uFF0C\u5C24\u5176\u662F\u6DF1\u5EA6\u5B66\u4E60\u6280\u672F\uFF0C\u8BA1\u7B97\u673A\u89C6\u89C9\u5728\u4EE5\u4E0B\u9886\u57DF\u53D6\u5F97\u4E86\u663E\u8457\u7684\u6210\u679C\uFF1A<\/li><\/ol><ul data-lake-id=\"682bbd4704c61953d8e599118b9e0281\" data-lake-indent=\"1\"><li data-lake-id=\"0221cec4c2a0e2a8c78c6aa8d751dd45\">\u56FE\u50CF\u8BC6\u522B\uFF1A\u5982\u5C06\u56FE\u7247\u5206\u7C7B\u4E3A\u4E0D\u540C\u7684\u7C7B\u522B\uFF0C\u4F8B\u5982\u8BC6\u522B\u52A8\u7269\u3001\u690D\u7269\u7B49\uFF1B<\/li><li data-lake-id=\"2be2e8f34b34fc374d9ab619d07720f2\">\u76EE\u6807\u68C0\u6D4B\uFF1A\u5982\u8BC6\u522B\u56FE\u7247\u4E2D\u7684\u7279\u5B9A\u7269\u4F53\u5E76\u7ED9\u51FA\u5B83\u4EEC\u7684\u8FB9\u754C\u6846\uFF1B<\/li><li data-lake-id=\"4f1be5a4978e77d6ef429bc0027a3b3e\">\u56FE\u50CF\u5206\u5272\uFF1A\u5982\u5C06\u56FE\u7247\u4E2D\u7684\u6BCF\u4E2A\u50CF\u7D20\u5206\u914D\u5230\u7279\u5B9A\u7684\u7C7B\u522B\uFF0C\u8FDB\u884C\u66F4\u7EC6\u81F4\u7684\u56FE\u50CF\u7406\u89E3\u3002<\/li><\/ul><ol data-lake-id=\"d004b7b52c1c2d816513b71e77cc668d\" start=\"2\"><li data-lake-id=\"a30301b3a7d389ab84ad1f848a0e9a91\">\u81EA\u7136\u8BED\u8A00\u5904\u7406\uFF1A\u81EA\u7136\u8BED\u8A00\u5904\u7406\uFF08NLP\uFF09\u662F\u7814\u7A76\u5982\u4F55\u8BA9\u8BA1\u7B97\u673A\u7406\u89E3\u3001\u751F\u6210\u548C\u5904\u7406\u4EBA\u7C7B\u81EA\u7136\u8BED\u8A00\u7684\u9886\u57DF\u3002NLP\u6280\u672F\u5E7F\u6CDB\u5E94\u7528\u4E8E\u4EE5\u4E0B\u4EFB\u52A1\uFF1A<\/li><\/ol><ul data-lake-id=\"29f3ede2316f48c3654f44a4c75623b4\" data-lake-indent=\"1\"><li data-lake-id=\"3c309b4e80762d02b2a4ece36e63c8a4\">\u673A\u5668\u7FFB\u8BD1\uFF1A\u5982\u5C06\u4E00\u79CD\u81EA\u7136\u8BED\u8A00\u7FFB\u8BD1\u6210\u53E6\u4E00\u79CD\u81EA\u7136\u8BED\u8A00\uFF1B<\/li><li data-lake-id=\"66aacf83d105029e7fe90d5020653fb7\">\u6587\u672C\u5206\u7C7B\uFF1A\u5982\u6839\u636E\u5185\u5BB9\u5C06\u6587\u672C\u5206\u4E3A\u4E0D\u540C\u7684\u7C7B\u522B\uFF1B<\/li><li data-lake-id=\"0b6faae0c45f5b4406981f2ae754ade0\">\u60C5\u611F\u5206\u6790\uFF1A\u5982\u5206\u6790\u6587\u672C\u4E2D\u8868\u8FBE\u7684\u60C5\u611F\uFF0C\u5982\u6B63\u9762\u3001\u8D1F\u9762\u6216\u4E2D\u6027\u3002<\/li><\/ul><ol data-lake-id=\"4ca2030d116837837f519f0075cc6be2\" start=\"3\"><li data-lake-id=\"91501345f64bb199c64831de97c190f8\">\u8BED\u97F3\u8BC6\u522B\u548C\u5408\u6210\uFF1A\u8BED\u97F3\u8BC6\u522B\u662F\u5C06\u4EBA\u7C7B\u7684\u8BED\u97F3\u8F6C\u6362\u4E3A\u53EF\u7406\u89E3\u7684\u6587\u672C\u4FE1\u606F\uFF0C\u800C\u8BED\u97F3\u5408\u6210\u5219\u662F\u5C06\u6587\u672C\u4FE1\u606F\u8F6C\u6362\u4E3A\u4EBA\u7C7B\u53EF\u7406\u89E3\u7684\u8BED\u97F3\u3002\u8FD9\u4E9B\u6280\u672F\u5DF2\u5E7F\u6CDB\u5E94\u7528\u4E8E\u667A\u80FD\u52A9\u624B\u3001\u8BED\u97F3\u641C\u7D22\u7B49\u573A\u666F\u3002<br /><\/li><li data-lake-id=\"b4b0723204c11cacaeb8bebca832909f\">\u65E0\u4EBA\u9A7E\u9A76\u6C7D\u8F66\u4E0E\u673A\u5668\u4EBA\uFF1A\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5728\u65E0\u4EBA\u9A7E\u9A76\u6C7D\u8F66\u548C\u673A\u5668\u4EBA\u9886\u57DF\u7684\u5E94\u7528\u65E5\u76CA\u6210\u719F\uFF0C\u5982\u81EA\u52A8\u9A7E\u9A76\u6C7D\u8F66\u7684\u8DEF\u5F84\u89C4\u5212\u3001\u969C\u788D\u7269\u68C0\u6D4B\u548C\u907F\u969C\u7B49\uFF1B\u673A\u5668\u4EBA\u7684\u89C6\u89C9\u8BC6\u522B\u3001\u81EA\u4E3B\u5BFC\u822A\u548C\u4EBA\u673A\u4EA4\u4E92\u7B49\u3002<br /><\/li><li data-lake-id=\"e00dcfb6ff3689d55a709d0e7e37dde0\">\u63A8\u8350\u7CFB\u7EDF\uFF1A\u63A8\u8350\u7CFB\u7EDF\u662F\u901A\u8FC7\u5206\u6790\u7528\u6237\u7684\u884C\u4E3A\u548C\u559C\u597D\uFF0C\u4E3A\u7528\u6237\u63D0\u4F9B\u4E2A\u6027\u5316\u7684\u4FE1\u606F\u548C\u4EA7\u54C1\u63A8\u8350\u3002\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5728\u63A8\u8350\u7CFB\u7EDF\u4E2D\u7684\u5E94\u7528\u5305\u62EC\u534F\u540C\u8FC7\u6EE4\u3001\u57FA\u4E8E\u5185\u5BB9\u7684\u63A8\u8350\u7B49\u3002<br /><\/li><li data-lake-id=\"49fb4a2751866d11344afd413421be45\">\u6E38\u620F\u667A\u80FD\uFF1A\u4EBA\u5DE5\u667A\u80FD\u5728\u6E38\u620F\u9886\u57DF\u7684\u5E94\u7528\u5305\u62EC\u667A\u80FD\u6E38\u620F\u89D2\u8272\u3001\u6E38\u620F\u7B56\u7565\u751F\u6210\u548C\u4F18\u5316\u3001\u81EA\u52A8\u751F\u6210\u6E38\u620F\u5185\u5BB9\u7B49\u3002<br /><\/li><li data-lake-id=\"adeb4d41da280a0b8d62c4dd6142b36c\">\u533B\u7597\u8BCA\u65AD\u4E0E\u836F\u7269\u7814\u7A76\uFF1A\u4EBA\u5DE5\u667A\u80FD\u5728\u533B\u7597\u9886\u57DF\u7684\u5E94\u7528\u5305\u62EC\u8F85\u52A9\u8BCA\u65AD\u3001\u57FA\u56E0\u7EC4\u5B66\u7814\u7A76\u3001\u836F\u7269\u53D1\u73B0\u7B49\u3002\u901A\u8FC7\u6DF1\u5EA6\u5B66\u4E60\u7B49\u6280\u672F\uFF0C\u4EBA\u5DE5\u667A\u80FD\u53EF\u4EE5\u5E2E\u52A9\u533B\u751F\u66F4\u51C6\u786E\u5730\u5206\u6790\u75C5\u75C7\u3001\u8BC6\u522B\u75BE\u75C5\u7684\u53D1\u5C55\u8D8B\u52BF\u4EE5\u53CA\u53D1\u73B0\u6F5C\u5728\u7684\u6CBB\u7597\u65B9\u6CD5\u3002\u540C\u65F6\uFF0C\u5728\u836F\u7269\u7814\u7A76\u9886\u57DF\uFF0C\u4EBA\u5DE5\u667A\u80FD\u53EF\u4EE5\u52A0\u901F\u65B0\u836F\u7684\u53D1\u73B0\u8FC7\u7A0B\uFF0C\u8282\u7701\u7814\u53D1\u6210\u672C\uFF0C\u63D0\u9AD8\u836F\u7269\u7814\u7A76\u7684\u6210\u529F\u7387\u3002<br /><\/li><li data-lake-id=\"731f22255d3beff718dd7af6c4a889d7\">\u91D1\u878D\u98CE\u63A7\u4E0E\u4EA4\u6613\uFF1A\u4EBA\u5DE5\u667A\u80FD\u5728\u91D1\u878D\u9886\u57DF\u7684\u5E94\u7528\u4E3B\u8981\u5305\u62EC\u98CE\u9669\u63A7\u5236\u3001\u4EA4\u6613\u7B56\u7565\u751F\u6210\u548C\u4F18\u5316\u7B49\u3002\u901A\u8FC7\u5BF9\u6D77\u91CF\u7684\u91D1\u878D\u6570\u636E\u8FDB\u884C\u6DF1\u5165\u5206\u6790\uFF0C\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u53EF\u4EE5\u5E2E\u52A9\u91D1\u878D\u673A\u6784\u66F4\u51C6\u786E\u5730\u8BC6\u522B\u6F5C\u5728\u7684\u98CE\u9669\uFF0C\u5236\u5B9A\u5408\u9002\u7684\u98CE\u9669\u7BA1\u7406\u7B56\u7565\u3002\u6B64\u5916\uFF0C\u4EBA\u5DE5\u667A\u80FD\u5728\u9AD8\u9891\u4EA4\u6613\u3001\u91CF\u5316\u6295\u8D44\u7B49\u9886\u57DF\u7684\u5E94\u7528\u4E5F\u65E5\u76CA\u6210\u719F\uFF0C\u4E3A\u4EA4\u6613\u8005\u63D0\u4F9B\u4E86\u66F4\u9AD8\u6548\u3001\u66F4\u667A\u80FD\u7684\u4EA4\u6613\u5DE5\u5177\u3002<\/li><\/ol><p data-lake-id=\"69bca8f7331a2603f8bc7634487402ec\">\u603B\u4E4B\uFF0C\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5DF2\u7ECF\u5728\u5404\u4E2A\u9886\u57DF\u53D6\u5F97\u4E86\u663E\u8457\u7684\u7A81\u7834\u548C\u5E94\u7528\u3002\u968F\u7740\u6280\u672F\u7684\u4E0D\u65AD\u53D1\u5C55\uFF0C\u4EBA\u5DE5\u667A\u80FD\u5C06\u5728\u672A\u6765\u7EE7\u7EED\u4E3A\u6211\u4EEC\u7684\u751F\u6D3B\u3001\u5DE5\u4F5C\u548C\u793E\u4F1A\u5E26\u6765\u66F4\u591A\u7684\u53D8\u9769\u548C\u4EF7\u503C\u3002\u5728\u540E\u7EED\u6587\u7AE0\u4E2D\uFF0C\u6211\u4EEC\u5C06\u66F4\u6DF1\u5165\u5730\u63A2\u8BA8\u5404\u4E2A\u5E94\u7528\u9886\u57DF\u7684\u6280\u672F\u548C\u6848\u4F8B\uFF0C\u5E2E\u52A9\u8BFB\u8005\u66F4\u597D\u5730\u7406\u89E3\u548C\u5E94\u7528\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u3002<\/p><p data-lake-id=\"1f95f4b6e5ba68449d7652a7d436eec8\">\xA0<\/p><h2 data-lake-id=\"b69e40d6e2f95be2ff212c6d453ba018\" id=\"WIecc\"><a name=\"t12\"><\/a>\u56DB \u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u793E\u4F1A\u5F71\u54CD\uFF1A<\/h2><h3 data-lake-id=\"62d72429c62f2813a0636515387f66e7\" id=\"61yRJ\"><a name=\"t13\"><\/a>1.\u7ECF\u6D4E\u53D1\u5C55\u4E0E\u4EA7\u4E1A\u53D8\u9769<\/h3><p data-lake-id=\"015c66af1a767f71f5f22bf76940e55f\">\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5DF2\u7ECF\u6DF1\u523B\u6539\u53D8\u4E86\u8BB8\u591A\u884C\u4E1A\u7684\u751F\u4EA7\u548C\u7ECF\u8425\u65B9\u5F0F\uFF0C\u63D0\u9AD8\u4E86\u751F\u4EA7\u6548\u7387\uFF0C\u964D\u4F4E\u4E86\u6210\u672C\uFF0C\u5E26\u6765\u4E86\u65B0\u7684\u7ECF\u6D4E\u589E\u957F\u70B9\u3002\u4ECE\u5236\u9020\u4E1A\u5230\u670D\u52A1\u4E1A\uFF0C\u4ECE\u519C\u4E1A\u5230\u533B\u7597\uFF0C\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u5E94\u7528\u6B63\u5728\u63A8\u52A8\u5404\u884C\u4E1A\u7684\u521B\u65B0\u548C\u53D8\u9769\u3002\u7136\u800C\uFF0C\u968F\u7740\u6280\u672F\u7684\u5E7F\u6CDB\u5E94\u7528\uFF0C\u4E00\u4E9B\u4F20\u7EDF\u884C\u4E1A\u548C\u804C\u4E1A\u4E5F\u5C06\u9762\u4E34\u91CD\u5927\u7684\u6311\u6218\u548C\u6539\u53D8\u3002<\/p><h3 data-lake-id=\"676da2204c8fae7c467be8b84e4242cf\" id=\"YTisj\"><a name=\"t14\"><\/a>2.\u804C\u4E1A\u5E02\u573A\u4E0E\u6559\u80B2\u6539\u9769<\/h3><p data-lake-id=\"1ab2299522a45dbb93558a7b052134ca\">\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u53D1\u5C55\u5BF9\u804C\u4E1A\u5E02\u573A\u4EA7\u751F\u4E86\u6DF1\u8FDC\u5F71\u54CD\u3002\u4E00\u65B9\u9762\uFF0C\u4EBA\u5DE5\u667A\u80FD\u5C06\u66FF\u4EE3\u90E8\u5206\u91CD\u590D\u6027\u52B3\u52A8\u548C\u4F4E\u6280\u80FD\u5DE5\u4F5C\uFF0C\u4ECE\u800C\u964D\u4F4E\u5BF9\u4EBA\u529B\u8D44\u6E90\u7684\u9700\u6C42\uFF1B\u53E6\u4E00\u65B9\u9762\uFF0C\u5BF9\u9AD8\u6280\u80FD\u4EBA\u624D\uFF0C\u7279\u522B\u662F\u4EBA\u5DE5\u667A\u80FD\u9886\u57DF\u7684\u4E13\u4E1A\u4EBA\u624D\u7684\u9700\u6C42\u5C06\u4E0D\u65AD\u589E\u52A0\u3002\u56E0\u6B64\uFF0C\u6559\u80B2\u6539\u9769\u6210\u4E3A\u4E86\u5E94\u5BF9\u8FD9\u4E00\u53D8\u5316\u7684\u5173\u952E\u3002\u6559\u80B2\u4F53\u7CFB\u9700\u8981\u9002\u5E94\u65F6\u4EE3\u7684\u53D1\u5C55\uFF0C\u57F9\u517B\u5177\u5907\u521B\u65B0\u80FD\u529B\u3001\u8DE8\u5B66\u79D1\u77E5\u8BC6\u548C\u6280\u80FD\u7684\u4EBA\u624D\u3002<\/p><h3 data-lake-id=\"b76e6ce5e6511c29a8dcf7a998f935a9\" id=\"AscYb\"><a name=\"t15\"><\/a>3.\u4F26\u7406\u6311\u6218\u4E0E\u9690\u79C1\u4FDD\u62A4\uFF1A<\/h3><p data-lake-id=\"950f1df2f909b34c7f1163511edcf2c8\">\u968F\u7740\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5728\u5404\u4E2A\u9886\u57DF\u7684\u5E7F\u6CDB\u5E94\u7528\uFF0C\u4F26\u7406\u548C\u9690\u79C1\u95EE\u9898\u9010\u6E10\u663E\u73B0\u3002\u4F8B\u5982\uFF0C\u5728\u4EBA\u8138\u8BC6\u522B\u3001\u4E2A\u6027\u5316\u63A8\u8350\u7B49\u5E94\u7528\u4E2D\uFF0C\u5982\u4F55\u4FDD\u62A4\u7528\u6237\u7684\u9690\u79C1\u548C\u907F\u514D\u6EE5\u7528\u6280\u672F\u6210\u4E3A\u4E86\u4E00\u4E2A\u4E9F\u5F85\u89E3\u51B3\u7684\u95EE\u9898\u3002\u6B64\u5916\uFF0C\u5F53\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u6D89\u53CA\u5230\u51B3\u7B56\u548C\u9053\u5FB7\u5224\u65AD\u65F6\uFF0C\u5982\u81EA\u52A8\u9A7E\u9A76\u6C7D\u8F66\u5728\u7D27\u6025\u60C5\u51B5\u4E0B\u5982\u4F55\u4F5C\u51FA\u51B3\u7B56\uFF0C\u5982\u4F55\u786E\u4FDD\u7B97\u6CD5\u7684\u516C\u5E73\u6027\u548C\u900F\u660E\u5EA6\u7B49\uFF0C\u90FD\u9700\u8981\u5168\u793E\u4F1A\u5171\u540C\u9762\u5BF9\u548C\u89E3\u51B3\u7684\u4F26\u7406\u6311\u6218\u3002<\/p><p data-lake-id=\"8c9239ba2ebea2924ae6bf61d8d51b0d\">\u603B\u4E4B\uFF0C\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u53D1\u5C55\u5BF9\u793E\u4F1A\u4EA7\u751F\u4E86\u6DF1\u8FDC\u7684\u5F71\u54CD\u3002\u5728\u4EAB\u53D7\u6280\u672F\u5E26\u6765\u7684\u4FBF\u5229\u548C\u53D1\u5C55\u673A\u9047\u7684\u540C\u65F6\uFF0C\u6211\u4EEC\u4E5F\u9700\u8981\u5173\u6CE8\u548C\u5E94\u5BF9\u6280\u672F\u5E26\u6765\u7684\u6311\u6218\u548C\u95EE\u9898\u3002\u53EA\u6709\u5728\u5168\u793E\u4F1A\u5171\u540C\u52AA\u529B\u4E0B\uFF0C\u6211\u4EEC\u624D\u80FD\u5145\u5206\u53D1\u6325\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u6F5C\u529B\uFF0C\u4E3A\u4EBA\u7C7B\u7684\u8FDB\u6B65\u548C\u798F\u7949\u505A\u51FA\u66F4\u5927\u7684\u8D21\u732E\u3002<\/p><h2 data-lake-id=\"abe821aed3e2d21deebc7d25525809ba\" id=\"4aScu\"><a name=\"t16\"><\/a>\u4E94 \u7ED3\u8BBA\uFF1A<\/h2><h3 data-lake-id=\"71cc3b4d631d48d3362cefdb072b51cd\" id=\"qUcyT\"><a name=\"t17\"><\/a>1.\u4EBA\u5DE5\u667A\u80FD\u7684\u53D1\u5C55\u8D8B\u52BF\u4E0E\u524D\u666F<\/h3><p data-lake-id=\"34e16db03c5a5916f13d0d00380261f5\">\u968F\u7740\u8BA1\u7B97\u80FD\u529B\u7684\u63D0\u5347\u3001\u6570\u636E\u91CF\u7684\u589E\u957F\u4EE5\u53CA\u7B97\u6CD5\u7684\u4F18\u5316\uFF0C\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5C06\u7EE7\u7EED\u53D6\u5F97\u91CD\u5927\u7A81\u7834\u548C\u8FDB\u5C55\u3002\u672A\u6765\uFF0C\u4EBA\u5DE5\u667A\u80FD\u5C06\u66F4\u52A0\u6DF1\u5165\u5730\u878D\u5165\u5404\u4E2A\u9886\u57DF\u548C\u573A\u666F\uFF0C\u63A8\u52A8\u4EA7\u4E1A\u5347\u7EA7\u3001\u521B\u65B0\u548C\u53D8\u9769\u3002\u540C\u65F6\uFF0C\u8DE8\u5B66\u79D1\u7684\u7814\u7A76\u548C\u5408\u4F5C\u5C06\u4FC3\u8FDB\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u4E0E\u5176\u4ED6\u79D1\u5B66\u9886\u57DF\u7684\u878D\u5408\u53D1\u5C55\uFF0C\u5982\u751F\u7269\u5B66\u3001\u795E\u7ECF\u79D1\u5B66\u3001\u8BA4\u77E5\u79D1\u5B66\u7B49\uFF0C\u4EE5\u671F\u89E3\u51B3\u66F4\u591A\u590D\u6742\u7684\u95EE\u9898\u3002\u6B64\u5916\uFF0C\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u4F26\u7406\u3001\u5B89\u5168\u548C\u9690\u79C1\u95EE\u9898\u5C06\u5728\u672A\u6765\u5F97\u5230\u66F4\u591A\u7684\u5173\u6CE8\u548C\u63A2\u8BA8\uFF0C\u4EE5\u786E\u4FDD\u6280\u672F\u7684\u53EF\u6301\u7EED\u53D1\u5C55\u3002<\/p><h3 data-lake-id=\"ff70e06fa8bc42aa804077a9eed4f04d\" id=\"UeeWm\"><a name=\"t18\"><\/a>2.\u4E3A\u4EC0\u4E48\u5B66\u4E60\u4EBA\u5DE5\u667A\u80FD\u53CA\u5176\u76F8\u5173\u9886\u57DF<\/h3><p data-lake-id=\"6ca5267801c25a757d22ab19a2d53999\">\u5B66\u4E60\u4EBA\u5DE5\u667A\u80FD\u53CA\u5176\u76F8\u5173\u9886\u57DF\u5177\u6709\u4EE5\u4E0B\u51E0\u4E2A\u65B9\u9762\u7684\u610F\u4E49\uFF1A<\/p><ul data-lake-id=\"0e6adb21eaabbd3ea66e2b0ebc0b8a78\"><li data-lake-id=\"8c4e3f8e3999726f53e505f6530964b1\">\u6280\u672F\u9700\u6C42\uFF1A\u968F\u7740\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5728\u5404\u884C\u4E1A\u7684\u5E7F\u6CDB\u5E94\u7528\uFF0C\u5BF9\u76F8\u5173\u6280\u672F\u4EBA\u624D\u7684\u9700\u6C42\u5C06\u6301\u7EED\u589E\u957F\u3002\u5177\u5907\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u80CC\u666F\u7684\u4E13\u4E1A\u4EBA\u624D\u5C06\u5177\u6709\u66F4\u9AD8\u7684\u5C31\u4E1A\u524D\u666F\u548C\u7ADE\u4E89\u529B\u3002<br /><\/li><li data-lake-id=\"1e9c47defd75f684b17b901d1903304a\">\u89E3\u51B3\u5B9E\u9645\u95EE\u9898\uFF1A\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5177\u6709\u5F3A\u5927\u7684\u95EE\u9898\u89E3\u51B3\u80FD\u529B\uFF0C\u53EF\u4EE5\u5E2E\u52A9\u6211\u4EEC\u89E3\u51B3\u8BB8\u591A\u5B9E\u9645\u95EE\u9898\uFF0C\u5982\u75BE\u75C5\u8BCA\u65AD\u3001\u73AF\u5883\u4FDD\u62A4\u3001\u57CE\u5E02\u89C4\u5212\u7B49\u3002\u5B66\u4E60\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5C06\u6709\u52A9\u4E8E\u4E3A\u793E\u4F1A\u521B\u9020\u66F4\u5927\u7684\u4EF7\u503C\u3002<br /><\/li><li data-lake-id=\"27fd64f1b09927b64084822370c55607\">\u63A8\u52A8\u521B\u65B0\uFF1A\u638C\u63E1\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u6709\u52A9\u4E8E\u53D1\u6398\u65B0\u7684\u5E94\u7528\u573A\u666F\u548C\u5546\u4E1A\u6A21\u5F0F\uFF0C\u4FC3\u8FDB\u4EA7\u4E1A\u521B\u65B0\u548C\u53D1\u5C55\u3002<br /><\/li><li data-lake-id=\"865baafeb53559a82a5e6a6eccce4310\">\u5168\u7403\u7ADE\u4E89\u529B\uFF1A\u5728\u5168\u7403\u8303\u56F4\u5185\uFF0C\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5DF2\u6210\u4E3A\u5404\u56FD\u7ADE\u76F8\u53D1\u5C55\u7684\u91CD\u8981\u6218\u7565\u9886\u57DF\u3002\u5B66\u4E60\u548C\u638C\u63E1\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u5C06\u6709\u52A9\u4E8E\u63D0\u5347\u4E2A\u4EBA\u548C\u56FD\u5BB6\u7684\u5168\u7403\u7ADE\u4E89\u529B\u3002<br /><\/li><li data-lake-id=\"854530211f57940c7b4406d503826bb9\">\u4E2A\u4EBA\u5174\u8DA3\u4E0E\u6210\u957F\uFF1A\u5BF9\u4E8E\u5BF9\u79D1\u6280\u548C\u521B\u65B0\u611F\u5174\u8DA3\u7684\u4EBA\u6765\u8BF4\uFF0C\u5B66\u4E60\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u53EF\u4EE5\u6EE1\u8DB3\u4E2A\u4EBA\u7684\u6C42\u77E5\u6B32\u671B\uFF0C\u57F9\u517B\u521B\u65B0\u80FD\u529B\u548C\u89E3\u51B3\u95EE\u9898\u7684\u80FD\u529B\u3002<br /><\/li><\/ul><p data-lake-id=\"c388dc8782d3285843c3e10c8e2b56b7\">\u7EFC\u4E0A\u6240\u8FF0\uFF0C\u5B66\u4E60\u4EBA\u5DE5\u667A\u80FD\u53CA\u5176\u76F8\u5173\u9886\u57DF\u5177\u6709\u91CD\u8981\u7684\u73B0\u5B9E\u610F\u4E49\u548C\u957F\u8FDC\u4EF7\u503C\u3002\u5E0C\u671B\u901A\u8FC7\u672C\u4E13\u680F\u7684\u6DF1\u5165\u63A2\u8BA8\uFF0C\u80FD\u591F\u5E2E\u52A9\u5927\u5BB6\u66F4\u597D\u5730\u7406\u89E3\u548C<\/p><p data-lake-id=\"e7ff84001348b810998cc52c010fde34\">\u638C\u63E1\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\uFF0C\u4E3A\u672A\u6765\u7684\u804C\u4E1A\u53D1\u5C55\u548C\u793E\u4F1A\u8FDB\u6B65\u4F5C\u51FA\u8D21\u732E\u3002<\/p><p data-lake-id=\"16fc5d011d62c6a3d28f1e0b0fdc757d\">\u5728\u672C\u4E13\u680F\u7684\u540E\u7EED\u6587\u7AE0\u4E2D\uFF0C\u6211\u4EEC\u5C06\u6DF1\u5165\u63A2\u8BA8\u4EBA\u5DE5\u667A\u80FD\u7684\u5404\u4E2A\u5B50\u9886\u57DF\uFF0C\u5305\u62EC\u673A\u5668\u5B66\u4E60\u3001\u6DF1\u5EA6\u5B66\u4E60\u3001\u81EA\u7136\u8BED\u8A00\u5904\u7406\u7B49\uFF0C\u4EE5\u53CA\u5B83\u4EEC\u5728\u5404\u4E2A\u5E94\u7528\u9886\u57DF\u7684\u5B9E\u9645\u6848\u4F8B\u3002\u6211\u4EEC\u8FD8\u5C06\u5173\u6CE8\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u6700\u65B0\u7814\u7A76\u6210\u679C\u548C\u53D1\u5C55\u52A8\u6001\uFF0C\u5E2E\u52A9\u8BFB\u8005\u8DDF\u4E0A\u6280\u672F\u53D1\u5C55\u7684\u6B65\u4F10\u3002<\/p><p data-lake-id=\"5ed961d0395a12dc3a19929ca59ac94f\">\u540C\u65F6\uFF0C\u6211\u4EEC\u4E5F\u4F1A\u5206\u4EAB\u4E00\u4E9B\u5B9E\u7528\u7684\u7F16\u7A0B\u6559\u7A0B\u548C\u9879\u76EE\u6848\u4F8B\uFF0C\u5E2E\u52A9\u8BFB\u8005\u5728\u5B9E\u8DF5\u4E2D\u638C\u63E1\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u3002\u901A\u8FC7\u7406\u8BBA\u4E0E\u5B9E\u8DF5\u76F8\u7ED3\u5408\u7684\u65B9\u5F0F\uFF0C\u6211\u4EEC\u671F\u671B\u80FD\u591F\u6FC0\u53D1\u8BFB\u8005\u5BF9\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u5174\u8DA3\u548C\u70ED\u60C5\uFF0C\u57F9\u517B\u66F4\u591A\u5177\u5907\u521B\u65B0\u80FD\u529B\u548C\u5B9E\u8DF5\u7ECF\u9A8C\u7684\u4E13\u4E1A\u4EBA\u624D\u3002<\/p><p data-lake-id=\"3f8c34201ad913227feccf7a68dacc20\">\u603B\u4E4B\uFF0C\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u6B63\u5728\u6539\u53D8\u6211\u4EEC\u7684\u751F\u6D3B\u548C\u4E16\u754C\u3002\u4F5C\u4E3A\u4E00\u4E2A\u4E0D\u65AD\u53D1\u5C55\u548C\u53D8\u9769\u7684\u9886\u57DF\uFF0C\u4EBA\u5DE5\u667A\u80FD\u4E3A\u6211\u4EEC\u63D0\u4F9B\u4E86\u65E0\u9650\u7684\u53EF\u80FD\u6027\u548C\u673A\u9047\u3002\u6211\u4EEC\u671F\u5F85\u5728\u672A\u6765\u7684\u63A2\u7D22\u8FC7\u7A0B\u4E2D\u4E0E\u60A8\u5171\u540C\u6210\u957F\uFF0C\u5171\u540C\u63A8\u52A8\u4EBA\u5DE5\u667A\u80FD\u6280\u672F\u7684\u53D1\u5C55\u548C\u5E94\u7528\uFF0C\u4E3A\u4EBA\u7C7B\u793E\u4F1A\u7684\u8FDB\u6B65\u4F5C\u51FA\u8D21\u732E\u3002<\/p>';
+      /*]]>*/
+    </script><script type="text/javascript" src="//g.alicdn.com/developer_center/developer-fresh-aliyun-com-fe/0.7.41/??react.js,react-dom.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script>
+    <script type="text/javascript" src="https://gw.alipayobjects.com/os/lib/ali/yuque-editor/1.8.18/dist/yuque_editor.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script>
+  
+  
+        <!-- /* 旧的 arms 前端监控，aliyun_ucc 账号登录查看 */ -->
+        <script nonce="7a90fc9d5468431d89bc7375690b5616">
+            /*<![CDATA[*/
+            !(function(c,b,d,a){c[a]||(c[a]={});c[a].config= {
+                pid: "hl0znr436e@8b95b85ff013e64",
+                appType: "web",
+                imgUrl: "https://arms-retcode.aliyuncs.com/r.png?",
+                sendResource: true,
+                disableHook: true,
+                enableLinkTrace: true,
+                behavior: true,
+                enableConsole: true,
+                c1: window.location.href,
+                environment: (function getEnv(){
+                    return document.location.hostname === 'developer.aliyun.com' ? 'prod' : 'local';
+                })(),
+                uid: (function getUID() {
+                    var pk = document.cookie.match(/login_aliyunid_pk=(.*?);/);
+                    var cna = document.cookie.match(/cna=(.*?);/);
+                    return pk && pk.length === 2 ? pk[1] : cna && cna.length === 2 ? cna[1] : "";
+                })()
+            };with(b)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("crossorigin","",src=d)
+            })(window,document,"https://retcode.alicdn.com/retcode/bl.js","__bl");
+            /*]]>*/
+        </script>
+        <!-- /* 官网前端新标准使用 aes */ -->
+        <script src="//g.alicdn.com/aes/??tracker/3.3.3/index.js,tracker-plugin-pv/3.0.5/index.js,tracker-plugin-event/3.0.0/index.js,tracker-plugin-jserror/3.0.3/index.js,tracker-plugin-api/3.1.3/index.js,tracker-plugin-resourceError/3.0.4/index.js,tracker-plugin-perf/3.1.0/index.js,tracker-plugin-eventTiming/3.0.0/index.js,tracker-plugin-longtask/3.0.1/index.js,tracker-plugin-blank/3.0.1/index.js,tracker-plugin-autolog/3.0.3/index.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script>
+        <script nonce="7a90fc9d5468431d89bc7375690b5616">
+            /*<![CDATA[*/
+            const aes = new AES({
+                pid: "B5w3hb",
+                user_type: "6",
+                uid: (function getUID() {
+                    let pk = document.cookie.match(/login_aliyunid_pk=(.*?);/);
+                    let cna = document.cookie.match(/cna=(.*?);/);
+                    return pk && pk.length === 2 ? pk[1] : cna && cna.length === 2 ? cna[1] : "";
+                })()
+            });
+            const plugins = aes.use([AESPluginPV,AESPluginEvent,AESPluginJSError,AESPluginAPI,AESPluginResourceError,AESPluginPerf,AESPluginEventTiming,AESPluginLongTask,AESPluginBlank,AESPluginAutolog]);
+            /*]]>*/
+        </script>
+    
+  <div id="440060b603cebc401e65e4460e9f4db4"><div class="_18a32969382a277c44015217fbc5cb5a_box"><div class="_739bb694889cfce8b73912a814be1392_pc de5ef2fee09ebcb2b1dcaf0c982523bc_theme _66c68c1a7a5982184b17a5bee22460c7_reset" data-ai-assistant-text-selection-tooltip="disabled"><header class="_490508e3bd912faba127ea4f7cb4ca68_container  "><a href="https://www.aliyun.com/" class="_3f46140aade30bc61f3012933357c477_logo _490508e3bd912faba127ea4f7cb4ca68_logo" data-tracker-content="LOGO" data-spm="d_logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4608 1024" width="88"><path d="M3266.56 773.12h327.68v-102.4h-327.68v-102.4H3584V35.84H2846.72v532.48h317.44v102.4h-327.68v102.4h327.68v112.64h-353.28v102.4h814.08v-102.4h-353.28v-112.64zM3276.8 138.24h215.04v112.64H3276.8V138.24z m0 215.04h215.04V460.8H3276.8V353.28zM3174.4 460.8h-215.04V353.28H3174.4V460.8z m0-209.92h-215.04V138.24H3174.4v112.64zM537.6 445.44H1075.2v122.88H537.6z"></path><path d="M1341.44 5.12h-353.28L1075.2 128l256 81.92c46.08 15.36 76.8 61.44 76.8 107.52v389.12c0 46.08-30.72 92.16-76.8 107.52l-256 81.92-87.04 122.88h353.28c148.48 0 266.24-117.76 266.24-266.24V276.48c0-148.48-117.76-271.36-266.24-271.36zM276.48 814.08c-46.08-15.36-76.8-61.44-76.8-107.52V317.44c0-46.08 30.72-92.16 76.8-107.52l256-81.92L619.52 5.12H266.24C117.76 5.12 0 128 0 276.48v471.04c0 148.48 117.76 266.24 266.24 266.24h353.28l-87.04-122.88-256-76.8zM2493.44 250.88h-261.12v537.6h261.12V250.88z m-107.52 430.08h-56.32V353.28h56.32v327.68zM1848.32 988.16h102.4V138.24h107.52L1996.8 419.84v102.4h61.44v225.28c0 15.36-10.24 25.6-25.6 25.6h-25.6v102.4h51.2c56.32 0 102.4-46.08 102.4-102.4v-358.4H2099.2l61.44-281.6v-102.4h-312.32v957.44z"></path><path d="M2206.72 138.24H2560v660.48c0 46.08-35.84 87.04-87.04 87.04h-76.8v102.4h107.52c87.04 0 163.84-71.68 163.84-163.84V138.24h35.84v-102.4h-496.64v102.4zM3763.2 40.96h737.28v102.4H3763.2zM4541.44 527.36v-102.4H3727.36v102.4h204.8l-163.84 358.4v102.4h691.2c30.72 0 51.2-25.6 51.2-51.2 0-10.24 0-15.36-5.12-20.48l-87.04-194.56h-112.64l76.8 163.84h-496.64l163.84-358.4h491.52z"></path></svg></a><div class="e76910c82efe8556eb8a6ce6019c5d00_container"><button class="e76910c82efe8556eb8a6ce6019c5d00_controller"><i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-button_left"></i></button><div class="e76910c82efe8556eb8a6ce6019c5d00_menu-warp"><nav class="_6bd4655fd97b17a7b684887be1d4e2a4_menus"><a class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " href="https://www.aliyun.com/product/list" data-spm="d_menu_0">产品</a><button class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " data-spm="d_menu_1">解决方案</button><a class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " href="https://help.aliyun.com/" data-spm="d_menu_2">文档与社区</a><a class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " href="https://www.aliyun.com/benefit" data-spm="d_menu_3">权益中心</a><a class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " href="https://www.aliyun.com/price" data-spm="d_menu_4">定价</a><a class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " href="https://market.aliyun.com/" data-spm="d_menu_5">云市场</a><a class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " href="https://partner.aliyun.com/management/v2" data-spm="d_menu_6">合作伙伴</a><a class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " href="https://www.aliyun.com/service" data-spm="d_menu_7">支持与服务</a><a class="_6bd4655fd97b17a7b684887be1d4e2a4_menu  " href="https://www.aliyun.com/about" data-spm="d_menu_8">了解阿里云</a></nav></div><button class="e76910c82efe8556eb8a6ce6019c5d00_controller"><i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-button_right"></i></button></div><div class="_490508e3bd912faba127ea4f7cb4ca68_search-wrap"><div class="global-nav-search _38b1ea27c343766d7a1a55cbf0336898_global-nav-search"><div class="global-search-container _38b1ea27c343766d7a1a55cbf0336898_global-nav-search-desktop-container"><div><div class="_77c749fed9ce4c8200eac71bab471e30_global-nav-search-desktop-container"><div class="_77c749fed9ce4c8200eac71bab471e30_search-input-container"><input type="text" class="_77c749fed9ce4c8200eac71bab471e30_search-input" value="" placeholder="搜索社区内容" data-placeholder="搜索社区内容" data-placeholder-scm="" data-tracker-container="topbar_search_input_focus"><div class="_77c749fed9ce4c8200eac71bab471e30_search-button-group-container"><div class="_77c749fed9ce4c8200eac71bab471e30_search-button-group"><button type="button" data-tracker-container="topbar_search_button_click" class="_77c749fed9ce4c8200eac71bab471e30_search-button "><i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-search1"></i></button></div></div></div></div></div></div><div class="_38b1ea27c343766d7a1a55cbf0336898_global-nav-search-mobile-container"><a class="_38b1ea27c343766d7a1a55cbf0336898_search-button" href="https://developer.aliyun.com/search"><i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-search1 _38b1ea27c343766d7a1a55cbf0336898_search-button-icon"></i></a></div></div></div><div class="_466a0cb95cb7813386faf52f1dca1156_container"><button class="_466a0cb95cb7813386faf52f1dca1156_item"><i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-intl"></i></button><button class="_466a0cb95cb7813386faf52f1dca1156_item"><i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-contact _2b88897e79e906382c0bd9ee52b33c40_icon"></i></button><a class="_466a0cb95cb7813386faf52f1dca1156_item _2d3ef330b3f8055912d355b9a255bfcf_btn global-nav-ai-assistant" href="https://www.aliyun.com/ai-assistant" data-spm="dai_assistant" target="_blank"><div class="LogoStyled-aliyun-service-ai-assistant-8096__sc-1qhy9yu-0 cTwoqf"><div class="ai-assistant-brand-logo-icon"></div><div class="ai-assistant-brand-logo-tooltip "><div class="ai-assistant-logo-tooltip-content">AI 助理</div></div></div></a><a class="_466a0cb95cb7813386faf52f1dca1156_item" href="https://beian.aliyun.com/" target="_blank" data-spm="d_beian">备案</a><a class="_466a0cb95cb7813386faf52f1dca1156_item" href="https://home.console.aliyun.com/" target="_blank" rel="nofollow" data-spm="d_console">控制台</a><span class="d93ece8cfc5aebf2fd264608e956db0e_loading"></span></div></header></div><div class="_739bb694889cfce8b73912a814be1392_mobile de5ef2fee09ebcb2b1dcaf0c982523bc_theme _66c68c1a7a5982184b17a5bee22460c7_reset"></div><div class="_18a32969382a277c44015217fbc5cb5a_box"><nav class="ace-developer-new-global-community-nav"><div class="ace-developer-new-global-community-nav-box" id="ace-developer-new-global-community-nav-box"><div class="global-community-nav-pc" id="global-community-nav-pc"><div class="fixed-container"><div class="global-community-nav"><div class="global-community-nav-top"><div class="aliyun-community-logo"><a href="https://developer.aliyun.com/" target="_blank" class="aliyun-community-logo-link">开发者社区</a></div><div class="global-community-nav-menu"><div class="global-community-nav-menu-box"><div class="global-community-menu-list"><div class="menu"><a href="https://developer.aliyun.com/" target="_blank" class="menu-link" title="开发者社区">首页</a></div><div class="ismore menu"><a href="https://developer.aliyun.com/explore" target="_blank" class="menu-link">探索云世界<span class="community-icon arrow-top"></span></a><div class="global-community-nav-menu-dropdown"><div class="_7b008fc39f3f9af1c012bbc310a2ddbd_summary _838c54de0ce88fe6cbf6db922a0d8beb_scrollbar da99d5ca697c2dbaf5daa5c35dacbc46_reset _838c54de0ce88fe6cbf6db922a0d8beb_theme"><h3 class="_7b008fc39f3f9af1c012bbc310a2ddbd_title"><a href="https://developer.aliyun.com/explore" data-spm="d_title">探索云世界<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link _7b008fc39f3f9af1c012bbc310a2ddbd_icon"></i></a></h3><p class="_7b008fc39f3f9af1c012bbc310a2ddbd_desc">云上快速入门，热门云上应用快速查找</p></div><div class="_7b008fc39f3f9af1c012bbc310a2ddbd_detail _838c54de0ce88fe6cbf6db922a0d8beb_scrollbar da99d5ca697c2dbaf5daa5c35dacbc46_reset _838c54de0ce88fe6cbf6db922a0d8beb_theme"><div class="ce35cdf234cb85271d07249f75e3a4f1_container "><div class="ce35cdf234cb85271d07249f75e3a4f1_column _4750b6c0ec0fadb5d91f92fe4e89fe0a_column"><section class="_1359bc36739bac5989f9fac7db450d68_category"><h4 class="_1359bc36739bac5989f9fac7db450d68_title"><a href="https://developer.aliyun.com/start" target="_blank" data-spm="d_main_0_0_0">新手上云<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link _1359bc36739bac5989f9fac7db450d68_icon"></i></a></h4><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/start#slide-2" target="_blank" data-spm="d_main_0_0_1">云上应用构建</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/start#slide-3" target="_blank" data-spm="d_main_0_0_2">云上数据管理</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/start#slide-4" target="_blank" data-spm="d_main_0_0_3">云上探索人工智能</a></section><section class="_1359bc36739bac5989f9fac7db450d68_category"><h4 class="_1359bc36739bac5989f9fac7db450d68_title">热门</h4><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/modelstudio/" target="_blank" data-spm="d_main_0_1_1">百炼大模型</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/modelscope/" target="_blank" data-spm="d_main_0_1_2">Modelscope模型即服务</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/ecs/" target="_blank" data-spm="d_main_0_1_3">弹性计算</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/cloudnative/" target="_blank" data-spm="d_main_0_1_4">云原生</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/database/" target="_blank" data-spm="d_main_0_1_5">数据库</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/yunxiao/" target="_blank" data-spm="d_main_0_1_6">云效DevOps</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/aliyun_linux/" target="_blank" data-spm="d_main_0_1_7">龙蜥操作系统</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/community/chip/" target="_blank" data-spm="d_main_0_1_8">平头哥</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/community/dingtalk/" target="_blank" data-spm="d_main_0_1_9">钉钉开放平台</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/iot/" target="_blank" data-spm="d_main_0_1_10">物联网</a></section></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column _4750b6c0ec0fadb5d91f92fe4e89fe0a_column"><section class="_1359bc36739bac5989f9fac7db450d68_category"><h4 class="_1359bc36739bac5989f9fac7db450d68_title"><a href="https://developer.aliyun.com/ecs/" target="_blank" data-spm="d_main_1_0_0">云计算<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link _1359bc36739bac5989f9fac7db450d68_icon"></i></a></h4><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/ecs/" target="_blank" data-spm="d_main_1_0_1">弹性计算</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/wuying/" target="_blank" data-spm="d_main_1_0_2">无影</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/storage/" target="_blank" data-spm="d_main_1_0_3">存储</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/networking/" target="_blank" data-spm="d_main_1_0_4">网络</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/yitian/" target="_blank" data-spm="d_main_1_0_5">倚天</a></section><section class="_1359bc36739bac5989f9fac7db450d68_category"><h4 class="_1359bc36739bac5989f9fac7db450d68_title"><a href="https://developer.aliyun.com/bigdata/" target="_blank" data-spm="d_main_1_1_0">大数据<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link _1359bc36739bac5989f9fac7db450d68_icon"></i></a></h4><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/maxcompute/" target="_blank" data-spm="d_main_1_1_1">大数据计算</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/hologres/" target="_blank" data-spm="d_main_1_1_2">实时数仓Hologres</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/sc/" target="_blank" data-spm="d_main_1_1_3">实时计算Flink</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/aliyunemr/" target="_blank" data-spm="d_main_1_1_4">E-MapReduce</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/dataworks/" target="_blank" data-spm="d_main_1_1_5">DataWorks</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/es/" target="_blank" data-spm="d_main_1_1_6">Elasticsearch</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/pai/" target="_blank" data-spm="d_main_1_1_7">机器学习平台PAI</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/aios/" target="_blank" data-spm="d_main_1_1_8">智能搜索推荐</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/datav/" target="_blank" data-spm="d_main_1_1_9">数据可视化DataV</a></section></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column _4750b6c0ec0fadb5d91f92fe4e89fe0a_column"><section class="_1359bc36739bac5989f9fac7db450d68_category"><h4 class="_1359bc36739bac5989f9fac7db450d68_title"><a href="https://developer.aliyun.com/cloudnative/" target="_blank" data-spm="d_main_2_0_0">云原生<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link _1359bc36739bac5989f9fac7db450d68_icon"></i></a></h4><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/kubernetes/" target="_blank" data-spm="d_main_2_0_1">容器</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/serverless/" target="_blank" data-spm="d_main_2_0_2">serverless</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/aliware/" target="_blank" data-spm="d_main_2_0_3">中间件</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/mse/" target="_blank" data-spm="d_main_2_0_4">微服务</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/arms/" target="_blank" data-spm="d_main_2_0_5">可观测</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/rocketmq/" target="_blank" data-spm="d_main_2_0_6">消息队列</a></section><section class="_1359bc36739bac5989f9fac7db450d68_category"><h4 class="_1359bc36739bac5989f9fac7db450d68_title"><a href="https://developer.aliyun.com/modelscope/" target="_blank" data-spm="d_main_2_1_0">人工智能<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link _1359bc36739bac5989f9fac7db450d68_icon"></i></a></h4><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/pai/" target="_blank" data-spm="d_main_2_1_1">机器学习平台PAI</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/viapi/" target="_blank" data-spm="d_main_2_1_2">视觉智能开放平台</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/speech/" target="_blank" data-spm="d_main_2_1_3">智能语音交互</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/nlp/" target="_blank" data-spm="d_main_2_1_4">自然语言处理</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/multimodel/" target="_blank" data-spm="d_main_2_1_5">多模态模型</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/pythonsdk/" target="_blank" data-spm="d_main_2_1_6">pythonsdk</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/others/" target="_blank" data-spm="d_main_2_1_7">通用模型</a></section></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column _4750b6c0ec0fadb5d91f92fe4e89fe0a_column"><section class="_1359bc36739bac5989f9fac7db450d68_category"><h4 class="_1359bc36739bac5989f9fac7db450d68_title"><a href="https://developer.aliyun.com/database/" target="_blank" data-spm="d_main_3_0_0">数据库<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link _1359bc36739bac5989f9fac7db450d68_icon"></i></a></h4><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/polardb/" target="_blank" data-spm="d_main_3_0_1">关系型数据库</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/hbasespark/" target="_blank" data-spm="d_main_3_0_2">NoSQL数据库</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/analyticdb/" target="_blank" data-spm="d_main_3_0_3">数据仓库</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/database/dm" target="_blank" data-spm="d_main_3_0_4">数据管理工具</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/polardb/" target="_blank" data-spm="d_main_3_0_5">PolarDB开源</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/database/vectordatabase" target="_blank" data-spm="d_main_3_0_6">向量数据库</a></section><section class="_1359bc36739bac5989f9fac7db450d68_category"><h4 class="_1359bc36739bac5989f9fac7db450d68_title"><a href="https://developer.aliyun.com/group/othertech/" target="_blank" data-spm="d_main_3_1_0">开发与运维<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link _1359bc36739bac5989f9fac7db450d68_icon"></i></a></h4><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/yunxiao/" target="_blank" data-spm="d_main_3_1_1">云效DevOps</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/yida/" target="_blank" data-spm="d_main_3_1_2">钉钉宜搭</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/supportservice/" target="_blank" data-spm="d_main_3_1_3">支持服务</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://developer.aliyun.com/group/mirror/" target="_blank" data-spm="d_main_3_1_4">镜像站</a><a class="_1359bc36739bac5989f9fac7db450d68_item" href="https://greencode.aliyun.com/" target="_blank" data-spm="d_main_3_1_5">码上公益</a></section></div></div></div><div class="global-community-nav-menu-dropdown-close close-icon community-icon"></div></div></div><div class="menu"><a href="https://developer.aliyun.com/ask/hottestQuestionsWithProduct" target="_blank" class="menu-link">问产品</a></div><div class="menu"><a href="https://developer.aliyun.com/adc/" target="_blank" class="menu-link">动手实践</a></div><div class="menu"><a href="https://developer.aliyun.com/blog/" target="_blank" class="menu-link">官方博客</a></div><div class="menu"><a href="https://edu.aliyun.com/" target="_blank" class="menu-link">考认证</a></div><div class="menu"><a href="https://tianchi.aliyun.com/" target="_blank" class="menu-link">TIANCHI大赛</a></div><div class="ismore menu"><div class="menu-item">活动广场<span class="community-icon arrow-top"></span></div><div class="global-community-nav-menu-dropdown"><div class="_7b008fc39f3f9af1c012bbc310a2ddbd_summary _838c54de0ce88fe6cbf6db922a0d8beb_scrollbar da99d5ca697c2dbaf5daa5c35dacbc46_reset _838c54de0ce88fe6cbf6db922a0d8beb_theme"><h3 class="_7b008fc39f3f9af1c012bbc310a2ddbd_title">活动广场</h3><p class="_7b008fc39f3f9af1c012bbc310a2ddbd_desc">丰富的线上&amp;线下活动，深入探索云世界</p></div><div class="_7b008fc39f3f9af1c012bbc310a2ddbd_detail _838c54de0ce88fe6cbf6db922a0d8beb_scrollbar da99d5ca697c2dbaf5daa5c35dacbc46_reset _838c54de0ce88fe6cbf6db922a0d8beb_theme"><div class="ce35cdf234cb85271d07249f75e3a4f1_container "><div class="ce35cdf234cb85271d07249f75e3a4f1_column ef3f497bbdf2b586236b37344fa5354a_column"><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://developer.aliyun.com/mission" target="_blank" data-spm="d_main_0_0"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">任务中心<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="做任务，得社区积分和周边">做任务，得社区积分和周边</p></a><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://developer.aliyun.com/topic/test2023" target="_blank" data-spm="d_main_0_1"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">开发者评测<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="最真实的开发者用云体验">最真实的开发者用云体验</p></a></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column ef3f497bbdf2b586236b37344fa5354a_column"><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://university.aliyun.com/" target="_blank" data-spm="d_main_1_0"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">高校计划<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="让每位学生受益于普惠算力">让每位学生受益于普惠算力</p></a><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://developer.aliyun.com/topic/bloggers" target="_blank" data-spm="d_main_1_1"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">乘风者计划<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="让创作激发创新">让创作激发创新</p></a></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column ef3f497bbdf2b586236b37344fa5354a_column"><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://edu.aliyun.com/trainingcamp/" target="_blank" data-spm="d_main_2_0"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">训练营<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="资深技术专家手把手带教">资深技术专家手把手带教</p></a><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://mvp.aliyun.com/" target="_blank" data-spm="d_main_2_1"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">阿里云MVP<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="遇见技术追梦人">遇见技术追梦人</p></a></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column ef3f497bbdf2b586236b37344fa5354a_column"><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://developer.aliyun.com/ask/" target="_blank" data-spm="d_main_3_0"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">话题<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="畅聊无限，分享你的技术见解">畅聊无限，分享你的技术见解</p></a><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://developer.aliyun.com/live/" target="_blank" data-spm="d_main_3_1"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">直播<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="技术交流，直击现场">技术交流，直击现场</p></a></div></div></div><div class="global-community-nav-menu-dropdown-close close-icon community-icon"></div></div></div><div class="ismore menu"><div class="menu-item">下载<span class="community-icon arrow-top"></span></div><div class="global-community-nav-menu-dropdown"><div class="_7b008fc39f3f9af1c012bbc310a2ddbd_summary _838c54de0ce88fe6cbf6db922a0d8beb_scrollbar da99d5ca697c2dbaf5daa5c35dacbc46_reset _838c54de0ce88fe6cbf6db922a0d8beb_theme"><h3 class="_7b008fc39f3f9af1c012bbc310a2ddbd_title">下载</h3><p class="_7b008fc39f3f9af1c012bbc310a2ddbd_desc">海量开发者使用工具、手册，免费下载</p></div><div class="_7b008fc39f3f9af1c012bbc310a2ddbd_detail _838c54de0ce88fe6cbf6db922a0d8beb_scrollbar da99d5ca697c2dbaf5daa5c35dacbc46_reset _838c54de0ce88fe6cbf6db922a0d8beb_theme"><div class="ce35cdf234cb85271d07249f75e3a4f1_container "><div class="ce35cdf234cb85271d07249f75e3a4f1_column ef3f497bbdf2b586236b37344fa5354a_column"><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://developer.aliyun.com/mirror" target="_blank" data-spm="d_main_0_0"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">镜像站<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="极速、全面、稳定、安全的开源镜像">极速、全面、稳定、安全的开源镜像</p></a></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column ef3f497bbdf2b586236b37344fa5354a_column"><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://developer.aliyun.com/ebook/" target="_blank" data-spm="d_main_1_0"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">技术资料<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="开发手册、白皮书、案例集等实战精华">开发手册、白皮书、案例集等实战精华</p></a></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column ef3f497bbdf2b586236b37344fa5354a_column"><a class="ef3f497bbdf2b586236b37344fa5354a_item" href="https://developer.aliyun.com/topic/chrome-extension" target="_blank" data-spm="d_main_2_0"><h4 class="ef3f497bbdf2b586236b37344fa5354a_title">插件<i class="ee52067fb65534cb06d3b35f654f5441_icon c0d2b2426f4e619b0e0a3897f1b4cfdb-link ef3f497bbdf2b586236b37344fa5354a_icon"></i></h4><p class="ef3f497bbdf2b586236b37344fa5354a_desc" title="为开发者定制的Chrome浏览器插件">为开发者定制的Chrome浏览器插件</p></a></div><div class="ce35cdf234cb85271d07249f75e3a4f1_column ef3f497bbdf2b586236b37344fa5354a_column"></div></div></div><div class="global-community-nav-menu-dropdown-close close-icon community-icon"></div></div></div></div></div></div></div></div></div></div><div class="global-community-nav-mobile" id="global-community-nav-mobile"></div></div><div class="ace-developer-new-global-sub-community-nav-box" id="ace-developer-new-global-sub-community-nav-box"><div class="global-sub-community-nav-pc"><div class="fixed-container"><div class="global-sub-community-nav"><div class="global-sub-community-nav-left" id="global-sub-community-nav-left"></div><div class="community-search-box"><div class="community-search-box-main"><input class="community-search-box-input" placeholder="" value=""><div class="community-search-box-icon"><i class="community-search-icon community-icon"></i></div></div></div></div></div></div><div class="global-sub-community-nav-mobile"></div></div><div class="nav-common-sub"><a href="https://developer.aliyun.com/explore" target="_blank">探索云世界</a><div class="sc-nav-submenu"><div class="more-list"><div><a href="https://developer.aliyun.com/start" target="_blank" class="more-list-title hasurl">新手上云</a><a href="https://developer.aliyun.com/start#slide-2" target="_blank" class="href">云上应用构建</a><a href="https://developer.aliyun.com/start#slide-3" target="_blank" class="href">云上数据管理</a><a href="https://developer.aliyun.com/start#slide-4" target="_blank" class="href">云上探索人工智能</a></div><div><a href="https://developer.aliyun.com/ecs/" target="_blank" class="more-list-title hasurl">云计算</a><a href="https://developer.aliyun.com/ecs/" target="_blank" class="href">弹性计算</a><a href="https://developer.aliyun.com/group/wuying/" target="_blank" class="href">无影</a><a href="https://developer.aliyun.com/storage/" target="_blank" class="href">存储</a><a href="https://developer.aliyun.com/group/networking/" target="_blank" class="href">网络</a><a href="https://developer.aliyun.com/yitian/" target="_blank" class="href">倚天</a></div><div><a href="https://developer.aliyun.com/cloudnative/" target="_blank" class="more-list-title hasurl">云原生</a><a href="https://developer.aliyun.com/group/kubernetes/" target="_blank" class="href">容器</a><a href="https://developer.aliyun.com/group/serverless/" target="_blank" class="href">serverless</a><a href="https://developer.aliyun.com/group/aliware/" target="_blank" class="href">中间件</a><a href="https://developer.aliyun.com/group/mse/" target="_blank" class="href">微服务</a><a href="https://developer.aliyun.com/group/arms/" target="_blank" class="href">可观测</a><a href="https://developer.aliyun.com/group/rocketmq/" target="_blank" class="href">消息队列</a></div><div><a href="https://developer.aliyun.com/database/" target="_blank" class="more-list-title hasurl">数据库</a><a href="https://developer.aliyun.com/group/polardb/" target="_blank" class="href">关系型数据库</a><a href="https://developer.aliyun.com/group/hbasespark/" target="_blank" class="href">NoSQL数据库</a><a href="https://developer.aliyun.com/group/analyticdb/" target="_blank" class="href">数据仓库</a><a href="https://developer.aliyun.com/database/dm" target="_blank" class="href">数据管理工具</a><a href="https://developer.aliyun.com/polardb/" target="_blank" class="href">PolarDB开源</a><a href="https://developer.aliyun.com/database/vectordatabase" target="_blank" class="href">向量数据库</a></div><div><p class="more-list-title">热门</p><a href="https://developer.aliyun.com/modelstudio/" target="_blank" class="href">百炼大模型</a><a href="https://developer.aliyun.com/modelscope/" target="_blank" class="href">Modelscope模型即服务</a><a href="https://developer.aliyun.com/ecs/" target="_blank" class="href">弹性计算</a><a href="https://developer.aliyun.com/cloudnative/" target="_blank" class="href">云原生</a><a href="https://developer.aliyun.com/database/" target="_blank" class="href">数据库</a><a href="https://developer.aliyun.com/group/yunxiao/" target="_blank" class="href">云效DevOps</a><a href="https://developer.aliyun.com/group/aliyun_linux/" target="_blank" class="href">龙蜥操作系统</a><a href="https://developer.aliyun.com/community/chip/" target="_blank" class="href">平头哥</a><a href="https://developer.aliyun.com/community/dingtalk/" target="_blank" class="href">钉钉开放平台</a><a href="https://developer.aliyun.com/iot/" target="_blank" class="href">物联网</a></div><div><a href="https://developer.aliyun.com/bigdata/" target="_blank" class="more-list-title hasurl">大数据</a><a href="https://developer.aliyun.com/group/maxcompute/" target="_blank" class="href">大数据计算</a><a href="https://developer.aliyun.com/group/hologres/" target="_blank" class="href">实时数仓Hologres</a><a href="https://developer.aliyun.com/group/sc/" target="_blank" class="href">实时计算Flink</a><a href="https://developer.aliyun.com/group/aliyunemr/" target="_blank" class="href">E-MapReduce</a><a href="https://developer.aliyun.com/group/dataworks/" target="_blank" class="href">DataWorks</a><a href="https://developer.aliyun.com/group/es/" target="_blank" class="href">Elasticsearch</a><a href="https://developer.aliyun.com/group/pai/" target="_blank" class="href">机器学习平台PAI</a><a href="https://developer.aliyun.com/group/aios/" target="_blank" class="href">智能搜索推荐</a><a href="https://developer.aliyun.com/group/datav/" target="_blank" class="href">数据可视化DataV</a></div><div><a href="https://developer.aliyun.com/modelscope/" target="_blank" class="more-list-title hasurl">人工智能</a><a href="https://developer.aliyun.com/group/pai/" target="_blank" class="href">机器学习平台PAI</a><a href="https://developer.aliyun.com/group/viapi/" target="_blank" class="href">视觉智能开放平台</a><a href="https://developer.aliyun.com/group/speech/" target="_blank" class="href">智能语音交互</a><a href="https://developer.aliyun.com/group/nlp/" target="_blank" class="href">自然语言处理</a><a href="https://developer.aliyun.com/group/multimodel/" target="_blank" class="href">多模态模型</a><a href="https://developer.aliyun.com/group/pythonsdk/" target="_blank" class="href">pythonsdk</a><a href="https://developer.aliyun.com/group/others/" target="_blank" class="href">通用模型</a></div><div><a href="https://developer.aliyun.com/group/othertech/" target="_blank" class="more-list-title hasurl">开发与运维</a><a href="https://developer.aliyun.com/group/yunxiao/" target="_blank" class="href">云效DevOps</a><a href="https://developer.aliyun.com/group/yida/" target="_blank" class="href">钉钉宜搭</a><a href="https://developer.aliyun.com/group/supportservice/" target="_blank" class="href">支持服务</a><a href="https://developer.aliyun.com/group/mirror/" target="_blank" class="href">镜像站</a><a href="https://greencode.aliyun.com/" target="_blank" class="href">码上公益</a></div></div></div></div></nav><div class="community-global-guide-2023"></div></div></div></div>
+  
+  
+    <div class="article-detail" id="article-detail" data-spm="article-detail">
+        <div class="article-wrapper">
+            <div class="left-content">
+                <div id="article-shang-btn"></div>
+
+                
+
+                
+
+                <div class="developer-nav">
+                    <a href="/" target="_blank" class="nav-item">开发者社区</a>
+                    <a class="nav-item" target="_blank" href="/group/ai/">人工智能</a>
+                    <a class="nav-item" target="_blank" href="/group/ai/article/">文章</a>
+                    <span class="nav-item">正文</span>
+                </div>
+
+                <div class="content-wrapper">
+                    
+                    
+
+                    <h1 class="article-title">人工智能基础知识:介绍人工智能的历史，基本概念和应用领域<span id="skill-builder-waker-button"></span></h1>
+
+                    <div class="article-info">
+                        <div class="article-info-num">
+                            <div class="article-info-left">
+                                <span class="article-info-time">2023-10-31</span>
+                                <span class="article-info-read">7707</span>
+                                <span class="personal-ip-icon"></span>
+                            </div>
+                            <div class="article-info-right">
+                                
+<span class="copyright-btn copyright-open">版权</span>
+
+<span class="article-info-report"></span>
+
+                            </div>
+                        </div>
+                        <div class="article-copyright">
+                            <div class="article-copyright-info">
+                                <div class="article-copyright-info-note">版权声明：</div>
+                                <div>
+    <span>
+        本文内容由阿里云实名注册用户自发贡献，版权归原作者所有，阿里云开发者社区不拥有其著作权，亦不承担相应法律责任。具体规则请查看《
+        <a style="color:#1366EC" href="https://developer.aliyun.com/article/768092">阿里云开发者社区用户服务协议</a>》和
+        《<a style="color:#1366EC" href="https://developer.aliyun.com/article/768093">阿里云开发者社区知识产权保护指引</a>》。如果您发现本社区中有涉嫌抄袭的内容，填写
+        <a style="color:#1366EC" href="https://yida.alibaba-inc.com/o/right">侵权投诉表单</a>进行举报，一经查实，本社区将立刻删除涉嫌侵权内容。
+    </span>
+</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    
+                    
+                    <div>
+    
+    <div class="free-product" data-spm="d-1363331">
+        <div class="free-product-content">
+            <div class="free-product-list">
+                <div class="free-product-list-title">本文涉及的产品</div>
+                <div class="swiper-container swiper-free-product-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide item-3">
+                            <div class="free-product-item item-1">
+                                <div class="free-product-item-top">
+                                    <div class="free-product-item-title">NLP 自学习平台，3个模型定制额度 1个月</div>
+                                </div>
+                                <div class="free-product-item-bottom">
+                                    <div class="free-product-item-bottom-box">
+                                        
+                                    </div>
+                                    <div class="free-btn" data-id="960783"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide item-3">
+                            <div class="free-product-item item-2">
+                                <div class="free-product-item-top">
+                                    <div class="free-product-item-title">NLP自然语言处理_高级版，每接口累计50万次</div>
+                                </div>
+                                <div class="free-product-item-bottom">
+                                    <div class="free-product-item-bottom-box">
+                                        
+                                    </div>
+                                    <div class="free-btn" data-id="971348"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide item-3">
+                            <div class="free-product-item item-3">
+                                <div class="free-product-item-top">
+                                    <div class="free-product-item-title">NLP自然语言处理_基础版，每接口每天50万次</div>
+                                </div>
+                                <div class="free-product-item-bottom">
+                                    <div class="free-product-item-bottom-box">
+                                        
+                                    </div>
+                                    <div class="free-btn" data-id="971349"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-pagination swiper-free-product-pagination"></div>
+            </div>
+        </div>
+    </div>
+    
+    
+</div>
+                    
+                    <div class="article-desc">
+                        <b>简介：</b>
+                        <span>人工智能基础知识:介绍人工智能的历史，基本概念和应用领域</span>
+                    </div>
+
+                    <div class="article-content">
+                        
+                        <div class="article-inner" id="lark-content"><div class="next-loading loading" style="display: block; min-height: 100px;"><div class="next-loading-tip"><span class="next-loading-flower"><i class="next-icon next-icon-loading next-icon-medium next-loading-icon" style="color: rgb(255, 106, 0);"></i></span></div><div class="next-loading-component"><div class="next-loading-masker"></div><div class="yuque-sdk-doc-viewer" style="width: 100%;"></div></div></div></div>
+                    </div>
+                    
+                </div>
+                <div class="community-product"></div>
+
+                <div class="aigc-fixed">
+                    <div class="aigc-fixed-left">
+                        <div class="aigc-fixed-left-author">
+                            <a target="_blank" href="/profile/iq6uphgu4buq6">
+                                <img loading="lazy" class="aigc-fixed-left-avatar" src="https://ucc.alicdn.com/avatar/avatar3.jpg?x-oss-process=image/resize,h_150,m_lfit">
+                            </a>
+                            <div class="aigc-fixed-left-author-badge"></div>
+                        </div>
+                        <a class="aigc-fixed-left-name" href="/profile/iq6uphgu4buq6">A等天晴</a>
+                        <div class="aigc-fixed-left-focus"></div>
+                        <div class="aigc-fixed-left-num"></div>
+                    </div>
+                    <div class="aigc-fixed-right">
+                        <div class="aigc-fixed-h5-catalog">
+                            <div class="aigc-fixed-h5-catalog-icon"></div>
+                            <div class="aigc-fixed-h5-catalog-text">目录</div>
+                        </div>
+                        <div id="action-btns"></div>
+                    </div>
+                </div>
+                <div class="article-comment">
+                    <div id="comment"></div>
+                </div>
+
+                
+            </div>
+            <div id="right-box">
+                
+                    
+
+                    <div class="right-item-box skeleton">
+                        <div class="right-item-title">
+                            <div class="right-item-title-text active">热门文章</div>
+                            <div class="right-item-title-text">最新文章</div>
+                        </div>
+                        <div class="card">
+                            <div class="text skeleton-loading"></div>
+                            <div class="text skeleton-loading"></div>
+                            <div class="text skeleton-loading"></div>
+                            <div class="text skeleton-loading"></div>
+                            <div class="text skeleton-loading"></div>
+                            <div class="text skeleton-loading"></div>
+                            <div class="text skeleton-loading"></div>
+                        </div>
+                    </div>
+                
+                
+            <div class="right-sticky-item">
+    <div class="right-item-nav" id="right-item-nav"></div>
+  </div></div>
+            
+        </div>
+    </div>
+
+
+  <div id="skill-builder-root" style="display: none"></div>
+  <script type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="//g.alicdn.com/aliyun/developer-aliyun-com-fe/2.8.39/scripts/yuqueDocViewer.js"></script>
+  
+    
+    <div id="0fadbd29ddc8f44bdde52fcbdea6a6dd"><footer class="ace-homepage-2020-hmod-footer pc" aria-label="PC 端页尾"><div class="inner"><div class="services"><nav class="homepage-footer-main-services" aria-label="页脚导航"><section class="ali-main-services"><h3 class="ali-main-services-title">为什么选择阿里云</h3><a class="ali-main-services-link" href="https://www.aliyun.com/about/what-is-cloud-computing" target="_blank">什么是云计算</a><a class="ali-main-services-link" href="https://infrastructure.aliyun.com/" target="_blank">全球基础设施</a><a class="ali-main-services-link" href="https://www.aliyun.com/why-us/leading-technology" target="_blank">技术领先</a><a class="ali-main-services-link" href="https://www.aliyun.com/why-us/reliability" target="_blank">稳定可靠</a><a class="ali-main-services-link" href="https://www.aliyun.com/why-us/security-compliance" target="_blank">安全合规</a><a class="ali-main-services-link" href="https://www.aliyun.com/analyst-reports" target="_blank">分析师报告</a></section><section class="ali-main-services"><h3 class="ali-main-services-title">产品和定价</h3><a class="ali-main-services-link" href="https://www.aliyun.com/product/list" target="_blank">全部产品</a><a class="ali-main-services-link" href="https://free.aliyun.com/" target="_blank">免费试用</a><a class="ali-main-services-link" href="https://www.aliyun.com/product/news/" target="_blank">产品动态</a><a class="ali-main-services-link" href="https://www.aliyun.com/price" target="_blank">产品定价</a><a class="ali-main-services-link" href="https://www.aliyun.com/price/product" target="_blank">价格计算器</a><a class="ali-main-services-link" href="https://www.aliyun.com/price/cost-management" target="_blank">云上成本管理</a></section><section class="ali-main-services"><h3 class="ali-main-services-title">解决方案</h3><a class="ali-main-services-link" href="https://www.aliyun.com/solution/tech-solution" target="_blank">技术解决方案</a></section><section class="ali-main-services"><h3 class="ali-main-services-title">文档与社区</h3><a class="ali-main-services-link" href="https://help.aliyun.com/" target="_blank">文档</a><a class="ali-main-services-link" href="https://developer.aliyun.com/" target="_blank">开发者社区</a><a class="ali-main-services-link" href="https://tianchi.aliyun.com/" target="_blank">天池大赛</a><a class="ali-main-services-link" href="https://edu.aliyun.com/" target="_blank">培训与认证</a></section><section class="ali-main-services"><h3 class="ali-main-services-title">权益中心</h3><a class="ali-main-services-link" href="https://free.aliyun.com/" target="_blank">免费试用</a><a class="ali-main-services-link" href="https://university.aliyun.com/" target="_blank">高校计划</a><a class="ali-main-services-link" href="https://startup.aliyun.com/startups" target="_blank">企业扶持计划</a><a class="ali-main-services-link" href="https://dashi.aliyun.com/" target="_blank">推荐返现计划</a></section><section class="ali-main-services"><h3 class="ali-main-services-title">支持与服务</h3><a class="ali-main-services-link" href="https://www.aliyun.com/service" target="_blank">基础服务</a><a class="ali-main-services-link" href="https://www.aliyun.com/service/supportplans" target="_blank">企业增值服务</a><a class="ali-main-services-link" href="https://www.aliyun.com/service/devopsimpl/devopsimpl_cloudmigration_public_cn" target="_blank">迁云服务</a><a class="ali-main-services-link" href="https://www.aliyun.com/notice/list" target="_blank">官网公告</a><a class="ali-main-services-link" href="https://status.aliyun.com/" target="_blank">健康看板</a><a class="ali-main-services-link" href="https://security.aliyun.com/trust" target="_blank">信任中心</a></section></nav><article class="focus"><h3 class="ali-main-services-title">关注阿里云</h3><p class="ali-main-services-desc">关注阿里云公众号或下载阿里云APP，关注云资讯，随时随地运维管控云服务</p><img alt="阿里云APP" src="https://img.alicdn.com/tfs/TB1UdKEM6TpK1RjSZKPXXa3UpXa-256-256.png" class="ali-official-code" loading="lazy"><img alt="阿里云微信" src="https://img.alicdn.com/tfs/TB1AOdINW6qK1RjSZFmXXX0PFXa-258-258.jpg" class="ali-official-code" loading="lazy"><p class="consult-text">联系我们：4008013260</p></article></div><div class="about-link-wrap"><a href="https://help.aliyun.com/product/67275.html" class="ali-about-link" target="_blank">法律声明</a><a href="https://terms.alicdn.com/legal-agreement/terms/platform_service/20220906101446934/20220906101446934.html" class="ali-about-link" target="_blank">Cookies政策</a><a href="https://aliyun.jubao.alibaba.com/" class="ali-about-link" target="_blank">廉正举报</a><a href="https://report.aliyun.com/" class="ali-about-link" target="_blank">安全举报</a><a href="https://www.aliyun.com/contact" class="ali-about-link" target="_blank">联系我们</a><a href="https://careers.aliyun.com/" class="ali-about-link" target="_blank">加入我们</a></div><section class="friend-link-wrap"><h3 hidden="">友情链接</h3><a href="https://www.alibabagroup.com/cn/global/home" class="ali-friend-link" target="_blank">阿里巴巴集团</a><a href="https://www.taobao.com/" class="ali-friend-link" target="_blank">淘宝网</a><a href="https://www.tmall.com/" class="ali-friend-link" target="_blank">天猫</a><a href="https://www.aliexpress.com/" class="ali-friend-link" target="_blank">全球速卖通</a><a href="https://www.alibaba.com/" class="ali-friend-link" target="_blank">阿里巴巴国际交易市场</a><a href="https://www.1688.com/" class="ali-friend-link" target="_blank">1688</a><a href="https://www.alimama.com/index.htm" class="ali-friend-link" target="_blank">阿里妈妈</a><a href="https://www.fliggy.com/" class="ali-friend-link" target="_blank">飞猪</a><a href="https://www.aliyun.com/" class="ali-friend-link" target="_blank">阿里云计算</a><a href="https://www.alios.cn/" class="ali-friend-link" target="_blank">AliOS</a><a href="https://wanwang.aliyun.com/" class="ali-friend-link" target="_blank">万网</a><a href="https://mobile.amap.com/" class="ali-friend-link" target="_blank">高德</a><a href="https://www.uc.cn/" class="ali-friend-link" target="_blank">UC</a><a href="https://www.umeng.com/" class="ali-friend-link" target="_blank">友盟</a><a href="https://www.youku.com/" class="ali-friend-link" target="_blank">优酷</a><a href="https://www.dingtalk.com/" class="ali-friend-link" target="_blank">钉钉</a><a href="https://www.alipay.com/" class="ali-friend-link" target="_blank">支付宝</a><a href="https://damo.alibaba.com/" class="ali-friend-link" target="_blank">达摩院</a><a href="https://world.taobao.com/" class="ali-friend-link" target="_blank">淘宝海外</a><a href="https://www.aliyundrive.com/" class="ali-friend-link" target="_blank">阿里云盘</a><a href="https://www.ele.me/" class="ali-friend-link" target="_blank">饿了么</a></section><p class="ali-copyright-text">© 2009-2024 Aliyun.com 版权所有 增值电信业务经营许可证： <a href="http://beian.miit.gov.cn/" target="_blank">浙B2-20080101</a> 域名注册服务机构许可： <a href="https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里云计算有限公司 " target="_blank">浙D3-20210002</a> <a href="https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里巴巴云计算北京有限公司 " target="_blank">京D3-20220015</a></p><p class="ali-report-wrap"><a href="https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do?showType=p&amp;serial=91330106673959654P-SAIC_SHOW_10000091330106673959654P1710919400712&amp;signData=MEUCIQDEkCd8cK7%2Fyqe6BNMWvoMPtAnsgKa7FZetfPkjZMsvhAIgOX1G9YC6FKyndE7o7hL0KaBVn4f%20V%2Fiof3iAgpsV09o%3D" target="_blank" class="ali-report-link"><img src="//gw.alicdn.com/tfs/TB1GxwdSXXXXXa.aXXXXXXXXXXX-65-70.gif" class="ali-report-img" alt="" loading="lazy"></a><a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank" class="ali-report-link"><img src="//img.alicdn.com/tfs/TB1..50QpXXXXX7XpXXXXXXXXXX-40-40.png" class="ali-report-img" alt="浙公网安备 33010602009975号" loading="lazy"><span class="ali-report-link-text">浙公网安备 33010602009975号</span></a><a href="https://beian.miit.gov.cn/" target="_blank" class="ali-report-link"><span class="ali-report-link-text ali-report-link-text-unique">浙B2-20080101-4</span></a></p></div></footer><footer class="ace-homepage-2020-hmod-footer mobile" aria-label="移动端页尾"></footer></div>
+    <script type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="https://g.alicdn.com/code/npm/@ali/??biu-loader/0.1.2/index.js,hmod-preact/0.0.1/index.js,hmod-preact-hooks/0.0.1/index.js,hmod-preact-compat/0.0.1/index.js,hmod-preact-bridge/0.1.1/index.js,hmod-ace-service-loader/0.1.1/index.js"></script>
+    <script type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="https://g.alicdn.com/code/npm/@ali??hmod-ace-2023-box/0.1.0/index.js,hmod-ace-2023-developer-global-community-nav/0.0.69/index.js,hmod-ace-2023-developer-global-guide/0.0.22/index.js,hmod-aliyun-com-floating-toolbar/0.2.3/index.js,hmod-aliyun-com-global-nav-search/0.5.19/index.js,hmod-aliyun-com-global-nav/0.2.9/index.js,hmod-lowcode-normal-page/0.1.0/index.js"></script>
+    <script type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="https://g.alicdn.com/aliyun-com/lowcode-engine/0.1.14/renderer/build/js/index.js"></script>
+    <script type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="https://cloud-assets.alicdn.com/lowcode/entry/prod/440060b603cebc401e65e4460e9f4db4.js"></script>
+    <script type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="https://cloud-assets.alicdn.com/website.js"></script>
+    
+    
+    
+    <script nonce="7a90fc9d5468431d89bc7375690b5616">
+        /*<![CDATA[*/
+        if(!window.React || window.React.version != "16.14.0") {
+            var nonce = '7a90fc9d5468431d89bc7375690b5616';
+            document.write('<script type="text/javascript" src="//g.alicdn.com/developer_center/developer-fresh-aliyun-com-fe/0.7.41/??react.js,react-dom.js" nonce="'+ nonce + '"><\/script>');
+        }
+        /*]]>*/
+    </script>
+    
+    <script type="text/javascript" src="//g.alicdn.com/aliyun/util/1.2.36/loader.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script>
+    
+    
+    
+    
+    
+    
+    
+    <script nonce="7a90fc9d5468431d89bc7375690b5616">
+        /*<![CDATA[*/
+        window.addEventListener('DOMContentLoaded',function(){
+            window.ALIYUN_PERF.reportPerfWhenStatic();
+        });
+        window.__ALIYUN_EXPERIENCE_REACT__ =  window.React;
+        window.__ALIYUN_EXPERIENCE_REACT_DOM__ = window.ReactDOM;
+        (function () {let host = window.location.hostname;if (!host.endsWith('.aliyun.com') && !host.endsWith('.aliyun.test') && !host.startsWith('127.0.0.1') && !host.startsWith('localhost')) {window.location.href = '//developer.aliyun.com';}})();
+        /*]]>*/
+    </script>
+
+  
+  <script type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="//g.alicdn.com/aliyun/ucc-component-fe/0.2.40/??actionButtons.js,commentsNum.js"></script>
+  
+  <script type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="//g.alicdn.com/aliyun/developer-aliyun-com-fe/2.8.39/scripts/articleDetail.js"></script>
+  <script type="text/javascript" defer="defer" nonce="7a90fc9d5468431d89bc7375690b5616" src="//g.alicdn.com/aliyun/developer-aliyun-com-fe/2.8.39/scripts/??weChatDisable.js,medalDialog.js,report.js"></script>
+  
+  <script defer="defer" nonce="7a90fc9d5468431d89bc7375690b5616" src="https://ucc.aliyun.com/ucc/view/log?appCode=developer-ecology&amp;bizCategory=ucc-blog&amp;objectId=1363331&amp;nonce=7a90fc9d5468431d89bc7375690b5616"></script>
+  <script defer="defer" type="text/javascript" src="//oneconsole.alicdn.com/sitemap/js/scm_v2.js" nonce="7a90fc9d5468431d89bc7375690b5616"></script>
+  <script defer="defer" type="text/javascript" nonce="7a90fc9d5468431d89bc7375690b5616" src="//g.alicdn.com/developer_center/developer-fresh-aliyun-com-fe/0.7.74/baidu_push.js"></script>
+  
+  
+  <script defer="defer" nonce="7a90fc9d5468431d89bc7375690b5616" src="//g.alicdn.com/developer-cloud-assets/aliyun-skill-builder-fe/1.17.5/plugin.js"></script>
+  <script nonce="7a90fc9d5468431d89bc7375690b5616">
+      let articleId = '1363331';
+      /*<![CDATA[*/
+      function skillBuilderLoader(callback) {
+          if (!window.adc || !window.adc.init) {
+              callback(false);
+              return;
+          }
+
+          // 计算面包屑
+          let breadCrumbs = [];
+          let breadCrumbsNodeList = document.querySelectorAll('.developer-nav a');
+          for (let i = 0; i < breadCrumbsNodeList.length; i++) {
+              let url = breadCrumbsNodeList[i].href;
+              if (url) {
+                  try {
+                      // 创建一个URL对象
+                      let urlObj = new URL(url);
+                      urlObj.searchParams.delete("spm");
+                      url = urlObj.toString();
+                  } catch (e) {
+                  }
+                  breadCrumbs.push({link: url, text: breadCrumbsNodeList[i].textContent});
+              } else {
+                  breadCrumbs.push({text: breadCrumbsNodeList[i].textContent});
+              }
+          }
+
+          let param = {
+              app: 'developer',
+              objType: 'article',
+              objId: articleId,
+              buttonContainer: '.article-title',
+              documentTitle: document.querySelector('.article-title').textContent,
+              documentHTML: document.querySelector('.article-title').outerHTML + document.querySelector(".article-desc").outerHTML + document.querySelector('.article-content').outerHTML,
+              zIndex: 1000,
+              breadCrumbs: breadCrumbs,
+              feedbackFunction: function(){
+                  document.querySelector('.balloon-box').click();
+              }
+          };
+          // console.log("adc.init param", param);
+          window.adc.init(param);
+          callback(true);
+      }
+
+      function retryTask(taskFunction, delayList) {
+          // 最大重试次数
+          let maxAttempts = delayList.length;
+
+          function attempt(currentAttempt) {
+              if (currentAttempt >= maxAttempts) {
+                  // console.log('已达到最大尝试次数，停止重试');
+                  return;
+              }
+              // console.log("第" + (currentAttempt + 1) + "次重试，间隔时间:" + delayList[currentAttempt]);
+              taskFunction(function (result) {
+                  if (result) {
+                      // console.log('执行skillBuilder初始化成功');
+                  } else {
+                      setTimeout(function () {
+                          attempt(currentAttempt + 1);
+                      }, delayList[currentAttempt]);
+                  }
+              });
+          }
+
+          attempt(0); // 从第1次开始尝试执行任务
+      }
+
+      // 重试任务
+      retryTask(skillBuilderLoader, [500, 500, 1000, 2000, 3000]);
+      /*]]>*/
+  </script>
+
+
+
+</body></html>

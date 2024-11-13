@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://finance.eastmoney.com/a/202411073231628942.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://finance.eastmoney.com/a/202411073231628942.html",
+    "wait": 6
+}

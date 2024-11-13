@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "AWSALB=YQOKZgz47AUwepKvf825oLEiRCyLymc+r6T6FGxsc/99ZAAhsWWL0i0DjAbftGhEJEvJf4BdriFm/chHGT5yjfDMh3cS0rN89dXqnMrK0l+QSFBNcu14/Lh7zmAX; AWSALBCORS=YQOKZgz47AUwepKvf825oLEiRCyLymc+r6T6FGxsc/99ZAAhsWWL0i0DjAbftGhEJEvJf4BdriFm/chHGT5yjfDMh3cS0rN89dXqnMrK0l+QSFBNcu14/Lh7zmAX",
+        "Referer": "https://www.zaobao.com.sg/news/china/story20240707-4074279",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.zaobao.com.sg/news/china/story20240707-4074279",
+    "wait": 6
+}

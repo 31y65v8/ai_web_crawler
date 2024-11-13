@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.microsoft.com/zh-cn/ai/tools-practices",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.microsoft.com/zh-cn/ai/tools-practices",
+    "wait": 6
+}

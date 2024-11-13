@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "JSESSIONID=3E1A789DB41CFB3C1EA8C76E452B4EC2",
+        "Referer": "https://www.opentext.com/zh-cn/what-is/artificial-intelligence",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.opentext.com/zh-cn/what-is/artificial-intelligence",
+    "wait": 6
+}

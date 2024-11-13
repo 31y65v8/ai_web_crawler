@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://app.xinhuanet.com/news/article.html?articleId=4e32e80a24b4f7dc014690bbe8c46202",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://app.xinhuanet.com/news/article.html?articleId=4e32e80a24b4f7dc014690bbe8c46202",
+    "wait": 6
+}

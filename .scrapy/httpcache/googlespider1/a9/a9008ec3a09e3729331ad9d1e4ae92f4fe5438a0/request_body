@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "612a22f2c33930c9fd381d0083130505=2a73e54119f4aca0983b3d1432154bcd",
+        "Referer": "https://www.redhat.com/zh/topics/ai/what-are-intelligent-applications",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.redhat.com/zh/topics/ai/what-are-intelligent-applications",
+    "wait": 6
+}

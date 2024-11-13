@@ -1,0 +1,10 @@
+Server: nginx/1.20.1
+Date: Wed, 13 Nov 2024 08:04:50 GMT
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Express
+X-Xss-Protection: 0
+Content-Security-Policy: default-src 'self' *.victorlampcdn.com *.doubleclick.net *.googlesyndication.com *.google-analytics.com *.google.com *.weixin.qq.com;script-src 'self' 'unsafe-inline' *.victorlampcdn.com *.qq.com *.baidu.com *.googlesyndication.com *.googleadservices.com *.googletagmanager.com *.google.com;style-src 'self' https: 'unsafe-inline' *.googleapis.com;img-src 'self' data: *.victorlampcdn.com *.googlesyndication.com *.googletagmanager.com hm.baidu.com wework.qpic.cn thirdwx.qlogo.cn;base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests
+Set-Cookie: x-xsrf-token=9pOZW4IT-JIepc2c1stEGcKRxYg2bQDmn7HE; Domain=.victorlamp.com; Path=/
+Set-Cookie: vl-session-id=s%3AiIjPdvFgqYKn5L3CWG9PdwmbsQEqjZRI.8sPyVyMtzAn3lgSbIodzt176LJSOoh92rzfs26QHtLE; Domain=.victorlamp.com; Path=/; HttpOnly
+Vary: Accept-Encoding
+Content-Encoding: gzip
