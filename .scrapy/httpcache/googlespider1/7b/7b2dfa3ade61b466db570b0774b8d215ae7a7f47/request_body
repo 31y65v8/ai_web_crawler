@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "HttpOnly; Secure",
+        "Referer": "http://ad.cas.cn/mtbd2022/202303/t20230302_4876904.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "http://ad.cas.cn/mtbd2022/202303/t20230302_4876904.html",
+    "wait": 6
+}

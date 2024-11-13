@@ -6,7 +6,7 @@
 from scrapy import signals
 import random
 from .user_agents import USER_AGENT_LIST
-
+from scrapy_splash import SplashRequest
 
 # useful for handling different item types with a single interface
 
@@ -122,4 +122,24 @@ class ScrapyCrawlerDownloaderMiddleware:
         proxy = self.get_random_proxy()
         if proxy:
             request.meta["proxy"] = "http://" + proxy'''
+class SplashProxyMiddleware:
+    def __init__(self, splash_urls):
+        self.splash_urls = splash_urls
+        self.index = 0  # 轮询计数器
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(splash_urls=crawler.settings.get('SPLASH_URLS'))
 
+    def process_request(self, request, spider):
+        # 只对 SplashRequest 类型的请求进行负载均衡
+        if isinstance(request, SplashRequest):
+            '''# 随机选择一个 Splash 实例
+            splash_url = random.choice(self.splash_urls)
+            # 设置 Splash URL
+            request.meta['splash']['endpoint'] = splash_url'''
+            # 获取当前的 Splash URL 并更新 index
+            splash_url = self.splash_urls[self.index]
+            self.index = (self.index + 1) % len(self.splash_urls)  # 更新 index 实现轮询
+
+            # 设置该请求的 Splash 服务端点
+            request.meta['splash']['splash_url'] = splash_url

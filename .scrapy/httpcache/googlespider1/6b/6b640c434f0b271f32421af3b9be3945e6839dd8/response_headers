@@ -1,0 +1,10 @@
+Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors *.cas.cn
+Content-Type: text/html
+Date: Sun, 10 Nov 2024 07:44:21 GMT
+Set-Cookie: HttpOnly
+Set-Cookie: Secure
+Set-Cookie: Path=/; HttpOnly; Secure
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,388 @@
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>梅宏：对当前人工智能热潮的几点冷思考</title>
+<link rel="stylesheet" href="../../css/icon.css?v=1726450862819">
+<link rel="stylesheet" href="../../css/style.css?v=1726450862819">
+<link rel="stylesheet" href="../../css/banner.css?v=1726450862819">
+<link rel="stylesheet" href="../../css/subCon.css?v=1726450862819">
+<link rel="shortcut icon" href="../../images/favicon.ico">
+
+<script type="text/javascript" charset="utf-8" src="../../js/jweixin-1.6.0.js?v=1726450862819"></script>
+    <script src="../../js/vconsole.min.js?v=1726450862819"></script>
+    <script src="../../js/share.js?v=1726450862819"></script>
+
+<!--[if lt IE 9]>
+<script src="../../js/html5.js?v=1726450862819"  type="text/javascript"></script>
+<link rel="stylesheet" href="../../css/subConie8.css?v=1726450862819">
+</script>
+<![endif]-->
+<script src="https://news.pku.edu.cn/static/api/js/share.js?v=89860593.js?cdnversion=480894"></script><link rel="stylesheet" href="https://news.pku.edu.cn/static/api/css/share_style0_16.css?v=6aba13f0.css"></head>
+<body>
+<!--header开始-->
+
+<header class="wrap-header current">
+	<div class="headerTop">
+<div class="top_nav">
+			<a href="https://www.pku.edu.cn/" target="_blank">北大主页</a><span>|</span>
+			<a href="http://english.pku.edu.cn/" target="_blank">English</a><span>|</span>
+		</div>
+	</div>
+	<div class="horizontal-header">
+		<div>
+			<div class="logo2">
+				<a class="h-logo1" href="https://www.pku.edu.cn/" target="_blank"><svg width="180" height="59">
+	              <image xlink:href="../../images/h-logo1.svg" src="../../images/h-logo1.png" width="180" height="59"></image>
+	            </svg></a>
+				<a class="h-logo2" href="../../index.htm"><svg width="110" height="59">
+	              <image xlink:href="../../images/h-logo2.svg" src="../../images/h-logo2.png" width="110" height="59"></image>
+	            </svg></a>
+			</div>
+			<nav class="h-nav">
+				<ul>
+
+				<li><a href="../../ttxw/index.htm">头条新闻 </a></li>
+                    <li><a href="../../xwzh/index.htm">新闻纵横 </a></li>
+                    <li><a href="../../ztrd/index.htm">专题热点 </a></li>
+                    <li><a href="../../stkj/index.htm">视听空间 </a>
+                    
+                        <div class="h-subNav h-subNav2">
+                            <dl>
+                                                           <dd><a href="../../stkj/gy/index.htm">光影</a></dd>
+                                                          <dd><a href="../../stkj/sp/index.htm">视频</a></dd>
+                                                          <dd><a href="../../stkj/yp/index.htm">音频</a></dd>
+                                                         </dl>
+                        </div>
+                        
+                    </li>
+                    <li><a href="../../ldhd/index.htm">领导活动 </a></li>
+                    <li><a href="../../mtbdnew/index.htm">媒体北大 </a></li>
+                    <li><a href="../../jxky/index.htm">学术科研 </a></li>
+                    <li><a href="../../bdrw/index.htm">北大人物 </a></li>
+                    <li><a href="../index.htm">校园文化 </a>
+                    
+                        <div class="h-subNav h-subNav2">
+                            <dl>
+                                                          <dd><a href="../xwdt/index.htm">菁菁校园</a></dd>
+                                                          <dd><a href="../xxyg/index.htm">信息预告</a></dd>
+                                                          <dd><a href="../wytd/index.htm">文艺园地</a></dd>
+                                                          <dd><a href="index.htm">德赛论坛</a></dd>
+                                                         </dl>
+                        </div>
+                        
+                    </li>
+                    <li><a href="../../xymt/index.htm">校园媒体 </a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+	<div class="mobile-header-icon iconfont icon-menu"></div>
+	<div class="mobile-header-close iconfont icon-guanbi"></div>
+</header><div class="body-overlay"></div>
+<!--header结束 -->
+<!--content开始-->
+<div class="subPage clearFix">
+	<div class="row mode03 clearFix">
+		<div class="bread"><span><a href="../../index.htm">首页</a><i>/</i><a href="index.htm">德赛论坛</a></span></div>
+
+		
+<aside class="vertical-wrap-nav">
+    <div class="mobile-v-logo">
+        <a class="v-logo1" href="https://www.pku.edu.cn/" target="_blank"><svg width="160" height="52">
+          <image xlink:href="../../images/h-logo1.svg" src="../../images/h-logo1.png" width="160" height="52"></image>
+        </svg></a>
+        <a class="v-logo2" href="../../index.htm"><svg width="98" height="52">
+          <image xlink:href="../../images/h-logo2.svg" src="../../images/h-logo2.png" width="98" height="52"></image>
+        </svg></a>
+    </div>
+<div class="web-v-logo">
+        <a class="web-v-logo1" href="http://www.pku.edu.cn" target="_blank"><svg width="100" height="111">
+          <image xlink:href="../../images/web-v-logo1.svg" src="../../images/web-v-logo1.png" width="100" height="111"></image>
+        </svg></a>
+        <a class="web-v-logo2" href="../../index.htm"><svg width="100" height="46">
+          <image xlink:href="../../images/h-logo2.svg" src="../../images/h-logo2.png" width="100" height="46"></image>
+        </svg></a>
+    </div>
+    <nav class="v-nav " id="nav">
+        <ul>
+            <li><a href="../../ttxw/index.htm"><strong>头条新闻 </strong></a></li>
+            <li><a href="../../xwzh/index.htm"><strong>新闻纵横 </strong></a></li>
+            <li><a href="../../ztrd/index.htm"><strong>专题热点 </strong></a></li>
+            <li><a><strong>视听空间 </strong><i class="v-arrow iconfont icon-previewright"></i></a> 
+                <div class="v-subNav">
+                    <dl>
+                                          <dd><a href="../../stkj/gy/index.htm">光影</a></dd>
+                                          <dd><a href="../../stkj/sp/index.htm">视频</a></dd>
+                                          <dd><a href="../../stkj/yp/index.htm">音频</a></dd>
+                                         </dl>
+                </div>
+            </li>
+            <li><a href="../../ldhd/index.htm"><strong>领导活动 </strong></a></li>
+            <li><a href="../../mtbdnew/index.htm"><strong>媒体北大 </strong></a></li>
+            <li><a href="../../jxky/index.htm"><strong>学术科研 </strong></a></li>
+            <li><a href="../../bdrw/index.htm"><strong>北大人物 </strong></a></li>
+            <li class="on2020"><a href="../index.htm"><strong>校园文化 </strong><i class="v-arrow iconfont icon-previewright"></i></a>
+                <div class="v-subNav v-subNav2">
+                    <dl>
+                                          <dd><a href="../xwdt/index.htm">菁菁校园</a></dd>
+                                          <dd><a href="../xxyg/index.htm">信息预告</a></dd>
+                                          <dd><a href="../wytd/index.htm">文艺园地</a></dd>
+                                          <dd><a href="index.htm">德赛论坛</a></dd>
+                                         </dl>
+                </div>
+            </li>
+            <li><a href="../../xymt/index.htm"><strong>校园媒体 </strong></a></li>
+        </ul>
+    </nav>
+</aside>
+		<div class="pageArticle clearFix">
+			<div class="col lf">
+				<div class="articleTitle">
+																
+					<h3> 梅宏：对当前人工智能热潮的几点冷思考</h3>
+			 					
+				</div>
+			
+              <div class="articleAuthor">
+						<p><span> 2024/09/16</span>
+						<!--<span> 阅读：6796次</span>-->
+						<span>信息来源： 中国计算机学会微信公众号 </span>						</p>
+						
+												  						<span>编辑：山石</span>    <i>|</i>    						<span>责编：安宁</span>    						
+					</div>
+
+
+				
+				<div class="item-share article-share ">
+					<i class="iconfont icon-31zhuanfa"></i>
+					<div class="bdsharebuttonbox bdshare-button-style0-16" data-bd-bind="1731224495075">
+						<a href="#" class="bds_weixin iconfont icon-wechat" data-cmd="weixin" title="分享到微信"></a>
+						<a href="#" class="bds_tsina iconfont icon-sina" data-cmd="tsina" title="分享到新浪微博"></a>
+						<a href="#" class="bds_more iconfont icon-share" data-cmd="more"></a>
+					</div>
+					<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='https://news.pku.edu.cn/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+				</div>
+				 
+				<div class="article">
+
+					 <p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><span style="text-indent: 2em;">如果要票选当前社会经济发展中的热词，“人工智能”（Artificial Intelligence, AI）一词一定可以入选；如果要盘点当前科技界的重大进展，AI技术的进展也一定会入围，并会名列前茅，虽然其进展主要集中在深度学习这个子领域。用“如日中天”“众星捧月”描述当下AI的地位毫不为过！造成这种少见现象的原因不仅仅是AI技术本身10余年来令人惊艳的突破性进展，还包括AI技术对社会经济各行各业，对科学技术各个学科的发展带来的深远甚至颠覆性的影响。在我国，AI的热潮较国际更盛。</span><br></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">我不是AI具体技术的研究者，但作为AI领域的大同行，作为AI技术发挥作用的基础——计算系统中软件技术的研究者，从当前的热潮中，我看到了太多“炒作”和“非理性”导致的 AI“过热”现象，也对当前AI发展技术路径多样性的欠缺萌生了一些担忧。我认为，有必要认真审视和反思当前AI的本质及其可能带来的影响，以及人类发展AI的目标和路径等问题。为此，在今年7月于长沙举行的2024ACM中国图灵大会上，我作了一个演讲，题为“对当前人工智能热潮的几点冷思考”。本文根据该演讲整理而成。</p><p style="line-height: 200%; text-indent: 2em; font-size: 16px; text-align: center;"><strong>AI发展的简短回顾</strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">人类对“用机器模拟人类智能”的追求远早于现代电子计算机的发明。如果将算术计算的能力也视为智能（实际上，在教育还不那么普及的时代，算数能力确是智者的能力），那么历史上的各类计算装置，例如帕斯卡的加法器、莱布尼茨的机械计算器和巴贝奇的差分机，无疑都是对用机器模拟算数能力这一目标的追求。就其第一目标而言，图灵机模型以及第一台电子计算机ENIAC均是针对“计算”这类智能的，不过，随着电子计算机在计算能力上超越人类，人们开始不把计算等同于智能了。1950年，艾伦·图灵（Alan Turing）在其论文的开篇首句即提出：“机器能思考吗？”该问题后来演变为“机器能表现得像人一样吗？”。此即是图灵测试提出的问题基础，也成为后续几十年AI研究追求的重大目标，甚至是终极目标。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">对机器智能的担忧几乎伴随了追求模拟人类智能的全过程。1942年，科幻作家艾萨克·阿西莫夫（Isaac Asimov）就在其小说《环舞》（<em>Runaround</em>）中就提出了机器人三定律<sup>1</sup>，其目的就是为了警示机器智能可能给人类带来的威胁。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">1956年，“人工智能”一词被提出，在经历两个“春天”和两个“冬天”后，AI迎来了第三个“春天”。而这个“春天”显得尤为生机勃勃，呈现一片“繁荣”景象。从2012年底，在ImageNet图像分类任务上，AlexNet展现出了深度学习的强大感知能力，2015年初，ResNet超过人类的平均水平；到2016年初，AlphaGo以绝对优势战胜李世石；再到2022年底，OpenAI<sup>2</sup>推出新的智能聊天大语言模型ChatGPT<sup>3</sup>，因其表现优异，被人们称为“现象级”的AI应用。这些事件均代表了AI的一次次重要突破，堪称AI发展史上的重要里程碑。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">贯穿AI的发展，有一个始终被讨论的问题：“什么是AI，如何理解AI？”时至今日，仍未达成普遍共识。通常人们谈的智能，多指人脑的智能，从基本的计算、记忆能力，到感知能力，再到高层次的认知能力，进而到发现、创造能力，最终归为人的智慧。还有一类是从人的动作能力考察的智能，被称为行为智能。到目前，AI在不少任务上的感知能力可以说已经超越人类，但是，认知和行为能力与人类相比还差距甚大。当前炙热的大语言模型能力常常被关联到认知智能，但从人类视角看，大语言模型有认知能力吗？我认为，还没有。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">“智能”这一概念本就是人类用以区别自身和动物的专属词，并刻意创造了“人工智能”一词指代机器模拟的“智能”。“智能化”是当前的热词，本意是指由AI驱动或赋能，即AI-powered 或AI化，通过AI技术提升人类或机器完成各类任务的能力，但人们为了文字的简洁，省略了“人工”这个词。随着时间的推移，随着“智能化”一词被用于各种事物（everything），很多人忘了现在的“智能化”本质上是“人工智能化”，进而导致很多人忽视了“人”才是地球上真正的智能体，冀图用AI去“智能化”人类。一个例子是所谓“智能设计”这个提法，很多设计均属于人类的智力性创造性活动，用计算机辅助设计无疑会大大提升效率，用AI甚至可以自动完成不少设计任务，但无论如何，我们不应将机器完成或辅助完成的设计视为“智能”的产物，它只是“AI设计”的产物。本质上，人的设计才是“智能”的，AI是人类创造出来的工具，不能反“仆”为“主”。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">当前主流的AI工作机制，与人类大脑的工作方式仍相去甚远。如果我们过度使用类人的术语描述机器，比如“意识”“心智”，甚至“硅基生命”等，很容易给公众造成误导。我个人特别不喜欢“硅基生命”之类的提法，说重一点，这是对生命的不尊重。我们不要忘记，真正的生命是地球上的生物，包括动物和植物，而人类是其中的主导者。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">现阶段AI的成功源于深度学习，这只是AI研究的一个子领域，其本质是数据驱动的智能、计算实现的智能，即“数据为体、智能为用”，犹如燃料与火焰的关系，燃料越多，火焰越大，燃料越纯，火焰越漂亮。对当前基于深度学习的AI所取得的突破性进展，我是高度认可的。大语言模型给我带来的最大震撼在于：它可以讲“人话”了，而且语法能力超越了人类平均水平，甚至超越人类的中上水平。我看大语言模型，乐观的判断，也许会成为继计算机、互联网之后，计算科学发展史上的第三大里程碑。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">同时，我们需要清醒地认识到：当前以“算法、数据、算力”为核心要素的AI技术路径，其持续发展潜力面临重大障碍，原理尚未出现变革性苗头，对数据的依赖越来越严重，对算力的消耗也越来越巨大。理想的AI应当是低熵的，不以计算资源的消耗换取智能，也不以复杂性的提高换取智能；也应当是高安全的，模型的输出符合真实情况，生成结果确保对人类无害；还应当是不断进化的，具有环境自适应和终生“学习”能力，能不断完善并具有“遗忘”能力。离实现这样的目标，我们还有很长的路要走。</p><p style="line-height: 200%; text-indent: 2em; font-size: 16px; text-align: center;"><strong>热潮中的冷思考</strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><strong><span style="font-family: 楷体, 楷体_GB2312, SimKai;">AI应用的繁荣期正在开启？</span></strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">当前，人们对“AI+”或“AI for everything”抱有很高的期望，然而，现实情况却不尽如人意——雷声隆隆，雨点并不大。我认为，AI的应用还需要经历一段时期的探索、磨合和积累，才可能迎来繁荣。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">所谓探索，是指搞清楚行业的真需求。日常聊天或者生成文本报告、视频，这通常只是行业需求的一小部分，行业需要真正落地的应用是解决生产问题、业务问题的有效方案。目前，我国很多行业的数字化转型尚未完成，甚至许多设备还未实现数字化，更未联网，没有数字化和网络化，当然也就不可能有智能化。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">所谓磨合，是指提升可信性。当前基于深度学习的AI存在不可解释性，被视为“黑盒”，缺乏可信性。因此，在现有的技术路径下，至少在安全攸关的领域，AI的应用会受到限制。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">所谓积累，是指获取跨足够时间和空间尺度的全数据。大语言模型的成功依赖于人类长时间积累的庞大语料库，文生视频的成功也依赖于互联网上存在的海量视频。然而，其他行业的数据积累尚未达到这个量级。即使近几年进行了较大范围的数据收集，但从时间纵深角度来看，数据的积累仍远远不足。没有时间上的积累，数据的价值将大打折扣。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">在我看来，当前AI存在的问题是：泡沫太大，仍处于技术成熟度曲线（hype cycle）的高峰阶段，喧嚣埋没理性，需要一个冷静期；以偏概全，对成功个案不顾前提地放大、泛化，过度承诺；期望过高，用户神化AI的预期效果，提出难以实现的需求。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">面对AI技术发展及其应用的现状，如果对AI的落地应用有所彷徨，那么，还能够做些什么呢？我的建议是：积累数据——可采尽采、能存尽存。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><strong><span style="font-family: 楷体, 楷体_GB2312, SimKai;">大模型浪潮下，学术界能干什么？该干什么？</span></strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">ChatGPT和Sora的问世，开启了世界范围的“百模”竞发。不过，在基本原理相似的技术路径上，人们发现，各方拥有的算力资源相差不多，数据规模和质量就成为竞争的关键因素。本质上，当前大模型的竞争已成为“数据工程”的竞争。学术界在这场竞争中面临双重挑战：首先，学术界缺乏足够的算力资源和数据资源进行大规模的模型训练；其次，即使拥有这些资源，“数据工程”的定位也与学术界探索基本原理的使命不符。一些围绕大模型应用的研究是否值得学术界投入，还存在诸多争议，例如，基于提示工程的大模型应用是否会成为新的学术研究领域？抑或只是技术培训领域的话题？对于这个问题，我更倾向于是后者。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">从基本原理来看，目前的大模型没有跳出概率统计这个框架。现实世界中的任务（如图像分类或文本生成）可以被建模为概率模型，将数据的分布或生成过程表示为概率分布函数。而Universal Approximation Theorem在理论上阐明了神经网络能够以任意精度逼近这些概率分布函数，从而构建这些概率模型。就这个意义而言，大模型可被视为是由已有语料压缩而成的知识库，生成结果的语义正确性高度依赖于数据的空间广度、时间深度以及分布密度，更高度依赖于数据的质量。可以确定的是，作为一个高度复杂的系统，大模型是一个合适的研究对象，包括理解其内在机理，以及如何提升其训练和推断效率等。但是，作为一个人造系统，我们更应关心其构建过程的可重复性和可追溯性，进而保证结果的可解释和可信任。此外，研究大模型的应用技术无疑是一个重要领域，但就大模型技术的现状而言，基础不可信必然会导致应用技术不可信。这也意味着当前的大模型应用技术研究的实际价值具有与生俱来的不确定性。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">当前对大语言模型的发展存在诸多争议，有技术路径之争、应用和商业模式之争，还有开源、闭源之争。在这里，我也大胆预测大语言模型的未来（至少是表达个人的一种期望）：作为压缩了人类已有的可公开访问的绝大多数知识的基础模型，大语言模型在未来需要像互联网一样，走向开源，由全世界共同维护一个开放共享的基础模型，尽力保证其与人类知识的同步。否则，任何一个机构所掌控的基础模型都难以让其他机构用户放心地上传应用数据，也就很难产生足以满足各行各业业务需求的大量应用。既然基础模型的训练语料本就是人类几千年来共同积累的知识财富，理应走向开源，让全世界共同受益，共同维护，避免无谓的浪费。在这个开放共享的基础模型上，全球范围内的研究者和开发者可以面向各行各业的需求探讨各种应用，构建相应的领域模型。以诞生于美国军方的互联网为对照，如果它仅仅停留在美国军方使用，没有走向民用，没有完全交给一个民间机构，互联网则难有今天的繁荣。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><span style="font-family: 楷体, 楷体_GB2312, SimKai;"><strong>人工智能生成内容（AIGC），如何权衡利弊？</strong></span></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">大模型在内容生成的模态和范围等方面实现了前所未有的突破，就文本生成能力而言，相比过去的AI系统，大语言模型具有内容生成速度快、涉及知识面宽的特征，短时间内就能生成具有高质量语法的文本。本质上，大语言模型呈现了以人类现有文本资料为基础的数据智能，将对传统的信息知识获取和学习方式带来重大影响，其生成内容能够覆盖大部分人类知识领域，将在社会经济生活的众多场景具有广阔的应用前景。然而，当前大模型的技术路线使人类知识体系面临严峻挑战，黑盒导致的不可解释性是其最大“罩门”；训练语料的质量缺陷、概率统计的内生误差等因素会导致大模型产生幻觉，生成错误内容；再加上人为干预诱导，极易生成虚假内容。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">人类社会历经漫长发展历史，构建起知识“发现-验证-传播”的一套规范的知识体系和制度。人类知识主要依靠各领域科学家、专家学者的创新发现获得，并以语言文字的形式记录并呈现，通过各类有效的制度，包括学术界、出版界的共同把关，保障知识的准确性和可信度，并经过长期的实践检验，逐步形成人类知识体系。但是，依赖当前技术途径的大模型技术如果被广泛应用，将会打破人类主导的知识发现、验证和传播秩序。在大模型生成内容语法正确的表象下，许多错误虚假内容与真正的知识混杂在一起，让人更加难以辨别而采信。相较于互联网自媒体发布的信息，大模型生成内容在叙述结构、语法、逻辑等方面都更为完备，人们依靠基本的逻辑思维和知识基础很难判断其真假。更严重的是，由于生成速度极快，涉及的知识面广、数量庞大，大模型生成内容不可能全部都得到人类专家的鉴别和验证。这些不辨真假的内容如果被人们采信，日积月累，将会污染人类经过长期历史积淀和演化而形成的知识体系。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><strong><span style="font-family: 楷体, 楷体_GB2312, SimKai;">关于认知智能，不该做什么？</span></strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">认知能力是人类成为地球主人的根本。相比其他生物，人类既不是体力最强的，也不是跑得最快的，更不是感知能力最强的……但是，由于人类具备基于归纳和演绎的独特认知能力，加上对语言工具的使用，可以相互交流、汇聚群智，使得人类能够成为地球的主宰。就这个意义而言，人类区别于地球上其他动物的主要特征就在于认知能力。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">就个人的认知，我可以接受机器在感知智能方面超越人类，毕竟自然界中感知能力超过人类的例子比比皆是，如狗的嗅觉和鹰的视觉。我们可以借助机器的感知能力增强对外界环境的了解与把握。但对机器认知智能的研发，我持比较保守的态度。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">我支持生命科学界去探索大脑的奥秘，探究认知的成因和机理，这被视为生命科学的皇冠。不过，在追求大脑奥秘的同时，我们也需要思考如何保持人类的主体地位，维护人的基本尊严和“神经”权。我认为，在技术领域，我们需要严格限制以替代人的认知能力为目标的技术研发，尤其要严格规范植入式脑机接口类的技术研发。我这样说，并不是我认为现有的机器认知智能研究已经步入有可能替代人类的路径上，相反，我认为当前的AI还远不具备认知能力，而且当前以深度学习为基础的AI技术路径也难以实现类人的认知智能。我只是从人类的主体地位的视角，认为开发一种可以替代人类自身认知能力的AI，是对人的权利的一种侵犯。我们需要确保AI的发展不会超出人类的控制，从而维护人类的主导地位和尊严。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><strong><span style="font-family: 楷体, 楷体_GB2312, SimKai;">AI for Science（AI4S）的边界在哪里？</span></strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">AI4S很火，因为已经出现了诸多成功的甚至是具有突破性意义的案例，例如，DeepMind<sup>4</sup> 开发的用于预测蛋白质三维结构的AlphaFold，基于扩散模型预测分子三维结构的GeoDiff，以及模拟燃烧反应和流体过程的DeepFlame。在这些成功故事的影响下，不少研究者将打造AI科学家或共同科学家（co-scientist）作为追求的目标。在我看来，已有的AI4S的成功案例证明了AI用于科学研究的巨大潜力，然而，我们不能忘记，科学家是人类的角色，科研是人类的专属责任，人类可以利用助手和工具辅助科研，但是不能允许这些助手和工具越俎代庖掌控科研。AI可以成为科学家的有力助手，但不能是AI科学家或共同科学家。即使我们可以研发出大幅度提升科研效率的工具助手，但如果无法完全掌控它们，我认为我们宁愿放缓科技发展的步伐。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">要理解这一点，我们需要回顾科学研究的源起和发展。科学发展的第一驱动力是好奇心，即人们希望去了解其所生存的世界。古希腊的先哲们创造了灿烂的文明，也在科学领域进行了积极的探索。现代意义上的科学则源于17世纪的科学革命，而这场革命却是经历了两个世纪的准备，才开启了人类社会的新时代。15世纪是文艺复兴，人们刚从黑暗的中世纪走出来，缘于古希腊文化的价值和美丽，对古希腊经典崇尚备至，认为“古典的东西是无与伦比的”。16世纪的宗教改革是思想的第一次解放，强调“基督教并不是罗马人的”，具有普世性。17世纪的科学革命则是缘于一系列的科学发现挑战了古希腊时代形成的“科学”观念，人们发现“希腊人错了”，进而催生了新的科学方法和理论。18世纪的启蒙运动则进一步强化了“宗教是迷信”的观念，人们认识到，需用理性取代迷信，只要理性跟随科学，未来就有进步。这也是人类历史上首次出现“进步”一词。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">科学革命以后，人类社会进入了快速的不断进步的阶段，通过科学研究认识世界，丰富了人类知识，进而基于科学发明技术改造人类生存的世界。后续的工业革命开启了人类文明新形态，极大地丰富了物质文明，人类摆脱了靠天吃饭的宿命，出现了“经济增长”的概念。据《世界经济千年史》所述，公元第一个千年，西欧以及全球其他地区的经济几乎没有增长，是西欧率先打破了这种千年停滞的状态。14世纪西欧的人均GDP超过中国，1820年后世界经济开始出现陡坡式的拉升，从1820年到1999年，西欧人均GDP年均复合增长率达到1.51%，世界人均收入增长了8.5倍左右，世界人口增长了5.6倍左右。西欧人口增长和经济增长几乎同步，在第一个千年里，整个西欧的人口增长只有几十万，1820年后人口快速增加，到 1998年人口年均复合增长率达到0.6%。这些成就无疑都要归功于科学革命和工业革命，即科技的发展。当然，人类在通过科技改变世界的过程中，也造成了一系列负面影响，诸如环境污染、隐私侵犯，乃至毁灭性武器的出现，等等。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">我们需要理解并准确把握科学研究的本质。科研是什么？科研的结果并非一定正确，知识也并非绝对无误，但人类通过不断的探索和验证，去伪存真，人类的知识宝库也一直不断地扩大、完善。在这个历史进程中，无论如何，人类始终掌握着主导权。技术进步虽然极大地提高了科研的效率和质量，但其作为工具的角色始终没有改变。然而，这一轮的AI浪潮，正在给人类的科学研究，进而给人类的知识积累带来严峻挑战。大语言模型对人类知识的“掌握”超越了任何个体和任何学科群体；当前技术路径的生成式AI的广泛应用，将有可能污染人类现存的知识体系；高效率的大规模“成果”产出，也给其验证带来了巨大挑战，人类的知识入库审核权如何保证？如何摆脱因过分依赖AI而对科研人员的能力培养和提升造成的负面影响？</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">不忘初心，我们需要回归科学研究的本因，即通过不断的科学发现了解我们生存的世界，进而通过技术发明不断改善我们的生活。作为地球的主人，我们不能把认知权力让渡给任何工具。我们需要的不是知识积累的速度，而是质量。我们应该，也可以把控知识发现的节奏。同时，我们需要加强科研后备军的基本素养和技能的培养，我们须恪守科技伦理，坚持以人为本、科技向善。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><strong><span style="font-family: 楷体, 楷体_GB2312, SimKai;">AI的第三个“春天”能持续多久？会走向新的“冬天”吗？</span></strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">我回答不了这个问题。但是，至少我不希望在当前的技术路径上持续这个“春天”。一方面，不可解释性不符合人类发现知识、发明技术的基本逻辑，希望“知其然并知其所以然”是人的天性，更应该是科学家遵循的基本原则。另一方面，以Scaling Law为“信仰”的大模型训练，以过度的资源消耗为代价，难以永续，必有尽头。我们知道，Universal Approximation Theorem只是证明了能够构建概率模型的神经网络的存在，并未给出如何构造该网络的具体方法，也未说明需要多少神经元或层数才能达到所需的逼近精度。而Scaling Law为我们提供了一个“经验参考”，即一个通过观察实验结果而得到的“统计意义上的规律”，说明了“可能”用包含多少参数的模型、多少训练数据、多少算力，可以获得怎样的模型表现，换言之，提供了一个解释“通过扩大模型参数或数据和计算资源提升模型逼近能力”的参考规律。于是乎，不少人将之奉为圭臬，走上了“拼”数据和计算资源的“蛮力”训练路径。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">此外，虽然基于当前的技术路径，大模型尚不能“无中生有”，做出超越人类预期的事情，但一味信奉“蛮力”、追求规模，也极易发展出在覆盖面和复杂度上人们难以掌控的“巨兽”。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">科学家在探索自然的过程中，一直在追求为世界建模，遵循的基本准则是简而美。我国古代智者曾说：“妙言至径，大道至简”，爱因斯坦也有一句名言：“结果应该至简，而不仅仅是相对简化（Everything should be made as simple as possible, but not simpler）。”我们在很多领域的科学研究中都在追寻第一性原理（First Principles），这些无不是在阐释相同的道理。然而，按照Scaling Law产出的结果，并不符合这个原则，而且，仅利用大模型通过“黑盒”的方式直接获得结果，而不去探索其背后的原理和规律，不是也不应该是科研锚定的目标。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">我想，我们都不希望AI的“冬天”再一次到来，但是，沿袭当前技术路径，AI的能力“天花板”似已隐隐可见。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><strong><span style="font-family: 楷体, 楷体_GB2312, SimKai;">AI是一个独立学科吗？</span></strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">这无疑是一个得罪人的问题，似乎也不太符合当前的一些“主流”倾向。不过，就学科本身展开讨论，我认为是有必要的。这个问题实际上可展开为若干个子问题：如果没有现代计算机，会有AI这个词的出现吗？当前主流的AI，能离开计算机吗？不懂计算机运行的基本原理，能做好AI的科研和应用吗？如果AI作为一个学科，它的知识体系是什么？与计算机学科的区别又是什么？就我个人而言，自然不认同AI是一个独立学科的说法。我也理解，我们要推动相关产业的发展，迫切需要大量相关的人才。然而，人才培养未必一定要和学科设立挂钩，学科的形成和发展有其自身内在规律。对IT领域而言，其本质都是基于计算，我们真的需要那么多的细分专业和学科吗？</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">2020年8月，我曾在一个IT类学院院长的会议上作过一个题为“亟须构建合理的符合规律的IT人才培养体系”的报告。在报告中，我回顾了这些年我们曾短缺的人才：软件人才、物联网人才、网络安全人才、大数据人才、人工智能人才、集成电路人才、区块链人才等，“短缺”的人才，无一不是和当时IT领域的热点话题紧密关联，而解决的方法，基本都是在高校设立相关的专业甚至学院，于是出现了软件学院、物联网学院、网络安全学院、集成电路学院、人工智能学院等，进而再新建一级学科，如软件工程、网络空间安全，同一戏码，反复上演。人才短缺是事实，但具体缺什么，可能还需要更深入的思考。我在报告中表达的观点是：在科研领域，我们不缺人才数量，缺的是人才质量；而在应用领域，缺的是大量能直接上手的应用型人才。研究型大学的定位是知识创新的主体，培养的是面向未来的人才，而不是直接在市场上可使用的技能型人才；而应用型大学的定位就是面向市场需求，培养企业直接可用的人才。解决产业人才短缺问题，主力应该是应用型大学。在研究型大学内通过设立专业、学院，甚至学科应对产业人才短缺问题，在一定程度上会对大学的专业学科体系带来负面影响。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">合理的、符合规律的IT人才培养体系需要长远的系统规划，避免跟着热点走，头痛医头脚痛医脚；避免“归一化”的人才需求，创新型人才和应用型人才都重要，应保持平衡，不能偏废任一方；避免行政力量影响、干预大学的学科设置，特别是研究型大学的学科设置；大学应该保持定力，在发挥自身优势特色的前提下进行战略布局，不宜为了一时的热点和资源而调整专业学科设置，特别要避免那些有损于内部一致性的调整；企业的要求不宜太急切，不应指望研究型大学培养的人才能够立即为其所用，参与大学教育也不应太功利，不能指望公司的平台产品能直接用于学生实训。我们需要深刻理解，对研究型大学而言，本科的通识教育是大趋势，是人才未来能够持续成长、行稳致远的基础。当前急需的人才很重要，未来需要的人才更重要，而能够创造未来的人才更加重要。</p><p style="line-height: 200%; text-indent: 2em; font-size: 16px; text-align: center;"><strong>总结</strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">以上不成体系的陈述，可能源于我较为保守的思想，也可以视为一个思想保守者的杞人忧天，而且主观立场偏强。实际上，我也有过心路历程的转变。我也曾经是科学探索无禁区、技术研发无疆界、技术应用须谨慎的支持者，我也一直认可技术本身就是一把双刃剑。现在我谈论这些问题的主要忧虑在于，当前的技术发展已经可能会侵袭到人类的认知领域，进而可能会威胁到人类的主体地位，故而萌生“恐惧”之心。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">当然，这些思考未必正确，所忧虑的风险也未必会发生。但是，从科技伦理的视角，我们需要对可能的风险进行研判，并提醒科技工作者时刻牢记科技向善、以人为本。其中，一些关于科研工作和计算机学科未来发展的观点，带有较强的“疆域”意识，但作为一个计算机学科的科技工作者，并且曾经担任过中国计算机学会的理事长，发出这样的声音，也算是“守土有责”。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">实际上，今天的AI热潮，包括对AI发展状态和速度的过度高估，以及对AI发展可能给人类带来巨大负面影响的种种担忧，在历史上也曾经出现过。有兴趣的读者可以去看看计算机、AI发展早期的主流媒体报道。电子计算机出现之后，此类报道就未曾停止，只不过早期报道的主角是计算机。当初媒体对计算机的报道也是两个方面，盲目、过度的高估和脱离实际的担忧。这些报道放到今天，主角换成AI，似乎仍然可以适用。只不过，纸质媒体的传播影响毕竟有限，远不及今天互联网、自媒体的喧嚣。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">前事不忘，后事之师。马克·吐温曾说过：“历史不会重复，但会押韵。”在AI技术如火如荼的今天，我提出这几点冷思考，也是希望历史不要重演，即使重复无法避免，也希望是螺旋式的上升。</p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><strong><span style="font-family: 楷体, 楷体_GB2312, SimKai;">注：</span></strong></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><span style="font-family: 楷体, 楷体_GB2312, SimKai;">1 第一定律是机器人不得伤害人类，或因不作为而让人类受到伤害；第二定律是机器人必须服从人类的命令，除非这些命令违背了第一定律；第三定律是在不违背第一与第二定律的前提下，机器人必须保护自己。</span></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><span style="font-family: 楷体, 楷体_GB2312, SimKai;">2 <a href="https://openai.com/" target="_self">https://openai.com/</a></span></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><span style="font-family: 楷体, 楷体_GB2312, SimKai;">3 <a href="https://openai.com/chatgpt/" target="_self">https://openai.com/chatgpt/</a></span></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><span style="font-family: 楷体, 楷体_GB2312, SimKai;">4 <a href="https://deepmind.google/" target="_self">https://deepmind.google/</a></span></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><span style="text-indent: 2em;">（作者梅宏，为</span><span style="text-indent: 2em;">CCF会士、前理事长，中国科学院院士，北京大学教授。主要研究方向为系统软件、软件工程）</span><br></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;"><span style="text-indent: 2em;"><br></span></p><p style="LINE-HEIGHT: 200%; text-indent: 2em; font-size: 16px;">原文链接：<a href="https://mp.weixin.qq.com/s/MaUULCg92NImsipul2iH5A" target="_self"><span style="font-size: 16px; text-indent: 32px; text-wrap: wrap;">梅宏：对当前人工智能热潮的几点冷思考</span></a></p> 
+
+				</div>
+			  
+
+  
+				<p class="article-mark">转载本网文章请注明出处</p>
+
+				
+               
+			</div>
+
+
+			<div id="rightarticle" class="col rt">
+				<div class="articleList02">
+					<h2 class="listTitle01">
+						<a>最新新闻</a>
+					</h2>
+					<div id="list02"><ul class="list02"><li><span class="list-date"><strong>10</strong><i>2024.11</i></span><a href="https://news.pku.edu.cn/xwzh/272259b44a10450b9aee273f38561112.htm">北京大学在2024年度北京高校本科教学项目建设评选中获各类奖项</a></li><li><span class="list-date"><strong>10</strong><i>2024.11</i></span><a href="https://news.pku.edu.cn/xwzh/207a11118e0d4ac498e07b29e9b553e5.htm">“全民消防，生命至上”——北京大学开展“119”消防宣传月体验活动</a></li><li><span class="list-date"><strong>10</strong><i>2024.11</i></span><a href="https://news.pku.edu.cn/xwzh/10a63308430c48cab39ad02008b158a7.htm">“大数据与治理创新”国际学术研讨会成功举行</a></li><li><span class="list-date"><strong>09</strong><i>2024.11</i></span><a href="https://news.pku.edu.cn/xwzh/b22e7caaa37c4632860537976689fe5a.htm">法国海外科学院院长巴尔若一行访问北京大学</a></li><li><span class="list-date"><strong>09</strong><i>2024.11</i></span><a href="https://news.pku.edu.cn/xwzh/f3ae9ae7162f4daeb17296b1121ca536.htm">马英九基金会、台湾高校领导代表团访问北京大学</a></li></ul></div>
+					<!--<ul class="list02">
+						<li><span class="list-date"><strong>18</strong><i> 2019/01</i></span>
+						<a href="../../xwzh/2376d3cdf1b94f4793326f618af52961.htm">【国家教学成果奖巡礼】为创新创业插上翅膀——iCAN“赛课合一”的创新创业教育之...</a></li>
+							<li><span class="list-date"><strong>18</strong><i> 2019/01</i></span>
+						<a href="../../xwzh/130857dbc00b4cca967f91b3ede47fe3.htm">北京大学纪委传达学习贯彻十九届中央纪委三次全会精神</a></li>
+							<li><span class="list-date"><strong>19</strong><i> 2019/01</i></span>
+						<a href="../../xwzh/d215cb4a68d9476394290df4ea840ebc.htm">北京大学组织参加2019年全国教育工作视频会议</a></li>
+	
+					</ul>-->
+				</div> 
+				<div class="articleList03 sub_aside2">
+					<h2 class="listTitle01">
+						<a>最热新闻</a>
+					</h2>
+					<div id="list03"></div>
+					<!--<ul class="list03">
+
+
+						<li><a href="../../xwzh/645a965b949b43d79e24bf4f2545a264.htm">
+							<div class="list-img03"><span class="imgResponsive">
+
+<img src="../../images/2019-01/b8340df5d43e47ee800ea4c1d8209ad1.jpg" alt="">
+</span></div>
+							<div class="list-txt03">
+								<h3>医学部召开2018年度学生工作总结研讨会</h3>
+								<p><span>2019/01/21</span></p>
+							</div>
+						</a></li>
+
+
+
+
+						<li><a href="../../xwzh/6f692b957de34bc5a195648f73de6a3d.htm">
+							<div class="list-img03"><span class="imgResponsive">
+
+<img src="../../images/2019-02/e54026f88dbd47489296d45a6e6d522d.jpg" alt="">
+</span></div>
+							<div class="list-txt03">
+								<h3>【建功新时代】郭涛：这三年，我的基层滋味</h3>
+								<p><span>2019/01/20</span></p>
+							</div>
+						</a></li>
+
+
+
+
+						<li><a href="../../xwzh/2376d3cdf1b94f4793326f618af52961.htm">
+							<div class="list-img03"><span class="imgResponsive">
+
+<img src="../../images/2019-01/21a4824d353e4ea195395e9a47a531a0.jpg" alt="">
+</span></div>
+							<div class="list-txt03">
+								<h3>【国家教学成果奖巡礼】为创新创业插上翅膀——iCAN“赛课合一”...</h3>
+								<p><span>2019/01/18</span></p>
+							</div>
+						</a></li>
+
+
+
+
+					</ul> -->
+				</div>
+				<div class="topicList02">
+					<h2 class="listTitle01">
+						<a>专题热点</a>
+					</h2>
+					<div class="flexslider" id="slider">
+				  		
+				   	<div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1000%; -webkit-transition: 0.6s; transition: 0.6s; transform: translate3d(-570.75px, 0px, 0px);"><li class="clone" style="width: 285.375px; float: left; display: block;"><a class="imgResponsive" href="https://news.pku.edu.cn/lzdxsjnwz"><img src="https://news.pku.edu.cn/images/2024-08/8d269ef4d5894e209c2c5babbe4cdf3d.jpg"></a><h3><i>深切缅怀李政道先生</i></h3></li>
+
+
+				  		<li class="" style="width: 285.375px; float: left; display: block;"><a class="imgResponsive" href="https://news.pku.edu.cn/ztrd/zskzdjxxjy/index.htm"><img src="https://news.pku.edu.cn/images/2024-08/d0ef678745e84174a1f0a1fae316bb65.jpg"></a><h3><i>扎实开展党纪学习教育</i></h3></li><li class="flex-active-slide" style="width: 285.375px; float: left; display: block;"><a class="imgResponsive" href="https://news.pku.edu.cn/ztrd/bjdxxkzln/index.htm"><img src="https://news.pku.edu.cn/images/2024-05/1e4d94cdb3d646c0a1b8e10ee3da936c.jpg"></a><h3><i>北京大学学科质量年</i></h3></li><li style="width: 285.375px; float: left; display: block;"><a class="imgResponsive" href="https://news.pku.edu.cn/lzdxsjnwz"><img src="https://news.pku.edu.cn/images/2024-08/8d269ef4d5894e209c2c5babbe4cdf3d.jpg"></a><h3><i>深切缅怀李政道先生</i></h3></li><li class="flex-active-slide clone" style="width: 285.375px; float: left; display: block;"><a class="imgResponsive" href="https://news.pku.edu.cn/ztrd/zskzdjxxjy/index.htm"><img src="https://news.pku.edu.cn/images/2024-08/d0ef678745e84174a1f0a1fae316bb65.jpg"></a><h3><i>扎实开展党纪学习教育</i></h3></li></ul></div><ol class="flex-control-nav flex-control-paging"><li><a class="">2</a></li><li><a class="flex-active">2</a></li><li><a>3</a></li></ol><ul class="flex-direction-nav"><li><a class="flex-prev iconfont icon-arrow" href="#"></a></li><li><a class="flex-next iconfont icon-arrow1" href="#"></a></li></ul></div>
+				</div>
+				<div class="tagList">
+					<h2 class="listTitle01">
+						<a>热词搜索</a>
+					</h2>
+					<div class="tagCon">
+
+
+
+
+
+
+                   
+                      
+
+</div>
+				</div>
+
+
+
+			</div>
+		</div>
+		<div class="clearFix"></div>
+		
+	</div>
+	
+	
+</div>
+<!--content结束-->
+<!--footer开始-->
+
+<footer class="footer">
+	<div class="footerTop">
+		<div class="friendLink">
+			<strong>友情链接：</strong>
+									<a href="http://www.bjmu.edu.cn/" target="_blank">医学部</a> <span>|</span>						<a href="http://www.pkusz.edu.cn/" target="_blank">深研院</a> <span>|</span>						<a href="http://www.gotopku.cn/" target="_blank">招生网</a>  					</div>
+		<ul class="nList" id="nList">
+			<li><a href="http://pku.cuepa.cn/" target="_blank">校报</a>
+				<div class="subImg"><a><img src="../../images/n01.png"></a></div>
+			</li>
+			<li><a href="http://www.tv.pku.edu.cn/" target="_blank">电视台</a>
+				<div class="subImg"><a><img src="../../images/n02.png"></a></div>
+			</li>
+			<li><a>广播台</a>
+				<div class="subImg"><a><img src="../../images/n03.png"></a></div>
+			</li>
+			<li class="wechat"><a><i class="iconfont icon-wechat"></i>官方微信</a>
+				<div class="subImg"><img src="../../images/n04.png"></div>
+			</li>
+			<li><a href="https://weibo.com/PKU" target="_blank"><i class="iconfont icon-sina"></i>官方微博</a>
+			    <div class="subImg"><a><img src="../../images/n05.png"></a></div>
+			</li>
+		</ul>
+	</div>
+	<address class="copyRight">
+		<div class="col lf">
+			<span>版权所有 ©北京大学党委宣传部</span><i>|</i><span>地址：北京市海淀区颐和园路5号</span><i>|</i><span>邮编：100871</span>
+		</div>
+		<div class="col rt">
+			<span><a href="../../tgxz/index.htm">投稿须知 </a></span><i>|</i><span>新闻热线：010-62756381</span><i>|</i><span>投稿邮箱：news@pku.edu.cn </span>
+		</div>
+	</address>
+</footer>
+<a href="#" class="goTop iconfont icon-jiantou-copy-copy-copy"></a><!--footer结束-->
+
+<!-- 通用JS -->
+<script type="text/javascript" src="../../js/jquery-1.12.0.min.js?v=1726450862819"></script>
+<script type="text/javascript" src="../../js/jquery.flexslider.js?v=1726450862819"></script>
+<script type="text/javascript" src="../../js/latestNewsList.js?v=1726450862819"></script> <!-- 最新新闻 -->
+<script type="text/javascript" src="../../js/hotNewsList.js?v=1726450862819"></script> <!-- 最热新闻 -->
+<script type="text/javascript" src="../../js/script.js?v=1726450862819"></script>
+<script type="text/javascript" src="../../js/article01.js?v=1726450862819"></script>
+<script type="text/javascript" src="../../js/topicList.js?v=1726450862819"></script><!-- 热点专题 -->
+<script type="text/javascript">
+//GP20190328
+					 $(document).ready(function(){
+
+							removeRightNews();
+						});
+					 function removeRightNews(){
+						 if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+							 $("#rightarticle").remove();
+								return;
+						} else {
+								if(navigator.userAgent.toLowerCase().indexOf('micromessenger') !== -1){
+									$("#rightarticle").remove();
+									return;
+								}
+						}
+					 }
+		</script>
+
+<script type="text/javascript">
+if($('.col').find('div').hasClass('article')){
+   $('.article').find('img').each(function(){
+     $(this).parent('div').css('text-indent','0')
+     $(this).parent('p').css('text-indent','0')
+   })
+ } 
+if($('.col').find('div').hasClass('article')){
+   $('.article').find('video').each(function(){
+     $(this).parent('div').css('text-indent','0')
+     $(this).parent('p').css('text-indent','0')
+   })
+ } 
+
+</script>
+
+
+ <script>
+    //微信分享图功能
+    var wxfxPic = wxfxPic = "https://news.pku.edu.cn/images/500logo.png";
+    console.log("wxfxPic", wxfxPic);
+    wxConfig({
+      title: "梅宏：对当前人工智能热潮的几点冷思考",
+      desc: "                                    我不是AI具体技术的研究者，但作为AI领域的大同行，作为AI技术发挥作用的基础——计算系统中软件技术的研究者，从当前的热潮中，我看到了太多“炒作”和“非理性”导致的 AI“过热”现象，也对当前AI发展技术... ",
+      link: window.location.href,
+      imgUrl: wxfxPic,
+    });
+  </script>
+
+<!--adh-->
+
+
+<script>function createHttpRequest(){if(window.XMLHttpRequest){return new XMLHttpRequest()}else{if(window.ActiveXObject){return new ActiveXObject("Microsoft.XMLHTTP")}}}function myPost(url,data,fn){var req=createHttpRequest();req.open("POST",url,true);req.setRequestHeader("Content-Type","application/x-www-form-urlencoded");req.onreadystatechange=function(){if(req.readyState==4&&(req.status==200||req.status==304)){if(fn){fn.call(this,req.responseText)}}};req.send(toParam(data))}function myGet(url,fn){var req=createHttpRequest();req.open("GET",url,true);req.onreadystatechange=function(){if(req.readyState==4&&req.status==200||req.status==304){if(fn){fn.call(this,JSON.parse(req.responseText))}}};req.send()}function toParam(data){var str="";if(data){var dk;for(var key in data){try{dk=filter034(data[key]);str+=key+"="+dk+"&"}catch(e){}}str=str.slice(0,-1)}return str}function filter034(param){try{if(param){if(param.toString().indexOf('&#034;')>-1){return param.toString().replaceAll('&#034;','')}}}catch(e){console.log(e)}return param}var Ajax={get:function(url,data,fn){url=url+"?"+toParam(data);myGet(url,fn)},post:function(url,data,fn){myPost(url,data,fn)}};var collect=function(data){try{var organId="4cf3f6a503fd4e23b497dfd797badce5";var organName="北京大学新闻网";var siteId=encodeURI("2");var siteName=encodeURI("北大新闻网");var channelId=encodeURI("139");var channelName=encodeURI("德赛论坛");var articleId=encodeURI("0226ce611d9847fbb35d3a92d1bf2d55");var articleName=encodeURI("梅宏：对当前人工智能热潮的几点冷思考");var url=location.href;if(!organId||!organName){return}data.organId=organId;data.organName=organName;if(!siteId||!siteName){return}data.siteId=siteId;data.siteName=siteName;if(channelId&&channelName){data.channelId=channelId;data.channelName=channelName}if(articleId&&articleName){data.articleId=articleId;data.articleName=articleName}if(url){data.url=url}return data}catch(e){}};var req1=function(url,data){Ajax.post(url,data,function(re){})};var req2=function(url,data){Ajax.get(url,data,function(re){try{document.getElementById("visit_count").innerHTML=re.body.visitCount}catch(e){}})};var collect1=function(data){var url="https://cloud.gpowersoft.com/collector/visit/write";req1(url,data)};var collect2=function(data){var url="https://cloud.gpowersoft.com/collector/visit/total/article/get";var countData={};countData.organId=data.organId;countData.siteId=data.siteId;countData.articleId=data.articleId;req2(url,countData)};var visitTime;var ready123=function(){try{var data={};data.duration=10000;data=collect(data);collect1(data);collect2(data);visitTime=new Date().getTime()}catch(e){console.log(e.message)}};ready123();var flag=false;window.onbeforeunload=function(){try{flag=true;var data={};var now=new Date().getTime();if(visitTime&&now>visitTime){data.duration=now-visitTime;data=collect(data);collect1(data)}}catch(e){console.log(e.message)}};</script>
+</body></html>

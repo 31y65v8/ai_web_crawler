@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "affinity=\"e8d197dffd12df19\"; AKA_A2=A",
+        "Referer": "https://www2.deloitte.com/cn/zh/pages/technology/articles/large-scale-ai-in-enterprise.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www2.deloitte.com/cn/zh/pages/technology/articles/large-scale-ai-in-enterprise.html",
+    "wait": 6
+}

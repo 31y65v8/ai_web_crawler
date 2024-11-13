@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://www.tsinghua.edu.cn/info/1182/111578.htm",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.tsinghua.edu.cn/info/1182/111578.htm",
+    "wait": 6
+}

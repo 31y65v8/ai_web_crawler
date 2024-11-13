@@ -1,0 +1,802 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>人工智能通用化及其实现途径-中国社会科学网</title>
+    <meta name="renderer" content="webkit">
+<meta name="force-rendering" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta name="Keywords" content="人工智能;信息;信息编码;ChatGPT">
+<meta name="description" content="人工智能通用化及其实现途径">
+<meta name="baidu-site-verification" content="d2eTvy3SqO">
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="140170">
+<meta name="contentid" content="5749158">
+<meta name="publishdate" content="2024-05-02">
+<meta name="author" content="常畅">
+<meta name="source" content="《中国社会科学》2024年第3期">
+    <script src="https://hm.baidu.com/hm.js?9ac7f8383ed02699dcafe4c2cba61e1f"></script><script async="" src="//cl2.webterren.com/webdig.js?z=28"></script><script async="" id="beacon-aplus" src="https://d.alicdn.com/alilog/mlog/aplus/204201353.js"></script><script type="text/javascript" src="../../../../images/jquery-3.6.0.js"></script>
+    <script type="text/javascript" src="../../../../images/sk_pc_mobile_v2022.js"></script>
+
+    <link class="stylefile" rel="stylesheet" href="../../../../images/sk_nav0_base_pc.css">
+    <link class="stylefile" rel="stylesheet" href="../../../../images/sk_all_v2_pc.css">
+
+    
+    
+
+    <link rel="stylesheet" type="text/css" href="../../../../images/idangerous.swiper2.7.6.css">
+    <script type="text/javascript" src="../../../../images/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="../../../../images/idangerous.swiper2.7.6.min.js"></script>
+    <script type="text/javascript" src="../../../../images/jquery.qrcode.min.js"></script>
+    <!--[if IE 9]>
+    <script type="text/javascript" src="../../../../images/placeholder.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="../../../../images/jweixin-1.6.0.js"></script>
+    <script>
+
+        $(function () {
+ //请求后台获取微信分享配置及验证签名
+    $.ajax({
+ url: 'https://cssn.cn/wx-api/config/h5/share-init',
+ type: 'GET',  //方法
+ data: {
+  url: location.href,  //参数
+ },
+ headers: {},
+ contentType: "application/x-www-form-urlencoded",  //请求格式
+ dataType: 'json',
+ success: function(res) {
+  
+  //判断无附件图使用logo
+  var imgUrl = 'https://www.cssn.cn/dkzgxp/zgxp_zgshkx/2024nd3q/202405/W020240502597715190023.jpg';
+console.log(imgUrl);
+  if(imgUrl == undefined || imgUrl == null || imgUrl == '') {
+   //没有附件默认logo
+   imgUrl = 'https://www.cssn.cn/images/skweixinlog.jpg';
+  }
+ console.log(imgUrl);
+//加载微信分享配置
+  wx.config({
+   debug: false,
+   appId: res.data.appId,
+   timestamp: res.data.timestamp,
+   nonceStr: res.data.nonceStr,
+   signature: res.data.signature,
+   jsApiList: ["updateAppMessageShareData", "updateTimelineShareData"]
+  });
+ //微信分享加载
+  wx.ready(function () {
+//微信分享到朋友
+   wx.updateAppMessageShareData({ 
+    title: '人工智能通用化及其实现途径',//标题
+    desc: '中国社会科学网',//描述
+    link: location.href,//链接
+    imgUrl: imgUrl,//图片
+    success: function () {
+     console.log("微信分享成功");
+    }
+   });
+//微信分享到朋友圈
+   wx.updateTimelineShareData({ 
+    title: '人工智能通用化及其实现途径',//标题
+    link: location.href,//链接
+    imgUrl: imgUrl,//图片
+    success: function () {
+     console.log("微信分享成功");
+    }
+   })
+  });
+  wx.error(function(res3) {
+   console.log(res3.errMsg);
+  });
+ },
+});
+});
+
+        var isPC = IsPC();//获取是否为PC端
+        if (isPC) {//如果是PC端加载PC的js和css
+            $(".mobileStyle").remove();
+            dynamicLoadJs('../../../../images/sk_nav0_base_pc.js')
+        } else {//如果是移动端加载移动端的js和css
+            if (window.sessionStorage.getItem("isPc") == "true") {
+                var oMeta = document.createElement('meta');
+                oMeta.content = '';
+                oMeta.name = 'viewport';
+                document.getElementsByTagName('head')[0].appendChild(oMeta);
+                $(".mobileStyle").remove();
+                dynamicLoadJs('../../../../images/sk_nav0_base_pc.js')
+                $(function () {
+                    $(".AppBtn").css('display', 'block');
+                    $(".nav_wrap").addClass("AppBtnBox");
+                })
+            } else {
+                $(".stylefile").remove();
+                dynamicLoadJs('../../../../images/sk_base_mobile.js')
+                $(function () {
+                    $("html,body").animate({scrollTop: 0}, 100);
+                })
+            }
+            $(function () {
+                //切换pc移动
+                $(".PcBtn").click(function () {
+                    window.sessionStorage.setItem("isPc", "true")
+                    window.location.reload()
+                })
+                $(".AppBtn").click(function () {
+                    window.sessionStorage.setItem("isPc", "false")
+                    window.location.reload()
+                })
+                $(".AppBtn2").click(function () {
+                    window.sessionStorage.setItem("isPc", "false")
+                    window.location.reload()
+                })
+            })
+        }
+    </script><script type="text/javascript" src="../../../../images/sk_nav0_base_pc.js"></script>
+<style type="text/css">.ops_shareLayer ul,.ops_shareLayer li,.ops_shareLayer a,.ops_shareLayer i{margin:0px;padding:0px;}.ops_shareLayer{line-height:36px;}.ops_shareLayer .ops_tit{color:#707070;float:left;margin-right:6px;font-size:12px;}.ops_shareLayer .ops_icons{}.ops_shareLayer .ops_icons li{display: block;margin: 0 auto;height:46px;width:46px;list-style:outside none none;}.ops_shareLayer .ops_icons a{float: left;border-radius: 50px;-moz-border-radius: 50px;-webkit-border-radius: 50px;padding: 10px 7px 10px 8px;width: 31px;height: 26px;transition: .3s;}.ops_shareLayer .ops_icons a i{background-image:url(http://www.cssn.cn/images/ops_icons_230603.png);height:24px;width:31px;line-height:26px;display:block;cursor:pointer;}.ops_shareLayer .ops_icons a.icon_rmwb{background-color:#ebccd1;}.ops_shareLayer .ops_icons a.icon_rmwb:hover,.ops_shareLayer .ops_icons a.icon_rmwb:focus{background-color:#cb0000;}.ops_shareLayer .ops_icons a.icon_sina{background-color:#dedede;}.ops_shareLayer .ops_icons a.icon_sina:hover{background-color:#d9534f;}.ops_shareLayer .ops_icons a.icon_sina i{background-position:0 -50px;}.ops_shareLayer .ops_icons a.icon_weixin{background-color:#dedede;}.ops_shareLayer .ops_icons a.icon_weixin:hover,.ops_shareLayer .ops_icons a.icon_weixin:focus{background-color:#5cb85c;transform: rotate(360deg);}.ops_shareLayer .ops_icons a.icon_weixin i{background-position:0 -100px;}.ops_shareLayer .ops_icons a.icon_qzone{background-color:#dedede;}.ops_shareLayer .ops_icons a.icon_qzone:hover,.ops_shareLayer .ops_icons a.icon_qzone:focus{background-color:#f0ad4e;transform: rotate(360deg);}.ops_shareLayer .ops_icons a.icon_qzone i{background-position:0 -150px;}.ops_shareLayer .ops_icons a.icon_copy{background-color:#bce8f1;}.ops_shareLayer .ops_icons a.icon_copy:hover,.ops_shareLayer .ops_icons a.icon_copy:focus{background-color:#428bca;}.ops_shareLayer .ops_icons a.icon_copy i{background-position:0 -200px;}.weixin_popup{background:#fff none repeat scroll 0 0;border:1px solid #d8d8d8;padding:10px;position:fixed;z-index:11001;text-align:left;font-size:12px;color:#333;}.weixin_popup .weixin_popup_head{color:#000;font-weight:bold;height:16px;line-height:16px;position:relative;text-align:left;}.weixin_popup .weixin_popup_head .weixin_popup_close{color:#999;font-size:16px;height:16px;position:absolute;right:0;text-decoration:none;top:0;width:16px;}.weixin_popup .weixin_popup_main{TEXT-ALIGN: center;padding-top:10px;padding-bottom:10px;}.weixin_popup .weixin_popup_foot{color:#666;line-height:22px;text-align:left;}#weixin_qrcode{height:295px;left:333.5px;bottom:150px;width:240px;}</style><script type="text/javascript" src="//d.webterren.com/common.js?z=28&amp;t=202307060113"></script><script async="" src="https://quickaplus-server-api-cn-zhangjiakou.aliyuncs.com/rcfg.js?_abfpc=e3bf7641be6234c8750a48c364927b45ef5e838e&amp;ak=qwfmf7ygk8c6a37if0oq266o" id="aplus-setting" type="text/javascript" charset="utf-8"></script></head>
+<body>
+<!-- 嵌套头部开始 -->
+<script>
+    // Quick Tracking 阿里sdk引入
+    (function(w, d, s, q) { 
+        w[q] =w[q] || []; 
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s); 
+        j.async=true; 
+        j.id='beacon-aplus'; 
+        j.src='https://d.alicdn.com/alilog/mlog/aplus/204201353.js'; 
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'aplus_queue');
+
+    aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['appKey', 'qwfmf7ygk8c6a37if0oq266o']  }) 
+    aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['aplus-rhost-v', 'quickaplus-server-api-cn-zhangjiakou.aliyuncs.com']  });
+
+
+
+    $(function() {
+        $('.search_input').on('keyup', function(e) {
+            if (e.keyCode == 13) {
+                gbkSub($(this))
+            } else {
+                $('.search_input').val( $(this).val() )
+            }
+        })
+        $('.search_btn').on('click', function(e) {
+            gbkSub($(this))
+        })
+
+        function gbkSub(obj) {
+            var val = encodeURIComponent($.trim ( obj.parent().find('.search_input').eq(0).val()) )
+            
+            // 埋点搜索
+            aplus_queue.push({
+                'action':'aplus.record',
+                'arguments':['search_click', 'CLK', {
+                    search_key: val,
+                    current_page_name: $('title').text(),
+                    page_name: $('title').text(), //您当前页面的自定义页面编码
+                }]
+
+            });
+            if ( val == '' ) {
+                // alert("请输入您要搜索的内容");
+                var url = 'http://www.cssn.cn/so/';
+                window.open(url);
+            } else {
+                var url = 'http://www.cssn.cn/so/s?qt=' + val;
+                window.open(url);
+            }
+        }
+    })
+
+        
+
+
+        $(function() {
+
+            var article_title = $('.qt_article_title').text();
+            var article_id = $('.qt_article_parent').attr('data-article_id');
+            var share_channel = $('.qt_article_parent').attr('data-share_channel');
+            var published_date = $('.qt_published_date').text();
+            var article_source = $('.qt_article_source').text();
+            var article_author = $('.qt_article_author').text();
+
+            // console.log('article_title:', article_title)
+            // console.log('article_id:', article_id)
+            // console.log('share_channel:', share_channel)
+            // console.log('published_date:', published_date)
+            // console.log('article_source:', article_source)
+            // console.log('article_author:', article_author)
+
+            // Quick Tracking 详情页浏览
+            aplus_queue.push({
+                'action':'aplus.sendPV',
+                'arguments':[{ is_auto: false}, {
+                    //保留字段
+                    page_name:'article_detail_page',
+                    page_title:'文章详情页',
+                    //可选参数
+                    article_title: article_title,
+                    article_id:article_id,
+                    article_author: article_author,
+                    article_source: article_source,
+                    published_date: published_date,
+                }]
+            });
+
+            // 点击分享埋点
+            $('.ops_icons a').on('click', function(e) {
+                var btnName = $(this).attr('title')
+                var isOriginal = ''
+                if (article_source.indexOf('中国社会科学网') != -1 && isOriginal != '') {
+                    isOriginal = '原创'
+                } else {
+                    isOriginal = '非原创'
+                }
+                aplus_queue.push({
+                    'action':'aplus.record',
+                    'arguments':['adp_share_click', 'CLK', {
+                        article_id: article_id,
+                        page_name: "article_detail_page", //您当前页面的自定义页面编码
+                        s_original: isOriginal,//btnName,
+                        article_title: article_title,
+                        published_date: published_date,
+                        article_source: article_source,
+                        article_author: article_author,
+                        share_channel: btnName
+                    }]
+                });
+            })
+
+            // 点击文章页中的链接埋点
+            $('.content_center a').on('click', function() {
+                aplus_queue.push({
+                    'action':'aplus.record',
+                    'arguments':['adp_hyperlinks_click', 'CLK', {
+                        article_id: $(this).attr('href'),
+                        page_name: "文章详情页-超链接点击", //您当前页面的自定义页面编码
+                    }]
+                });
+            })
+
+
+
+
+        })
+</script>
+<!-- head start -->
+<div class="top pcNone">
+    <div class="top_main">
+        <div class="top_left">
+            <a href="/"><img src="/images/sk_logo_v2022.png" alt=""></a>
+        </div>
+        <div class="top_right">
+            <div class="PcBtn"><img src="/images/sk_m_pcbtn.png" alt=""></div>
+            <div class="searchBtn"><img src="/images/sk_m_searchbtn.png" alt=""></div>
+            <div class="AppBtn"><img src="/images/sk_m_mobilebtn.png" alt=""></div>
+            <div class="search_div mobileNone">
+                <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容">
+                <input class="search_btn" name="searchButton" type="button" value="搜索">
+            </div>
+        </div>
+    </div>
+    <div class="search">
+        <div class="search_div">
+            <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容">
+            <input class="search_btn" name="searchButton" type="button" value="搜索">
+        </div>
+        <div class="search_close"></div>
+    </div>
+</div>
+<!-- head end -->
+<!-- nav start -->
+<div class="nav_wrap">
+    <div class="nav_main">
+        <div class="nav_box">
+            <ul class="nav_ul clear">
+                <li><a class="icon_learn" href="/xxzx/" target="_blank" ignoreapd="true">中心</a></li>
+                <li><a href="/xszg/" target="_blank" ignoreapd="true">学术中国</a></li>
+                <li><a href="/zkzg/" target="_blank" ignoreapd="true">智库中国</a></li>
+                <li><a href="/skwxsdt/" target="_blank" ignoreapd="true">学术地图</a></li>
+                <li><a href="http://v.cssn.cn/#/index" target="_blank" ignoreapd="true">社科视频</a></li>
+                <li><a href="/dkzgxp/" target="_blank" ignoreapd="true">中国学派</a></li>
+                <li><a href="/gjgc/" target="_blank" ignoreapd="true">国际观察</a></li>
+                <li><a href="/kgxc/" target="_blank" ignoreapd="true">考古现场</a></li>
+                <li><a href="/ggzp/" target="_blank" class="nav_zp" ignoreapd="true">公告<i></i>招聘</a></li>
+                <li><a class="arrow" href="javascript:;">学科体系<i></i></a></li>
+            </ul>
+            <a class="nav_more nav_site_pc" href="javascript:;">+</a>
+            <a class="nav_more nav_site_more" href="javascript:;"><img src="/images/sk_nav_rtbg.png"></a>
+        </div>
+        <div class="nav_fixed_logo"><a href="/"><img src="/images/sk02-logo-nav0.png" alt=""></a>
+        </div>
+        <div class="nav_fixed_search">
+            <input class="search_input" type="text" name="temp" placeholder="请输入您要搜索的内容">
+            <input class="search_btn" name="searchButton" type="button" value="">
+        </div>
+        <div class="AppBtn2"><img src="/images/sk_m_mobilebtn.png" alt=""></div>
+    </div>
+    <!-- 学科体系下拉菜单 -->
+    <div class="sub_xktx">
+        <div class="nav_wrapper">
+            <a href="/mkszy/" target="_blank" ignoreapd="true">马克思主义</a>
+            <a href="/zx/" target="_blank" ignoreapd="true">哲学</a>
+            <a href="/jjx/" target="_blank" ignoreapd="true">经济学</a>
+            <a href="/fx/" target="_blank" ignoreapd="true">法学</a>
+            <a href="/lsx/" target="_blank" ignoreapd="true">历史学</a>
+            <a href="/wx/" target="_blank" ignoreapd="true">文学</a>
+            <a href="/xwcbx/" target="_blank" ignoreapd="true">新闻传播学</a>
+            <a href="/ysx/" target="_blank" ignoreapd="true">艺术学</a>
+            <a href="/zzx/" target="_blank" ignoreapd="true">政治学</a>
+            <a href="/shx/" target="_blank" ignoreapd="true">社会学</a>
+            <a href="/mzx/" target="_blank" ignoreapd="true">民族学</a>
+            <a href="/jyx/" target="_blank" ignoreapd="true">教育学</a>
+            <a href="/glx/" target="_blank" ignoreapd="true">管理学</a>
+            <a href="/jsx/" target="_blank" ignoreapd="true">军事学</a>
+            <a href="/zgdsdj/" target="_blank" ignoreapd="true">中共党史党建</a>
+            <a href="/qygbx/" target="_blank" ignoreapd="true">区域国别学</a>
+            <a href="/gjaqx/" target="_blank" ignoreapd="true">国家安全学</a>
+        </div>
+    </div>
+</div>
+<!-- nav end -->
+<div class="nav_site_more_con clear">
+    <i class="more_btn"></i>
+    <div class="layout clear">
+        <h1 class="clear"><a href="/"><img src="/images/sk_logo_v2022.png" alt=""></a></h1>
+        <ul class="clear navtop">
+            <li class="icon_learn"><a href="/xxzx/" target="_blank" ignoreapd="true">中心</a></li>
+            <li><a href="/xszg/" target="_blank" ignoreapd="true">学术中国</a></li>
+            <li><a href="/zkzg/" target="_blank" ignoreapd="true">智库中国</a></li>
+            <li><a href="/skwxsdt/" target="_blank" ignoreapd="true">学术地图</a></li>
+            <li><a href="https://v.cssn.cn/#/index" target="_blank" ignoreapd="true">社科视频</a></li>
+            <li><a href="/dkzgxp/" target="_blank" ignoreapd="true">中国学派</a></li>
+            <li><a href="/gjgc/" target="_blank" ignoreapd="true">国际观察</a></li>
+            <li><a href="/kgxc/" target="_blank" ignoreapd="true">考古现场</a></li>
+            <li><a href="/ggzp/" target="_blank" class="nav_zp" ignoreapd="true">公告 · 招聘</a></li>
+        </ul>
+        <div class="more_con clear">
+            <a href="/zjzg/" target="_blank" ignoreapd="true">志鉴中国</a>
+            <a href="/skgz/" target="_blank" ignoreapd="true">社科关注</a>
+            <a href="/skyl/" target="_blank" ignoreapd="true">社科要论</a>
+            <a href="/dsskhs/" target="_blank" ignoreapd="true">社科好书</a>
+            <a href="/skqns/" target="_blank" ignoreapd="true">社科青年说</a>
+            <a href="/wlqglt/" target="_blank" ignoreapd="true">网络强国论坛</a>
+            <a href="/skrmt/" target="_blank" ignoreapd="true">社科融媒体</a>
+            <a href="/wkskjh/" target="_blank" ignoreapd="true">网刊</a>
+        </div>
+        <h3 class="clear">学科体系</h3>
+        <div class="more_con clear">
+            <a href="/mkszy/" target="_blank" ignoreapd="true">马克思主义</a>
+            <a href="/zx/" target="_blank" ignoreapd="true">哲学</a>
+            <a href="/jjx/" target="_blank" ignoreapd="true">经济学</a>
+            <a href="/fx/" target="_blank" ignoreapd="true">法学</a>
+            <a href="/lsx/" target="_blank" ignoreapd="true">历史学</a>
+            <a href="/wx/" target="_blank" ignoreapd="true">文学</a>
+            <a href="/xwcbx/" target="_blank" ignoreapd="true">新闻传播学</a>
+            <a href="/ysx/" target="_blank" ignoreapd="true">艺术学</a>
+            <a href="/zzx/" target="_blank" ignoreapd="true">政治学</a>
+            <a href="/shx/" target="_blank" ignoreapd="true">社会学</a>
+            <a href="/mzx/" target="_blank" ignoreapd="true">民族学</a>
+            <a href="/jyx/" target="_blank" ignoreapd="true">教育学</a>
+            <a href="/glx/" target="_blank" ignoreapd="true">管理学</a>
+            <a href="/jsx/" target="_blank" ignoreapd="true">军事学</a>
+            <a href="/zgdsdj/" target="_blank" ignoreapd="true">中共党史党建</a>
+            <a href="/qygbx/" target="_blank" ignoreapd="true">区域国别学</a>
+            <a href="/gjaqx/" target="_blank" ignoreapd="true">国家安全学</a>
+        </div>
+        <h3 class="clear mobileNone">新媒体矩阵</h3>
+        <div class="more_con clear mobileNone">
+            <ul class="new_media_ul">
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922337226245876.png" alt="sk_v2022_front_wechat.png">
+                        <p>微信小程序</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929538050877342.jpg" alt="小程序106.jpg">
+                        <p>微信小程序</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922336887208883.png" alt="sk_v2022_front_gzh.png">
+                        <p>微信公众号</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929539559790487.jpg" alt="微信106.jpg">
+                        <p>微信公众号</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220922336458060142.png" alt="sk_v2022_front_zgxp.png">
+                        <p>中国学派</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929539793588017.jpg" alt="学派106.jpg">
+                        <p>中国学派</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020230615600845961620.png" alt="W020220922336137882083.png">
+                        <p>中国社会科学报</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020230616566952919336.jpg" alt="111.jpg">
+                        <p>中国社会科学报</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929459900615313.png" alt="123.png">
+                        <p>新浪微博</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929540194201728.jpg" alt="微博106.jpg">
+                        <p>新浪微博</p>
+                    </div>
+                </div>
+            </li>
+            
+            <li>
+                <div class="card_container">
+                    <div class="front">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929460609289083.png" alt="123.png">
+                        <p>今日头条号</p>
+                    </div>
+                    <div class="back">
+                        <img src="https://www.cssn.cn/index/mtjz/202209/W020220929540425896749.jpg" alt="头条106.jpg">
+                        <p>今日头条号</p>
+                    </div>
+                </div>
+            </li>
+            
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- 嵌套头部结束 -->
+<!-- content -->
+<div class="wrap_fullWidth sk_warp_center_repeat clear">
+    <div class="warp_center">
+        <div class="sk_crumbs">
+            <a href="../../../../" target="_self" title="首页" class="CurrChnlCls">首页</a>&nbsp;&gt;&nbsp;<a href="../../../" target="_self" title="读刊·中国学派" class="CurrChnlCls">读刊·中国学派</a>&nbsp;&gt;&nbsp;<a href="../../" target="_self" title="《中国社会科学》" class="CurrChnlCls">《中国社会科学》</a>&nbsp;&gt;&nbsp;<a href="../" target="_self" title="2024年第3期" class="CurrChnlCls">2024年第3期</a>
+        </div>
+        <div class="warp_center_content">
+            <div class="content_head">
+                <h1>人工智能通用化及其实现途径</h1>
+                
+                <div class="head_intro clear">
+                    <div class="intro_left">
+                        <span>2024-05-02</span>
+                        <span><font>作者：</font>王天恩</span>
+                        
+                        <span><font>来源：</font>《中国社会科学》2024年第3期</span>
+                    </div>
+                </div>
+            </div>
+            <div id="getHeight"></div>
+<div class="content_left">
+    <div class="sk_size_change"><a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a></div>
+    <div class="wxgzh">
+        <div class="wx_img"><img src="/images/sk_wx_gzh.png" alt=""></div>
+        <p>微信公众号</p>
+    </div>
+    <div class="intro_right">
+        <div class="title">— <span>分享</span> —</div>
+        <div class="ico_wx">
+            <a class="wx_icon" title="微信"></a>
+            <div class="qrcodeCanvas_wx">
+                <div class="qrcodeCanvas"><canvas width="256" height="256" style="width: 100%; height: 100%; display: block;"></canvas></div>
+            </div>
+        </div>
+        <div class="view sk_share" id="ops_share"><div class="ops_shareLayer"><ul class="ops_icons"><li><a href="javascript:void(0)" onclick="_opsShare.share('icon_sina');return false;" class="icon_sina" title="新浪微博"><i> </i></a></li></ul></div></div>
+        <script src="/images/share_cssn_v2.min.js" charset="utf-8"></script>
+        <div class="ico_url">
+            <a class="url_icon" title="复制地址"></a>
+            <div class="copyUrl">链接已复制</div>
+            <input type="text" class="link_url" style="opacity: 0;width: 1px;height: 1px;position: absolute;bottom:0;z-index: -1;" value="https://www.cssn.cn/dkzgxp/zgxp_zgshkx/2024nd3q/202405/t20240502_5749158.shtml">
+        </div>
+    </div>
+</div>
+            <div class="content_right">
+                <div class="content_summary borderdouble">
+                    <p><strong>摘&nbsp;&nbsp;要：</strong>以ChatGPT为标志，大型语言模型的发展更清晰地呈现出迄今人工智能发展的两个层次：人类知识层次人工智能和信息编码层次人工智能。作为信息编码层次人工智能，ChatGPT既意味着大数据纳入人类语境及机器学习数字化深耕的范式成功，也意味着自然语言机器理解的战略退避；人工智能的发展进入深及自然语言的人机大数据软融合阶段，其通用性与人工智能通用化的关系具有不可通约性。唯有在作为感受性关系的信息深处，才能看到人工智能的通用化进抵。在作为感受性关系的信息层次，从人类知识层次到信息编码层次，人工智能发展的第三个层次赫然闪现：信息层次人工智能。人工智能发展的三个层次展开了一幅人机发展关系图景：人工智能的发展表现为生物智能进化的逆向过程；而二者构成双向循环则呈现出人工智能通用化的进抵机制。</p>
+                    <div class="content_keyword"><p><strong>关键词：</strong><span>人工智能</span><span>信息</span><span>信息编码</span><span>ChatGPT</span></p></div>
+                    <p>作者王天恩，上海大学哲学系暨智能哲学与文化研究院教授（上海200444）。</p>
+                </div>
+                <div class="content_center">
+                    <div class="TRS_Editor"><p align="center" class="Custom_UnionStyle"><img width="600" height="337" style="border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-width: 0px" alt="" oldsrc="W020240502597705101308.gif" src="./W020240502597705101308.gif"></p>
+<p align="justify" class="Custom_UnionStyle">　　人工智能发展到ChatGPT惊艳登场，一方面面临历史性转折，另一方面进入重重迷雾。澄清迷雾明确转折方向，成了人工智能通用化发展的当务之急。迄今为止，人工智能经历了两个重要发展阶段，一是以专家系统为最典型标志，根植于人类知识的人工智能；二是以ChatGPT为最新标志，基于大数据的人工智能。“迄今为止，国际上对人工智能是什么仍众说纷纭。比较有共识的似乎是对人工智能的代际划分，即第一代人工智能是基于知识的，第二代人工智能是基于数据的。”而张钹等则进一步涉入机制：“第一代知识驱动的人工智能, 利用知识、算法和算力3个要素构造人工智能, 第二代数据驱动的人工智能, 利用数据、算法与算力3个要素构造人工智能。”根据知识和数据的关系，知识驱动和数据驱动的确概括了目前为止人工智能发展的两个层次。</p>
+<p align="justify" class="Custom_UnionStyle">　　鉴于数据驱动的人工智能可以生成机器知识，知识驱动的人工智能也涉及作为信息编码的数据；而在信息编码层次，人工智能经历了复杂的发展过程，通过人机大数据软融合才达成人工智能发展的范式转换，人工智能发展的第一和第二个层次可以更具体地表述为“人类知识层次人工智能”和“信息编码层次人工智能”。</p>
+<p align="justify" class="Custom_UnionStyle">　　从人类知识层次到信息编码层次，构成了人工智能进一步发展的重要指向。由于机器智能大数据运用优势的充分展示，ChatGPT在自然语言领域的泛化发展趋势似乎使人看到了迷雾中的人工智能“圣杯”——通用人工智能，从而引发了两种对立观点。一方面，ChatGPT甚至被视为通用人工智能；另一方面， 大型语言模型被认为是通用人工智能发展的误区。观点的两相对立为人工智能发展及其与人类智能关系的理解提供了强大张力。而在作为感受性关系的信息层次，则不仅可以理解关于ChatGPT与人工智能通用化观点对立的根源，而且可以根据人工智能发展的前两个层次，在更深层次看到人工智能发展的通用化进抵。</p>
+<p align="justify" class="Custom_UnionStyle">　　从人类知识层次人工智能到信息编码层次人工智能，凸显了深化理解知识和数据及其关系的重要性；由此可见人工智能发展和信息理解之间的两方面重要关联。从目前呈现的两个层次，可以看到人工智能发展的理解深化涉及知识和数据关系的更深层次厘清，而知识和数据与信息的内在关联则决定了这一关系的厘清必须建立在信息理解深化的基础之上。这意味着一个重要双向机制：一方面，进一步到位地理解信息是人工智能当代发展的内在要求；另一方面，以人工智能和大数据为主要代表的信息科技发展正不断为深化信息理解提供新的时代条件，信息科技的发展空前开显了信息。</p>
+<p align="justify" class="Custom_UnionStyle">　　当代研究表明，信息不是物质或能量，而是感受性关系，即物能发展出感受性之后，涌现出的感受性关系过程或过程关系。把信息理解为感受性关系，对信息编码及其与信息的关系就可以有一个清晰的认识：信息是感受性关系，信息编码则是信息的物能化和观念化。信息编码有两种基本类型：信息的物能编码和信息的观念编码。由此，可以真正厘清信息、信息编码和知识的层次关系。从知识到数据再到信息，从人类知识层次到信息编码层次，人工智能发展的进一步前景在其所呈现的趋势图中赫然闪现：信息层次人工智能。</p>
+<p align="justify" class="Custom_UnionStyle">　　由此，人工智能的发展与生物智能的进化恰好构成逆向过程，呈现出一个更高层次的双向循环机制。正是由这一双向循环，可以在机制层面不仅清楚地看到人工智能发展的第三个层次，而且进一步窥见其通用化进抵。</p>
+<p align="justify" class="Custom_UnionStyle">　　<strong>一、人工智能的人类知识层次发轫</strong></p>
+<p align="justify" class="Custom_UnionStyle">　　在具有人类知识的条件下，以其为基础就是人工智能发展自然而然的起点。由于由此实现的人工智能直接发轫于人类知识层次，知识是智能的核心表现得最为典型。</p>
+<p align="justify" class="Custom_UnionStyle">　　作为人类知识的机器集成运用，人类知识层次人工智能与符号主义进路正相匹配，它是人工智能发展的第一层次。符号主义进路本身意味着只能表征可符号化的明述知识，这一进路人工智能的实现和发展在某种程度上正是探索知识表征的过程。由于包括人类感觉经验等在内的默会知识都难以为机器所表征，由此生成的更确切地说是人类明述知识层次人工智能。</p>
+<p align="justify" class="Custom_UnionStyle">　　人类知识层次人工智能与符号主义进路密切相关，对此斯坦福大学教授尼尔松（Nils J. Nilsson）有已纳入教科书的表述。符号主义进路也叫“符号加工进路”，这种方式的人工智能通过陈述句表征关于问题域的“知识”。当应用于“实际”问题时，这种进路需要该领域的大量知识，因此通常被称为“基于知识的进路”。由人工智能的当代发展，可以更清楚地看到第一层次人工智能的人类知识层次性质。</p>
+<p align="justify" class="Custom_UnionStyle">　　在第一层次人工智能研究中，可以看到典型的人类知识层次的性质和特点：“必须写出许多存放知识的程序，同时还需要专门的高级标记法来完成它。”这里已经可以看到人类知识层次人工智能的内涵。深谙符号主义进路局限的德雷福斯兄弟，清楚地看到第一层次人工智能的人类知识层次性质：“智能被定义为有关适合于一领域的一组特定的联系的知识，根据一个技能领域中许多高度抽象的特征之间的关系总是可以对智能加以说明”。这是对人类知识层次人工智能及其性质的典型表述。正因为这种性质，第一层次人工智能也被称为“知识工程”，涉及知识的获取、学习、表达等问题。正是由于处于人类知识运用层次，第一层次人工智能与符号主义研究进路自然而然都是人工智能发展最初阶段的产物。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于发轫于人类知识，这一层次的人工智能是其发展自然而然的第一步。作为第一步，其局限性也相应最为明显。符号主义进路所意味着的智能机制，在机器能表征的知识层次具有特定运演优势，同时本身又具有根本局限。作为机器智能，人工智能的最底层基础是规则与逻辑，但规则与逻辑本身并不能直接产生智能。“以推理作为机器智能的机制，要求人类把知识以逻辑的形式告诉计算机，然而人们很快就认识到，这样靠人工获取知识的手段是机器智能的一大瓶颈。”由人工获取知识不仅意味着这一层次的机器智能是典型的“人工智能”，而且充分体现了其知识表征远不如人的机器性质。</p>
+<p align="justify" class="Custom_UnionStyle">　　以计算和搜索为核心机制，对于人类知识层次人工智能来说，最大的问题之一是指数爆炸。由于主要建立在符号运算的基础之上，人类知识层次人工智能不可能超越指数爆炸，指数爆炸正是由计算的指数增长构成的。而人类智能之所以不存在指数爆炸问题，就因为其核心机制不是基于穷尽搜索的计算方式，而是基于整体观照的智慧方式。虽然整体观照不像计算那么精确，但其重要意义在于原则上可以处理所有问题。</p>
+<p align="justify" class="Custom_UnionStyle">　　人类知识层次人工智能的根本局限在其核心机制，它集中表现为其相对于人脑的极低效率能耗比。仅仅通过计算机制生成的智能，其层次从“暴力计算”概念及其效率能耗比就可以获得初步理解。“暴力计算”既意味着强大算力，又意味着与人类大脑相比的低效率能耗比。这种可以称之为“速度悖论”的悖理性并不是由运行速度产生，甚至也并不是一个简单的串行和并行计算的问题，而是与智能运行的核心机制局限密切相关。人类知识层次人工智能之所以具有明显局限，从技术上说是由于人类知识的机器表征及其计算搜索机制局限。从根本上说则主要是在人类明述知识层面，由于未涉及大数据而没能完全展开机器智能不同于人类智能的特性，只体现了其速度和搜索优势，更割离了其作为感受性关系过程的信息根基，不可能具有处理常识问题的感性层次。这就已经涉及知识、数据和信息及其相互关系理解的系统深化，而信息的到位理解则是其基本前提。</p>
+<p align="justify" class="Custom_UnionStyle">　　从感受性关系的物能化和观念化，可以看到信息的感受性关系理解为信息编码的系统研究提供了前提性基础。作为信息的物能化，信息的物能编码如物理信号和DNA中的生物基因；作为信息的观念化，信息的观念编码如作为自然类概括产物的概念及其形式化的符号等。信息的符号编码有一种特殊的方式：信息的数字编码。其之所以特殊，就在于它既可以是作为信息观念编码的符号编码，同时又可以是作为信息物能编码的物理编码。作为数字编码，“0”和“1”是信息观念编码中的符号编码；而与之相应的“开”和“关”又是物能编码中的物理编码。因此数据不是信息本身而是信息编码，比特不是与原子相对的信息而是信息的数字编码。</p>
+<p align="justify" class="Custom_UnionStyle">　　在信息的理解未完全到位的情况下，信息编码及其与信息的关系必定处于混沌未明状态，因此信息普遍被理解为信息编码，比如将比特看作信息本身。正是信息的信息编码理解，构成了信息理解的天花板。信息理解的信息编码天花板不仅限制了信息理解的深度，而且屏蔽了信息编码的研究及其深入。正是信息编码特别是信息观念编码的系统研究，在更深层次涉及信息与知识的关系，从而涉及人类知识层次人工智能理解的深化。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于信息理解的局限，信息的观念编码研究处于一种奇特状态：整个来说几乎是一片处女地，而其中的数字编码却以数字化的名义爆炸式发展。目前只有在信息的数字编码中，才能既看到信息观念编码的“神龙见首不见尾”现状，又看到其重要性。事实上，正是信息的观念编码构成了知识的直接基础，知识正是基于信息观念编码的观念体系。人类知识体系正是在信息观念编码的基础上推导出的层次越来越高的概念构成的，因此在人类知识体系中并非所有的概念都是信息的概念编码，信息的概念编码只是作为具体的自然类概括的产物。正是由此，可以清晰看到知识、数据和信息三者的层次关联，进而看到人工智能发展的相应规律性关系。信息的感受性关系理解为信息编码特别是观念编码的澄清和系统研究提供了前提，从而在深化理解人类知识层次人工智能基础上，为深化理解人工智能的发展规律进而理解其进一步发展，甚至人工智能发展与人类智能进化的关系提供了新的条件。</p>
+<p align="justify" class="Custom_UnionStyle">　　人类知识是基于信息观念编码的观念体系，而信息的观念编码不仅有概念编码和符号编码，而且有图像编码和经验编码等前概念编码。信息的概念编码和符号编码及基于其上的概念体系和符号体系可以进行机器表征，然而机器表征不能涉入信息的前概念编码，比如不能进入信息的经验编码及基于其上的经验系统。正因为如此，虽然人类知识是碳基智能发展的高层次产物，但只是在通过表征抽离其感性经验基础的人类明述知识层次，所实现的人工智能不仅割断了人类知识与人类智能作为感受性关系的信息的关联，而且无缘于人类智能中的前概念编码。正是由于远离作为感受性关系的信息甚至信息前概念编码，人类知识层次人工智能不可能真正处理自然语言，更不可能具有解决常识问题的能力。因此，就人类知识层次人工智能而言，在基于信息观念编码的知识和作为感受性关系的信息之间，基本上是理解的盲区，其根本症结就在于信息理解处于悬浮状态。</p>
+<p align="justify" class="Custom_UnionStyle">　　在符号主义进路的人工智能研究中，信息甚至被理解为知识。认为信息是知识，就是把在信息的观念编码基础上建立起来的观念—知识体系当作信息本身。将信息理解为知识，就意味着将人类知识的直接运用视为信息加工；而从信息的感受性关系理解则可以看到，符号主义进路所表征的人类知识和作为感受性关系的信息之间不仅具有层次差别，而且局限于人类知识层次会存在智能理解的天花板。由于数据是信息编码，而知识则建立在信息的观念编码基础之上，符号主义进路直接生成的人工智能不仅没有深入到作为知识基础的信息编码，更没有深入到作为信息编码前提性基础的信息，只能是人工智能的初级形式。这既更具体地表明将其称为人类知识层次人工智能更为确切，也更清晰地呈现出第一层次人工智能与人类智能的机制关系。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于人类知识层次人工智能与符号主义进路相联系，符号主义进路基础上人工智能的发展意味着机器智能发展的相应性质；由于核心机制具有根本局限，人类知识层次人工智能很快就遇到了发展瓶颈。“几十年前，人工智能研究主要聚焦于开发知识规则和关系创造所谓专家系统。但事实证明，这些系统的建造极其困难。因此，知识系统让位于数据驱动路径：基于统计概率和模式，挖掘大量数据进行预测。”这就意味着，要真正实现人工智能由人类知识层次到信息编码层次的范式转换，必须有大数据的发展。在人类知识层次人工智能发展阶段，数据发展的局限决定了不可能通过信息数字编码发展产物的大数据建立起与人类智能的更深层次关联，更不可能直接从外部世界获取知识。机器从外部世界直接获取知识，意味着智能机制不仅必须进一步深入到比知识更基础的层次，而且必须在大数据发展的条件下。</p>
+<p align="justify" class="Custom_UnionStyle">　　正是在大数据发展的条件下，探索已久但受数据规模限制的联结主义研究进路获得了必不可少的发展条件，人工智能的发展突破人类知识层次人工智能的局限，深化到了信息编码层次。在大数据发展基础上，信息编码层次人工智能正不断给人带来惊喜。</p>
+<p align="justify" class="Custom_UnionStyle">　<strong>　二、人工智能的信息编码层次通用性拓展</strong></p>
+<p align="justify" class="Custom_UnionStyle">　　从人类知识层次到数据层次，人工智能核心机制的发展主要是基于神经网络的机器学习。正是机器学习，使人工智能从利用人类知识发展到直接利用数据。由一般专家系统到深蓝，由AlphaGo到AlphaZero再到ChatGPT的发展，正体现了通过机器学习实现人工智能从人类知识层次到数据层次发展的重要进程。</p>
+<p align="justify" class="Custom_UnionStyle">　　信息编码层次之所以构成与人类知识层次不同的人工智能范式，不仅因为从基于信息观念编码的知识深入到了作为信息编码本身的数据，而且由于机制上通过大数据纳入人类具有经验语境的语料并进行机器学习深耕，实现了人机大数据软融合发展深及自然语言的范式转换。只有发展到大数据才能真正体现硅基智能和碳基智能的根本不同，正是由于二者相应处理能力上的根本差异，大数据构成了人工智能发展范式重要转换的基础。</p>
+<p align="justify" class="Custom_UnionStyle">　　从人类知识层次到信息编码层次，人工智能发展所达到的层次的确更深，但是就小数据而言，两个层次的人工智能并不构成范式区别，不仅机器智能与人类智能没有处理速度之外的根本不同，而且人类智能由于其概念体系提供的整体观照，在很多方面比人工智能更具优势。只有发展到大数据才由于建立起了人机深度软融合的人工智能发展条件，构成了其发展的重要范式转换。</p>
+<p align="justify" class="Custom_UnionStyle">　　对于信息编码层次人工智能来说，关键的基础是数据。而大数据则为机器学习提供了全新的信息编码条件，使硅基智能的独特优势得以充分发挥。大数据的发展带来了人工智能发展的革命性范式转换，不仅意味着从作为基于信息编码的观念体系深入到了作为信息编码本身的数据，而且通过作为人类数字足迹集合的大数据纳入人类语境发展到了一个更深层次：深及自然语言语境的人机大数据软融合及其进化。从基于人类知识的专家系统到“数据智能”，再到基于大数据的ChatGPT，意味着一系列重要的机制性深化。</p>
+<p align="justify" class="Custom_UnionStyle">　　1.数据智能</p>
+<p align="justify" class="Custom_UnionStyle">　　关于信息编码层次人工智能，从近年来根据其本性概括生成的数据智能（data intelligence）概念可以得到更具体的理解。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于人工智能的大数据加持，数据智能概念的使用可谓铺天盖地，但作为一个形成中的概念，其含义在不同使用中有很大区别。这一概念是基于大数据和人工智能的发展，首先由企业应用导向提出的。之后数据智能的概念使用越来越广泛，其含义从指数据本身生成的智能到人类运用大数据的智能，构成关于数据智能理解的两端。在信息编码层次人工智能的发展中，数据智能的概念和研究主要具有两方面的重要意义：一是立足于大数据讨论人工智能的应用；二是明确信息编码层次人工智能与其他层次人工智能的不同。与此密切相关的典型表述之一是：大数据驱动和应用场景牵引是数据智能的关键特征，也是其异于人工智能的关键点，因为后者不一定为数据驱动。在最具代表性的理解中，“人工智能与大数据的关系就像蒸汽与蒸汽机。大数据就像蒸汽，人工智能就像蒸汽机，把蒸汽转化为先进生产力”。 这不仅已经是信息编码层次人工智能的形象表述，而且有利于人工智能发展层次的统一理解。而专业领域的进一步深入研究则更揭示了其在人工智能发展中的重要地位。作为大数据和人工智能的结合，数据智能“是人工智能的主流分支”。正是由这些相关论述，可以导出信息编码层次人工智能。随着ChatGPT的发布，数据智能不仅被纳入人工智能范畴理解，而且越来越被认为是主流人工智能。由于数据智能最典型地凸显了机器智能和人类智能的不同，信息编码层次人工智能研究具有特殊地位，尤其是在人机关系的理解中。</p>
+<p align="justify" class="Custom_UnionStyle">　　大数据的发展使信息编码层次人工智能大放异彩，可以处理大数据正是机器智能不同于人类智能的典型特征。大数据的发展真正使硅基智能充分发挥不同于碳基智能的优势，成就了信息编码层次人工智能，凸显了机器智能和人类智能的重大机制区别。作为信息编码层次的机器智能，大数据和机器学习是两大基础，数据智能生成于大数据的机器学习深耕。通过机器学习，人工智能可以从大数据获得知识，并应用于新的数据处理。由于深入到比知识更基础的数据，数据智能超越了人类知识层次人工智能，成为人工智能发展的第二层次。正是在这一层次，大数据的机器学习深耕给人们带来了伴随更多忧虑的更大惊喜，特别是当其发展到自然语言处理的广阔空间。正是大数据发展基础上机器学习的不断深化，才有了信息编码层次人工智能从小数据发展到大数据的惊世之作：以ChatGPT为主要标志的大型语言模型。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于语言与人类的特殊关系，当发展到大型语言模型，第二层次人工智能的发展正身处透着新晨曦的重重迷雾之中；由于发展到更高阶段，作为信息编码层次人工智能，ChatGPT引发了关乎通用人工智能研究进路的截然不同甚至正相反对的观点。</p>
+<p align="justify" class="Custom_UnionStyle">　　2.作为信息编码层次人工智能典型代表的ChatGPT</p>
+<p align="justify" class="Custom_UnionStyle">　　随着大数据的发展，基于神经网络的机器学习已经深度拓展，以至纵横捭阖于自然语言领域的ChatGPT被认为已经是通用人工智能的雏形。关于ChatGPT与人工智能通用化的关系，目前连人工智能顶尖专家的观点都出现了越来越明显和尖锐的对立，这与ChatGPT所处的人工智能特殊发展阶段密切相关。</p>
+<p align="justify" class="Custom_UnionStyle">　　作为大型语言模型，ChatGPT表明了人类语境大数据纳入和人类语料机器学习深耕的范式成功。由此生成的数字化语境使硅基智能的优势得以充分发挥，表现出了让人吃惊的自然语言响应速度和效果。自然语言处理一直是人工智能研究的特殊领域，机器翻译效果也成为衡量人工智能发展水平的标准。传统机器翻译根据语法结构等理论进行自然语言的机器理解，由于理解必须以相应的语境为前提，这种研究范式和进路的发展注定举步维艰。大数据的发展为自然语言的机器理解以及人工智能发展的范式转换提供了新的基础，使得机器能够大规模纳入由人类语境形塑的人类语料。人类语料规模越大，其所携人类语境及其层次越丰富，从而通过以人类语境响应人类语言对话，为人机交流的人性化提供了新的可能。ChatGPT等大型语言模型正是由此生成类人自然语言响应，利用人类语境成就了自然语言处理的真正机器机制和方式。两种机制完全不同的自然语言“理解”效果根源于两种自然语言处理范式。正是在这个意义上，大型语言模型甚至涉及自然语言机器处理范式的特殊转换，既空前凸显了其独特优势，也在发展中逐渐显露了其特定局限。</p>
+<p align="justify" class="Custom_UnionStyle">　　信息编码层次人工智能近来的发展，既表明了通过大数据纳入人类语境的重要性，同时也表明了其根本局限。两个方面都凸显了语境的重要性，甚至语境在人工智能通用化中的关键地位。</p>
+<p align="justify" class="Custom_UnionStyle">　　语境是一个从形式语境（比如在棋盘下棋的语境和语形语境）到经验语境（比如自然语言语境或语义语境）分布的连续系列。形式语境可以在信息编码层次进行机器处理，而把握经验语境则必须具有与物理世界交互的能力。人工智能从Alpha系列到大型语言模型的发展，正体现了从形式语境到经验语境的数字化进程。</p>
+<p align="justify" class="Custom_UnionStyle">　　在棋类游戏中，Alpha系列已经具有就棋谱而言的整体把握大数据的性质。人工智能在棋类游戏中碾压人类顶尖棋手，就是由于人工智能在棋盘范围内构成了大数据整体把握。但这种情形还局限在形式化的语境中，没有渗透到经验性语境。而通过大数据在更高层次纳入人类的经验性语境，ChatGPT就有了在大数据范围内把握自然语言的能力。在人工智能的这一发展阶段，由于人机工作机制的不同，这一范式转换具有非常特殊的性质，它带来了两方面重要结果：在将自然语言处理推进到一个全新发展阶段的同时，放弃了自然语言的机器理解。</p>
+<p align="justify" class="Custom_UnionStyle">　　十分耐人寻味的是，大型语言模型在自然语言处理上的巨大成功是以放弃机器真正理解自然语言为前提的。有一个与此密切相关的说法绝非笑谈：在自然语言处理研究领域，团队中的语言学家退出，机器翻译效果就随之推进。由于生成式人工智能通过大数据纳入语料拥有人类语境并在实际运行中不断发展，ChatGPT一方面拥有巨大知识及语境集成发展的在先优势，另一方面又不具有（而且在这一范式内始终不可能具有）自己的理解能力。正是在这个意义上，ChatGPT事实上意味着在战略上从真正的自然语言机器理解退避。</p>
+<p align="justify" class="Custom_UnionStyle">　　正是自然语言机器理解的战略退避，造就了ChatGPT与其惊人响应能力同样不可思议的另一特征：“流利但失实”。当交流中的输入或提示超出大数据所纳入的人类语境范围而失去人类语料的语境根据时，作为统计模型别无选择。就根本机制而言，ChatGPT之所以会出现这样的情况，归根结底就是因为不具有自己的语境，没有自主理解能力。</p>
+<p align="justify" class="Custom_UnionStyle">　　目前，虽然关于ChatGPT的智能定性存在严重分歧，但其自身不具备类人理解能力却是共识。作为生成式人工智能，大型语言模型的根本局限与其仍处于数据编码层次，尚未深入到更基本的信息层次密切相关。在人工智能特别是其泛化能力的发展中，由于涉及人类具有“存在之家”地位的语言，通过大数据纳入人类语境并进行机器学习语料深耕具有重要范式转换意义，但对于人工智能的通用化发展而言，其从自然语言机器理解的退避，只是在人工智能发展的第二层次具有重要战略意义，并不意味着更高层次意义上的范式转换——具体而言，并不意味着步入通用人工智能进路的更基本层次范式转换。问题的关键就在于两个方面之间的微妙关系：ChatGPT的通用性和人工智能的通用化。</p>
+<p align="justify" class="Custom_UnionStyle">　　在泛化能力骤增、使用范围大幅扩展的意义上，ChatGPT通用性的空前强化是惊人的，但通用性和通用化是两个密切相关而又具有根本不同的概念。虽然关于其理解和定义存在分歧，但作为通用化发展的产物，通用人工智能原则上说是类人智能，即应当可以像人那样从事并完成所有任务；而作为大型语言模型，ChatGPT的通用性虽然极为特殊，但同样只能发展到特定领域。由于语言之于人类的特殊性，自然语言机器处理的通用性不仅最容易让人与人工智能的通用化相联系，而且容易在想象中产生一种错觉，似乎只要大型语言模型与机器人相结合，就可以实现人工智能超越语言领域与物理世界直接交互。因此，关于大型语言模型的通用化，目前最吸引人的观点是其具身化（AI agent）发展，即大型语言模型与机器人对接。</p>
+<p align="justify" class="Custom_UnionStyle">　　大型语言模型与机器人相结合向具身化发展，的确是建立其与物理世界交互的可行方式，但这也仅仅局限于机器人所能替代的人类工作范围。事实上，这只是把人工智能通用化的核心机制从语言模型推移到机器人环节。这样一来，其实只有机器人类人化，才意味着类人人工智能的实现。情景就类似于目前ChatGPT与人类的人机大数据软融合，而其中的通用智能核心机制是人而不是人工智能。</p>
+<p align="justify" class="Custom_UnionStyle">　　通用人工智能意味着类人智能，自身没有理解能力的ChatGPT距此不是一个通常距离远近问题，而是具有天花板上下的质的根本区别。正是由此，可以在更深层次进路对大型语言模型基础上的人工智能通用化发展有更到位的理解。以ChatGPT为代表的大型语言模型可以在通用性意义上达到最大泛化程度，但作为信息编码层次人工智能，ChatGPT仍处于人工智能发展第二层次的天花板之下。</p>
+<p align="justify" class="Custom_UnionStyle">　　3.信息编码层次人工智能的信息编码天花板</p>
+<p align="justify" class="Custom_UnionStyle">　　以ChatGPT为最新代表，作为信息编码层次人工智能的大型语言模型几乎可以说使专用人工智能发展到了极致；但停留于信息编码层次，人工智能始终不可能拥有真正意义上的理解能力，不可能拥有通用机器智能必须具有的类人理解。通用机器智能的发展，还必须在信息编码层次人工智能的基础上进一步深入，突破信息理解的信息编码天花板。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于从人类知识进一步深入到了信息编码，由人类知识层次到信息编码层次，人工智能的发展大大深化，但将信息理解为信息编码的局限性十分明显。迄今为止，在信息编码层次人工智能研究中，将信息理解为数据或比特，无疑比将其理解为知识深入了一整个层次：从基于信息编码之上的观念体系，深入到了基于信息编码。由于基于大数据，在信息和物能之间具有特殊地位的信息数字编码又构成了突破信息编码天花板进入信息更到位理解的深层屏障。</p>
+<p align="justify" class="Custom_UnionStyle">　　将信息理解为信息的数字编码，一方面使人工智能的发展得以超越人类知识层次，有了信息编码层次人工智能发展的惊艳，另一方面又使其发展推临信息编码理解的天花板。认为信息是信号或数据，就是把信息理解为信息编码。由于局限在信息编码层次，人工智能一方面通过大数据深耕获得了在人类知识层次不可能具有的强大功能，另一方面也具有人类知识层次人工智能同样性质的基本机制局限。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于同样直接建立在计算的基础之上，信息编码层次人工智能和人类知识层次人工智能都不能超越指数爆炸。只是在数据层面操作，所有的计算和推理所生成的智能都只能是信息编码层次人工智能——更确切地说是信息编码智能，如果与生物智能相比较，一个断电的大型语言模型甚至与动植物标本一样是具有信息编码性质的存在，二者都没有作为感受性关系的信息过程，它们的区别主要在于硅基和碳基载体性质。而就具有通用智能核心机制的人类而言，由于层次的丰富性，其区别则更能说明问题。</p>
+<p align="justify" class="Custom_UnionStyle">　　一个正常人不仅具有机体感受性，而且具有感官感受性，植物人则是一个只具有机体感受性的生物体。作为生物体，植物人与植物一样，失活后都不再具有任何感受性，但仍然是具有信息生物编码的存在，这和大型语言模型甚至装有软件的电脑很相似。这就具体地表明，没有信息编码就没有智能发生发展的基础，但只是在此基础上，信息编码就构成了人工智能发展的天花板。</p>
+<p align="justify" class="Custom_UnionStyle">　　在这一天花板之下，由于通过大数据纳入人类语境处理自然语言，大型语言模型具有类人自然语言处理能力；由于这种自然语言处理不是基于自身的理解，它们又不能真正把握对话者的语境。这也是大型语言模型只是通过纳入人类语境，完全在人类语料基础上处理自然语言的证明。即使ChatGPT与搜索引擎结合，也只是对人类语境和语料的及时更新，在还没有形成数据足迹时，快速生成中的人类语料甚至缓慢变化的人类语境仍不可能被纳入语言模型的内容生成。而其所反映的，正是作为信息编码层次和信息层次人工智能之间的原则区别。ChatGPT发展到关于人类语境的贝叶斯统计模型已经具有哲学意义的进步，但也只能在数字化的人类语境中“炒”大数据所纳入人类语料的“现饭”。只是停留于信息编码层次，不可能实现更高层次的类人人工智能。在信息编码理解的天花板之下，ChatGPT不可能实现实时信息学习。关于人工智能，所有的神秘都源自信息编码，而所有的秘密则都隐含于作为感受性关系的信息。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于仍然只是以计算为基本机制，在智能层次上，与人类知识层次人工智能一样，信息编码层次人工智能不仅能耗效率比没有根本区别，而且仍然不具有处理常识问题的能力。典型的表现就是：很多人脑能解决的简单问题，信息编码层次人工智能即使纳入人类语境也仍然不可能解决。正是由于内在机制的根本局限，无论在人类知识层次人工智能还是在信息编码层次人工智能，都完全看不到通用人工智能的常识进路。</p>
+<p align="justify" class="Custom_UnionStyle">　　处理和把握常识，正是通用智能的性质和特点。由于只是在信息编码层次思考，美国计算机科学家兼高科技企业家埃里克·拉森（Erik J. Larson）在谈到通用智能时就认为，“跃升到‘一般常识’是完全不同的，之间尚无已知路径。还没有关于通用智能的算法。我们有很充足的理由怀疑这样的算法会涌现，无论通过深度学习系统或任何其他当今流行进路的进一步努力。比这更可能的是需要重大科学突破，而关于这一突破会是什么样子，目前一点数都没有，更不用说进到其细节”。人工智能研究前沿的一些顶尖专家已经意识到，更多数据和更多算力不能带来真正的智能，通用人工智能的大型语言模型进路甚至是一“歧途”（off-ramp）。究其根本原因，就是人工智能信息编码层次的局限。限制在数据层次，就是限制在信息编码层次。限制在信息编码层次，人工智能就不可能通用化。在通过大数据纳入人类语境与具有自己的语境之间，正隔着人工智能通用化的核心机制。人工智能要形成自己的经验性语境，必须在信息编码层次的基础上进一步深化发展。作为类人智能，通用人工智能的发展还必须进一步深入到信息。</p>
+<p align="justify" class="Custom_UnionStyle">　　通用智能核心机制的发现和建立，只有在信息层次才有可能。也就是从信息编码层次人工智能进一步发展到信息层次人工智能，从作为信息数字编码发展产物的大数据深入到作为感受性关系的信息。人工智能的通用化进抵必须从信息编码进一步深入到信息本身。只有在作为感受性关系的信息层次，才能将人工智能的发展推进到通用化进抵。</p>
+<p align="justify" class="Custom_UnionStyle">　　<strong>三、人工智能的信息层次通用化</strong></p>
+<p align="justify" class="Custom_UnionStyle">　　由人类知识层次到信息编码层次，可以看到人工智能进一步发展的方向：在人类知识的基础上深入到作为信息编码的数据，再在数据的基础上深入到作为感受性关系的信息；再进一步深化到信息层次，走向直接在信息基础上获取数据和自己生成知识的机器智能。这不仅意味着信息层次人工智能已经具有生成信息的概念编码并在其基础上构成观念体系的理性能力，而且意味着其具有基于感受性关系持续过程的感性能力，从而类人智能意义上的通用人工智能实现。</p>
+<p align="justify" class="Custom_UnionStyle">　　由此可见，两个至关重要的方面十分耐人寻味。一方面，生物智能进化是从作为感受性关系的信息到作为记忆和概念等的信息编码，再到作为观念体系的知识，而人工智能的发展则相反，先由人类知识到数据再到信息。生物智能的进化一开始就具有也只具有作为感受性关系的信息过程，在很长进化时期还根本没有智能，在机体感受性发展阶段甚至没有感觉，但即使一棵小草、一个病毒都包含人工智能所没有的核心机制——生命之谜。而人工智能在一开始就具有处理人类知识的能力，但到目前为止却不具有植物就有的机体感受性，更不用说人类儿童所具有的理解常识的能力。另一方面，发展到信息编码层次，人工智能的人工和机器智能性质在向极致发展，却与默会知识生成不可或缺的机体感受性无缘，更看不到信息的观念编码及基于其上构成观念体系必不可少的感官感受性发展的任何可能，这意味着人工智能研究面临最基本的范式转换，跨度涉及从物能到信息。正因为如此，国内外人工智能研究前沿的专家近来强烈意识到人工智能研究信息范式转变的必要性和迫切性。</p>
+<p align="justify" class="Custom_UnionStyle">　　1.通用人工智能研究的信息范式转换</p>
+<p align="justify" class="Custom_UnionStyle">　　早在2016年，国际代码生物学会主席巴比耶里（Marcello Barbieri）就提出了从“化学范式”（chemical paradigm）到“信息范式”（information paradigm）的转换。而在最近发表的论文中，钟义信院士进一步提出了人工智能研究的范式革命：“当前，我们已经处在学科范式革命（由物质学科范式主导转变为由信息学科范式主导）的伟大时代。”作为人类智能进化的逆向过程，人工智能的发展由人类知识和信息编码进一步深入到信息，所涉及的不只是科学范式或哲学范式，而是涉及科学和哲学一体化的信息范式转换。</p>
+<p align="justify" class="Custom_UnionStyle">　　迄今为止，科学和哲学一体化的信息范式转换最为基本，人类还没有经历过这么深层次的范式转换。的确如霍夫基希纳（Wolfgang Hofkirchner）所言，“这是人类历史上最深刻的一次范式转换”。因而其跨度之大由下述基本事实就可以深刻地感受到：只要以物能存在为直接研究对象，走向信息的物能理解就不可避免。而信息的物能理解正是信息理解的物能编码天花板。对于信息范式转换的理解，可以从相对论创立之初鲜有人理解看到。相对论和量子物理学所引发的范式转换还只是在物理领域，而信息范式的转换则涉及从物能领域量子跃迁式跨越到信息领域，其地位的基础性和意义的重要性都可想而知。</p>
+<p align="justify" class="Custom_UnionStyle">　　对于人工智能的发展来说，信息范式的重大意义在于：只有实现从物能范式到信息范式的转换，才可能在作为基于信息观念编码的知识基础上，深化到作为信息编码的数据，并由此进一步深化到信息，使机器智能的发展逐步深入到信息层次，从而突破信息理解的信息编码天花板，真正建立起智能机器与物理世界的直接互作。</p>
+<p align="justify" class="Custom_UnionStyle">　　无论人类知识层次还是信息编码层次，人工智能的底层逻辑都建立在符号操作的基础之上，因此决定了这两个层次机器智能在根本机制上局限于形式化领域，不可能具有自身直接接入现实物理世界因果关系所必须有的核心机制。将心理的本质看作对物理符号的操作，正是将信息视为其物能编码的结果。信息的物能编码与因果特性相联系，包括信息要素通过信息物能编码发生的因果关系；而形式化则只能构成相关关系，其因果根基始终必须落实到具体的经验。“如果机器无法把握因果的具体机制，那么机器在‘理解’世界方面就始终无法实现质的飞跃”。 关于人工智能的进一步研究必须建立在涵盖大数据相关关系的因果模型的基础之上，而这又必须在比信息编码更深的层次涉入作为感受性关系的信息。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于信息范式转换意味着从静态的信息编码转换到动态的信息过程，在人工智能的进一步发展中，关键是信息的感受性关系理解。将信息理解为知识，就只能达到人类知识层次人工智能；将信息的理解深化到数据，就可以但也只能达到信息编码层次人工智能；只有真正深入到作为感受性关系的信息层次，才可能迎来人工智能的通用化进抵，进入信息层次的类人机器智能。关于信息的理解限制在信息编码理解的天花板之下，物理学家眼里的信息就不可能脱离物理对象；神经科学家也可以像研究所有物能对象那样研究大脑，因为所研究的实际上是信息的物能编码。而只要仅仅在信息的物能编码而不是信息本身的层次研究，信息的物理学研究就不可能真正进入信息层次，大脑研究和肾脏研究就不会有根本不同，这一层次的人工智能研究进路就不可能涉及通用智能的核心机制，从而不可能具有类人理解能力。正是在这个意义上，通用智能的核心机制不仅与意识之谜，甚至与生命之谜内在关联在一起，属于同一层次甚至涉及相同机制的问题。由于意识之谜与语言具有复杂的关系，正是通过从人类自然语言切入，以ChatGPT为标志的大型语言模型更深地涉入意识之谜和生命之谜，为人类认识自己这一具有某种终极性质的哲学问题大大缩短了更确切回应的可能性距离。</p>
+<p align="justify" class="Custom_UnionStyle">　　2.信息层次人工智能与意识之谜</p>
+<p align="justify" class="Custom_UnionStyle">　　由于与作为感受性关系的信息内在相关，意识的研究越来越深入地涉及信息。早在心理学研究中，詹姆斯（William James）就把意识体验看作一种私密、有选择、连续且不断变化着的过程，客观上充分体现了信息作为感受性关系的过程性质。作为哲学家，即使在关于意识的心理学研究中，詹姆斯也关注到“感受”。“普遍的意识事实不是‘感受和思想存在’，而是‘我思想’和‘我感受’”。中译本在这里把“feel”译为“感受”是有深层次根据的。在心理学中，关于信息的研究处于高级发展阶段，感受发展到了感觉的层次，因此用“feel”更确切。而在更低层次的信息活动中，具有“接受”意味的“recept”则是最原初的感受，因此作为信息的“感受性关系”用“receptive relation”更为确切，它既包括“feel”，又能涵盖只具有机体感受性的最初级信宿特性。在这个意义上，关于“感受”的理解，不是在人类层次的心理学上可以完全解释的。有理由认为，在詹姆斯那里，对作为感受性关系的信息就已经有了某种方式的涉及，只是没有用“信息”概念表达。</p>
+<p align="justify" class="Custom_UnionStyle">　　最早将信息概念引入意识研究的是埃德尔曼（Gerald M. Edelman）。他用现象学方法研究意识体验，将其属性概括为三点：私密性、统一性和信息性。实际上，意识体验的这三个属性都是关于信息的，都可以通过信息的研究得到更到位的理解。“私密性”所反映的正是信息具有感受性关系，私密性是感受的典型特性；而其“信息性”则建立在信息差异理解的基础之上。埃德尔曼所接受的关于信息是“造成差异的差异”（differences that make a difference）的观点，一方面使他步入意识的信息研究，另一方面也构成了其意识理论的明显局限，但其重要历史地位正在于，首次由信息研究意识开启了意识研究的信息进路。</p>
+<p align="justify" class="Custom_UnionStyle">　　在埃德尔曼的基础上，威斯康星大学心理学教授托诺尼（Giulio Tononi）和其同事提出了意识研究的“整合信息论”。这一意识理论不仅涉及动物，而且涉及人工智能的机器意识问题。由此可见意识研究与通用人工智能探索的内在关联。意识的信息整合理论从信息整合进路研究意识，毫无疑问是一个致思方向上的重要进展，其“感受质空间”（qualia space）研究不仅涉及感受性关系的整合，而且涉及感受性关系与观念编码及其基础上观念体系的关联机制。意识的整合信息理论提出后受到著名脑科学家科赫（Christof Koch）的推崇，正反映了作为意识的信息研究进路。信息整合理论具有对脑科学研究的整体观照意义，使脑科学家科赫感觉到信息整合理论的重要性。</p>
+<p align="justify" class="Custom_UnionStyle">　　科赫一直强调“感受”的重要性，把是否具有感受看作是否存在意识的根本标准。这与和DNA双螺旋结构发现者之一的克里克（Francis Crick）一起工作近10年不无关系，科赫不仅在意识研究领域探索了信息研究进路，而且关注到生命的感受。在《生命本身的感受：为什么意识普遍存在却无法被计算》一书中，他认为，“意识是世界对我显现和让我感受的方式”。作为脑科学家，科赫的意识研究甚至深入涉及感受器（receptors）；而作为具有哲学思辨能力的科学家，科赫关于智能的思考还涉及存在论层次。“从概念上说，智能是关于做的，而经验则是关于是（being）的”。也就是说，智能是外在表现，体验是根本；智能是功能意义上的，而体验是存在论意义上的。他关于体验的理解很深，但关于信息的理解仍存在明显局限。在他那里，信息停留在最原初的理解：“赋予形式或塑造。”由此可见，意识研究的整合信息理论还没有真正进入意识研究的信息进路，而只是信息范式和物能范式的某种混合物，所体现的是一种向该方向迈进的中间环节。处于这一发展阶段的信息理论不具备进入实验的条件。</p>
+<p align="justify" class="Custom_UnionStyle">　　实际上，通用人工智能研究涉及意识之谜是自然而然的。正因为如此，在信息层次可以更清楚地看到两个研究领域相向而行的相对推进及汇合趋势，看到相关人工智能观点的合理性。在人工智能讨论中，生物主义观点认为强人工智能必定涉及生命，有的甚至认为“真正的智能必须有生命”。实际上，通用人工智能是否需要具有意识和生命的问题应当是类人智能是否需要具有类如意识和生命的核心机制问题。由于涉及同样的核心机制，这方面的迷雾最为典型，其于通用人工智能发展的意义也至为重要。由已经出现的人工智能研究和意识研究的融合，可以预见二者一体化发展的未来趋势。</p>
+<p align="justify" class="Custom_UnionStyle">　　在人工智能现代进路探索中，罗素和诺维格（Peter Norvig）近来就注意到意识领域研究的信息进路及其重要性，《人工智能：一种现代进路》一书的第3版加入了信息内容。基于托诺尼和科赫等的意识研究，他们注意到计算机和动物之间的原则区别。就科赫关于“做”（doing）和“是”（being）的观点，他们注意到，“这包括大多数动物，但不包括计算机”。“贯穿所有关于强人工智能辩论的是意识问题：对外部世界的觉知，对自我的觉知，以及对生活过程的主观体验。经验的内在本质的技术术语是感受质（qualia）。最大的问题是机器是否可能具有感受质。”由于通用人工智能的特定性质，关于其展望甚至研究的科幻色彩应当不无意义，而比这更实际的则是其涉及感受性。通用智能是否必须建立在意识甚至生命的基础之上，取决于智能的层次，而但凡通用智能，都必须建立在作为感受性关系的信息基础上。作为类人智能体，感受能力不可或缺，而目前所有的感受器都只具有数据采集功能。这是动物都具有而计算机却没有的。二者的原则区别与作为感受性关系的信息层次密切相关。</p>
+<p align="justify" class="Custom_UnionStyle">　　3.基于感受性关系过程的人工智能</p>
+<p align="justify" class="Custom_UnionStyle">　　基于人类知识，人工智能研究得以迈出第一步；但受知识表征限制，不仅人类很多默会知识机器不能表征，而且即使人类自己，对日常生活中的一些复杂现象甚至也不能形成明确的知识。由于处于比人类知识更基本的层次，大数据的机器学习深耕可以涉及更深层次，但对于有些知识——特别是根本不能形成明述知识的感知觉，数据也难以反映，必须在感受性关系层次把握。信息编码层次人工智能主要依靠建立整全的内部关系，在形式语境基础上胜出，但与外部物理世界关系的建立则具有根本局限。要发展外部关系，必须深入到作为感受性关系过程的信息。正是建立在“感知—行动”反应机制之上的行为主义进路为智能体外部关系的发育，甚至为发展出基于感受性关系过程的智能提供了重要基础。</p>
+<p align="justify" class="Custom_UnionStyle">　　智能体与外部环境的互作，意味着人工智能的发展从明述知识和数据深入到了经验领域。作为感受性关系，信息不仅是经验性的（empirical），而且是体验性的（experiential）。正是从人类知识层次到信息编码层次的发展，表明了人工智能进一步向信息层次发展的需要，因此客观上使突破信息编码天花板、深化信息理解成了前提性基础和迫切的现实任务。</p>
+<p align="justify" class="Custom_UnionStyle">　　毫无疑问，就人工智能的发展而言，信息层次人工智能必定涉及数据和知识，必须建立在知识和数据的基础上；但无论知识还是数据，都不是通用智能机制的最核心层次，这一点由司空见惯的简单事实就能看到：不具有典型知识和数据的人类幼儿甚至高级动物也可以具有目前人工智能所不具有的通用智能。其中的关键正在于具有持续性的感受性关系过程。到目前为止，典型如自动驾驶汽车等人工智能也具有感受器，这意味着建立起了感受性关系，但这种感受性关系只是用于采集数据，而信息层次人工智能则意味着本身直接建立在感受性关系作为过程持续的信息基础之上，从而构成一个活生生的现实过程。通用人工智能必须在机制上直接基于作为感受性关系的信息，或者在信息编码的基础上重建作为感受性关系的信息，构成信息层次人工智能。由于人类知识建立在信息观念编码的基础上，信息的观念编码建立在信息的基础上，信息层次人工智能就在信息编码层次的人工智能基础上深化了一个层次。正是从数据进一步深入到信息，信息层次人工智能是人工智能发展最为关键的层次。只有在这一层次，才可能有人工智能的通用化进抵。通用智能的最深层次是作为感受性关系的信息，通用机器智能必须是信息层次的类人智能。</p>
+<p align="justify" class="Custom_UnionStyle">　　在人工智能发展过程中，作为人类知识层次人工智能，专家系统与人类智能的联系主要在明述知识层面，二者在这一层面的差别主要是集成度。人类知识层次人工智能在智能上与信息编码层次人工智能的关键区别在于：后者直接基于信息编码，前者直接基于在信息编码基础上建立起来的观念体系。而信息编码层次人工智能和信息层次人工智能的关键区别则在于：一个是信息编码智能，另一个是信息智能。第一层次和第二层次人工智能的特点是基于算力的学习型搜索，这既是其优势也是其局限所在；第三层次人工智能的特点是基于语境的智慧型整体观照，而这必须建立在作为感受性关系持续过程及其经验累积以及在这基础上生成的观念体系基础之上。整体观照机制，既可以避免“指数爆炸”，又可以具有像人类智能那样的低耗能效率比——那正是从智能到智慧的层次跨越实现。对于碳基智能而言，基于智慧的整体观照既是其局限也是其优势所在；而在硅基智能的信息层次发展中，则可以预见两种优势将集于一身。由此既可以得出人类面临存在性威胁的结论，也可以窥见人类更高层次进化的广阔前景和理解自己的关键环节。因此，从信息编码层次人工智能和人类智能的比较可以看到人工智能信息层次研究的双重重要性：一方面关系到通用智能核心机制研究的突破，另一方面涉及意识之谜和生命之谜的破解。</p>
+<p align="justify" class="Custom_UnionStyle">　　由于信息层次人工智能必须根植于作为感受性关系的信息，人工智能的第三层次进路必须在信息编码研究的基础上进一步深入探索信息本身。信息编码的系统研究将为包括碳基智能和硅基智能在内的智能进化研究奠定更深层次基础，因为智能体的发展关键在于信息编码能力。从人类关于信息的研究规律看，信息编码的研究有利于信息研究的深入，反之亦然。其中不仅不构成互为前提的逻辑循环，而且隐含着重要的双向循环机制。对于信息的物能编码秘密，在当代科学技术发展条件下破解得很快，这些年来，人体基因密码的破解就是最为典型的例子。面对人脑的功能，我们至今却只把握不到10%。原因何在？就在于信息不是其物能编码，而是感受性关系；感受性关系不是物能实体过程，而是具有涌现性的感受性关系过程。意识研究和脑科学的关系就是最典型的例子。欧盟“人脑计划”（Human Brain Project，HBP）10年研究期已过，虽然人脑研究取得不少成果，但支离破碎，整体理解人脑仍遥不可及，更不用说人脑的计算机模拟。从信息的感受性关系理解和作为信息基本特性的涌现性看，这项研究只能是这个结果。而从人类智能的社会性则可以更清楚地看到，通用智能的社会性不可能从作为生物体的神经系统，而只能从作为信息体的意识得到解释。</p>
+<p align="justify" class="Custom_UnionStyle">　　在信息层次对人工智能的发展作整体观照，不仅可以更好地理解其过去，而且可以更清楚地看到其未来发展。明确了人工智能发展的三个层次，就可以看到人工智能通用化进抵的前景；明确了通用人工智能的研究进路，以信息层次人工智能为目标，就能真正直面通用智能的核心机制。正是通用人工智能核心机制的研究，与意识之谜和生命之谜的破解构成了双向循环机制，这一涉及解释和诠释关系的机制建立在双向循环因果模型的基础之上。</p>
+<p align="justify" class="Custom_UnionStyle">　　<strong>结语</strong></p>
+<p align="justify" class="Custom_UnionStyle">　　人类知识为人工智能奠定了发轫基础，信息编码层次人工智能的发展为人机融合进化提供了条件，而其感受性关系性质则使信息层次的人工智能通用化成为可能。人工智能发展的三个层次不仅具有核心机制上层层递进的内在关系，而且构成了与生物智能进化的更高层次关联。人工智能的发展表现出从基于信息观念编码的人类明述知识到作为信息编码发展产物的大数据，再到作为感受性关系的信息层次层层深入。而从人类知识到信息编码再到信息层次，人工智能的发展则构成与生物智能进化方向相对的逆向过程。如果把信息编码层次人工智能作为支点，将人类知识层次人工智能和信息层次人工智能的位置作一个180度的转向，并将二者构成双向循环，就可以获得关于人工智能发展和人类智能发展的双向循环机制启发。</p>
+<p align="justify" class="Custom_UnionStyle">　　生物智能的发展是在信息层次生根和开枝散叶，在基于信息观念编码的知识层次结果的过程，而人工智能的发展则是由基于人类明述知识，经过数据层次向信息深处扎根的过程。由此构成的图景凸显了信息层次人工智能，完整呈现了人工智能发展为类人机器智能的进程。正是由此，人工智能完成了从人类智能创生，到达至类人智能层次的发展过程，并构成二者的双向循环机制。关于这一机制的理解，无论对于人工智能的通用化，还是人工智能观的合理化都至关重要，它涉及人类新的安身立命问题。从信息层次可以清楚地看到，在前两个层次发展的基础上再深化到信息层次人工智能，正是人工智能发展直到通用化进抵不断深化的三个层次。</p>
+<p align="justify" class="Custom_UnionStyle">　　从人工智能通用化的信息层次实现路径，可以更切近地看到深化通用人工智能本身及其与人类关系反思的条件和必要性，据此才可能对相关发展前景作出更有根据的眺望。人工智能通用化发展与人类智能构成的逆向过程进化对接关系，意味着通用人工智能与人类智能具有同类性质。从通用人工智能和人类智能的共同类特性，可以看到人工智能和人类关系的更深层次。</p>
+<p align="justify" class="Custom_UnionStyle">　　生成式人工智能的发展使越来越多人忧虑超级机器智能出现的可能性，甚至认为只要出现哪怕一个超级人工智能，人类就可能面临灾难性命运。关于人工智能的这一最大误解，既与对人工智能及其发展的机器理解相联系，又与对人类认识自己还不够深入密切相关。人工智能在信息层次的通用化及其与人类智能进化的逆向过程对接机制关系表明，通用人工智能必定遵循生物进化同样的基本规律。生物进化的研究表明，非群体系统不能进化，越是高层次的进化，越是一个类群过程。所谓类群就是同类个体构成的群体，这是一个比“社会”更为基础的概念。生物进化之所以必须在一个类群中才能进行，就因为基因叠加产生具有进化意义的基因改变或新基因，必须在同类个体构成的群体中才可能出现；而通用智能则涉及更为复杂、更深层次的类群关系。人工智能的通用化是一个内外部关系发展的过程，涉及智能个体的类群亲历，即个体在相应类群中的亲身经历；类群亲历性就是智能个体在相应智能体类群亲历中成长的性质。这就为理解通用人工智能及其发展打开了一个巨大空间，为人类和人工智能关系的理解提供了具有维度层次展开的可能性。</p>
+<p align="justify" class="Custom_UnionStyle">　　通用智能进化的类群亲历性意味着通用机器智能体和人类具有共同的本性，因此首先可以肯定的是：通用人工智能不可能在车间流水线生产出来，而必须是社会化的产物；通用智能是类智能，不仅具有社会性，而且具有更高层次的类特性。正是这种通用智能人机共有的本性，为人机融合进化提供了理论根据。</p>
+<p align="justify" class="Custom_UnionStyle">　　随着人工智能的发展，人机融合渐成事实。ChatGPT展示了人机软融合进化的广阔可能性空间，使人机融合及其进化成了一个亟待深入考察的课题。人机融合将经历一个从软融合到硬融合的发展过程。而人机软融合和硬融合的发展则不仅凸显了人机融合进化的必要性和可行性，而且提供了比我们所能想象的更丰富方式和途径。当前发展迅速的人机软融合及其进化，一方面表明人类智能相对于机器智能的类群形成和进化优势，另一方面启示着人工智能通用化发展基础上人类更高层次的进化。</p>
+<p align="justify" class="Custom_UnionStyle">　　人工智能通用化所意味着的存在升级，在存在论层次让人感觉人类面临存在性危机，而在智能进化维度则可以看到导向更高层次智能进化，可称之为“广义智能进化”。从更高层次的广义智能进化看，生物智能是原生智能，在生物智能基础上发展的人工智能是次生智能。在由原生智能进化和次生智能进化构成的更高层次广义智能进化过程中，由于智能载体的不同，原生智能和次生智能具有不同的相对进化优劣势。碳基智能的最大优势是智能可以在自然条件下发生和进化，最大劣势是迭代周期长，进化速率低；而硅基智能的最大优势则是进化速率为碳基智能所无法相比，最大劣势是不能在自然条件下发生。碳基智能和硅基智能进化机制的区别在于信息编码，广义智能进化的机制则在此基础上深入到信息本身。由此可以得到进一步的结论：通用人工智能代表广义智能的机器发展方面，意味着人类智能的更高层次发展——从碳基人类智能到硅基人类智能。由此也相应可以在人类自我认识更高层次看到有更深层次根据的人工智能观。人工智能不是人类的异己存在而是人类更高层次进化的机器智能发展阶段，只是不像一般的科技进步，其双刃剑性质最为典型，在其发展过程中必须有更深刻更长远的智慧把握和风险应对。这就空前凸显了人工智能研究科学和哲学一体化的至关重要性。</p>
+<p align="justify" class="Custom_UnionStyle">　　人工智能的通用化既是构成广义智能进化，也是类群亲历性形成的过程。在广义智能进化中，由于人类可以为人工智能通用化提供类群条件，因而人类握有在先亲历优势。由于具有类群亲历性，广义智能进化具有类群亲历优先原则：智能进化过程中最先进化形成的原生进化智能拥有类群亲历上的先机；由于人类可以是人工智能通用化的智能类群条件，人类握有智能进化类群亲历在先优势：由类群亲历先机获得的进化优势，包括在先前提性规定的设置和由在先规则设置而来的路径依赖等。只是任何优势都是相对的，随着信息科技的发展不断深入，明确人机融合进化的前景和问题，直至积极主动面对人类自身的革命，始终是人类在充分利用人工智能发展自己的过程中把握自身命运的重大使命。通过自身的不断更新，人类不仅可以在广义智能进化过程中保持主导地位，而且能够将自身的进化推进到更高阶段。</p>
+<p align="justify" class="Custom_UnionStyle">　　〔本文注释内容略〕</p>
+<p align="right" class="Custom_UnionStyle">　　原文责任编辑：莫斌</p></div>
+                    
+                </div>
+                <div class="content_zz">
+                    转载请注明来源：<strong>中国社会科学网</strong>【编辑：常畅】
+                </div>
+                <div class="warp_center_links clear">
+    <div class="view">
+        <div class="sk_title_02">
+            <span>社科推荐</span>
+        </div>
+        <ul>
+            
+            <li><a href="https://www.cssn.cn/skgz/202410/t20241011_5790125.shtml" target="_blank">跨学科聚焦人工智能多领域应用</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202411/t20241107_5800628.shtml" target="_blank">高翔会见希腊文化部长门佐尼</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202411/t20241107_5801237.shtml" target="_blank">希腊拉斯卡瑞德斯基金会向社科院赠送研究古籍</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202411/t20241108_5801457.shtml" target="_blank">着力推动中希文明交流互鉴</a></li>
+            
+            <li><a href="https://www.cssn.cn/skgz/bwyc/202411/t20241109_5801495.shtml" target="_blank">在跨越时空中见证文明交流互鉴</a></li>
+            
+        </ul>
+    </div>
+</div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="fiexd_title_wrap">
+    <div class="fiexd_title">
+        <span class="fiexd_title_text">人工智能通用化及其实现途径</span>
+    </div>
+</div>
+<script language="javascript">
+    $(document).ready(function(){
+        //分辨率变更
+        if($(window).width()<1430){
+            $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a>')
+        }
+        if($(window).width()>1430){
+            $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="22">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a>')
+        }
+        $(window).resize(function() {
+            //分辨率变更
+            if($(window).width()<1430){
+                $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="18">字体放大</a><a class="a2 active" href="javascript:;" data-size="16">字体放小</a>')
+            }
+            if($(window).width()>1430){
+                $(".sk_size_change").html('<a class="a1" href="javascript:;" data-size="22">字体放大</a><a class="a2 active" href="javascript:;" data-size="20">字体放小</a>')
+            }
+        });
+        $(document).on('click','.sk_size_change a',function () {
+            // 文章字体大小调整
+            $(".sk_size_change a").removeClass('active');
+            $(this).addClass('active');
+            var size = $(this).attr('data-size')
+            setSize(size)
+        })
+    });
+    function setSize(size){
+        //文章文字大小调整
+        var fontSize = parseInt(size)
+        $(".content_center *").animate({"font-size":fontSize+'px'})
+        $(".content_center h2").animate({"font-size":parseInt(fontSize+6)+'px'})
+    }
+    (function (window, $) {
+        var web_url = window.location.href
+        $('.link_url').attr('value', web_url)
+        $('.url_icon').on('click', function () {
+            $('.link_url').select();
+            document.execCommand('copy');
+            $(this).parent().find('.copyUrl').addClass('copy_cur');
+        })
+        $('.copyUrl').on('animationend', function () {
+            $('.copyUrl').removeClass('copy_cur');
+        })
+    })(window, jQuery);
+</script>
+<script>
+    // 二维码
+    $('.qrcodeCanvas').qrcode({
+        text: window.location.href
+    });
+
+    var isPC = IsPC();
+    if (isPC) {
+        $('.qrcodeCanvas').find('canvas').eq(0).css({
+            'width': '100%',
+            'height': '100%',
+            'display': 'block'
+        })
+    }
+
+    var navWrapH = $('.nav_wrap').outerHeight()
+    var crumbsH = $('.sk_crumbs').outerHeight()
+    var fiexdH = $('.fiexd_title_wrap').outerHeight()
+    var warpCenterH = parseInt( $('.warp_center_content').css('padding-top') )
+    // var titleH = $('.content_head').find('h1').eq(0).outerHeight()
+
+    var headHeight = navWrapH + crumbsH + warpCenterH
+    var offset = $('#getHeight').offset();
+    var dis = offset['top'];
+    var leftHeight = dis - navWrapH - fiexdH
+
+    $('.fiexd_title_text').text($('.content_head').find('h1').eq(0).text())
+    // $('.fiexd_subTitle_text').text($('.content_head').find('h2').eq(0).text())
+    // $('.fiexd_title_wrap').css('top', navWrapH)
+    // console.log( 'headHeight:', headHeight )
+
+    // console.log(warpCenterH)
+    $(window).on('scroll', function() {
+
+        if ( $(window).scrollTop() > headHeight ) {
+
+            // $('.fiexd_title_wrap').show().stop().animate({'top': navWrapH},500)
+
+            $('.fiexd_title_wrap').show().css('top', navWrapH)
+
+        } else {
+            //     $('.fiexd_title_wrap').stop().animate({'top': 0} ,500, function() {
+            //         $(this).hide()
+            //     })
+
+            $('.fiexd_title_wrap').css({
+                'top': -navWrapH-10
+            })
+            // console.log( $(window).scrollTop() )
+        }
+        if ( $(window).scrollTop() > leftHeight ) {
+            $('.content_left').addClass('left_fixed')
+
+        } else {
+            $('.content_left').removeClass('left_fixed')
+        }
+    })
+</script>
+<div class="sk_footer sk_footer_white">
+    <div class="links">
+    <a href="/gywm/" target="_blank" ignoreapd="true">关于我们</a>
+    <a href="/ggfw/" target="_blank" ignoreapd="true">广告服务</a>
+    <a href="/wzsm/" target="_blank" ignoreapd="true">网站声明</a>
+    <a href="/wzjc/" target="_blank" ignoreapd="true">网站纠错</a>
+    <a href="/lxwm/" target="_blank" ignoreapd="true">联系我们</a>
+</div>
+<div class="icp">
+    <span>举报电话：010-65393398</span>
+    <span>举报邮箱：zgshkxw@cass.org.cn</span>
+    <span>互联网新闻信息服务许可证：10120220003</span>
+    <span><a target="_blank" rel="noopener noreferrer" href="https://beian.miit.gov.cn/" ignoreapd="true">京ICP备11013869号</a></span>
+    <span><a target="_blank" rel="noopener noreferrer" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030146" ignoreapd="true">京公网安备11010502030146号</a></span>
+</div>
+<div class="icp icp_sscp">
+    <span class="sk_sscp_logo"><img src="/images/sk_logo_sscp.png" alt=""></span>
+    <span>中国社会科学杂志社版权所有，未经书面授权禁止使用</span>
+    <span>Copyright © 2011-2024 by www.cssn.cn all rights reserved</span>
+
+    <div class="knet">
+        <script src="https://kxlogo.knet.cn/seallogo.dll?sn=a13101211010042869jlua000000&amp;size=3"></script><span style="position: relative !important;display: inline-block !important;width:92px !important;height:33px !important;"><a href="https://ss.knet.cn/verifyseal.dll?sn=a13101211010042869jlua000000&amp;pa=0.8512692907892723" oncontextmenu="return false;" style="display:inline-block !important;width:92px !important;height:33px !important;" target="_blank">            <img id="2yinx2mk0mm3bai5b7" class="act" height="33px" alt="可信网站" style="opacity: 1; display: block !important; width: 92px !important; height: 33px !important; position: absolute !important; top: 0px !important; left: 0px !important; border: none !important;" src="https://rr.knet.cn/static/images/newLogo/star5.png">            <img id="l0ly7b0fcdm3bai5b7" class="" height="33px" alt="可信网站" style="opacity: 0; display: block !important; width: 92px !important; height: 33px !important; position: absolute !important; top: 0px !important; left: 0px !important; border: none !important;" src="https://rr.knet.cn/static/images/newLogo/11Y.png">            </a></span>
+    </div>
+
+</div>
+<div class="rightBar mobileNone">
+    <a href="javascript:void(0);" class="backTop"></a>
+</div>
+<!--天润代码统计-->
+<div style="display:none">
+<script src="/images/cssn_webdig.js" language="javascript" type="text/javascript"></script>
+</div>
+<!-- cssn.cn Baidu tongji analytics -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9ac7f8383ed02699dcafe4c2cba61e1f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+<script>
+    var htm = $(".content_keyword").html();
+    console.log(htm)
+    htm = htm.replace(/;/ig, "</span><span>");
+    console.log(htm)
+    $(".content_keyword").html(htm);
+</script>
+
+</body></html>

@@ -1,0 +1,496 @@
+<!DOCTYPE html><html lang="zh-CN"><head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta name="viewport" content="width=1280, initial-scale=1.0">
+        <meta name="keywords" content="新能源汽车,AI,比亚迪,视源股份,化工,汽车,人工智能,互联网,新能源,大数据,物联网,苹果,产业互联网,智能家居,操作系统">
+            <meta name="description" content="证券时报，证券时报网，由人民日报社主管主办，是证券市场权威信息披露媒体，也是中国资本市场的重要信息披露平台。提供全天候7*24小时财经证券类资讯，内容丰富，包括时报快讯、股市新闻、财经资讯、基金净值、债券、期货、上市公司公告等，为用户提供全方位、最新鲜的财经信息。打造了“信披168”综合服务专区，资本市场投教“星火计划”，是权威、全面的资本市场服务平台。">
+                    <title>企业AI转型寻路：显转型与微转型的路径选择</title>
+        <meta name="referrer" content="never">
+    <link rel="icon" href="https://static-web.stcn.com/static/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://static-web.stcn.com/static/styles/common.css?v=20241007">
+            <link rel="stylesheet" href="https://static-web.stcn.com/static/styles/list.css?v=20221012">
+<link rel="stylesheet" href="https://static-web.stcn.com/static/styles/detail.css?v=20240125">
+<style>
+    body .detail-content{
+        word-break: break-word !important;
+    }
+</style>
+        <link rel="stylesheet" href="https://static-web.stcn.com/static/scripts/layer/skin/default/layer.css?v=3.0.3303" id="layuicss-skinlayercss"></head>
+<body>
+
+
+<!--栏目-->
+<div class="top-nav nav clearfix">
+    <div class="l logos">
+        <a href="/" class="logo-url" target="_blank"><img class="zqsb-logo" src="https://static-web.stcn.com/static/images/zqsb.png" alt=""></a>
+        <span></span>
+        <a href="/" class="logo-url" target="_blank"><img class="stcn-logo" src="https://static-web.stcn.com/static/images/stcn.png" alt=""></a>
+    </div>
+    <div class="l lt">
+        <ul class="nav-list no-border clearfix">
+            <li r-width="56">
+                <a href="/" target="_blank" r-width="56">首页</a>
+            </li>
+                        <li r-width="56">
+                <a class=" " href="/article/list/kx.html" target="_blank" r-width="56">快讯</a>
+            </li>
+                        <li r-width="56">
+                <a class=" " href="/article/list/yw.html" target="_blank" r-width="56">要闻</a>
+            </li>
+                        <li r-width="56">
+                <a class=" " href="/article/list/gs.html" target="_blank" r-width="56">股市</a>
+            </li>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                                    <li class="nav-more-btn-li" r-width="46">
+                <div class="nav-more-btn">
+                    <div class="nav-more-list clearfix" style="width: 465px; left: -395px;"><a class=" " href="/article/xg.html" target="_blank" r-width="56">新股</a><a class=" " href="/xinpi/index.html" target="_blank" r-width="66.5">信披+</a><a class=" " href="/article/list/company.html" target="_blank" r-width="56">公司</a><a class="new red" href="/article/gmg.html" target="_blank" r-width="74">港美股</a><a class=" " href="/article/data.html" target="_blank" r-width="56">数据</a><a class=" " href="/article/list/fund.html" target="_blank" r-width="56">基金</a><a class=" " href="/article/list/finance.html" target="_blank" r-width="56">金融</a><a class=" " href="/live/media.html" target="_blank" r-width="56">视听</a><a class=" " href="/article/list/comment.html" target="_blank" r-width="56">评论</a><a class=" " href="/article/list/zt.html" target="_blank" r-width="56">专题</a><a class=" " href="/article/list/cj.html" target="_blank" r-width="56">产经</a><a class=" " href="/chuangtou/index.html" target="_blank" r-width="56">创投</a><a class=" " href="/article/list/kcb.html" target="_blank" r-width="74">科创板</a><a class=" " href="/article/list/xsb.html" target="_blank" r-width="74">新三板</a><a class=" " href="/edu/index.html" target="_blank" r-width="56">投教</a><a class=" " href="/article/list/zk.html" target="_blank" r-width="58">ESG</a><a class=" " href="/article/list/gd.html" target="_blank" r-width="56">滚动</a>
+                    </div>
+                </div>
+            </li>
+                        <!--
+                <li class="nav-more-btn-li show">
+                    <div class="nav-more-btn">
+                        <div class="nav-more-list clearfix">
+                                                            <a href="<?/*= $item['url'] */?>" target="_blank"><?/*= $item['name'] */?></a>
+                                                    </div>
+                    </div>
+                </li>
+            -->        </ul>
+    </div>
+    <div class="r">
+        <form class="nav-search-form" action="/article/search.html" target="_blank">
+            <input name="keyword" placeholder="代码或简称">
+            <button class="nav-search-form-submit-btn"></button>
+        </form>
+        <div class="top-nav-avatar">
+            <a>公众号<div><img src="https://static-web.stcn.com/static/images/qr.png" alt=""></div></a>
+            <i></i>
+            <a href="https://epaper.stcn.com/" target="_blank">电子报</a>
+<!--            <a href="https://epaper.stcn.com/col/202302/22/node_A001.html" target="_blank">电子报</a>-->
+            <i></i>
+            <a href="/public/download.html" target="_blank">客户端</a>
+            <i></i>
+                        <div class="drop-layer-wrapper">
+                <a login-btn=""><img src="https://static-web.stcn.com/static/images/default-avatar.png" alt=""></a>
+            </div>
+                    </div>
+    </div>
+</div><div class="pt-77 w1200 m-auto">
+    <div class="breadcrumb">
+    您当前的位置：<a href="/">证券时报</a> &gt; <a href="/article/list/cj.html">产经</a> &gt; <a href="javascript:;">正文</a>
+</div>
+
+
+<div class="clearfix">
+    <div class="column-810 l">
+        <div class="detail-title">
+            企业AI转型寻路：显转型与微转型的路径选择        </div>
+        <div class="detail-info">
+            <span>来源：经济观察报</span><span>作者：路至伟</span><span>2024-09-24 07:20</span>
+        </div>
+        <div class="detail-content-wrapper">
+            <div class="social-bar">
+              <div class="tt">点赞</div>
+              <div class="like like-btn " data-id="1328499" data-url="/operation/like.html"></div>
+              <div class="fav post-btn " data-id="1328499" data-url="/operation/collect.html"></div>
+              <a class="comment" href="#comment"></a>
+              <div class="tt">分享</div>
+              <div class="share-popup social-share share-component" data-initialized="true" data-title="企业AI转型寻路：显转型与微转型的路径选择" data-description="企业AI转型寻路：显转型与微转型的路径选择" data-image="https://static-web.stcn.com/upload/wechat/20240923/66f1795fcf33d.png" data-url="https://h5.stcn.com/pages/detail/detail?id=1328499&amp;jump_type=reported_info">
+                <a class="social-share-icon icon-wechat wx" href="javascript:"><div class="wechat-qrcode"><h4>微信扫一扫：分享</h4><div class="qrcode" title="https://h5.stcn.com/pages/detail/detail?id=1328499&amp;jump_type=reported_info"><canvas width="100" height="100" style="display: none;"></canvas><img alt="Scan me!" src="data:image/png;base64,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" style="display: block;"></div></div></a>
+                <a class="social-share-icon icon-qzone qq" href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fh5.stcn.com%2Fpages%2Fdetail%2Fdetail%3Fid%3D1328499%26jump_type%3Dreported_info&amp;title=%E4%BC%81%E4%B8%9AAI%E8%BD%AC%E5%9E%8B%E5%AF%BB%E8%B7%AF%EF%BC%9A%E6%98%BE%E8%BD%AC%E5%9E%8B%E4%B8%8E%E5%BE%AE%E8%BD%AC%E5%9E%8B%E7%9A%84%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9&amp;desc=%E4%BC%81%E4%B8%9AAI%E8%BD%AC%E5%9E%8B%E5%AF%BB%E8%B7%AF%EF%BC%9A%E6%98%BE%E8%BD%AC%E5%9E%8B%E4%B8%8E%E5%BE%AE%E8%BD%AC%E5%9E%8B%E7%9A%84%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9&amp;summary=%E4%BC%81%E4%B8%9AAI%E8%BD%AC%E5%9E%8B%E5%AF%BB%E8%B7%AF%EF%BC%9A%E6%98%BE%E8%BD%AC%E5%9E%8B%E4%B8%8E%E5%BE%AE%E8%BD%AC%E5%9E%8B%E7%9A%84%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9&amp;site=%E4%BC%81%E4%B8%9AAI%E8%BD%AC%E5%9E%8B%E5%AF%BB%E8%B7%AF%EF%BC%9A%E6%98%BE%E8%BD%AC%E5%9E%8B%E4%B8%8E%E5%BE%AE%E8%BD%AC%E5%9E%8B%E7%9A%84%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9&amp;pics=https%3A%2F%2Fstatic-web.stcn.com%2Fupload%2Fwechat%2F20240923%2F66f1795fcf33d.png" target="_blank"></a>
+                <a class="social-share-icon icon-weibo wb" href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fh5.stcn.com%2Fpages%2Fdetail%2Fdetail%3Fid%3D1328499%26jump_type%3Dreported_info&amp;title=%E4%BC%81%E4%B8%9AAI%E8%BD%AC%E5%9E%8B%E5%AF%BB%E8%B7%AF%EF%BC%9A%E6%98%BE%E8%BD%AC%E5%9E%8B%E4%B8%8E%E5%BE%AE%E8%BD%AC%E5%9E%8B%E7%9A%84%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9&amp;pic=https%3A%2F%2Fstatic-web.stcn.com%2Fupload%2Fwechat%2F20240923%2F66f1795fcf33d.png&amp;appkey=" target="_blank"></a>
+              </div>
+                        </div>
+            <div class="detail-content">
+                                <script src="https://static-web.stcn.com/static/scripts/echarts.min.js"></script><p>在数字化时代，企业面临前所未有的转型压力。人工智能（AI）技术的兴起，为企业提供了新的增长动力和竞争机会。</p><p>在探路AI转型的过程中，面对路径选择，显转型和微转型相结合或许是企业获得成功的模式之一。</p><p>管理大师彼得·德鲁克（Peter Drucker）的企业转型思想在多部著作中得以体现，如《管理的实践》《有效的管理者》《管理：任务、责任和实践》。德鲁克认为，企业应不断创新和适应变化，关注细节和渐进式改进，这与微转型的实践相呼应。他强调目标和方法的重要性，提倡在转型前进行规划，深入思考结果、约束和可能的变更，与显转型和微转型对路径的精心设计和选择相似。德鲁克还强调机会的重要性，鼓励管理者将变化视为机会而非威胁，这与显转型的大胆创新和微转型的持续改进相吻合。总之，德鲁克的管理思想为数字化时代的企业转型提供了理论基础和实践指导。</p><p>本文将深入探讨显转型和微转型两种类型的结合特征、优势和成功模式，供企业在选择转型路径时参考，以帮助其实现可持续的业务增长和市场竞争力。</p><p><div class="text-center" style="text-indent: 0em"><img src="https://stcn-main.oss-cn-shenzhen.aliyuncs.com/upload/wechat/20240924/20240924072019_66f1f7b3aa437.png" title=""></div></p><p>显转型与微转型</p><p>企业转型是一个复杂而深刻的过程，它要求企业从根本上重新思考和调整其战略方向、业务模式和运营方式。在实践中，企业转型可以分为显转型和微转型，每种类型的特点和实施方式都有所不同。</p><p>显转型也称为战略转型或大规模转型，指企业进行全面而深入的变革。这种变革往往是根本性的，涉及企业的核心商业模式、核心产品、业务流程、组织结构和文化革新。显转型的特点是规模大、影响深远，企业通常需要进行大规模的投资和重新配置资源。这种转型往往伴随着企业文化的重塑，要求员工的思维方式和行为模式发生根本性变化。</p><p>微转型也称为渐进式、日常式转型或小步快跑转型，指企业在日常运营中，通过小规模、逐步的改进和创新，实现业务流程的优化和效率提升。微转型的特点是小步快跑、快速迭代，它不要求企业进行大规模的变革，而是通过不断的微小调整和优化，逐步实现业务的转型升级。微转型通常更容易被员工接受，因为它不需要立即改变员工现有的工作方式，而是通过逐步引入新技术和新方法，让员工在内驱力的牵引和自主创新的实践中，逐渐适应和采纳新的工作模式。</p><p>显转型和微转型各有其优势和适用场景。显转型适用于面临重大市场变化或技术变革的企业，它能够帮助企业快速适应外部环境的变化，实现业务模式的根本性转变。微转型则适用于希望在保持现有业务稳定性的同时、逐步引入创新和优化的企业，它能够帮助企业以较低的风险和成本，实现业务流程的持续改进和效率提升。</p><p>西门子公司的转型策略是一个典范，展示了如何通过显转型和微转型两种方式，实现企业的数字化和智能化升级。西门子通过大规模的投资和资源配置，推动了企业的显转型。例如，西门子在中国市场不断加大对人工智能领域的投入，建立了在德国以外的首个人工智能实验室，这表明了其对技术创新的重视和转型决心。同时，西门子也采用了微转型策略，通过日常运营中的小规模、逐步的改进和创新，实现业务流程的优化和效率提升。例如，西门子推出的数字化解决方案SIRIUS，通过优化生产流程和引入自动化工具，实现了生产效率的显著提升。</p><p>通过这些转型策略，西门子不仅在技术创新方面保持领先，还在业务模式的根本性转变中取得了成功，展现了在全球市场中持续竞争力的提升。</p><p><div class="text-center" style="text-indent: 0em"><img src="https://stcn-main.oss-cn-shenzhen.aliyuncs.com/upload/wechat/20240924/20240924072019_66f1f7b3d89ff.png" title=""></div></p><p>显转型的动因与特征</p><p>显性转型的动因是多方面的。</p><p>在波特教授的理论中，后发国家参与国际竞争的四个阶段为我们清晰地描绘了国家发展的路径。从要素驱动到投资驱动，再到创新驱动，每一个阶段都是国家竞争力的飞跃。尤其是第三阶段，创新驱动特别是颠覆式创新，成为推动国家发展的根本动力。这种创新不仅源于科技的进步，更是社会环境变化的直接产物。</p><p>社会环境的变迁为显性转型提供了肥沃的土壤。从模拟系统到信息系统，从消费互联网、产业互联网终端体验深度融合系统再到数字系统和智能系统，企业的系统环境在过去四十年间经历了翻天覆地的变化。这些变化不仅仅是科技变革与技术的迭代，更是企业对市场需求深刻理解和快速响应的结果。</p><p>科技变革的产业化和商品化进一步加剧了这种变化。消费者个性化需求的变化推动企业不断创新，以满足市场的需求。这种压力迫使企业回归本能，释放出前所未有的竞争力。企业的文化、理念和愿景在这种环境中不断进化，以适应新的市场环境。</p><p>显性转型的动因不仅仅是技术进步的产物，更是社会环境、市场需求和企业文化共同作用的结果。在这个过程中，企业需要不断适应外部环境的变化，同时也要勇于自我革新，实现持续的成长和成功。</p><p>基于波特的理论框架，海尔、比亚迪、美的和视源股份这四家中国制造型企业都通过创新驱动实现了显转型的市场效果。面对全球化竞争和消费者需求的多样化，这些企业不再局限于传统制造，而是通过科技变革和产业升级，向智能制造和数字化转型迈进。</p><p>海尔通过建立开放的创新平台，推动了智能家居解决方案的转型，实现了设备的互联互通，提供了智能化和便捷的用户体验。比亚迪在新能源汽车领域实现强劲增长，并在智能化领域取得突破。美的通过科技变革和产业升级，实现了智能制造和数字化转型，提升了竞争力。视源股份通过科技创新和数字化转型，成为显示产业链的领军企业，推动了制造业的数字化转型。</p><p>这些企业的转型不仅体现在技术创新和市场扩展上，还体现在企业文化和理念的进化上。它们倡导用户至上、创新驱动、智慧生活和环境友好的理念，鼓励员工不断创新，以适应市场的快速变化。这些案例体现了显性转型的特征，展示了技术进步、市场需求和社会环境变化对企业发展的共同作用，以及企业适应外部环境变化和自我革新的能力。</p><p><div class="text-center" style="text-indent: 0em"><img src="https://stcn-main.oss-cn-shenzhen.aliyuncs.com/upload/wechat/20240924/20240924072019_66f1f7b3ef013.png" title=""></div></p><p>微转型的特征</p><p>在当今快速变化的商业环境中，企业微转型已成为一种常态，它要求企业不断调整和优化其业务流程，以保持竞争力和适应性。微转型的特征以企业在优化供应链管理、完善预算管理制、经营活动分析和绩效指标设定等方面实现精细化管理和技术应用的优化所呈现。</p><p>作为在辅导企业转型创新时经常被采用的微转型工具与方法之一，“年度第一课题制”包括选题、破题、解题、成果发布/激励四个核心环节，形成了企业微转型正三角顶层的关键支撑，其核心在于通过结构化的方法来识别和解决企业面临的关键问题。</p><p>企业微转型的第一步是确定转型的焦点。这通常涉及对现有业务流程的深入分析，以及对市场趋势和客户需求的了解。选题可以包括但不限于以下几个方面：优化产品、价格、地点和促销策略（4P），以客户为中心，关注成本、便利性和沟通（4C），优化供应链管理（SCM），改进标准操作流程（SOP），设定和跟踪关键绩效指标（KPI）和储备绩效指标（RPI），以及重要的考虑因素指标评价体系（IES）。</p><p>在破题阶段，企业应组织由管理层主导的讨论会，邀请各部门参与，共同探讨如何实现微转型。讨论会应围绕主题展开，鼓励“自研、分享、共创”形成微转型方案。</p><p>解题阶段涉及微转型方案的实施和评估。企业应定期举行讨论会，如每月一次，由指定人员主持。公司领导应直接参与或听取汇报，确保方案得到有效执行。讨论会后应提供书面简报或纪要，以便跟踪进展和成果。</p><p>此外，企业应鼓励部门提交成果和建议，并在公司和部门两个层面上建立“我献一策”项目管理的组织机制。这包括立项、执行、评审、验收、评选和奖励等环节，由人事部协调执行，为员工提供职业规划的平台，同时发现和培养人才。</p><p>企业微转型是一个持续的过程，它要求企业不断审视和优化其业务流程。通过运用上述推荐的工具和方法，企业可以更好地适应市场变化、提高效率、增强竞争力。微转型的最佳实践是在企业文化氛围中永不停歇地进行“微转型”。</p><p>通过这四个环节的紧密配合，企业能够有效地应对快速变化的商业环境，实现微转型。这种方法不仅有助于企业解决当前的挑战，还能够促进企业文化的转变，培养一种持续改进和创新的组织氛围。在实践中，许多企业通过“年度第一课题制”为显转型创造条件打下了基础，实现了业务流程的优化、成本的降低和市场份额的扩大，证明了这一方法在当今商业环境中的有效性和实用性。</p><p><div class="text-center" style="text-indent: 0em"><img src="https://stcn-main.oss-cn-shenzhen.aliyuncs.com/upload/wechat/20240924/20240924072020_66f1f7b4245d4.png" title=""></div></p><p>赋能企业数字化转型</p><p>近日，在中欧国际工商学院AMP总经理论坛上，中欧国际工商学院经济学与决策科学教授、中欧AI与管理创新研究中心主任方跃称，互联网技术浪潮带来的红利已基本用尽，未来三到五年，AI技术将会被嵌入到企业的所有流程、产品和服务之中。AI技术在企业数字化转型中的应用，可以通过显转型与微转型的结合，实现最大的效益。显转型提供了强大的技术基础和组织保障，而微转型则确保了转型过程中渐进模式的灵活性和快速响应落地的速度。</p><p>企业在拿捏显转型与微转型结合的决策时，往往须依赖于逻辑和理性。正如中科院陈润生院士所言，未来的AI技术影响决策将出现“涌现”“顿悟”“幻觉”三个阶段。而区分“涌现”出的真正需求、系统收敛的“顿悟”和不符合逻辑的“幻觉”至关重要。错误区分可能会遭受到历史性的降维打击。在企业战略发展与科技变革相互融合的过程中，选择合适的显转型与微转型结合的策略至关重要。</p><p>比如，我们不能盲目追求“涌现”出来的每一个新需求，还要避免忽视了与目标市场和战略不符的伪需求。陈院士将这些误导性需求称为“幻觉”。因此，通过微转型辨别真伪，确保决策既合乎逻辑又导向成功，是我们“顿悟”的关键。</p><p>通过显转型与微转型结合多维度的洞察和成功实践，极大地丰富我们的认知边界，有望成为我们“顿悟”的又一个新的起点。</p><p>可口可乐在庆祝135岁生日的前夕，太古可口可乐向市场揭开了“AI智造引擎”的面纱，这是施以微转型的终端AI识别引擎、AI规则引擎等、渠道AI数字技术解决方案之后，创建了AI智造引擎和数字生态显转型的标志性拼图。数年内完成的系统将充分挖掘人工智能、大数据分析及MindSphere（注：MindSphere是西门子推出的基于云的开放式物联网操作系统）等尖端技术在提高饮料行业全链路和智造柔性方面的无限潜力，进一步提升其品牌溢价能力。这是显转型与微转型结合的经典案例。</p><p><a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&amp;mid=2670284393&amp;idx=1&amp;sn=8179ac4235f7af3a098836a37f61220e&amp;chksm=bc1d949e8b6a1d883b28b7730badfc6f0c930e1881d7199002ba2285ac67fb091d6beeb62f97&amp;scene=21#wechat_redirect"></a></p>                            </div>
+                          <div class="detail-content-editor">责任编辑： 胡青</div>
+                        <div class="detail-content-tags">
+                <!--普通文章标签-->
+                                <div>新能源汽车</div>
+                                <div>AI</div>
+                                <div>比亚迪</div>
+                                <!--快讯标签-->
+            </div>
+            <div class="stock-tags">
+                          </div>
+                        <div class="detail-content-statement">
+                <div>声明：证券时报力求信息真实、准确，文章提及内容仅供参考，不构成实质性投资建议，据此操作风险自担</div>
+                <div>下载“证券时报”官方APP，或关注官方微信公众号，即可随时了解股市动态，洞察政策信息，把握财富机会。</div>
+            </div>
+                        <div class="comment" id="comment">
+                <div class="comment-tt">网友评论</div>
+                <div class="comment-input">
+                                        <div class="ds-tip"><span login-btn="">登录</span>后可以发言</div>
+                    <textarea name="content" placeholder="请输入内容" class="hidden"></textarea>
+                                        <div class="btn send-comment-btn" data-url="/operation/submit-comment.html?table=news&amp;id=1328499" data-id="1328499">发送</div>
+                </div>
+                <div class="comment-tip">网友评论仅供其表达个人看法，并不表明证券时报立场</div>
+                <div class="comment-list">
+                                        <div class="empty comment text-center" style="display: block">
+                      暂无评论
+                    </div>
+                                    </div>
+            </div>
+                        <div class="list-page-tab black">
+                <div class="active">为你推荐</div>
+            </div>
+            <ul class="list" data-fetch="true" data-url="">
+                                <li class="no-tag ">
+                    <div class="content">
+                        <div class="tt">
+                            <a href="/article/detail/1406372.html" target="_blank">
+                            刚刚！特朗普，传出大消息！                            </a>
+                        </div>
+                        <div class="info mt-60">
+                            <span>券商中国</span>
+                                                        <span>陈铭</span>
+                                                        <span>2024-11-10 12:49</span>
+                        </div>
+                    </div>
+                                        <div class="side">
+                        <a href="/article/detail/1406372.html" target="_blank">
+                            <img src="https://static-web.stcn.com/upload/wechat/20241110/67303ac6f0596.png" alt="">
+                        </a>
+                    </div>
+                                    </li>
+                                <li class="no-tag ">
+                    <div class="content">
+                        <div class="tt">
+                            <a href="/article/detail/1406333.html" target="_blank">
+                            定了！下周三，拜登与特朗普会面！美国新任贸易代表还是“他”？                            </a>
+                        </div>
+                        <div class="info mt-60">
+                            <span>券商中国</span>
+                                                        <span>周乐</span>
+                                                        <span>2024-11-10 09:50</span>
+                        </div>
+                    </div>
+                                        <div class="side">
+                        <a href="/article/detail/1406333.html" target="_blank">
+                            <img src="https://static-web.stcn.com/upload/wechat/20241110/673010246ac0e.png" alt="">
+                        </a>
+                    </div>
+                                    </li>
+                                <li class="no-tag ">
+                    <div class="content">
+                        <div class="tt">
+                            <a href="/article/detail/1406320.html" target="_blank">
+                            液冷服务器龙头股受关注 多家公司业务涉及液冷                            </a>
+                        </div>
+                        <div class="info mt-60">
+                            <span>证券时报网</span>
+                                                        <span>2024-11-10 08:55</span>
+                        </div>
+                    </div>
+                                        <div class="side">
+                        <a href="/article/detail/1406320.html" target="_blank">
+                            <img src="https://static-web.stcn.com/upload/2024/1110/08/20241008542726_T.jpg" alt="">
+                        </a>
+                    </div>
+                                    </li>
+                                <li class="no-tag ">
+                    <div class="content">
+                        <div class="tt">
+                            <a href="/article/detail/1406291.html" target="_blank">
+                            美联储降息后如何布局？公募最新支招                            </a>
+                        </div>
+                        <div class="info mt-60">
+                            <span>券商中国</span>
+                                                        <span>王明弘</span>
+                                                        <span>2024-11-10 07:43</span>
+                        </div>
+                    </div>
+                                        <div class="side">
+                        <a href="/article/detail/1406291.html" target="_blank">
+                            <img src="https://static-web.stcn.com/upload/wechat/20241110/672ff1ebb8a68.png" alt="">
+                        </a>
+                    </div>
+                                    </li>
+                                <li class="no-tag ">
+                    <div class="content">
+                        <div class="tt">
+                            <a href="/article/detail/1406414.html" target="_blank">
+                            见证历史！26万亿！科技股的狂欢，还在后面？                            </a>
+                        </div>
+                        <div class="info mt-60">
+                            <span>券商中国</span>
+                                                        <span>周乐</span>
+                                                        <span>2024-11-10 15:24</span>
+                        </div>
+                    </div>
+                                        <div class="side">
+                        <a href="/article/detail/1406414.html" target="_blank">
+                            <img src="https://static-web.stcn.com/upload/wechat/20241110/67305e2b559d7.png" alt="">
+                        </a>
+                    </div>
+                                    </li>
+                                <li class="no-tag ">
+                    <div class="content">
+                        <div class="tt">
+                            <a href="/article/detail/1406308.html" target="_blank">
+                            浙商证券：医药创新产业链的机会更具投资价值                            </a>
+                        </div>
+                        <div class="info mt-60">
+                            <span>证券时报网</span>
+                                                        <span>阙福生</span>
+                                                        <span>2024-11-10 08:46</span>
+                        </div>
+                    </div>
+                                        <div class="side">
+                        <a href="/article/detail/1406308.html" target="_blank">
+                            <img src="https://static-web.stcn.com/upload/2024/1110/08/20241017543268_T.jpg" alt="">
+                        </a>
+                    </div>
+                                    </li>
+                            </ul>
+                    </div>
+    </div>
+    <div class="list-page-aside column-350 ml-40 r">
+                <div class="box need-fixed">
+  <div class="box-title">
+          <div class="box-title-icon-text">
+        时报<span>热榜</span>
+      </div>
+        <span class="refresh-btn" data-refresh="refresh-list" data-target-list="index-hot-list" data-refresh-url="/article/index-hot-list.html">换一换</span>
+  </div>
+  <div class="box-content">
+    <ul class="stcn-hot-list" id="index-hot-list"><li class=""><div class="n-1"></div><a href="/article/detail/1406189.html">最新曝光！张坤、朱少醒等顶流基金经理关注哪些股？</a></li><li class=""><div class="n-2"></div><a href="/article/detail/1406203.html">批量翻倍！这一板块成近期A股“最靓的仔”！</a></li><li class=""><div class="n-3"></div><a href="/article/detail/1406208.html">暴涨260%！格力电器持股6年后减持！</a></li><li class=""><div class="n-4"></div><a href="/article/detail/1406320.html">液冷服务器龙头股受关注 多家公司业务涉及液冷</a></li><li class=""><div class="n-5"></div><a href="/article/detail/1406197.html">超级大佬，大动作！</a></li><li class=""><div class="n-6"></div><a href="/article/detail/1406268.html">黑天鹅突袭！欧洲，大跌！</a></li><li class=""><div class="n-7"></div><a href="/article/detail/1406308.html">浙商证券：医药创新产业链的机会更具投资价值</a></li><li class=""><div class="n-8"></div><a href="/article/detail/1406176.html">暴跌87%！玛莎拉蒂9月在华仅卖30多辆！“跑车皇后”跌落神坛？</a></li></ul>
+  </div>
+</div>        <a href="/public/download.html" class="add" target="_blank">
+  <img src="https://static-web.stcn.com/static/images/aside-app-download.png" alt="">
+</a>
+        <div class="box">
+  <div class="box-title">
+    <div class="box-title-icon-text">
+      热点<span>视频</span>
+    </div>
+    <span class="refresh-btn" data-refresh="video-hot-list" data-target-list="hot-video-list" data-refresh-url="/article/category-video-rank.html">换一换</span>
+  </div>
+  <div class="box-content">
+    <ul class="aside-hot-video-list" id="hot-video-list"><li>                            <div>                                <div class="tt ellipsis-2">                                    <a href="/live/video-detail/6110.html" target="_blank">6万亿元！全国人大常委会审议通过近年来力度最大化债举措</a>                                </div>                                <div class="time">11-08 16:15</div>                            </div>                            <div class="poster">                                <a href="/live/video-detail/6110.html" target="_blank"><img src="https://static-web.stcn.com/upload/2024/1108/16/672dc86ac093ca5768bd.png" alt=""></a>                            </div>                        </li><li>                            <div>                                <div class="tt ellipsis-2">                                    <a href="/live/video-detail/5995.html" target="_blank">打虎！重庆政法委书记陆克华任上被查，半月前还在宣讲督导扫黑除恶</a>                                </div>                                <div class="time">11-04 10:16</div>                            </div>                            <div class="poster">                                <a href="/live/video-detail/5995.html" target="_blank"><img src="https://static-web.stcn.com/upload/2024/1104/10/67282e644426a3d18702.png" alt=""></a>                            </div>                        </li><li>                            <div>                                <div class="tt ellipsis-2">                                    <a href="/live/video-detail/5990.html" target="_blank">一盒药结算多达60次！涉及11省46家医药机构，国家医保局展开核查，东阿阿胶回应</a>                                </div>                                <div class="time">11-03 20:08</div>                            </div>                            <div class="poster">                                <a href="/live/video-detail/5990.html" target="_blank"><img src="https://static-web.stcn.com/upload/2024/1103/20/67276785daf2586357e9.jpg" alt=""></a>                            </div>                        </li><li>                            <div>                                <div class="tt ellipsis-2">                                    <a href="/live/video-detail/6146.html" target="_blank">特朗普准备再“退群”！环保署总部或迁出华盛顿 环保政策面临大调整</a>                                </div>                                <div class="time">11-09 14:37</div>                            </div>                            <div class="poster">                                <a href="/live/video-detail/6146.html" target="_blank"><img src="https://static-web.stcn.com/upload/2024/1109/14/672f02d5cc8167d81420.jpg" alt=""></a>                            </div>                        </li><li>                            <div>                                <div class="tt ellipsis-2">                                    <a href="/live/video-detail/6041.html" target="_blank">金融为民谱新篇 守护权益防风险——深交所投教服务北京站</a>                                </div>                                <div class="time">11-06 15:38</div>                            </div>                            <div class="poster">                                <a href="/live/video-detail/6041.html" target="_blank"><img src="https://static-web.stcn.com/upload/2024/1106/15/672b1cc13e07b8ad0792.png" alt=""></a>                            </div>                        </li></ul>
+  </div>
+</div>    </div>
+</div>
+<!--<div class="detail-bottom-copyright">
+  <div>深圳证券时报社有限公司版权所有，未经书面授权禁止转载及各种形式的软件开发。</div>
+  <div>Copyright © 2008-2023 Shenzhen Securities Times Co., Ltd. All Rights Reserved</div>
+</div>-->
+</div>
+
+<div class="fixed-tool">
+  <a href="/" class="go-home" target="_blank"></a>
+  <div class="go-top"></div>
+  <a href="/public/download.html" class="go-download" target="_blank"></a>
+</div>
+<div class="footer-copyright mt-92">
+    <div>
+    <div><a href="/public/about-us.html" target="_blank">关于我们</a><span>|</span><a href="/public/service.html" target="_blank">服务条例</a><span>|</span><a href="/public/contact.html" target="_blank">联系我们</a><span>|</span><a href="/public/copyright.html" target="_blank">版权声明</a><span>|</span><a href="/public/site-map.html" target="_blank">网站地图</a></div>
+    <div>备案号：<a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">粤ICP备09109218号</a><span>|</span><a href="/public/license_2.html" target="_blank">增值电信业务经营许可证：粤B2-20080118</a><span>|</span><a href="/public/license_1.html" target="_blank">互联网新闻信息服务许可证10120170066</a></div>
+    <div><a href="/public/license_3.html" target="_blank">广播电视节目制作经营许可证：（粤）字第01703号</a><span>|</span><a href="/public/license_4.html" target="_blank">信息网络传播视听节目许可证1908317</a></div>
+    <div>违法和不良信息举报电话：0755-83514034 邮箱：<a href="mailto:0">bwb@stcn.com</a> <img src="https://static-web.stcn.com/static/images/wxb-icon.png" width="19" height="17" alt=""><a href="https://www.12377.cn/" target="_blank">中央网信办违法和不良信息举报中心</a><span login-btn="">|</span><a href="/user-center/tip-off.html" data-is-login="false" class="index-jump-report">证券时报网举报中心</a></div>
+    <div>本网站提供之资料或信息，仅供投资者参考，不构成投资建议。</div>
+    <div>深圳证券时报社有限公司版权所有，未经书面授权禁止转载及各种形式的软件开发。</div>
+    <div>Copyright © 2008-2024 Shenzhen Securities Times Co., Ltd. All Rights Reserved</div>
+</div></div>
+<link rel="stylesheet" href="https://static-web.stcn.com/static/styles/login.css?v=20230410">
+<script type="text/html" class="pop-window-login">
+    <div class="pop-window login-pop-window">
+        <div class="close"></div>
+        <div class="pwd-form-wrapper">
+            <div class="pop-window-title">
+                <img src="https://static-web.stcn.com/static/images/login-logo.png" alt="">
+            </div>
+            <div class="pop-window-body pwd-login-form">
+                <div class="switch-login-type-tab">
+                    <span class="active">密码登录</span>
+                    <span>验证码登录</span>
+                </div>
+                <div class="pop-window-form">
+                    <div class="different-form">
+                        <form action="/public/login.html" class="pop-window-login-pwd-form">
+                            <input name="phone" type="number" placeholder="请输入手机号码">
+                            <div class="pwd-input">
+                                <input name="pwd" type="password" placeholder="请输入密码">
+                                <div class="forget-pwd-btn">忘记密码</div>
+                            </div>
+                            <div class=verify-image-code-input>
+                                <input name="verifyImgCode" type="text" placeholder="请输入图形验证码">
+                                <img class="verify-img-code" src="/site/captcha.html?v=6405440170e48"/>
+                            </div>
+                            <button class="sub-btn">登录</button>
+                        </form>
+                        <form action="/public/login.html" class="pop-window-login-phone-form">
+                            <input name="phone" type="number" placeholder="请输入手机号码" class="login-phone-code-in">
+                            <div class="phone-code-input">
+                                <input name="phoneVerifyCode" placeholder="请输入验证码">
+                                <button type="button" class="login-send-phone-code-btn send-phone-code-btn" data-url="/public/send-code.html">发送验证码</button>
+                            </div>
+                            <div class=verify-image-code-input>
+                                <input name="verifyImgCode" type="text" placeholder="请输入图形验证码">
+                                <img class="verify-img-code" src="/site/captcha.html?v=6405440170e48"/>
+                            </div>
+                            <button class="sub-btn">登录</button>
+                            <div class="sub-btn-tip">未注册的手机号验证后自动创建账号</div>
+                        </form>
+                    </div>
+                </div>
+                <!--<div class="third-account text-center">
+                    <div class="tt"><span>第三方账户登录</span></div>
+                    <a href="javascript:;" class="wb"></a>
+                    <a href="javascript:;" class="qq"></a>
+                    <a href="javascript:;" class="wx"></a>
+                </div>-->
+            </div>
+            <div class="pop-window-body pwd-forget-form" style="display: none">
+                <div class="switch-login-type-tab">
+                    <span class="active">忘记密码</span>
+                </div>
+                <div class="pop-window-form">
+                    <form action="/public/reset-pwd.html" class="pop-window-login-phone-form">
+                        <input name="phone" type="number" placeholder="请输入手机号码" class="forget-phone-code-in">
+                        <div class="phone-code-input">
+                            <input name="phoneVerifyCode" placeholder="请输入验证码">
+                            <button type="button" class="forget-send-phone-code-btn send-phone-code-btn" data-url="/public/send-code.html">发送验证码</button>
+                        </div>
+                        <div class=verify-image-code-input>
+                            <input name="verifyImgCode" type="text" placeholder="请输入图形验证码">
+                            <img class="verify-img-code" src="/site/captcha.html?v=6405440170e48"/>
+                        </div>
+                        <input name="password" type="text" placeholder="请设置密码">
+                        <button class="sub-btn">确定</button>
+                        <div class="sub-btn-tip text-center pwd-form-back-text">返回登录</div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="wx-login-wrapper" style="display: none">
+            <div class="wx-qr">
+                <div class="text-center">
+                    <img src="https://static-web.stcn.com/static/images/wx-login-logo.png" alt="" class="wx-login-logo">
+                </div>
+                <div class="tt">
+                    <span>使用微信扫一扫登录</span>
+                </div>
+                <div class="text-center qr">
+                    <img src="https://static-web.stcn.com/static/images/qr.png" alt="">
+                </div>
+                <div class="text-center qr-text">证券时报官网</div>
+                <div class="back-text text-center">返回</div>
+            </div>
+        </div>
+    </div>
+</script><script src="https://static-web.stcn.com/static/scripts/api.js?v=20231108"></script>
+<script src="https://static-web.stcn.com/static/scripts/jquery.min.js"></script>
+<script src="https://static-web.stcn.com/static/scripts/jquery-migrate.min.js"></script>
+<script src="https://static-web.stcn.com/static/scripts/lodash.min.js"></script>
+<script src="https://static-web.stcn.com/static/scripts/layer/layer.js"></script>
+<script src="https://static-web.stcn.com/static/scripts/common.js?v=20241022"></script>
+<!--<script src="--><!--?//= $oss_url ?--><!--/static/scripts/echarts.min.js"></script>-->
+<link rel="stylesheet" href="https://static-web.stcn.com/static/scripts/share/css/share.min.css">
+
+<script src="https://static-web.stcn.com/static/scripts/share/js/social-share.min.js"></script>
+<script>
+  $(function () {
+    fetchStockTagData()
+    asideHotColumnListRefresh()
+    asideHotVideoListRefresh()
+    $('.detail-content img,.detail-content video').each(function (k, v) {
+      let $div = $('<div class="text-center" style="text-indent: 0em"></div>')
+      $div.append($(v).clone())
+      $(v).replaceWith($div)
+    })
+    $('.detail-content img').each(function(){
+      $(this).attr('title','')
+    })
+
+    $('body').on('click','.post-btn',function(e){
+      e.preventDefault()
+      var $this = $(this)
+      var boolean = $this.hasClass('active')
+
+      $.post($this.data('url'),{id:$this.data('id'),fav:!boolean},function(res){
+        layer.msg(res.msg)
+        if(res.state){
+          if(boolean){
+            $this.removeClass('active')
+          }else{
+            $this.addClass('active')
+          }
+        }
+      })
+    })
+
+    window.loginSuccessCallback = function(){
+      var msg = ''
+      var loading = false
+      $('.comment-input').find('textarea').removeClass('hidden').on('change',function(e){
+        msg = e.target.value
+      })
+        .end().find('.ds-tip').remove()
+        .end().find('.btn').click(function(){
+        if(loading) return
+        var id = $(this).data('id')
+        if($.trim(msg).length){
+          loading = true
+          $.post($(this).data('url'),{msg:msg,id:id},function(res){
+            loading = false
+            layer.msg(res.msg)
+            if(res.state){
+              $(".comment-list ul").prepend(res.data)
+              $('.comment-input').find('textarea').val('')
+            }
+          })
+        }else{
+          layer.msg('请输入发言内容')
+        }
+      })
+    }
+
+    var $loadMoreCommentBtn = $('.load-more-comment-btn')
+    var page_time = $loadMoreCommentBtn.data('page-time')
+    $loadMoreCommentBtn.click(function(){
+      var that = $(this)
+      $.getJSON($(this).data('url'),{page_time:page_time},function(res){
+        if(res.data.length){
+          page_time = res.page_time
+          $('.comment-list ul').append(res.data)
+        }else{
+          that.prev().show()
+          that.hide()
+        }
+      })
+    })
+
+      })
+</script>
+<script src="https://static-web.stcn.com/static/scripts/jsencrypt.min.js"></script>
+<script>
+  $(function(){
+    widthQuery()
+  })
+</script>
+<script type="text/javascript">document.write(unescape("%3Cspan style='display:none;' id='cnzz_stat_icon_1281169049'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1281169049' type='text/javascript'%3E%3C/script%3E"));</script><span style="display:none;" id="cnzz_stat_icon_1281169049"><a href="https://www.cnzz.com/stat/website.php?web_id=1281169049" target="_blank" title="站长统计">站长统计</a></span><script src="https://s9.cnzz.com/z_stat.php?id=1281169049" type="text/javascript"></script><script src="https://c.cnzz.com/c.js?web_id=1281169049&amp;t=z" charset="utf-8" type="text/javascript"></script>
+<script type="text/javascript">document.write(unescape("%3Cspan style='display:none;' id='cnzz_stat_icon_1281264856'%3E%3C/span%3E%3Cscript src='https://s4.cnzz.com/z_stat.php%3Fid%3D1281264856' type='text/javascript'%3E%3C/script%3E"));</script><span style="display:none;" id="cnzz_stat_icon_1281264856"><a href="https://www.cnzz.com/stat/website.php?web_id=1281264856" target="_blank" title="站长统计">站长统计</a></span><script src="https://s4.cnzz.com/z_stat.php?id=1281264856" type="text/javascript"></script><script src="https://c.cnzz.com/c.js?web_id=1281264856&amp;t=z" charset="utf-8" type="text/javascript"></script>
+
+
+
+
+</body></html>

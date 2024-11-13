@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "NID=519=DIfrfiViQ6tvFaBBTx_9Gk_CbYIHOnUixucSOqF_pZyG_BH3O3rnlyZReYQ2WLEXT83xvVHoCV9D7RUcN4J-_oyR_TaeLiFmOxocss8_LjgT4rGHYmxlJxYi8w3-MPOwXIsW29NRWPLhRxhWS6D1vGk3Up_D5DGg3_R7pd7vrg3v1no3V0U4hdXxesLh07k",
+        "Referer": "https://cloud.google.com/discover/ai-applications?hl=zh-CN",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://cloud.google.com/discover/ai-applications?hl=zh-CN",
+    "wait": 6
+}

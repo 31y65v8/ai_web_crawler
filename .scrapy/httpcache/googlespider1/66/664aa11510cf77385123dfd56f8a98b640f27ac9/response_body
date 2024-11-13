@@ -1,0 +1,582 @@
+<!DOCTYPE html><html><head>
+    <title>张钹院士：建立完备的人工智能基础理论—新闻—科学网</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="keywords" content=",[mynews.keys]">
+
+    <script language="javascript" type="text/javascript">
+		function showsize(sid)
+		{
+				document.getElementById("content"+1).style.fontSize=sid;
+				document.getElementById("content"+1).className='f'+sid;
+			
+		}
+		function showandhide(showid,hideid)
+        {
+         document.getElementById(showid).style.display="";
+         document.getElementById(hideid).style.display="none";
+          document.getElementById(showid+"1").style.background="#005007";
+         document.getElementById(hideid+"1").style.background="#787878";
+        }
+
+
+	
+
+    </script>
+    <style type="text/css">
+body { margin:0; padding:0; background:#e4e6df url(/images/a-b-mbr.jpg) repeat-y center top; text-align:center; font:13px Arial, Helvetica, sans-serif; }
+#wrap { margin:0 auto; text-align:left; width:970px; padding:0 0px; w\idth:970px;background:#ffffff}
+img { border:0; }
+td{font:13px 宋体}
+#header { width:100%; margin-top:5px;text-align:center; }
+#fielder {margin:0 auto; text-align:left; width:970px;}
+#fielderleft {width:450px; float: left;font:13px 宋体;color:#b41319;height:20px; text-align:right;margin-top:5px}
+#fielderright {width:520px; float: right;height:20px}
+#fielderleft a{font:13px 宋体;color:#b41319; text-decoration:none; }
+#main {margin:0 auto; text-align:left; width:960px; padding:0 4px;}
+#footer { width:100%; height:66px;margin-top:10px; clear:both; text-align:center; }
+ #foot1{text-align:center;background:#d7ceaa;color:#885f17;width:100%; height:30px;margin-top:10px;vertical-align:bottom}
+#foot1 a{font:12px 宋体, Helvetica, sans-serif;color:#885f17; text-decoration:none;}
+#mleft{float: left; width:680px}
+#mright{float: right; width:270px;text-align:left;}
+.html1{font:12px 宋体;color:#333333; text-decoration:none; }
+.html2{font:12px 宋体;color:#885f17; text-decoration:none; }
+#headerleft ul {text-align:left; width:456px;  margin:0; padding:0; list-style:none;  }
+#headerleft li{ margin-right: auto;display:inline;vertical-align:bottom;}
+#headerleft { float:left; width:456px; height:22px text-align:left; }
+#headerleft a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#headerright a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#head2{background:#ba1414;width:970px;bgcolor:#ba1414;margin-top:0px}
+textarea { font: 12px Arial, Helvetica, sans-serif; border:1px solid #333333; }
+.input{ font: 11px Arial, Helvetica, sans-serif; border:1px solid #333333;}
+.rblinput{ font: 11px Arial; border:0;width:30px}
+.ulclass{margin:8px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.ulclass li{display:inline;}
+.h1ulclass{margin:0px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.h1ulclass li{display:inline;}
+.plnum{width: 30px;color:#587c19;font:12px 宋体; text-align:center; font-weight:bold;margin-left:-14px}
+.highlight2{font-size:12px;color:#333333;text-decoration:none;}
+a:hover {
+	color: #ba1413;
+
+	text-decoration: underline;
+}
+a{ text-decoration:none;color:#333333;}
+#head1{width:970px;margin-top:0px}
+#head2 td{font:12px 宋体}
+#field8 a{font:13px 宋体;color:#fff; text-decoration:none;}
+#content1 a{color: #800000;}
+#content1 {font:14px 宋体;}
+img{max-width:600px}
+#field8 td{ height:20px;}
+.f12{font-size:12px；word-break: break-all;font:12px ;}
+.f14{font-size:14px；word-break: break-all;font:14px }
+.f16{font-size:16px；word-break: break-all;font:16px }
+.ifcomm {display:none}
+.f12 p {font-size:12px；word-break: break-all;font:12px }
+.f14 p {font-size:14px；word-break: break-all;font:14px }
+.f16 p {font-size:16px；word-break: break-all;font:16px }
+.bq{text-indent:0em;font-weight:bold;font-size:13px;border:solid 1px #333 ;padding:10px;}
+</style>
+<script type="text/javascript" src="/js/lazyload/jquery.min.js"></script>
+<script type="text/javascript" src="/js/lazyload/jquery.lazyload.js"></script>
+		<script type="text/javascript"> 
+			jQuery(document).ready( 
+			function($){ 
+				$("img").lazyload({ 
+					placeholder : "/js/lazyload/grey.gif", 
+					effect      : "fadeIn",
+					threshold : 200
+				}); 
+			}); 
+		</script> 
+</head>
+<body>
+   <div id="wrap">
+      <script src="/html/js/htmlnewshead.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+function browserRedirect() { 
+
+var sUserAgent= navigator.userAgent.toLowerCase(); 
+
+var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
+
+var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
+
+var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
+
+var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
+
+var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
+
+var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
+
+var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
+
+var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+
+if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
+
+ document.write("<div style='padding-left:4em'><a href=\"http://wap.sciencenet.cn/mobile.php?type=detail&cat=news&id=459306&mobile=1\" style='font-size:2em;color:#ba1413; line-height:2em;text-indent:4em'>点击此处切换为手机版网页</a></div>"); 
+  
+} else { 
+
+//window.location= '电脑网站地址'; 
+
+} 
+
+} 
+
+browserRedirect(); 
+
+</script>
+      <!--登录-->
+		<iframe src="https://blog.sciencenet.cn/plus.php?mod=iframelogin" style="width:970px; height:32px; " scrolling="no" frameborder="0"></iframe>
+            <!--导航-->
+           ﻿<link href="https://www.sciencenet.cn/css/indexhead.css" type="text/css" rel="stylesheet">
+     <div class="logo">
+          <div class="lg"><a href="https://news.sciencenet.cn/"><img src="/images/news.jpg" width="231" height="84" alt="科学网新闻频道"></a></div>
+		 <div class="rg02">
+		 <div class="rg"><span style="float:left;">
+                        <a href="https://www.sciencenet.cn/life/" style="color:#fff">生命科学</a> | 
+                        <a href="https://www.sciencenet.cn/medicine/" style="color:#fff">医学科学</a> | 
+                        <a href="https://www.sciencenet.cn/chemistry/" style="color:#fff">化学科学</a> | 
+                        <a href="https://www.sciencenet.cn/material/" style="color:#fff">工程材料</a> | 
+                        <a href="https://www.sciencenet.cn/information/" style="color:#fff">信息科学</a> | 
+                        <a href="https://www.sciencenet.cn/earth/" style="color:#fff">地球科学</a> | 
+                        <a href="https://www.sciencenet.cn/mathematics/" style="color:#fff">数理科学</a> | 
+                        <a href="https://www.sciencenet.cn/policy/" style="color:#fff">管理综合</a> </span> 
+		  <span style=" float:right;  "> <a href="https://blog.sciencenet.cn/blog-45-1064777.html" style="color:#fff">站内规定</a> | <a href="https://wap.sciencenet.cn/" style="color:#fff">手机版</a></span></div>
+          <div class="rg01"><span style="float:left;  ">
+               <a href="https://www.sciencenet.cn/">首页</a> | <a href="https://news.sciencenet.cn/">新闻</a> | <a href="https://blog.sciencenet.cn/blog.php">博客</a> | <a href="https://news.sciencenet.cn/ys/">院士</a> | <a href="https://talent.sciencenet.cn/">人才</a> | <a href="https://meeting.sciencenet.cn">会议</a> | <a href="https://fund.sciencenet.cn/">基金·项目</a> | <a href="https://paper.sciencenet.cn/">论文</a> | <a href="https://blog.sciencenet.cn/blog.php?mod=video">视频·直播</a> | <a href="https://paper.sciencenet.cn/AInews">小柯机器人</a> | <a href="https://kxxsh.sciencenet.cn/">医学科普</a>
+          </span>
+			  <div style="float:right; padding-left:0px;">
+				   <form style="display:inline" method="get" action="https://www.baidu.com/baidu" accept-charset="utf-8" name="f1">
+					  <input style=" width:100px;border:0" maxlength="40" size="31" name="word">
+					  <input type="submit" style="cursor:pointer; width:56px; font-size:12px; background-color:#880008; border-width:0px; height:16px; color:#fff;" value="本站搜索">
+					  <input type="hidden" value="2097152" name="ct">
+					  <input type="hidden" value="3" name="cl">
+					  <input type="hidden" value="news.sciencenet.cn" name="si">
+					  <input type="hidden" value="utf-8" name="ie">
+				  </form>
+			  </div>
+          </div></div>
+        </div> 
+
+        <div style="line-height: 10px; height: 10px; clear: both;  ">
+            &nbsp;</div>
+        <div id="main">
+            <div id="mleft">
+                <table border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+                    <tbody><tr>
+                        <td style="width: 680px;">
+                            <table id="content" style="border: solid 1px #bbc89b; width: 680px; text-align: center;
+                                background-color: #f8f9f4; table-layout:fixed">
+                                <tbody><tr>
+                                    <td align="left">
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 82%; font: 12px 宋体; float: left; ">
+                                            作者：沈春蕾  来源：中国科学报 发布时间：2021/6/9 16:36:52</div>
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 18%; font: 12px 宋体; float: right">
+                                            选择字号：<span onclick="showsize(12)" style="background-color: #587c19; color: #fff;
+                                                font-size: 12px; cursor: pointer">小</span> <span onclick="showsize(14)" style="background-color: #587c19;
+                                                    color: #fff; font-size: 12px; cursor: pointer">中</span> <span onclick="showsize(16)" style="background-color: #587c19; color: #fff; font-size: 12px; cursor: pointer">
+                                                        大</span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <div id="content1" style=" padding:15px; text-align: left; line-height: 24px;
+                                            word-wrap: break-word;word-break:break-all" class="f14">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody><tr>
+                                                    <td height="20">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px">
+                                                        <b></b></td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="style1" style="font-size: 22px; color: #587c19; font-family: 黑体;
+                                                        line-height: 30px">
+                                                        张钹院士：建立完备的人工智能基础理论</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px">
+                                                        <b></b></td>
+                                                </tr>
+                                            </tbody></table>
+                                            <p>
+	&nbsp;</p>
+<p style="text-indent: 2em">
+	作为引领第四次科技革命的战略性技术，人工智能（AI）给社会建设和经济发展带来了重大而深远的影响，但数据隐私、算法偏见、技术滥用等安全问题正给社会公共治理与产业智能化转型带来严峻挑战。</p>
+<p style="text-indent: 2em">
+	第一个问题是科技发展的共性问题。科技是发展的利器，也可能成为风险的源头，人工智能也不例外。首先，AI的发展将引发新一轮的产业革命。一方面是传统产业的智能化，比如网络搜索中采取推荐算法、用户画像等等，提高服务的效率和质量。另一方面是智能技术的产业化，催生了新的产业，如智能交通、智慧医疗、智慧城市、自动驾驶等。与此同时，AI的发展也带来了新的风险和安全隐患，因此，我们既要抓AI的创新发展，又要抓AI的治理，两手都要抓。</p>
+<p style="text-indent: 2em">
+	第二个问题是人工智能发展与治理中的特殊性，具体表现在算法层面、数据层面与应用层面。</p>
+<p style="text-indent: 2em">
+	在算法层面看，现有的AI算法较脆弱，泛化能力较差，这意味着如果将算法运用到与训练场景区别很大的实际场景中，就会存在安全问题。以无人驾驶为例，AI训练的时候不可能穷尽所有的情景，当遇到新的突发事件便无法处理，就会造成AI技术的误用，有可能是无意识的误用。同时，这种脆弱性还使得人工智能系统容易被攻击、被欺骗，给AI技术的滥用造成可乘之机。</p>
+<p style="text-indent: 2em">
+	从数据层面看，现在人工智能应用效果很大程度上依赖数据质量，但由此会带来隐私泄漏、数据确权等问题，如果解决不好数据安全的问题，人工智能产业也不可能健康的发展。</p>
+<p style="text-indent: 2em">
+	在应用层面，人工智能技术已经逐渐对人们的生活造成冲击，比如售楼处看房带头盔、困在算法里的外卖骑手等等，还有深度伪造之类可能对社会造成重大影响的技术，都必须保证安全可控。</p>
+<p style="text-indent: 2em">
+	AI的创新发展是大道理，纵观信息科技的发展历史，尽管信息科技发展异常迅猛，但基本上安全可控。而人工智能发展却缓慢曲折，安全问题层出不穷。这两者的差别在于，从信息革命开始，信息的三大理论就已经建立，即图灵机理论（1936）、香农的通讯理论（1948）、维纳的控制论（1948）。正因为有了坚实的理论基础，从而引导信息技术健康的发展。然而人工智能的发展则相反，它的基础理论至今没有建立。尽管经历了第一代AI的符号主义模型（知识驱动）和第二代AI的亚符号（连接）主义模型（数据驱动），但它们均具有很大的局限性，不能构成AI的理论基础。由于缺乏理论指导，AI的发展处于难以控制的局面。</p>
+<p style="text-indent: 2em">
+	当前，必须解决“卡脖子”的基础理论问题，因此建立AI的理论基础是我们提出“第三代人工智能”的初衷。所谓的“第三代人工智能”，其发展路径是融合第一代的知识驱动和第二代的数据驱动的人工智能，在前两代理论的基础上发展第三代人工智能基础理论，建立一个完备的人工智能基础理论。具体的思路上，利用知识、数据、算法和算力4个要素，建立新的可解释和鲁棒的AI理论和方法，从而发展安全、可信、可靠和可扩展的AI技术。这样发展第三代AI和AI治理一起抓，以达到相辅相成共同发展。</p>
+<p style="text-indent: 2em">
+	人工智能刚刚拉开序幕，更精彩的大戏正要上演。全世界应该团结起来，共同来发展安全可控的第三代人工智能，让人工智能真正造福于人类。</p>
+<p style="text-indent: 2em">
+	（本报记者沈春蕾根据中国科学院院士张钹在2021北京智源大会上的讲话整理）</p>
+<div>
+	&nbsp;</div>
+<div class="bq" style="font-size: 13px; border-top: #333 1px solid; border-right: #333 1px solid; border-bottom: #333 1px solid; font-weight: bold; padding-bottom: 10px; padding-top: 10px; padding-left: 10px; border-left: #333 1px solid; padding-right: 10px; text-indent: 0em">
+	版权声明：凡本网注明“来源：中国科学报、科学网、科学新闻杂志”的所有作品，网站转载，请在正文上方注明来源和作者，且不得对内容作实质性改动；微信公众号、头条号等新媒体平台，转载请联系授权。邮箱：shouquan@stimes.cn。</div>
+
+                                           
+                                            <div style="border-bottom: solid 1px #bfc89d; vertical-align: bottom; width: 100%;
+                                                height: 20px">
+                                            </div>
+                                            <div style="width: 100%; height: 20px; text-align: center; margin:10px">
+                                            <!-- JiaThis Button BEGIN -->
+<script src="/html/js/share.js" type="text/javascript"></script>
+<!-- JiaThis Button END -->
+                                            </div>
+                                            
+                                        </div>
+                                    </td>
+                                </tr>
+
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+                <div style="line-height: 10px; height: 10px; clear: both;">
+                        &nbsp;</div>
+                <div style=" vertical-align: bottom; width: 100%;
+                                             text-align:right">
+                                           
+
+
+             <div style="float:left"> 
+             <script src=" http://www.sciencenet.cn/kxwad/js/a20.js" type="text/javascript"></script>
+             </div>
+                                        <form action="/html/mail.aspx" method="post" id="myform" style="float:right">
+                                       
+                                            <span onclick="javascript:window.print()" style="cursor: pointer; background-color: #587c19;
+                                                color: #fff;">&nbsp;打印&nbsp;</span> <span style="color: #587c19">发E-mail给：</span><input name="txtemail" type="text" value="" size="22" id="txtemail" style="background-color: #eeeee8">&nbsp;
+                                            <input type="hidden" id="myurl" name="myurl" runat="server" value="459306">
+                                            <input type="submit" value="" style="background-image: url(/images/go.gif); background-color: Transparent;
+                                                width: 30px; background-repeat: no-repeat; border-width: 0; height: 21px"></form>
+                                        &nbsp; &nbsp;&nbsp;
+                </div>
+               <div style="line-height: 20px; height: 20px; clear: both;">
+                        &nbsp;</div>
+                         <div style="color:#784704; text-align:left;clear: both;;display:none;" class="ifcomm">以下评论只代表网友个人观点，不代表科学网观点。&nbsp;</div>
+                <div style="border: solid 1px #bbc89b; width: 680px; text-align: center; background-color: #f8f9f4; color:#333333;;display:none;" class="ifcomm">
+                   <div id="commd"></div>
+                     <div style="text-align:left;width: 94%;"><a href="/html/comment.aspx?id=459306" style="color:#ba1413; text-decoration:none"><img src="/images/newcomm.gif"></a></div>
+                    <div style="text-align:left;width: 94%;border-top: solid 0px #bfc89d" id="formcomm">
+                    
+                    <iframe src="/html/newscomm.aspx?nid=459306" style="margin: 0px;
+                    padding: 0px" frameborder="0" scrolling="no" height="160px" width="100%"></iframe>
+                   
+                    </div>
+                </div>
+               
+                </div>
+                <div id="mright">
+                
+                <script src="/html/js/n1.js" type="text/javascript"></script>
+                    <!--相关新闻和相关论文-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" id="xgnews1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgnews','xgpaper')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关新闻</span></td>
+                            <td align="left" id="xgpaper1" style="background: #787878; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgpaper','xgnews')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关论文</span></td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="xgnews">
+                                    <ul class="ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="/htmlnews/2021/6/459348.shtm" class="highlight2" target="_blank">征集国家自然科学基金共享航次计划考察需求通知</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="/htmlnews/2021/6/459346.shtm" class="highlight2" target="_blank">首批中国经济学教材编写拟入选学校及团队名单</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="/htmlnews/2021/6/459343.shtm" class="highlight2" target="_blank">研究人员绘制最详细人脑图</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="/htmlnews/2021/6/459339.shtm" class="highlight2" target="_blank">每天摄入较多咖啡因可能让部分人青光眼风险上升</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="/htmlnews/2021/6/459337.shtm" class="highlight2" target="_blank">迄今最大规模青少年大脑认知发育研究结果公布</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="/htmlnews/2021/6/459336.shtm" class="highlight2" target="_blank">关于人才热点追踪与分析系统项目申报评审的通知</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="/htmlnews/2021/6/459335.shtm" class="highlight2" target="_blank">高层次科技人才联系服务系统项目申报评审通知</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="/htmlnews/2021/6/459333.shtm" class="highlight2" target="_blank">2022QS世界大学排名发布！ </a></li>
+</ul>
+
+                                   
+                                </div>
+                                <div id="xgpaper" style="display: none">
+                                   <ul class="ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="/htmlpaper/2021/6/20216912355479564104.shtm" class="highlight2" target="_blank">针对多重相干信号的自适应信号检测与分类方法</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="/htmlpaper/2021/6/20216912263125264103.shtm" class="highlight2" target="_blank">华南植物园城市绿地心理健康效益评估研究获进展</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="/htmlpaper/2021/6/2021691220445464102.shtm" class="highlight2" target="_blank">高性能柔性液态金属复合屏蔽材料</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="/htmlpaper/2021/6/20216911333168664101.shtm" class="highlight2" target="_blank">北极轮虫能在冰冻状态存活2.4万年</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="/htmlpaper/2021/6/20216910112314464100.shtm" class="highlight2" target="_blank">坚韧可修复新材料灵感源自蜻蜓翅膀</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="/htmlpaper/2021/6/2021691011223664099.shtm" class="highlight2" target="_blank">观察活细胞强机械力传递，这个DNA探针不简单</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="/htmlpaper/2021/6/20216910112072264098.shtm" class="highlight2" target="_blank">OXZEO催化合成气转化综述文章发表</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="/htmlpaper/2021/6/20216910111941064097.shtm" class="highlight2" target="_blank">南海北部近海浮游植物对大气沉降的响应获揭示</a></li>
+</ul>
+
+                                   
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                  <script src="/html/js/n2.js" type="text/javascript"></script>
+                    <!--图片新闻-->
+                    
+                         ﻿<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" colspan="2" style="background-image: url(/images/lmsy_jbg_br.jpg);
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="/imgnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px">图片新闻</a></td>
+                        </tr>
+                        <tr>
+                            <td style="width: 100%; height: 8px; border-width: 1px; text-align: right;" colspan="2">
+                            </td>
+                        </tr><tr><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href="https://news.sciencenet.cn/https://news.sciencenet.cn/htmlnews/2024/11/533661.shtm" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/2024119238361360.jpg" width="118" height="65" alt="《自然》一周论文导读"></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href="https://news.sciencenet.cn//htmlnews/2024/11/533658.shtm" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/2024119239462760.jpg" width="118" height="65" alt="新型纳米水凝胶可增强免疫系统肿瘤杀伤力"></a>
+</td>
+</tr><tr><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href="https://news.sciencenet.cn//htmlnews/2024/11/533566.shtm" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/20241181255114480.jpg" width="118" height="65" alt="预见未来：“天关”卫星“前传”"></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href="https://news.sciencenet.cn//htmlnews/2024/11/533538.shtm" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/20241171943432070.jpg" width="118" height="65" alt="跨能量尺度原子核结构研究获突破"></a>
+</td>
+
+ 
+                        </tr><tr style="">
+                            <td style="width: 100%; border-width: 1px; text-align: right; height: 20px;" colspan="2">
+                                <a href="/imgnews.aspx" target="_blank" style="color: #3f6417">&gt;&gt;更多</a></td>
+                        </tr>
+                    </tbody></table>
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                        <script src="/html/js/n3.js" type="text/javascript"></script>
+                    <!--新闻排行和评论排行-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" id="zph1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 100%" onmouseover="showandhide('zph','yph')">
+                                <a href="/zphnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">一周新闻排行</a></td>
+                           
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="zph">
+                                    ﻿<ul class="h1ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533344.shtm" class="highlight2" target="_blank">刘国彬： 矢志黄土高原水土保持研究40年</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533215.shtm" class="highlight2" target="_blank">遗传分析追踪潘多森林的进化</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533364.shtm" class="highlight2" target="_blank">7国超10万人研究发现，单身比已婚抑郁风险更高</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533239.shtm" class="highlight2" target="_blank">星辰大海，逐梦前行</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533554.shtm" class="highlight2" target="_blank">第十八届中国青年科技奖拟表彰对象公示</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533218.shtm" class="highlight2" target="_blank">研究发现癌细胞逃避免疫反应新机制</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533225.shtm" class="highlight2" target="_blank">一周热闻回顾（2024年11月3日）</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533202.shtm" class="highlight2" target="_blank">人工智能利用游客照片追踪南极企鹅</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">9</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533221.shtm" class="highlight2" target="_blank">博后靠造假获得资助和教职，却坑惨了博士同门</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">10</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533367.shtm" class="highlight2" target="_blank">首颗中俄高校学生联合研制微卫星在俄罗斯发射</a></li>
+</ul>
+
+ 
+                                   
+                                </div>
+                               
+                            </td>
+                        </tr>
+                    </tbody></table>
+                   
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                        <script src="/html/js/n4.js" type="text/javascript"></script>
+                    <!--博文精选-->
+                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" colspan="2" style="background:#a4934b url(/images/lmd_jby_mbr.jpg) no-repeat;
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="http://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="font: 13px 宋体; color: #fff;
+                                    font-weight: bold; line-height: 20px">编辑部推荐博文</a></td>
+                        </tr>
+                         <tr>
+                            <td colspan="2">
+                            <div>
+                                    ﻿<ul class="h1ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-45-1459239.html" class="highlight2" target="_blank">科学网2024年10月十佳博文榜单公布！</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-45-1458513.html" class="highlight2" target="_blank">问答之间 | 如何开展科研之路</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-3411509-1459308.html" class="highlight2" target="_blank">离子传导通道+分散疏水链助力固态锂-氧电池</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-40841-1459387.html" class="highlight2" target="_blank">布尔逻辑与二进制在智能领域中的不足</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-38998-1459367.html" class="highlight2" target="_blank">色素色| 在绿色画布上色素描绘花的色彩</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-3612310-1459359.html" class="highlight2" target="_blank">Francis Harry Compton Crick</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="http://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="color: #567b1c; font-size: 12px">更多&gt;&gt;</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <div style="line-height: 10px; height: 15px; clear: both; ">
+                        &nbsp;</div>
+                        <script src="/html/js/n5.js" type="text/javascript"></script>
+                    <!--论坛精选-->
+                    
+                </div>
+            </div>
+            <div id="footer">
+
+                <script src="/html/inc/foot.js" type="text/javascript"></script><script src="/html/jkong.aspx" type="text/javascript"></script><div id="foot1" style="height:90px;line-height:20px"><p style="margin-top:5px; clear:both"><a href="http://www.sciencenet.cn/aboutus.aspx" target="_blank">关于我们</a> | <a href="http://www.sciencenet.cn/shengming.aspx" target="_blank">网站声明</a> | <a href="http://www.sciencenet.cn/tiaokuang.aspx" target="_blank">服务条款</a> | <a href="http://www.sciencenet.cn/contact.aspx" target="_blank">联系方式</a> | <a href="https://www.sciencenet.cn/jubao.aspx" target="_blank">举报</a> | <a href="https://stimes.sciencenet.cn/">中国科学报社</a><br><a href="http://www.beian.miit.gov.cn" target="_blank">&nbsp;<span style="color:#4e5e10">京ICP备07017567号-12</span>&nbsp;</a><span style="color:#4e5e10;font:12px 宋体, Helvetica, sans-serif">互联网新闻信息服务许可证10120230008</span>&nbsp;<span style="color:#4e5e10;font:12px 宋体, Helvetica, sans-serif">京公网安备  11010802032783</span><br><span style="color:#4e5e10; font-size:12px;font-family: 宋体;">Copyright @ 2007-2024 中国科学报社 All Rights Reserved<br>地址：北京市海淀区中关村南一条乙三号&nbsp;电话：010-62580783 </span></p></div><p style="height:0px;display:none"><script src=" https://hm.baidu.com/h.js?cbf293a46e1e62385b889174378635f1" type="text/javascript"></script></p>
+
+            </div>
+        </div>
+
+<script src="http://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+//*******************
+
+ $.post("http://news.sciencenet.cn/html/c.aspx?id=459306&com=1" ,
+
+                 function (data) {
+                     if (data != "") {
+                        document.getElementById('commd').innerHTML=data;
+                     }
+                     
+                 });
+//******************
+var url=encodeURIComponent(location.href);
+ 
+  $.ajax({
+    type : "get",
+    url : "http://wap.sciencenet.cn/api/jssdk.php?url="+url,//替换网址，xxx根据自己jssdk文件位置修改
+    dataType : "jsonp",
+    jsonp: "callback",
+    jsonpCallback:"success_jsonpCallback",
+    success : function(data){
+        wx.config({
+	 debug: false,
+　　　　 appId: data.appId,
+　　　　 timestamp: data.timestamp,
+　　　　 nonceStr: data.nonceStr,
+　　　　 signature: data.signature,
+　　　　jsApiList: [
+       　　"onMenuShareTimeline", //分享给好友
+       　　"onMenuShareAppMessage", //分享到朋友圈
+       　　"onMenuShareQQ",  //分享到QQ
+       　　"onMenuShareWeibo" //分享到微博
+]
+});
+},
+   error:function(data){
+          
+     }
+});
+  wx.ready(function (){
+  var shareData = {
+  title: '科学网-张钹院士：建立完备的人工智能基础理论',
+  desc: '科学网-张钹院士：建立完备的人工智能基础理论',//这里请特别注意是要去除html
+  link:location.href,
+  imgUrl: 'http://news.sciencenet.cn/images/logo300.png'
+  };
+  wx.onMenuShareAppMessage(shareData);
+  wx.onMenuShareTimeline(shareData);
+  wx.onMenuShareQQ(shareData);
+  wx.onMenuShareWeibo(shareData);
+    });
+
+ window.onload = function(){
+		if (typeof WeixinJSBridge == "undefined"){
+		    if( document.addEventListener ){
+		        document.addEventListener('MenuShareTimeline', WeiXinShareBtn, false);
+		    }else if (document.attachEvent){
+		        document.attachEvent('MenuShareTimeline', WeiXinShareBtn); 
+		        document.attachEvent('onMenuShareTimeline', WeiXinShareBtn);
+		    }
+		}else{
+			//WeiXinShareBtn();
+		}
+	};
+</script>
+
+
+</body></html>

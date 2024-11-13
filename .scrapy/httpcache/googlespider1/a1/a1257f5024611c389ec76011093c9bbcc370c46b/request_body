@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "wzws_sessionid=gTIxYTc5YqBnMGLOgDIyMS40LjM0LjE0N4I1ZWJjYmQ=; XSRF-TOKEN=eyJpdiI6IkFPSXJxMXJGaG5xbVQwRnZiZ1pjdUE9PSIsInZhbHVlIjoiWVlXcXFSajMrK3JjRkVqVDNcL2pnR1l5MmlTQmpVbEFpelNwK1JzYU54cGh4V2wzNXBUazFJaWNVVjljT2pKSysiLCJtYWMiOiI0YmRmNzhlODMyNjlmODViOTQyNjFiZTViMGE4ZWIxZTI1MmVkMWU1NmVlMTI0YmI3MjFlYjRjZDhhNGNmNzAxIn0%3D; _session=eyJpdiI6ImE2b1wvVzBPMzFqaHg4R3pISEU0UER3PT0iLCJ2YWx1ZSI6IktzTmFIaVFkT1BxRmR2N3Jlc2V6aWtvNnM1K2toWHo4OWhnQVZJcngwSjdIdWdQNDZmSFNrOU0ySmhvTHBLbkkiLCJtYWMiOiJjODdjZmEyYTk4Y2Y3MzYyODE3M2UwY2JlZTFiMWE0ZGNmZGY1NzE1NGU5NjYxODhmZWQ2MjNlYTdkNmI5N2Q2In0%3D",
+        "Referer": "https://www.secrss.com/articles/70605",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.secrss.com/articles/70605",
+    "wait": 6
+}

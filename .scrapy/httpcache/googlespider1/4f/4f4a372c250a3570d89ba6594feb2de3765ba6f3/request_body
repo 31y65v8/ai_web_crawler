@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "acw_tc=0a47314617312243088417832e005bd755a5f2908084a4cbec70a003c50a8b; connect.sid=s%3AO2eXRxJdRgLo5aaqJSV_bILwM2ZxXO-r.%2FacrmoNGZO5Nu8qcSunFQcQHfkK9zvDPwRH1FTVEtyA",
+        "Referer": "https://m.yicai.com/news/100693090.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://m.yicai.com/news/100693090.html",
+    "wait": 6
+}

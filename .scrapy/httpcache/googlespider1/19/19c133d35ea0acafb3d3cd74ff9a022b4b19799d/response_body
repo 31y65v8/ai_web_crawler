@@ -1,0 +1,354 @@
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta content="资讯报道、云计算、saas、研究报告、AI、认知智能" name="keywords">
+<meta content="知识图谱驱动的认知智能时代来临" name="description">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1,minimum-scale=1,user-scalable=no">
+<title>AI的下一个战场，一文看懂认知智能-T媒体</title>
+<link href="http://www.cniteyes.com/addons/theme/_stastic/image/favicon.ico" rel="shortcut icon">
+<link href="http://www.cniteyes.com/addons/theme/_stastic/css/global.css?v=201321" rel="stylesheet" type="text/css">
+<link href="http://www.cniteyes.com/addons/theme/_stastic/css/fonts.css?v=201321" rel="stylesheet" type="text/css">
+<link href="http://www.cniteyes.com/addons/theme/_stastic/css/idangerous.swiper.css?v=201321" rel="stylesheet" type="text/css">
+<script charset="utf-8" src="https://hmcdn.baidu.com/static/tongji/plugins/UrlChangeTracker.js"></script><script src="https://hm.baidu.com/hm.js?8665f613e2db3be437f3f5a07495ab70"></script><script>
+/**
+ * 全局变量
+ */
+var SITE_URL  = 'http://www.cniteyes.com';
+var THEME_URL = 'http://www.cniteyes.com/addons/theme/_stastic';
+var APPNAME   = 'index';
+var MID		  = '0';
+var UID		  = '0';
+// Js语言变量
+var LANG = new Array();
+var VERSION = '201321';
+//全局配置内容
+var $config = { };
+$config['loginback'] = 'aDetail_36090';
+
+</script>
+
+<!--[if lt IE 10]>
+<script type="text/javascript" src="http://www.cniteyes.com/addons/theme/_stastic/image/iecss/PIE.js"></script>
+<![endif]-->
+</head>
+<body><img src="http://www.cniteyes.com/was-6523-8749f98cc091e77145764aebebe45610-self.jpg" width="320" height="320" style="position: fixed; top: -500px;">
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/jquery.min.js?v=201321"></script>
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/core.js?v=201321"></script>
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/module.js?v=201321"></script>
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/common.js?v=201321"></script>
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/module.common.js?v=201321"></script>
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/module.form.js?v=201321"></script>
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/placeholder.js?v=201321"></script>
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/jquery.foucs.js?v=201321"></script>
+<script src="http://www.cniteyes.com/addons/theme/_stastic/js/idangerous.swiper.min.js?v=201321"></script>
+
+<div id="body_page" name="body_page">
+
+    <div id="header" class="header " name="header">
+        <div class="top-swing">
+            <div class="inner">
+                <div class="cell-right">
+                    <a href="mailto:Tkb@cniteyes.com">请求报道</a><i class="vline">|</i><a href="mailto:Tkb@cniteyes.com">寻求融资</a><a href="javascript:;" onclick="ui.box.load(U('public/Passport/login'))" class="link">我要投稿</a>
+                </div>
+                <div class="cell-left">
+                    <a href="javascript:;"><i class="icon-weixin-fill"></i>关注微信</a>
+                    <div class="layer-wechat">
+                        <div class="item-arrow"><span></span></div>
+                        <div class="item-media"><img style="width:120px" src="http://www.cniteyes.com/addons/theme/_stastic/image/wechat-code.jpeg"><span>打开微信扫一扫</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--登陆后-->
+            <div class="head-bd">
+                <div class="reg">
+                    <a href="javascript:;" onclick="ui.box.load(U('public/Passport/register'))">注册</a>
+                    <i class="vline">/</i>
+                    <a href="javascript:;" onclick="ui.box.load(U('public/Passport/login'))">登录</a>
+                </div>
+                <div class="logo"><a href="http://www.cniteyes.com/index.php?app=index&amp;mod=Index&amp;act=index"><img src="http://www.cniteyes.com/addons/theme/_stastic/image/logo.png" class="logo-web"><img src="http://www.cniteyes.com/addons/theme/_stastic/image/logo-wap.png" class="logo-wap"></a>
+                </div>
+                <div class="nav-mb">
+                    <a href="http://www.cniteyes.com/" class="a-tab cur">首页</a>
+                    <a href="http://www.cniteyes.com/document" class="a-tab ">文库</a>
+                    <a href="http://www.cniteyes.com/product" class="a-tab ">产品</a>
+                </div>
+                <div class="nav">
+                    <ul>
+                        <li class="link"><a href="http://www.cniteyes.com/" class="a-tab cur">首页</a></li>
+                        <li class="link"><a href="http://www.cniteyes.com/document" class="a-tab ">文库</a></li>
+                        <li class="link"><a href="http://www.cniteyes.com/product" target="_blank" class="a-tab ">产品</a></li>              
+                        <!--<li class="link"><a href="http://isf.cniteyes.com" class="a-tab">软交会</a></li> -->                  
+                    </ul>
+                </div>
+                               <div class="search">
+                     <form class="head-search" method="GET" action="http://www.cniteyes.com/index.php?app=public&amp;mod=Search&amp;act=index" model-node="search_form">
+                        <input type="hidden" name="app" value="public">
+                        <input type="hidden" name="mod" value="Search">
+                        <input type="hidden" name="act" value="index">
+                        <input type="hidden" name="type" value="Article">
+                        <input type="text" placeholder="搜索" event-node="public_search_key" autocomplete="off" name="search_key" value="">
+                        <a href="javascript:;" event-node="public_search_button"><i class="icon-search"></i></a>
+                    </form>
+                </div>
+        </div> 
+        </div>
+
+
+
+<link href="http://www.cniteyes.com/addons/theme/_stastic/js/viewer/viewer.min.css?v=201321" rel="stylesheet" type="text/css">
+
+
+	<div class="column">
+		<div class="side-at">
+			<div class="pie-card">
+				<div class="item">
+					<div class="item-media">
+						<a href=""></a>
+						<img src="http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eq6N5oEOjp4ljOkMOibq67YlvnygicPzIlCUU7E8X5ApJ3M5armrQpfyHAeI7czCDLhDBZQBHKwjUpg/132" width="50px">
+					</div>
+					<div class="item-content">
+						<div class="item-name">
+							<a href="http://www.cniteyes.com/index.php?app=public&amp;mod=Profile&amp;act=article&amp;uid=1505">NSZ</a><div class="item-badge">作者</div>
+						</div>
+						<div class="item-text"></div>
+					</div>
+					
+				</div>
+				<ul class="item-total">
+					<li><a href="http://www.cniteyes.com/index.php?app=public&amp;mod=Profile&amp;act=article&amp;uid=1505"><strong>284</strong><span>文章</span></a></li>
+					<li><a href="http://www.cniteyes.com/index.php?app=public&amp;mod=Profile&amp;act=file&amp;uid=1505"><strong>0</strong><span>文档</span></a></li>
+					<li><strong>226.56 万</strong><span>阅读</span></li>
+					<li class="last"><strong>0</strong><span>打赏</span></li>
+				</ul>
+									<ul class="item-list">
+							<li><a href="http://www.cniteyes.com/archives/36143"><i></i>ToB公司如何做年度规划？</a></li><li><a href="http://www.cniteyes.com/archives/36141"><i></i>揭秘阿里的帝国式管理</a></li><li><a href="http://www.cniteyes.com/archives/36140"><i></i>5G 一旦落地，怎么做？</a></li><li><a href="http://www.cniteyes.com/archives/36136"><i></i>关于5G 的十点思考</a></li><li><a href="http://www.cniteyes.com/archives/36135"><i></i>“风口论”瓦解，新拐点已至！2020年，资本将聚焦何处？</a></li>						</ul>
+													<div class="item-load"><a href="http://www.cniteyes.com/index.php?app=public&amp;mod=Profile&amp;act=article&amp;uid=1505">查看更多文章</a></div>	
+									</div>
+			
+						<div class="pie-banner" style="display:none">
+				<a href="https://www.wescrm.com/">
+					<img src="http://www.cniteyes.com/was-7267-aefbbe820ab4c73909463a0bad4ef5b3-cut_340_200.jpg" title="企微云-营销场景化的企业微信运营平台 WeSCRM.COM" alt="企微云">
+				</a>
+			</div>
+			
+		</div>
+		<div class="main-at" model-node="main_box" ctime="1578366113" model-args="max_time=100">
+			<div class="pie-detail js_pie_1578366113" ctime="1578366113" atitle="AI的下一个战场，一文看懂认知智能">
+				<!-- 分享 -->
+				<div class="layer-toolbar js_tb_1578366113">
+					<div class="share-list" model-node="share_list">
+    <div class="share-group">
+        <div class="item">
+        <a href="http://share.baidu.com/s?type=text&amp;searchPic=0&amp;sign=on&amp;to=tsina&amp;title=AI的下一个战场，一文看懂认知智能&amp;key=&amp;url=http%3A%2F%2Fwww.cniteyes.com%2Farchives%2F36090" target="_blank" ref="nofollow" class="weibo">
+            <i class="icon-weibo"></i>
+        </a>
+        </div>
+        <div class="item">
+        <a href="javascript:void(0)" ref="nofollow" class="weixin mobile-hide" event-node="jsCode" event-args="top=0&amp;left=0"><i class="icon-weixin-fill"></i></a>
+        </div>
+    </div>
+    <div class="panel-weixin">
+        <div class="weixin-section"><p><img src="http://www.cniteyes.com/index.php?app=widget&amp;mod=Attach&amp;act=qrcode&amp;data=aHR0cDovL3d3dy5jbml0ZXllcy5jb20vYXJjaGl2ZXMvMzYwOTA=" alt="534401"></p></div>
+        <h3>打开微信“扫一扫”，打开网页后点击屏幕右上角分享按钮</h3>
+    </div>
+</div>
+
+<script type="text/javascript">
+M.addEventFns({
+    'jsCode':{
+        mouseenter:function(){
+            var _obj = $(this);
+            var args = M.getEventArgs(this);
+            var PWXWidth = $(".panel-weixin").outerWidth();
+            var PWXHeight = $(".panel-weixin").outerHeight();
+            $(".panel-weixin").addClass("open");
+        },
+        mouseleave:function(){
+            $(".panel-weixin").removeClass("open")
+        }
+    }
+});
+</script>					<div class="item item-last">
+						<a href="#pie-comment36090" title="评论"><i class="icon-comment"></i><span class="comment-text">评论</span></a>
+					</div>
+				</div>
+				<div class="item-header">AI的下一个战场，一文看懂认知智能</div>
+								<div class="item-row">
+					<div class="item-show">
+						<span><i class="icon-look"></i>9647</span>
+						<span><i class="icon-talk"></i><label class="js_comment_nums" row_id="36090">0</label></span>
+					</div>
+
+					<div class="item-date">
+						2020-01-07 11:01					
+						&nbsp;&nbsp;&nbsp;文章来源：<span style="color:#ff4d00">爱分析ifenxi 原创：专业研究的（ifenxicom）</span>					</div>
+				</div>
+				<div class="item-summary">
+					<i class="iquote"></i>
+					<span>文章摘要：</span>知识图谱驱动的认知智能时代来临				</div>
+				<!-- 语音START -->
+				<div class="item-text sxz-editor">
+				<!--文章开始--><p>当前，人工智能的应用已不算新鲜，从 B 端的物体识别、智能路径规划等各类提升效率的应用，到 C 端的智能交互等代替人工的场景，人工智能虽不敢说到了完全成熟的地步，但其在日常生活和产业中的持续渗透已是既定事实。</p><p>经过多年的跟踪调研，爱分析发现，人工智能在行业的渗透有着明显的规律和阶段性。从大的层面来说，人工智能的发展，可以归结为三个阶段——感知智能、认知智能和行动智能。</p><p>在过去几年中，人工智能的渗透处于感知智能阶段，四小龙的诞生就是典型的代表。未来，人工智能行业将全面进入认知智能时代。</p><p style="text-align: center;"><img src="/data/upload/editor/2020/0107/10/1578365667571209.png" title="1578365667571209.png" alt="2.png"></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(127, 127, 127);">人工智能行业图谱</span><br></p><p>感知智能主要是数据识别，需要完成对大规模数据的采集，以及对图像、视频、声音等类型的数据进行特征抽取，完成结构化处理。<br></p><p>认知智能则需要在数据结构化处理的基础上，理解数据之间的关系和逻辑，并在理解的基础上进行分析和决策，即认知智能包括理解、分析、决策三个环节。<br></p><p>行动智能是在认知智能基础之上的执行，主要是人机协同。人机协同是在复杂的环境下，以知识图谱为支撑，进行数据推理，合理调度资源，使人类智能、人工智能和组织智能有效结合，打通感知、认知和行动的智能系统。</p><p><br></p><p style="text-align: center;"><span style="font-size: 16px;"><strong><span style="color: rgb(0, 32, 96);">一：AI 已全面进入认知智能时代</span></strong></span><br></p><p>当前，随着人工智能在安防、智能音箱等领域的大规模应用落地，整个人工智能行业已经走过感知智能阶段，进入认知智能时代。<br></p><p>体现在两个方面，一是人工智能行业的基础设施——数据的标准化，已经趋于成熟；二是行业实际需求的牵引，行业亟需机器基于行业 Know-how、业务经验沉淀提供决策支持类应用。</p><p style="text-align: center;"><img src="/data/upload/editor/2020/0107/10/1578365795759038.png" title="1578365795759038.png" alt="3.png"></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(127, 127, 127);">行业从感知智能到认知智能的体现</span><br></p><p>在感知智能阶段，智能语音和计算机视觉技术的成熟，以及自然语言处理技术在文本识别等场景的大规模应用，使得大量的多源异构、非结构化数据，成为可应用于知识库和知识图谱构建的标准化、结构化数据，完善了认知智能发展的基础设施。<br></p><p>比如，感知智能相关的机器视觉、语音识别、自然语言处理领域，已有大量的通用数据库，应用于视觉、语音、文本等各类数据的识别训练。<br></p><p style="text-align: center;"><img src="/data/upload/editor/2020/0107/10/1578365822688240.png" title="1578365822688240.png" alt="4.png"></p><p style="text-align: center;"><span style="color: rgb(127, 127, 127); font-size: 14px;">感知智能通用数据库</span></p><p style="text-align: center;"><span style="color: rgb(127, 127, 127); font-size: 14px;">数据来源：2018 世界人工智能产业发展蓝皮书</span></p><p>感知智能在识别领域的行业应用也早已普及，比如语音识别、通用物体识别、人脸识别、目标跟踪、姿态识别等。<br></p><p style="text-align: center;"><img src="/data/upload/editor/2020/0107/10/1578365857106252.png" title="1578365857106252.png" alt="5.png"></p><p style="text-align: center;"><span style="color: rgb(127, 127, 127); font-size: 14px;">感知智能行业应用</span><br></p><p>从行业应用角度来看，人工智能的下一场，将进入认知智能的战场。<br></p><p>在感知智能解决数据采集和识别问题的基础上，各行各业的业务部门开始对认知智能带来的低运营成本（比如更高效节省时间成本、或者是直接的人力替代）、以及知识图谱驱动的业务决策有了越来越明确的诉求。<br></p><p style="text-align: center;"><img src="/data/upload/editor/2020/0107/10/1578365877716961.png" title="1578365877716961.png" alt="6.png"></p><p style="text-align: center;"><span style="color: rgb(127, 127, 127); font-size: 14px;">认知智能行业应用需求</span><br></p><p>以认知智能渗透较为领先的金融行业为例，当前金融行业面临运营成本高，客户服务压力大；产品服务单一，无法很好的覆盖长尾客户；交易欺诈风险高等实际业务问题，这些都无法通过感知智能技术解决，而知识图谱驱动的认知智能则能提供相应的解决方案。<br></p><p style="text-align: center;"><img src="/data/upload/editor/2020/0107/10/1578365895274148.png" title="1578365895274148.png" alt="7.png"></p><p style="text-align: center;"><span style="color: rgb(127, 127, 127); font-size: 14px;">知识图谱驱动的认知智能在金融领域的业务决策应用</span><br></p><p>基于语义理解的智能客服能够与客户就简单问题进行人机交互，降低金融机构客户服务的成本，而且效率和客户体验都能大大提升。人工客服培训成本高、服务效果难以统一、而且流动性很大。智能客服能够依靠知识图谱回答简答的、重复性的问题，减少人工客服使用，提升银行等金融机构客服效率及效果。不仅仅是金融领域，全行业来看，根据德勤的数据，当前客服机器人已替代 40%-50% 的人工客服工作，预计到 2020 年，85% 的客服工作将依靠人工智能完成。<br></p><p>在理财高端市场，理财规划师能够提供专属服务，但在中产之下的长尾市场，付费能力有限，单靠理财师也很难覆盖大众的个性化需求。利用大数据、人工智能技术开发的智能投顾，能够向更多客户提供个性服务，助力零售银行低成本覆盖广大长尾市场。比如，招商银行推出的「摩羯智投」可提供投资理财咨询，2016 年户均购买金额为 3.69 万元，机器在理财师很难覆盖的领域大显身手。<br></p><p>相比于人工信贷审核，人工智能不仅效率高，更重要的是能够进行更多维度的关联数据分析，将知识图谱应用于风控环节。例如蚂蚁金服推出的「蚁盾」、「芝麻信用」，网易金融推出的风控系统「北斗」，相比于比传统银行，这类解决方案能够基于更多维度的用户数据（知识图谱可以关联到用户职业、行为、社交等各类数据），开展更高效的信贷业务，同时也能降低交易欺诈等信贷风险。<br></p><p>在公安领域，行业应用也已经从最初的人脸识别、车辆识别等感知层应用，向情报研判等认知智能应用发展。<br></p><p>近些年公安大数据建设、各垂直系统的纵向业务拉通，各单位横向数据的融合和分层解耦奠定了公安业务数据规范化、标准化的基础，同时感知智能的快速发展，基于人脸特征的聚类、分类，一人一档、一车一档，视图库的建设，图像不仅能辨认人，更能连接人、管理人。视频网和公安信息网的内容融合趋势愈发强烈，构建全域感知图谱，并在此基础上构建公安知识图谱，驱动更多上层应用的时机日益成熟。<br></p><p style="text-align: center;"><img src="/data/upload/editor/2020/0107/10/1578365922724083.png" title="1578365922724083.png" alt="8.png"></p><p style="text-align: center;"><span style="color: rgb(127, 127, 127); font-size: 14px;">认知智能在公安领域的应用</span></p><p style="text-align: center;"><span style="color: rgb(127, 127, 127); font-size: 14px;">数据来源：明略科技</span></p><p>在这样大背景下，明略科技将海量感知数据纳入知识构建与积累，打造了认知力更强、时效性更快、更具行动力的全域知识图谱，让机器更好的进行推理与规划，从而从平台服务、数据服务到应用服务构建了由感知到认知再到行动的完整闭环，形成了基于 AI 技术的警务支撑体系和安全保障体系，目前已经广泛应用于专业研判、情指一体化、社区治安防控等场景中。</p><p><br></p><p style="text-align: center;"><span style="font-size: 16px;"><strong><span style="color: rgb(0, 32, 96);">二：知识图谱将成为认知智能核心竞争力</span></strong></span><br></p><p>在感知智能阶段，AI 不具备理解和推理能力，从特征抽取和不断的学习训练中完成识别任务，机器解决的多是人类能够解决的模式识别类的问题，重在提升效率。<br></p><p>而认知智能则注重与行业知识的融合，通过 NLP 和知识图谱两大核心技术来构建行业知识图谱，机器能够通过知识图谱挖掘隐性关系，洞察「肉眼」无法发现的关系和逻辑，用于最终的业务决策，实现更深层次的业务场景落地。<br></p><p>比如，借助知识图谱技术，业务流程中积累的数据将被沉淀为组织经验和知识，结合数据作为内部不同部门沟通的翻译转换器，降低沟通成本。<br></p><p>以明略科技服务的上海申通地铁来说，基于作业指导说明及过往的维修工单，明略科技轨交数据中台建立了轨交运维知识图谱，将老师傅经验进行沉淀传承：通过工况相似度进行检修方法推荐，形成「故障检修建议」推送给员工进行参考。<br></p><p>同时，针对各种应急处置场景，基于实时车辆状态，系统将司机操作数据实时还原给地面运营工作者，从而规避了司机与运营者直接沟通话语体系不一致的问题，运营者根据数据反馈可为司机提供最适当的应急处置建议。<br></p><p>因此，构建和积累行业知识图谱，将是认知智能时代的核心竞争力。<br></p><p>基于知识图谱的决策应用在公安领域可及时、准确推送破案线索，大幅度提升民警办案效率。明略科技在某省公安厅部署的合成作战智能案件侦破平台，在实际应用中，推送线索速度比传统同类系统提升 10 倍，准确率提升 50%。<br></p><p>在服务公安客户的过程中，明略科技积累了三十多大类公安数据来源中的 6529 张表和 1538 亿条数据，沉淀了 80% 以上不同种类公安数据的处理经验。其公安知识图谱系统能够实现人、事、地、物、组织、虚拟身份的关联，目前已经部署到 60 多个省、市级公安厅局，广泛应用于专业研判、逃犯追踪等各类场景。<br></p><p>未来，随着业务需求的挖掘，不仅仅是在工业、公安领域、零售、金融、医疗等领域都将对基于知识图谱的分析、决策类应用产生巨大需求。<br></p><p><br></p><p style="text-align: center;"><strong><span style="color: rgb(0, 32, 96); font-size: 16px;">三：先发优势明显，构筑「全面型」认知智能供应商</span></strong><br></p><p>在认知智能领域，除了积累行业知识图谱，供应商实力还体现在算法能力、实现解决方案的工程化能力、以及交付实施能力上。<br></p><p style="text-align: center;"><img src="/data/upload/editor/2020/0107/10/1578365993720244.png" title="1578365993720244.png" alt="9.png"></p><p style="text-align: center;"><span style="color: rgb(127, 127, 127); font-size: 14px;">认知智能供应商能力体系</span></p><p>在认知智能供应商能力体系中，行业知识图谱构建和积累能力，既代表了供应商对于行业的洞察和对业务场景的理解，也代表了供应商的底层数据治理能力。知识图谱是认知智能解决方案必须具备的核心能力，也是整体解决方案的基础。<br></p><p>算法领域，头部供应商之间不会有质的差异，尤其到产业应用成熟阶段的算法本身，大多是公开发表的。但是具体到知识图谱层面的应用，需要进行一定的完善和处理，比如能够实现关联关系挖掘的最短路径、聚类分析等经典算法，需要做并行化、分布式化处理，才能达到图挖掘技术的所需的性能要求。<br></p><p>工程化和交付能力，多是在服务行业头部客户过程中积累的业务经验和组织经验等。<br></p><p>对于认知智能供应商来说，以上四类能力的练就绝非一日之功，根据爱分析的调研和研究，人脸识别、语音识别等感知智能类解决方案，能够跨行业、跨场景实现应用落地，即感知智能供应商更容易凭借技术优势，在各个领域快速落地。<br></p><p>而认知智能解决方案在跨行业和跨场景层面则更具挑战，主要是由于行业知识图谱的构建和积累需要深耕细作。<br></p><p>这也意味着，未来认知智能的落地将是行业性解决方案的输出。因此，优先积累行业知识图谱的认知智能供应商，将具备先发优势，并凭借服务头部客户的经验，以及在历次项目实施过程中，打磨算法、工程化和交付能力，构建其核心竞争力。<br></p><p>比如，认知智能领域的典型供应商明略科技，已在公安、工业、零售、金融、政务等领域实现基于知识图谱的解决方案落地。<br></p><p>明略科技从 2006 年开始深度钻研海量数据采集、存储、计相关技术，2008 年在商业领域实现洞察分析类场景落地，2015 年中标中车株洲所项目，开始携其数据治理能力进军工业。到今天，明略科技已有十多年的数据治理能力积累、算法积累、以及工程化和交付能力积累。近年来，明略科技正致力于各行业的知识图谱构建，构建起在认知智能领域的竞争力。<br></p><p><br></p><p style="text-align: center;"><span style="font-size: 16px;"><strong><span style="color: rgb(0, 32, 96);">四：认知智能落地挑战重重，需要从数据治理到业务理解的全新解决方案</span></strong></span><br></p><p>虽然认知智能的行业大势已定，但实际落地依然面临技术和业务双重挑战。其中，中台的构建是认知智能解决方案落地的重点，也是数据治理、业务梳理挑战所在。<br></p><p>传统企业分为前台和后台部门，前台是以客户为中心的组织，通常是事业群或事业部，后台是各种职能部门。但这种组织长期发展扩大的过程中，除了后台人事和财务管控以外，公司后台很难真正的服务支撑前台部门，反而很多情况下会成为管理束缚。<br></p><p>所以多元化的组织要想长期稳健发展，需要把前台部门的核心可复用的能力再剥离出来，成为企业相比于竞争对手差异化的核心竞争力，这个部分叫中台。<br></p><p>中台的核心竞争力打造主要分为两个部分，核心能力、核心资源。数据未来会成为很多企业的核心资源，所以数据中台就是未来很多企业中台的重要组成部分。<br></p><p>沉淀了业务模块和逻辑的业务中台，也是企业中台的重要组成部分，一般每个行业都能抽象出相应的业务中台，某些通用的场景也能抽象出业务中台，应用于各行各业。<br></p><p>在中台的支持下，认知智能相关的行业应用场景落地就更为便捷化和敏捷化。比如金融领域，认知智能相关的应用场景有反欺诈、反洗钱等。</p><p>在认知智能解决方案实际的落地过程中，面临重重挑战：比如，由于需要处理海量数据，必须用分布式存储和计算；并且行业知识图谱的构建，本身就需要数据积累和基于业务场景的数据理解；再者，很多分析决策类应用的实现，都依赖于基于知识图谱的关联关系挖掘……</p><p>该如何跨越挑战，实现认知智能在行业的深度应用？</p><p>基于对人工智能行业的多年研究探讨，对金融、零售、政务等各个行业的多年跟踪，以及对数字化转型浪潮中认知智能渗透的深度理解，爱分析将在随后发布的《中国认知智能行业报告》中揭晓答案，敬请期待！</p><!--文章结束-->
+				</div>
+														<div class="item-text sxz-editor">
+											</div>
+
+					<div class="item-text sxz-editor">
+						<p><span style="font-size: 16px;"></span></p>
+						<hr>
+						<p style="margin-top:0;margin-right:0;margin-bottom:14px;margin-left: 0">
+							<strong><span style="font-size:14px;color:#5F5E5A">版权声明：</span></strong>
+						</p>
+						<p style="margin-top:0;margin-right:0;margin-bottom:14px;margin-left: 0">
+							<span style="font-size:14px;color:#5F5E5A">凡本网内容请注明来源：T媒体（http://www.cniteyes.com）”的所有原创作品，版权均属于易信视界（北京）信息科技有限公司所有，未经本网书面授权，不得转载、摘编或以其它方式使用上述作品。</span>
+						</p>
+						<p style="margin: 0px 0px 14px; word-wrap: break-word;">
+							<span style="font-size:14px;color:#5F5E5A">本网书面授权使用作品的，应在授权范围内使用，并按双方协议注明作品来源。违反上述声明者，易信视界（北京）信息科技有限公司将追究其相关法律责任。</span>
+						</p>
+					</div>
+					<div class="WD-tags">
+	<div class="tags-title">标签:</div>
+	<div class="tags-inner">
+		<a href="http://www.cniteyes.com/index.php?app=index&amp;mod=Article&amp;act=taglists&amp;tag_id=3010">
+			<span>AI</span>
+			</a><a href="http://www.cniteyes.com/index.php?app=index&amp;mod=Article&amp;act=taglists&amp;tag_id=6973">
+			<span>认知智能</span>
+			</a>	</div>
+</div>
+					<div class="WD-laud">
+	<div class="item-action">
+	<a href="javascript:;" onclick="ui.box.load(U('public/Wx/praise',{ type:'article','row_id':'36090','is_payfee':'0'}))" class="button-big-orange active"><span>
+		打赏支持			</span></a></div>
+		<div class="item-member">
+		<div></div>	</div>
+</div>									<div class="page-nav">
+                        <dl class="nav-prev">
+                            <dt>上一篇：</dt>
+                            <dd><a href="http://www.cniteyes.com/archives/36089">2019互金战事：BATJ带资入场 中小玩家“战死沙场”</a></dd>
+                        </dl>                        <dl class="nav-next">
+                            <dt>下一篇：</dt>
+                            <dd><a href="http://www.cniteyes.com/archives/36091">轻流 CEO 薄智元：BPM不是阳春白雪，它要实实在在落地企业业务价值</a></dd>
+                        </dl>                     </div>
+								<div id="pie-comment36090"></div>
+				<!-- 评论 -->
+			</div>
+			<div class="pie-comment" model-node="pei_comment">
+				<div class="item-title"><h4>评论</h4></div>
+				<div class="comment-box">
+<!--评论框-->
+<div class="comment-send clearfix" model-node="comment_textarea">
+    <div class="comment-count" style="display:none">共<lable class="js_comment_nums" row_id="36090">0</lable>讨论</div>
+    <div class="item-face"><img src="http://www.cniteyes.com/addons/theme/_stastic/image/noavatar/middle.jpg" width="50px"></div>
+    <div class="item-content">
+        <div class="text-comment-wrap">
+            <textarea class="input-comment" event-node="mini_editor_textarea" placeholder="请登录后参与评论..." readonly="true"></textarea>
+        </div>
+        <div class="action">
+            <a class="button-green active right" onclick="ui.box.load(U('public/Passport/login'))"><span>评论</span></a>
+                    </div>
+    </div>
+</div>
+
+<!--评论列表-->
+<div class="comment-list js_comment_list_box" style="display:none">
+            <!--页码-->
+    </div></div>			</div>
+		</div>
+	</div>
+	<div class="layermenu">
+					</div>
+        <div class="f-clear"></div>
+        <div class="footer">
+            <div class="copyright">商务合作 T媒体——18600161217<br><a href="http://beian.miit.gov.cn/" rel="nofollow" target="_blank">京ICP备13035016号-1</a> 
+<br>
+友情链接： <a href="https://www.wescrm.com/" target="_blank" title="企微云-营销场景化的企业微信运营平台 WeSCRM.COM">企微云</a> &nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://isf.cniteyes.com/" target="_blank">软交会</a>
+            </div>
+
+        </div>
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8665f613e2db3be437f3f5a07495ab70";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+<script type="text/javascript" src="http://www.cniteyes.com/addons/theme/_stastic/js/viewer/viewer.min.js?v=201321"></script>
+
+<script type="text/javascript">
+
+var Viewer = window.Viewer;
+var pictures = document.querySelector('.sxz-editor');
+var viewer = new Viewer(pictures);
+
+M.addModelFns({
+	
+	'js_manage':{
+		click:function(){
+			if ( $(".layermenu").is(":hidden") ) {
+				$(".layermenu").css({
+					'top':$(this).offset().top+26+'px',
+					'left':$(this).offset().left-150+16+'px'
+				}).show();
+			}else{
+				$(".layermenu").hide();
+			};
+		}
+	}
+});
+
+var deleteArticle = function(article_id) {
+	ui.confirmBox('提示','是否删除此文章?',function(){
+		$.post(U('index/Article/doDelArticle'),{article_id:article_id},function(res){
+			if (res.status == 1) {
+				ui.success('删除成功');
+				setTimeout(function(){
+					location.href = U('index/Article/index');
+				},1500);
+			}else{
+				ui.error(res.info);
+			}
+		},'json');
+	});
+}
+
+var recommendArticle = function(article_id,status) {
+	var tips = status == 1? '是否设置为每日精选':'是否取消每日精选？';
+	ui.confirmBox('提示',tips,function(){
+		$.post(U('index/Article/recommendOperate'), {article_id:article_id,status:status},function(res){
+			if (res.status == 1) {
+				ui.success('操作成功');
+				setTimeout(function(){
+					location.reload();
+				},1500);
+			}else{
+				ui.error(res.info);
+			}
+		},'json');
+	});
+}
+</script>
+    <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+    <script type="text/javascript">
+    var WEIXIN_CONFIG = {
+        appId: 'wx77ef1501fe9803b2',
+        timestamp: 1731224523,
+        nonceStr: '8JbjgbLI7WW4Jwcl',
+        signature: 'e4a127a059af9d29ff9f3eb6aea95f23e722f113'
+    };
+    WEIXIN_CONFIG['debug'] = false;
+    WEIXIN_CONFIG['jsApiList'] = [
+        'onMenuShareTimeline', 'onMenuShareAppMessage', 'onMenuShareQQ', 'onMenuShareWeibo'
+    ];
+    Share.WeChat.init(WEIXIN_CONFIG,{
+        title: "AI的下一个战场，一文看懂认知智能 - T媒体",
+        desc: "知识图谱驱动的认知智能时代来临",
+        link: "http://www.cniteyes.com/archives/36090",
+        imgUrl: "http://www.cniteyes.com/was-6523-8749f98cc091e77145764aebebe45610-self.jpg"
+    });
+    </script><div id="topcontrol" title="移动到顶部" style="position: fixed; bottom: 30px; right: 20px; opacity: 0; cursor: pointer;"><a href="#top" class="top_stick">&nbsp;</a></div></body></html>

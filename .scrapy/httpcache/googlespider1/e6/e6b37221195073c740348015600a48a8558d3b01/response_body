@@ -1,0 +1,4673 @@
+<!DOCTYPE html><html lang="zh"><head>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="icon" href="/etc.clientlibs/pwc/clientlibs/css_common/resources/image/favicon.ico" type="image/x-icon">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
+	
+    
+    
+    
+	<script src="/etc.clientlibs/clientlibs/granite/jquery.min.f65891607efbe75b84a8031849cec6c7.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.308082b4c347f4fec37ffef277d39d0e.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.d9075d4175ab7b0e3ccf4305a4089645.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js"></script>
+<script src="/etc.clientlibs/pwc/clientlibs/components-digitaldataanalytics.min.594e86bc3088dca581ea8df9b0eafa46.js"></script>
+
+    <script>
+        createObject('page.skipOptanonCall',false);
+    </script>
+	
+    
+        <script type="text/cookie" id="cookie-consent-script-popup">
+	    			<div class="cookie-wrapper" id="cookieWrapper">
+					<div class="container">
+				 		<div class="row">
+				   			<div class="col-md-12 cookie-container">
+				  	 			<p class="cookie-text">
+									{{description}}
+                                </p>
+			         			<button class="btn cookie-accept" id="acceptCookie">
+			           				{{accept}}
+			         			</button>
+				   			</div>
+				 		</div>
+					</div>
+				</div>
+		</script>
+        <script>
+            var pwcCookiePrefix = "pwc-cookie-accept-";
+            $(document).ready(function(){
+                var $cookieConsentPopupScript = $("#cookie-consent-script-popup");
+                $("body").append("<input type='hidden' id='is-custom-cookie-consent-present' value='true'/>");
+                var pageTerritory = $("#pageTerritory").val();
+                var pwcAcceptCookie = Cookies.get(pwcCookiePrefix + pageTerritory);
+                if(!pwcAcceptCookie){
+                    var cookieHtml = $cookieConsentPopupScript.html();
+                    cookieHtml = cookieHtml.replace("{{description}}", cookieI18nValues.cookieDescription);
+                    cookieHtml = cookieHtml.replace("{{accept}}", cookieI18nValues.cookieAcceptButton);
+                    $("body").prepend(cookieHtml);
+                    $("#cookieWrapper").show();
+                }
+                $cookieConsentPopupScript.remove();
+            });
+        </script>
+    
+
+<title>普华永道中国：未来企业的智能之路：企业GenAI作业模式变革
+</title>
+<meta http-equiv="content-language" content="zh_cn">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:title" content="未来企业的智能之路：企业GenAI作业模式变革">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="PwC">
+<meta property="og:description" content="近期普华永道就生成式人工智能（GenAI）领域发布了一系列的专业洞察，内容涵盖未来作业模式、企业创新机制、商业价值、服务监管和产业融合等，覆盖了GenAI发展的多个方面。本文将深入探讨GenAI对企业作业模式带来的颠覆性变革，展望未来企业作业的智能化之路。">
+
+<meta property="og:image" content="https://www.pwccn.com/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024.jpg">
+
+
+<meta name="robots" content="index">
+<meta name="keywords" content="AI, GenAI, AIGC, AIGS, UGC, PGC, 人机交互, TMT, Large Language Model, LLM, 人工智能、大数据分析、物联网、区块, 大模型, AI Agent, GenAI作业模式变革">
+<meta name="description" content="近期普华永道就生成式人工智能（GenAI）领域发布了一系列的专业洞察，内容涵盖未来作业模式、企业创新机制、商业价值、服务监管和产业融合等，覆盖了GenAI发展的多个方面。本文将深入探讨GenAI对企业作业模式带来的颠覆性变革，展望未来企业作业的智能化之路。">
+<meta name="author" content="PricewaterhouseCoopers">
+<meta name="pwcTitle" content="未来企业的智能之路：企业GenAI作业模式变革">
+<meta name="pwcLocale" content="zh_cn">
+<meta name="pwcCountry" content="cn">
+
+
+<meta name="pwcGeo.default" content="CN">
+<meta name="pwcLang" content="zh">
+<meta name="pwcTag" content="Telecommunications, Media &amp; Technology||通信、媒体和科技">
+<meta name="pwcHideLevel" content="0,2">
+<meta name="target" content="">
+<meta name="pwcReleaseDate" content="2024-03-14T10:04:00.000+08:00">	
+<meta name="pwcLastModifiedDate" content="2024-03-20T03:48:40.544Z">	
+<meta name="pwcselectednav" content="null">
+<meta name="viewport" id="pwcviewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" href="/content/pwc/script/network/apple-touch-icon.png">
+
+<link rel="canonical" href="https://www.pwccn.com/zh/issues/generative-ai/transformation-of-genai-operation-mode-in-enterprises-mar2024.html">
+<meta property="og:url" content="https://www.pwccn.com/zh/issues/generative-ai/transformation-of-genai-operation-mode-in-enterprises-mar2024.html">
+
+
+<script>
+    var  page ="普华永道中国：未来企业的智能之路：企业GenAI作业模式变革";
+    var anlyticsEscapeTitle = "未来企业的智能之路：企业GenAI作业模式变革";
+    var anlyticsunescapeTitle = $('<textarea />').html(anlyticsEscapeTitle).text();
+    var  templatePath ="/conf/pwc/settings/wcm/templates/content-detail-page-template";
+    var pwcReleaseDate = "2024-03-14T10:04:00.000+08:00";
+    var pageNameUnescape = $('<textarea />').html(page).text();
+    //PR-13329 change -- start
+    var jsonData = {};
+    if(Object.keys(jsonData).length){
+        var taxonomyDataKey = jsonData.DataLayerKey !=null ? jsonData.DataLayerKey : "" ;
+        var taxonomyDataValue =jsonData.DataLayerValue!=null ? jsonData.DataLayerValue : "";
+        createObject(taxonomyDataKey,taxonomyDataValue);
+    }
+    
+    //PR-13329 change -- end
+    createObject('page.pageInfo.pageName', pageNameUnescape);
+    createObject("page.pageInfo.pageType",templatePath.substring(templatePath.lastIndexOf('/')  + 1));
+    createObject('page.content.publishDate', pwcReleaseDate);
+    createObject('page.content.contentTitle', anlyticsunescapeTitle);
+    createObject('page.content.contentType', "article");
+    
+    //PR-12825 change --start
+    var pageContentJsonObject = {"ContentFullPathValueWithoutQueryParams":"/content/pwc/cn/zh/issues/generative-ai/transformation-of-genai-operation-mode-in-enterprises-mar2024.html","ContentFullPathKey":"page.content.contentFullPath"};
+    var urlQueryParams = new URLSearchParams(window.location.search);
+    var pageUrlPath= pageContentJsonObject.ContentFullPathValueWithoutQueryParams;
+    if(urlQueryParams!=''){
+    	pageUrlPath=pageUrlPath.concat("?").concat(urlQueryParams);
+    }
+    createObject(pageContentJsonObject.ContentFullPathKey,pageUrlPath);
+  	//PR-12825 change --end
+  	
+    //Added old dataLayer object value in digitalData.site object.
+    digitalData.site ={"SiteValues":{"fullTagParent":"/","businessFunctionParent":"","topicsParent":"","funnel":"","businessFunction":"","industry":"tmt","stakeholders":"","funnelParent":"","fullTag":"/","los":"","campaigns":"","economicBuyers":"","technologyParent":"","folderDirectory":"pwc/cn/zh/issues/generative-ai","contentType":"","campaignsParent":"","industriesParent":"","topics":"","pwcContentTypeParent":"","economicBuyersParent":"","servicesParent":"","services":"","technology":"","subLos":"","pwcContentType":"","contentLengthParent":"","industries":"","businessImperatives":"","contentLength":"","stakeholdersParent":"","businessImperativesParent":""},"additionalTags":"","business":{"businessChallenge":"","businessTopic":""},"accountRegistration":false};
+</script>
+<script type="application/ld+json">
+{
+    "@type": "Thing",
+    "@context": "http://schema.org",
+    "image": "https://www.pwccn.com/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024.jpg",
+    "name":"普华永道中国：未来企业的智能之路：企业GenAI作业模式变革",
+    "description":"近期普华永道就生成式人工智能（GenAI）领域发布了一系列的专业洞察，内容涵盖未来作业模式、企业创新机制、商业价值、服务监管和产业融合等，覆盖了GenAI发展的多个方面。本文将深入探讨GenAI对企业作业模式带来的颠覆性变革，展望未来企业作业的智能化之路。"
+}
+</script>
+
+    
+	<script>
+		var currentPageTerritory = 'cn';
+	</script>
+    
+
+	
+    <script src="/etc.clientlibs/foundation/clientlibs/shared.min.e9d9a3990d7779c2e8e3361187f3d36b.js"></script>
+
+
+	
+
+	
+    
+
+	
+    
+
+    
+
+
+
+
+
+    
+
+
+
+    
+
+	
+	
+
+	
+	
+
+  
+  
+
+    
+
+	
+
+    
+    
+        <script>
+            (function(win, doc, style, timeout) {
+                var STYLE_ID = 'at-body-style';
+                function getParent() {
+                    return doc.getElementsByTagName('head')[0];
+                }
+                function addStyle(parent, id, def) {
+                    if (!parent) {
+                        return;
+                    }
+                    var style = doc.createElement('style');
+                    style.id = id;
+                    style.innerHTML = def;
+                    parent.appendChild(style);
+                }
+                function removeStyle(parent, id) {
+                    if (!parent) {
+                        return;
+                    }
+                    var style = doc.getElementById(id);
+                    if (!style) {
+                        return;
+                    }
+                    parent.removeChild(style);
+                }
+                addStyle(getParent(), STYLE_ID, style);
+                setTimeout(function() {
+                    removeStyle(getParent(), STYLE_ID);
+                }, timeout);
+            }(window, document, "body {opacity: 0 !important}", 3000));
+        </script>
+    
+	
+    
+        <script>
+            var pageTerritoryForDTM = 'cn';
+        </script>
+        <script src="//assets.adobedtm.com/94ed34440bb5/527900b2ae4b/launch-519328edb4b5.min.js" type="text/javascript" async=""></script>
+        <script src="/etc.clientlibs/pwc/clientlibs/components-analytics.min.09fae73c6d4e6a64a3d6fec9bf69a6a7.js"></script>
+
+    
+    
+
+    
+    	
+    
+
+    
+
+    
+<script src="/etc.clientlibs/pwc/clientlibs/handlebars.min.cea4640e01740056e78b381c8d3b8d84.js"></script>
+
+
+
+
+    
+<script src="/etc.clientlibs/pwc/clientlibs/purify.min.861f03f452e5d56afa11ef73013b9d07.js"></script>
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand.min.55562d53c21efab6908d5bd75798b72b.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors.min.6f674673b0e0fbadc2cb2d5dc60cd4f8.css" type="text/css">
+
+
+       
+
+
+
+
+<!-- <script src="//assets.adobedtm.com/c1b096e48fc8/1825f4c13961/launch-05a1756607c1-development.min.js" async></script>  -->
+
+</head><body class="basepage page basicpage red-burgundy-maroon content-detail-page-template page-primary-col--rose page-secondary-col--rose page-tertiary-col--rose  publish standard-spacing pwcscrolling longformcontent cmp-base-modernized"><input id="modnavigationid" type="hidden" value="/zh/issues/generative-ai/transformation-of-genai-operation-mode-in-enterprises-mar2024/">
+<input type="hidden" id="navmode" value="publish">
+<input type="hidden" id="premiumPage" value="false">
+<input class="currentPagePath" type="hidden" value="/content/pwc/cn/zh/issues/generative-ai/transformation-of-genai-operation-mode-in-enterprises-mar2024">
+<input type="hidden" id="isUserReg" value="false">
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="GZCM9-CJ7UJ-QXSTX-ZGJFD-8QHDY",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"GZCM9-CJ7UJ-QXSTX-ZGJFD-8QHDY";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="m4hfypaxgjnjgzzqmniq-f-64285f3f2-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"403568","ak.ai":parseInt("256182",10),"ak.ol":"0","ak.cr":16,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"abc3436","ak.r":44715,"ak.a2":n,"ak.m":"x","ak.n":"essl","ak.bpcip":"103.14.92.0","ak.cport":23687,"ak.gh":"23.44.214.26","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1731224401","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==CAHQGosrVryKLcj0csYVD/l4HJB62zXg5kqtii57U8e+AwEP0jR/zkwlsQC9P+nVtcU1TuZd1TBIr4dBtjrWQ78dw6CM0qdqqNxoXkSTtFGAwORkLbU31C2Ou5aN+Oe81EGX8hU++6MoKv1uMvKyPLI4OU0M7SQBQvZF8wWW8eKWm6Vc0+vuFfsPPmeSHykSHRxhPkA2/lsyRSlVYNl1mUkmDQVrv3hwS8xtYkGMEtgMHx+EReEuI4Wl8GZbW+oxKRoy5S6wg5ViaNZKwEGyQGQGK3pbswuKw4ai97Wh7TBLp0wJKKxp+uEC/hURkC3GEAMhV4LhmQN3tuNQ6x6UWAE2kyWn3uss39AFsn9gMnHi/YrCtum0jthejlGPA+UcWYqH86Zvb7HvWJl+xEP5CCT0VmGHZ+WEoZ4hBSMEeUM=","ak.pv":"267","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><iframe src="about:blank" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe>
+    
+        
+             
+            
+
+
+
+			<div id="wrapper">
+            
+<div class="root container responsivegrid">
+
+    
+    
+    
+    <div id="container-875462c70e" class="cmp-container">
+        
+        <div class="ixfsection experiencefragment"><div class="mod-ixf-page-section"></div>
+
+
+	<section id="header" style="height: auto" class="cmp-experiencefragment cmp-experiencefragment--cn-zh fullwidth ">
+
+
+    
+    <div id="container-10082c895c" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="slim-page-header-v2 parbase aem-GridColumn aem-GridColumn--default--12"><!-- SDI include (path: /content/experience-fragments/pwc/cn/zh/header/cn-zh/master/_jcr_content/root/slim_page_header_v2.dynamic.html/pwc/components/modernized/content/slim-page-header-v2, resourceType: pwc/components/modernized/content/slim-page-header-v2) -->
+
+<nav id="skipNav" aria-label="Skip Links">
+   <a tabindex="1" id="skipToContent" href="#" class="sr-only sr-only-focusable skip-content" aria-label="Skip to content">Skip to content</a>
+   <a tabindex="1" id="skipToFooter" href="#pgFooter" class="sr-only sr-only-focusable skip-content" aria-label="Skip to footer">Skip to footer</a>   
+</nav>
+<div class="headerv2-container" data-current-level=""> 
+  <header class="slimheader-v2 mod__header-v2">
+      <input type="hidden" id="checkUserLoginOrNot" value="false">
+      <a id="logoUrl" tabindex="3" href="/zh" aria-label="PwC homepage" class="slim-logo search-hide levelOneLink ">
+      </a>
+      <img class="mobile-search-btn " alt="Site Search" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2/search-icon.svg">
+      <div id="slim-hamburger" class="slim-hamburger-ico" aria-label="目录 ">
+         <span></span>
+         <span></span>
+         <span></span>
+      </div>
+      <div class="slim-navigation" style="opacity:0;">
+         <nav class="nav-primary search-hide" data-tab-index-start="9" aria-label="Main Navigation">
+    <a aria-controls="服务-subnav-1" link-href="https://www.pwccn.com/zh/services.html" href="#" data-has-subnav="true" data-nav-index="1" class="levelOneLink " nextpage-canonical-url="https://www.pwccn.com/zh/services.html" navigation-title="服务">服务</a>
+            
+         
+    <a aria-controls="行业-subnav-2" link-href="https://www.pwccn.com/zh/industries.html" href="#" data-has-subnav="true" data-nav-index="2" class="levelOneLink " nextpage-canonical-url="https://www.pwccn.com/zh/industries.html" navigation-title="行业">行业</a>
+            
+         
+    <a aria-controls="重要议题_-subnav-3" link-href="https://www.pwccn.com/zh/issues.html" href="#" data-has-subnav="true" data-nav-index="3" class="levelOneLink " nextpage-canonical-url="https://www.pwccn.com/zh/issues.html" navigation-title="重要议题 ">重要议题 </a>
+            
+         
+    <a aria-controls="研究与洞察-subnav-4" link-href="https://www.pwccn.com/zh/research-and-insights.html" href="https://www.pwccn.com/zh/research-and-insights.html" data-has-subnav="false" data-nav-index="4" class="levelOneLink " nextpage-canonical-url="https://www.pwccn.com/zh/research-and-insights.html" navigation-title="研究与洞察">研究与洞察</a>
+            
+         
+    <a aria-controls="数字产品中心-subnav-5" link-href="https://digitalstore.pwccn.com.cn/zh-cn/" href="https://digitalstore.pwccn.com.cn/zh-cn/" target="_blank" data-has-subnav="false" data-nav-index="5" class="levelOneLink " navigation-title="数字产品中心">数字产品中心</a>
+            
+         
+    <a aria-controls="关于我们-subnav-6" link-href="https://www.pwccn.com/zh/about-us.html" href="#" data-has-subnav="true" data-nav-index="6" class="levelOneLink " nextpage-canonical-url="https://www.pwccn.com/zh/about-us.html" navigation-title="关于我们">关于我们</a>
+            
+         
+    <a aria-controls="人才招聘-subnav-7" link-href="https://www.pwccn.com/zh/careers.html" href="#" data-has-subnav="true" data-nav-index="7" class="levelOneLink " nextpage-canonical-url="https://www.pwccn.com/zh/careers.html" navigation-title="人才招聘">人才招聘</a>
+            
+               <div class="nav-more" style="display: none;">
+                  <p>More</p>
+                  <div class="levelOneLink nav-more-dropdown">
+                  </div>
+               </div>
+            
+         </nav>
+         
+            
+    <nav class="nav-secondary search-hide" aria-label="Secondary Navigation">
+        
+            
+	<script id="overlay-template" type="text/x-handlebars-template">
+		<div class="authenticated-user-options hidden">
+			<div class="user-option-list">
+				<a tabindex="3"  class="register myaccount levelOneLink" href="{{myAccountHref}}">My Account</a>
+				<a tabindex="4" class="sign-in signout levelOneLink" onclick="logOffUser(window.location.href)">Sign Out</a>
+			</div>
+		</div>
+		<div class="user-options hidden">
+			<a tabindex="3" class="sign-in userreg levelOneLink" data-href="{{signInHref}}" href="javascript:void(0);"> Sign in</a>
+			<a tabindex="4" class="register userreg levelOneLink" href="{{createAccountHref}}"> Register</a>
+		</div>
+	</script>
+
+        
+        <div class="login-data"></div>
+        <!--<div data-sly-test="false" class="user-options hidden">
+            <a tabindex="3" data-sly-test.loginLink="/bin/saml/internal/auth" data-href="" href="javascript:void(0);" class="sign-in userreg levelOneLink">Sign in</a>
+            <a tabindex="4" data-sly-test.registerLink="https://login.pwc.com/identity/register?goto=" data-register-link="" href="javascript:void(0);" class="register userreg levelOneLink">Register</a>
+        </div>-->
+        <div class="location-options">
+            <script id="language-selector-template" type="text/x-handlebars-template">
+    <div class="options-language">
+        <button tabindex="7" class="open-lang-options">{{jcrlanguage}} <img alt="" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2/Chevron.svg"></button>
+        <img class="close-options" alt="" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2/close-icon-white.svg">
+    </div>
+    <div class="slim-language-selector" id="langDialog" aria-label="{{langSelectorTitleText}}" role="dialog" aria-modal="true">
+        <p>{{langSelectorTitleText}}</p>
+        <div class="language-selector-list levelOneLink " id="lstLang" role="listbox" aria-labelledby="langDialog">
+            {{#each languageSelectorData.alternateLanguages}}
+            <a id="lang_{{@index}}" role="option" {{#if this.isCurrentLanguage}} class="is-active" {{/if}} href="{{this.linkURL}}" data-lang="{{this.linkText}}"> {{this.linkText}} </a>
+            {{/each}}
+        </div>
+    </div>
+</script>
+            
+                
+<script id="territory-selector-template" type="text/x-handlebars-template">
+	<button tabindex="6" aria-label="{{territorySelectorBtnText}}">
+		<span>{{currentPageTerritoryName}} <img alt="" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2/Chevron.svg"></span>
+		<img class="close-options" alt="" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2/close-icon-white.svg">
+	</button>
+	<!-- territory dialog box starts here -->
+	<div class="territory-selector" aria-label="{{findATerritoryText}}" id="lst-territory-selector" role="dialog" aria-modal="true">
+		<div class="territory-selector-search">
+				<label class="sr-only" for="searchField"> {{findATerritoryText}} </label>
+				<input id="countrySearch" class="levelOneLink" name="country" type="text" placeholder="{{findATerritoryText}}">
+		</div>
+		<div class="territory-selector-list levelOneLink" id="lstTerritory" role="listbox" aria-labelledby="lst-territory-selector">
+			{{#each territories}}
+			{{#if territoryFinder}}
+                    <a id="option_{{@index}}" role="option" class="{{#ifEquals name 'Global'}}region-global {{/ifEquals}}{{#ifEquals name ../currentPageTerritoryName}}is-active {{/ifEquals}}"
+                    href="{{domain}}" data-value="{{name}}">{{name}}</a>
+			{{#each alias}}
+                    <a id="option_{{this}}_{{@index}}" role="option" class="{{#ifEquals name 'Global'}}region-global {{/ifEquals}}{{#ifEquals ../name ../../currentPageTerritoryName}}is-active {{/ifEquals}}"
+                    href="{{../domain}}" data-value="{{this}}">{{this}}</a>
+			{{/each}}
+			{{#if @last}}
+			<p id="option_noresult" role="option" class="territory-no-results">{{territoryNotFoundText}}</p>
+			{{/if}}
+			{{/if}}
+			{{/each}}
+
+		</div>
+	</div>
+</script>
+
+            
+            <div class="lo-backsplash"></div>
+            <span class="option-country levelOneLink">
+      </span>
+            
+            <span class="option-language">
+          </span>
+            
+        </div>
+    </nav>
+
+         
+         
+         <div class="nav-search search-hide ">
+            <button aria-expanded="false" class="search-hide levelOneLink">搜寻</button>
+            <div class="search-hide searchbox">
+               <form id="slimSearchForm" role="search" action="https://www.pwccn.com/zh/search-results.html" method="get">
+	               <input id="slimSearch" class="slim-search" type="text" name="searchfield" placeholder="搜寻">
+	                <input type="hidden" name="pwcSiteSection" autocomplete="off">
+                    <input type="hidden" name="pwcLang" value="" autocomplete="off">
+                    <input type="hidden" name="pwcGeo" value="" autocomplete="off">
+                  <input type="submit" class="submit-search" value="">
+               </form>
+               <button id="close-search" aria-label="关闭搜寻"></button>
+            </div>
+         </div>
+      </div>
+   </header>
+   
+	<script id="breadcrumb-template" type="text/x-handlebars-template">
+
+            <button class="slimnav-v2-bc-toggle is-hidden">
+	           <label class="sr-only">Show full breadcrumb</label>
+	        </button>
+				<div class="slimnav-v2-breadcrumbs">
+				{{#each breadcrumbs}}
+				 <a href="{{this.linkURL}}">{{this.linkText}}</a>
+				{{/each}}
+			    </div>
+
+	</script>
+        <div class="slimnav-breadcrumb"> </div>
+	
+   
+   <div class="slimheader-sublevel-slide" data-nav-level="2">
+      <div class="slide-shadow search-hide"></div>
+      <div class="slide-bg"></div>
+      
+      
+         <div id="服务-subnav-1" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">服务</a>
+                        </div>
+                        <a href="https://www.pwccn.com/zh/services.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services.html" navigation-title="服务">服务</a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="服务" href="https://www.pwccn.com/zh/services/audit-and-assurance.html" aria-controls="审计及鉴证-subnav-1-1" nextpage-canonical-url="https://www.pwccn.com/zh/services/audit-and-assurance.html" navigation-title="审计及鉴证">审计及鉴证</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="服务" href="https://www.pwccn.com/zh/services/consulting.html" aria-controls="管理咨询-subnav-1-2" nextpage-canonical-url="https://www.pwccn.com/zh/services/consulting.html" navigation-title="管理咨询">管理咨询</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="服务" href="https://www.pwccn.com/zh/services/deals-m-and-a.html" aria-controls="交易服务-subnav-1-3" nextpage-canonical-url="https://www.pwccn.com/zh/services/deals-m-and-a.html" navigation-title="交易服务">交易服务</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="服务" href="https://www.pwccn.com/zh/services/tax.html" aria-controls="税务服务-subnav-1-4" nextpage-canonical-url="https://www.pwccn.com/zh/services/tax.html" navigation-title="税务服务">税务服务</a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="审计及鉴证-subnav-1-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">服务</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/audit-and-assurance.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/audit-and-assurance.html" navigation-title="审计及鉴证">审计及鉴证</a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwccn.com/zh/services/audit-and-assurance/capabilities.html" nextpage-canonical-url="https://www.pwccn.com/zh/services/audit-and-assurance/capabilities.html" navigation-title="审计及其他鉴证">审计及其他鉴证</a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwccn.com/zh/services/audit-and-assurance/risk-assurance.html" nextpage-canonical-url="https://www.pwccn.com/zh/services/audit-and-assurance/risk-assurance.html" navigation-title="风险及控制">风险及控制</a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="管理咨询-subnav-1-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">服务</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/consulting.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/consulting.html" navigation-title="管理咨询">管理咨询</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="交易服务-subnav-1-3" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">服务</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/deals-m-and-a.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/deals-m-and-a.html" navigation-title="交易服务">交易服务</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="税务服务-subnav-1-4" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">服务</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/tax.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/tax.html" navigation-title="税务服务">税务服务</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </span>
+               
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="行业-subnav-2" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">行业</a>
+                        </div>
+                        <a href="https://www.pwccn.com/zh/industries.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries.html" navigation-title="行业">行业</a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/financial-services.html" aria-controls="金融服务-subnav-2-1" nextpage-canonical-url="https://www.pwccn.com/zh/industries/financial-services.html" navigation-title="金融服务">金融服务</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/financial-services/asset-and-wealth-management.html" aria-controls="资产和财富管理-subnav-2-2" nextpage-canonical-url="https://www.pwccn.com/zh/industries/financial-services/asset-and-wealth-management.html" navigation-title="资产和财富管理">资产和财富管理</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/financial-services/banking-and-capital-markets.html" aria-controls="银行及资本市场-subnav-2-3" nextpage-canonical-url="https://www.pwccn.com/zh/industries/financial-services/banking-and-capital-markets.html" navigation-title="银行及资本市场">银行及资本市场</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/financial-services/insurance.html" aria-controls="保险-subnav-2-4" nextpage-canonical-url="https://www.pwccn.com/zh/industries/financial-services/insurance.html" navigation-title="保险">保险</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/private-equity.html" aria-controls="私募股权基金-subnav-2-5" nextpage-canonical-url="https://www.pwccn.com/zh/industries/private-equity.html" navigation-title="私募股权基金">私募股权基金</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/telecommunications-media-and-technology.html" aria-controls="科技_媒体和通信-subnav-2-6" nextpage-canonical-url="https://www.pwccn.com/zh/industries/telecommunications-media-and-technology.html" navigation-title="科技、媒体和通信">科技、媒体和通信</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/life-sciences-and-healthcare.html" aria-controls="医药医疗及大健康-subnav-2-7" nextpage-canonical-url="https://www.pwccn.com/zh/industries/life-sciences-and-healthcare.html" navigation-title="医药医疗及大健康">医药医疗及大健康</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/retail-and-consumer.html" aria-controls="消费市场-subnav-2-8" nextpage-canonical-url="https://www.pwccn.com/zh/industries/retail-and-consumer.html" navigation-title="消费市场">消费市场</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/automotive.html" aria-controls="汽车-subnav-2-9" nextpage-canonical-url="https://www.pwccn.com/zh/industries/automotive.html" navigation-title="汽车">汽车</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/industrial-products.html" aria-controls="工业产品-subnav-2-10" nextpage-canonical-url="https://www.pwccn.com/zh/industries/industrial-products.html" navigation-title="工业产品">工业产品</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/engineering-and-construction.html" aria-controls="工程建筑-subnav-2-11" nextpage-canonical-url="https://www.pwccn.com/zh/industries/engineering-and-construction.html" navigation-title="工程建筑">工程建筑</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/aerospace-and-defence.html" aria-controls="防务及航空航天-subnav-2-12" nextpage-canonical-url="https://www.pwccn.com/zh/industries/aerospace-and-defence.html" navigation-title="防务及航空航天">防务及航空航天</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/transportation-and-logistics.html" aria-controls="运输与物流-subnav-2-13" nextpage-canonical-url="https://www.pwccn.com/zh/industries/transportation-and-logistics.html" navigation-title="运输与物流">运输与物流</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/real-estate.html" aria-controls="房地产-subnav-2-14" nextpage-canonical-url="https://www.pwccn.com/zh/industries/real-estate.html" navigation-title="房地产">房地产</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/government-and-public-services.html" aria-controls="政府及公共服务-subnav-2-15" nextpage-canonical-url="https://www.pwccn.com/zh/industries/government-and-public-services.html" navigation-title="政府及公共服务">政府及公共服务</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/food-supply-and-integrity.html" aria-controls="食品行业诚信服务-subnav-2-16" nextpage-canonical-url="https://www.pwccn.com/zh/industries/food-supply-and-integrity.html" navigation-title="食品行业诚信服务">食品行业诚信服务</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/aircraft-leasing.html" aria-controls="航空-subnav-2-17" nextpage-canonical-url="https://www.pwccn.com/zh/industries/aircraft-leasing.html" navigation-title="航空">航空</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/energy-utilities-and-mining.html" aria-controls="能源_公用事业及采矿-subnav-2-18" nextpage-canonical-url="https://www.pwccn.com/zh/industries/energy-utilities-and-mining.html" navigation-title="能源、公用事业及采矿">能源、公用事业及采矿</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="行业" href="https://www.pwccn.com/zh/industries/capital-projects-and-infrastructure.html" aria-controls="基础设施与大型项目投融资服务-subnav-2-19" nextpage-canonical-url="https://www.pwccn.com/zh/industries/capital-projects-and-infrastructure.html" navigation-title="基础设施与大型项目投融资服务">基础设施与大型项目投融资服务</a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="金融服务-subnav-2-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/financial-services.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/financial-services.html" navigation-title="金融服务">金融服务</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="资产和财富管理-subnav-2-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/financial-services/asset-and-wealth-management.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/financial-services/asset-and-wealth-management.html" navigation-title="资产和财富管理">资产和财富管理</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="银行及资本市场-subnav-2-3" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/financial-services/banking-and-capital-markets.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/financial-services/banking-and-capital-markets.html" navigation-title="银行及资本市场">银行及资本市场</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="保险-subnav-2-4" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/financial-services/insurance.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/financial-services/insurance.html" navigation-title="保险">保险</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="私募股权基金-subnav-2-5" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/private-equity.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/private-equity.html" navigation-title="私募股权基金">私募股权基金</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="科技_媒体和通信-subnav-2-6" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/telecommunications-media-and-technology.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/telecommunications-media-and-technology.html" navigation-title="科技、媒体和通信">科技、媒体和通信</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="医药医疗及大健康-subnav-2-7" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/life-sciences-and-healthcare.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/life-sciences-and-healthcare.html" navigation-title="医药医疗及大健康">医药医疗及大健康</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="消费市场-subnav-2-8" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/retail-and-consumer.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/retail-and-consumer.html" navigation-title="消费市场">消费市场</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="汽车-subnav-2-9" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/automotive.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/automotive.html" navigation-title="汽车">汽车</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="工业产品-subnav-2-10" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/industrial-products.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/industrial-products.html" navigation-title="工业产品">工业产品</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="工程建筑-subnav-2-11" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/engineering-and-construction.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/engineering-and-construction.html" navigation-title="工程建筑">工程建筑</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="防务及航空航天-subnav-2-12" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/aerospace-and-defence.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/aerospace-and-defence.html" navigation-title="防务及航空航天">防务及航空航天</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="运输与物流-subnav-2-13" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/transportation-and-logistics.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/transportation-and-logistics.html" navigation-title="运输与物流">运输与物流</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="房地产-subnav-2-14" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/real-estate.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/real-estate.html" navigation-title="房地产">房地产</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="政府及公共服务-subnav-2-15" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/government-and-public-services.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/government-and-public-services.html" navigation-title="政府及公共服务">政府及公共服务</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="食品行业诚信服务-subnav-2-16" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/food-supply-and-integrity.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/food-supply-and-integrity.html" navigation-title="食品行业诚信服务">食品行业诚信服务</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="航空-subnav-2-17" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/aircraft-leasing.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/aircraft-leasing.html" navigation-title="航空">航空</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="能源_公用事业及采矿-subnav-2-18" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/energy-utilities-and-mining.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/energy-utilities-and-mining.html" navigation-title="能源、公用事业及采矿">能源、公用事业及采矿</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="基础设施与大型项目投融资服务-subnav-2-19" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">行业</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/industries/capital-projects-and-infrastructure.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/industries/capital-projects-and-infrastructure.html" navigation-title="基础设施与大型项目投融资服务">基础设施与大型项目投融资服务</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </span>
+               
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="重要议题_-subnav-3" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">重要议题 </a>
+                        </div>
+                        <a href="https://www.pwccn.com/zh/issues.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/issues.html" navigation-title="重要议题 ">重要议题 </a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/services/issues-based/globalisation-services.html" aria-controls="全球跨境服务-subnav-3-1" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/globalisation-services.html" navigation-title="全球跨境服务">全球跨境服务</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/issues/cybersecurity-and-privacy.html" aria-controls="网络安全和隐私保护-subnav-3-2" nextpage-canonical-url="https://www.pwccn.com/zh/issues/cybersecurity-and-privacy.html" navigation-title="网络安全和隐私保护">网络安全和隐私保护</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/services/entrepreneurial-and-private-business.html" aria-controls="科创与民营企业-subnav-3-3" nextpage-canonical-url="https://www.pwccn.com/zh/services/entrepreneurial-and-private-business.html" navigation-title="科创与民营企业">科创与民营企业</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/services/issues-based/esg.html" aria-controls="环境_社会及治理__esg_-subnav-3-4" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/esg.html" navigation-title="环境、社会及治理 (ESG)">环境、社会及治理 (ESG)</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/issues/generative-ai.html" aria-controls="生成式人工智能__genai_-subnav-3-5" nextpage-canonical-url="https://www.pwccn.com/zh/issues/generative-ai.html" navigation-title="生成式人工智能 (GenAI)">生成式人工智能 (GenAI)</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/research-and-insights/greater-bay-area.html" aria-controls="粤港澳大湾区-subnav-3-6" nextpage-canonical-url="https://www.pwccn.com/zh/research-and-insights/greater-bay-area.html" navigation-title="粤港澳大湾区">粤港澳大湾区</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/services/issues-based/new-infrastructure-initiative.html" aria-controls="新基建-subnav-3-7" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/new-infrastructure-initiative.html" navigation-title="新基建">新基建</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/services/issues-based/upskilling.html" aria-controls="新时代_新技能_-subnav-3-8" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/upskilling.html" navigation-title="新时代。新技能。">新时代。新技能。</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/issues/risk-regulation.html" aria-controls="掌控风险平台-subnav-3-9" nextpage-canonical-url="https://www.pwccn.com/zh/issues/risk-regulation.html" navigation-title="掌控风险平台">掌控风险平台</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/services/issues-based/sci-tech-innovation-board-sse-star-market.html" aria-controls="科创板-subnav-3-10" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/sci-tech-innovation-board-sse-star-market.html" navigation-title="科创板">科创板</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/services/issues-based/state-owned-enterprise-soe.html" aria-controls="国企改革-subnav-3-11" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/state-owned-enterprise-soe.html" navigation-title="国企改革">国企改革</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="重要议题 " href="https://www.pwccn.com/zh/services/consulting/workforce.html" aria-controls="人才和组织-subnav-3-12" nextpage-canonical-url="https://www.pwccn.com/zh/services/consulting/workforce.html" navigation-title="人才和组织">人才和组织</a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="全球跨境服务-subnav-3-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/issues-based/globalisation-services.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/globalisation-services.html" navigation-title="全球跨境服务">全球跨境服务</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="网络安全和隐私保护-subnav-3-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/issues/cybersecurity-and-privacy.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/issues/cybersecurity-and-privacy.html" navigation-title="网络安全和隐私保护">网络安全和隐私保护</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="科创与民营企业-subnav-3-3" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/entrepreneurial-and-private-business.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/entrepreneurial-and-private-business.html" navigation-title="科创与民营企业">科创与民营企业</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="环境_社会及治理__esg_-subnav-3-4" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/issues-based/esg.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/esg.html" navigation-title="环境、社会及治理 (ESG)">环境、社会及治理 (ESG)</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="生成式人工智能__genai_-subnav-3-5" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/issues/generative-ai.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/issues/generative-ai.html" navigation-title="生成式人工智能 (GenAI)">生成式人工智能 (GenAI)</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="粤港澳大湾区-subnav-3-6" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/research-and-insights/greater-bay-area.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/research-and-insights/greater-bay-area.html" navigation-title="粤港澳大湾区">粤港澳大湾区</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="新基建-subnav-3-7" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/issues-based/new-infrastructure-initiative.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/new-infrastructure-initiative.html" navigation-title="新基建">新基建</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="新时代_新技能_-subnav-3-8" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/issues-based/upskilling.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/upskilling.html" navigation-title="新时代。新技能。">新时代。新技能。</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="掌控风险平台-subnav-3-9" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/issues/risk-regulation.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/issues/risk-regulation.html" navigation-title="掌控风险平台">掌控风险平台</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="科创板-subnav-3-10" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/issues-based/sci-tech-innovation-board-sse-star-market.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/sci-tech-innovation-board-sse-star-market.html" navigation-title="科创板">科创板</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="国企改革-subnav-3-11" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/issues-based/state-owned-enterprise-soe.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/issues-based/state-owned-enterprise-soe.html" navigation-title="国企改革">国企改革</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="人才和组织-subnav-3-12" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">重要议题 </a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/services/consulting/workforce.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/services/consulting/workforce.html" navigation-title="人才和组织">人才和组织</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </span>
+               
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="研究与洞察-subnav-4" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">研究与洞察</a>
+                        </div>
+                        <a href="https://www.pwccn.com/zh/research-and-insights.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/research-and-insights.html" navigation-title="研究与洞察">研究与洞察</a>
+                     </div>
+                     
+                  </div>
+               </div>
+               
+               
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="数字产品中心-subnav-5" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">数字产品中心</a>
+                        </div>
+                        <a href="https://digitalstore.pwccn.com.cn/zh-cn/" target="_blank" class="lv2-label" navigation-title="数字产品中心">数字产品中心</a>
+                     </div>
+                     
+                  </div>
+               </div>
+               
+               
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="关于我们-subnav-6" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">关于我们</a>
+                        </div>
+                        <a href="https://www.pwccn.com/zh/about-us.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us.html" navigation-title="关于我们">关于我们</a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/purpose-and-values.html" aria-controls="我们的使命和价值观-subnav-6-1" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/purpose-and-values.html" navigation-title="我们的使命和价值观">我们的使命和价值观</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/code-of-conduct.html" aria-controls="行为准则-subnav-6-2" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/code-of-conduct.html" navigation-title="行为准则">行为准则</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/office-locations.html" aria-controls="办公室地址-subnav-6-3" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/office-locations.html" navigation-title="办公室地址">办公室地址</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/pwc-asia-pacific.html" aria-controls="普华永道亚太区-subnav-6-4" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/pwc-asia-pacific.html" navigation-title="普华永道亚太区">普华永道亚太区</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/charitable-foundation.html" aria-controls="普华永道中天基金会-subnav-6-5" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/charitable-foundation.html" navigation-title="普华永道中天基金会">普华永道中天基金会</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/award.html" aria-controls="奖项和认可-subnav-6-6" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/award.html" navigation-title="奖项和认可">奖项和认可</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/alumni.html" aria-controls="挚友会-subnav-6-7" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/alumni.html" navigation-title="挚友会">挚友会</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/corporate-sustainability.html" aria-controls="企业可持续发展-subnav-6-8" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/corporate-sustainability.html" navigation-title="企业可持续发展">企业可持续发展</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="关于我们" href="https://www.pwccn.com/zh/about-us/third-party-code-of-conduct.html" aria-controls="第三方行为准则-subnav-6-9" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/third-party-code-of-conduct.html" navigation-title="第三方行为准则">第三方行为准则</a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="我们的使命和价值观-subnav-6-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/purpose-and-values.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/purpose-and-values.html" navigation-title="我们的使命和价值观">我们的使命和价值观</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="行为准则-subnav-6-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/code-of-conduct.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/code-of-conduct.html" navigation-title="行为准则">行为准则</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="办公室地址-subnav-6-3" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/office-locations.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/office-locations.html" navigation-title="办公室地址">办公室地址</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="普华永道亚太区-subnav-6-4" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/pwc-asia-pacific.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/pwc-asia-pacific.html" navigation-title="普华永道亚太区">普华永道亚太区</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="普华永道中天基金会-subnav-6-5" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/charitable-foundation.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/charitable-foundation.html" navigation-title="普华永道中天基金会">普华永道中天基金会</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="奖项和认可-subnav-6-6" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/award.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/award.html" navigation-title="奖项和认可">奖项和认可</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="挚友会-subnav-6-7" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/alumni.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/alumni.html" navigation-title="挚友会">挚友会</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="企业可持续发展-subnav-6-8" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/corporate-sustainability.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/corporate-sustainability.html" navigation-title="企业可持续发展">企业可持续发展</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="第三方行为准则-subnav-6-9" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">关于我们</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/about-us/third-party-code-of-conduct.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/about-us/third-party-code-of-conduct.html" navigation-title="第三方行为准则">第三方行为准则</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </span>
+               
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="人才招聘-subnav-7" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">人才招聘</a>
+                        </div>
+                        <a href="https://www.pwccn.com/zh/careers.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/careers.html" navigation-title="人才招聘">人才招聘</a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="人才招聘" href="https://www.pwccn.com/zh/careers/experienced-jobs.html" aria-controls="社会招聘-subnav-7-1" nextpage-canonical-url="https://www.pwccn.com/zh/careers/experienced-jobs.html" navigation-title="社会招聘">社会招聘</a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="人才招聘" href="https://www.pwccn.com/zh/careers/students.html" aria-controls="校园招聘-subnav-7-2" nextpage-canonical-url="https://www.pwccn.com/zh/careers/students.html" navigation-title="校园招聘">校园招聘</a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="社会招聘-subnav-7-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">人才招聘</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/careers/experienced-jobs.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/careers/experienced-jobs.html" navigation-title="社会招聘">社会招聘</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="校园招聘-subnav-7-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">人才招聘</a>
+                           </div>
+                           <a href="https://www.pwccn.com/zh/careers/students.html" class="lv2-label" nextpage-canonical-url="https://www.pwccn.com/zh/careers/students.html" navigation-title="校园招聘">校园招聘</a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </span>
+               
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+      
+      
+      <div class="sublevel-search-container search-hide">
+         <div class="search-loading">
+            <div class="slim-search-loader"></div>
+            <p>加载搜寻结果</p>
+         </div>
+         <p class="slim-search-no-results is-hidden">没有搜寻结果</p>
+         <div class="slim-search-results">
+            <button class="btn view-all-search is-hidden" href="https://www.pwccn.com/zh/search-results.html">
+            查看所有搜寻结果
+            </button>
+         </div>
+      </div>
+      
+   </div>
+   
+</div>
+
+       
+<input type="hidden" id="locale" value="zh_cn">
+<input type="hidden" name="mod_signInHref" class="mod_signInHref">
+<input type="hidden" name="mod_createAccountHref" class="mod_createAccountHref">
+<input type="hidden" name="mod_userLoginStatus" class="mod_userLoginStatus">
+
+<script>
+	//Analytics : Triggers loginSuccessful event on inter user's login
+    $(document).ready(function(){
+    	var prepareUserRegLinks;
+        var internal_login_status_cookie = Cookies.get("internal-login-status");
+        if(internal_login_status_cookie){
+            $(document).trigger("loginSuccessful");
+            rmvCookie("internal-login-status","/");
+        }
+
+        //PR-2366: User Access Control landing page's requestAccess button link updates based on user's request.
+        if ($('#access-control-section').length > 0) {
+            var accessControlSection = $('#access-control-section');
+            var accessControlButtonWrapper = $('#access-control-section').find($('#pwc-access-button'));
+            var accessControlButton = $(accessControlButtonWrapper).find('a');
+            const requestClasses = {requestAccess:"request-access", requestPending : "request-pending", requestApproved : "request-approved"};
+            $(accessControlSection).find('.help-block').html('Some error occured with creating access control request');
+            var userLoginStatus, approvalStatus="";
+            
+            var currentPagePath = $('.currentPagePath').val();
+            var currLocale= "zh_cn";
+            var randomNo = Math.round(new Date().getTime() + (Math.random() * 100));
+            var datapp = 'currentPagePath='+ encodeURIComponent(currentPagePath) + '&currLocale='+ encodeURIComponent(currLocale) + '&'+randomNo+'=';
+            
+            $.ajax('/bin/dpe/logindata', {
+                data: datapp,
+                type: "GET",
+                dataType: 'json',
+                contentType: 'application/json; charset=utf-8',
+                mimeType: 'application/json; charset=utf-8',
+                success: function (rawData, status, xhr) {
+                    SuccessCode = rawData.SuccessCode;
+                    switch (SuccessCode) {
+                        case '[0000]':
+                            $(accessControlSection).find($('#accessControl_GeneralError')).hide();
+                            userLoginStatus = rawData.userLoginStatus;
+                            if(rawData.approvalStatus && rawData.approvalStatus !== "undefined"){
+                            	approvalStatus = rawData.approvalStatus;
+                            }
+                            $(".mod_userLoginStatus").attr("value",userLoginStatus);
+                            prepareUserRegLinks(userLoginStatus, approvalStatus);
+                            break;
+                        case '[1111]':
+                        default:
+                            $(accessControlSection).find($('#accessControl_GeneralError')).show();
+                    }
+                },
+                error: function (xhr, status, err) {
+                    $(accessControlSection).find($('#accessControl_GeneralError')).show();
+                    $(accessControlButton).button('reset');
+                    
+                    prepareUserRegLinks(false, approvalStatus);
+                }
+                
+            });
+            
+            prepareUserRegLinks = function(userLoginStatus, approvalStatus) {
+            	if (!userLoginStatus) {
+				if($(".mod_signInHref").val()==''){
+						$(".mod_signInHref").val($('.login-data .sign-in.userreg').attr('href'));
+                    }
+                    if($(".mod_createAccountHref").val()==''){
+						$(".mod_createAccountHref").val($('.login-data .register.userreg').attr('href'));
+                    }
+                    $(accessControlButton).attr('href', $('.login-data .sign-in.userreg').attr('data-href'));
+                    $(accessControlSection).find('#access-control-footer a').attr('href', $('.login-data .register.userreg').attr('href'));
+                } else {
+                	accessControlSection.removeClass("promo-banner--logged-out").addClass("promo-banner--logged-in");
+                    switch (approvalStatus) {
+                        case "":
+    					case 'rejected':
+                            var reqObj = new Object();
+                            reqObj.accessControlRequestedGroup = $(accessControlSection).data('accessControlGroup');
+                            reqObj.accessControlLandingPage = currentPagePath;
+                            reqObj.accessControlRequestedPage = $(accessControlButton).attr('href');
+                            reqObj.locale = 'zh_cn';
+                            $(accessControlButton).attr('href', 'javascript:void(0);');
+                            $('#pwc-access-button a').click(function () {
+                                if ($(accessControlButtonWrapper).hasClass(requestClasses.requestAccess)) {
+                                    $(accessControlButton).button('loading');
+                                    reqObj.accessControlRequestedTime = "1731221083608";
+                                    $.ajax('/bin/requestAccessServlet', {
+                                        data: JSON.stringify(reqObj),
+                                        type: "POST",
+                                        dataType: 'json',
+                                        contentType: 'application/json; charset=utf-8',
+                                        mimeType: 'application/json; charset=utf-8',
+                                        success: function (rawData, status, xhr) {
+                                            SuccessCode = rawData.result.SuccessCode;
+                                            $(accessControlButton).button('reset');
+                                            switch (SuccessCode) {
+                                                case '[0000]':
+                                                    $(accessControlSection).find($('#accessControl_GeneralError')).hide();
+                                                    $(accessControlButtonWrapper).removeClass(requestClasses.requestAccess).addClass(requestClasses.requestPending);
+                                                    $(accessControlButton).html('Access pending approval');
+                                                    break;
+                                                case '[1111]':
+                                                default:
+                                                    $(accessControlSection).find($('#accessControl_GeneralError')).show();
+                                            }
+                                        },
+                                        error: function (xhr, status, err) {
+                                            $(accessControlSection).find($('#accessControl_GeneralError')).show();
+                                            $(accessControlButton).button('reset');
+                                        }
+                                    });
+                                }
+                            });
+                            break;
+                        case  'pending-approval':
+                            $(accessControlButtonWrapper).removeClass(requestClasses.requestAccess).addClass(requestClasses.requestPending);
+                            $(accessControlButton).html('Access pending approval');
+                            $(accessControlButton).attr('href', 'javascript:void(0);');
+                            break;
+                        case  'approved':
+                            $(accessControlButtonWrapper).removeClass(requestClasses.requestAccess).addClass(requestClasses.requestApproved);
+                            $(accessControlButton).addClass('unlocked').removeClass('locked');
+                            break;
+                        default:
+                            $(accessControlButton).attr('href', 'javascript:void(0);');
+                    }
+                }
+            };
+          
+        }
+    });
+</script>
+
+<script>
+     var cookieI18nValues = {};
+	cookieI18nValues.cookieDescription = "我们已更新本公司的<a href=\x22https:\/\/www.pwccn.com\/zh\/privacy.html\x22>隐私声明<\/a>。有关声明说明我们所收集的信息种类和用途，请仔细阅读。如果您继续浏览本网站，代表您同意本公司对隐私声明的修改。";
+	cookieI18nValues.cookieAcceptButton = "我明白";           
+</script>                </div>
+<div class="embedscript aem-GridColumn aem-GridColumn--default--12"><!-- SDI include (path: /content/experience-fragments/pwc/cn/zh/header/cn-zh/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link rel="stylesheet" type="text/css" href="/content/pwc/script/cn/zh/newui-logo-march2024-chi.css">
+        
+        
+    
+
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</section>
+    
+
+
+
+    
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-b4d758e9f3" class="cmp-container">
+        
+        <div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="title" class="cmp-container  page-section page-section--col-primary page-section--col-dark  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoparallax="false" data-videoid="videoelementeb4e71bc-d1cd-02cc-beb2-85db25236f71" data-videoautoplay="false" data-videoloop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:center top; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+        <div class="title-icls"><!-- SDI include (path: /content/pwc/cn/zh/issues/generative-ai/transformation-of-genai-operation-mode-in-enterprises-mar2024/_jcr_content/root/container/title/title_icls.dynamic.html, resourceType: pwc/components/modernized/content/title-icls) -->
+
+ 
+    <div class="title-strip dpe-component-wrapper ">
+        <header class="title-strip__wrapper">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <h1 class="title-strip__heading" data-analytics-link="未来企业的智能之路：企业GenAI作业模式变革"><span>未来企业的智能之路：企业GenAI作业模式变革</span></h1>
+                                
+                                    <div class="content-detail-social-share">
+                                        
+    
+<script src="/etc.clientlibs/pwc/components/content/social-share-v2/clientlibs.min.12c4056dce774faf1212da2ba4efeb15.js"></script>
+
+
+
+
+    <div role="img" aria-label="Copy page link to clipboard" class="social-share-rebrand" tabindex="0">
+		<div class="social-share-rebrand-overlay-parent">
+		<span alt="" class="social-share-rebrand-icon"></span>
+		<span alt="" class="social-share-rebrand-overlay" aria-expanded="false">
+    		<span alt="" class="social-share-rebrand-arrow-icon"></span>
+    		<span class="social-share-rebrand-close" tabindex="0"></span>
+				<input id="social-share-input" value="">
+				<span href="#" role="button" class="btn btn--primary social-share-rebrand-copy" tabindex="0">Copy link</span>
+        		<span style="display:none;" class="social-share-rebrand-copy social-share-rebrand-copied">
+					<span class="social-share-rebrand-tick-icon"></span>
+					Link copied to clipboard
+    			</span>
+			</span>
+		</div>
+	</div>
+
+
+                                    </div>
+                                
+                            
+                        </div>
+                    </div>
+                </div>
+        </header>
+    </div>
+    
+    
+
+
+</div>
+
+		</div>             
+        
+    </section>
+
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-799a9ec64d" class="cmp-container">
+        
+        <div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="content-free-1-a69f" class="cmp-container  page-section page-section--col-white     videobghost  " data-wcmmode="false" data-parallax="true" data-videoparallax="false" data-videoid="videoelement3e4d9b31-eabb-7338-460a-98f541b9129b" data-videoautoplay="false" data-videoloop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:center top; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+        <div class="columnControl">
+
+    
+
+
+<div class="parsys_column pwccol2-longform  ">
+   
+      
+      <div class="parsys_column pwccol2-longform-c0">
+         
+
+    
+    
+    
+    <div id="container-09b93c0d5e" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <h4>二零二四年三月</h4>
+<p>近期普华永道就生成式人工智能（GenAI）领域发布了一系列的<a href="/zh/issues/generative-ai.html" pwcbtnfile="HideSize">专业洞察</a>，内容涵盖未来作业模式、企业创新机制、商业价值、服务监管和产业融合等，覆盖了GenAI发展的多个方面。本文将深入探讨GenAI对企业作业模式带来的颠覆性变革，展望未来企业作业的智能化之路。</p>
+<p>随着GenAI技术的普及，企业的作业模式将发生深刻变革。以往的企业作业模式主要依赖于人工的劳动力和经验积累，具有较强的主观性和局限性。而GenAI技术的引入，使得企业可以更加依赖数据和算法进行运营管理和决策执行，从而提高运营效率和决策精准度。企业可以通过GenAI技术实现自动化生产、智能化管理，机器不断学习和优化，与人工团队协同作业，共担职责，帮助企业更好地应对市场变化和竞争压力。</p>
+
+    </div>
+
+
+    
+<script src="/etc.clientlibs/pwc/components/modernized/content/richtext/clientlibs-button.min.05014ed24e6422289f02e026aef427f0.js"></script>
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+      
+      <div class="parsys_column pwccol2-longform-c1">
+         
+
+    
+    
+    
+    <div id="container-67688c4be2" class="cmp-container">
+        
+        <div class="image">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024.jpg" alt="transformation of genaI operation mode in enterprises mar2024" data-emptytext="Image" style="height:auto; 
+                   padding-top:;
+                   max-height:;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section>
+
+</div>
+<div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="content-free-1-c24f" class="cmp-container  page-section page-section--col-light-grey     videobghost  " data-wcmmode="false" data-parallax="true" data-videoparallax="false" data-videoid="videoelement2d089c62-787d-9c98-e68a-de733dc25372" data-videoautoplay="false" data-videoloop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:center top; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <h3><strong>一、企业作业模式的发展</strong></h3>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="columnControl">
+
+    
+
+
+<div class="parsys_column pwccol2-longform  ">
+   
+      
+      <div class="parsys_column pwccol2-longform-c0">
+         
+
+    
+    
+    
+    <div id="container-acdd2bfd6e" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>企业首先是一个组织，组织对外强调经济价值，对内强调提升效能。随着机器辅助人工作业到机器自动智能作业的发展，企业的作业模式持续进化，管理效能不断提升。普华永道将机器与人协同作业的模式发展分为四个阶段：</p>
+<ul>
+<li>第一阶段是传统作业模式下的局部技能辅助，协助员工处理信息流、储存业务信息及数据；</li>
+<li>第二阶段是传统AI模式下局部的机器智能分析，以固定的计算规则协助进行数据分析及管理决策；</li>
+<li>第三阶段是在GenAI应用下，机器的AIGC（AI Generated Content）能力和人类自身创新技能的融合，形成新的人机协作模式；</li>
+<li>第四阶段是随着GenAI的高速发展，由AIGC应用形成AIGS (AI Generated Solution)方案，构建企业认知大脑，在AI能力的帮助下人的生产力将得到释放以创造新价值，形成人机共存的赋能型组织。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+      
+      <div class="parsys_column pwccol2-longform-c1">
+         
+
+    
+    
+    
+    <div id="container-3ac1215feb" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p style="text-align: center;"><b>机器与人协同作业模式的发展</b></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-1.png" alt="transformation of genaI operation mode in enterprises mar2024" data-emptytext="Image" style="height:auto; 
+                   padding-top:;
+                   max-height:;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>在机器与人协同作业的第三及第四个阶段，GenAI的发展使得企业在生产作业模式上发生范式变革，主要包括以下四点：</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="columnControl">
+
+    
+
+
+<div class="parsys_column pwccol2-longform  ">
+   
+      
+      <div class="parsys_column pwccol2-longform-c0">
+         
+
+    
+    
+    
+    <div id="container-c5b593881d" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><b>（一）内容生产方式的变化</b></p>
+<p>GenAI时代，内容生产主体从人类本身向人工智能迁移。AIGC作为GenAI的一种内容生产应用形式，极大提升了内容生产效率。传统作业内容生产的核心痛点是存在大量重复的结构性内容，耗费大量时间及人力成本，同时存在质量和产量无法兼具的矛盾。GenAI代表着人工智能从以往基于“规则”的关系关联、规律发掘、分析预测等被动角色，开始向基于“认知”的生成及创造等主动角色发生转变，在一定结构性的条件下生成创造性内容，成功解决PGC及UGC<sup>1</sup>质量和产量无法兼具的缺点，为内容生产带来巨大的发展潜力。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-2.png" alt="transformation of genaI operation mode in enterprises mar2024" data-emptytext="Image" style="height:auto; 
+                   padding-top:;
+                   max-height:;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+      
+      <div class="parsys_column pwccol2-longform-c1">
+         
+
+    
+    
+    
+    <div id="container-c63228e983" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><b>（二）人机交互方式的变化</b></p>
+<p>在交互方式方面，GenAI改变了人机指令交互方式，能更精准地识别与理解个性化的需求,提升了人机交互体验。传统系统交互中，往往存在交互形式无法灵活调整、需求识别不够精准的痛点，而GenAI产品可有效对用户输入的自然语言、图片、音频、视频等多模态内容进行智能解析，快捷地反馈用户所需内容，提升交互效率与体验。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-3.png" alt="transformation of genaI operation mode in enterprises mar2024" data-emptytext="Image" style="height:auto; 
+                   padding-top:;
+                   max-height:;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="columnControl">
+
+    
+
+
+<div class="parsys_column pwccol2-longform  ">
+   
+      
+      <div class="parsys_column pwccol2-longform-c0">
+         
+
+    
+    
+    
+    <div id="container-d776eb7869" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><b>（三）流程运作方式的变化</b></p>
+<p>在流程运作方面，GenAI的应用可重构业务作业流程，提升作业流程整体的生产力。</p>
+<ul>
+<li><b>一是从“人工流程”到“AI流程”</b>。基于GenAI应用的新流程可以替代原有人工作业流程，有些业务流程原来由人力承担，如客服沟通、线上课程培训录播等，GenAI可替代原有人力作业流程，起到降本增效的积极作用；</li>
+<li><b>二是从“人找应用”到“应用找人”。</b>GenAI通过将业务对象、规则和过程等都进行AI化关联集成，实现以人为中心，理解用户需求并进行智能推荐应用。GenAI的应用可实现真正的从全流程、全场景的用户体验角度来实现业务的高效流转。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-4.png" alt="transformation of genaI operation mode in enterprises mar2024" data-emptytext="Image" style="height:auto; 
+                   padding-top:;
+                   max-height:;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+      
+      <div class="parsys_column pwccol2-longform-c1">
+         
+
+    
+    
+    
+    <div id="container-e35893b96e" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><b>（四）人机职责的变化</b></p>
+<p>内容生产、人机交互和流程运作方式的变化，使得企业人机职责重新分配，机器将承担更多重复繁琐的结构化脑力工作，而工作人员将更好地发挥人类独有的创造力、情感和道德判断能力，更加注重深层次的、前瞻性的思考，在人机协作中实现更高的业务价值。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-5.png" alt="transformation of genaI operation mode in enterprises mar2024" data-emptytext="Image" style="height:auto; 
+                   padding-top:;
+                   max-height:;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section>
+
+</div>
+<div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="content-free-1-c808" class="cmp-container  page-section page-section--col-white     videobghost  " data-wcmmode="false" data-parallax="true" data-videoparallax="false" data-videoid="videoelementf8328267-9e33-c196-4b6b-9e53f85814ff" data-videoautoplay="false" data-videoloop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:center top; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <h3><strong>二、企业GenAI作业模式应用价值</strong></h3>
+<p>企业在GenAI作业模式的应用中可获取多方面的价值，包括以下几个方面。</p>
+<ul>
+<li><strong>一是提升生产力：</strong>GenAI可以帮助企业加速内容生产、活动任务的执行与交付过程，协助企业员工承担重复繁琐的脑力工作，将释放工作人员的精力，更多转向创新策略、前瞻规划等工作内容，极大提升企业内部生产力；</li>
+<li><strong>二是降低成本：</strong>实现任务和流程的自动化，减少手工作业，精简业务流程，降低业务流程运营成本；</li>
+<li><strong>三是增加收入：</strong>在GenAI的应用支持下，改变原有作业模式，升级数字化及AI服务，通过提升客户满意度及产品吸引力实现营业额增长，或通过GenAI实现业务创新，创造新的收入来源。</li>
+</ul>
+<p>GenAI作业模式能为各行各业绝大多数职能领域创造价值。GenAI的价值潜力在各职能领域的分布并不均衡，在各行业职能领域发掘高价值GenAI适用场景，主要应从以下三个方面进行考虑：</p>
+<ul>
+<li><strong>数据资产丰富程度：</strong>GenAI作业适用于数据资产丰富的场景，包括大量结构化或非结构化数据。这些数据可以包括各种来源，如企业内部数据库、社交媒体、日志文件等合规数据。GenAI可以利用这些数据资产在通用大模型的基础上提供更优质更适配企业风格的内容生产或任务执行；</li>
+<li><strong>结构性脑力劳动占比：</strong>GenAI适用于结构化脑力劳动占比较高的场景。结构化脑力劳动是指通过相对标准化的思考进行内容生产、分析或推理决策的任务。GenAI可通过自动化或智能化的方式，提升工作效率和准确性；</li>
+<li><strong>作业强度及人力成本大小：</strong>GenAI适用于作业强度较大、人力成本较高的场景。GenAI模型训练和应用需要耗费较大成本，只有在作业强度大、成本高的应用场景，通过GenAI自动化智能化生产和处理，提升任务完成效率，降低人工及时间成本才能实现GenAI应用效益。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>就市场应用成熟度而言，普华永道发现GenAI在客户服务与运营、市场销售与营销、软件工程、产品设计与开发、风险与合规等职能领域，能够为企业创造较大价值。这些职能领域均具备数字资产丰富、结构化脑力劳动占比高、作业强度大、人力成本高的特征：</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image img-alignment-center">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-6.png" alt="transformation of genaI operation mode in enterprises mar2024" width="600" height="62.5%" data-emptytext="Image" style="height:auto; 
+                   padding-top:62.5%;
+                   max-height:100px;">
+              
+                        
+    
+
+</div>
+
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>GenAI作为一项前沿应用，可在各类行业职能领域为企业提升生产力、降低成本、创造新的收入来源，为企业带来巨大的商业价值。</p>
+<p>以客户服务与运营、市场销售与营销、产品研发三大职能领域为例，说明GenAI在各行各业中如何产生商业价值（示例，列举非穷举）：</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image img-alignment-center">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-7.png" alt="transformation of genaI operation mode in enterprises mar2024" width="600" height="112.99999999999999%" data-emptytext="Image" style="height:auto; 
+                   padding-top:112.99999999999999%;
+                   max-height:0px;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+		</div>             
+        
+    </section>
+
+</div>
+<div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="content-free-1-5989" class="cmp-container  page-section page-section--col-light-grey     videobghost  " data-wcmmode="false" data-parallax="true" data-videoparallax="false" data-videoid="videoelement7919b649-6296-0d05-5579-36ab1274427a" data-videoautoplay="false" data-videoloop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:center top; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <h3><strong>三、企业GenAI作业模式变革实施要素</strong></h3>
+<p>GenAI对各行各业的颠覆性应用价值潜能正日益得到各业界的认可，从行业巨头到各类初创企业，均在考虑部署使用GenAI工具应用，以期增强竞争优势，创造企业价值，迎来业务增长新曲线。而GenAI作业模式得到实际部署落地及规模化应用的前提，是企业在企业战略、运营模式、技术能力、企业人才、企业组织与文化等方面进行调整变革。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image img-alignment-center">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-8.png" alt="transformation of genaI operation mode in enterprises mar2024" width="600" height="80.16666666666666%" data-emptytext="Image" style="height:auto; 
+                   padding-top:80.16666666666666%;
+                   max-height:100px;">
+              
+                        
+    
+
+</div>
+
+</div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><b>（一）GenAI企业战略</b></p>
+<p>在企业制定GenAI转型战略时，应从自身业务战略及资源禀赋出发，兼顾内外环境因素，制定战略蓝图及建设路径，紧跟GenAI发展趋势进行迭代升级。企业制定GenAI战略蓝图推进企业GenAI作业模式变革，建议遵循“三步走”方式，高效实现GenAI部署及规模化应用：</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="textimage text section image_right nobg"><div></div>
+
+
+    
+
+
+
+  <div class="textimage-image">
+   
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-9.png" alt="transformation of genaI operation mode in enterprises mar2024" width="700" height="48.857142857142854%" data-emptytext="Image" style="height:auto; 
+                   padding-top:48.857142857142854%;
+                   max-height:200px;">
+              
+                        
+    
+
+</div>
+
+   
+  </div>
+  <div class="textimage-text">
+   <div></div>
+
+
+    
+
+    <div class="text-component">
+        <ul>
+<li><strong>找准定位，制定目标</strong>：企业在制定战略蓝图时，首先应明确GenAI在公司整体发展战略中的定位，是作为产品核心竞争力还是生产力提升技术工具。并根据内外环境分析，制定明确的GenAI发展目标，如提升生产力、降低成本、增加收入等，确保这些目标与公司现有战略目标相互契合，利于公司长远发展；<br>
+</li>
+<li><strong>资源评估，规划路径</strong>：明确GenAI定位及目标后，企业需对自身的资源进行评估，包括技术、数据、人才、资金等。企业应评估在现有的技术水平和人才结构的基础上，是否需要引进外部专业人才，投入更多资金进行技术研发，现有的数据资源是否足够支持GenAI的部署实践应用等。根据资源评估的结果，规划实施GenAI战略的具体路径和步骤。制定详细的时间表和计划，明确实施的先后顺序和重点任务，确保按战略方向和路径规划持续推进GenAI部署落地，规模化应用；</li>
+<li><strong>试点验证，路径调整</strong>：在规模化应用前，企业应当通过试点速赢项目验证GenAI战略的有效性，进行小范围实施观察，评估其成效及影响，特别是需要关注试点项目中的问题和困难，及时进行资源调整，对技术、人才、资金等资源进行合理分配和调整，确保未来GenAI战略实施更加顺利、具有成效。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+
+  </div>  
+
+<div style="clear:both"></div>
+
+    
+
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof lazyLoadingTextImage == 'function') {       
+            lazyLoadingTextImage('.textimage-image');    
+        }  
+    });
+</script> </div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><strong>（二）GenAI技术能力</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="textimage text section image_right nobg"><div></div>
+
+
+    
+
+
+
+  <div class="textimage-image">
+   
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-10.png" alt="transformation of genaI operation mode in enterprises mar2024" width="700" height="48.142857142857146%" data-emptytext="Image" style="height:auto; 
+                   padding-top:48.142857142857146%;
+                   max-height:200px;">
+              
+                        
+    
+
+</div>
+
+   
+  </div>
+  <div class="textimage-text">
+   <div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>就GenAI的技术应用部署途径而言，包括以下“练、调、用”三种方式：</p>
+<ul>
+<li>“练”是指某些国际知名企业或行业巨头具备基础设施或资源，自行准备算力、算法、数据等资源训练大模型，并进行商业应用或企业内部作业应用；</li>
+<li>“调”是指某些企业选择市面上的基础大模型，适配企业特定垂直领域数据进行微调适配应用；</li>
+<li>“用”是指各类中小企业或个人用户直接应用GenAI工具进行应用。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+
+  </div>  
+
+<div style="clear:both"></div>
+
+    
+
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof lazyLoadingTextImage == 'function') {       
+            lazyLoadingTextImage('.textimage-image');    
+        }  
+    });
+</script> </div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>企业应根据自身的资源及技术能力，从部署应用成本效益及安全性进行考量，选择合适的GenAI技术部署应用途径，寻找合适的解决方案。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><strong>（三）GenAI数据能力</strong></p>
+<p>数据是GenAI技术的基础，对于大模型算法训练和模型微调优化至关重要。企业建立高效存储、处理及训练多模态数据的能力，打造自身数据护城河。为支撑GenAI应用的开发、部署及运营，企业需具备GenAI相关数据资源及数据资源应用管理能力。</p>
+<ul>
+<li><strong>GenAI应用所需数据资源：</strong><ul>
+<li>大规模数据集：若企业自建GenAI大模型，则需要拥有大规模数据集进行训练，如语言生产模型需要大量文本数据，图像生成模型需要大量的图像数据。自建大模型需要拥有足够海量的数据资源支持GenAI基础大模型训练，这类企业一般是巨头企业；</li>
+<li>特定行业或场景数据：对于一般大型或中小企业而言，更佳的落地应用部署方式为选择市面上的基础大模型对接，并使用企业内部特定行业或场景数据进行微调训练，确保GenAI模型应用符合企业业务需求。</li>
+</ul>
+</li>
+<li><strong>GenAI数据应用管理能力：</strong><ul>
+<li>数据管理及应用能力：对于GenAI应用来说，具有稳定可靠的数据存储管理系统，并具备高效的查询、读写操作及数据采集、清洗、分析挖掘能力非常重要。企业应规划全面的数据治理体系，分级分类管理、应用及保护数据，确保数据完整性、准确性及安全性；</li>
+<li>数据安全及隐私保护能力：企业需要建立完善的数据安全及隐私保护机制，确保数据在采集、存储、处理及传输过程中的安全性，保护用户的隐私和数据的机密性。</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><b>（四）GenAI运营模式</b></p>
+<p>企业应将GenAI工具应用部署与业务流程进行融合，根据GenAI的应用效果调整运营模式，进行业务流程重塑，优化配套资源分配、制度管理及业务考核体系。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image img-alignment-center">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-11.png" alt="transformation of genaI operation mode in enterprises mar2024" width="700" height="29.142857142857142%" data-emptytext="Image" style="height:auto; 
+                   padding-top:29.142857142857142%;
+                   max-height:300px;">
+              
+                        
+    
+
+</div>
+
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <ul>
+<li><b>流程重塑：</b>通过GenAI工具应用，企业可以更加智能高效地重新设计、优化精简现有业务流程，并借助GenAI的智能分析识别能力，可以更好地识别并解决业务流程中存在的瓶颈和问题，提高业务流程效率及作业质量；</li>
+<li><b>资源优化：</b>根据GenAI工具的应用效果调整原有资源分配模式，优化资源利用价值，包括人才、技术、资金等，以便更好的支持和推动相关业务活动；</li>
+<li><b>制度规范：</b>为了更好地整合GenAI工具和业务流程，企业应建立相关的管理制度机制，包括规范化的GenAI工具使用流程、培训和信息安全管理机制等，确保GenAI工具的有效应用，最大程度地发挥作用；</li>
+<li><b>考核调整：</b>企业应根据GenAI的工具应用效果和业务流程优化情况，重新评估和优化调整配套的业务考核体系，更好地反映GenAI应用价值，激励员工适应新技术，推动业绩持续提升。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><b>（五）GenAI企业人才</b></p>
+<p>在GenAI时代，企业应从GenAI工具建设的技术人才和具备AI思维的业务人才两个方面进行人才甄选和技能培养，提升GenAI在工作流程中的实用性及参与度。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="columnControl">
+
+    
+
+
+<div class="parsys_column pwccol2-longform  ">
+   
+      
+      <div class="parsys_column pwccol2-longform-c0">
+         
+
+    
+    
+    
+    <div id="container-83741d4dff" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <ul>
+<li><b>GenAI工具建设的技术人才：</b>各类企业应根据战略方向及资源禀赋选择合适的GenAI应用途径，并配置不同的GenAI技术人才，包括算法类、数据类、研发类人才，实现GenAI的实际落地应用。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image img-alignment-center">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-12.png" alt="transformation of genaI operation mode in enterprises mar2024" width="600" height="55.166666666666664%" data-emptytext="Image" style="height:auto; 
+                   padding-top:55.166666666666664%;
+                   max-height:100px;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+      
+      <div class="parsys_column pwccol2-longform-c1">
+         
+
+    
+    
+    
+    <div id="container-89d59f519e" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <ul>
+<li><b>具备GenAI思维的业务人才：</b>各类企业应关注GenAI工具建设应用的全链条业务人才培养，加强GenAI工具建设及应用协同，将GenAI实际渗透到各类业务工作流程，并加强合规意识及信息安全意识培养。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p style="text-align: center;"><b>业务人员需具备的GenAI相关技能</b></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="image img-alignment-center">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-13.png" alt="transformation of genaI operation mode in enterprises mar2024" width="600" height="56.99999999999999%" data-emptytext="Image" style="height:auto; 
+                   padding-top:56.99999999999999%;
+                   max-height:100px;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>在GenAI运作效用的牵引下，未来企业整体人才结构将由“金字塔型”向“纺锤形”转变，操作类岗位工作门槛将快速下降，对操作执行类人员的需求减少，企业人才需求将往懂AI、用AI、管AI的方向发展。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="columnControl">
+
+    
+
+
+<div class="parsys_column pwccol2-longform  ">
+   
+      
+      <div class="parsys_column pwccol2-longform-c0">
+         
+
+    
+    
+    
+    <div id="container-4fdca2af97" class="cmp-container">
+        
+        <div class="image img-alignment-center">
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-14.png" alt="transformation of genaI operation mode in enterprises mar2024" width="600" height="72.5%" data-emptytext="Image" style="height:auto; 
+                   padding-top:72.5%;
+                   max-height:100px;">
+              
+                        
+    
+
+</div>
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+      
+      <div class="parsys_column pwccol2-longform-c1">
+         
+
+    
+    
+    
+    <div id="container-2a3d859d41" class="cmp-container">
+        
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>对企业整体人才结构进行调整，需关注以下四点调整要素：</p>
+<ul>
+<li><b>聚焦创新：</b>基于历史知识的总结和操作将交由GenAI完成，高级人才应更加聚焦于创新引领性领域的开拓性工作；</li>
+<li><b>能力调整：</b>将降低对人才的行业专业能力要求，提升对通用型技能和学习新技术的要求，以更好地适应多变的作业环境，利用GenAI等新技术适配更广泛的职责要求；</li>
+<li><b>长期投入：</b>GenAI目前处于单点突破阶段，实现GenAI原生仍需要相当长一段时间，期间需要大量AI工程师的努力；前期应大量引入高端AI技术人员，构建GenAI原生组织；</li>
+<li><b>关注安全：</b>效率的提升同时也将带来风险的增加，需要提升内容安全、数据安全等能力或增加相关岗位保障GenAI的合理合法合规应用。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p><b>（六）企业组织与文化</b></p>
+<p>企业实现GenAI作业模式需构建“GenAI认知大脑”，并以“虚拟人力”向企业各职能部门赋能，企业应调整组织阵型，进行GenAI文化变革，主动拥抱GenAI作业模式。</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="textimage text section image_right nobg"><div></div>
+
+
+    
+
+
+
+  <div class="textimage-image">
+   
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/issues/transformation-of-genaI-operation-mode-in-enterprises-mar2024-15.png" alt="transformation of genaI operation mode in enterprises mar2024" width="700" height="41.285714285714285%" data-emptytext="Image" style="height:auto; 
+                   padding-top:41.285714285714285%;
+                   max-height:200px;">
+              
+                        
+    
+
+</div>
+
+   
+  </div>
+  <div class="textimage-text">
+   <div></div>
+
+
+    
+
+    <div class="text-component">
+        <ul>
+<li><strong>职能调整：</strong>GenAI认知大脑作为“虚拟人力”可提供部分专业能力，例如向前台提供运营支持或客户解决方案、智能客服等；在GenAI“虚拟人力”的加持下，各职能部门岗位编制将进行精简调整，其中，中后台部门的业务操作性编制岗位或有较大变化；</li>
+<li><strong>编制新增：</strong>企业需新设GenAI认知大脑建设部门、信息安全及GenAI内容合规管理部门，以保障GenAI的合规应用，保障数据安全及内容安全；</li>
+<li><strong>人才共享：</strong>GenAI可辅助人才掌握各类岗位相关知识，人才在企业组织内的流动性增加，逐步转向知识共享、人才共享型组织；</li>
+<li><strong>GenAI驱动：</strong>GenAI帮助组织更精准地决策和执行，建立GenAI智能驱动型组织文化，强调数据意识、自动化、员工与GenAI智能敏捷协同。</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+
+  </div>  
+
+<div style="clear:both"></div>
+
+    
+
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof lazyLoadingTextImage == 'function') {       
+            lazyLoadingTextImage('.textimage-image');    
+        }  
+    });
+</script> </div>
+
+		</div>             
+        
+    </section>
+
+</div>
+<div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="content-free-1-7b4c" class="cmp-container  page-section page-section--col-white     videobghost  " data-wcmmode="false" data-parallax="true" data-videoparallax="false" data-videoid="videoelement54999e06-e5f0-c42b-ccb8-a3a91ee41f09" data-videoautoplay="false" data-videoloop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:center top; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+        <div class="text parbase section"><div></div>
+
+
+    
+
+    <div class="text-component">
+        <p>值得关注的是，进行GenAI作业模式变革对于全球知名领先企业来说都仍是一个正在探索中的命题，其变化调整高度依赖于GenAI技术的发展及企业内部具体应用的建设，而GenAI的发展日新月异且方向未完全定性，使得企业GenAI作业模式变革调整周期长，涉及面广，对企业未来发展影响深远。</p>
+<p>GenAI的发展将为社会和企业发展带来突破式变革的机会与无数潜在收益，企业应高瞻远瞩，把握GenAI的应用发展方向，迎接挑战，抓住机遇，赢得未来。</p>
+<p><strong>注释:</strong></p>
+<p><sub>1. Professor generated Content &amp;User Generated Content，专家生成内容和用户生成内容。</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div class="section-separator separator">
+  <hr style="margin: 0;">
+</div>
+<div class="columnControl">
+
+    
+
+
+<div class="parsys_column pwccol2-longformc  ">
+   
+      
+      <div class="parsys_column pwccol2-longformc-c0">
+         
+
+    
+    
+    
+    <div id="container-42afb7f641" class="cmp-container">
+        
+        <div class="textimage text section image_right spacer_both nobg"><div></div>
+
+
+    
+
+
+
+  <div class="textimage-image">
+   
+
+
+    
+
+<div class="asset-sharing-component image-asset ">
+     
+        
+              
+         <img class="js-lazy-loading mod__image_p image-component_background " data-image="/zh/tmt/decoding-security-risks-challenges-posed-generative-ai-qc.png" alt="" title="扫描微信二维码，订阅#探索元宇宙内容。" width="160" height="101.875%" data-emptytext="Image" style="height:auto; 
+                   padding-top:101.875%;
+               max-height:0px;">               
+    
+
+</div>
+
+   
+  </div>
+  <div class="textimage-text">
+   <div></div>
+
+
+    
+
+    <div class="text-component">
+        <p style="text-align: right;"><br>
+扫描微信二维码<br>
+订阅<strong>#人工智能</strong>内容</p>
+
+    </div>
+
+
+    
+
+
+
+  </div>  
+
+<div style="clear:both"></div>
+
+    
+
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof lazyLoadingTextImage == 'function') {       
+            lazyLoadingTextImage('.textimage-image');    
+        }  
+    });
+</script> </div>
+
+        
+    </div>
+
+
+      </div>
+   
+      
+      <div class="parsys_column pwccol2-longformc-c1">
+         
+
+    
+    
+    
+    <div id="container-9dbe957db4" class="cmp-container">
+        
+        <div class="quote">
+
+    
+
+
+<div class="inlinequote">
+
+	
+	<div class="dpe-component-wrapper quote-component quote-component--has-margin">
+		<blockquote>
+		  <p class="h4">在新兴技术快速迭代、瞬息万变的商业环境中，社会各界已经身处人工智能（AI）的革新时代。普华永道不仅密切关注人工智能领域最新发展，更从公司层面积极推进AI战略。秉持负责任的态度，普华永道专注探索AI商业化应用，分享前沿法规与资讯解读，为企业及个人提供科技驱动的AI解决方案，为未来蓄势赋能。</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section>
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="cta-1"></div>
+
+
+	
+    
+
+
+
+    
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-36c2fb9725" class="cmp-container">
+        
+        <div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="content-free-1-6df5" class="cmp-container  page-section page-section--col-white  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoparallax="false" data-videoid="videoelement99111a4b-7709-8bf6-79d4-c75fe2a41e61" data-videoautoplay="false" data-videoloop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+        
+		</div>             
+        
+    </section>
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="cta-2"></div>
+
+
+	
+    
+
+
+
+    
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="related"></div>
+
+
+	
+    
+
+
+
+    
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="contactUs"></div>
+
+
+	<section id="contactUs" style="height: auto" class="cmp-experiencefragment cmp-experiencefragment--transformation-of-genai-operation-mode-in-enterprises-mar2024 fullwidth ixf__light-grey">
+
+
+    
+    <div id="container-d061d7632a" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="rightrailcontact aem-GridColumn aem-GridColumn--default--12"><!-- SDI include (path: /content/experience-fragments/pwc/cn/zh/contact/transformation-of-genai-operation-mode-in-enterprises-mar2024/master/_jcr_content/root/rightrailcontact.dynamic.html/pwc/components/modernized/content/rightrailcontact, resourceType: pwc/components/modernized/content/rightrailcontact) -->
+
+
+    
+
+
+	
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/pwc/clientlibs/component-longform/rebrand-clientlib/rightrailcontcat.min.9612d76cbc5243c9cb899c4d1a6ffd81.css" type="text/css">
+<script src="/etc.clientlibs/pwc/clientlibs/component-longform/rebrand-clientlib/rightrailcontcat.min.d41d8cd98f00b204e9800998ecf8427e.js"></script>
+
+
+
+	<div class="sectionpar">
+	    <section class="contactModule maxPadding" id="newrightrailcontacts_f5f8a3b2-f072-4fe5-9c9a-7714c61a1bb2_root_rightrailcontact">
+	        <div class="rightrailcontact-component section">
+	            <div class="row">
+	                <div class="col-sm-12">
+	                    <h2 class="rightrailcontact-heading" id="scrollcontactheader" style="border:none;">联系我们</h2>
+	                    <div class="contactCol-container">
+	                        
+	                            
+	                                
+
+    
+   
+    
+
+        
+
+        
+
+                
+
+                
+
+                
+                    <div country="cn" divid="0" class="contactCol" style="display:block">
+                        <div class="leftline">
+                            
+                            <div class="contact-content">
+                                <p class="contact-name">
+                                    
+                                        <a href="https://www.pwccn.com/zh/contacts/w/wilson-chow.html">周伟然  </a>
+                                    
+                                    
+                                </p>
+                                <div class="contact-info">
+                                    <p>全球科技、媒体及通信 (TMT) 行业主管合伙人与中国人工智能主管合伙人, 普华永道中国</p>
+                                    
+                                    
+                                        <p>电话: +[86] (755) 8261 8886</p>
+                                    
+                                    <!--<sly data-sly-test="">
+                                        <p>Fax: </p>
+                                    </sly>-->
+                                </div>
+                                <div class="contact-link">
+                                    
+                                        <a href="https://cn.linkedin.com/in/wilson-wy-chow-8b299425" target="_blank">
+                                            <img class="right-rails-img" src="data:image/gif;base64,R0lGODlhGAAYALMAAACJ0KDT7UCn3PD4/HC95RCQ01Cu3zCf2cDi84DE6P///5DM6yCY1mC14v///wAAACH5BAEHAA4ALAAAAAAYABgAAAReEMhJq7046827/xWRHCCVKMrAlBKCKgILnOkqN6O8FYJQaDQFwIVqvBSLTHB4bBowSyIKMXgFoC8migBgvBBYlFYo+YaF0on5Es2Wp+exGs7Opt8KcF18B6x1gIEbEQA7" alt="在Linkedin关注我们">
+                                        </a>
+                                    
+                                    
+                                    <a class="underline-link contact-email-link-aa" href="javascript:void(0);" onclick="openContactUrl('/content/pwc/cn/zh/contacts/w/wilson-chow','%u5468%u4F1F%u7136','%20','L2NvbnRlbnQvZGFtL3B3Yy9jbi96aC9jb250ZW50LWZyYWdtZW50cy9jb250YWN0cy93L3dpbHNvbi1jaG93','true')" target="_self" data-expert-contact-us="周伟然  "> 电邮
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+        
+
+        
+
+    
+
+	                            
+	                        
+	                            
+	                                
+
+    
+   
+    
+
+        
+
+        
+
+                
+
+                
+
+                
+                    <div country="hk" divid="1" class="contactCol" style="display:block">
+                        <div class="leftline">
+                            
+                            <div class="contact-content">
+                                <p class="contact-name">
+                                    
+                                        <a href="https://www.pwccn.com/zh/contacts/h/horatio-wong.html">黄启佳  </a>
+                                    
+                                    
+                                </p>
+                                <div class="contact-info">
+                                    <p>中国内地及香港地区数字化与科技咨询主管合伙人, 普华永道香港</p>
+                                    
+                                    
+                                        <p>电话: +[852] 2289 1909</p>
+                                    
+                                    <!--<sly data-sly-test="">
+                                        <p>Fax: </p>
+                                    </sly>-->
+                                </div>
+                                <div class="contact-link">
+                                    
+                                        <a href="https://www.linkedin.com/in/horatio-wong-2486a422/" target="_blank">
+                                            <img class="right-rails-img" src="data:image/gif;base64,R0lGODlhGAAYALMAAACJ0KDT7UCn3PD4/HC95RCQ01Cu3zCf2cDi84DE6P///5DM6yCY1mC14v///wAAACH5BAEHAA4ALAAAAAAYABgAAAReEMhJq7046827/xWRHCCVKMrAlBKCKgILnOkqN6O8FYJQaDQFwIVqvBSLTHB4bBowSyIKMXgFoC8migBgvBBYlFYo+YaF0on5Es2Wp+exGs7Opt8KcF18B6x1gIEbEQA7" alt="在Linkedin关注我们">
+                                        </a>
+                                    
+                                    
+                                    <a class="underline-link contact-email-link-aa" href="javascript:void(0);" onclick="openContactUrl('/content/pwc/cn/zh/contacts/h/horatio-wong','%u9EC4%u542F%u4F73','%20','L2NvbnRlbnQvZGFtL3B3Yy9jbi96aC9jb250ZW50LWZyYWdtZW50cy9jb250YWN0cy9oL2hvcmF0aW8td29uZw==','true')" target="_self" data-expert-contact-us="黄启佳  "> 电邮
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+        
+
+        
+
+    
+
+	                            
+	                        
+	                            
+	                                
+
+    
+   
+    
+
+        
+
+        
+
+                
+
+                
+
+                
+                    <div country="cn" divid="2" class="contactCol" style="display:block">
+                        <div class="leftline">
+                            
+                            <div class="contact-content">
+                                <p class="contact-name">
+                                    
+                                        <a href="https://www.pwccn.com/zh/contacts/h/harry-zhang.html">张为峰  </a>
+                                    
+                                    
+                                </p>
+                                <div class="contact-info">
+                                    <p>合伙人, 普华永道中国</p>
+                                    
+                                    
+                                        <p>电话:  +[86] (20) 3819 2336</p>
+                                    
+                                    <!--<sly data-sly-test="">
+                                        <p>Fax: </p>
+                                    </sly>-->
+                                </div>
+                                <div class="contact-link">
+                                    
+                                    
+                                    <a class="underline-link contact-email-link-aa" href="javascript:void(0);" onclick="openContactUrl('/content/pwc/cn/zh/contacts/h/harry-zhang','%u5F20%u4E3A%u5CF0','%20','L2NvbnRlbnQvZGFtL3B3Yy9jbi96aC9jb250ZW50LWZyYWdtZW50cy9jb250YWN0cy9oL2hhcnJ5LXpoYW5n','true')" target="_self" data-expert-contact-us="张为峰  "> 电邮
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+        
+
+        
+
+    
+
+	                            
+	                        
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    
+	        <input type="hidden" value="false" id="countryfilter">
+	        
+	        
+	            <input type="hidden" value="xx" id="currentLocation">
+	        
+	    
+	        
+			
+				<div class="">
+	            	<div class="contactlink">
+	                	
+	                </div>
+	            </div>
+	         
+	    </section>
+	</div>
+
+    <script>
+        function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
+        	var url = "";
+        	if("true" === hasPageLink){
+        	 url = "\/cn\/zh\/content\/pwc\/global\/forms\/contactUsNew.html?style=pwc\x26territory=cn" + "&contactLink=" + contactLink;
+        	}
+        	else{
+        	url = "\/cn\/zh\/content\/pwc\/global\/forms\/contactUsNew.html?style=pwc\x26territory=cn" +  "&cf=true" + "&contactLink=" + encodedPath;	
+        	}
+           
+            if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
+        		var parentPagePath = digitalData.page.content.contentFullPath;
+        		parentPagePath = parentPagePath.split(".html")[0];
+        		if(!url.includes(parentPagePath)){
+        		url = url+"&parentPagePath="+parentPagePath;
+        		}
+        	}
+            createObject('contactUs.formState','origination');
+            createObject("contactUs.expertName",firstName+" "+lastName);
+            window.location.href = url;
+            return false;
+	    }
+	</script>
+
+    <script>
+        $(document).ready(function () {
+            var rightrailcontacts = "newrightrailcontacts_f5f8a3b2-f072-4fe5-9c9a-7714c61a1bb2_root_rightrailcontact";
+            var countryhawkList = "countryhawkList_f5f8a3b2-f072-4fe5-9c9a-7714c61a1bb2_root_rightrailcontact";
+            var displayMore = "displayMore_f5f8a3b2-f072-4fe5-9c9a-7714c61a1bb2_root_rightrailcontact";
+            var displayLess = "displayLess_f5f8a3b2-f072-4fe5-9c9a-7714c61a1bb2_root_rightrailcontact";
+            console.log($("countryHawkList ",'#' + countryhawkList));
+            var allContacts = $('#' + rightrailcontacts + ' div.contactCol');
+            var parentAllContacts = allContacts.parent();
+
+            var a = new Array();
+            $('#' + countryhawkList).children("option").each(function (x) {
+                test = false;
+                b = a[x] = $(this).val();
+                for (i = 0; i < a.length - 1; i++) {
+                    if (b == a[i])
+                        test = true;
+                }
+                if (test)
+                    $(this).remove();
+            });
+            $('#' + countryhawkList).html($('#' + countryhawkList + ' option').sort(function (x, y) {
+                return $(x).val() < $(y).val() ? -1 : 1;
+            }));
+
+			//changes by hemant
+			//Set filter to display all by default on load starts
+    		$("#"+countryhawkList).prop('selectedIndex', 0);
+            //Set filter to display all by default on load end
+
+            if ($("#countryfilter").val() == "true") {
+                var c = $("#currentLocation").val();
+                var countryExist = false;
+                $('#' + countryhawkList + ' option').each(function () {
+                    if (this.value.toLowerCase() == c.toLowerCase())
+                        countryExist = true;
+    
+                });
+                console.log('exist',countryExist);
+                if (countryExist == true) {
+                    if (c != "xx") //if geo is ON, c cannot be xx, if client request territory cannot be determined, then set c to "us"
+                    {
+                        /*$('#'+rightrailcontacts+' div.contact_layout[country!="'+ c.toLowerCase() + '"]').each(function(index) {
+                         $(this).hide();
+                         });
+                         var div_counter =0;
+                         $('#'+rightrailcontacts+' div.contact_layout[country="'+ c.toLowerCase() + '"]').each(function(index) {
+                         $(this).show();
+                         div_counter++;
+                         if(div_counter <=6)
+                         $(this).show();
+                         else
+                         $(this).hide();
+    
+                         });*/
+                        var contacts = $('#' + rightrailcontacts + ' div.contactCol');
+                        var count = 0;
+                        contacts.remove();
+                        allContacts.each(function () {
+    
+                            if ($(this).attr('country') == c.toLowerCase()) {
+
+                                parentAllContacts.append(this);
+                                count++;
+                            }
+    
+                        });
+                        $('#' + countryhawkList).val(c.toLowerCase());
+                    }
+                    else //if geo is OFF, then c is "xx"
+                    {
+                        $('#' + countryhawkList).val(' All'); //set territory dropdown to All
+                    }
+                }
+            }
+    
+            $('#' + countryhawkList).change(function () {
+                var country = $(this).val();
+                //console.log("ddl changed");
+                //alert('#'+ rightrailcontacts+ ' div.contact_layout[country="+ country + "]');
+                //leave the space before the All, it is needed for the sort.
+                /*if (country != " All") {
+                 $('#'+ rightrailcontacts+ ' div.contact_layout[country="'+ country + '"]').each(function(index) {
+                 $(this).show();
+                 });
+                 $('#'+ rightrailcontacts+ ' div.contact_layout[country!="'+ country + '"]').each(function(index) {
+                 $(this).hide();
+                 });
+                 } else {
+                 $('#'+ rightrailcontacts+' div.contact_layout').each(function(index) {
+                 $(this).show();
+                 });
+                 }*/
+                var contacts = $('#' + rightrailcontacts + ' div.contact_layout');
+                var count = 0;
+                contacts.remove();
+
+				//changes by hemant
+                //To fix the existing prod issue of filters start
+                parentAllContacts.empty();
+                //To fix the existing prod issue of filters end
+
+                if (country != " All") {
+                    allContacts.each(function () {
+    
+                        if ($(this).attr('country') == country) {
+                            parentAllContacts.append(this);
+                            count++;
+                        }
+    
+                    });
+                } else {
+                    allContacts.each(function () {
+                        parentAllContacts.append(this);
+                        count++;
+    
+                    });
+                }
+    
+    
+            });
+    
+            $('#' + displayMore).click(function (e) {
+                $('#' + rightrailcontacts + ' div').each(function (index) {
+                    $(this).show();
+                });
+                $('#' + displayMore).hide();
+                $('#' + displayLess).show();
+                return false;
+            });
+            $('#' + displayLess).click(function (e) {
+                $('#' + rightrailcontacts + ' div').each(function (index) {
+                    if (parseInt($(this).attr("divid")) > 6) {
+                        $(this).hide();
+                    }
+                });
+                $('#' + displayMore).show();
+                $('#' + displayLess).hide();
+                return false;
+            });
+    
+        });
+    </script>
+
+
+
+<script>
+	var parentcontactdiv = null;
+if (document.getElementById('onlineformstart') != null) {
+	var rendermode = "2";
+	if (rendermode == 2) {
+		var elem = document.getElementsByClassName("contactModule maxPadding");
+		var x = 0;
+		for (x = 0; x < elem.length; x++) {
+			parentcontactdiv = document.getElementById(elem[x].id).parentElement;
+			parentcontactdiv.className = 'section rightrailcontact';
+
+		}
+	}
+}
+</script>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</section>
+    
+
+
+
+    
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="followUs"></div>
+
+
+	<section id="followUs" style="height: auto" class="cmp-experiencefragment cmp-experiencefragment--cn-zh fullwidth ">
+
+
+    
+    <div id="container-76f11d7d9e" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="socialfollow aem-GridColumn aem-GridColumn--default--12">
+
+    
+
+
+<div class="socialfollow section">
+	<div id="socialfollow" class="socialfollowInner">
+		<span>关注我们</span>
+		
+		<a href="http://weixin.qq.com/r/qUyXj_bEXLsjraLs9xm7" target="_self" title="跟随我们的微信" class="socialfollow- WeChat Follow">
+				<img src="/content/pwc/script/network/follow/follow_wechat.png" alt="跟随我们的微信">
+			</a> 
+		
+		<a href="https://weibo.com/chinapwc" target="_self" title="在微博上关注我们" class="socialfollow- Weibo Follow">
+				<img src="/content/pwc/script/network/follow/follow_weibo.png" alt="在微博上关注我们">
+			</a> 
+		
+		<a href="http://www.linkedin.com/company/3656175?trk=tyah&amp;trkInfo=tarId%3A1402042868947%2Ctas%3Apwc%20china%2Cidx%3A2-1-2" target="_self" title="在Linkedin关注我们" class="socialfollow- Linkedin Follow">
+				<img src="/content/pwc/script/network/follow/follow_linkedin.png" alt="在Linkedin关注我们">
+			</a> 
+		
+		<a href="http://www.facebook.com/PwCChinaHongKong" target="_self" title="在Facebook上关注我们" class="socialfollow- Facebook Follow">
+				<img src="/content/pwc/script/network/follow/follow_facebook.png" alt="在Facebook上关注我们">
+			</a> 
+		
+		<a href="https://twitter.com/PwC_China" target="_self" title="在推特上关注我们" class="socialfollow- Twitter Follow">
+				<img src="/content/pwc/script/network/follow/follow_twitter.png" alt="在推特上关注我们">
+			</a> 
+		
+		<a href="http://www.youtube.com/pwccnhk" target="_self" title="SocialFollow_Youtube" class="socialfollow- Youtube Follow">
+				<img src="/content/pwc/script/network/follow/follow_youtube.png" alt="SocialFollow_Youtube">
+			</a> 
+		
+	</div>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+</section>
+    
+
+
+
+    
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section"></div>
+
+     
+	
+
+
+
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section"></div>
+
+
+	<section id="footer" style="height: auto" class="cmp-experiencefragment cmp-experiencefragment--cn-zh fullwidth ">
+
+
+    
+    <div id="container-9e855a7c17" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footer aem-GridColumn aem-GridColumn--default--12"><!-- SDI include (path: /content/experience-fragments/pwc/cn/zh/footer/cn-zh/master/_jcr_content/root/footer.dynamic.html/pwc/components/modernized/content/footer, resourceType: pwc/components/modernized/content/footer) -->
+<div></div>
+
+    
+
+
+
+
+
+    
+
+<!-- START Sitemap Footer -->
+<div class="dpe-component-wrapper glb-footer  ">
+    <div class="container">
+    <!-- START bottom breadcrumb -->
+    
+    <!-- END bottom breadcrumbs -->
+    
+           
+	
+		<div class="row">
+			
+				
+					
+						<div class="col-xs-12 col-sm-4">
+							<div class="glb-footer__block">
+								
+								
+									<div class="row">
+										<div class="col-xs-12">
+											<a class="serif glb-footer__link glb-footer__link--l1" href="/zh/industries.html?icid=footer" aria-label="行业">行业</a>
+										</div>
+									</div>
+								
+								
+								
+									<div class="row">
+										<div class="col-xs-6">
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/financial-services.html?icid=footer" aria-label="金融服务">金融服务</a>
+											
+										
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/financial-services/asset-and-wealth-management.html?icid=footer" aria-label="资产和财富管理">资产和财富管理</a>
+											
+										
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/financial-services/banking-and-capital-markets.html?icid=footer" aria-label="银行及资本市场">银行及资本市场</a>
+											
+										
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/financial-services/insurance.html?icid=footer" aria-label="保险">保险</a>
+											
+										
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/private-equity.html?icid=footer" aria-label="私募股权基金">私募股权基金</a>
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										</div>
+										<div class="col-xs-6">
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/telecommunications-media-and-technology.html?icid=footer" aria-label="科技、媒体和通信">科技、媒体和通信</a>
+											
+										
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/life-sciences-and-healthcare.html?icid=footer" aria-label="医药医疗及大健康">医药医疗及大健康</a>
+											
+										
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/retail-and-consumer.html?icid=footer" aria-label="消费市场">消费市场</a>
+											
+										
+											
+												<a class="glb-footer__link glb-footer__link--l2" href="/zh/industries/automotive.html?icid=footer" aria-label="汽车">汽车</a>
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										
+											
+										</div>
+									</div>
+								
+							</div>
+							
+						</div>
+					
+					
+				
+					
+						<div class="col-xs-12 col-sm-2">
+							<div class="glb-footer__block">
+								
+									<a class="serif  glb-footer__link glb-footer__link--l1" href="/zh/services.html?icid=footer" aria-label="服务">服务</a>
+								
+								
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/audit-and-assurance.html?icid=footer" aria-label="审计及鉴证">审计及鉴证</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/consulting.html?icid=footer" aria-label="管理咨询">管理咨询</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/deals-m-and-a.html?icid=footer" aria-label="交易服务">交易服务</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/tax.html?icid=footer" aria-label="税务">税务</a>
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+								
+							</div>
+							
+						</div>
+					
+					
+				
+					
+						<div class="col-xs-12 col-sm-2">
+							<div class="glb-footer__block">
+								
+									<a class="serif  glb-footer__link glb-footer__link--l1" href="/zh/services/issues-based.html?icid=footer" aria-label="议题相关服务">议题相关服务</a>
+								
+								
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/issues-based/globalisation-services.html?icid=footer" aria-label="全球跨境服务">全球跨境服务</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/issues/cybersecurity-and-privacy.html?icid=footer" aria-label="网络安全和隐私保护">网络安全和隐私保护</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/entrepreneurial-and-private-business.html?icid=footer" aria-label="科创与民营企业">科创与民营企业</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/issues-based/esg.html?icid=footer" aria-label="环境、社会及治理 (ESG)">环境、社会及治理 (ESG)</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/issues/generative-ai.html?icid=footer" aria-label="生成式人工智能 (GenAI)">生成式人工智能 (GenAI)</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/research-and-insights/greater-bay-area.html?icid=footer" aria-label="粤港澳大湾区">粤港澳大湾区</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/issues-based/new-infrastructure-initiative.html?icid=footer" aria-label="新基建">新基建</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/issues-based/upskilling.html?icid=footer" aria-label="新时代。新技能。">新时代。新技能。</a>
+									
+								
+									
+										<a class="glb-footer__link glb-footer__link--l2" href="/zh/services/issues-based/state-owned-enterprise-soe.html?icid=footer" aria-label="国企改革">国企改革</a>
+									
+								
+								
+							</div>
+							
+						</div>
+					
+					
+				
+					
+						<div class="col-xs-12 col-sm-2">
+							<div class="glb-footer__block">
+								
+									<a class="serif  glb-footer__link glb-footer__link--l1" href="/zh/about-us.html?icid=footer" aria-label="关于我们">关于我们</a>
+								
+								
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+								
+							</div>
+							
+								<div class="glb-footer__block">
+									
+										<a class="serif  glb-footer__link glb-footer__link--l1" href="/zh/careers.html?icid=footer" aria-label="人才招聘 ">人才招聘 </a>
+									
+									
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+									
+								</div>
+							
+								<div class="glb-footer__block">
+									
+										<a class="serif  glb-footer__link glb-footer__link--l1" href="/zh/research-and-insights.html?icid=footer" aria-label="研究与洞察">研究与洞察</a>
+									
+									
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+									
+								</div>
+							
+								<div class="glb-footer__block">
+									
+										<a class="serif  glb-footer__link glb-footer__link--l1" target="_blank" href="/zh/subscribe-to-e-newsletter.html?icid=footer" aria-label="电子通讯">电子通讯</a>
+									
+									
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+									
+								</div>
+							
+								<div class="glb-footer__block">
+									
+										<a class="serif  glb-footer__link glb-footer__link--l1" href="/zh/events.html?icid=footer" aria-label="活动">活动</a>
+									
+									
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+									
+								</div>
+							
+						</div>
+					
+					
+				
+					
+						<div class="col-xs-12 col-sm-2">
+							<div class="glb-footer__block">
+								
+									<a class="serif  glb-footer__link glb-footer__link--l1" target="_blank" href="/zh/products/digital-store-main.html" aria-label="数字产品中心">数字产品中心</a>
+								
+								
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+									
+								
+								
+							</div>
+							
+								<div class="glb-footer__block">
+									
+										<a class="serif  glb-footer__link glb-footer__link--l1" href="/zh/press-room.html?icid=footer" aria-label="新闻中心">新闻中心</a>
+									
+									
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+									
+								</div>
+							
+								<div class="glb-footer__block">
+									
+										<a class="serif  glb-footer__link glb-footer__link--l1" href="/zh/blog.html?icid=footer" aria-label="博客">博客</a>
+									
+									
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+									
+								</div>
+							
+								<div class="glb-footer__block">
+									
+										<a class="serif  glb-footer__link glb-footer__link--l1" target="_blank" href="/zh/contact-us.html" aria-label="联系我们">联系我们</a>
+									
+									
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+										
+									
+									
+								</div>
+							
+						</div>
+					
+					
+				
+			
+		</div>
+	
+	<!-- start reduced Footer items -->
+	
+	<!-- end reduced Footer items -->
+	
+	<!-- START Copyright statement -->
+	<div class="row">
+		<div class="col-xs-12  ">
+			<div class="glb-footer__disclaimer">
+				<div class="row">
+					<div class="col-md-8 glb-footer__disclaimer-text">
+						<a id="slim-footer-logo" href="" aria-label="PwC homepage" class="slim-footer-logo"></a>
+						<p>©&nbsp;2009
+							
+							 - 2024 PwC. 普华永道版权所有。 普华永道系指普华永道网络及/或普华永道网络中各自独立的成员机构。详情请进入www.pwc.com/structure。<br><br><a target="_blank" href="https://beian.miit.gov.cn/">沪ICP备14034144号-1</a>
+						</p>
+						<!-- optional disclaimer links -->
+						<ul class="glb-footer__disclaimer-links" id="pgFooter">
+							
+								
+									<li>
+										<a href="/zh/privacy.html?icid=footer">隐私保护</a>
+									</li>
+								
+									<li>
+										<a href="/zh/cookies-info.html?icid=footer">Cookies 信息</a>
+									</li>
+								
+									<li>
+										<a href="/zh/legal.html?icid=footer">法律条款</a>
+									</li>
+								
+									<li>
+										<a href="/zh/about-site-provider.html?icid=footer">关于本网站</a>
+									</li>
+								
+									<li>
+										<a href="/zh/sitemap.html?icid=footer">网站地图</a>
+									</li>
+								
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- END Copyright statement -->
+
+	
+	</div>
+</div>
+<!-- END Sitemap Footer --></div>
+
+    
+</div>
+
+    </div>
+
+    
+</section>
+    
+
+
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+
+            </div>
+            
+    
+    
+    
+<script src="/etc.clientlibs/pwc/components/modernized/common/mod-clientlibs/modernization-navigation.min.6c049d6b53dee5a76a1698ad12a65fc9.js"></script>
+<script src="/etc.clientlibs/pwc/components/modernized/common/mod-clientlibs/components-colors.min.9ce11c91a96b3af512112fab5c638eeb.js"></script>
+<script src="/etc.clientlibs/pwc/clientlibs/longform/script.min.339cf70a9ee5e3072275194361ea1388.js"></script>
+<script src="/etc.clientlibs/pwc/clientlibs/clientlib-vue/vue-bundle.min.4ce839251e0ba160b4b0baa0dc2fbe9c.js"></script>
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/pwc/clientlibs/clientlib-vue/vue-bundle.min.a0d52753684e003f9e0bbfd3e035edf7.css" type="text/css">
+
+
+
+<script>
+var getCookieByMatch = function(regex) {
+    var _cookies = document.cookie.split(/;\s*/),
+        _cookieArray = [],
+        i;
+    for (i = 0; i < _cookies.length; i++) {
+        if (_cookies[i].match(regex)) {
+            _cookieArray.push(_cookies[i]);
+        }
+    }
+    return _cookieArray;
+};
+
+function getUserMarketingID(value) {
+    const _regex = /^(.*)\|MCMID\|(\d+)\|(.*)/gm;
+    if ((_matchedArray = _regex.exec(value)) !== null && _matchedArray.length >= 3) {
+        return _matchedArray[2];
+    }
+}
+
+function setCookie(cname, cvalue, exdays, path) {
+    var expires = "expires=0"
+    if (exdays != 0) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        expires = "expires=" + d.toGMTString();
+    }
+    document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/;";
+}
+
+
+$( document ).ready(function() {
+    $.each(getCookieByMatch('AMCV_'), function(index, val) {
+		var cookie = val.split("=");
+        var userID = getUserMarketingID(decodeURIComponent(cookie[1]));
+			$('input[name="userMarketingID"]').each(function() {
+        	  $( this ).val(userID);
+        	});
+    });
+});
+</script>
+
+    
+
+    
+
+    
+    
+    
+
+            
+
+    
+
+
+<input type="hidden" id="is-custom-cookie-consent-present" value="true"></body></html>

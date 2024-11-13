@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "https://news.pku.edu.cn/wyyd/dslt/0226ce611d9847fbb35d3a92d1bf2d55.htm",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://news.pku.edu.cn/wyyd/dslt/0226ce611d9847fbb35d3a92d1bf2d55.htm",
+    "wait": 6
+}

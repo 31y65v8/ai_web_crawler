@@ -1,0 +1,1396 @@
+<!DOCTYPE html><html><head>
+    <script type="text/javascript" src="https://sdk.51.la/perf/js-sdk-perf.min.js"></script><script type="text/javascript" charset="UTF-8" async="" src="https://sdk.51.la/js-sdk-pro.min.js" id="LA_COLLECT"></script><script src="https://hm.baidu.com/hm.js?f436a65771c8d04cd5ad32f9427e0eaf"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-TEQE4Y0F1C"></script>
+    <script>
+        window.dataLayer = window.dataLayer || []
+        function gtag() {
+            dataLayer.push(arguments)
+        }
+        gtag('js', new Date())
+        gtag('config', 'G-TEQE4Y0F1C')
+    </script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="zh-CN">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="wap-font-scale" content="no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+
+    <meta name="copyright" content="Copyright 2014-2022 - www.uweb.net.cn">
+    <meta name="Author" content="广州网站建设-优网科技 www.uweb.net.cn">
+    <meta name="Robots" content="all">
+    <meta name="Keywords" content="人工智能, 起源, 发展, 图灵测试, 达特茅斯会议, 专家系统, 神经网络, 大数据, 深度学习">
+    <meta name="Description" content="一文看懂人工智能的起源、发展、三次浪潮与未来趋势">
+    <meta name="renderer" content="webkit">
+
+    <title>一文看懂人工智能的起源、发展、三次浪潮与未来趋势 - 大模型知识库|大模型训练|开箱即用的企业大模型应用平台|智能体开发|53AI</title>
+
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/core.css?v=1.0.69">
+        <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/build_news_detail.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-0.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-1.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-2.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-3.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-4.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-5.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-6.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-7.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-8.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-9.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-10.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-11.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-12.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-13.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-14.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-15.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-16.css?v=1.0.69">
+    <link rel="stylesheet" href="https://static.53ai.com/assets/static/style/wechat/styles-17.css?v=1.0.69">
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <script src="https://static.53ai.com/assets/static/script/jquery.js?v=1.0.69"></script>
+        <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?f436a65771c8d04cd5ad32f9427e0eaf";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <meta name="baidu-site-verification" content="codeva-3I1YXtCboH">
+
+    <!-- 51la V6流量统计系统  -->
+    <script>
+        !function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"3Iyobc7H0GMuU5hn",ck:"3Iyobc7H0GMuU5hn"});
+    </script>
+    <!-- 51la 性能监控系统 -->
+    <script>
+        !(function(c,i,e,b){
+            var h=i.createElement("script");
+            var f=i.getElementsByTagName("script")[0];
+            h.type="text/javascript";
+            h.crossorigin=true;
+            h.onload=function(){new c[b]["Monitor"]().init({id:"3IyLyrjpToQ0AqHa"});};
+            f.parentNode.insertBefore(h,f);h.src=e;})(window,document,"https://sdk.51.la/perf/js-sdk-perf.min.js","LingQue");
+    </script>
+        <script id="wescrm_micro_service_script" defer="" src="https://wkf.wescrm.com/public/static/plugins/wescrm-micro-service.js"></script>
+</head>
+
+<body data-aos-easing="ease" data-aos-duration="1600" data-aos-delay="0">
+<div class="sticky-wrapper" style="height: 61.4375px;"><div class="header stuck">
+    <div class="header-relative">
+        <div class="wp1280">
+            <div class="header-nav">
+                <div class="header-left">
+                    <a href="/" class="logo"><img alt="大模型知识库|大模型训练|开箱即用的企业大模型应用平台|智能体开发|53AI" data-src="https://static.53ai.com/assets/static/images/logo.png" class="lazy"> </a>
+                    <div class="logo-tag">
+                <span class="icon">
+                  <img alt="" data-src="https://static.53ai.com/uploads/20240311/eb21a9e0409ab946254c64427055a5fa.png" class="lazy">
+                </span>
+                        <span class="txt">支持私有云部署</span>
+                    </div>
+                </div>
+                <div class="header-right">
+                    <div class="nav-list">
+                                                <div class="nav-item ">
+                            <div class="nav-link">
+                                <a href="/" target="_self">首页</a>
+                            </div>
+                                                    </div>
+                                                <div class="nav-item not-relative">
+                            <div class="nav-link">
+                                <a href="/product.html" target="_self">产品服务</a>
+                            </div>
+                                                        <div class="dropdown-product">
+                                <div class="flex-box wp1280">
+                                    <ul class="list">
+                                        <li>
+                                            <div class="title">
+                                                <div class="t">开箱即用的企业大模型应用平台</div>
+                                            </div>
+                                            <div class="link-list">
+                                                                                                <div class="link-item">
+                                                    <div class="link-item-flex">
+                                                        <div class="link-item-left">
+                                                            <img alt="" data-src="https://static.53ai.com/uploads/20240529/f87e241ff2dd3924718463507d38fcd1.png" class="lazy">
+                                                        </div>
+                                                        <div class="link-item-right">
+                                                            <div class="item-head">
+                                                                <span>工作+AI</span>
+                                                                <br>
+                                                                <span class="subtit">大模型提升全员工作效率</span>
+                                                            </div>
+                                                                                                                        <a href="/product/gongzuoduihua">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/7f7fb3a563c7530b68e88add9f84a335.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/39185f663b28883aa8de355676d00838.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">工作对话</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/neirongchuangzuo">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/fef10f390be59cbf4758c8bdc29b543b.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/a4de80d25bb700416c04905f92e5d89b.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">内容创作</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/zhinengwendang">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/87c26e340e1ab72d144f01222b54416a.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/088ab85a974ebb3c60b5907ef75d3852.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">方案撰写</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/mofacaidan">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/3b2ecb11c2ed3414aa1dd9f060c9b07e.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/818975be79b3c7bf409d26750da48dd2.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">魔法菜单</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                                                                                <div class="link-item">
+                                                    <div class="link-item-flex">
+                                                        <div class="link-item-left">
+                                                            <img alt="" data-src="https://static.53ai.com/uploads/20240529/e3d1b654d90fe4a02dfda2b7bda13b74.png" class="lazy">
+                                                        </div>
+                                                        <div class="link-item-right">
+                                                            <div class="item-head">
+                                                                <span>业务+AI</span>
+                                                                <br>
+                                                                <span class="subtit">大模型掌握企业知识与流程</span>
+                                                            </div>
+                                                                                                                        <a href="/product/jiqiren">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/1815cb1b02a7c713455d9ea21c04a54d.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/e23b099525c800ed821a4f49287d5339.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">智能问答</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/jinengtuozhan">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/de8fcfa0c133a540d928bb0105c87874.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/55787c1b82bb850ad6b118645bec7ced.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">拓展能力</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/siyoumoxing">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/0652389e299c43463020c0659bedc02b.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/cc1c95ffbf6069fba0f6977b36e16093.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">私有模型</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                                                                                <div class="link-item">
+                                                    <div class="link-item-flex">
+                                                        <div class="link-item-left">
+                                                            <img alt="" data-src="https://static.53ai.com/uploads/20240529/3294c40ae237a976140829e8c3e481c6.png" class="lazy">
+                                                        </div>
+                                                        <div class="link-item-right">
+                                                            <div class="item-head">
+                                                                <span>AIx业务</span>
+                                                                <br>
+                                                                <span class="subtit">大模型驱动产品智能化改造</span>
+                                                            </div>
+                                                                                                                        <a href="/product/zijianyingyong">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/119e72b8cc4579450b59bd6bbdb0f504.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/d440209b9c1afda99d91101920ce06a0.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">应用智改</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/LLMFlow">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/8e80a680ffd13c17b19ac753bd344d58.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/8a55810e147bec67f510cb64241d2118.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">LLMFlow</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/ChatBI">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/b3d4c54aadc1a3fa88de3080f1429c53.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/454df06679465b9ed7e517a33c515648.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">ChatBI</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                        <a href="/product/xitongguanli">
+                                                                <div class="icon-box">
+                                                                    <img class="hover-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/48ff0070564e7e5204ce01302f8639ed.png">
+                                                                    <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/f56b3b28ed3bdf19179f29de6d181e88.png">
+                                                                </div>
+                                                                <div class="info">
+                                                                    <div class="b">统管平台</div>
+                                                                </div>
+                                                            </a>
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                                                                            </div>
+                                        </li>
+                                    </ul>
+                                    <ul class="list">
+                                                                                <li>
+                                            <div class="title">
+                                                <div class="t">大模型咨询</div>
+                                            </div>
+                                            <div class="link-list">
+                                                <div class="img-item">
+                                                    <a href="/consulting.html" class="img-box">
+                                                        <img alt="" data-src="https://static.53ai.com/uploads/20240529/d84e48f5bedc6e502af93d083ba4f487.jpg" class="lazy">
+                                                        <div class="text-box">
+                                                            <div class="en">Consulting</div>
+                                                            <div class="cn">AI咨询与内训</div>
+                                                        </div>
+                                                        <div class="more">了解更多 &gt;</div>
+                                                    </a>
+
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                                <li>
+                                            <div class="title">
+                                                <div class="t">大模型定制</div>
+                                            </div>
+                                            <div class="link-list">
+                                                <div class="img-item">
+                                                    <a href="/fine-tuning.html" class="img-box">
+                                                        <img alt="" data-src="https://static.53ai.com/uploads/20240529/dd3f64536669acc24e5e3f9587d3c460.jpg" class="lazy">
+                                                        <div class="text-box">
+                                                            <div class="en">Fine-Tuning</div>
+                                                            <div class="cn">模型微调与定制</div>
+                                                        </div>
+                                                        <div class="more">了解更多 &gt;</div>
+                                                    </a>
+
+                                                </div>
+                                            </div>
+                                        </li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                                                    </div>
+                                                <div class="nav-item is-active ">
+                            <div class="nav-link">
+                                <a href="/news.html" target="_self">AI知识库</a>
+                            </div>
+                                                        <div class="hover-menu">
+                                <div class="box">
+                                                                        <a href="/news/qianyanjishu" target="_self">前沿技术</a>
+                                                                        <a href="/news/agentplatform" target="_self">Agent框架</a>
+                                                                        <a href="/news/hangyeyingyong" target="_self">行业应用</a>
+                                                                        <a href="/news/qiyejingying" target="_self">企业经营</a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                                <div class="nav-item ">
+                            <div class="nav-link">
+                                <a href="/prompt.html" target="_self">结构化提示词</a>
+                            </div>
+                                                        <div class="hover-menu">
+                                <div class="box">
+                                                                        <a href="/prompt/LangGPTzhilu" target="_self">LangGPT之路</a>
+                                                                        <a href="/prompt/Sorayanjiufenxi" target="_self">提示词合集</a>
+                                                                        <a href="/prompt/tongwangAGIzhilu" target="_self">应用案例</a>
+                                                                        <a href="/prompt/shequndaren" target="_self">社区达人</a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                                <div class="nav-item ">
+                            <div class="nav-link">
+                                <a href="/about.html" target="_self">关于我们</a>
+                            </div>
+                                                        <div class="hover-menu">
+                                <div class="box">
+                                                                        <a href="/about/introduction" target="_self">公司介绍 </a>
+                                                                        <a href="/about/cooperation" target="_self">渠道合作</a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                            </div>
+                    <div class="header-btn-box">
+                        <a href="https://chat.53ai.com" target="_blank" class="login-btn">登录</a>
+                        <a href="/trial.html" class="register-btn">
+                            预约演示
+                            <svg t="1723254254337" class="icon" viewBox="0 0 1365 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="27397" width="25" height="25">
+                                <path d="M0 1024V0H1024v1024z" fill="#ffffff" fill-opacity="0" p-id="27398"></path>
+                                <path d="M424.106667 108.032a42.666667 42.666667 0 0 0-4.949334 54.357333l4.949334 5.973334 308.565333 308.48L424.106667 785.322667a42.666667 42.666667 0 0 0-4.949334 54.442666l4.949334 5.973334a42.666667 42.666667 0 0 0 54.442666 4.864l5.973334-4.864L853.333333 476.842667 484.437333 108.032a42.666667 42.666667 0 0 0-60.330666 0z" fill="#ffffff" p-id="27399"></path>
+                                <path d="M990.773333 108.032a42.666667 42.666667 0 0 0-4.949333 54.357333l4.949333 5.973334 308.565334 308.48L990.773333 785.322667a42.666667 42.666667 0 0 0-4.949333 54.442666l4.949333 5.973334a42.666667 42.666667 0 0 0 54.442667 4.864l5.973333-4.864L1420 476.842667 1051.104 108.032a42.666667 42.666667 0 0 0-60.330667 0z" fill="#ffffff99" p-id="27400"></path>
+                            </svg>
+                        </a>
+                    </div>
+                    <div class="header-mobile">
+                        <div class="nav-menu menu-btn">
+                            <div class="menu-icon show">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/menu_icon.svg" class="lazy">
+                            </div>
+                            <div class="menu-icon close">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/menu_close.png" class="lazy">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-mobile-con navMobile" id="navMobile">
+    <div class="nav-mobile-back" id="m-back">
+
+    </div>
+    <div class="nav-mobile" id="navScroller">
+        <div class="mobile-menu">
+            <div class="menu-left " id="leftScroll">
+                <ul class="scroller-wp">
+                                        <li class="menu-item " data-id="list-0">
+                        <a href="/">首页</a>
+                    </li>
+                                        <li class="menu-item " data-id="grid-21">
+                        <a href="javascript:">产品服务</a>
+                    </li>
+                                        <li class="menu-item active" data-id="list-44">
+                        <a href="javascript:">AI知识库</a>
+                    </li>
+                                        <li class="menu-item " data-id="list-66">
+                        <a href="javascript:">结构化提示词</a>
+                    </li>
+                                        <li class="menu-item " data-id="list-145">
+                        <a href="javascript:">关于我们</a>
+                    </li>
+                                    </ul>
+            </div>
+            <div class="menu-right" id="rightScroll">
+                <div class="scroller-wp">
+                                        <div class="grid-list child-list" id="grid-21">
+                        <div class="grid-item">
+                            <h1 class="title">开箱即用的企业大模型应用平台</h1>
+                                                        <div class="box">
+                                <div class="flex-head">
+                                    <img alt="" data-src="https://static.53ai.com/uploads/20240529/f87e241ff2dd3924718463507d38fcd1.png" class="lazy">
+                                    <h1>工作+AI</h1>
+                                </div>
+                                <div class="bottom">
+                                                                        <a href="/product/gongzuoduihua" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/39185f663b28883aa8de355676d00838.png">
+                                        <p class="info">工作对话</p>
+                                    </a>
+                                                                        <a href="/product/neirongchuangzuo" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/a4de80d25bb700416c04905f92e5d89b.png">
+                                        <p class="info">内容创作</p>
+                                    </a>
+                                                                        <a href="/product/zhinengwendang" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/088ab85a974ebb3c60b5907ef75d3852.png">
+                                        <p class="info">方案撰写</p>
+                                    </a>
+                                                                        <a href="/product/mofacaidan" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/818975be79b3c7bf409d26750da48dd2.png">
+                                        <p class="info">魔法菜单</p>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="box">
+                                <div class="flex-head">
+                                    <img alt="" data-src="https://static.53ai.com/uploads/20240529/e3d1b654d90fe4a02dfda2b7bda13b74.png" class="lazy">
+                                    <h1>业务+AI</h1>
+                                </div>
+                                <div class="bottom">
+                                                                        <a href="/product/jiqiren" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/e23b099525c800ed821a4f49287d5339.png">
+                                        <p class="info">智能问答</p>
+                                    </a>
+                                                                        <a href="/product/jinengtuozhan" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/55787c1b82bb850ad6b118645bec7ced.png">
+                                        <p class="info">拓展能力</p>
+                                    </a>
+                                                                        <a href="/product/siyoumoxing" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/cc1c95ffbf6069fba0f6977b36e16093.png">
+                                        <p class="info">私有模型</p>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="box">
+                                <div class="flex-head">
+                                    <img alt="" data-src="https://static.53ai.com/uploads/20240529/3294c40ae237a976140829e8c3e481c6.png" class="lazy">
+                                    <h1>AIx业务</h1>
+                                </div>
+                                <div class="bottom">
+                                                                        <a href="/product/zijianyingyong" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/d440209b9c1afda99d91101920ce06a0.png">
+                                        <p class="info">应用智改</p>
+                                    </a>
+                                                                        <a href="/product/LLMFlow" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/8a55810e147bec67f510cb64241d2118.png">
+                                        <p class="info">LLMFlow</p>
+                                    </a>
+                                                                        <a href="/product/ChatBI" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240531/454df06679465b9ed7e517a33c515648.png">
+                                        <p class="info">ChatBI</p>
+                                    </a>
+                                                                        <a href="/product/xitongguanli" class="bottom-item">
+                                        <img class="def-icon lazy" alt="" data-src="https://static.53ai.com/uploads/20240529/f56b3b28ed3bdf19179f29de6d181e88.png">
+                                        <p class="info">统管平台</p>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+
+                        <div class="grid-item">
+                                                        <h1 class="title">
+                                <a href="/consulting.html">
+                                    大模型咨询                                </a>
+                            </h1>
+                                                        <h1 class="title">
+                                <a href="/fine-tuning.html">
+                                    大模型定制                                </a>
+                            </h1>
+                                                    </div>
+
+                    </div>
+                                        <div class="list-menu child-list" id="list-44" style="display: block;">
+                                                <a href="/news/qianyanjishu" class="list-item">
+                            <p>前沿技术</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/news/agentplatform" class="list-item">
+                            <p>Agent框架</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/news/hangyeyingyong" class="list-item">
+                            <p>行业应用</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/news/qiyejingying" class="list-item">
+                            <p>企业经营</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                            </div>
+                                        <div class="list-menu child-list" id="list-66">
+                                                <a href="/prompt/LangGPTzhilu" class="list-item">
+                            <p>LangGPT之路</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/prompt/Sorayanjiufenxi" class="list-item">
+                            <p>提示词合集</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/prompt/tongwangAGIzhilu" class="list-item">
+                            <p>应用案例</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/prompt/shequndaren" class="list-item">
+                            <p>社区达人</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                            </div>
+                                        <div class="list-menu child-list" id="list-145">
+                                                <a href="/about/introduction" class="list-item">
+                            <p>公司介绍 </p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                                <a href="/about/cooperation" class="list-item">
+                            <p>渠道合作</p>
+                            <svg t="1716882655943" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="12542" width="20" height="20">
+                                <path d="M605.086476 512.146286L338.358857 245.272381l51.760762-51.687619 318.415238 318.585905L390.095238 830.415238l-51.687619-51.736381z" p-id="12543" fill="#999999"></path>
+                            </svg>
+                        </a>
+                                            </div>
+                                    </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div></div>
+
+
+
+<!--<link rel="stylesheet" href="https://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/tencent_portfolio_light.lu7pnlw3ee695674.css">-->
+<style>
+    body {
+        letter-spacing: 0;
+    }
+</style>
+
+<div class="art-banner-box ">
+    <div class="art-banner">
+        <picture>
+            <!-- mb -->
+            <source srcset="https://static.53ai.com/uploads/20240712/7bdae439d6aec72b6169255295310346.jpg" media="(max-width: 1024px)">
+            <!-- pc -->
+            <img src="https://static.53ai.com/uploads/20240717/b4d4dcfc73a94e6379e5f22698fa6744.webp" alt="AI知识库">
+        </picture>
+    </div>
+    <div class="wp1280">
+        <div class="text-container">
+            <p>53AI知识库</p><p>学习大模型的前沿技术与行业应用场景</p><p><br></p>
+            <div class="part-btns">
+        <a href="javascript:;" class="btn adviser-btn" data-name="userJ">立即咨询</a>
+        <a href="javascript:;" class="btn adviser-btn" data-name="userC">预约演示</a>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="news-detail">
+    <div class="wp1280">
+        <div class="detail">
+            <div class="left aos-init aos-animate" data-aos="fade-up">
+                <div class="top">
+                    <div class="breadcrumb">
+                        <a href="/">
+                            <i class="iconfont icon-home"></i>
+                            <span>首页</span>
+                        </a>
+                                                <a href="/news.html">
+                            <span>AI知识库</span>
+                        </a>
+                                                <a href="/news/qianyanjishu">
+                            <span>前沿技术</span>
+                        </a>
+                                                <a href="/news/LargeLanguageModel">
+                            <span>大模型技术</span>
+                        </a>
+                                            </div>
+                    <div class="posts-btn">
+                        <img src="https://static.53ai.com/assets/static/images/edit-icon.png" alt="">
+                        <p>我要投稿</p>
+                        <i class="iconfont icon-arrow-right-o"></i>
+                    </div>
+                </div>
+                <div class="detail-wrapper">
+                    <div class="detail-title">
+                        一文看懂人工智能的起源、发展、三次浪潮与未来趋势                    </div>
+                    <div class="detail-data">
+                        <div class="box">
+                            <span>发布日期：2024-07-16 06:31:07</span>
+                            <span>浏览次数： 4585</span>
+                            <span>来源：鲁商视界</span>                        </div>
+
+                    </div>
+                    <div class="detail-content">
+                                                <p>
+    <br>
+</p>
+                        <section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;">1. 人工智能的起源与发展</section><section style="text-indent: 2em;"><span style="text-indent: 2em;font-size: var(--articleFontsize);letter-spacing: 0.034em;">1.1 艾伦·图灵与图灵测试</span></section><p style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;text-align: left;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">艾伦</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">·图灵（Alan Turing），被誉为人工智能之父，是英国的数学家、逻辑学家、密码学家和计算机科学家。他在第二次世界大战期间对盟军破译德军密码做出了巨大贡献，研制了破译专用的电子管计算机“巨工”。图灵在1950年提出了著名的图灵测试，通过“问”与“答”模式，观察者通过打字机与两个试验对象通话，其中一个是人，另一个是机器，以此来判断机器是否具备智能。</span></span><img class="rich_pages wxw-img" src="https://api.ibos.cn/v4/weapparticle/accesswximg?aid=85539&amp;url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy85NzNOYVAwM0ZHcWFrUDZPaWFmdlQxYWhCRWxZUW1iUVFqOVVvRGpNbUdyT083SEdKaWN5TFdwYjVVNE1GR1JkUWsxcW1GSTBqUGlid1g4UWp0ZkdpYkxJMVEvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg" style="text-align: center;text-indent: 2em;font-size: var(--articleFontsize);letter-spacing: 0.034em;"></p><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;">1.2 人工智能的早期探索</section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能作为一门学科，其起源可以追溯到</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">1956年的达特茅斯会议，由约翰·麦卡锡（John McCarthy）、马文·闵斯基（Marvin Minsky）、克劳德·香农（Claude Shannon）和纳撒尼尔·罗切斯特（Nathaniel Rochester）共同发起。这次会议标志着人工智能作为一门独立学科的诞生。早期的人工智能研究集中在逻辑推理、问题解决等方面。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">1.3 人工智能的三次发展浪潮</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能的发展经历了三次主要的浪潮：</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">第一次浪潮（</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">1956-1974）：在这一时期，人工智能研究主要集中在基于逻辑的推理和问题解决上。1963年，美国高等研究计划局投入巨资培养早期的计算机科学和人工智能人才。然而，由于技术限制和社会对人工智能的不切实际期待，70年代中期人工智能进入了第一个冬天。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">第二次浪潮（</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">1980s）：随着专家系统和人工神经网络的新进展，人工智能再次兴起。1986年，反向传播算法的广泛应用推动了人工神经网络的训练，使得人工智能技术在特定领域取得了突破。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">第三次浪潮（</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">2011-现在）：21世纪的大数据时代为人工智能提供了丰富的数据资源，计算能力的显著提升和深度学习算法的突破，使得人工智能在图像识别、自然语言处理等多个领域取得了显著的进展。2012年的ILSVRC竞赛和2016年AlphaGo战胜围棋世界冠军李世石的事件，都是这一时期的重要里程碑。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">2. 人工智能的定义与核心思想</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">2.1 人工智能的定义</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能（</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">Artificial Intelligence, AI）是计算机科学的一个分支，它旨在理解智能的实质，并生产出一种能以类似于人类智能的方式做出反应的智能机器。自1956年达特茅斯会议正式提出“人工智能”这一术语以来，人工智能已经发展成为一门包含机器人、语言识别、图像识别、自然语言处理和专家系统等多个研究领域的综合性学科。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">2.2 人工智能的基本思想与研究内容</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能的基本思想是模拟人类的认知过程，包括感知、学习、推理、记忆、思维、决策和行动等。这一领域的研究内容广泛，涵盖了以下几个方面：</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">知识表示：研究如何将知识以计算机可理解的形式进行编码和存储。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">自动推理：模拟人类的逻辑推理过程，使机器能够进行问题求解和决策。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">机器学习：使计算机系统通过学习数据来改善性能，包括监督学习、无监督学习、强化学习等。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">自然语言处理：使计算机能够理解和生成人类语言，包括语言翻译、情感分析等。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">计算机视觉：使计算机能够从图像或多维数据中识别和处理信息，执行图像识别、场景重建等任务。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">机器人学：研究设计能够执行任务的智能机器人，包括导航、操控和交互等。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能的发展不仅依赖于算法和理论的进步，还依赖于计算能力的提升、大量数据的积累以及政策的支持。随着技术的不断进步，人工智能在多个领域展现出广泛的应用潜力，从医疗诊断到自动驾驶，从智能家居到工业自动化，人工智能正逐步成为推动社会发展的重要力量。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">3. 人工智能的关键技术</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">3.1 神经网络与深度学习</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;text-align: left;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">神经网络作为人工智能的核心技术之一，其发展经历了多个阶段。最初，受到生物神经网络的启发，人们开始尝试构建由人工神经元组成的网络模型。这些模型通过加权求和、激活函数等机制模拟人脑处理信息的方式。</span></section><section style="text-indent: 2em;text-align: left;"><span style="font-size: var(--articleFontsize);letter-spacing: 0.034em;border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">冯</span><span style="font-size: var(--articleFontsize);letter-spacing: 0.034em;border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">·诺依曼计算机模型：传统计算机的架构，以存储程序和顺序执行为特点。</span><img class="rich_pages wxw-img" src="https://api.ibos.cn/v4/weapparticle/accesswximg?aid=85539&amp;url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy85NzNOYVAwM0ZHcWFrUDZPaWFmdlQxYWhCRWxZUW1iUVFpYk9zWVUzSmFaWkxmUFBwNWY1WHh3SmpUSlNkdlZ5bFdYN2NMWHEwYzJ1aWFxaWN5ckhuaFlaVWcvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg" style="text-align: center;text-indent: 2em;font-size: var(--articleFontsize);letter-spacing: 0.034em;"></section><section style="text-indent: 2em;"><span style="font-size: var(--articleFontsize);letter-spacing: 0.034em;">人工神经网络模型：</span><span style="font-size: var(--articleFontsize);letter-spacing: 0.034em;">由多层神经元构成，每层神经元通过加权连接，实现复杂模式的识别和学习。</span><span style="font-size: var(--articleFontsize);letter-spacing: 0.034em;border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">训练人工神经网络</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">训练神经网络是一个优化问题，目的是调整网络中的权重，以最小化预测误差。这一过程通常涉及大量的数据和计算资源。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">杰弗里</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">·辛顿的贡献：辛顿在1986年提出的反向传播算法，为多层神经网络的训练提供了有效的解决方案。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">深度学习的应用</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">深度学习作为神经网络的延伸，通过构建更深的网络结构，能够学习更抽象的特征表示，从而在图像识别、语音识别等领域取得突破性进展。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">视觉生理与深度学习：受生物视觉系统的启发，深度学习模型能够模拟视觉信息的分级处理过程。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">深度神经网络模型：通过增加网络深度，模型能够捕捉更复杂的数据模式，如卷积神经网络（</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">CNN）在图像识别中的应用。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">3.2 机器学习与应用领域</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">机器学习是人工智能的另一大支柱，它使计算机能够从数据中学习并做出预测或决策。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">机器学习的定义：机器学习涉及算法和统计模型，使计算机系统能够基于数据自动改进性能。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">浅层学习的困境</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">在</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">20世纪90年代，尽管浅层学习模型如支持向量机（SVM）取得了一定的成功，但由于理论分析难度大和训练方法的复杂性，这一领域的研究遇到了瓶颈。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">深度学习的突破</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">随着计算能力的提升和算法的进步，深度学习在</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">21世纪初取得了显著的突破，特别是在图像和语音识别方面。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">Hinton的研究：Hinton在2006年提出，通过逐层初始化可以有效地训练深度神经网络，这一方法通过无监督学习实现。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">Google Brain项目：展示了深度学习在大规模并行计算平台上的潜力，推动了语音识别和图像识别等领域的发展。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">深度学习的基本应用</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">深度学习已经在医疗、安全监控、自动驾驶等多个领域得到应用，例如：</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能助理医生：在医疗领域，</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI可以辅助医生进行诊断和治疗决策。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能仿生眼：在视觉辅助设备中，</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI技术帮助恢复或增强视觉能力。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">这些应用展示了深度学习在处理复杂数据和解决实际问题中的潜力。随着技术的不断进步，深度学习预计将在未来的人工智能发展中扮演更加重要的角色。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4. 人工智能技术在工程造价中的应用背景</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.1 AI发展的驱动因素</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能技术的发展受到多个因素的驱动，这些因素共同促进了</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI技术的快速进步和广泛应用。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">数据爆发：随着大数据、云计算和物联网等技术的发展，数据量呈现爆炸式增长，为</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI技术提供了丰富的训练材料。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">计算能力提升：</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">GPU、FGGA和ASIC等芯片技术的发展，极大增强了计算机的运算能力，为处理复杂算法提供了硬件支持。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">算法进步：深度学习、强化学习等先进算法的发展，使得</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI技术在计算机视觉、语音识别和自然语言处理等领域取得了显著成果。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;text-align: left;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">政策支持：各国政府将人工智能作为国家战略，出台了一系列政策和规划，为</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI技术的发展提供了政策保障和资源支持。</span></span><img class="rich_pages wxw-img" src="https://api.ibos.cn/v4/weapparticle/accesswximg?aid=85539&amp;url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy85NzNOYVAwM0ZHcWFrUDZPaWFmdlQxYWhCRWxZUW1iUVFkNUM5bGM1UXNQNHMxYTBXYU5NZVU4dU9WNDhaVTZpYVRvMXZ4Rk1kdkNQeEtYQ0NTaEJoM1lBLzY0MD93eF9mbXQ9cG5nJmFtcA==;from=appmsg" style="text-align: center;text-indent: 2em;font-size: var(--articleFontsize);letter-spacing: 0.034em;"></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;">4.2 人工智能在无人驾驶领域的应用情况</section><section style="text-indent: 2em;"><span style="text-indent: 2em;font-size: var(--articleFontsize);letter-spacing: 0.034em;">无人驾驶技术是人工智能领域的一个重要分支，它结合了机器学习、计算机视觉、传感器技术、控制系统等多个领域的前沿技术。</span><span style="text-indent: 2em;font-size: var(--articleFontsize);letter-spacing: 0.034em;">以下是人工智能在无人驾驶领域的几个主要应用情况：</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.2.1 环境感知</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">无人驾驶汽车需要实时感知周围环境，包括行人、车辆、交通信号等。人工智能通过图像识别、雷达和激光雷达（</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">LiDAR）等技术，使汽车能够准确识别和理解周围环境。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.2.2 决策制定</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">在实时交通环境中，无人驾驶汽车需要做出快速而准确的决策，例如何时变道、加速或减速。人工智能利用先进的算法，如强化学习，来提高汽车的决策能力。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.2.3 路径规划</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">无人驾驶汽车需要高效地规划行驶路线，以避免拥堵和减少行程时间。人工智能通过分析地图数据和实时交通信息，为汽车提供最优路径。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.2.4 车辆控制</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">无人驾驶汽车的精确控制对于安全至关重要。人工智能技术可以精确控制汽车的转向、加速和制动，确保平稳和安全的驾驶体验。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.2.5 数据分析与优化</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">大量的行驶数据可以被收集并分析，以优化无人驾驶系统的性能。人工智能可以识别模式和趋势，从而不断改进汽车的感知、决策和控制算法。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.2.6 安全与伦理</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">无人驾驶汽车的安全性和伦理问题也是研究的重点。人工智能需要在确保安全的同时，处理复杂的伦理决策，例如在不可避免的事故中如何做出选择。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.2.7 法规与标准</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">随着无人驾驶技术的发展，相应的法规和标准也在不断完善。人工智能技术有助于制定更科学、合理的法规，以促进无人驾驶技术的健康发展。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">4.2.8 商业模式创新</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">无人驾驶技术为汽车行业带来了新的商业模式，如共享出行服务、物流配送等。人工智能在这些领域的应用，有助于提高效率和用户体验。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;text-align: left;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">综上所述，无人驾驶技术的发展是多学科、多技术融合的结果，人工智能在其中扮演着核心角色。随着技术的不断进步，无人驾驶汽车将更加智能、安全，并在未来的交通系统中发挥重要作用。其发展不仅得益于技术进步和数据积累，更得益于政策的大力支持和行业需求的不断增长。随着技术的不断成熟和应用的不断深入，人工智能有望在</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">无人驾驶</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">领域发挥更大的作用，推动行业的数字化和智能化转型。</span><img class="rich_pages wxw-img" src="https://api.ibos.cn/v4/weapparticle/accesswximg?aid=85539&amp;url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy85NzNOYVAwM0ZHcWFrUDZPaWFmdlQxYWhCRWxZUW1iUVFrOHhmVmRlenNjeFVXVGpIbVdqcldWc3ZsVFU5ams2Z2JYUVNTYmdSQ0lEaWFsc1pZTG9kd0VRLzY0MD93eF9mbXQ9cG5nJmFtcA==;from=appmsg" style="text-indent: 2em;font-size: var(--articleFontsize);letter-spacing: 0.034em;text-align: center;"><span style="text-indent: 2em;font-size: var(--articleFontsize);letter-spacing: 0.034em;">5. 人工智能的实践应用与未来趋势</span></section><section style="text-indent: 2em;"><span style="font-size: var(--articleFontsize);letter-spacing: 0.034em;"></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">5.1 人工智能的实践应用案例</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能的实践应用已经渗透到社会生活的各个领域，以下是一些代表性的应用案例：</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">医疗健康领域：</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI辅助诊断系统，如IBM的Watson，通过分析医学影像和病历数据，辅助医生进行疾病诊断和治疗计划的制定。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">自动驾驶技术：特斯拉等公司开发的自动驾驶系统，利用机器学习和计算机视觉技术，实现车辆的自主导航和驾驶。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">智能家居系统：通过语音助手如</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">Amazon的Alexa或Google Home，用户可以控制家中的智能设备，如灯光、温度等。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">金融服务：</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI在风险管理、信贷审批、算法交易等方面发挥重要作用，提高了金融服务的效率和准确性。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">制造业：工业机器人和智能制造系统，通过自动化和智能化提高生产效率和产品质量。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">5.2 人工智能的未来发展趋势</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能的未来发展趋势可以从以下几个方面进行展望：</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">技术融合：人工智能将与物联网、大数据、云计算等技术更深度融合，形成更加智能和高效的系统。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">伦理和法律问题：随着</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI技术的发展，关于数据隐私、机器伦理和法律责任等问题将更加突出，需要相应的法律和伦理规范。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人机协作：未来的人工智能将更加注重与人类的协作，提高人机交互的自然性和效率，实现人机共生的工作模式。</span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">普及化和民主化：</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI技术将变得更加普及，中小企业和个人开发者也能够利用AI技术解决实际问题，推动社会创新。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">安全性和可靠性：随着</span><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">AI应用的广泛部署，系统的安全性和可靠性将成为研究的重点，确保AI系统的稳定和安全运行。</span></span></section><section style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;text-indent: 2em;"><span style="border-width: 0px;border-style: initial;border-color: initial;outline: 0px;vertical-align: initial;background-image: initial;background-position: 0px 0px;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;-webkit-tap-highlight-color: transparent;">人工智能的发展史是一个不断探索和突破的过程。从图灵测试的提出到深度学习的广泛应用，人工智能技术不断进步，推动了社会的发展和变革。未来，随着技术的进一步发展，人工智能将在更多领域展现其潜力，为人类带来更多便利和创新。人工智能的未来发展将是多元化和综合性的，不仅在技术层面不断进步，也将在社会、经济和文化等多个层面产生深远的影响。</span><span style="font-size: var(--articleFontsize);letter-spacing: 0.034em;"></span></section><p style="display: none;"></p>
+                    </div>
+                    <div class="share-con">
+
+                        <span>分享：</span>
+                        <div class="share-box">
+                            <div class="share-box-item share-to-wechat share-btn" data-share-title="企微" data-share="wechat" title="分享到企微">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/share_icon_1.png" class="lazy">
+                            <div class="wechat-ewm"><div class="img" id="wechatEwm-szba7g"><canvas width="113" height="113"></canvas></div><p>用微信扫描二维码</p></div></div>
+                            <div class="share-box-item share-to-wechat share-btn" data-share-title="微信" data-share="wechat" title="分享到微信">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/share_icon_2.png" class="lazy">
+                            <div class="wechat-ewm"><div class="img" id="wechatEwm-91h0g3"><canvas width="113" height="113"></canvas></div><p>用微信扫描二维码</p></div></div>
+                            <div class="share-box-item share-to-wechat share-btn" data-share-title="钉钉" data-share="wechat" title="分享到钉钉">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/share_icon_3.png" class="lazy">
+                            <div class="wechat-ewm"><div class="img" id="wechatEwm-4wdeez"><canvas width="113" height="113"></canvas></div><p>用微信扫描二维码</p></div></div>
+                            <div class="share-box-item share-to-wechat share-btn" data-share-title="飞书" data-share="wechat" title="分享到飞书">
+                                <img alt="" data-src="https://static.53ai.com/assets/static/images/share_icon_4.png" class="lazy">
+                            <div class="wechat-ewm"><div class="img" id="wechatEwm-9eld91"><canvas width="113" height="113"></canvas></div><p>用微信扫描二维码</p></div></div>
+                        </div>
+                    </div>
+                    <div class="detail-ai">
+                        <div class="ai-tit"><p style="text-align: center;"><strong></strong></p><p><strong><br></strong></p><p><strong>53AI，企业落地应用大模型首选服务商</strong></p><div class="line"></div></div><p><strong>产品：</strong>大模型应用平台+智能体定制开发+落地咨询服务</p><p><strong>承诺：</strong>先做场景<span style="text-wrap: wrap;">POC</span>验证，看到效果再签署服务协议。<strong>零风险落地应用大模型</strong>，已交付160+中大型企业</p>                    </div>
+                    
+                    <div class="article-labels">
+                                            </div>
+
+                </div>
+                <div class="detail-navigation">
+                    <div class="box">
+                                                <a href="/news/LargeLanguageModel/2024071667219.html">上一篇：大语言模型（LLM）工作的3个步骤，一文带你搞清楚！</a>
+                        
+                                                <a href="/news/LargeLanguageModel/2024071618740.html">下一篇：彻底推翻Transformer，最强架构TTT问世！斯坦福UCSD等5年磨一剑</a>
+                        
+                    </div>
+                    <div class="box">
+                        <a href="/news/LargeLanguageModel" class="back-list">
+                        <span>返回列表</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="more-news">
+                    <h1 class="title">相关资讯</h1>
+                    <div class="hr"></div>
+                    <div class="list">
+                                                <a href="/news/LargeLanguageModel/2024110995807.html" class="list-item">
+                            <p class="date">2024-11-09</p>
+                            <div class="title">
+                                <p>经济学人：OpenAI不会一直是微软囚禁的鸟</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/LargeLanguageModel/2024110892764.html" class="list-item">
+                            <p class="date">2024-11-08</p>
+                            <div class="title">
+                                <p>AI 2.0时代，谁是未来的“掘金者”和“卖铲人”？</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/LargeLanguageModel/2024110894126.html" class="list-item">
+                            <p class="date">2024-11-08</p>
+                            <div class="title">
+                                <p>水利大模型的建设思路、构建框架与应用场景初探</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/LargeLanguageModel/2024110880217.html" class="list-item">
+                            <p class="date">2024-11-08</p>
+                            <div class="title">
+                                <p>陈曦：招商银行“低代码+大模型”创新实践</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/LargeLanguageModel/2024110805392.html" class="list-item">
+                            <p class="date">2024-11-08</p>
+                            <div class="title">
+                                <p>大模型的科普及信创领域研发和场景应用</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/LargeLanguageModel/2024110858406.html" class="list-item">
+                            <p class="date">2024-11-08</p>
+                            <div class="title">
+                                <p>威海：创新大模型应用 智“绘”政府数字化转型新模式</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/LargeLanguageModel/2024110893241.html" class="list-item">
+                            <p class="date">2024-11-08</p>
+                            <div class="title">
+                                <p>百度智能云千帆 AppBuilder 大模型应用开发解读</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                                <a href="/news/LargeLanguageModel/2024110790826.html" class="list-item">
+                            <p class="date">2024-11-07</p>
+                            <div class="title">
+                                <p>零一万物以“Infra+模型+应用”三体布局 ToB：以数字人、AI Infra 解决方案智赋企业数智化增长｜FM 01.AI</p>
+                                <i class="iconfont icon-youjiantou"></i>
+                            </div>
+                        </a>
+                                            </div>
+                </div>
+            </div>
+            <div class="new-right">
+    <div class="sec-1 aos-init aos-animate" data-aos="fade-up">
+        <div class="new-right-swiper ">
+            <div class="swiper swiper-container-initialized swiper-container-horizontal">
+                <div class="swiper-wrapper" style="-webkit-transition: 300ms; transition: 300ms;">
+                                        <div class="swiper-slide">
+                        <img alt="智能化改造方案" class="pc lazy" data-src="https://static.53ai.com/uploads/20240531/5002026623535870b7a07ff223f9f34a.jpg">
+                        <img alt="智能化改造方案" class="m lazy" data-src="https://static.53ai.com/uploads/20240531/5002026623535870b7a07ff223f9f34a.jpg">
+                        <a href="https://www.53ai.com/" target="_blank">了解更多</a>
+                    </div>
+                                        <div class="swiper-slide">
+                        <img alt="大模型落地应用平台" class="pc lazy" data-src="https://static.53ai.com/uploads/20240529/72a2c0f952f63ef0a546b91beb4bbb32.jpg">
+                        <img alt="大模型落地应用平台" class="m lazy" data-src="https://static.53ai.com/uploads/20240530/5002026623535870b7a07ff223f9f34a.jpg">
+                        <a href="https://www.53ai.com/" target="_blank">了解更多</a>
+                    </div>
+                                    </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+            <div class="pagination swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+        </div>
+        <div class="right-more-btn">
+            <h1 class="title">160+中大型企业正在使用53AI</h1>
+            <div class="more">
+                                <a href="javascript:;" class="btn adviser-btn" data-name="userJ">立即咨询</a>
+                                <a href="javascript:;" class="btn adviser-btn" data-name="userC">预约演示</a>
+                            </div>
+        </div>
+        <div class="right-list">
+                        <a href="/news/dongtai/2024052786793.html" class="item">
+                <h1 class="title">百度智能云邀53AI：共创AI新纪元，启航智能新时代</h1>
+                <p class="date">2024-05-27</p>
+            </a>
+                        <a href="/news/dongtai/2399.html" class="item">
+                <h1 class="title">钉钉恒星计划：53AI与百余位企业家及钉钉生态伙伴，共议“AI 浪潮下的新机遇”</h1>
+                <p class="date">2024-05-22</p>
+            </a>
+                    </div>
+    </div>
+        <div class="sec-2 aos-init aos-animate" data-aos="fade-up">
+        <h1 class="sec-title">热点资讯</h1>
+        <div class="news-right">
+                        <a href="/news/LargeLanguageModel/2024052823549.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        一文带你了解大模型——智能体（Agent）                    </h1>
+                    <p class="date">2024-05-28</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/1417.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        全面对比dify、coze、streamlit、chainlit                    </h1>
+                    <p class="date">2024-04-26</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/601.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        “大数据+”医疗                    </h1>
+                    <p class="date">2024-04-11</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024082170481.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        Cursor 一个真正让程序员产生危机感的 AI 编程工具                    </h1>
+                    <p class="date">2024-08-21</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024070976802.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        【深度】AI搜索产品深度分析-搜索原理和商业模式分析                    </h1>
+                    <p class="date">2024-07-09</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024071806837.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        Claude中国官网正式上线！1:1还原官网，非套壳，国内直连                    </h1>
+                    <p class="date">2024-07-18</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024102550834.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        哈工大“风筝”航天知识大模型开放测试                    </h1>
+                    <p class="date">2024-10-25</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024081317230.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        本地部署大模型？看这篇就够了，Ollama 部署和实战                    </h1>
+                    <p class="date">2024-08-13</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024061735619.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        Prompt提示词如何写才能发挥大语言模型LLM的最大潜力                    </h1>
+                    <p class="date">2024-06-17</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024070184079.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        一文读懂大模型推理必备技术：KV Cache                    </h1>
+                    <p class="date">2024-07-01</p>
+                </div>
+            </a>
+                    </div>
+    </div>
+    <div class="sec-2 aos-init aos-animate" data-aos="fade-up">
+        <h1 class="sec-title">大家都在问</h1>
+        <div class="news-right">
+                        <a href="/news/LargeLanguageModel/2024110892764.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        AI 2.0时代，谁是未来的“掘金者”和“卖铲人”？                    </h1>
+                    <p class="date">2024-11-08</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024110717695.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        如何泛化AI的深度推理能力？                    </h1>
+                    <p class="date">2024-11-07</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024110532416.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        为了在AI时代做好“个人助理”，vivo做了哪些努力？                    </h1>
+                    <p class="date">2024-11-05</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024110498064.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        什么是AI“世界模型”？为何如此重要？                    </h1>
+                    <p class="date">2024-11-04</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024110124167.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        黑掉大模型？恶意 Prompt 攻击成无解之谜？                    </h1>
+                    <p class="date">2024-11-01</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024103196018.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        AIGC：从‘金鱼记忆‘到‘过目不忘‘，实例解密大模型是如何记住对话的上下文的？                    </h1>
+                    <p class="date">2024-10-31</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024103006138.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        AI时代，哪种人更被需要？                    </h1>
+                    <p class="date">2024-10-30</p>
+                </div>
+            </a>
+                        <a href="/news/LargeLanguageModel/2024102905793.html">
+                <div class="item-left">
+                    <i class="iconfont icon-youjiantou"></i>
+                </div>
+                <div class="item-right">
+                    <h1 class="title">
+                        Single-Agent 大翻身：Multi-Agent 可以退下了？                    </h1>
+                    <p class="date">2024-10-29</p>
+                </div>
+            </a>
+                    </div>
+    </div>
+    
+    <div class="sec-2 labels aos-init aos-animate" data-aos="fade-up">
+        <h1 class="sec-title">热门标签</h1>
+        <div class="label-right">
+                        <a href="/news/neirongchuangzuo">
+                内容创作            </a>
+                        <a href="/news/LargeLanguageModel">
+                大模型技术            </a>
+                        <a href="/news/gerentixiao">
+                个人提效            </a>
+                        <a href="/news/langchain">
+                langchain            </a>
+                        <a href="/news/llamaindex">
+                llamaindex            </a>
+                        <a href="/news/MultimodalLargeModel">
+                多模态技术            </a>
+                        <a href="/news/RAG">
+                RAG技术            </a>
+                        <a href="/news/zhinengkefu">
+                智能客服            </a>
+                        <a href="/news/knowledgegraph">
+                知识图谱            </a>
+                        <a href="/news/finetuning">
+                模型微调            </a>
+                        <a href="/news/RAGFlow">
+                RAGFlow            </a>
+                        <a href="/news/coze">
+                coze            </a>
+                        <a href="/news/dify">
+                Dify            </a>
+                        <a href="/news/fastgpt">
+                Fastgpt            </a>
+                        <a href="/news/Bisheng">
+                Bisheng            </a>
+                        <a href="/news/Qanything">
+                Qanything            </a>
+                        <a href="/news/AIqiche">
+                AI+汽车            </a>
+                        <a href="/news/AIjinrong">
+                AI+金融            </a>
+                        <a href="/news/AIgongye">
+                AI+工业            </a>
+                        <a href="/news/AIpeixun">
+                AI+培训            </a>
+                        <a href="/news/AISaaS">
+                AI+SaaS            </a>
+                        <a href="/news/tishicikuangjia">
+                提示词框架            </a>
+                        <a href="/news/tishicijiqiao">
+                提示词技巧            </a>
+                        <a href="/news/AIdianshang">
+                AI+电商            </a>
+                        <a href="/news/AImianshi">
+                AI面试            </a>
+                        <a href="/news/shuziyuangong">
+                数字员工            </a>
+                        <a href="/news/zhinengbaobiao">
+                ChatBI            </a>
+                        <a href="/news/zhishiguanli">
+                知识管理            </a>
+                        <a href="/news/OpenSourceLLM">
+                开源大模型            </a>
+                        <a href="/news/zhinengyingxiao">
+                智能营销            </a>
+                        <a href="/news/zhinengyingjian">
+                智能硬件            </a>
+                        <a href="/news/zhinenghuagaizao">
+                智能化改造            </a>
+                        <a href="/news/AIyiliao">
+                AI+医疗            </a>
+                        <a href="/news/MaxKB">
+                MaxKB            </a>
+                    </div>
+    </div>
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+<div class="join-dialog">
+    <div class="container">
+        <div class="join-dialog-box">
+            <div class="join-dialog-title">
+                <div id="joinScrollTitle">
+
+                </div>
+                <div class="close-btn iconfont icon-close" title="关闭"></div>
+            </div>
+            <div class="join-dialog-con">
+                <div class="join-dialog-scroll">
+                    <div class="join-dialog-scroll-wp" id="joinScrollCon">
+                        <p id="join-edu"></p>
+                        <p id="join-nums"></p>
+                        <p id="join-loc"></p>
+                        <p id="join-end"></p>
+                        <br>
+                        <div class="content">
+
+                        </div>
+                    </div>
+                <div class="bscroll-vertical-scrollbar" style="position: absolute; z-index: 9999; overflow: hidden; width: 7px; bottom: 2px; top: 2px; right: 1px; display: none;"><div class="bscroll-indicator" style="box-sizing: border-box; position: absolute; background-color: rgba(0, 0, 0, 0.498039); border: 1px solid rgba(255, 255, 255, 0.901961); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; width: 100%; background-position: initial initial; background-repeat: initial initial;"></div></div></div>
+            </div>
+                        <div class="join-dialog-btn">
+                <a href="mailto:ceo@53ai.com">应聘简历请发送至： ceo@53ai.com</a>
+            </div>
+                    </div>
+    </div>
+</div>
+
+<div class="posts-pup">
+    <div class="mask"></div>
+    <div class="box">
+        <div class="close">
+            <i class="iconfont icon-close"></i>
+        </div>
+        <div id="submitForm" class="form"></div>
+    </div>
+</div>
+<script>
+    $(function () {
+        new ShareTo()
+        rightSwiperFun ()
+        newDetail()
+        recruDialog('.join-swiper .swiper-slide',function (id) {
+            $.ajax({
+                type: 'post',
+                url: '/detail/' + id,
+                success: function (res) {
+                    $('#joinScrollTitle').html(res.data.title)
+                    $('#joinScrollCon .content').html(res.data.content)
+                    $('#join-edu').html('<span>学历要求：</span>' + res.data.education)
+                    $('#join-nums').html('<span>招聘人数：</span>' + res.data.nums)
+                    $('#join-loc').html('<span>工作地点：</span>' + res.data.location)
+                    $('#join-end').html('<span>结束时间：</span>' + res.data.end)
+                }
+            })
+        })
+        convertRemToPx(document.querySelector('.detail-content'))
+    })
+</script>
+<script>
+    $(window).on('load', function () {
+        let WescrmMicroService = new window.WescrmMicroService(
+            {
+                guid: "B3C789A0-9D59-43FA-1253-76B5E0EAA973",
+                settingid: "166",
+                formid: "1063",
+                shareurl: "https://m.wescrm.com/kmp/?pagepath=pages%2Fform%2Fquestionnaire%2Fweb-view%3Fcardid%3D2032709%26formid%3D1063%26fromcardid%3D2032709%26fromguid%3DB3C789A0-9D59-43FA-1253-76B5E0EAA973%26fromuid%3D2%26guid%3DB3C789A0-9D59-43FA-1253-76B5E0EAA973%26settingid%3D166%26sharecardid%3D2032709%26sharetime%3D1726027423082%26sharetype%3Dwescrm-website-visit%26shareuid%3D2%26sourceapp%3Dqwy-admin%26traceid%3D7239483724734140416%26uid%3D2&corpid=wwa0d41064fbd22504&suiteid=wwc2a5580a6a08876b&autoHeight=1",
+            }
+        )
+        WescrmMicroService.renderForm({ target: "#submitForm", width: "100%"})
+        WescrmMicroService.wescrmFormLoaded().then(() => {
+            $('.loader').fadeOut()
+        })
+    })
+</script>
+
+
+<div class="footer ">
+    <div class="custom-footer">
+        <div class="footer-bottom">
+            <div class="footer-nav">
+                <div class="wp">
+                    <div class="footer-nav-wrapper">
+                                                <div class="item">
+                            <div class="title"><a href="/product.html">产品服务</a></div>
+                            <div class="nav-box">
+
+                                                                <div class="nav-list">
+                                    <dt><a href="/product/quanyuanAI">工作+AI</a></dt>
+                                                                        <dd><a href="/product/gongzuoduihua">工作对话</a></dd>
+                                                                        <dd><a href="/product/neirongchuangzuo">内容创作</a></dd>
+                                                                        <dd><a href="/product/zhinengwendang">方案撰写</a></dd>
+                                                                        <dd><a href="/product/mofacaidan">魔法菜单</a></dd>
+                                                                    </div>
+                                                                <div class="nav-list">
+                                    <dt><a href="/product/yewuAI">业务+AI</a></dt>
+                                                                        <dd><a href="/product/jiqiren">智能问答</a></dd>
+                                                                        <dd><a href="/product/jinengtuozhan">拓展能力</a></dd>
+                                                                        <dd><a href="/product/siyoumoxing">私有模型</a></dd>
+                                                                    </div>
+                                                                <div class="nav-list">
+                                    <dt><a href="/product/AIXyewu">AIx业务</a></dt>
+                                                                        <dd><a href="/product/zijianyingyong">应用智改</a></dd>
+                                                                        <dd><a href="/product/LLMFlow">LLMFlow</a></dd>
+                                                                        <dd><a href="/product/ChatBI">ChatBI</a></dd>
+                                                                        <dd><a href="/product/xitongguanli">统管平台</a></dd>
+                                                                    </div>
+                                
+                                <div class="nav-list">
+                                                                        <dt><a href="/consulting.html" class="img-box " data-name="">大模型咨询</a></dt>
+                                                                        <dt><a href="/fine-tuning.html" class="img-box " data-name="">大模型定制</a></dt>
+                                                                    </div>
+
+                            </div>
+                        </div>
+                        
+                        <div class="item">
+                            <div class="title"><a href="/news.html">AI知识库</a></div>
+                                                        <div class="nav-box nav-item-box">
+                                                                <div class="nav-list"><dd><a href="/news/qianyanjishu">前沿技术</a></dd><dd><a href="/news/agentplatform">Agent框架</a></dd><dd><a href="/news/hangyeyingyong">行业应用</a></dd><dd><a href="/news/qiyejingying">企业经营</a></dd></div>
+                                                                
+                                                                
+                                                                
+                                                            </div>
+                                                    </div>
+
+                        
+                        <div class="item">
+                            <div class="title"><a href="/prompt.html">结构化提示词</a></div>
+                                                        <div class="nav-box nav-item-box">
+                                                                <div class="nav-list"><dd><a href="/prompt/LangGPTzhilu">LangGPT之路</a></dd><dd><a href="/prompt/Sorayanjiufenxi">提示词合集</a></dd><dd><a href="/prompt/tongwangAGIzhilu">应用案例</a></dd><dd><a href="/prompt/shequndaren">社区达人</a></dd></div>
+                                                                
+                                                                
+                                                                
+                                                            </div>
+                                                    </div>
+
+                        
+                        <div class="item">
+                            <div class="title"><a href="/about.html">关于我们</a></div>
+                                                        <div class="nav-box nav-item-box">
+                                                                <div class="nav-list"><dd><a href="/about/introduction">公司介绍 </a></dd><dd><a href="/about/cooperation">渠道合作</a></dd></div>
+                                                                
+                                                            </div>
+                                                    </div>
+
+                                            </div>
+                </div>
+            </div>
+            <div class="wp">
+                <div class="copyright">
+    <div class="left">
+        <div class="item link">
+            <span>友情链接：</span>
+            <div class="link-box">
+                                <a href="https://www.waytoagi.com/" target="_blank">通往AGI之路</a>
+                                <a href="https://www.yuncan.com/" target="_blank">云璨信息</a>
+                                <a href="https://www.wescrm.com" target="_blank">企微SCRM</a>
+                                <a href="https://www.mingpian.top" target="_blank">小名片</a>
+                                <a href="https://www.uweb.net.cn" target="_blank">优网科技</a>
+                            </div>
+        </div>
+        <div class="item">
+            <div class="box">CopyRight © 2012-2024  深圳市博思协创网络科技有限公司  版权所有</div>
+            <div class="box">
+                <a target="_blank" href="https://beian.miit.gov.cn/#/Integrated/index"><img alt="" data-src="https://static.53ai.com/assets/static/images/bei.png" class="lazy">粤ICP备17114055号</a>
+            </div>
+        </div>
+        <div class="item contact">
+            <p>广州：广州市华景路37号(华景软件园)暨南大学科技大厦6楼（整层） 杨小姐&nbsp; &nbsp;186 6662 7370</p><p>深圳：深圳市福田区泰然四路29号天安创新科技广场一期A座1204&nbsp; &nbsp; 陈先生&nbsp; 186 8244 3374</p><p>上海：上海市浦东新区金新路58号1602室&nbsp; &nbsp; 戴先生&nbsp; &nbsp;186 1639 7587</p>        </div>
+    </div>
+    <div class="right">
+        <div class="footer-qrcode">
+                        <div class="item">
+                <div class="icon">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/66538f2d97be880ea397fe9ac2c9e104.png" class="lazy">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/57be88d183a075b534eced4e5b2bb733.jpg" class="lazy">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="icon">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/8c010e9294459f2ac532411f331f31fc.png" class="lazy">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/7db8529c20049cc39a407fb0ceff6365.png" class="lazy">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="icon">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/d7a96a52f6d245d62ce5bb79e5675bdf.png" class="lazy">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/8d883014d85a9cd915b6616c7b57ed81.png" class="lazy">
+                </div>
+            </div>
+                        <div class="item">
+                <div class="icon">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/d4f5a00d143a06bee58515247c144d8e.png" class="lazy">
+                </div>
+                <div class="qrcode-box">
+                    <img alt="" data-src="https://static.53ai.com/uploads/20240131/8d883014d85a9cd915b6616c7b57ed81.png" class="lazy">
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="right-bar">
+    <div class="item">
+        <div class="icon">
+            <i class="iconfont icon-lianximaijia"></i>
+        </div>
+        <p>联系我们</p>
+        <div class="contact-hover">
+            <div class="box"><div class="tel"><div class="tel-item"><div class="icon"><em class="iconfont icon-dianhua1-mianxing"></em></div><div class="info"><div class="p">售前咨询</div><a href="tel:18666627370" class="num">186 6662 7370</a></div></div><div class="tel-item"><div class="icon"><em class="iconfont icon-dianhua1-mianxing"></em></div><div class="info"><div class="p">预约演示</div><a href="tel:18588820121" class="num">185 8882 0121</a></div></div></div><div class="qrcode-box"><div class="img"><img src="https://static.53ai.com/uploads/20230625/355ac27b9f23b6e31bad2516473f8ed4.png" width="133" height="134" style="width: 133px; height: 134px;" alt=""></div><div class="text"><p>微信扫码</p><p>与创始人交个朋友</p></div></div></div>
+        </div>
+    </div>
+    <div class="item back-top">
+        <div class="icon">
+            <i class="iconfont icon-zhiding"></i>
+        </div>
+        <p>回到顶部</p>
+    </div>
+</div>
+
+
+
+<noscript>
+    &lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGVMSDSS" height="0" width="0"
+            style="display: none; visibility: hidden"&gt;&lt;/iframe&gt;
+</noscript>
+
+
+<div class="adviser-popup-mask">&nbsp;</div>
+<div class="adviser-popup">
+    <div class="iconfont icon-guanbi adviser-popup-close"></div>
+    <div class="adviser-popup-top">
+        <div class="title">扫码咨询</div>
+        <div class="adviser-popup-box">
+            <div class="avatar">
+                <img alt="" data-src="" class="lazy">
+            </div>
+            <div class="info">
+                <div class="info-top">
+                    <span class="info-top-name"></span>
+                    <span class="info-top-tag tag"></span>
+                </div>
+                <a href="" class="info-tel"><i class="iconfont icon-dianhua"></i><span></span></a>
+            </div>
+        </div>
+    </div>
+    <div class="adviser-popup-bottom">
+        <p class="text tips-text"></p>
+        <div class="qrcode">
+            <img alt="" data-src="" class="lazy">
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(window).on('load', function () {
+        const WescrmMicroService = new window.WescrmMicroService({
+            guid: "B3C789A0-9D59-43FA-1253-76B5E0EAA973",
+            settingid: "68",
+            formid: "955",
+            siteid:  '103',
+            shareurl: "https://work.wescrm.com/#/public/form/questionnaire?cardid=2024014&formid=955&fromcardid=2024014&fromguid=B3C789A0-9D59-43FA-1253-76B5E0EAA973&fromuid=17&guid=B3C789A0-9D59-43FA-1253-76B5E0EAA973&settingid=68&sharecardid=2024014&sharetime=1712128709766&sharetype=wescrm-website-visit&shareuid=17&sourceapp=qwy-admin&traceid=7181188295886376960&uid=17&styleMode=2&autoHeight=1",
+        })
+        // 产品体验弹窗
+        WescrmMicroService.getChannelInfo({ userScopeBatch: '0' }).then(({ data }) => {
+            let user = {
+                realname: data.realname,
+                mobile: data.mobile,
+                avatar: data.avatar,
+                qrcode: data.qrcode
+            }
+            window.localStorage.setItem('userJ', JSON.stringify(user))
+        })
+        // 技术交流弹窗
+        WescrmMicroService.getChannelInfo({ userScopeBatch: '1' }).then(({ data }) => {
+            let user = {
+                realname: data.realname,
+                mobile: data.mobile,
+                avatar: data.avatar,
+                qrcode: data.qrcode
+            }
+            window.localStorage.setItem('userC', JSON.stringify(user))
+        })
+        // 右侧导航微信扫码二维码
+        WescrmMicroService.getChannelInfo({ userScopeBatch: '2' }).then(({ data }) => {
+            // 侧边栏
+            const rightBarImg = document.querySelector('.contact-hover img')
+            rightBarImg.src = data.qrcode
+        })
+    })
+</script>
+<script>
+    $(function () {
+        $('.adviser-btn').click(function () {
+            let userName = $(this).data('name')
+            let data = window.localStorage.getItem(userName)
+            data = JSON.parse(data)
+
+            $('.adviser-popup .info-top-name').text(data.realname)
+            $('.adviser-popup .tag').text('专属顾问')
+            $('.adviser-popup .info-tel').attr('href', 'tel:' + data.mobile)
+            $('.adviser-popup .info-tel span').text(data.mobile)
+            $('.adviser-popup .avatar img').attr('src', data.avatar)
+            $('.adviser-popup .tips-text').text('欢迎扫码，在线体验53AI产品')
+            $('.adviser-popup .qrcode img').attr('src', data.qrcode)
+
+            $('.adviser-popup-mask').fadeIn(300, function () {
+                $('.adviser-popup').fadeIn()
+            })
+        })
+
+        $('.adviser-popup-close, .adviser-popup-mask').click(function () {
+            $('.adviser-popup').fadeOut(300, function () {
+                $('.adviser-popup-mask').fadeOut()
+            })
+        })
+    })
+</script>
+<script>
+    window.lazyLoadOptions = {
+        // Your custom settings go here
+    };
+    window.addEventListener(
+        "LazyLoad::Initialized",
+        function (event) {
+            window.lazyLoadInstance = event.detail.instance;
+        },
+        false
+    );
+</script>
+<script type="text/javascript">
+    var _yfx_trackdata = _yfx_trackdata || []; 
+
+    function handleClick(event, action) {
+        event.preventDefault();
+        _yfx_trackdata.push(['event', action]);
+    }
+
+    $(".login-btn, .register-btn").on('click', function(e) {
+        handleClick(e, '用户点击了：' + $(this).text());
+        setTimeout(() => {
+            location.href = $(this).attr('href'); // Delay redirection
+        }, 100);
+    });
+
+    $(".btn.adviser-btn").on('click', function(e) {
+        handleClick(e, '用户点击了：' + $(this).text());
+    });
+</script>
+<script src="https://static.53ai.com/assets/static/script/lazyload.min.js"></script>
+<!--<script src="https://chat.53ai.com/plugin.min.js"></script>-->
+<script src="https://static.53ai.com/assets/static/script/core.js?v=1.0.69"></script>
+<script src="https://static.53ai.com/assets/static/script/script.js?v=1.0.69"></script>
+<script src="https://static.53ai.com/assets/static/script/third-iframe.js?v=1.0.69"></script>
+
+</body></html>

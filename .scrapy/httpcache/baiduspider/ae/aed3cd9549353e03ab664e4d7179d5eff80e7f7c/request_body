@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "rewardsn=; wxtokenkey=777",
+        "Referer": "https://mp.weixin.qq.com/s?__biz=MzI5OTEyNzkxMg==&mid=2247591840&idx=1&sn=463d964b61dd31f78eb991b9d6773833&chksm=ec9862a7dbefebb1f2336f17cb625af3d7e419607728ae3f4b7c3408005d2a21c1ab2091fc74&scene=27",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI5OTEyNzkxMg==&mid=2247591840&idx=1&sn=463d964b61dd31f78eb991b9d6773833&chksm=ec9862a7dbefebb1f2336f17cb625af3d7e419607728ae3f4b7c3408005d2a21c1ab2091fc74&scene=27",
+    "wait": 6
+}

@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "acw_tc=1a0c651317312242994958305e0035f323ef35eca40cfe884cda466fc51fbb",
+        "Referer": "https://news.sciencenet.cn/htmlnews/2021/6/459306.shtm",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://news.sciencenet.cn/htmlnews/2021/6/459306.shtm",
+    "wait": 6
+}

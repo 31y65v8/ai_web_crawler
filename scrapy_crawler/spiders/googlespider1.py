@@ -1,6 +1,8 @@
 import scrapy
 import os
 import re
+import json
+import csv
 from urllib.parse import urlencode
 from urllib.parse import urlparse
 from urllib.parse import urljoin
@@ -26,10 +28,18 @@ class GoogleSpiderSpider(scrapy.Spider):
     name = "googlespider1"
     #allowed_domains = ['google.com']
     start_urls = ['http://google.com']
+
+    # 读取 cookies 的函数
+    def load_cookies(self):
+        with open('cookies.json', 'r') as f:
+            cookies = json.load(f)
+        return cookies
+
     custom_settings = {
         'ROBOTSTXT_OBEY': False,
-        'LOG_LEVEL': 'DEBUG',
+        'LOG_LEVEL': 'INFO',
         'CONCURRENT_REQUESTS_PER_DOMAIN': 2,
+        'CONCURRENT_REQUESTS' : 2,
         'RETRY_TIMES': 3,
         'DOWNLOAD_DELAY': 2  # 限制请求之间的延迟时间，防止过于频繁的请求
         , 'RETRY_HTTP_CODES': [502, 503, 504, 408],
@@ -53,16 +63,15 @@ class GoogleSpiderSpider(scrapy.Spider):
                                            #date TEXT
                                          #)''')
     # 基础关键词
-    base_queries = ['人工智能发展路径','人工智能发展史','人工智能发展历程','AI发展路径','AI发展史','AI发展历程']
+    base_queries = ['人工智能应用',
+                    ]
 
     # 拓展关键词
     extension_queries = [
-        '三个阶段',
-        '大事记',
-        '三起两落',
-        '典型技术',
-        '典型事件'
+        '行业'
+
     ]
+
     # 组合生成查询
     combined_queries = []
 
@@ -84,6 +93,9 @@ class GoogleSpiderSpider(scrapy.Spider):
         # 中文组合生成查询
         ch_combined_queries = []'''
 
+        # 加载 cookies
+        cookies = self.load_cookies()
+
         for base in self.base_queries:
             for extension in self.extension_queries:
                 query = f"{base} AND {extension}"
@@ -96,12 +108,17 @@ class GoogleSpiderSpider(scrapy.Spider):
             url = create_google_url(query)  # 创建 Google 搜索的 URL
             #yield scrapy.Request(url, callback=self.parse)
             #Google搜索结果页为动态页面，使用splash加载动态页面（先打开docker）
+            self.logger.debug(f"正在渲染搜索结果页面: {query}")
             yield SplashRequest(
                 url,
                 callback=self.parse,
                 args={'wait': 5},  # 等待时间，确保页面加载完成
                 endpoint='render.html',
+                #allow_redirects=True,
+                dont_filter=True
+                #resource_timeout = 10  # 资源加载的超时时间
             )
+            #self.logger.debug(f"渲染完成: {query}")
 
             '''# 随机等待 1 到 3 秒之间的时间
             time.sleep(random.uniform(3, 5))
@@ -230,7 +247,7 @@ class GoogleSpiderSpider(scrapy.Spider):
         #限制爬取搜索结果页数，每页10条
         page_number = response.meta.get('page_number', 1)  # 获取当前页码
 
-        if page_number < 20:  # 限制爬取的最大页数（这里是20页）
+        if  2 < page_number < 6:  # 限制爬取的最大页数（这里是5页）
             # 获取下一页的链接
             #next_page = response.css('a#pnnext::attr(href)').get()  # 获取翻页链接（下一页）
             next_page = response.css('a[aria-label="Next page"]::attr(href)').get()
@@ -249,7 +266,7 @@ class GoogleSpiderSpider(scrapy.Spider):
     #提取搜索结果网页的标题、HTML内容和其他信息
     def parse_article(self, response):
 
-        self.logger.info(f'正在处理文章页面: {response.url}')
+        #self.logger.info(f'正在处理文章页面: {response.url}')
 
         # 创建 ScrapyCrawlerItem 实例
         item = ScrapyCrawlerItem()
@@ -272,7 +289,7 @@ class GoogleSpiderSpider(scrapy.Spider):
 
         # 创建一个文件夹存储 HTML 文件
         #folder_path = 'test'
-        folder_path = '-'.join(self.combined_queries)
+        folder_path = 'Google'+ '-'.join(self.combined_queries)
         os.makedirs(folder_path, exist_ok=True)
         print(f"文件夹 '{folder_path}' 创建成功")
 
@@ -283,7 +300,7 @@ class GoogleSpiderSpider(scrapy.Spider):
         # 文件路径
         file_path = os.path.join(folder_path, filename)
 
-        #简单的判重：标题相同的网页只存储一次
+        #简单的判重：同一个文件夹中标题相同的网页只存储一次
         if os.path.exists(file_path):
             print(f"文件 '{file_path}' 已存在，跳过保存和数据库存储。")
             return
@@ -310,7 +327,6 @@ class GoogleSpiderSpider(scrapy.Spider):
         # 填充 item
         item['title'] = title
         item['url'] = response.url
-        item['html_source'] = html_source
         item['last_modified'] = last_modified
         item['crawl_time'] = crawl_time
         item['language'] = language

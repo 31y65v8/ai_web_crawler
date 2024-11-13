@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "BDSVRTM=0",
+        "Referer": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E8%B7%AF%E5%BE%84+%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5&rn=10",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E8%B7%AF%E5%BE%84%20%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5&pn=10&oq=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E8%B7%AF%E5%BE%84%20%E4%B8%89%E4%B8%AA%E9%98%B6%E6%AE%B5&ie=utf-8&rsv_pq=bed50db600aa1bf4&rsv_t=2ad2W5sJM3JU7eze7pnS2%2FukoNT%2FBeE11DeWIZ6X73ff98PzQRo7l4KBWJk&topic_pn=&rsv_page=1",
+    "wait": 5
+}

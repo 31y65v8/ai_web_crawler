@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "affinity=\"bc7c3393102e43cd\"; AKA_A2=A",
+        "Referer": "https://www2.deloitte.com/cn/zh/pages/innovation/articles/ai-and-you.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www2.deloitte.com/cn/zh/pages/innovation/articles/ai-and-you.html",
+    "wait": 6
+}

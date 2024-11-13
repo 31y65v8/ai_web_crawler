@@ -1,0 +1,1144 @@
+<!DOCTYPE html><html lang="zh" class="content-zh_cn zh_cn   touchPageRenderingFix" data-language="zh_cn" data-page-path="/content/sapdx/countries/zh_cn/products/artificial-intelligence/what-is-artificial-intelligence" data-site-code="china" data-request-path="/content/sapdx/countries/zh_cn/products/artificial-intelligence/what-is-artificial-intelligence.html" data-page-model-path="/products/artificial-intelligence/what-is-artificial-intelligence.model.json" data-is-publish="" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml" data-contact-module-model-path="/bin/sapdxc/cache/contactModule/content/sapdx/countries/zh_cn/_jcr_content/parContactModule/contactModule.model.json" data-header-model-path="/bin/sapdxc/cache/header/content/sapdx/countries/zh_cn/_jcr_content/parHeader/headerstandard.model.json" data-is-react=""><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="keywords" content="什么是人工智能, AI 技术, 人工智能定义">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<script>
+            window.prerenderReady = false;
+            console.log("prerenderReady = false, time: " + Date.now());
+            document.addEventListener("readystatechange", (event) => {
+                if (event.target.readyState === "complete") {
+                    window.prerenderReady = true;
+                    console.log("prerenderReady = true, time: " + Date.now());
+                }
+            });
+        </script>
+<title>什么是人工智能？| 人工智能 | 商业 AI | SAP</title>
+<meta name="description" content="人工智能 (AI) 是一种让机器能够以类人方式学习和执行任务，从而成功实现目标的技术。了解人工智能技术在商业中的应用。">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="keywords" content="什么是人工智能, AI 技术, 人工智能定义"><meta property="og:type" content="website"><meta property="og:url" content="https://www.sap.cn/products/artificial-intelligence/what-is-artificial-intelligence.html"><meta property="og:title" content="什么是人工智能？| 人工智能 | 商业 AI | SAP"><meta property="og:description" content="人工智能 (AI) 是一种让机器能够以类人方式学习和执行任务，从而成功实现目标的技术。了解人工智能技术在商业中的应用。"><meta property="og:site_name" content="SAP"><meta property="og:image" content="http://www.sap.cn/dam/application/shared/logos/sap_logo_rgb_onwhite_0300_0300.png.adapt.png/1656382976488.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:url" content="https://www.sap.cn/products/artificial-intelligence/what-is-artificial-intelligence.html"><meta name="twitter:title" content="什么是人工智能？| 人工智能 | 商业 AI | SAP"><meta name="twitter:description" content="人工智能 (AI) 是一种让机器能够以类人方式学习和执行任务，从而成功实现目标的技术。了解人工智能技术在商业中的应用。"><meta name="twitter:site" content="@SAP"><meta name="twitter:image" content="http://www.sap.cn/dam/application/shared/logos/sap_logo_rgb_onwhite_0300_0300.png.adapt.png/1656382976488.png"><meta name="sm_tech_ids" content="tech,99c8ae99-4ba4-46b7-b92d-e78378f1a7b6,c3c3a408-33ea-4c2a-ae6f-05461e76982d,9b9f6bbb-1d78-4bdf-9ab8-75cbbc7b6df2,73554900100700002751,31931000352855518868010320236300,zh-CN,9e234f9a-3011-416a-95b1-00079c57a5e4,207430454709915121807807"><meta name="type" content="Page"><meta name="language" content="Chinese - Simplified"><meta name="content_category" content="Trends and Best Practices"><meta name="content_format" content="Web Pages"><meta name="content_category_trends_and_best_practices_insights" content="Fundamental"><meta name="software_product" content="Technology Platform"><meta name="web_site_identifier" content="China"><meta name="product_category" content="Business Technology Platform"><meta name="content_category_trends_and_best_practices" content="Insights"><meta name="content_category_trends_and_best_practices_insights_fundamental" content="What is"><meta name="product_category" content="Artificial Intelligence"><meta name="software_product_technology_platform" content="SAP Business AI"><meta name="software_product" content="Intelligent Enterprise">
+<link rel="apple-touch-icon" sizes="60x60" href="/etc.clientlibs/sapdx/clientlibs/clientlib-generic-legacy/resources/images/apple-touch-icons/touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/etc.clientlibs/sapdx/clientlibs/clientlib-generic-legacy/resources/images/apple-touch-icons/touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/sapdx/clientlibs/clientlib-generic-legacy/resources/images/apple-touch-icons/touch-icon-180x180.png">
+<!--*/ Used for metadata customization of inherited pages */-->
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="dns-prefetch" href="https://epsilon.6sense.com"><link rel="preconnect" href="https://epsilon.6sense.com">
+<link rel="dns-prefetch" href="https://assets.adobedtm.com"><link rel="preconnect" href="https://assets.adobedtm.com">
+<link rel="dns-prefetch" href="https://sapglobalmarketingin.tt.omtrdc.net"><link rel="preconnect" href="https://sapglobalmarketingin.tt.omtrdc.net">
+<link rel="dns-prefetch" href="https://consent.trustarc.com"><link rel="preconnect" href="https://consent.trustarc.com">
+<link rel="dns-prefetch" href="https://content.cdn.sap.com"><link rel="preconnect" href="https://content.cdn.sap.com">
+<link rel="canonical" href="https://www.sap.cn/products/artificial-intelligence/what-is-artificial-intelligence.html">
+<link rel="preload" href="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/72BrandVariable_Th-Blk.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/images/BackgroundPlaceholder.svg" as="image" type="image/svg+xml">
+<link rel="prefetch" href="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/images/SapIconsSprite.svg" as="image" type="image/svg+xml">
+<style sty-id="sc-ds-secondary-navigation">:root{--ds-secondary-navigation-background:var(--sapShell_Background, #ffffff);--ds-secondary-navigation-border:var(--udexColorGrey2, #eaecee);--ds-secondary-navigation-heading-color-divider:var(--udexCoreDividerLight, #d5dadd);--ds-secondary-navigation-heading-color-icon:var(--sapContent_IconColor, #223548);--ds-secondary-navigation-heading-color-title:var(--sapTextColor, #223548);--ds-secondary-navigation-heading-icon-size:22px;--ds-secondary-navigation-tab-color-icon:var(--sapContent_IconColor, #223548);--ds-secondary-navigation-tab-color-text:var(--sapTextColor, #223548);--ds-secondary-navigation-tab-color-text-hover:var(--sapHoverColor, #0070F2);--ds-secondary-navigation-tab-color-text-active:var(--sapActiveColor, #0040B0);--ds-secondary-navigation-tab-color-underline:var(--sapHightLightColor, #0070f2);--ds-secondary-navigation-font-family-fallback:"72 Brand Variable", Arial, Helvetica, sans-serif;--ds-secondary-navigation-font-family:var(--sapFontFamily,--ds-secondary-navigation-font-family-fallback);--ds-secondary-navigation-line-height:var(--udexTypographyHeadingLineHeight, 1.1);--ds-secondary-navigation-outline-radius:var(--udexRadiusM, 8px);--ds-secondary-navigation-outline-color:var(--udexColorBlue10, #002A86);--ds-udex-color-grey-6:var(--udexColorGrey6, #5B738B);--ds-breadcrumbs-dropdown-background-color:var(--sapNeutralBackground, var(--udexColorNeutralWhite, #FFFFFF));--ds-breadcrumbs-dropdown-default-navigation-color:var(--sapNeutralElementColor, --ds-udex-color-grey-6);--ds-breadcrumbs-dropdown-default-page-heading-color:var(--sapTextColor, var(--udexCoreTextDark, #223548));--ds-breadcrumbs-dropdown-hover-navigation-color:var(--sapNeutralElementColor, --ds-udex-color-grey-6);--ds-breadcrumbs-dropdown-hover-underline-color:var(--sapNeutralElementColor, --ds-udex-color-grey-6);--ds-breadcrumbs-item-default-text-icon-color:var(--sapNeutralElementColor, --ds-udex-color-grey-6);--ds-breadcrumbs-item-hover-text-icon-color:var(--sapNeutralElementColor, --ds-udex-color-grey-6);--ds-breadcrumbs-item-hover-underline-color:var(--sapNeutralElementColor, --ds-udex-color-grey-6);--breadcrumbs-item-icon-size:12px;--ds-udex-color-blue-9:var(--udexColorBlue9,#0040B0);--ds-button-color-primary-standard-default-background:var(--sapButton_Emphasized_Background, var(--udexCorePrimaryAction, #0070F2));--ds-button-color-primary-standard-default-text-and-icon:var(--sapButton_Emphasized_TextColor, var(--udexCoreTextLight, #FFFFFF));--ds-button-color-primary-standard-hover-background:var(--sapButton_Emphasized_Hover_Background, --ds-udex-color-blue-9);--ds-button-color-primary-standard-hover-text-and-icon:var(--sapButton_Emphasized_TextColor, var(--udexCoreTextLight, #FFFFFF));--ds-button-color-primary-standard-active-background:var(--sapButton_Emphasized_Active_Background, var(--udexColorNeutralWhite, #FFFFFF));--ds-button-color-primary-standard-active-border:var(--sapButton_Emphasized_Active_BorderColor, --ds-udex-color-blue-9);--ds-button-color-primary-standard-active-text-and-icon:var(--sapButton_Emphasized_Active_TextColor, --ds-udex-color-blue-9);--ds-button-color-secondary-standard-default-background:var(--sapButton_Background, var(--udexColorNeutralWhite0, #FFFFFF00));--ds-button-color-secondary-standard-default-border:var(--sapButton_BorderColor, var(--udexColorGrey7));--ds-button-color-secondary-standard-default-text-and-icon:var(--sapButton_TextColor, --ds-udex-color-blue-9);--ds-button-color-secondary-standard-hover-background:var(--sapButton_Hover_Background, var(--udexColorGrey2));--ds-button-color-secondary-standard-hover-border:var(--sapButton_Hover_BorderColor, var(--udexColorGrey7));--ds-button-color-secondary-standard-hover-text-and-icon:var(--sapButton_TextColor, --ds-udex-color-blue-9);--ds-button-color-secondary-standard-active-background:var(--sapButton_Active_Background, var(--udexColorNeutralWhite0, #FFFFFF00));--ds-button-color-secondary-standard-active-border:var(--sapButton_Active_BorderColor, --ds-udex-color-blue-9);--ds-button-color-secondary-standard-active-text-and-icon:var(--sapButton_Active_TextColor, --ds-udex-color-blue-9)}ds-secondary-navigation{--cxs-font-family-regular:BentonSansRegular, arial, helvetica, sans-serif;--cxs-font-family-light:BentonSansLight, arial, helvetica, sans-serif;--cxs-font-family-book:BentonSansBook, arial, helvetica, sans-serif;--cxs-font-family-medium:BentonSansMedium, arial, helvetica, sans-serif;--cxs-font-family-bold:BentonSansBold, arial, helvetica, sans-serif;--cxs-font-weight-light:200;--cxs-font-weight-book:300;--cxs-font-weight-regular:400;--cxs-font-weight-medium:500;--cxs-font-weight-bold:400;-moz-osx-font-smoothing:auto;-webkit-font-smoothing:auto}:host(:lang(zh-cn)){--cxs-font-family-regular:Microsoft YaHei, arial, helvetica, sans-serif;--cxs-font-family-light:Microsoft YaHei, arial, helvetica, sans-serif;--cxs-font-family-book:Microsoft YaHei, arial, helvetica, sans-serif;--cxs-font-family-medium:Microsoft YaHei, arial, helvetica, sans-serif;--cxs-font-family-bold:Microsoft YaHei, arial, helvetica, sans-serif;--cxs-font-weight-bold:800;-webkit-font-smoothing:auto}:host(:lang(ja-jp)){--cxs-font-family-regular:Yu Gothic Medium, arial, helvetica, sans-serif;--cxs-font-family-light:Yu Gothic Medium, arial, helvetica, sans-serif;--cxs-font-family-book:Yu Gothic Medium, arial, helvetica, sans-serif;--cxs-font-family-medium:Yu Gothic Medium, arial, helvetica, sans-serif;--cxs-font-family-bold:Yu Gothic Medium, arial, helvetica, sans-serif;--cxs-font-weight-medium:700;--cxs-font-weight-bold:600;-webkit-font-smoothing:auto}:host(:lang(ko-kr)){--cxs-font-family-regular:Malgun Gothic, arial, helvetica, sans-serif;--cxs-font-family-light:Malgun Gothic, arial, helvetica, sans-serif;--cxs-font-family-book:Malgun Gothic, arial, helvetica, sans-serif;--cxs-font-family-medium:Malgun Gothic, arial, helvetica, sans-serif;--cxs-font-family-bold:Malgun Gothic, arial, helvetica, sans-serif;--cxs-font-weight-bold:800;-webkit-font-smoothing:auto}:host(:lang(he-il)){--cxs-font-family-regular:arial, helvetica, sans-serif;--cxs-font-family-light:arial, helvetica, sans-serif;--cxs-font-family-book:arial, helvetica, sans-serif;--cxs-font-family-medium:arial, helvetica, sans-serif;--cxs-font-family-bold:arial, helvetica, sans-serif;--cxs-font-weight-medium:600;--cxs-font-weight-bold:600}:host(:lang(ar-sa)){--cxs-font-family-regular:arial, helvetica, sans-serif;--cxs-font-family-light:arial, helvetica, sans-serif;--cxs-font-family-book:arial, helvetica, sans-serif;--cxs-font-family-medium:arial, helvetica, sans-serif;--cxs-font-family-bold:arial, helvetica, sans-serif;--cxs-font-weight-medium:600;--cxs-font-weight-bold:600}ds-secondary-navigation{--cxs-font-size-base:1rem;--cxs-font-size-base-0:calc(var(--cxs-font-size-base) * .8125);--cxs-font-size-base-1:calc(var(--cxs-font-size-base) * .875);--cxs-font-size-base-2:var(--cxs-font-size-base);--cxs-font-size-base-3:calc(var(--cxs-font-size-base) * 1.75);--cxs-font-size-base-4:calc(var(--cxs-font-size-base) * 2);--cxs-spacer-xxs:calc(var(--cxs-font-size-base) * .25);--cxs-spacer-xs:calc(var(--cxs-font-size-base) * .5);--cxs-spacer-s:calc(var(--cxs-font-size-base) * .75);--cxs-spacer-xm:calc(var(--cxs-font-size-base) * .875);--cxs-spacer-m:calc(var(--cxs-font-size-base) * 1.25);--cxs-spacer-l:calc(var(--cxs-font-size-base) * 2);--cxs-spacer-xl:calc(var(--cxs-font-size-base) * 3.25);--cxs-spacer-xxl:calc(var(--cxs-font-size-base) * 5.25);width:100%;font-family:var(--ds-secondary-navigation-font-family)}.secondary-nav-wrapper{display:flex;position:relative;align-items:center;box-sizing:border-box;width:100%;min-height:64px;background:rgba(255, 255, 255, 0.97);font-family:var(--ds-secondary-navigation-font-family);font-weight:var(--udexTypographyFontWeightRegular, 400);letter-spacing:0;z-index:23}.secondary-nav-wrapper--sticky{animation:slide-down 0.5s}.secondary-nav-wrapper::after{box-shadow:0 2px 4px 0 rgba(34, 53, 72, 0.2);position:absolute;inset-inline:0;width:100%;height:100%;content:"";z-index:1}.secondary-nav{display:flex;position:relative;justify-content:space-between;width:100%;max-width:1432px;margin-block:0;margin-inline:auto;padding-block:var(--udexSpacer12, 12px);padding-inline:var(--udexSpacer24, 24px);text-align:start;z-index:2}.page-heading{position:relative;color:var(--ds-secondary-navigation-heading-color-title);font-family:var(--ds-secondary-navigation-font-family);font-size:var(--udexTypographyNavigationMediumXLFontSize, 16px);font-weight:var(--udexTypographyFontWeightMedium, 500);line-height:var(--ds-secondary-navigation-line-height);text-align:start;word-break:break-word}.page-heading .nav-tab-item-mobile{padding-block-start:7px;font-size:var(--udexTypographyNavigationRegularMFontSize, 14px);font-weight:var(--udexTypographyFontWeightRegular, 400)}.page-heading .secondary-nav-heading{display:block;font-weight:var(--udexTypographyFontWeightRegular, 400)}.mobile-nav{margin-inline-start:var(--cxs-spacer-m)}@media (min-width: 640px){.secondary-nav{padding-inline:var(--udexSpacer48, 48px)}}@media (min-width: 980px){.secondary-nav-wrapper{min-height:72px;padding-block:0;padding-inline:var(--udexSpacer72, 72px)}.secondary-nav-wrapper::after{border-block-end:1px solid var(--ds-secondary-navigation-border);box-shadow:unset}.secondary-nav-wrapper--title-only{min-height:54px}.nav-tab-container{display:flex;flex-direction:row;align-items:baseline;width:100%;font-size:var(--udexTypographyNavigationMediumXLFontSize, 16px);line-height:var(--ds-secondary-navigation-line-height)}.page-heading{display:-webkit-box;flex-shrink:0;max-width:305px;max-height:calc(var(--cxs-font-size-base) * 2.875);padding:0;font-size:var(--udexTypographyNavigationMediumXLFontSize, 16px);font-weight:var(--udexTypographyFontWeightMedium, 500);overflow:hidden;-webkit-line-clamp:2;-webkit-box-orient:vertical}.page-heading .nav-tab-item-mobile{display:none}.secondary-nav{align-items:center;min-height:72px;padding:0}.secondary-nav--title-only{min-height:54px}.secondary-nav--title-only .secondary-nav-container{margin:unset}.secondary-nav-container{display:grid;width:100%;margin-block:var(--udexSpacer12, 12px) 18px;grid-template-columns:minmax(auto, 100%)}.secondary-nav-container ds-breadcrumb-element{grid-column:1/3;grid-row:1/1;padding-block-end:var(--udexSpacer4, 4px);z-index:1}.secondary-nav-container .nav-tab-container{grid-column-start:1;grid-row:2/2}.secondary-nav-container .nav-tab-container--without-breadcrumbs{grid-row:1/3;align-self:center}.secondary-nav-container ds-btn-container{grid-column:2/2;grid-row:1/3;display:grid;align-content:center;z-index:2}}@keyframes slide-down{0%{transform:translateY(-100%)}100%{transform:translateY(0)}}</style><style sty-id="sc-ds-breadcrumb-element">.breadcrumbs-list.sc-ds-breadcrumb-element{display:flex;align-items:center;margin:0;padding:0;list-style:none}.breadcrumbs-list.sc-ds-breadcrumb-element>li.sc-ds-breadcrumb-element{display:flex;align-items:center}.breadcrumbs-item.sc-ds-breadcrumb-element{position:relative;color:var(--ds-breadcrumbs-item-default-text-icon-color);font-family:var(--ds-secondary-navigation-font-family);font-size:var(--udexTypographyBodyXXSFontSize, 12px);line-height:var(--ds-secondary-navigation-line-height);text-decoration:none}.breadcrumbs-item.sc-ds-breadcrumb-element::before{position:absolute;inset-block:-6px;inset-inline-start:0;width:100%;content:"";z-index:1}.breadcrumbs-item.sc-ds-breadcrumb-element:not(span):hover{text-decoration:underline;text-underline-offset:2px}.breadcrumbs-item.sc-ds-breadcrumb-element:not(span):focus-visible{border-radius:var(--ds-secondary-navigation-outline-radius);outline:2px solid var(--ds-secondary-navigation-outline-color);outline-offset:2px;text-decoration:none}.separator.sc-ds-breadcrumb-element{margin-inline:var(--udexSpacer4, 4px);color:var(----udexColorGrey6, #5B738B);font-size:var(--udexTypographyBodyXXSFontSize, 12px)}.breadcrumb-wrapper.sc-ds-breadcrumb-element{display:none}@media (min-width: 640px){.breadcrumb-wrapper.sc-ds-breadcrumb-element{display:flex;align-items:center;max-width:75%;padding-block:var(--udexSpacer2, 2px);padding-inline:0;white-space:nowrap}}</style><style sty-id="sc-ds-dropdown-breadcrumbs">.dropdown-breadcrumbs.sc-ds-dropdown-breadcrumbs{position:relative;z-index:1}.dropdown-breadcrumbs-btn.sc-ds-dropdown-breadcrumbs{display:flex;position:relative;align-items:center;justify-content:center;width:24px;height:24px;margin:-6px;padding:0;border:none;background:none;cursor:pointer}.dropdown-breadcrumbs-btn.sc-ds-dropdown-breadcrumbs:focus-visible{border-radius:var(--ds-secondary-navigation-outline-radius);outline:2px solid var(--ds-secondary-navigation-outline-color)}.dropdown-breadcrumbs-btn.sc-ds-dropdown-breadcrumbs:hover{border-block-end-color:#727272}.dropdown-breadcrumbs-btn.sc-ds-dropdown-breadcrumbs:hover svg.sc-ds-dropdown-breadcrumbs{fill:#005178}.dropdown-breadcrumbs-btn.sc-ds-dropdown-breadcrumbs:hover .dropdown-breadcrumbs-arrow.sc-ds-dropdown-breadcrumbs{--ds-icon-color:var(--ds-breadcrumbs-item-default-text-icon-color)}.dropdown-breadcrumbs-btn.open.sc-ds-dropdown-breadcrumbs .dropdown-breadcrumbs-arrow.sc-ds-dropdown-breadcrumbs{transform:rotate3d(1, 0, 0, 180deg)}.dropdown-breadcrumbs-arrow.sc-ds-dropdown-breadcrumbs{--ds-icon-width:var(--udexSpacer12,12px);--ds-icon-height:var(--udexSpacer12,12px);--ds-icon-color:var(--ds-breadcrumbs-item-default-text-icon-color);display:flex;align-items:center;transform:rotate(0);transition:0.25s all}.dropdown-breadcrumbs.sc-ds-dropdown-breadcrumbs svg.sc-ds-dropdown-breadcrumbs{fill:#007db8}.dropdown-breadcrumbs-popover.sc-ds-dropdown-breadcrumbs{box-shadow:0 10px 30px 0 rgba(34, 53, 72, 0.3);display:none;position:absolute;inset-block-start:100%;min-width:240px;max-width:360px;margin-block-start:-2px;padding-block:var(--udexSpacer32, 32px);padding-inline:0;border-radius:3px;background-color:#fff;z-index:var(--cxs-popover-z-index, 100)}.dropdown-breadcrumbs-popover.open.sc-ds-dropdown-breadcrumbs{display:block}.dropdown-breadcrumbs-scrollbar.sc-ds-dropdown-breadcrumbs{max-height:305px}</style><style sty-id="sc-ds-icon-off">ds-icon-off.sc-ds-icon-off{--ds-icon-color:currentcolor;--ds-icon-width:calc(var(--cxs-font-size-base) * 1);--ds-icon-height:var(--ds-icon-width);display:flex;align-items:center}svg.sc-ds-icon-off{width:100%;height:100%}.icon__inner.sc-ds-icon-off{display:inline-flex;box-sizing:content-box;width:var(--ds-icon-width);height:var(--ds-icon-height);color:var(--ds-icon-color)}.icon__inner--rtl.sc-ds-icon-off{transform:scaleX(-1)}</style><style sty-id="sc-ds-custom-scrollbar">/*! 
+ * OverlayScrollbars
+ * Version: 2.5.0
+ * 
+ * Copyright (c) Rene Haas | KingSora.
+ * https://github.com/KingSora
+ * 
+ * Released under the MIT license.
+ */.os-size-observer,.os-size-observer-listener{scroll-behavior:auto !important;direction:inherit;pointer-events:none;overflow:hidden;visibility:hidden;box-sizing:border-box}.os-size-observer,.os-size-observer-listener,.os-size-observer-listener-item,.os-size-observer-listener-item-final{writing-mode:horizontal-tb;position:absolute;left:0;top:0}.os-size-observer{z-index:-1;contain:strict;display:flex;flex-direction:row;flex-wrap:nowrap;padding:inherit;border:inherit;box-sizing:inherit;margin:-133px;top:0;right:0;bottom:0;left:0;transform:scale(0.1)}.os-size-observer::before{content:"";flex:none;box-sizing:inherit;padding:10px;width:10px;height:10px}.os-size-observer-appear{animation:os-size-observer-appear-animation 1ms forwards}.os-size-observer-listener{box-sizing:border-box;position:relative;flex:auto;padding:inherit;border:inherit;margin:-133px;transform:scale(calc(1 / 0.1))}.os-size-observer-listener.ltr{margin-right:-266px;margin-left:0}.os-size-observer-listener.rtl{margin-left:-266px;margin-right:0}.os-size-observer-listener:empty::before{content:"";width:100%;height:100%}.os-size-observer-listener:empty::before,.os-size-observer-listener>.os-size-observer-listener-item{display:block;position:relative;padding:inherit;border:inherit;box-sizing:content-box;flex:auto}.os-size-observer-listener-scroll{box-sizing:border-box;display:flex}.os-size-observer-listener-item{right:0;bottom:0;overflow:hidden;direction:ltr;flex:none}.os-size-observer-listener-item-final{transition:none}@keyframes os-size-observer-appear-animation{from{cursor:auto}to{cursor:none}}.os-trinsic-observer{flex:none;box-sizing:border-box;position:relative;max-width:0px;max-height:1px;padding:0;margin:0;border:none;overflow:hidden;z-index:-1;height:0;top:calc(100% + 1px);contain:strict}.os-trinsic-observer:not(:empty){height:calc(100% + 1px);top:-1px}.os-trinsic-observer:not(:empty)>.os-size-observer{width:1000%;height:1000%;min-height:1px;min-width:1px}.os-environment{scroll-behavior:auto !important;position:fixed;opacity:0;visibility:hidden;overflow:scroll;height:200px;width:200px;z-index:-1}.os-environment div{width:200%;height:200%;margin:10px 0}.os-environment.os-environment-flexbox-glue{display:flex;flex-direction:row;flex-wrap:nowrap;height:auto;width:auto;min-height:200px;min-width:200px}.os-environment.os-environment-flexbox-glue div{flex:auto;width:auto;height:auto;max-height:100%;max-width:100%;margin:0}.os-environment.os-environment-flexbox-glue-max{max-height:200px}.os-environment.os-environment-flexbox-glue-max div{overflow:visible}.os-environment.os-environment-flexbox-glue-max div::before{content:"";display:block;height:999px;width:999px}.os-environment,[data-overlayscrollbars-viewport]{-ms-overflow-style:scrollbar !important}[data-overlayscrollbars-initialize],[data-overlayscrollbars~=scrollbarHidden],[data-overlayscrollbars-viewport~=scrollbarHidden],.os-environment-scrollbar-hidden{scrollbar-width:none !important}[data-overlayscrollbars-initialize]::-webkit-scrollbar,[data-overlayscrollbars-initialize]::-webkit-scrollbar-corner,[data-overlayscrollbars~=scrollbarHidden]::-webkit-scrollbar,[data-overlayscrollbars~=scrollbarHidden]::-webkit-scrollbar-corner,[data-overlayscrollbars-viewport~=scrollbarHidden]::-webkit-scrollbar,[data-overlayscrollbars-viewport~=scrollbarHidden]::-webkit-scrollbar-corner,.os-environment-scrollbar-hidden::-webkit-scrollbar,.os-environment-scrollbar-hidden::-webkit-scrollbar-corner{-webkit-appearance:none !important;appearance:none !important;display:none !important;width:0 !important;height:0 !important}[data-overlayscrollbars-initialize]:not([data-overlayscrollbars]):not(html):not(body){overflow:auto}html[data-overlayscrollbars]{box-sizing:border-box;margin:0}html[data-overlayscrollbars~=body],html[data-overlayscrollbars~=body]>body{width:100%;height:100%}html[data-overlayscrollbars~=viewport]>body{overflow:visible}[data-overlayscrollbars~=host],[data-overlayscrollbars-padding]{display:flex;align-items:stretch !important;flex-direction:row !important;flex-wrap:nowrap !important}[data-overlayscrollbars-padding],[data-overlayscrollbars-viewport]{box-sizing:inherit;position:relative;flex:auto !important;height:auto;width:100%;min-width:0;padding:0;margin:0;border:none;z-index:0}[data-overlayscrollbars-viewport]{--os-vaw:0;--os-vah:0}[data-overlayscrollbars-viewport][data-overlayscrollbars-viewport~=arrange]::before{content:"";position:absolute;pointer-events:none;z-index:-1;min-width:1px;min-height:1px;width:var(--os-vaw);height:var(--os-vah)}[data-overlayscrollbars-padding],[data-overlayscrollbars-viewport]{overflow:hidden}[data-overlayscrollbars~=host],[data-overlayscrollbars~=viewport]{position:relative;overflow:hidden}[data-overlayscrollbars~=overflowVisible],[data-overlayscrollbars-padding~=overflowVisible],[data-overlayscrollbars-viewport~=overflowVisible]{overflow:visible}[data-overlayscrollbars-overflow-x=hidden]{overflow-x:hidden}[data-overlayscrollbars-overflow-x=scroll]{overflow-x:scroll}[data-overlayscrollbars-overflow-x=hidden]{overflow-y:hidden}[data-overlayscrollbars-overflow-y=scroll]{overflow-y:scroll}[data-overlayscrollbars~=scrollbarPressed],[data-overlayscrollbars~=scrollbarPressed] [data-overlayscrollbars-viewport]{scroll-behavior:auto !important}[data-overlayscrollbars-content]{box-sizing:inherit}[data-overlayscrollbars-contents]:not([data-overlayscrollbars-padding]):not([data-overlayscrollbars-viewport]):not([data-overlayscrollbars-content]){display:contents}[data-overlayscrollbars-grid],[data-overlayscrollbars-grid] [data-overlayscrollbars-padding]{display:grid;grid-template:1fr/1fr}[data-overlayscrollbars-grid]>[data-overlayscrollbars-padding],[data-overlayscrollbars-grid]>[data-overlayscrollbars-viewport],[data-overlayscrollbars-grid]>[data-overlayscrollbars-padding]>[data-overlayscrollbars-viewport]{height:auto !important;width:auto !important}.os-scrollbar{contain:size layout;contain:size layout style;transition:opacity 0.15s, visibility 0.15s, top 0.15s, right 0.15s, bottom 0.15s, left 0.15s;pointer-events:none;position:absolute;opacity:0;visibility:hidden}body>.os-scrollbar{position:fixed;z-index:99999}.os-scrollbar-transitionless{transition:none}.os-scrollbar-track{position:relative;direction:ltr !important;padding:0 !important;border:none !important}.os-scrollbar-handle{position:absolute}.os-scrollbar-track,.os-scrollbar-handle{pointer-events:none;width:100%;height:100%}.os-scrollbar.os-scrollbar-track-interactive .os-scrollbar-track,.os-scrollbar.os-scrollbar-handle-interactive .os-scrollbar-handle{pointer-events:auto;touch-action:none}.os-scrollbar-horizontal{bottom:0;left:0}.os-scrollbar-vertical{top:0;right:0}.os-scrollbar-rtl.os-scrollbar-horizontal{right:0}.os-scrollbar-rtl.os-scrollbar-vertical{right:auto;left:0}.os-scrollbar-visible{opacity:1;visibility:visible}.os-scrollbar-auto-hide.os-scrollbar-auto-hide-hidden{opacity:0;visibility:hidden}.os-scrollbar-interaction.os-scrollbar-visible{opacity:1;visibility:visible}.os-scrollbar-unusable,.os-scrollbar-unusable *,.os-scrollbar-wheel,.os-scrollbar-wheel *{pointer-events:none !important}.os-scrollbar-unusable .os-scrollbar-handle{opacity:0 !important}.os-scrollbar-horizontal .os-scrollbar-handle{bottom:0}.os-scrollbar-vertical .os-scrollbar-handle{right:0}.os-scrollbar-rtl.os-scrollbar-vertical .os-scrollbar-handle{right:auto;left:0}.os-scrollbar.os-scrollbar-horizontal.os-scrollbar-cornerless,.os-scrollbar.os-scrollbar-horizontal.os-scrollbar-cornerless.os-scrollbar-rtl{left:0;right:0}.os-scrollbar.os-scrollbar-vertical.os-scrollbar-cornerless,.os-scrollbar.os-scrollbar-vertical.os-scrollbar-cornerless.os-scrollbar-rtl{top:0;bottom:0}.os-scrollbar{--os-size:0;--os-padding-perpendicular:0;--os-padding-axis:0;--os-track-border-radius:0;--os-track-bg:none;--os-track-bg-hover:none;--os-track-bg-active:none;--os-track-border:none;--os-track-border-hover:none;--os-track-border-active:none;--os-handle-border-radius:0;--os-handle-bg:none;--os-handle-bg-hover:none;--os-handle-bg-active:none;--os-handle-border:none;--os-handle-border-hover:none;--os-handle-border-active:none;--os-handle-min-size:33px;--os-handle-max-size:none;--os-handle-perpendicular-size:100%;--os-handle-perpendicular-size-hover:100%;--os-handle-perpendicular-size-active:100%;--os-handle-interactive-area-offset:0}.os-scrollbar .os-scrollbar-track{border:var(--os-track-border);border-radius:var(--os-track-border-radius);background:var(--os-track-bg);transition:opacity 0.15s, background-color 0.15s, border-color 0.15s}.os-scrollbar .os-scrollbar-track:hover{border:var(--os-track-border-hover);background:var(--os-track-bg-hover)}.os-scrollbar .os-scrollbar-track:active{border:var(--os-track-border-active);background:var(--os-track-bg-active)}.os-scrollbar .os-scrollbar-handle{border:var(--os-handle-border);border-radius:var(--os-handle-border-radius);background:var(--os-handle-bg)}.os-scrollbar .os-scrollbar-handle:before{content:"";position:absolute;left:0;right:0;top:0;bottom:0;display:block}.os-scrollbar .os-scrollbar-handle:hover{border:var(--os-handle-border-hover);background:var(--os-handle-bg-hover)}.os-scrollbar .os-scrollbar-handle:active{border:var(--os-handle-border-active);background:var(--os-handle-bg-active)}.os-scrollbar-horizontal{padding:var(--os-padding-perpendicular) var(--os-padding-axis);right:var(--os-size);height:var(--os-size)}.os-scrollbar-horizontal.os-scrollbar-rtl{left:var(--os-size);right:0}.os-scrollbar-horizontal .os-scrollbar-handle{min-width:var(--os-handle-min-size);max-width:var(--os-handle-max-size);height:var(--os-handle-perpendicular-size);transition:opacity 0.15s, background-color 0.15s, border-color 0.15s, height 0.15s}.os-scrollbar-horizontal .os-scrollbar-handle:before{top:calc((var(--os-padding-perpendicular) + var(--os-handle-interactive-area-offset)) * -1);bottom:calc(var(--os-padding-perpendicular) * -1)}.os-scrollbar-horizontal:hover .os-scrollbar-handle{height:var(--os-handle-perpendicular-size-hover)}.os-scrollbar-horizontal:active .os-scrollbar-handle{height:var(--os-handle-perpendicular-size-active)}.os-scrollbar-vertical{padding:var(--os-padding-axis) var(--os-padding-perpendicular);bottom:var(--os-size);width:var(--os-size)}.os-scrollbar-vertical .os-scrollbar-handle{min-height:var(--os-handle-min-size);max-height:var(--os-handle-max-size);width:var(--os-handle-perpendicular-size);transition:opacity 0.15s, background-color 0.15s, border-color 0.15s, width 0.15s}.os-scrollbar-vertical .os-scrollbar-handle:before{left:calc((var(--os-padding-perpendicular) + var(--os-handle-interactive-area-offset)) * -1);right:calc(var(--os-padding-perpendicular) * -1)}.os-scrollbar-vertical.os-scrollbar-rtl .os-scrollbar-handle:before{right:calc((var(--os-padding-perpendicular) + var(--os-handle-interactive-area-offset)) * -1);left:calc(var(--os-padding-perpendicular) * -1)}.os-scrollbar-vertical:hover .os-scrollbar-handle{width:var(--os-handle-perpendicular-size-hover)}.os-scrollbar-vertical:active .os-scrollbar-handle{width:var(--os-handle-perpendicular-size-active)}[data-overlayscrollbars~=updating]>.os-scrollbar,.os-theme-none.os-scrollbar{display:none !important}.os-theme-dark,.os-theme-light{box-sizing:border-box;--os-size:10px;--os-padding-perpendicular:2px;--os-padding-axis:2px;--os-track-border-radius:10px;--os-handle-interactive-area-offset:4px;--os-handle-border-radius:10px}.os-theme-dark{--os-handle-bg:rgba(0, 0, 0, 0.44);--os-handle-bg-hover:rgba(0, 0, 0, 0.55);--os-handle-bg-active:rgba(0, 0, 0, 0.66)}.os-theme-light{--os-handle-bg:rgba(255, 255, 255, 0.44);--os-handle-bg-hover:rgba(255, 255, 255, 0.55);--os-handle-bg-active:rgba(255, 255, 255, 0.66)}.custom-scrollbar *{box-sizing:border-box}.custom-scrollbar .os-theme-dark.os-scrollbar,.custom-scrollbar .os-theme-light.os-scrollbar{padding:0;padding-inline-end:var(--cxs-spacer-xs)}.custom-scrollbar .os-theme-dark.os-scrollbar .os-scrollbar-track,.custom-scrollbar .os-theme-light.os-scrollbar .os-scrollbar-track{border-radius:var(--cxs-spacer-xxs);background-color:#eaeaea}.custom-scrollbar .os-theme-dark.os-scrollbar .os-scrollbar-track .os-scrollbar-handle,.custom-scrollbar .os-theme-light.os-scrollbar .os-scrollbar-track .os-scrollbar-handle{border-radius:var(--cxs-spacer-xs);background-color:#727272}.custom-scrollbar .os-theme-dark.os-scrollbar-vertical,.custom-scrollbar .os-theme-light.os-scrollbar-vertical{width:calc(var(--cxs-font-size-base) * 1.125)}.custom-scrollbar .os-scrollbar.os-scrollbar-vertical.os-scrollbar-cornerless,.custom-scrollbar .os-scrollbar.os-scrollbar-vertical.os-scrollbar-cornerless.os-scrollbar-rtl{inset-block-start:6px;inset-block-end:6px}.custom-scrollbar .os-viewport::-webkit-scrollbar{display:none}.custom-scrollbar .os-viewport{-ms-overflow-style:none;scrollbar-width:none}slot-fb{display:contents}slot-fb[hidden]{display:none}</style><style sty-id="sc-ds-dropdown-breadcrumbs-list">.ds-dropdown-breadcrumbs-list.sc-ds-dropdown-breadcrumbs-list{margin:0;padding:0;padding-inline-end:var(--cxs-spacer-xl);list-style:none}.ds-dropdown-breadcrumbs-list.sc-ds-dropdown-breadcrumbs-list::-webkit-scrollbar{width:calc(var(--cxs-font-size-base) * 0.3125);height:calc(var(--cxs-font-size-base) * 0.3125)}.ds-dropdown-breadcrumbs-list.sc-ds-dropdown-breadcrumbs-list::-webkit-scrollbar-track{margin:calc(var(--cxs-font-size-base) * 0.65);border-radius:4px;background:#eaeaea}.ds-dropdown-breadcrumbs-list.sc-ds-dropdown-breadcrumbs-list::-webkit-scrollbar-thumb{border-radius:8px;background:#727272}</style><style sty-id="sc-ds-dropdown-breadcrumb-item">.dropdown-breadcrumbs-option.sc-ds-dropdown-breadcrumb-item{display:block;padding-block:var(--udexSpacer6, 6px);padding-inline:var(--udexSpacer12, 12px) 0;color:var(--ds-breadcrumbs-item-default-text-icon-color, #5B738B);font-family:var(--ds-secondary-navigation-font-family);font-size:var(--udexTypographyNavigationRegularXSFontSize, 12px);font-weight:var(--udexTypographyFontWeightRegular, 400);line-height:var(--ds-secondary-navigation-line-height);text-align:initial;text-decoration:none;white-space:normal;cursor:pointer}.dropdown-breadcrumbs-option.sc-ds-dropdown-breadcrumb-item:focus-visible{border-radius:var(--ds-secondary-navigation-outline-radius);outline:2px solid var(--ds-secondary-navigation-outline-color);outline-offset:-5px;text-decoration:none}.dropdown-breadcrumbs-option.sc-ds-dropdown-breadcrumb-item:hover{background-color:initial;color:var(--ds-breadcrumbs-item-hover-text-icon-color);text-decoration:underline;text-underline-offset:2px}.dropdown-breadcrumbs-option-icon.sc-ds-dropdown-breadcrumb-item{--ds-icon-width:var(--breadcrumbs-item-icon-size);--ds-icon-height:var(--breadcrumbs-item-icon-size);--ds-icon-color:var(--ds-breadcrumbs-item-default-text-icon-color);inset-block-start:calc(var(--cxs-font-size-base) * 0.125);margin-inline-end:calc(var(--cxs-font-size-base) * 0.3125)}.dropdown-breadcrumbs-option--home-page.sc-ds-dropdown-breadcrumb-item{display:flex;align-items:baseline;padding-inline-start:20px}.dropdown-breadcrumbs-option--last-item.sc-ds-dropdown-breadcrumb-item{color:var(--udexColorGrey9, #223548);font-size:var(--udexTypographyNavigationMediumXSFontSize, 12px);font-weight:var(--udexTypographyFontWeightMedium, 500);cursor:default}.dropdown-breadcrumbs-option--last-item.sc-ds-dropdown-breadcrumb-item:hover{color:var(--udexColorGrey9, #223548);text-decoration:none}</style><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/6876.f595c3e267c9f02f23b9.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/590.43246abeb0aa6dc7563f.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/layout-Accordion.73ceadbd8231eb370bf5.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/layout-Accordion-components-AccordionItem.4e6b0306e322673a5c31.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/static-TextStandard.e28d88385fa6d8c9dd36.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/heroes-HeroFlex.d5d93e57c8ade032d033.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/static-NotificationRibbon.185639470a6c2e72b722.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/7079.d295dc2de8e77e7ebeff.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/layout-UniversalLayout.bd9ac9e8cf0c41bcdd2f.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/layout-Section.e4e302352afb6665aadd.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/layout-InteractiveVisual.5e1e3efd9f1436bfe3df.css" rel="stylesheet" type="text/css"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/shareable-SecondaryNavigation.98c2f1502a2560ad2d00.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+      (function(){
+        window.consentSettings = window.consentSettings || {};
+        window.consentSettings.isProd = window.consentSettings.isProd || /(www|developers)(\.sap\.(com|cn)|-preprod|-prod)/.test(location.host);
+      })();
+    </script>
+<script src="/etc.clientlibs/sapdx/components/common/components/sharedLibs/clientlibs/countrydetector.c94fb3fa462ad8bef8076a15efc8940d.js"></script>
+<script src="/etc.clientlibs/sapdx/components/common/components/sharedLibs/clientlibs/consentchecker.d5e30ab8e6cec53a936b019236e2606d.js"></script>
+<script src="/etc.clientlibs/sapdx/front-layer/dist/resources/truste/truste.3f06bd789a788b883c1c.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-product-grid2-codebase-headlibs.min.006d11cb314da676982bcbd38e101036.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-global-usage/clientlib-global-usage-codebase.min.ed3f6bbede090efadcd6055e1f78e70f.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-common/clientlib-common-react.min.f079bda6e149a7957a30b1953fd300ec.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-footnote.min.6882b8147d99b198d2c07c23a49ee966.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/sapdx/components/page/contentpages/productPageGrid3/clientlib-product-grid3-react-headlibs.min.5ef395435c0a7f04b5e657c1008e3cc0.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.3e24d4d067ac58228b5004abb50344ef.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.790b0c9df9551d860e0c6858f1c46280.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.257850d04d6be0c6ba1a7881674e9fa3.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/shared.min.ea1c74060709fcd815fe68de133039fc.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-personalization.min.bf0da98c5769ec397086e34391b89441.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-jquery-ui-customized.min.0bfa49403ed8a4b1d98b0b2d7d2f152c.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-test-and-target-all.min.2c4de97ebd03fc4d50dea64be59c7076.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-global-usage/clientlib-global-usage-codebase.min.ffc6117c42eef45e45b60c750ce275e7.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-common/clientlib-common-react.min.4ea3979458204fcb1dfe0096b967b8de.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/analytics/clientlib-aa-all.min.d667efdc48df57f68ff6050302a67ecb.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/sapdx/clientlibs/clientlib-extended-grid.min.6630bdbd3ab23b4d2fcdc8f3e2f65ef5.css" type="text/css">
+<script type="text/javascript">
+        (function(){
+            window.SAP = window.SAP || {};
+            SAP.DTM = SAP.DTM || {};
+            SAP.DTM.pageComponents = ["sapdx/components/modular/innerProps","sapdx/components/modular/universalLayout","sapdx/components/modular/nav/headerStandard","sapdx/components/modular/innerResponsivegrid","sapdx/components/modular/notificationRibbon","sapdx/components/modular/secondaryNavigation","sapdx/components/modular/bannerCountrySelector","foundation/components/iparsys/par","sapdx/components/page/contentpages/homePageFlexLayout","sapdx/components/modular/textStandard","foundation/components/parsys","sapdx/components/modular/countrySelector","cq:LiveCopy","foundation/components/iparsys","sapdx/components/modular/universalLayout/item","sapdx/components/page/contentpages/standardPageGrid3Editable","sapdx/components/modular/heroes/heroSpaceProductCategory","wcm/msm/components/ghost","sapdx/components/page/contentpages/standardPageGrid3","nt:unstructured","cq/experience-fragments/editor/components/experiencefragment","sapdx/components/modular/container/accordion/accordionItem","sapdx/components/modular/heroUniversal","sapdx/components/modular/nav/footer","sapdx/components/modular/container/section","sapdx/components/modular/container/accordion","wcm/foundation/components/responsivegrid","foundation/components/reference","sapdx/components/common/components/pseudoContainer","sapdx/components/modular/interactiveVisual"];
+            SAP.DTM.runMode = "prod";
+        })();
+    </script>
+<style>@font-face{font-display:swap;font-family:"72 Brand Variable";font-stretch:normal;font-style:normal;font-weight:100 900;src:url(/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/72BrandVariable_Th-Blk.woff2) format("woff2-variations")}@font-face{font-display:swap;font-family:SAPcom icons;font-style:normal;font-weight:400;src:url(/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/sapcom-icons.woff2) format("woff2")}@font-face{font-display:swap;font-family:fiori-icons;font-style:normal;font-weight:400;src:url(/etc.clientlibs/sapdx/front-layer/dist/resources/assets/fonts/fiori-icons.woff2) format("woff2")}:root{--fontWeightThin:100;--fontWeightExtraLight:200;--fontWeightLight:300;--fontWeightBook:350;--fontWeightRegular:400;--fontWeightMedium:500;--fontWeightBold:700;--fontWeightBlack:900}body{font-family:var(--sapFontFamily);font-size:15px;font-weight:var(--fontWeightRegular)}.fontThin{font-weight:var(--fontWeightThin)}.fontExtraLight{font-weight:var(--fontWeightExtraLight)}.fontLight{font-weight:var(--fontWeightLight)}.fontBook{font-weight:var(--fontWeightBook)}.fontRegular{font-weight:var(--fontWeightRegular)}.fontMedium{font-weight:var(--fontWeightMedium)}.fontBold{font-weight:var(--fontWeightBold)}.fontBlack{font-weight:var(--fontWeightBlack)}.ar_sa .fontBP,.content-ar_sa body,.content-iw_il body,.iw_il .fontBP{font-family:Arial,Helvetica,sans-serif}.content-ja_jp body,.ja_jp .fontBP{font-family:Yu Gothic Medium,Arial,Helvetica,sans-serif}.content-ko_kr body,.ko_kr .fontBP{font-family:Malgun Gothic,Arial,Helvetica,sans-serif}.content-zh_cn body,.zh_cn .fontBP{font-family:Microsoft YaHei,Arial,Helvetica,sans-serif}.content-zh_tw body,.zh_tw .fontBP{font-family:Microsoft JhengHei,Arial,Helvetica,sans-serif}#teconsent{display:none!important}#consent_blackbar{bottom:-15px;position:fixed;width:100%;z-index:1000000}#header{background-color:#f5f6f7;height:60px}#footer{background-color:#222}#footer.tier2{background-color:#f4f4f4}.sectionUI2020{min-height:180px}.standardGrid3.is-lightbox .sectionUI2020{min-height:160px}.universalLayoutUI2020.horizontal{min-height:300px}.universalLayoutUI2020.horizontal.one-box{min-height:100px}.universalLayoutUI2020.horizontal.two-boxes,.universalLayoutUI2020.vertical{min-height:200px}.standardGrid3.is-lightbox .universalLayoutUI2020{min-height:50px}html:not(.aem-AuthorLayer-Preview) #header.cq-Editable-dom{background-color:#fff;height:280px}.storyContainer{background:#222;color:#fff;padding-top:5.25rem}.customer-reference-standard .carousel-holder .carousel-mask .carousel-slider{display:flex}.customer-reference-standard .carousel-holder .carousel-mask .carousel-slider .max-divider{min-width:3.25rem}.customer-reference-standard .item-content .navbar-item-icon-link:after{display:none}.customer-reference-standard .item-content .navbar-item-icon-link .navbar-item-icon{height:86px;width:140px}.customer-reference-standard .item-content .navbar-item-icon-link .navbar-item-icon .svg-image{filter:grayscale(100%);max-height:90%;max-width:140px}.customer-reference-standard .arrows{display:none}.navigation-icon-bar-standard{min-height:180px}.hidden-chat-button{display:none}.event-includer-visible{min-height:185px}@media only screen and (min-width:640px){.event-includer-visible{min-height:172px}}@media only screen and (min-width:980px){.event-includer-visible{min-height:110px}}@media only screen and (min-width:1280px){.event-includer-visible{min-height:126px}}.flexible-columns .flexible-columns__left-column{margin-left:10px}.flexible-columns .flexible-columns__right-column{margin-right:10px}@media only screen and (max-width:1023px){.flexible-columns .flexible-columns__left-column{margin-left:0}.flexible-columns .flexible-columns__right-column{margin-right:0}}.normalize__navigationLineHeight--C0y0V{line-height:var(--udexTypographyHeadingLineHeight)}.normalize__fontRegular--nC_l0{font-weight:var(--fontWeightRegular)}.normalize__fontMedium--V3ZuM{font-weight:var(--fontWeightMedium)}.normalize__fontBold--QRUkU{font-weight:var(--fontWeightBold)}.normalize__eyebrow--v7i5A{font-weight:var(--fontWeightMedium);line-height:var(--udexTypographyEyebrowLineHeight)}.normalize__displayLineHeight--bU91L{line-height:var(--udexTypographyHeadingLineHeight)}*,:after,:before{box-sizing:border-box}body,html{height:100%}body{background:var(--sapBackgroundColor);color:#545454;line-height:1.4;margin:0;min-width:320px}img{border:none;max-width:100%;vertical-align:top}article,aside,figure,footer,header,hgroup,nav,section{display:block}fieldset,form{border:0;margin:0;padding:0}input,select,textarea{color:#000;font-size:15px;vertical-align:middle}button,input,optgroup,select,textarea{font-family:inherit}input[type=reset]::-moz-focus-inner,input[type=submit]::-moz-focus-inner{border:0;padding:0}button:-moz-focusring{outline:1px dotted}button:hover,input[type=reset]:hover,input[type=submit]:hover{cursor:pointer}a{color:var(--sapLinkColor);font-weight:var(--fontWeightRegular);text-decoration:underline}a:active{color:var(--sapLink_Active_Color)}a:visited{color:var(--sapLink_Visited_Color)}a:focus,a:hover{color:var(--sapLink_Hover_Color)}a:focus-visible{border-radius:2px;outline:2px solid var(--udexColorBlue10);outline-offset:2px}h1,h2,h3,h4,h5{font-weight:inherit;margin:0;padding:0}</style><script src="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/scripts/initializeThemeHeadScript.5e439dfb557cc21398c3efaf983b4e62.js"></script><script data-ui5-config="" type="application/json">{ "theme": "sap_glow" }</script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/runtime.07eec77ea25125e7c6c7.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/critical.6f09193cd75da27c39fa.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/icons.627a630b6c974927dff2.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/6071.4d701dabdb17d0d1d441.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/720.8262d040595b38c67f0c.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/4488.51b06c7cf73275564cb9.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/4081.4edff4c65dea79550a1b.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/4686.dccaa4fff44bd09e28bc.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/sapcom-77a2a1a6.cfe9844be4c74494eb0b.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/sapcom-9bf88260.3cfa053e065018425f36.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/sapcom-e0718b93.90e4e953fa82fdd2964d.js"></script><script defer="defer" src="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/sapcom-b45ab348.48d177e6af1ec1dc0a2a.js"></script><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/icons.2948b7ad870df69c26e4.css" rel="stylesheet"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/4686.2faa318f3f348b5a43cd.css" rel="stylesheet"><link href="/etc.clientlibs/sapdx/front-layer/dist/resources/sapcom/sapcom-31743c5a.448e9a7ab4381b1a0494.css" rel="stylesheet">
+<script src="https://www.sap.com/tmgr/ccc66c06b30b/59240c52d85a/6b9f53339662/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement.min.js" async=""></script><script src="https://www.sap.com/tmgr/ccc66c06b30b/59240c52d85a/6b9f53339662/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement_Module_ActivityMap.min.js" async=""></script><script src="https://www.sap.com/tmgr/ccc66c06b30b/59240c52d85a/6b9f53339662/hostedLibFiles/EPc7341b33570d4c988798fc9f0093d4b2/AppMeasurement_Module_AudienceManagement.min.js" async=""></script><script src="https://www.sap.com/tmgr/ccc66c06b30b/59240c52d85a/6b9f53339662/RC5fac9928b19a4ecb90fdf1f20b87b851-source.min.js" async=""></script></head><body class="is-publish-true standardGrid3 " data-is-pdf-lightbox-enabled="true" data-is-video-lightbox-enabled="true" data-is-pdf-rating-allowed="true" data-is-video-rating-allowed="true" data-qualtrics-survey-language="ZH-S" data-enable-qualtrics-service-layer="true" data-build-version="2.2.0.6450"><div class="headerInclusions" data-headerinclusions="&lt;script&gt;
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement(&quot;script&quot;);
+  hm.src = &quot;https://hm.baidu.com/hm.js?c404d36c24b7c86a290b16dca54d136e&quot;;
+  var s = document.getElementsByTagName(&quot;script&quot;)[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+&lt;/script&gt;"></div>
+<script>window.schema_highlighter={outputCache:true,key:'325UM-NQRHZ-P7T97-M5SY8',accountId:'Acronym/SAP'};</script>
+<script src="/etc.clientlibs/sapdx/components/common/components/sharedLibs/clientlibs/schemaapp.dd21bd4e04234180450f37dbcc0e62d1.js"></script>
+
+
+<div data-component="NotificationBanner">
+</div>
+<noscript>
+&lt;div class="nojs"&gt;必须启用 Javascript 才能正确显示页面&lt;/div&gt;
+</noscript>
+<script>
+        window.uidBaselineSettings = {
+            authority: "https:\/\/accounts.sap.com",
+            clientId: "2457c8f4\u002Dc090\u002D4720\u002Da3c0\u002D2234e6d7facf",
+            silentRedirectUri: "\/silent.html",
+            action: "silentSignIn",
+            sessionLifetime: 30,
+
+            forceUidCreation: true,
+            ownUidCreation: true,
+            uidUserinfoUri: "https:\/\/uts\u002Dapi.account.sap.com\/uts\/token\/userinfo",
+            uidRegisterUri: "https:\/\/account.sap.com\/core\/create\/register",
+
+            logoutRedirectUri: "\/silent.logout.html"
+        };
+        window.sapBaselineUidSettings = {
+            forceUidCreation: true,
+            silentRedirectUri: "\/silent.dx.html"
+        };
+    </script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-baseline.min.af74ecde4fe95a0da4f39fbd770a4649.js"></script>
+<script async="" type="module" src="https://cdn.account.sap.com/js/uid-baseline.js"></script>
+<div id="page">
+<div class="pageAnalytics-block hidden">
+<div class="pageAnalytics" data-every-page-analytics-page-name="sap:cn:/products/artificial-intelligence/what-is-artificial-intelligence.html" data-page-template="Standard Page" data-country-code="cn" data-page-section="products" data-callback-delay="1500">
+</div>
+<div class="assetAnalytics" data-sap-global-domains="[concur.com, fieldglass.com, gigya.com, successfactors.eu, sapanalytics.cloud, sapandasug.com, jam4.sapjam.com, saps4hanahub.com, sap.wegone.com, sapsupport.info, sapforum.it, sapappsdevelopmentpartnercenter.com, aribalive.com, concur.cn, concur.co.jp, concur.co.uk, concur.com.sg, sapsf.eu, mailsap.com, sapbydesign.com, yaas.io, sapsf.com, sapdigital.com, sapbusinessobjects.cloud, workconnect.io, digital.sap.com, sap.io, sap.to, growthmattersnetwork.com, saplumira.com, sapappcenter.com, digitalistmag.com, hybris.com, the-future-of-commerce.com, sapmobileconsumertrends.com, sapeducationsolutions.com, sapns2.com, sapvirtualevents.com, streamwork.com, sapstreamwork.com, aboutsapcampbell.com, analytics-usa.com, estara.com, businessobjects.com, businessobjects.com.pl, business-objects.com.pl, businessobjects.pl, business-objects.pl, careersatsap.com, cfolder.de, cfolders.com, cfolders.de, cfolders.net, crystalreports.com, digitalriver.com, edusap.at, fazi.at, fazi.com, fazi.de, futurefactoryinitiative.com, futurefactoryinitiative.org, fuzzy.at, fuzzy.ch, fuzzy-informatik.com, fuzzy-informatik.de, fuzzy-online.com, fuzzy-online.de, infommersion.com, ondemand.com, sap.at, sap.bg, sap.biz, sap.ca, sap.ch, sap.cl, sap.cn, sap.co.at, sap.co.il, sap.co.jp, sap.co.kr, sap.co.nz, sap.co.th, sap.co.uk, sap.co.za, sap.com, sap.com.au, sap.com.cn, sap.com.pl, sap.com.sg, sap.com.tr, sap.com.tw, sap.cz, sap.de, sap.ee, sap.fi, sap.hk, sap.hr, sap.hu, sap.ie, sap.in, sap.info, sap.kz, sap.lu, sap.nl, sap.pl, sap.pt, sap.ro, sap.ru, sap.si, sap.sk, sap.tw, sap.ua, sap.us, sapag.de, sap-ag.de, sapamerica.com, sap-answer.com, sap-austria.com, sap-best-fit-adviser.com, sapbusinessbydesign.cn, sapbusinessbydesign.co.uk, sapbusinessbydesign.com, sapbusinessbydesign.de, sapbusinessbydesign.us, sapbusinessobjects.com.pl, sap-business-objects.com.pl, sapbusinessobjects.pl, sap-business-objects.pl, sapbusinessobjectsresponses.com, sapbusinessone.pl, sap-campbell.com, sapcampbell.net, sapcampbell.org, sapchina.com, sapclear.com, sapconfigurator.com, sapdesignguild.org, sap-event.jp, sapevents.com, sap-forum.de, sap-insights.com, sapkhimetrics.com, saplabs.bg, saplabs.co.in, saplabs.fr, saplabs.in, sapnetweaver.com, sapphirenow.com, sap-retail.de, sapsapphire.com, sapsem.com, sap-spectrum.com, sapstreamwork.com, sapteched.com, sapthai.com, sapturkiye.com.tr, sap-tv.com, sapventures.com, sapworldtour.com, sapworldtour2010.com, steeb.de, sap.corp, saplabs.com, sybase.com, sappartneredge.eu, sapbusinessinthemoment.com, sapbusinessoptimizer.com, sapcampaigns.com, sapcfo.com, sapcpg.com, sapcrystalconfigurator.com, SAPEnterpriseMobility.mobi, sapevent.ch, sapfinancialservices.com, sapforumbimadrid2011.com, sap-im-dialog.com, sap-innovationnow.com, sap-it-leadership.com, sappartnermobileapps.com, sap-readytoboost.com, sapretailtoday.com, saprunprouder.com, sapsponsorships.com, sapstrategichr.com, sapsurvey.com, sapsustainabilitytoday.com, saputilitiestoday.com, sap-webseminare.de, iqformarketers.com, sybase.be, sybase.ca, sybase.ch, sybase.co.kr, sybase.co.uk, sybase.com, sybase.com.ar, sybase.com.au, sybase.com.br, sybase.com.cn, sybase.com.hk, sybase.com.mx, sybase.com.tw, sybase.de, sybase.dk, sybase.es, sybase.fr, sybase.hu, sybase.in, sybase.it, sybase.jp, sybase.nl, sybase.no, sybase.se, sybase365.com, sappartneredge.com, ariba.com, saphana.com, saphanacouncil.com, saphanapartnerrace.com, successfactors.co.kr, successfactors.com, successfactors.com.br, successfactors.com.cn, successfactors.de, successfactors.es, successfactors.jp, successfactors.nl, successfactors.se, sybase.asia, sybase.at, SYBASE.BIZ, sybase.co.at, sybase.co.hu, sybase.co.it, sybase.co.jp, sybase.co.ma, sybase.co.nz, sybase.co.za, sybase.com.ec, sybase.com.es, sybase.com.gr, sybase.com.my, sybase.com.pe, sybase.com.pk, sybase.com.pl, sybase.com.ro, sybase.com.sg, sybase.com.ve, sybase.cz, sybase.ec, sybase.ee, sybase.eu, sybase.hk, sybase.ie, sybase.info, sybase.li, sybase.lu, sybase.mobi, SYBASE.ORG, sybase.ph, sybase.pl, sybase.tw, sybase.us, sybasesolutions.net, syclo.co.uk, syclo.com, syclo.com.br, syclo.de, syclo.es, syclo.it, syclo.mobi, gainthevisibleadvantage.com, getconnected-sap.co.uk, myrunwayapp.com, sapafaria.com, saparpfasttrack.com, sapbusinessonnesolutions.com, sapcloudappspartnercenter.com, sapcustomerexerience.com, sapcycle4youth.com, sapdashboardgallery.com, sapdatacentertour.com, sapdatachallenge.com, sap-milestones.com, sap-milestones.de, sapmobileappspartnercenter.com, sapmobileappspartnercenter.com, sapmobileservices.com, sapmobiletransformation.com, sap-sybase-ase.com, sap-sybase-iq.com, stepaheadwithsap.com, thinkbiggrowfast.net, sapbusinessobjectsbi.com, sapbigdata.com, cloud.sap]" data-sap-account-domains="[account.sap.com, cdc-api.account.sap.com, accounts.sap.com]">
+</div>
+</div>
+<nav class="accessibility" aria-label="跳转至内容">
+<strong>
+<a href="#main" tabindex="0" accesskey="S">跳转至内容</a>
+</strong>
+</nav>
+<header id="header">
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parHeader iparsys parsys"><div class="headerStandard genericComponent parbase section"><div data-component="HeaderStandard" data-model="/bin/sapdxc/cache/header/content/sapdx/countries/zh_cn/_jcr_content/parHeader/headerstandard.model.json" data-disable-sticky-header="" data-country-selector-path="/bin/sapdxc/cache/header/content/sapdx/countries/zh_cn/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/parHeader/headerstandard.model.countryselector.json" data-language-selector-path="/bin/sapdxc/cache/header/content/sapdx/countries/zh_cn/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/parHeader/headerstandard.model.languageselector.json">
+</div></div>
+</div>
+</div>
+<div class="currentpage-context hidden">
+<a class="contact-module-meta" alt="联系我们" title="联系我们" target="_self" href="//www.sap.cn/registration/contact.html?pageTitle=%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%9F&amp;countryOfOrigin=zh_cn&amp;refererPagePath=https%3A%2F%2Fwww.sap.cn%2Fproducts%2Fartificial-intelligence%2Fwhat-is-artificial-intelligence.html&amp;refererContentPath=%2Fcontent%2Fsapdx%2Fcountries%2Fzh_cn%2Fproducts%2Fartificial-intelligence%2Fwhat-is-artificial-intelligence&amp;navTitle=%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC&amp;product=99c8ae99-4ba4-46b7-b92d-e78378f1a7b6%7C73554900100700002751%7Ctech&amp;productName=Intelligent+Enterprise%7CSAP+Business+AI%7CTechnology+Platform&amp;topicarea=Solutions">
+联系我们
+</a>
+<a class="blueLink fontRegular  contact-us-raq-lightbox contact-us-link" target="_self" href="/registration/contact.html?pageTitle=%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%9F&amp;countryOfOrigin=zh_cn&amp;refererPagePath=https%3A%2F%2Fwww.sap.cn%2Fproducts%2Fartificial-intelligence%2Fwhat-is-artificial-intelligence.html&amp;refererContentPath=%2Fcontent%2Fsapdx%2Fcountries%2Fzh_cn%2Fproducts%2Fartificial-intelligence%2Fwhat-is-artificial-intelligence&amp;navTitle=%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC&amp;product=99c8ae99-4ba4-46b7-b92d-e78378f1a7b6%7C73554900100700002751%7Ctech&amp;productName=Intelligent+Enterprise%7CSAP+Business+AI%7CTechnology+Platform&amp;topicarea=Solutions">联系我们</a>
+</div>
+<div class="hidden-chat-button">
+<div id="lpChatButtonDiv1"></div>
+<button id="lpMobileChatButtonDiv1">Chat now</button>
+</div>
+</header>
+<main id="main">
+<section class="parsys-content-container">
+<div data-component="ContactUs" data-model="/bin/sapdxc/cache/contactModule/content/sapdx/countries/zh_cn/_jcr_content/parContactModule/contactModule.model.json" data-design="Contact Module" role="complementary"></div>
+<div><div class="secondaryNavigation dx-b29653f5e812ac99c0f0b845144f4ad13baf4c12 section dx-row19">
+<div data-component="SecondaryNavigation" data-iseditmode="false" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/parNavigation/secondarynavigation_copy.model.json/content/sapdx/countries/zh_cn/products/artificial-intelligence/what-is-artificial-intelligence.json"><!--$--><div><div class="SecondaryNavigation__root--MA0l8"> <ds-secondary-navigation breadcrumb-json="[{&quot;title&quot;:&quot;首页&quot;,&quot;path&quot;:&quot;//www.sap.cn/index.html&quot;,&quot;pathTransformerData&quot;:{&quot;href&quot;:&quot;//www.sap.cn/index.html&quot;,&quot;x-cq-linkchecker&quot;:&quot;valid&quot;}},{&quot;title&quot;:&quot;所有产品&quot;,&quot;path&quot;:&quot;//www.sap.cn/products.html&quot;,&quot;pathTransformerData&quot;:{&quot;href&quot;:&quot;//www.sap.cn/products.html&quot;,&quot;x-cq-linkchecker&quot;:&quot;valid&quot;}},{&quot;title&quot;:&quot;人工智能&quot;,&quot;path&quot;:&quot;//www.sap.cn/products/artificial-intelligence.html&quot;,&quot;pathTransformerData&quot;:{&quot;href&quot;:&quot;//www.sap.cn/products/artificial-intelligence.html&quot;,&quot;x-cq-linkchecker&quot;:&quot;valid&quot;}},{&quot;title&quot;:&quot;什么是人工智能？&quot;,&quot;path&quot;:&quot;//www.sap.cn/products/artificial-intelligence/what-is-artificial-intelligence.html&quot;,&quot;pathTransformerData&quot;:{&quot;href&quot;:&quot;//www.sap.cn/products/artificial-intelligence/what-is-artificial-intelligence.html&quot;,&quot;x-cq-linkchecker&quot;:&quot;valid&quot;}}]" nav-tab-json="[]" page-heading-json="什么是人工智能？" btn-items-json="[{&quot;buttonStyle&quot;:&quot;Regular&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;title&quot;:&quot;深入了解 AI 解决方案&quot;,&quot;type&quot;:&quot;button&quot;,&quot;path&quot;:&quot;//www.sap.cn/products/artificial-intelligence.html&quot;,&quot;pathTransformerData&quot;:{&quot;href&quot;:&quot;//www.sap.cn/products/artificial-intelligence.html&quot;,&quot;x-cq-linkchecker&quot;:&quot;valid&quot;}}]" nav-config="page-to-page" is-ssr="true" dropdown-btn-title="更多" class="hydrated" s-id="1"><!--r.1--><div class="secondary-nav-wrapper" c-id="1.0.0.0"><div class="secondary-nav" role="navigation" aria-label="Secondary Navigation" c-id="1.1.1.0"><div class="secondary-nav-container" c-id="1.2.2.0"><ds-breadcrumb-element class="sc-ds-breadcrumb-element-h sc-ds-breadcrumb-element-s hydrated" c-id="1.3.3.0" s-id="2"><!--r.2--><div class="breadcrumb-wrapper sc-ds-breadcrumb-element" role="navigation" aria-label="breadcrumbs" c-id="2.0.0.0"><ds-dropdown-breadcrumbs class="sc-ds-breadcrumb-element sc-ds-dropdown-breadcrumbs-h sc-ds-dropdown-breadcrumbs-s hydrated" c-id="2.1.1.0" s-id="3"><!--r.3--><div class="dropdown-breadcrumbs sc-ds-dropdown-breadcrumbs" c-id="3.0.0.0"><button class="dropdown-breadcrumbs-btn sc-ds-dropdown-breadcrumbs" role="button" aria-label="breadcrumb dropdown list arrow down" c-id="3.1.1.0"><ds-icon-off class="dropdown-breadcrumbs-arrow sc-ds-dropdown-breadcrumbs sc-ds-icon-off-h sc-ds-icon-off-s icon--SlimArrowDown hydrated" aria-label="icon-SlimArrowDown" role="img" c-id="3.2.2.0" s-id="4"><!--r.4--><span class="icon__inner sc-ds-icon-off" c-id="4.0.0.0"><svg width="100%" height="100%" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8 11C7.78 11 7.57 10.91 7.42 10.75L3.22 6.35003C2.91 6.03003 2.93 5.52003 3.25 5.22003C3.57 4.91003 4.08 4.93003 4.38 5.25003L8 9.04003L11.62 5.25003C11.93 4.93003 12.43 4.92003 12.75 5.22003C13.07 5.53003 13.08 6.03003 12.78 6.35003L8.58001 10.75C8.43001 10.91 8.22 11 8 11Z" fill="currentColor"></path> </svg></span></ds-icon-off></button><div class="dropdown-breadcrumbs-popover sc-ds-dropdown-breadcrumbs" c-id="3.3.1.1" style="width: 52px;"><ds-custom-scrollbar class="dropdown-breadcrumbs-scrollbar sc-ds-dropdown-breadcrumbs custom-scrollbar hydrated" c-id="3.4.2.0" s-id="5"><!--r.5--><!--o.3.5--><!--s.5.0.0.0.--><ds-dropdown-breadcrumbs-list class="sc-ds-dropdown-breadcrumbs sc-ds-dropdown-breadcrumbs-list-h sc-ds-dropdown-breadcrumbs-list-s hydrated" c-id="3.5.3.0" s-id="6"><!--r.6--><ul class="ds-dropdown-breadcrumbs-list sc-ds-dropdown-breadcrumbs-list" role="list" aria-label="breadcrumb dropdown" c-id="6.0.0.0"><li class="sc-ds-dropdown-breadcrumbs-list" c-id="6.1.1.0"><ds-dropdown-breadcrumb-item class="sc-ds-dropdown-breadcrumbs-list sc-ds-dropdown-breadcrumb-item-h sc-ds-dropdown-breadcrumb-item-s hydrated" c-id="6.2.2.0" s-id="7"><!--r.7--><a href="//www.sap.cn/index.html" target="_self" class="dropdown-breadcrumbs-option dropdown-breadcrumbs-option--home-page sc-ds-dropdown-breadcrumb-item" role="link" aria-label="breadcrumb item 首页" c-id="7.0.0.0" style="margin-inline-start: 1px;"><ds-icon-off class="dropdown-breadcrumbs-option-icon sc-ds-dropdown-breadcrumb-item sc-ds-icon-off-h sc-ds-icon-off-s icon--Home hydrated" aria-label="icon-Home" role="img" c-id="7.1.1.0" s-id="8"><!--r.8--><span class="icon__inner sc-ds-icon-off" c-id="8.0.0.0"><svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.9453 3.67969C11.1328 3.86719 11.2813 4.08594 11.3906 4.33594C11.5156 4.57031 11.5781 4.82812 11.5781 5.10938V10.125C11.5781 10.6562 11.3984 11.0937 11.0391 11.4375C10.6797 11.7969 10.2344 11.9766 9.70312 11.9766H2.27344C1.75781 11.9766 1.32031 11.7969 0.960938 11.4375C0.601563 11.0937 0.421875 10.6562 0.421875 10.125V5.10938C0.421875 4.51562 0.632812 4.03906 1.05469 3.67969L4.75781 0.46875C5.13281 0.15625 5.55469 0 6.02344 0C6.49219 0 6.89844 0.15625 7.24219 0.46875L10.9453 3.67969ZM6.9375 7.03125H5.0625V10.7578H6.9375V7.03125ZM10.2656 5.10938C10.2656 4.90625 10.2031 4.74219 10.0781 4.61719L6.375 1.40625C6.10938 1.20312 5.83594 1.20312 5.55469 1.40625L1.85156 4.61719C1.72656 4.74219 1.66406 4.90625 1.66406 5.10938V10.125C1.66406 10.3125 1.71875 10.4687 1.82812 10.5938C1.95313 10.7031 2.10156 10.7578 2.27344 10.7578H3.82031V7.03125C3.82031 6.6875 3.9375 6.39844 4.17188 6.16406C4.42188 5.91406 4.71875 5.78906 5.0625 5.78906H6.9375C7.28125 5.78906 7.57031 5.91406 7.80469 6.16406C8.03906 6.39844 8.15625 6.6875 8.15625 7.03125V10.7578H9.70312C9.89062 10.7578 10.0391 10.7031 10.1484 10.5938C10.2734 10.4687 10.3359 10.3125 10.3359 10.125L10.2656 5.10938Z" fill="#5B738B"></path> </svg></span></ds-icon-off><!--t.7.2.1.1-->首页</a></ds-dropdown-breadcrumb-item></li><li class="sc-ds-dropdown-breadcrumbs-list" c-id="6.3.1.1"><ds-dropdown-breadcrumb-item class="sc-ds-dropdown-breadcrumbs-list sc-ds-dropdown-breadcrumb-item-h sc-ds-dropdown-breadcrumb-item-s hydrated" c-id="6.4.2.0" s-id="9"><!--r.9--><a href="//www.sap.cn/products.html" target="_self" class="dropdown-breadcrumbs-option sc-ds-dropdown-breadcrumb-item" role="link" aria-label="breadcrumb item 所有产品" c-id="9.0.0.0" style="margin-inline-start: 30px;"><!--t.9.1.1.0-->所有产品</a></ds-dropdown-breadcrumb-item></li><li class="sc-ds-dropdown-breadcrumbs-list" c-id="6.5.1.2"><ds-dropdown-breadcrumb-item class="sc-ds-dropdown-breadcrumbs-list sc-ds-dropdown-breadcrumb-item-h sc-ds-dropdown-breadcrumb-item-s hydrated" c-id="6.6.2.0" s-id="10"><!--r.10--><a href="//www.sap.cn/products/artificial-intelligence.html" target="_self" class="dropdown-breadcrumbs-option sc-ds-dropdown-breadcrumb-item" role="link" aria-label="breadcrumb item 人工智能" c-id="10.0.0.0" style="margin-inline-start: 42px;"><!--t.10.1.1.0-->人工智能</a></ds-dropdown-breadcrumb-item></li><li class="sc-ds-dropdown-breadcrumbs-list" c-id="6.7.1.3"><ds-dropdown-breadcrumb-item class="sc-ds-dropdown-breadcrumbs-list sc-ds-dropdown-breadcrumb-item-h sc-ds-dropdown-breadcrumb-item-s hydrated" c-id="6.8.2.0" s-id="11"><!--r.11--><span class="dropdown-breadcrumbs-option dropdown-breadcrumbs-option--last-item sc-ds-dropdown-breadcrumb-item" role="text" aria-label="breadcrumb item 什么是人工智能？" aria-current="page" tabindex="0" c-id="11.0.0.0" style="margin-inline-start: 54px;"><!--t.11.1.1.0-->什么是人工智能？</span></ds-dropdown-breadcrumb-item></li></ul></ds-dropdown-breadcrumbs-list></ds-custom-scrollbar></div></div></ds-dropdown-breadcrumbs><nav class="sc-ds-breadcrumb-element" c-id="2.2.1.1"><ul class="breadcrumbs-list sc-ds-breadcrumb-element" c-id="2.3.2.0"><li class="sc-ds-breadcrumb-element" c-id="2.4.3.0"><span aria-hidden="true" class="separator sc-ds-breadcrumb-element" c-id="2.5.4.0"><!--t.2.6.5.0-->/</span><a href="//www.sap.cn/products.html" target="_self" class="breadcrumbs-item sc-ds-breadcrumb-element" role="link" data-index="0" aria-label="breadcrumb item 所有产品" c-id="2.7.4.1"><!--t.2.8.5.0-->所有产品</a></li><li class="sc-ds-breadcrumb-element" c-id="2.9.3.1"><span aria-hidden="true" class="separator sc-ds-breadcrumb-element" c-id="2.10.4.0"><!--t.2.11.5.0-->/</span><a href="//www.sap.cn/products/artificial-intelligence.html" target="_self" class="breadcrumbs-item sc-ds-breadcrumb-element" role="link" data-index="1" aria-label="breadcrumb item 人工智能" aria-current="page" c-id="2.12.4.1"><!--t.2.13.5.0-->人工智能</a></li></ul></nav></div></ds-breadcrumb-element><div class="nav-tab-container" c-id="1.4.3.1"><div class="page-heading" title="什么是人工智能？" c-id="1.5.4.0"><span class="page-title" role="heading" aria-level="3" c-id="1.6.5.0"><!--t.1.7.6.0-->什么是人工智能？</span></div></div></div></div></div></ds-secondary-navigation> </div></div><!--/$--></div>
+</div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parNavigation iparsys parsys"></div>
+</div>
+</div>
+<div><div class="heroFlex dx-b08958f4ba4380f20b3316db592acb3d9c8f043f dx-row3 section">
+<div class="heroFlex-container">
+<div class="heroFlex" data-component="HeroFlex" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/parBreadCrumb/herouniversal.model.json/content/sapdx/countries/zh_cn/products/artificial-intelligence/what-is-artificial-intelligence.json" data-isauthor="false" data-iseditmode="false" data-contentlocale="zh_cn" data-isdynamictext="false">
+<div class="HeroFlex__root--TszP0"><img src="/etc.clientlibs/sapdx/front-layer/dist/resources/assets/images/BackgroundPlaceholder.svg" alt="" class="BackgroundPlaceholderLCP__root--Ub7gd"><div style="background-color:rgb(235, 248, 255)" class="HeroFlexCommon__root--hvp2T HeroFlexCommon__medium--cSW6j"><div class="Grid__container--LFiYT HeroFlexCommon__heroContainer--EmBFV"><div class="Grid__container--LFiYT"><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__col-lg-8--TYrXS Grid__col-xl-8--KMJvH "><h1 class="Headline__root--lKpRX Headline__s--uRsJU Headline__medium--irDyM Headline__color--A3sZu"><span>什么是人工智能？<br></span></h1><div class="Body__root--FCOOV HeroFlexMedium__paragraph--hOHiM Body__s--WnySF Body__color--Aj694"><p>人工智能 (AI) 是让机器能够以类人的方式进行推理、自主决策等的技术。通过使用大量数据进行训练，AI技术能够学会识别语音，发现规律和趋势，主动解决问题，以及预测未来的情况和事件。</p>
+</div><div class="HeroFlexMedium__buttonsContainer--yo48n"><div><a href="//www.sap.cn/products/artificial-intelligence.html" target="_self" tabindex="0" class="Button__button--Dgp43 HeroFlexMedium__button--qKZrY HeroButton__button--YB9x3 Button__m--_yNbO Button__primary--JIEDv Button__focusState--C2LxD"><span><span>深入了解 AI 解决方案</span></span></a></div><div><a href="https://www.sap.com/cmp/nl/mini-nl-artificial-intelligence/index.html" target="_blank" tabindex="0" class="Button__button--Dgp43 HeroFlexMedium__button--qKZrY HeroButtons__secondaryBlue--An0PE HeroButton__button--YB9x3 Button__m--_yNbO Button__secondary--XGWwY Button__focusState--C2LxD"><span><span>注册订阅 SAP 新闻简报</span></span></a></div></div></div></div></div></div></div>
+</div>
+</div>
+</div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parBreadCrumb iparsys parsys"></div>
+</div>
+</div>
+<script type="text/javascript">
+        window.SAP=window.SAP||{},SAP.DTM=SAP.DTM||{},SAP.DTM.LivePerson=SAP.DTM.LivePerson||{},SAP.DTM.LivePerson.arrLPvars=[{scope:"page",name:"Collection",value:"general"}];
+    </script>
+<script src="//www.sap.com/tmgr/ccc66c06b30b/59240c52d85a/launch-4b6cc053a3ba.min.js"></script><script>
+window._trackData = function(data, linkObject, eventObject) {
+    try {
+        var _tD_lastUpdated = '2023.07.25'; // yyyy.mm.dd - update whenever you make a change, please!
+        try {
+            if (_satellite.getVar('isLaunchStagingDebug')) {
+                console.log('LAUNCH: _trackData: arguments: ', arguments);
+                var d = JSON.parse(JSON.stringify(data));
+                console.log('LAUNCH: _trackData: data: ', d);
+                console.log('LAUNCH: _trackData: data (stringify): ', JSON.stringify(d, null, 4));
+            }
+        } catch (e) {
+            window.console && console.error(e);
+        }
+
+
+    } catch (e) {
+        window.console && console.error(e);
+    }
+
+}; // end _trackData
+</script><script>
+(function() {
+
+	// $('input[name="fields.FormName"][value="WCP_G_2017_07_PME_RG_GATED_TRIAL_FORM"]').length
+
+    var assetURL = '/registration/trial.908cb719-0e03-421c-a091-daca045f0acc.html';
+    var decodedURL = decodeURIComponent(window.location.href);
+
+    if (window.getCookie && getCookie('country') === 'CN') {
+	if (window.location.pathname === '/registration/protected/external-widget.html' && 
+				decodedURL.indexOf('external-referer=https://cloudplatform.sap.com') >= 0 && 
+                                decodedURL.indexOf(assetURL) >=0) {
+		top.location.href = 'https://www.sap.com/cmp/td/sap-cloud-platform-trial-availability.html';
+        } else if (window.location.pathname === '/registration/protected/form-trials.html') {
+		decodedURL = decodeURIComponent(decodedURL);
+          	var fromDeveloper = 
+            		decodedURL.indexOf('/developer/trials-downloads/additional-downloads.html') >= 0 &&
+            		decodedURL.indexOf(assetURL) >=0 ;
+
+		if (fromDeveloper) {
+            		top.location.href = 'https://www.sap.com/cmp/td/sap-cloud-platform-trial-availability.html';
+          	}
+
+        }
+    } 
+})();
+</script><script>
+/* 
+  Adobe Analytics 
+  Dummy file
+  Shared Global File for SAP LivePerson Tracking
+  
+  Maintained by Neil Evans
+
+*/
+var s_lp_dummy = { 
+  lastUpdated: '2015.05.06',
+  t:function(){},
+  tl:function(){},
+  track:function(){}
+};
+var s_lp=s_lp_dummy;
+window.s_lp=s_lp_dummy; 
+function s_track_liveperson_event(){}
+function s_lp_get_ref_url(){}
+function s_lp_get_country(){}
+function s_lp_get_from_appendix(){}
+function s_lp_ccr(){}
+function s_lp_gccv(){}
+/* EOF */
+</script><script>_satellite["_runScript1"](function(event, target, Promise) {
+var country = _satellite.cookie.get("country");
+if(country == "BY" || country == "RU"){
+  document.addEventListener('ContactUsOnlineChat', function (e) { 
+    $('html').on('click', '.dtm-live-chat.online a', function(){ window.location = "/errors/access-denied.html"; }); 
+  }, false);
+}
+});</script><script>
+window.SAP.analytic_blocked = true;
+document.dispatchEvent(new CustomEvent('analytic_blocked'));
+</script><script>
+function SCIMessageHandler(event) {
+  if (event.origin.indexOf("https://accounts400.sap.com") !== 0 && event.origin.indexOf("https://accounts.sap.com") !== 0)
+    return;
+  
+  //console.log("****SCIMessageHandler event:*****");
+  //console.log(event);
+  if(event.data=='SAPFrameProtection*require-origin') {
+     event.source.postMessage('SAPFrameProtection*parent-origin','*');
+  } else if (event.data) {
+     try {
+       var message = JSON.parse(event.data);
+       //console.log("****SCI message:*****");
+       //console.log(message); 
+       if (message && message.page == "ids-registration/new") { // && message.action == "resize") { //&& message.action == "ready"
+         //top.location.href = message.iframeURL; 
+         //hide the left registration form
+         //expand the login form to cover the whole lightbox
+         //console.log("****updating css*****")
+         $('.responsiveColumnControl-colctrl-col-34').css('width','100%')
+				 $('.responsiveColumnControl-colctrl-col-66').css('display','none')
+				 $('.form-login-iframe').css('height',message.height || '700px')
+				 $('.form-login-iframe').css('max-width','100%')
+         
+         $('.forgotPasswordLink').hide()
+       }
+     } catch(e) {
+        console.log(e); 
+     }
+  }
+}
+
+window.addEventListener("message", SCIMessageHandler, false);
+
+
+</script>
+<div class="parContent"><div class="section dx-e54670b1d19e9153ef13699cc5a0626f7fe4b76c dx-row4">
+<div class="sectionUI2020 section-empty" data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_1092807391.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q Section__sectionContentIsFirst--YvGqK"></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row5 dx-8a2791ffc5801feb6d4573ee699701017d6fe2d7">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_copy_copy_copy_701449881.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">人工智能概览</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-83ee04f1eeab510be64b9ce05f678a3ecba7b08f dx-row5-1 textStandard section"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>人工智能是现代最具颠覆性的技术之一，掀起了一场有史以来节奏最快的技术变革浪潮。那么，AI 究竟是什么？它能够为企业带来哪些优势？</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>1956 年，<a href="http://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/" target="_blank" data-title="在达特茅斯学院 (Dartmouth College) 举办的科技研讨会上" rel="noopener noreferrer">在达特茅斯学院 (Dartmouth College) 举办的科技研讨会上</a>，人工智能一词首次被提出。人工智能之父 <a href="https://www.britannica.com/biography/Marvin-Lee-Minsky" target="_blank" data-title="Marvin Minsky" rel="noopener noreferrer">Marvin Minsky</a> 认为，“AI 是一门让机器能够完成需要人类智慧才能完成的任务的科学。”</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>如今，这一定义的核心内容仍然适用，而且现代 <a href="https://www.techtarget.com/searchenterpriseai/tip/The-history-of-artificial-intelligence-Complete-AI-timeline" target="_blank" data-title="AI 系统经过不断演进发展，已经具备更多" rel="noopener noreferrer">AI 系统经过不断演进发展，已经具备更多</a>解决问题的能力，能够完成更多任务，如视觉感知、语音识别、计划、决策、语言翻译等。这些系统可以实时处理 TB 级的数据和洞察，十分敏捷且响应迅速，能够增强人类用户的能力，并提高员工的工作效率、生产力和满意度。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>根据国际数据公司（IDC）的报告显示，2023 年全球 AI 市场规模约为 5000 亿美元，预计到 2026 年，这一数据将达到 9000 亿左右，AI 显示出强劲的增长势头。其中，受技术及相关战略的影响，中国是这场 AI 革命的重要领航者之一。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>得益于政府在算力资源、数据中心等新基建方面的大力投入，中国在 AI 芯片、AI 软件及可穿戴设备等方面取得了显著的成就。同时，中国的互联网企业凭借深厚的技术积累、庞大的数据资源及充足的资金支持，在 AI 技术的研发和应用上也不断创新，在智慧企业、智慧医疗、自动化驾驶等领域都处于世界领先地位。此外，借助<a href="https://www.sap.cn/products/technology-platform/what-is-cloud-computing.html" data-title="&lt;u&gt;云计算&lt;/u&gt;"><u>云计算</u></a>等服务，AI 还被用于更多的企业和机构，以推动全社会的<a href="https://www.sap.cn/insights/what-is-digital-transformation.html" data-title="&lt;u&gt;数字化转型&lt;/u&gt;"><u>数字化转型</u></a>和智能升级。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>人工智能的定义：</b>人工智能是计算机科学的分支，旨在模拟和执行人类智慧和感知。它能分析大量数据、识别模式，并通过学习自我优化，以适应变化环境。这些系统在众多领域发挥着关键作用，不仅执行计算任务，还包括理解语言、解决问题和计划，以实现预设目标。</span></p>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row6 dx-64e48fb8bccac702aa824f44ef8c70526d49ce45">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_1312220343.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">什么是人工智能+？</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-row6-1 dx-262f8ecad1315beb6cc4f1dc5f4175a3d0d1dcfd textStandard section"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>人工智能 + ，可以理解为人工智能与各个行业的结合，但这不仅仅是“1+1=2”所能概括，而是通过人工智能以及多项领先的 IT 技术对传统行业、新兴行业进行深度融合改造，创造企业的智能生态发展体系。“人工智能+”的已覆盖制造、医疗、金融、教育等多个领域，为行业及社会的发展创造了更多的机遇和优势。2024年全国两会期间，人工智能 + 首次被写入了《政府工作报告》中。这一举措标志着，未来中国将在人工智能领域加速布局并推动广泛应用，进一步发展“新质生产力”，推动经济高质量发展。</span></p>
+</div></div></div></div></div></div></div><div class=" interactiveVisual dx-row6-2 section dx-4fd8cbddbdd4f483291954f7317ddbe66915d96e"><div class="interactiveVisual" data-component-name="InteractiveVisual" data-is-ssr-component="true"><div class="Grid__container--LFiYT InteractiveVisual__interactiveVisualComponent--bUiyJ"><div class="InteractiveVisual__row--u7vXm InteractiveVisual__small--PMQ_e Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-8--TYrXS Grid__col-xl-8--KMJvH "><div class="EmbeddedVideoPlayer__root--nKNPl"><div class="EmbeddedVideoPlayer__videoWrapper--aQeot"><a class="AssetLinkWrapper__root--NeZkp" aria-label="Play  关于人工智能能做什么，有很多讨论。但它到底能为您的业务做些什么？SAP Business AI 提供给您切实需要的所有 AI 工具，并基于你的数据进行训练，因此你知道它是可靠的。革命性的技术，提供真实的业务结果。这就是 SAP Business AI。" role="button" href="//www.sap.cn/assetdetail/2024/03/cce28d8e-b07e-0010-bca6-c68f7e60039b.html" data-react-embedded-video="true" data-light-box-type="video" data-is-youtube="false" data-is-vimeo="false" data-asset-id="cce28d8e-b07e-0010-bca6-c68f7e60039b" data-analytics-assetid="cce28d8e-b07e-0010-bca6-c68f7e60039b|mp4|SAP Business AI: “Office Cat”" data-skip-handler="false" tabindex="-1"><div class="Image__wrapper--g1IpI Image__placeholderWrapper--bvUrM"><div></div><img class="Image__placeholder--Oj7M3" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAABCAYAAAA/6bM1AAAAAXNSR0IArs4c6QAAATFJREFUWEftmFESwiAQQ+X+V+udcKqD3aLlBYVSxu2nQJtJsmHXsCxLvGVPCOH1S4xvy4+1dc/RWjq8rtt32c/Ys0d77H4Fk4KrhGk93wPX2VwlHqwOucYKV5/OuIbHrLT0u9WwVGfkrRF+V7w1Ahdxleq/VWa5hs+7Q8n3lpnldUjJva2rdTizhjP3DoqSruHGEmW8ypWaW4q3CNNV7x3yXo9e2XuHvZfzmSTXRPFWSUfXcM9OiU+l1r+ZjyiTSOMeuAgT1WktJuvzUq+h4Cr5vRaXWh+E6x80nJkruuvI7+qsV5sP5CvC7X7vl++tMmtENpBvrux3v6P1+V31Fv2Xn76oZLySWa6ha5hnUPLWL/2f6neaq2r8TvN7TZa2xHV2Hc5+HxJfI7xFmMhb1P/dAXoLTIN6nweqAAAAAElFTkSuQmCC" alt="placeholder"></div></a><button class="PlayIcon__root--N8hCo EmbeddedVideoPlayer__playIcon--AbFlX" tabindex="0" aria-label="Play  关于人工智能能做什么，有很多讨论。但它到底能为您的业务做些什么？SAP Business AI 提供给您切实需要的所有 AI 工具，并基于你的数据进行训练，因此你知道它是可靠的。革命性的技术，提供真实的业务结果。这就是 SAP Business AI。" title="Play Video"></button></div><div class="ShareLinks__root--9P_k_ EmbeddedVideoPlayer__sharingWrapper--Z8Ai0"><div class="ShareLinks__sharingWrapper--iAE_k"><button tabindex="0" class="Button__button--Dgp43 Button__l--wew_t Button__tertiary--u5zqY Button__iconOnly--i5YpO Button__focusState--C2LxD" aria-label="share"><span class="Button__iconStart--XS1_I fiori__fiicon-share-2--C8iS4"></span></button></div><a tabindex="0" class="Button__button--Dgp43 Button__l--wew_t Button__tertiary--u5zqY Button__iconOnly--i5YpO Button__focusState--C2LxD" title="" data-share-channel="mailto" data-share-tracking-analytics="SHARE"><span class="Button__iconStart--XS1_I fiori__fiicon-email--YUiuQ"></span></a></div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row7 dx-a311dfa2ac35a73ef6d3b6012c7db52db36cc766">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_1895681704.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">人工智能的类型</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-c6006cba046e2b4e0f7dfbd72c1838bbae135883 dx-row7-1 textStandard section"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>AI 系统并不是单一的技术，而是多种技术的组合。这些技术可以协同作用，执行不同类型的任务。这些任务可能非常具体，例如，理解对方说的话并给出恰当的回复，也可能十分笼统，例如，为某人提供假期计划的出行建议。但是，要了解构成 AI 的所有不同类型的技术并不容易。以下是有关 AI技术的一些基础知识。</span></p>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-232e4b281259bab30d3fe2381387630d13398b25 dx-row8">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">人工智能的三种主要类型</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-fb0bd90a71d6752b91feb62b71ae22f9d40f6dde dx-row8-1 textStandard section"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><span style="font-size:16.0px">以下是三种主要的人工智能：</span></span></p>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>狭义人工智能（也称弱人工智能）</b>：指用于执行一项特定任务或一系列任务的 AI 系统。当前市场上的应用基本上都是使用这种 AI技术。之所以将狭义人工智能称为弱人工智能，并不是说它的能力和功能缺乏，而是因为它远未具备人类的理解能力和认知水平，没有达到真正意义上的智能。这类 AI 系统适用的范围十分有限，无法执行特定领域之外的任务。狭义人工智能的应用示例包括语音助手、面部识别、语音识别、自动驾驶汽车等。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>通用人工智能（也称强人工智能）：</b>理论上，通用人工智能系统可以成功执行人类才能完成的智力型任务，甚至效果可能更好。与狭义人工智能系统一样，通用人工智能系统也能够从经验中学习，发现并预测规律。但后者的智能水平更胜一筹，能够从先前获取的数据或现有算法未解决的各种任务和情况中推断出这些知识。目前，通用人工智能系统尚未问世，但相关领域的研发工作正在持续进行，并且已经取得一些颇具前景的成果。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>超级人工智能：</b>指完全具有自我意识且超越人类智慧的 AI 系统。从理论上讲，这类 AI 系统能够自我完善，并以超越人类的智能水平制定决策。除了简单地模仿或识别人类行为之外，超级人工智能还能从根本上理解人类行为。凭借这些人类特质，再加上大规模的处理和分析功能，超级人工智能可能会远远超越人类自身的能力。一旦开发成功，超级人工智能将改变人类历史的发展进程。但是，这种 AI 系统目前只存在于科幻小说中，尚无确切的开发方法。</p></li></ul>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-72a292f2bafc45f664459f6a1971e6d5459744a2 dx-row9">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_174236077.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">人工智能的工作原理</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class="dx-row9-1  dx-c00dc632056af2dc71261fbb165c982ff251153e textStandard section"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>除了狭义人工智能、通用人工智能和超级人工智能等主要类型外，还有几种不同级别但相互关联的人工智能。</span></p>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><a href="//www.sap.cn/products/artificial-intelligence/what-is-machine-learning.html" target="_self" data-title="&lt;b&gt;机器学习 (ML)&lt;/b&gt;"><b>机器学习 (ML)</b></a><b></b> 是人工智能的一个分支，支持计算机系统从经验或数据中学习并改善自身性能，同时整合了计算机科学、统计学、心理学、神经科学和经济学等领域的元素。通过将各种算法应用到不同类型的学习方法和分析技术中，机器学习能够自动从数据和经验中学习并改善自身性能，无需明确的编程指令。企业可以运用机器学习技术分析大型的复杂数据集，预测结果。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>神经网络</b>是人工智能的一个重要组成部分，是受人类大脑结构和功能启发而开发出来的。这些多层计算模型的节点聚集在一起，就像生物大脑中的神经元。通过快速的并行处理流程，每个人造神经元都可以接收输入信息，然后对这些信息执行数学运算，生成输出结果，再将其传送至后续各层神经元。在训练时，神经网络会根据数据中的示例调整神经元之间的连接强度，这样就能让他们识别规律、进行预测并解决问题。神经网络还会使用各种方法从数据中学习，具体取决于任务和数据的类型。目前，神经网络已经应用于多个领域，包括图像和语音识别、自然语言处理、建模、自动驾驶汽车等。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b><a href="https://www.sap.com/resources/what-is-deep-learning" target="_self" data-title="深度学习 (DL)">深度学习 (DL)</a></b> 是机器学习中以数据为中心的一个分支，通过使用包含多个（深度）层次的神经网络，从海量数据中进行学习并提取特征。这些深度神经网络可以自动发掘数据中人类不太容易发现的复杂规律和关系，有助于进行更准确的预测和决策。深度学习技术擅长执行图像和语音识别、自然语言处理和数据分析等任务。通过利用深度神经网络的分层结构，深度学习技术革新了众多业务领域，包括医疗、财务和自主系统等。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><a href="//www.sap.cn/products/artificial-intelligence/what-is-generative-ai.html" target="_self" data-title="&lt;b&gt;生成式人工智能&lt;/b&gt;"><b>生成式人工智能</b></a>是一种深度学习技术。该技术使用<a href="https://www.sap.com/resources/what-is-large-language-model" target="_self" data-title="大型语言模型 (LLM)">大型语言模型 (LLM)</a> 等基础模型，根据训练数据创建全新的内容，包括图像、文本、声音、视频和软件代码等。生成式人工智能是各种基础模型技术的总称。这些基础模型技术就是神经网络，它们通过自监督学习（例如预测文本中的下一个词）利用海量数据进行训练。生成式人工智能提供了许多全新的功能，使得该项技术成为了 AI 领域的新突破。有时候，单个模型就能执行多项任务，包括编写诗歌和业务文档、创建图像以及通过推理测试。试想一下，有两个大型语言模型，一个专门针对科研期刊进行训练，另一个专门围绕科幻小说进行训练。这两个大型语言模型都能简要描述物体在空间中的移动，但具体的描述内容却大相径庭。目前，生成式人工智能已经<a href="//www.sap.cn/products/artificial-intelligence/generative-ai.html" target="_self" data-title="应用于很多业务领域">应用于很多业务领域</a>，包括创建真实的产品原型、在客户服务中展开自然对话、设计个性化的市场营销材料、自动执行内容创作流程、创建图形和特效等。由于很多生成式人工智能应用的使用无需编程或编码技能，因此企业与消费者都在以惊人的速度采用这项技术。用户只需使用常规语言描述自己的需求，生成式人工智能应用就会按照用户要求执行任务，并且往往能实现卓越的成果。根据<a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year" target="_blank" data-title="麦肯锡 (McKinsey) " rel="noopener noreferrer">麦肯锡 (McKinsey) </a>发布的报告，在 <span style="color:rgb(34,53,72)">2023 年</span>：</p></li></ul>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>33% 的企业至少有一个业务职能部门在日常工作中使用生成式人工智能。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>40% 的企业因为生成式人工智能的发展而增加了 AI 方面的投资。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>60% 的 AI 采用企业在使用生成式人工智能。</p></li></ul>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row10 dx-eb3656e77664b124866feec5f01d72a9b7a7f8cc">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_1350874077.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">AI 的应用</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-row10-1 dx-98d5bc26e38a543c8ca6df351eb37beac8db9b9d textStandard section"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>以下是人工智能革新工作、学习和技术交互方式的一些其他途径：<br>
+</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>机器人技术</b></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>机器人在制造行业已经使用多年。但是，在引入 AI 之前，制造商必须手动进行校准和重新编程，而且通常只在发生故障后才会执行这类任务。通常情况下，制造商会在物联网 (<a href="//www.sap.cn/products/artificial-intelligence/what-is-iot.html" target="_self" data-title="IoT">IoT</a>) 传感器中融入 AI技术，显著扩展机器人可以执行的任务范围、数量和类型，同时提高机器人的准确性并减少停机时间。常见的 AI 辅助机器人包括仓库中的订单拣选机器人，以及在最佳时间灌溉农作物的农业机器人。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>计算机视觉</b></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>计算机视觉是计算机“查看”和理解数字图像和视频内容的一种方法。计算机视觉应用利用传感器和学习算法提取复杂的上下文信息，用于自动执行其他流程或为其他流程提供信息。计算机视觉还可以基于看到的数据进行推算，从而进行预测，自动驾驶汽车就是一个典型的例子。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>自然语言处理 (NLP)</b></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><a href="https://www.sap.com/resources/what-is-natural-language-processing" target="_self" data-title="自然语言处理">自然语言处理</a>系统能够识别并理解书面语言或口头语言。在较为复杂的应用中，自然语言处理技术可以利用上下文来推断用户的态度、情绪和其他主观特质，最准确地解读含义。自然语言处理技术的实际应用包括聊天机器人、呼叫中心交互分析和数字语音助手，例如 Siri 和 Alexa。</span></p>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="notificationRibbon dx-row11 section dx-07a69e61cf6736677d4ca6a2e77216e34bd2635f">
+<div data-component="NotificationRibbon" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/notificationribbon.model.json">
+<div class="Grid__container--LFiYT"><div class="NotificationRibbon__root--ZkQqj"><div class="Image__wrapper--g1IpI NotificationRibbon__backgroundImageWrapper--hGU0x Image__placeholderWrapper--bvUrM"><div></div><img class="Image__placeholder--Oj7M3" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAABCAYAAAA/6bM1AAAAAXNSR0IArs4c6QAAATFJREFUWEftmFESwiAQQ+X+V+udcKqD3aLlBYVSxu2nQJtJsmHXsCxLvGVPCOH1S4xvy4+1dc/RWjq8rtt32c/Ys0d77H4Fk4KrhGk93wPX2VwlHqwOucYKV5/OuIbHrLT0u9WwVGfkrRF+V7w1Ahdxleq/VWa5hs+7Q8n3lpnldUjJva2rdTizhjP3DoqSruHGEmW8ypWaW4q3CNNV7x3yXo9e2XuHvZfzmSTXRPFWSUfXcM9OiU+l1r+ZjyiTSOMeuAgT1WktJuvzUq+h4Cr5vRaXWh+E6x80nJkruuvI7+qsV5sP5CvC7X7vl++tMmtENpBvrux3v6P1+V31Fv2Xn76oZLySWa6ha5hnUPLWL/2f6neaq2r8TvN7TZa2xHV2Hc5+HxJfI7xFmMhb1P/dAXoLTIN6nweqAAAAAElFTkSuQmCC" alt="placeholder"></div><div class="NotificationRibbon__wrapper--bdqgV"><div class="NotificationRibbon__content--42UgU"><h5 class="Headline__root--lKpRX Headline__s--uRsJU NotificationRibbon__headline--hAx2z Headline__medium--irDyM Headline__color--A3sZu"><p>了解有关 AI 的更多信息</p>
+</h5><div class="Body__root--FCOOV NotificationRibbon__paragraph--RbSFM Body__s--WnySF Body__color--Aj694"><p>阅读有关 AI 主题的资源，了解人工智能可以快速为企业创造哪些价值。</p>
+</div></div><div class="NotificationRibbon__buttonWrapper--zT2sN"><a href="https://www.sap.com/topics/ai" target="_self" tabindex="0" class="Button__button--Dgp43 Button__m--_yNbO Button__primary--JIEDv Button__focusState--C2LxD"><span><p>了解更多</p>
+</span></a></div></div></div></div>
+</div></div>
+<div class="section dx-row12 dx-35d537fb789fea0e24892c0832b0316b0edd0f60">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_908205351.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">AI 的优势</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-e2365e8a34ccd7801ae5b7c76f6f6785f2659c1d textStandard section dx-row12-1"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>不同于只有少数企业采用的早期阶段，AI技术现已成为很多业务应用中的主流技术。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>如今，通过<a href="//www.sap.cn/products/artificial-intelligence.html" target="_self" data-title="将 AI 融入核心业务流程">将 AI 融入核心业务流程</a>，企业能够获得显著收益：</span></p>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>提高效率和生产力：</b>实现任务自动化并简化运营是 AI 为企业带来的最大优势之一。基于 AI 的系统能以极快的速度处理海量数据，为企业释放宝贵的人力资源，让他们专注于更有价值的活动。这种效率的提升将有助于提高企业的生产力，因为员工可以全身心投入到战略性决策和创新工作中，而不是将精力耗费在繁琐的日常事务上。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>优化客户体验</b>：如今，AI技术颠覆了企业与客户互动的方式。借助自然语言处理和机器学习算法，<a href="https://www.sap.com/resources/what-is-a-chatbot" target="_self" data-title="基于 AI 的聊天机器人">基于 AI 的聊天机器人</a>和虚拟助手可以全天候实时为客户提供个性化的支持。这样一来，企业不仅能够提高客户满意度，还能在所有渠道提供无缝的客户体验，同时缩短响应时间并减少人为错误。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>制定由数据驱动的决策：</b>企业 AI 系统可以分析海量的结构化和非结构化数据，帮助企业制定更明智的决策。通过从这些数据中挖掘有价值的洞察，企业能够识别趋势，预测客户行为并优化业务运营。AI 算法可以识别人类可能忽视的规律，进而提供有价值的信息，支持企业制定战略计划、执行风险评估和简化业务流程。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>提升运营效率：</b>AI技术可以自动执行耗时的重复性任务和工作流，并精确处理复杂的计算和数据分析等繁琐任务，从而提高准确性，减少错误。AI技术还能快速检测异常情况、欺诈和安全漏洞，规避潜在损失。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>加强员工协作：</b>AI技术可以促进员工之间的协作和知识共享。智能系统可以支持员工轻松访问相关信息，并提供有助于员工制定明智决策的洞察，从而增强他们的数据发现能力。此外，基于 AI 的协作工具还能支持不同团队、部门甚至全球各地的员工顺畅沟通和分享知识，从而推动创新并提高生产力。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>增强合规性和风险管理</b>：AI 可以实时监控和分析企业的运营和外部环境，帮助企业及时识别潜在的法律和合规风险。通过自动化的合规审核和异常检测，AI 能够有效地预防违规行为，保障企业的合规性。</p></li></ul>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row13 dx-7f4b1837e719c1eb396b31a345290c50bf4134bf">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_1469167988.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">企业 AI 的实际应用</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-9668f6a411df4db0d673940069bb7b91cd77f0e8 dx-row13-1 textStandard section"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>现代<a href="https://www.sap.com/resources/what-is-enterprise-ai" target="_self" data-title="企业 AI">企业 AI</a> 的功能范围广且易于获取，因此适用于很多领域。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>以下列举了<a href="https://www.sap.com/resources/eight-examples-of-artificial-intelligence-in-action" target="_self" data-title="各行各业的一些 AI 用例">各行各业的一些 AI 用例</a>：</span></p>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>AI 在医疗卫生行业的应用</b>：医疗数据集是世界上最庞大、最复杂的数据集之一。AI 在医疗卫生行业的一个重点应用领域就是，利用数据发现诊断、治疗方案和患者疗效之间的关系。此外，医院还使用 AI 解决方案来支持各种运营举措，如优化员工队伍、提高员工和患者满意度、节省成本等。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><a href="https://www.sap.com/blogs/how-generative-ai-will-hone-banks-competitive-edge" target="_self" data-title="&lt;b&gt;AI 在银行业的应用&lt;/b&gt;"><b>AI 在银行业的应用</b></a><b style="color:rgb(34,53,72)">：</b>作为最早大规模采用 AI技术的行业之一，金融服务行业主要利用 AI 来加快交易速度，更快提供客户服务和作出安全响应。银行业的常见 AI 应用包括 AI 机器人、数字支付顾问和欺诈检测系统。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><a href="https://www.sap.com/blogs/how-manufacturers-can-best-use-generative-ai" target="_self" data-title="&lt;b&gt;AI 在制造行业的应用&lt;/b&gt;"><b>AI 在制造行业的应用</b></a><b style="color:rgb(34,53,72)">：</b><span style="color:rgb(34,53,72)">当今的</span><a href="//www.sap.cn/products/scm/what-is-a-smart-factory.html" target="_self" data-title="智能工厂">智能工厂</a>是由机器、物联网传感器和计算能力组成的网络。这个互联系统利用 AI 和机器学习技术实时分析数据并不断进行学习。从监控设备状况到预测供应链问题，再到实施预测性制造，AI技术能够持续优化智能工厂中的自动化流程和智能系统，同时为其提供丰富的信息。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><a href="//www.sap.cn/industries/topics/retail-ai.html" target="_self" data-title="&lt;b&gt;AI 在零售行业的应用&lt;/b&gt;"><b>AI 在零售行业的应用</b></a><b style="color:rgb(34,53,72)">：</b><span style="color:rgb(34,53,72)">线上顾客会通过各种客户接触点与企业开展互动，并生成比以往更多的复杂数据和非结构化数据。为了理解和利用这些数据，零售商使用 AI 解决方案来处理和分析不同的数据集，从而提高营销能力，并交付更优质的购物体验。<br>
+</span></p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><span style="color:rgb(34,53,72)"><b>AI 在电子商务领域的应用</b>：</span>随着<a href="https://www.sap.cn/insights/what-is-qiyechuhai.html" data-title="&lt;u&gt;企业出海&lt;/u&gt;"><u>企业出海</u></a>的蓬勃发展，电子商务也迎来了繁盛时期。 AI 在电子商务领域的应用已经深刻改变了消费者的购物体验以及商家的运营模式。通过先进的机器学习算法和大数据分析，电子商务平台能够精准地预测消费者的购物偏好，从而提供个性化的商品推荐和定制化的购物体验。这不仅提高了消费者的满意度和忠诚度，也极大地促进了销售增长。同时，为了应对全球供应链管理问题，AI 还在库存管理、物流优化、欺诈检测等方面发挥着重要作用，可帮助出海企业优化供应链管理，降低运营成本，提高运营效率。随着技术的不断进步，AI在电子商务领域的应用将更加广泛和深入，为消费者带来更加便捷、智能的购物体验。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>AI 在能源行业的应用：</b>在能源领域，AI 的应用不仅提高了能源生产的效率，还大力推动了清洁能源的发展和智能电网的创新。AI 的预测和优化能力使能源企业能够更精准地管理资源，特别是在整合风能、太阳能等可再生能源方面。此外，AI 还助力智能电网的应用，让电网可以根据用电状况自动优化能源分配，确保供应稳定，并减少能源的浪费。</p></li></ul>
+</div><div class="Links__root--ivfxA"><div class="Links__buttonWrapper--mRup_"><a href="//www.sap.cn/assetdetail/2022/11/74eefc05-4e7e-0010-bca6-c68f7e60039b.html" target="_self" tabindex="0" class="Button__button--Dgp43 Button__m--_yNbO Button__primary--JIEDv Button__focusState--C2LxD" data-asset-id="74eefc05-4e7e-0010-bca6-c68f7e60039b" data-analytics-assetid="74eefc05-4e7e-0010-bca6-c68f7e60039b|mp4|山西安泰集团：数字化洞察碳排放，领 跑“双碳”新赛道"><span>山西安泰集团：数字化洞察碳排放，领跑“双碳”新赛道</span></a></div></div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row14 dx-0291bfd017a38782bc2a5db6286b18ca9291d3ab">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_1655283819.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">人工智能实施中的挑战</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-row14-1 textStandard section dx-7b514f4fe61d99e788e144f0e76cf64f1cac6009"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>虽然人工智能技术已被广泛应用于多个行业和领域，但在具体的实施过程中仍面临着一些无法避免的挑战，比如：</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>&nbsp;</b></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>数据的限制：</b>包括数据的质量以及安全性的问题，数据质量直接影响 AI 的模型的性能，若训练数据不准确、不完整或存在偏见将直接影响人工智能模型的准确性和有效性。同时，这些训练数据往往涉及一些个人隐私、商业机密，如何确保这些数据免被泄露和滥用也是一个重大的挑战。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>计算机算力限制：</b>AI 模型的训练和运行需要大量的计算资源，尤其是深度学习模型。目前人们可利用的训练数据正在呈指数倍增长，现有的计算设备可能难以应对未来的需求，如何提升服务器的计算能力是一个亟需解决的问题。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>&nbsp;</b></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>技术的复杂性：</b> AI 技术涉及复杂的算法和模型，如何将这些技术与现有业务系统和流程进行有效集成是一个挑战。企业需要具备跨学科的技术团队，以解决 AI 项目中的技术难题。此外，选择合适的算法、处理数据的复杂性以及确保系统的稳定性和可扩展性，都需要在实施过程中进行仔细的规划和管理。</span></p>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row15 dx-9d39e31e6ecd2726aa847e30d20c0695054db23f">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_601345447.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">AI 伦理问题</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-row15-1 textStandard section dx-70f2debf4fc64700873d4d0b7b9decc51263ec27"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>虽然人工智能带来了巨大的机遇，但也伴随着诸多风险。企业需要识别并规避这些风险，防止其对个人、团队、企业乃至整个人类社会造成损害。为了确保<a href="//www.sap.cn/products/artificial-intelligence/ai-ethics.html" target="_self" data-title="负责任地使用 AI技术">负责任地使用 AI技术</a>，消费者、企业和政府应注意以下这些最为紧迫的 AI 伦理挑战。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b>以合乎道德规范的方式使用客户数据：</b><span>到 2029 年，全球</span><a href="https://www.statista.com/forecasts/1143723/smartphone-users-in-the-world" target="_blank" data-title="智能手机用户数量预计将达到 64 亿" rel="noopener noreferrer">智能手机用户数量预计将达到 64 亿</a>。每台智能手机都可以共享海量数据，包括 GPS 定位信息、用户的个人信息和偏好，以及社交媒体内容和搜索行为等。随着企业拥有越来越多的渠道获取客户个人信息，有一点变得愈发重要，那就是企业需要设定基准并不断完善协议，以此保护隐私并尽可能地降低风险。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b style="color:rgb(34,53,72)">AI 偏见：</b><span style="color:rgb(34,53,72)"> AI 系统可能会反映或放大训练数据中存在的偏见，导致招聘或贷款审批等流程出现不公平的结果。为了减少这些偏见，企业必须确保使用多样化的数据集，定期执行审计，并采用可以规避偏见的算法。美国医疗系统就曾发生过有关 </span><a href="https://publichealth.berkeley.edu/news-media/school-news/bring-on-the-ai-guardrails#:~:text=The%20AI%20ignored%20those%20facts,millions%20of%20patients%20every%20year.%E2%80%9D" target="_blank" data-title="AI 偏见的真实案例" rel="noopener noreferrer">AI 偏见的真实案例</a>。由于不具备至关重要的偏见规避功能，因此该系统的 AI 模型根据训练数据推断出，相比医疗支出较高的群体，医疗支出较低的群体未来不需要同样多的医疗服务。最终，这个带有偏见的结果影响了数亿病患的医疗决策。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b style="color:rgb(34,53,72)">AI 透明度和可解释 AI：</b>AI 透明度是指 AI 系统的工作机制开放清晰，能够确保其运行、决策过程和输出结果可被人类理解和解释。这一点至关重要，有助于提高 AI 应用的可信度，并消除人们对偏见、责任和公平的担忧。可解释 AI 主要用于开发 AI 模型和算法，确保以用户和利益相关方可理解的方式，为他们提供有关决策和预测结果的解释。可解释 AI 旨在揭开复杂 AI 系统的神秘面纱，清晰展示影响其输出结果的因素和特性，让用户能够信任和验证 AI 决策，并在必要时进行纠正。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span><b style="color:rgb(34,53,72)">深度伪造：</b><a href="https://www.weforum.org/agenda/2024/05/why-we-need-to-look-beyond-deepfakes-to-benefit-from-synthetic-content-technology/" target="_blank" data-title="深度伪造 (Deepfake) " rel="noopener noreferrer">深度伪造 (Deepfake) </a>是深度学习 (deep learning) 和伪造 (fake) 二者的合成<span style="color:rgb(34,53,72)">词</span>。深度伪造是一种使用 AI技术创建或更改媒体内容（例如图像、视频、音频）的先进方法。深度伪造技术可以篡改视频中人物的面部表情、手势和语音，而且最终呈现的效果通常十分逼真。由于深度伪造技术可以生成十分逼真但虚构的内容，而这些内容可能会被用于各种用途，如娱乐和艺术表现、更危险的信息误传和身份欺诈等，因此引发了广泛关注。</p></li></ul>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row16 dx-74f8412fb8ccf2274ddd8c7b6c8c9463c0a0847e">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_2125820905.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">人工智能的未来</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-c8bdeed9398ad694b39ac31104c550d3676d7064 dx-row16-1 textStandard section"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>生成式 AI 的出现为人工智能带来了新的发展方向，重塑了人工智能的应用方式。人们将更多的目光转向这一新兴领域，探索其在内容创作、产品设计、个性化服务等方面的巨大潜力。生成式 AI 让人工智能从单纯的数据分析工具转变为具有创造性与主动性的系统，进一步拓宽了人工智能的发展边界。科学家预测，未来几年内人工智能将会迎来更多新的突破：</span></p>
+<ol class="TextStandard__listSpacings--C7jM6 List__numbered--g6MKQ"><li class="List__item--dF17N"><span class="List__content--gqTv5">加速迈向通用人工智能：生成式 AI 的进步使人工智能向通用人工智能（AGI）迈出了重要的一步。通过不断增强的学习能力和创造性，AI 将更接近于具备人类般的通用智能，能够在不同领域中自主解决多样化的问题。</span></li><li class="List__item--dF17N"><span class="List__content--gqTv5">合成数据将打破人工智能训练瓶颈：合成数据的应用将帮助克服人工智能训练中数据稀缺和隐私问题的挑战。通过生成大量逼真的虚拟数据集，AI 可以在保护隐私的前提下进行大规模训练，从而提高模型的准确性和泛化能力。</span></li><li class="List__item--dF17N"><span class="List__content--gqTv5">量子计算机将率先用于人工智能：量子计算机的强大算力将为 AI 带来了前所未有的速度和效率。科学家们预测，量子计算将首先在复杂 AI 任务中得到应用，如优化问题、模拟复杂系统和处理大规模数据，为人工智能开辟新的可能性。</span></li><li class="List__item--dF17N"><span class="List__content--gqTv5">AI代理和无代码开发将引起社会与经济的变革：AI代理和无代码开发工具将使更多人能够轻松创建和部署人工智能应用，降低技术门槛。这种转变将大大推动创新，改变传统行业的运作方式，并对社会和经济产生深远影响。</span></li></ol>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-row17 dx-a8697c731ec652b0d65128ca0baeeef2e4c30865">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_601345447_copy.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">深入了解人工智能</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-row17-1 textStandard section dx-a68b36405dc57c65b1a54d010e0d3a6661e5fb20"><div data-component-name="TextStandard" data-is-ssr-component="true"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-8--U3HPT Grid__offset-md-2--iDZnN Grid__col-lg-8--TYrXS Grid__offset-lg-2--rTNQd Grid__col-xl-8--KMJvH Grid__offset-xl-2--PyPgd TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b>人工智能助力企业实现真正的业务成果</b></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><span style="color:#223548">了解企业如何利用核心业务应用中内置的 AI技术，实现人员、数据和流程互联。</span></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><a href="//www.sap.cn/products/artificial-intelligence.html" target="_self" data-title="了解更多">了解更多</a></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>&nbsp;</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><b style="color:#223548">AI 智能副驾 Joule，真正了解你的业务需求</b></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><span style="color:#223548">Joule 可以革新你与 SAP 业务系统交互的方式，让每项任务都变得更简单，让每个接触点都发挥作用。</span></span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span><a href="//www.sap.cn/products/artificial-intelligence/ai-assistant.html" target="_self" data-title="了解更多">了解更多</a></span></p>
+</div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+<div class="section dx-73111907e9ed9464bae7dedeaaf94d8e45c3abd2 dx-row18">
+<div class="sectionUI2020 " data-component="Section" data-model="/products/artificial-intelligence/what-is-artificial-intelligence/_jcr_content/par/section_2094930063.model.json">
+<section class="Section__section--U5mm3 Section__default--c4udK Section__alignmentLeft--C0ZGc"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-10--FnQws Grid__col-md-10--l2ijq Grid__col-lg-10--Bo6oK Grid__col-xl-8--KMJvH Section__hedlineSubtitleCol--L1iAI"><div class="Section__headline--Ui63m fontRegular"><h2 class="Headline__root--lKpRX Headline__xs--DmtRO Section__headlineRedesign--ly7ve Headline__medium--irDyM Headline__color--A3sZu">常见问题</h2></div></div></div><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="Section__sectionContent--TMw_q"><div class=" dx-row18-1 accordion dx-d27c5b59cb4d360f9115a3809437fca96ffee286 section"><div data-component-name="Accordion" data-is-ssr-component="true"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR "><div class="AccordionCommon__root--COA5r" role="list"><div class=""><div class="" data-component-name="AccordionItem"><div class="" role="listitem"><div class="AccordionItemCommon__openerWrapper--j_RPs"><button class="AccordionItemCommon__opener--jl1dQ" data-focus="accordionItem" aria-expanded="false"><span class="AccordionItemCommon__arrowIcon--hyQes" aria-hidden="true"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g id="slim-arrow-right-1730385151181-gl5oy"><path d="m5.8 13c-.21 0-.42-.08-.58-.25-.31-.32-.29-.83.03-1.13l3.79-3.62-3.79-3.62c-.32-.31-.33-.81-.03-1.13.31-.32.81-.33 1.13-.03l4.4 4.2c.16.15.25.36.25.58s-.09.43-.25.58l-4.4 4.2c-.15.15-.35.22-.55.22z"></path></g></svg></span><h2 class="Headline__root--lKpRX Headline__xxxs--bSb8V AccordionItemCommon__title--SefAq Headline__medium--irDyM Headline__color--A3sZu">人工智能和机器学习的区别是什么？</h2></button></div><div class="AccordionItemCommon__slideAccordion--IQzm8"><div class=""><div class="dx-row18-2  dx-994b95c51a395363d12afc82bab956a6b607afce universalLayout section" data-component-name="UniversalLayout"><div class="Grid__container--LFiYT UniversalLayout__root--jsNxP"><div class="LayoutItems__root--txMzu Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR LayoutItems__item--Knggd"><div class="OneBox__root--q4mNO Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR OneBox__textContentWrapper--FNxFa"><div class="TextContent__paragraph--QohVE"><div class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><p>人工智能包含多种技术，用于创建能够执行类人任务的系统。而机器学习是这些技术之一，其作用是利用数据训练算法，从而识别规律并制定决策，让 AI 系统能够自主执行复杂任务并适应新信息。</p>
+</div></div></div></div></div></div></div></div></div></div></div></div><div class="" data-component-name="AccordionItem"><div class="" role="listitem"><div class="AccordionItemCommon__openerWrapper--j_RPs"><button class="AccordionItemCommon__opener--jl1dQ" data-focus="accordionItem" aria-expanded="false"><span class="AccordionItemCommon__arrowIcon--hyQes" aria-hidden="true"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g id="slim-arrow-right-1730385151182-rq9hu"><path d="m5.8 13c-.21 0-.42-.08-.58-.25-.31-.32-.29-.83.03-1.13l3.79-3.62-3.79-3.62c-.32-.31-.33-.81-.03-1.13.31-.32.81-.33 1.13-.03l4.4 4.2c.16.15.25.36.25.58s-.09.43-.25.58l-4.4 4.2c-.15.15-.35.22-.55.22z"></path></g></svg></span><h2 class="Headline__root--lKpRX Headline__xxxs--bSb8V AccordionItemCommon__title--SefAq Headline__medium--irDyM Headline__color--A3sZu">SAP 如何支持您的人工智能需求？</h2></button></div><div class="AccordionItemCommon__slideAccordion--IQzm8"><div class=""><div class=" dx-row18-3 textStandard section dx-6c0a6222b16e5614ded75ccb2de82379786a6438" data-component-name="TextStandard"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>SAP 将 AI 功能直接嵌入到日常的管理系统中，如ERP云、人力资本管理、支出管理和客户关系管理等。这意味着企业无需额外的集成工作，即可在现有的 SAP 系统中利用AI技术。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>同时，SAP 提供了适用于每个职能部门的最全面的人工智能功能，涵盖了企业的六大核心流程，如 <a href="https://www.sap.cn/products/artificial-intelligence/sales.html" data-title="&lt;u&gt;AI 销售和服务&lt;/u&gt;"><u>AI 销售和服务</u></a>、<a href="https://www.sap.cn/products/artificial-intelligence/finance.html" data-title="&lt;u&gt;AI 财务&lt;/u&gt;"><u>AI 财务</u></a>、<a href="https://www.sap.cn/products/artificial-intelligence/supply-chain.html" data-title="&lt;u&gt;AI 供应链&lt;/u&gt;"><u>AI 供应链</u></a>、<a href="https://www.sap.cn/products/artificial-intelligence/procurement.html" data-title="&lt;u&gt;AI 采购&lt;/u&gt;"><u>AI 采购</u></a>、<a href="https://www.sap.cn/products/artificial-intelligence/human-resources.html" data-title="&lt;u&gt;AI 人力资源&lt;/u&gt;"><u>AI 人力资源</u></a>以及<a href="https://www.sap.cn/products/artificial-intelligence/marketing.html" data-title="&lt;u&gt;AI营销&lt;/u&gt;"><u>AI营销</u></a>等。这些功能可以帮助企业完成各种任务，如自动化流程、优化决策、提高生产效率等。</span></p>
+<p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>为了让用户更好地使用 SAP 系统，SAP 还推出了生成式 AI 助手 Joule，帮助用户轻松实现与SAP 业务系统的交互，助力企业实现智能化决策和高效运营。</span></p>
+</div></div></div></div></div></div></div></div></div></div><div class="" data-component-name="AccordionItem"><div class="" role="listitem"><div class="AccordionItemCommon__openerWrapper--j_RPs"><button class="AccordionItemCommon__opener--jl1dQ" data-focus="accordionItem" aria-expanded="false"><span class="AccordionItemCommon__arrowIcon--hyQes" aria-hidden="true"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g id="slim-arrow-right-1730385151183-ub0o5"><path d="m5.8 13c-.21 0-.42-.08-.58-.25-.31-.32-.29-.83.03-1.13l3.79-3.62-3.79-3.62c-.32-.31-.33-.81-.03-1.13.31-.32.81-.33 1.13-.03l4.4 4.2c.16.15.25.36.25.58s-.09.43-.25.58l-4.4 4.2c-.15.15-.35.22-.55.22z"></path></g></svg></span><h2 class="Headline__root--lKpRX Headline__xxxs--bSb8V AccordionItemCommon__title--SefAq Headline__medium--irDyM Headline__color--A3sZu">人工智能算力是什么意思？</h2></button></div><div class="AccordionItemCommon__slideAccordion--IQzm8"><div class=""><div class=" dx-row18-4 textStandard section dx-d134a420eaf1c2edb96db99956fb8b1d963e6ff1" data-component-name="TextStandard"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>人工智能算力指的是执行AI模型和算法所需的计算资源和能力，它是衡量一个系统处理和运行人工智能应用效率的关键指标。对于企业而言，高效的AI算力意味着能够更快地处理大数据，实时做出智能决策，从而优化运营效率、提升产品服务创新和个性化客户体验。随着AI技术的不断进步，企业投资增强自身算力成为提升竞争力的重要手段，包括采用更先进的硬件、优化算法效率或使用云计算服务。有效管理和扩展AI算力，对于支持企业的AI战略和实现长期增长至关重要。</span></p>
+</div></div></div></div></div></div></div></div></div></div><div class="" data-component-name="AccordionItem"><div class="" role="listitem"><div class="AccordionItemCommon__openerWrapper--j_RPs"><button class="AccordionItemCommon__opener--jl1dQ" data-focus="accordionItem" aria-expanded="false"><span class="AccordionItemCommon__arrowIcon--hyQes" aria-hidden="true"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g id="slim-arrow-right-1730385151184-rx2ut"><path d="m5.8 13c-.21 0-.42-.08-.58-.25-.31-.32-.29-.83.03-1.13l3.79-3.62-3.79-3.62c-.32-.31-.33-.81-.03-1.13.31-.32.81-.33 1.13-.03l4.4 4.2c.16.15.25.36.25.58s-.09.43-.25.58l-4.4 4.2c-.15.15-.35.22-.55.22z"></path></g></svg></span><h2 class="Headline__root--lKpRX Headline__xxxs--bSb8V AccordionItemCommon__title--SefAq Headline__medium--irDyM Headline__color--A3sZu">人工智能会取代人类的工作吗？</h2></button></div><div class="AccordionItemCommon__slideAccordion--IQzm8"><div class=""><div class=" dx-23691f66838f22ff500d145bf1ea009f6b247871 textStandard section dx-row18-5" data-component-name="TextStandard"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>人工智能（AI）在自动化重复性和标准化高的任务方面展现出显著优势，导致某些职位面临被替代的风险。然而，AI同时也创造新的工作机会，尤其是在数据分析、AI系统开发和维护等领域。它能够承担繁琐的工作，让人类专注于创造性、战略性和人际交往等方面的任务。长期来看，AI更可能与人类工作并存，转变工作性质而非简单取代。对企业和个人而言，关键在于适应这种变化，通过继续教育和技能培训，提升与AI技术相辅相成的能力。</span></p>
+</div></div></div></div></div></div></div></div></div></div><div class="" data-component-name="AccordionItem"><div class="" role="listitem"><div class="AccordionItemCommon__openerWrapper--j_RPs"><button class="AccordionItemCommon__opener--jl1dQ" data-focus="accordionItem" aria-expanded="false"><span class="AccordionItemCommon__arrowIcon--hyQes" aria-hidden="true"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g id="slim-arrow-right-1730385151185-ns00k"><path d="m5.8 13c-.21 0-.42-.08-.58-.25-.31-.32-.29-.83.03-1.13l3.79-3.62-3.79-3.62c-.32-.31-.33-.81-.03-1.13.31-.32.81-.33 1.13-.03l4.4 4.2c.16.15.25.36.25.58s-.09.43-.25.58l-4.4 4.2c-.15.15-.35.22-.55.22z"></path></g></svg></span><h2 class="Headline__root--lKpRX Headline__xxxs--bSb8V AccordionItemCommon__title--SefAq Headline__medium--irDyM Headline__color--A3sZu">如何通过“人工智能+”发展新质生产力？</h2></button></div><div class="AccordionItemCommon__slideAccordion--IQzm8"><div class=""><div class=" dx-a9623f5a863da9420371405444459dd6fe5c480d textStandard section dx-row18-6" data-component-name="TextStandard"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>“人工智能+”发展新质生产力的关键在于利用AI技术创新和改造传统行业，促进生产效率和质量的大幅提升。实现这一目标需要采取以下步骤：</span></p>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>流程自动化与优化：通过AI自动化繁琐的工作流程，提高效率，减少人为错误，优化整体生产管理和调度。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>数据驱动的决策制定：运用AI的数据分析能力，帮助企业从大数据中提取洞察力，支持精准的市场预测和决策制定，更好地满足市场需求。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>产品和服务的创新：利用AI技术推动产品设计和服务模式的创新，提供个性化、智能化的解决方案，开拓新的市场机会。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>提升用户体验：AI技术能够帮助企业更准确地理解和预测用户需求，提供更加个性化的服务，增强用户满意度。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>跨行业融合：“人工智能+”促进了不同行业的融合发展，如AI与医疗、教育、金融的结合，推动了这些领域的革新。</p></li></ul>
+</div></div></div></div></div></div></div></div></div></div><div class="" data-component-name="AccordionItem"><div class="" role="listitem"><div class="AccordionItemCommon__openerWrapper--j_RPs"><button class="AccordionItemCommon__opener--jl1dQ" data-focus="accordionItem" aria-expanded="false"><span class="AccordionItemCommon__arrowIcon--hyQes" aria-hidden="true"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g id="slim-arrow-right-1730385151186-uzrkt"><path d="m5.8 13c-.21 0-.42-.08-.58-.25-.31-.32-.29-.83.03-1.13l3.79-3.62-3.79-3.62c-.32-.31-.33-.81-.03-1.13.31-.32.81-.33 1.13-.03l4.4 4.2c.16.15.25.36.25.58s-.09.43-.25.58l-4.4 4.2c-.15.15-.35.22-.55.22z"></path></g></svg></span><h2 class="Headline__root--lKpRX Headline__xxxs--bSb8V AccordionItemCommon__title--SefAq Headline__medium--irDyM Headline__color--A3sZu">企业如何使用人工智能？</h2></button></div><div class="AccordionItemCommon__slideAccordion--IQzm8"><div class=""><div class=" dx-b6d6dc24e833586135b8ed097c5524c296cf249f textStandard section dx-row18-7" data-component-name="TextStandard"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>企业在利用人工智能（AI）方面有多个关键应用领域和策略：</span></p>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>自动化与流程优化：利用AI自动化繁琐任务，如数据处理和报告生成，以提升工作效率和减少错误。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>数据分析与决策支持：应用AI进行大数据分析，揭示市场趋势和消费者行为，为企业策略决策提供数据支持。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>客户服务与体验提升：通过AI驱动的聊天机器人和语音助手，实现全时段个性化客户支持，增强客户满意度。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>产品与服务创新：利用AI开发智能产品和解决方案，如个性化推荐系统和智能家居，满足不同客户需求并推动业务创新。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>市场营销与销售优化：运用AI实现精准市场定位和目标客户识别，提高营销效果和投资回报率。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>供应链与物流管理：应用AI进行需求预测、库存优化和路线规划，提高供应链效率和降低成本。</p></li></ul>
+</div></div></div></div></div></div></div></div></div></div><div class="" data-component-name="AccordionItem"><div class="" role="listitem"><div class="AccordionItemCommon__openerWrapper--j_RPs"><button class="AccordionItemCommon__opener--jl1dQ" data-focus="accordionItem" aria-expanded="false"><span class="AccordionItemCommon__arrowIcon--hyQes" aria-hidden="true"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g id="slim-arrow-right-1730385151187-5i01b"><path d="m5.8 13c-.21 0-.42-.08-.58-.25-.31-.32-.29-.83.03-1.13l3.79-3.62-3.79-3.62c-.32-.31-.33-.81-.03-1.13.31-.32.81-.33 1.13-.03l4.4 4.2c.16.15.25.36.25.58s-.09.43-.25.58l-4.4 4.2c-.15.15-.35.22-.55.22z"></path></g></svg></span><h2 class="Headline__root--lKpRX Headline__xxxs--bSb8V AccordionItemCommon__title--SefAq Headline__medium--irDyM Headline__color--A3sZu">人工智能技术可以为企业带来哪些帮助？</h2></button></div><div class="AccordionItemCommon__slideAccordion--IQzm8"><div class=""><div class=" dx-6e97cd6d9d92760402bfa81e1fe63dcbe9d3bd64 textStandard section dx-row18-8" data-component-name="TextStandard"><div class="Grid__container--LFiYT TextStandard__root--doEk4 TextStandard__left--OHU7f"><div class="Grid__no-gutters--CKl5Z Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-12--tG5nF Grid__col-lg-12--wWsJK Grid__col-xl-12--v6LlR TextStandard__alignmentStart--ZPElv"><div class="TextStandard__content--yeVj7"><div class="TextStandard__paragraph--Tbblv"><p class="Body__root--FCOOV Body__s--WnySF Body__color--Aj694"><span>人工智能的核心在于学习并超越人类的感知和响应能力。它已迅速成为创新的关键驱动力，利用机器学习技术识别数据模式并驱动企业进行预测，为企业带来以下帮助：</span></p>
+<ul class="TextStandard__listSpacings--C7jM6 List__bullet--cvv9t"><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>更全面地理解数据：AI能够深入分析和理解大量复杂数据，揭示隐藏的模式和趋势，从而为企业提供更全面、更精准的数据洞察。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>基于预测的自动化：利用机器学习的预测能力，企业可以自动执行复杂或常规的任务，如自动化生产、智能供应链管理和个性化营销，提高效率和准确性。</p></li><li class="List__item--dF17N"><p class="List__itemText--YpjfM"><span class="List__content--gqTv5" aria-hidden="true"></span>增强决策支持：通过深入的数据分析和预测，AI为企业决策提供有力的支持，帮助企业制定更明智、更具策略性的业务决策。</p></li></ul>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section>
+</div>
+</div>
+</div>
+</section>
+</main>
+<div data-component="PageRating" data-pageratingsubmitlabel="发送反馈" data-pageratingcloselabel="无其他反馈" data-pageratinglikelabel="Like" data-pageratingdislikelabel="Dislike"></div>
+<footer id="footer" data-activity-map-region="Footer">
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parFooter iparsys parsys"><div class="footer genericComponent parbase section">
+<div data-component="Footer" data-model="/bin/sapdxc/cache/footer/content/sapdx/countries/zh_cn/_jcr_content/parFooter/footer.model.json" data-mailto-link="https://www.sap.cn/products/artificial-intelligence/what-is-artificial-intelligence.html" data-mailto-title="什么是人工智能？">
+<!-- SDI include (path: /content/sapdx/countries/zh_cn/_jcr_content/parFooter/footer.cache.html, resourceType: sapdx/components/modular/nav/footer/footerSSR) -->
+
+<div class="Footer__root--CPl_6 fontBook fontBP" style="visibility:hidden"><div class="Grid__container--LFiYT"><div class="Grid__row--SkLLf "><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-4--wwGFd Grid__col-lg-6--tKah2 MainNavigation__logo--Ojouu"><div class="Logo__root--fntUt"><a class="Logo__logo--tKFd3 linkComponent" tabindex="0" href="https://www.sap.cn/index.html" target="_self" title="思爱普"><img src="/dam/application/shared/logos/sap-logo-china-svg-dk.svg/sap-logo-china-svg-dk.svg" alt="思爱普" class="Logo__image--e3QB7"></a></div></div><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-3--goYcj Grid__col-lg-2--HyfEE "><div class="NavigationColumn__root--dXApK"><h6 id="1730384776376-3d9ih" class="NavigationColumn__title--A_JLk"><div class="NavigationColumn__accordionOpener--QaM_S fontMedium fontBP"><span class="NavigationColumn__opener--pplRt">快速链接</span></div></h6><div><nav aria-labelledby="1730384776376-3d9ih" class=""><ul class="NavigationList__root--iSGM4" aria-hidden="false"><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/about/trust-center.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">SAP Trust Center</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/partners/find-partner-solutions.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">查找解决方案</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/industries.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">行业</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/partners/find.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">查找合作伙伴</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/products/try-sap.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">试用和演示</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/services-support.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">查找服务</span></a></li></ul></nav></div></div></div><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-3--goYcj Grid__col-lg-2--HyfEE "><div class="NavigationColumn__root--dXApK"><h6 id="1730384776377-d6tcw" class="NavigationColumn__title--A_JLk"><div class="NavigationColumn__accordionOpener--QaM_S fontMedium fontBP"><span class="NavigationColumn__opener--pplRt">热门趋势</span></div></h6><div><nav aria-labelledby="1730384776377-d6tcw" class=""><ul class="NavigationList__root--iSGM4" aria-hidden="false"><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/events/teched/virtual.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">SAP TechEd</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/products/erp/grow.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">什么是 GROW with SAP？</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/products/erp/rise.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">什么是 RISE with SAP？</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/products/artificial-intelligence.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">SAP Business AI</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/products/sustainability.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">可持续发展</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="https://partneredge.sap.com/en.html" target="_blank" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">合作伙伴生态系统</span></a></li></ul></nav></div></div></div><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-3--goYcj Grid__col-lg-2--HyfEE "><div class="NavigationColumn__root--dXApK"><h6 id="1730384776377-oj4ol" class="NavigationColumn__title--A_JLk"><div class="NavigationColumn__accordionOpener--QaM_S fontMedium fontBP"><span class="NavigationColumn__opener--pplRt">关于</span></div></h6><div><nav aria-labelledby="1730384776377-oj4ol" class=""><ul class="NavigationList__root--iSGM4" aria-hidden="false"><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/about/company.html" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">公司信息</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/about/company/office-locations.html" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">全球办公室名录</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="https://www.sap.com/investors/en.html" target="_blank"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">投资者关系</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="https://jobs.sap.com/?locale=zh_CN" target="_self" title="访问我们的 招贤纳士 网站"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">招贤纳士</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="https://news.sap.cn/" target="_blank" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">新闻</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/events.html" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">活动</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/about/customer-stories.html" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">客户案例</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/dashboard/newsletters.html" target="_self" title=" "><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">电子报</span></a></li></ul></nav></div></div></div><div class="Grid__col-12--cMZPy Grid__col-sm-12--JrL2M Grid__col-md-3--goYcj Grid__col-lg-2--HyfEE "><div class="NavigationColumn__root--dXApK"><h6 id="1730384776378-uq9bo" class="NavigationColumn__title--A_JLk"><div class="NavigationColumn__accordionOpener--QaM_S fontMedium fontBP"><span class="NavigationColumn__opener--pplRt">网站信息</span></div></h6><div><nav aria-labelledby="1730384776378-uq9bo" class=""><ul class="NavigationList__root--iSGM4" aria-hidden="false"><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="https://www.sap.cn/privacy" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">隐私</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/about/legal/terms-of-use.html" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">使用条款</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/about/legal/impressum.html" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">法律披露</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/about/legal/copyright.html" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">版权</span></a></li><li><a class="NavigationList__navigationLink--yrJ3j fontBook fontBP linkComponent" tabindex="0" href="//www.sap.cn/about/legal/trademark.html" target="_self"><span class="Body__root--FCOOV Body__xs--BBksH Body__color--Aj694">商标</span></a></li></ul></nav></div></div></div></div><div class="SocialContainer__root--FxiQS"><div class="Body__root--FCOOV LicenseInfo__root--HA4Ot Body__xs--BBksH Body__color--Aj694"><span class="LicenseInfo__link--TZXuf linkComponent Link__normal--oV3V8" target="_blank"><span></span></span><div class="LicenseInfo__icpNumber--Ts7jF"><a href="https://beian.miit.gov.cn/" title="沪ICP备09046015号-28" target="_blank" data-title="沪ICP备09046015号-28" rel="noopener noreferrer">沪ICP备09046015号-28</a> 沪公网安备31010602003068号</div></div><div class=""><ul class="SocialLinks__list--zbL00"><li class="SocialLinks__item--tdhfJ"><a class="SocialLinks__link--dznlD linkComponent Link__normal--oV3V8" tabindex="0" href="https://author.baidu.com/home/1588739741318014" target="_blank" title="百家号" data-share-channel="baijiahao" data-share-url="undefined?source=social-atw-baijiahao" data-share-tracking-analytics="FOLLOW" rel="noopener noreferrer"><div style="width:16px;height:16px"></div></a></li><li class="SocialLinks__item--tdhfJ"><a class="SocialLinks__link--dznlD linkComponent Link__normal--oV3V8" tabindex="0" href="https://www.linkedin.com/company/1115" target="_self" title="领英" data-share-channel="linkedin" data-share-url="undefined?source=social-atw-linkedin" data-share-tracking-analytics="FOLLOW"><div style="width:16px;height:16px"></div></a></li><li class="SocialLinks__item--tdhfJ"><a class="SocialLinks__link--dznlD linkComponent Link__normal--oV3V8" tabindex="0" href="https://weibo.com/u/1759418035" target="_blank" title="微博" data-share-channel="weibo" data-share-url="undefined?source=social-atw-weibo" data-share-tracking-analytics="FOLLOW" rel="noopener noreferrer"><div style="width:16px;height:16px"></div></a></li><li class="SocialLinks__item--tdhfJ"><a class="SocialLinks__link--dznlD linkComponent Link__normal--oV3V8" tabindex="0" href="mailto:?body=您可能对 SAP.cn 上的这些内容感兴趣： undefined%3Fsource%3Dsocial-atw-mailto" target="_self" title="邮件分享" data-share-channel="mailto" data-share-url="undefined?source=social-atw-mailto" data-share-tracking-analytics="SHARE"><div style="width:16px;height:16px"></div></a></li></ul></div></div><a href="#page" tabindex="0" class="Button__button--Dgp43 BackToTop__root--fBHC3 Button__l--wew_t Button__tertiary--u5zqY Button__iconOnly--i5YpO Button__focusState--C2LxD" aria-label="返回顶部"><span class="Button__iconEnd--opLvI"><svg class="BackToTop__icon--QaQWY" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m0 0h16v16h-16z" opacity="0"></path><path d="m8 16c-.44 0-.8-.36-.8-.8v-8.47l-2.23 2.23c-.31.31-.82.31-1.13 0s-.31-.82 0-1.13l3.6-3.6c.3-.3.83-.3 1.13 0l3.6 3.6c.31.31.31.82 0 1.13s-.82.31-1.13 0l-2.23-2.23v8.47c0 .44-.36.8-.8.8zm6.2-14.4h-12.4c-.44 0-.8-.36-.8-.8s.36-.8.8-.8h12.4c.44 0 .8.36.8.8s-.36.8-.8.8z"></path></svg></span></a></div></div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div id="bPopup-container">
+<span class="b-close"></span>
+<div class="bPopup-content"></div>
+</div>
+<nav class="accessibility" aria-label="返回顶部">
+<strong>
+<a href="#page">返回顶部</a>
+</strong>
+</nav>
+</div>
+<div class="i18nContainer hidden">
+<div class="trialsKeys" data-forms.registration.gatedassets-trials.headline.title="感谢您对 SAP 的关注。" data-fd_submit="提交" data-forms.trial.scenario.eula.headline.text="条款与条件" data-forms.trial.scenario.technicalerror.headline.title="获取免费试用版" data-forms.trial.scenario.technicalerror.headline.text="抱歉" data-forms.trial.scenario.technicalerror.message="非常抱歉，处理您的请求时出现技术错误。请重试。" data-form.registration.confirmationscreen.link.text="关闭窗口，返回 SAP.com" data-forms.trial.scenario.confirmation.headline.text="欢迎获取免费试用版" data-forms.trial.scenario.confirmation.button.label="请点击此处开始试用！" data-forms.trial.scenario.technicalerror.nonexistingtrial.message="非常抱歉，您申请的试用版不存在。" data-forms.trial.scenario.technicalerror.secondaryevaluation.message="非常抱歉，这款解决方案目前无法提供。问题解决后，我们将立即发送电子邮件通知您。" data-forms.trial.scenario.eula.validation.text="请确认您已阅读所有条款和条件" data-forms.generic.scenario.gtscheckfailed.message="您的信息请求正在审阅。一旦获得批准，您将收到包含更多说明信息的电子邮件。" data-forms.generic.scenario.gtsdatamismatched.message="您的部分信息与我们保存的您的个人信息不相符。请退出登录，使用正确的账户登录 SAP.com，并重新提交包含所提供初始信息的表格。" data-forms.registration.statusbar.register.label="注册" data-forms.registration.statusbar.verifyemail.label="验证电子邮件" data-forms.registration.statusbar.eula.label="接受条款与条件" data-forms.registration.statusbar.viewcontent.label="访问您的内容" data-forms.registration.statusbar.accessresources.label="访问所有资源" data-generic.accessibility.loadinganimation.text="Loading">
+</div>
+</div>
+<div class="hidden lightboxI18nContainer" data-forms.lightbox.documentnotfound.maintitle.text="消息" data-forms.lightbox.documentnotfound.headline.text="无法找到文档" data-forms.lightbox.documentnotfound.paragraph.text="抱歉！您要找的文档可能已删除或暂时不可用。" data-forms.lightbox.documentnotfound.submit.button.label="确定" data-forms.lightbox.videonotfound.maintitle.text="消息" data-forms.lightbox.videonotfound.headline.text="无法找到视频文件" data-forms.lightbox.videonotfound.paragraph.text="抱歉！您要找的视频文件可能已删除或暂时不可用。" data-forms.lightbox.videonotfound.submit.button.label="确定" data-lightbox.search.nomatches.text="未找到该短语" data-lightbox.search.totalmatches.template="{0} 个条目被找到" data-lightbox.search.currentmatch.template="{0} / {1}" data-lightbox.close.label="关闭" data-lightbox.sharing.mailto.linkalt.text="Share via email">
+</div>
+<script class="markupLigtbox" type="text/x-handlebars-template">
+    <div class="lightboxPopup" id="openPopup">
+        <section>
+            <div class="loadingBar">
+                <div class="bar bar-first"></div>
+                <div class="bar bar-second"></div>
+                <div class="bar bar-third"></div>
+            </div>
+        </section>
+        <div class="lightboxContainer">
+            <div class="popupHeader container-extended">
+                <div class="header-container grid-container">
+                    <div class="row">
+                        <div class="col-xs-11 col-sm-10 col-md-10 col-lg-10">
+                            <div class="sectionTitle he fontBook">{{assetTitle}}</div>
+                            <div class="descriptionText text">{{assetDescription}}</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="toolbar-container {{#if pageRating}}{{pageRating}} col-xlg-12 col-lg-12 col-md-12 col-xs-12 col{{/if}}">
+                    <nav class="toolbar">
+                        <ul class="toolbar-list">
+                            <li><a title="Download the asset" id="download-link" class="toolbtn download icon-download exclude-ligthbox-handler"></a></li>
+                            <li><a title="Share via email" target="_top" class="toolbtn mail icon-email exclude-ligthbox-handler" data-share-tracking-analytics="SHARE" data-share-channel="mailto"></a></li>
+                            <li class="share-wrap"><a class="toolbtn share icon-share"></a>
+                                <ul class="share-dropdown">
+                                    {{#each socialItems}}
+                                        <li class="fontLight">
+                                            <a
+                                                title="{{title}}"
+                                                data-share-channel="{{share-channel}}"
+                                                data-share-tracking-analytics="SHARE"
+                                                target="_blank"
+                                                data-share-url="{{resourceLink}}"
+                                                data-is-share-link="true"
+                                            >
+                                                <span class="{{class}}"></span>{{title}}
+                                            </a>
+                                        </li>
+                                    {{/each }}
+                                </ul>
+                            </li>
+                            <li class="rating-message initial hidden">
+                                <div class="thanksLikeBlock ds-body ds-body--l fontBook"></div>
+                                <div class="thanksDisliking fontRegular"></div>
+                                <div class="question firstQuestion initial">
+                                    <div class="question-headline ds-body fontBook"></div>
+                                    <div class="question-buttons">
+                                        <div class="button-block">
+                                            <a class="like-button ds-button ds-button--secondary fontRegular ds-m-r-m ds-m-l-l"></a>
+                                            <a class="dislike-button dislike-icon ds-button ds-button--secondary fontRegular"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="toolbtn exit icon-close mfp-close"></div>
+                </div>
+                <div class="question-container">
+                    <div class="rating-wrapper-lightbox fontBook">
+                        <div class="question secondQuestion col-xlg-10 col-lg-10 col-sm-10 col-md-10 col">
+                            <div class="blockReasons">
+                                <div class="question-wrapper">
+                                    <div class="questionText"></div>
+                                    <ul class="radio-rating ds-m-t-m"></ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="close-feedback icon-close"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="popupContent">
+                {{{popupContent}}}
+            </div>
+            <div class="popupFooter">
+                {{#if isFooterConfigured}}
+                <div class="footer-container grid-container">
+                    <div class="row">
+                        <div class="col-xs-7 col-sm-12 col-md-12 col-lg-12">
+                            <div class="info-container">
+                                <div class="he footer-headine fontBook">{{assetFooterTitle}}</div>
+                                <div class="text footer-paragraph">{{assetFooterDescription}}</div>
+                            </div>
+                        </div>
+                        <div class="btn-wrapper col-xs-5 col-sm-5 col-md-5 col-lg-5">
+                            {{#if assetFooterLinkName}}
+                                <a href="{{assetFooterLinkPath}}" target="{{assetFooterLinkTarget}}"
+                                   class="button2017 fontRegular version1 lightbox-footer-link">
+                                    <span class="buttonText">{{assetFooterLinkName}}</span>
+                                    <span class="hoverboxes"><span class="hoverbox"></span><span
+                                            class="hoverbox"></span><span class="hoverbox"></span></span>
+                                </a>
+                            {{/if}}
+                        </div>
+                    </div>
+                </div>
+                {{/if}}
+            </div>
+        </div>
+        <div class="qrCodePopup" id="qrCode" data-component="QRCodeGenerator" data-component-id="wechat-share"></div>
+    </div>
+</script>
+<script class="feedbackLightbox" type="text/x-handlebars-template">
+    <div class="lightboxPopup lightboxFeedback fontRegular" id="openPopup">
+        <div class="wrapper">
+            <div class="header">
+                <div class="title he fontBook">{{assetTitle}}</div>
+                <div class="toolbtn exit icon-close mfp-close"></div>
+            </div>
+            <div class="popupContent">
+                {{{popupContent}}}
+            </div>
+        </div>
+    </div>
+</script>
+<script class="messageLightbox" type="text/x-handlebars-template">
+    <div class="popup-header">
+        <p class="title">{{headerMessage}}</p>
+        <button class="close-button" type="button" title="{{closeButtonLabel}}">
+            <svg height='16' viewBox='0 0 16 16' width='16' xmlns='http://www.w3.org/2000/svg'>
+                <path d='m0 0h16v16h-16z' fill='#fff' opacity='0' />
+                <path d='m12.2 13c-.2 0-.41-.08-.57-.23l-3.63-3.63-3.63 3.63c-.31.31-.82.31-1.13 0s-.31-.82 0-1.13l3.63-3.63-3.63-3.63c-.31-.31-.31-.82 0-1.13s.82-.31 1.13 0l3.63 3.63 3.63-3.63c.31-.31.82-.31 1.13 0s.31.82 0 1.13l-3.63 3.63 3.63 3.63c.31.31.31.82 0 1.13-.16.16-.36.23-.57.23z' />
+            </svg>
+        </button>
+    </div>
+    <div class="popup-container">
+        {{> content}}
+        <div class="loading-bar-overlay">
+            <div class="loadingBar">
+                <div class="bar bar-first"></div>
+                <div class="bar bar-second"></div>
+                <div class="bar bar-third"></div>
+            </div>
+        </div>
+    </div>
+</script>
+<script class="html-content-lightbox" type="text/x-handlebars-template">
+    <div class="popupHeader">
+        {{#if isHeaderConfigured}}
+        <div class="header-container">
+            <div class="sectionTitle he">{{assetTitle}}</div>
+            <div class="descriptionText text">{{assetDescription}}</div>
+        </div>
+        {{/if}}
+        <div class="toolbar-container">
+            {{#if isHeaderConfigured}}
+            {{#if isEnabledShareLink}}
+            <nav class="toolbar">
+                <ul class="toolbar-list">
+                    <li><a title="Share via email" class="toolbtn mail icon-email exclude-ligthbox-handler" data-share-tracking-analytics="SHARE" data-share-channel="mailto"></a></li>
+                    <li class="share-wrap"><a class="toolbtn share icon-share"></a>
+                        <ul class="share-dropdown">
+                            {{#each socialItems}}
+                                <li class="fontLight">
+                                    <a
+                                        title="{{title}}"
+                                        data-share-channel="{{share-channel}}"
+                                        data-share-tracking-analytics="SHARE"
+                                        target="_blank"
+                                        data-share-url="{{resourceLink}}"
+                                        data-is-share-link="true"
+                                    >
+                                        <span class="{{class}}"></span>{{title}}
+                                    </a>
+                                </li>
+                            {{/each }}
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+            {{/if}}
+            {{/if}}
+            <button class="toolbtn exit icon-close mfp-close" title="{{closeButtonLabel}}">
+                <svg height='16' viewBox='0 0 16 16' width='16' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='m0 0h16v16h-16z' fill='#fff' opacity='0' />
+                    <path d='m12.2 13c-.2 0-.41-.08-.57-.23l-3.63-3.63-3.63 3.63c-.31.31-.82.31-1.13 0s-.31-.82 0-1.13l3.63-3.63-3.63-3.63c-.31-.31-.31-.82 0-1.13s.82-.31 1.13 0l3.63 3.63 3.63-3.63c.31-.31.82-.31 1.13 0s.31.82 0 1.13l-3.63 3.63 3.63 3.63c.31.31.31.82 0 1.13-.16.16-.36.23-.57.23z' />
+                </svg>
+            </button>
+        </div>
+    </div>
+    <div class="popup-container">
+        <iframe
+            class="html-content-lightbox-frame"
+            src={{src}}
+            width='1100px' height='700px'>
+        </iframe>
+    </div>
+    <div class="popupFooter">
+        {{#if isFooterConfigured}}
+        <div class="footer-container grid-container">
+            <div class="row">
+                <div class="col-xs-7 col-sm-12 col-md-12 col-lg-12">
+                    <div class="info-container">
+                        <div class="he fontBook footer-headine">{{assetFooterTitle}}</div>
+                        <div class="text footer-paragraph">{{assetFooterDescription}}</div>
+                    </div>
+                </div>
+                <div class="btn-wrapper col-xs-5 col-sm-5 col-md-5 col-lg-5">
+                    <a href="{{assetFooterLinkPath}}" target="{{assetFooterLinkTarget}}"
+                       class="button2017 fontRegular version1 lightbox-footer-link">
+                        <span class="buttonText">{{assetFooterLinkName}}</span>
+                        <span class="hoverboxes"><span class="hoverbox"></span><span
+                                class="hoverbox"></span><span class="hoverbox"></span></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        {{/if}}
+    </div>
+</script>
+<span class="lazy-loader-event-wrapper" data-categories="apps.sapdx.pdfjs,apps.sapdx.pdfjs.extensions">
+<span class="lazy-css" data-src="/etc/sapdx/binary/clientlib-pdfjs.min.18daxb2.2.0.6450.css"></span><span class="lazy-css" data-src="/etc/sapdx/binary/clientlibs-pdfjs-extensions.min.18daxb2.2.0.6450.css"></span><span class="lazy-script" data-src="/etc/sapdx/binary/clientlib-pdfjs.min.18daxb2.2.0.6450.js"></span>
+<span class="lazy-script" data-src="/etc/sapdx/binary/clientlibs-pdfjs-extensions.min.18daxb2.2.0.6450.js"></span>
+</span>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-lightbox-util.min.6dd19c9424dfecfc0a8c096eabc107f3.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-lightbox-lazy-init.min.5e8437ea6b5f284c98d9449979ca8a0f.js"></script>
+<span class="lazy-loader-event-wrapper" data-categories="apps.sapdx.lightbox">
+<span class="lazy-css" data-src="/etc.clientlibs/sapdx/clientlibs/clientlib-lightbox.min.18daxb2.2.0.6450.css"></span><span class="lazy-script" data-src="/etc.clientlibs/sapdx/clientlibs/clientlib-lightbox.min.18daxb2.2.0.6450.js"></span>
+</span>
+<link rel="stylesheet" href="/etc.clientlibs/sapdx/components/modular/formLogin/clientlib.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-handlebars.min.654cbf22e33b29e87a571955cc99d1e9.js"></script>
+<script src="/etc.clientlibs/sapdx/components/modular/formLogin/clientlib.min.d6ebe85d54e92d4e1d08a512e8898c0e.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-ip-detection.min.f7e91cbdfa4decd15c677ed19efd5ddc.js"></script>
+<script src="/etc.clientlibs/sapdx/clientlibs/clientlib-gating-autoloading.min.b8639dc339e0716ad8cde52d077c1cd5.js"></script>
+<script>
+    try{
+        if (!!window._satellite) {
+            _satellite.pageBottom();
+        }
+    } catch(e) {
+        console.error("Error while calling _satellite.pageBottom(), Error thrown : " +  e);
+    }
+</script><script>_satellite["_runScript2"](function(event, target, Promise) {
+(async function(){
+	let ifs = await (
+	   new Promise(((e,t)=>{
+		   const n = new Image();
+		   n.onload = e;
+		   n.onerror = t;
+		   n.src = `https://people.wdf.sap.corp/favicon.ico?vpncheck${Date.now()}`
+	   }))
+	).then(() => 1).catch(() => 0);
+	window.SAP.isFromSapImg.update(ifs);
+})();
+});</script><script>
+(function () {
+  
+    var social_sites = {
+        "delicious": {
+            "share_url": "https://delicious.com/post?url=",
+            "title_name": "title",
+            "content_name": "notes",
+	    "fa_char": "fa-delicious"
+        },
+        "facebook": {
+            "share_url": "https://facebook.com/sharer.php?u=",
+            "width": "550",
+            "height": "270",
+            "fa_char": "fa-facebook",
+			"fa_char_lightbox": "fa-facebook-square"
+        },
+        "google_plusone_share": {
+            "share_url": "https://plus.google.com/share?url=",
+	    "fa_char": "fa-google-plus",
+		"fa_char_lightbox": "fa-google-plus-square"
+        },
+        "linkedin": {
+            "share_url": "https://linkedin.com/shareArticle?url=",            
+            "fa_char": "fa-linkedin",
+			"fa_char_lightbox": "fa-linkedin-square"
+        },
+        "pinterest": {
+            "share_url": "https://pinterest.com/pin/create/bookmarklet?url=",
+            "title_name": "description",
+            "fa_char": "fa-pinterest"
+        },
+        "renren": {
+            "share_url": "http://widget.renren.com/dialog/share?link=",
+            "title_name": "title",
+            "content_name": "description",
+            "fa_char": "fa-renren"
+        },
+        "reddit": {
+            "share_url": "https://reddit.com/submit?url=",
+            "title_name": "title",
+            "fa_char": "fa-reddit"
+        },
+        "twitter": {
+            "share_url": "https://twitter.com/intent/tweet?url=",
+            "width": "550",
+            "height": "450",
+            "title_name": "text",
+            "fa_char": "fa-twitter"
+        },
+        "weibo": {
+            "share_url": "http://service.weibo.com/share/share.php?url=",
+            "title_name": "title",
+            "fa_char": "fa-weibo"
+        },
+        "vk": {
+            "share_url": "http://vk.com/share.php?url=",
+            "fa_char": "fa-vk"
+        },
+        "xing": {
+            "share_url": "https://www.xing.com/spi/shares/new?url=",
+            "fa_char": "fa-xing"
+        },
+        "email": {
+            "share_url": "mailto:?body=",
+            "fa_char": "fa-envelope"
+        },
+        "wechat": {
+          "share_url": "",
+          "fa_char": "fa-wechat"
+        }
+    };
+
+    var default_width = 550, default_height = 450;
+    var default_channel = "unknown";
+	var sharing_params={};	
+  
+    $(document).on("click", "a[data-is-share-link], button[data-is-share-link]", handle_click);
+  
+    $(document).on("keydown", "a[data-is-share-link], button[data-is-share-link]", function (e) {
+      if (e.which == 32) {
+        $(this).click();
+      }
+    });
+	
+    function handle_click (e) {
+        e.preventDefault();
+        var channel = $(this).data("share-channel") || default_channel;  
+        var url = $(this).attr("data-share-url");
+      
+        if(channel == "wechat") {
+             var refreshEvent = new CustomEvent("RefreshReactComponent", {
+                bubbles: true,
+                detail: 'wechat-share'
+            });
+            document.dispatchEvent(refreshEvent);
+        }
+      
+        if (url && !!window.parent.$.deparam.querystring().page) { 
+          url = url + '&page='+ window.parent.$.deparam.querystring().page;
+        }
+		
+         if(channel == "wechat") { 
+            return; // we don't need to trigger an event of new window 
+         }
+		//trigger an event
+        var data = { "channel": channel, "url": url };
+		handle_share_button (channel, url, function(args){			
+			if(args.url){
+				window.open(args.url, args.target, args.size);
+			}
+		});
+        
+    }
+
+	function handle_share_button (channel, url, processRedirect, title){
+        title = title || document.title;
+      
+        var site = social_sites[channel];   
+		var width = default_width;
+        var height = default_height;
+
+        if (site) {
+
+            if (!url) url = window.location.href;
+
+            url = site["share_url"] + encodeURIComponent(url);
+
+            if (site["title_name"])
+                url += "&" + site["title_name"] + "=" + encodeURIComponent(title);
+
+            width = site["width"] || width;
+            height = site["height"] || height;
+        }      
+
+		sharing_params.target = "_blank";
+		sharing_params.size = "width=" + width + ",height=" + height;
+		sharing_params.url = url;
+		processRedirect(sharing_params);            
+	}	   
+
+  /** 
+    SAPONEDX-34615 start
+    
+    $(document).on("InVideoSocialShare", handle_social_share_video_event);
+
+    //InVideoSocialShare handler
+    function handle_social_share_video_event(e) {
+		handle_share_button (e.message.kind, e.message.url, function(args){
+			if(args.url){				
+				if(e.message.kind == 'email' ){
+					window.location.href = args.url;	
+				} else {
+					window.open(args.url, args.target, args.size);		
+				}				
+			}
+      
+      if (typeof s_trackShare == 'function') {
+				s_trackShare(e.message.kind, '', e.message.url);
+			} else {
+				console.log('s_trackShare() not defined');
+			}		
+		}, e.message.title);
+        
+    }
+    
+     SAPONEDX-34615 end
+   */
+  
+  function resolveAwesomeFont(channel, fa_char_property) {
+	  var upperChannel = channel.toUpperCase();
+	    for (var ch in social_sites) {
+              if (ch.toUpperCase() === upperChannel)
+	        return fa_char_property(ch);
+      }
+  }
+
+   window.getAwesomeFontName = function(channel) {
+	   return resolveAwesomeFont(channel, function(ch){
+		  return   social_sites[ch].fa_char;
+	   });
+   }
+   
+   window.getLightboxAwesomeFontName = function(channel) {
+      return resolveAwesomeFont(channel, function(ch){
+		  return social_sites[ch].fa_char_lightbox || social_sites[ch].fa_char;
+	   });
+   }
+   
+  /** 
+    SAPONEDX-34615 start
+    
+  setTimeout(function(){
+    $(function(){$("body").off("click","a[data-share-tracking-analytics]");});
+		$("body").off("click","a[data-share-tracking-analytics]");
+    
+  $(function(){
+      $("body").on("click","a[data-share-tracking-analytics]",function() {
+        try {
+          var b = $(this).data("share-tracking-analytics");
+          var c = $(this).data("share-channel");
+          var channel = c == "mailto" ? "email" : c;
+          //SAPONEDX-34018 start
+          var href = b == "FOLLOW" ? $(this).attr('data-share-url') : this.href;    
+          //SAPONEDX-34018 end
+          s_trackShare(channel, "1", href, b);
+        }
+        catch(d){console.error("Share Tracking: "+d)}
+      });
+    });
+     $.event.trigger({
+                type: "ShareCodeLoaded",
+                message: {},
+                time: new Date()
+ 			});
+    
+  }, 0);
+  
+  SAPONEDX-34615 end
+   */
+  
+})();
+</script><script>
+
+(function () {
+	var collectorURL = "https://ngds.sap.com/sites/cookies/consents";
+
+	if (SAP.DTM.runMode !== "prod") {
+		collectorURL = "https://api.services-qa.sap.com/ngds/sites/cookies/consents";
+	}
+
+	function sendToCollector(url, data, useAJAX, success_handler, error_handler) {
+		console.log("[NGDS Consent]", data);
+		if (!useAJAX && window.navigator.sendBeacon) {
+			window.navigator.sendBeacon(url, JSON.stringify(data));
+		} else {
+			$.ajax({
+				url: url,
+				type: 'post',
+				contentType: 'text/plain; charset=utf-8',
+				data: JSON.stringify(data),
+				success: function (data, textStatus, xhr) {
+					console.log("[Data Layer]clickstream AJAX Call Status [SUCCESS]:", xhr.status);
+					if (success_handler) {
+						console.log("[Data Layer]clickstream AJAX callback [SUCCESS]");
+						success_handler();
+					}
+				},
+				error: function (xhr, status, err) {
+					console.log("[Data Layer]clickstream AJAX Call Status [ERROR]:", xhr.status, ' with ', err);
+					if (error_handler) {
+						error_handler();
+					}
+				}
+			});
+		}
+	}
+
+	var OBJECT_COOKIES_REQUIRED = "Required Cookies";
+	var OBJECT_COOKIES_FUNCTIONAL = "Functional Cookies";
+	var OBJECT_COOKIES_ADVERTISING = "Advertising Cookies";
+	var COOKIE_CONSENT_LEVELS = [OBJECT_COOKIES_REQUIRED, OBJECT_COOKIES_FUNCTIONAL, OBJECT_COOKIES_ADVERTISING];
+
+	var FALLBACK_DOMAINS = {};
+	FALLBACK_DOMAINS[OBJECT_COOKIES_REQUIRED] = ["www.sap.com"];
+	FALLBACK_DOMAINS[OBJECT_COOKIES_FUNCTIONAL] = ["cai.tools.sap", "ngds.sap.com", "qualtrics.com", "liveperson.net"];
+	FALLBACK_DOMAINS[OBJECT_COOKIES_ADVERTISING] = ["gigya.com"];
+
+	function buildConsentObjectForType(cookieType) {
+
+		var ood = localStorage.getItem("optout_domains");
+		var domainConsentsPresent = ood;
+		var result = {
+			"general": "not configured"
+		};
+		var oodObject = ood ? JSON.parse(ood) : null;
+		var consentsPerDomain = {};
+		var somethingAllowed = false;
+		var somethingDenied = false;
+
+		if (oodObject) {
+			var functionalDomainsObj = oodObject[cookieType].domains;
+			for (var d in functionalDomainsObj) {
+				if (functionalDomainsObj.hasOwnProperty(d)) {
+					var consentStr = functionalDomainsObj[d];
+					consentsPerDomain[d] = (consentStr == "1" || consentStr == "2") ? "allow" : "deny";
+					if (consentStr == "1" || consentStr == "2") { somethingAllowed = true; }
+					if (consentStr == "0") { somethingDenied = true; }
+				}
+			}
+		} else {
+			var level = COOKIE_CONSENT_LEVELS.indexOf(cookieType);
+			var consentEnabled = _satellite.getVar('isConsentEnabled');
+
+			FALLBACK_DOMAINS[cookieType].forEach(function (d) {
+				var consent = consentEnabled(d, level);
+				consentsPerDomain[d] = consent ? "allow" : "deny";
+				if (consent) { somethingAllowed = true; }
+				if (!consent) { somethingDenied = true; }
+			});
+		}
+
+		if (somethingAllowed && somethingDenied) {
+			result.general = "per-domain";
+			result.domains = consentsPerDomain;
+		} else if (somethingAllowed) {
+			result.general = "allow";
+		} else if (somethingDenied) {
+			result.general = "deny";
+		}
+
+		return result;
+	}
+
+
+	function buildConsentData() {
+		var consent_data = {
+			"context": {
+				"user_id": SAP.sapdx.Authentication.getUserData().userId,
+				"session_id": _satellite.cookie.get('session'),
+				"adobe_id": _satellite.getVisitorId().getMarketingCloudVisitorID(),
+				"client_id": _satellite.cookie.get('client')
+			},
+			"consents": {
+				"required": buildConsentObjectForType(OBJECT_COOKIES_REQUIRED),
+				"functional": buildConsentObjectForType(OBJECT_COOKIES_FUNCTIONAL),
+				"advertising": buildConsentObjectForType(OBJECT_COOKIES_ADVERTISING)
+			}
+		};
+
+		return consent_data;
+	}
+
+	var LAST_CONSENT_CHANGE_DATETIME_KEY = "LastConsentChangeDateTime";
+	var CONSENT_CHANGE_DATETIME_KEY = "referrerBeforeTrustArcReloadUpdateTime";
+	var CONSENT_CHANGE_SENT_TIMES_KEY = "ConsentChangeSentTimes";
+	var MAX_CONSENT_CHANGE_SENT_TIMES = 3;
+
+	function checkConsentChange(always) {
+
+		var lastConsentChangeDateTime = sessionStorage.getItem(LAST_CONSENT_CHANGE_DATETIME_KEY);
+		var newConsentChangeDateTime = sessionStorage.getItem(CONSENT_CHANGE_DATETIME_KEY);
+		var consentChangeSentTimes = parseInt(sessionStorage.getItem(CONSENT_CHANGE_SENT_TIMES_KEY)) || 0;
+
+
+		if (always || (!lastConsentChangeDateTime && !newConsentChangeDateTime) ||
+			(newConsentChangeDateTime && lastConsentChangeDateTime !== newConsentChangeDateTime)) {
+			if (consentChangeSentTimes >= MAX_CONSENT_CHANGE_SENT_TIMES) return;
+
+			sendToCollector(collectorURL,
+				buildConsentData(),
+				true,
+				function () {
+					sessionStorage.setItem(LAST_CONSENT_CHANGE_DATETIME_KEY, newConsentChangeDateTime);
+					sessionStorage.removeItem(CONSENT_CHANGE_SENT_TIMES_KEY);
+				}, function () {
+					sessionStorage.setItem(CONSENT_CHANGE_SENT_TIMES_KEY, consentChangeSentTimes + 1);
+				});
+		}
+
+		console.log("[NGDS Consent]", lastConsentChangeDateTime, newConsentChangeDateTime, consentChangeSentTimes);
+	}
+
+	var authModule = SAP.sapdx.Authentication;
+	authModule?.subscribe({
+		logic: function () {
+			var OLD_LOGIN_STATUS_KEY = "oldLoginStatus";
+
+			if (!authModule?.isAuthenticated()) {
+				sessionStorage.removeItem(OLD_LOGIN_STATUS_KEY);
+			} else if (authModule?.isAuthenticated() && sessionStorage.getItem(OLD_LOGIN_STATUS_KEY) !== "logY") {
+				sessionStorage.setItem(OLD_LOGIN_STATUS_KEY, sessionStorage.loginStatus);
+				checkConsentChange(true);
+				return;
+			}
+
+			checkConsentChange(false);
+		}, context: this,
+		plugin: SAP.sapdx.Observer.Plugin.onlyOnce()
+	});
+
+}());
+</script><script>_satellite["_runScript3"](function(event, target, Promise) {
+(function() {
+  const KEY = "sapcnFormDisplayed";
+  
+  function setFormDisplayFlag(form) {
+	localStorage.setItem(KEY, JSON.stringify(form));
+  }
+
+  function removeFormDisplayFlag() {
+	localStorage.removeItem(KEY);
+  }
+
+  function getFormDisplayFlag() {
+    let form = localStorage.getItem(KEY);
+    if (form) {
+       try {
+         return JSON.parse(form);
+      } catch (ex) {}
+    }
+
+    return null;
+  }
+  
+  //frame window
+  $(document).on("trackData", function(e, a) {
+    if (a.events.formView) {
+      var form = a.form;
+      setFormDisplayFlag(form);
+    } else if (a.events.formSubmit) {
+      removeFormDisplayFlag();
+    }
+  });
+
+  //top window
+  $(document).on("mfpClose", function(e, a) {
+    var form = getFormDisplayFlag();
+    if (form) {
+      //display the chat invite using a different source
+      document.dispatchEvent(createEvent('UserAbandonForm', form));
+      removeFormDisplayFlag();
+      if (window.triggerSCCTrackingEvent) window.triggerSCCTrackingEvent("formAbandon", "form", form);
+    }
+  });
+
+})();
+
+});</script>
+
+<script>_satellite["_runScript4"](function(event, target, Promise) {
+SAP.sapdx.Authentication.subscribe({logic:function(){var n=!!localStorage.getItem("dismiss-ids-banner");console.log("show ids incomplete banner ? :"+(SAP.sapdx.Authentication.isAuthenticated()&&""==SAP.sapdx.Authentication.getUserData().IDS&&!n)),SAP.sapdx.Authentication.isAuthenticated()&&""==SAP.sapdx.Authentication.getUserData().IDS&&!n&&$(".notificationBannerWrapper").html('<div class="container-extended notificationBanner__notificationBanner--UoTVO"><div class="notificationBanner__bannerBody--2B+9T"><div class="ds-fine-print notificationBanner__bannerContent--Uscwu" style="width:100%">Please complete your SAP Universal ID registration and <a href="https://account.sap.com/manage/accounts#unlinked">link the relevant IDS account</a> for full access to SAP.com.</div><div><div class="notificationBanner__bannerButtons--DXQLW"><a id="dismiss-ids-banner" class="Button__secondary--eZoXT fontRegular" tabindex="0" href="#">Dismiss</a></div></div></div></div>')},plugin:SAP.sapdx.Observer.Plugin.onlyOnce()}),$("#dismiss-ids-banner").on("click",(function(){$(".notificationBannerWrapper").remove(),localStorage.setItem("dismiss-ids-banner",!0)}));
+});</script></body></html>

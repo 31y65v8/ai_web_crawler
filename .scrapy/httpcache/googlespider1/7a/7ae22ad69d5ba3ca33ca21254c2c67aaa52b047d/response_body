@@ -1,0 +1,864 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="https://www.w3.org/1999/xhtml" lang="zh-Hans"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+<meta property="wb:webmaster" content="2d216369e106ac7d">
+<title>  麦肯锡人工智能报告：5个行业 34个AI应用场景 - IT经理网</title>
+<!--IT经理网-->
+
+
+<meta name="description" content="“我觉得不行！”；“我觉得可以！”这正是现在大家看待AI的两种态度。IT经理网">
+<meta name="keywords" content="人工智能应用,人工智能应用案例,人工智能报告,">
+<link rel="stylesheet" href="https://www.ctocio.com/wp-content/themes/wp-max/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="IT经理网 RSS Feed" href="https://www.ctocio.com/feed">
+<link rel="pingback" href="https://www.ctocio.com/xmlrpc.php">
+<link rel="shortcut icon" href="https://www.ctocio.com/wp-content/themes/wp-max/favicon.ico">
+<link href="https://www.ctocio.com/wp-content/themes/wp-max/css/menustyle.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/themes/wp-max/scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/themes/wp-max/scripts/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/themes/wp-max/scripts/tabs.js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/themes/wp-max/scripts/custom.js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/themes/wp-max/scripts/reflection.js"></script>
+
+
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//www.ctocio.com">
+<link rel="alternate" type="application/rss+xml" title="IT经理网 » Feed" href="https://www.ctocio.com/feed">
+<link rel="alternate" type="application/rss+xml" title="IT经理网 » 评论 Feed" href="https://www.ctocio.com/comments/feed">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ctocio.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.ctocio.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2" type="text/css" media="all">
+<style id="bp-login-form-style-inline-css" type="text/css">
+.widget_bp_core_login_widget .bp-login-widget-user-avatar{float:left}.widget_bp_core_login_widget .bp-login-widget-user-links{margin-left:70px}#bp-login-widget-form label{display:block;font-weight:600;margin:15px 0 5px;width:auto}#bp-login-widget-form input[type=password],#bp-login-widget-form input[type=text]{background-color:#fafafa;border:1px solid #d6d6d6;border-radius:0;font:inherit;font-size:100%;padding:.5em;width:100%}#bp-login-widget-form .bp-login-widget-register-link,#bp-login-widget-form .login-submit{display:inline;width:-moz-fit-content;width:fit-content}#bp-login-widget-form .bp-login-widget-register-link{margin-left:1em}#bp-login-widget-form .bp-login-widget-register-link a{filter:invert(1)}#bp-login-widget-form .bp-login-widget-pwd-link{font-size:80%}
+
+</style>
+<style id="bp-primary-nav-style-inline-css" type="text/css">
+.buddypress_object_nav .bp-navs{background:#0000;clear:both;overflow:hidden}.buddypress_object_nav .bp-navs ul{margin:0;padding:0}.buddypress_object_nav .bp-navs ul li{list-style:none;margin:0}.buddypress_object_nav .bp-navs ul li a,.buddypress_object_nav .bp-navs ul li span{border:0;display:block;padding:5px 10px;text-decoration:none}.buddypress_object_nav .bp-navs ul li .count{background:#eaeaea;border:1px solid #ccc;border-radius:50%;color:#555;display:inline-block;font-size:12px;margin-left:2px;padding:3px 6px;text-align:center;vertical-align:middle}.buddypress_object_nav .bp-navs ul li a .count:empty{display:none}.buddypress_object_nav .bp-navs ul li.last select{max-width:185px}.buddypress_object_nav .bp-navs ul li.current a,.buddypress_object_nav .bp-navs ul li.selected a{color:#333;opacity:1}.buddypress_object_nav .bp-navs ul li.current a .count,.buddypress_object_nav .bp-navs ul li.selected a .count{background-color:#fff}.buddypress_object_nav .bp-navs ul li.dynamic a .count,.buddypress_object_nav .bp-navs ul li.dynamic.current a .count,.buddypress_object_nav .bp-navs ul li.dynamic.selected a .count{background-color:#5087e5;border:0;color:#fafafa}.buddypress_object_nav .bp-navs ul li.dynamic a:hover .count{background-color:#5087e5;border:0;color:#fff}.buddypress_object_nav .main-navs.dir-navs{margin-bottom:20px}.buddypress_object_nav .bp-navs.group-create-links ul li.current a{text-align:center}.buddypress_object_nav .bp-navs.group-create-links ul li:not(.current),.buddypress_object_nav .bp-navs.group-create-links ul li:not(.current) a{color:#767676}.buddypress_object_nav .bp-navs.group-create-links ul li:not(.current) a:focus,.buddypress_object_nav .bp-navs.group-create-links ul li:not(.current) a:hover{background:none;color:#555}.buddypress_object_nav .bp-navs.group-create-links ul li:not(.current) a[disabled]:focus,.buddypress_object_nav .bp-navs.group-create-links ul li:not(.current) a[disabled]:hover{color:#767676}
+
+</style>
+<style id="bp-member-style-inline-css" type="text/css">
+[data-type="bp/member"] input.components-placeholder__input{border:1px solid #757575;border-radius:2px;flex:1 1 auto;padding:6px 8px}.bp-block-member{position:relative}.bp-block-member .member-content{display:flex}.bp-block-member .user-nicename{display:block}.bp-block-member .user-nicename a{border:none;color:currentColor;text-decoration:none}.bp-block-member .bp-profile-button{width:100%}.bp-block-member .bp-profile-button a.button{bottom:10px;display:inline-block;margin:18px 0 0;position:absolute;right:0}.bp-block-member.has-cover .item-header-avatar,.bp-block-member.has-cover .member-content,.bp-block-member.has-cover .member-description{z-index:2}.bp-block-member.has-cover .member-content,.bp-block-member.has-cover .member-description{padding-top:75px}.bp-block-member.has-cover .bp-member-cover-image{background-color:#c5c5c5;background-position:top;background-repeat:no-repeat;background-size:cover;border:0;display:block;height:150px;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;z-index:1}.bp-block-member img.avatar{height:auto;width:auto}.bp-block-member.avatar-none .item-header-avatar{display:none}.bp-block-member.avatar-none.has-cover{min-height:200px}.bp-block-member.avatar-full{min-height:150px}.bp-block-member.avatar-full .item-header-avatar{width:180px}.bp-block-member.avatar-thumb .member-content{align-items:center;min-height:50px}.bp-block-member.avatar-thumb .item-header-avatar{width:70px}.bp-block-member.avatar-full.has-cover{min-height:300px}.bp-block-member.avatar-full.has-cover .item-header-avatar{width:200px}.bp-block-member.avatar-full.has-cover img.avatar{background:#fffc;border:2px solid #fff;margin-left:20px}.bp-block-member.avatar-thumb.has-cover .item-header-avatar{padding-top:75px}.entry .entry-content .bp-block-member .user-nicename a{border:none;color:currentColor;text-decoration:none}
+
+</style>
+<style id="bp-members-style-inline-css" type="text/css">
+[data-type="bp/members"] .components-placeholder.is-appender{min-height:0}[data-type="bp/members"] .components-placeholder.is-appender .components-placeholder__label:empty{display:none}[data-type="bp/members"] .components-placeholder input.components-placeholder__input{border:1px solid #757575;border-radius:2px;flex:1 1 auto;padding:6px 8px}[data-type="bp/members"].avatar-none .member-description{width:calc(100% - 44px)}[data-type="bp/members"].avatar-full .member-description{width:calc(100% - 224px)}[data-type="bp/members"].avatar-thumb .member-description{width:calc(100% - 114px)}[data-type="bp/members"] .member-content{position:relative}[data-type="bp/members"] .member-content .is-right{position:absolute;right:2px;top:2px}[data-type="bp/members"] .columns-2 .member-content .member-description,[data-type="bp/members"] .columns-3 .member-content .member-description,[data-type="bp/members"] .columns-4 .member-content .member-description{padding-left:44px;width:calc(100% - 44px)}[data-type="bp/members"] .columns-3 .is-right{right:-10px}[data-type="bp/members"] .columns-4 .is-right{right:-50px}.bp-block-members.is-grid{display:flex;flex-wrap:wrap;padding:0}.bp-block-members.is-grid .member-content{margin:0 1.25em 1.25em 0;width:100%}@media(min-width:600px){.bp-block-members.columns-2 .member-content{width:calc(50% - .625em)}.bp-block-members.columns-2 .member-content:nth-child(2n){margin-right:0}.bp-block-members.columns-3 .member-content{width:calc(33.33333% - .83333em)}.bp-block-members.columns-3 .member-content:nth-child(3n){margin-right:0}.bp-block-members.columns-4 .member-content{width:calc(25% - .9375em)}.bp-block-members.columns-4 .member-content:nth-child(4n){margin-right:0}}.bp-block-members .member-content{display:flex;flex-direction:column;padding-bottom:1em;text-align:center}.bp-block-members .member-content .item-header-avatar,.bp-block-members .member-content .member-description{width:100%}.bp-block-members .member-content .item-header-avatar{margin:0 auto}.bp-block-members .member-content .item-header-avatar img.avatar{display:inline-block}@media(min-width:600px){.bp-block-members .member-content{flex-direction:row;text-align:left}.bp-block-members .member-content .item-header-avatar,.bp-block-members .member-content .member-description{width:auto}.bp-block-members .member-content .item-header-avatar{margin:0}}.bp-block-members .member-content .user-nicename{display:block}.bp-block-members .member-content .user-nicename a{border:none;color:currentColor;text-decoration:none}.bp-block-members .member-content time{color:#767676;display:block;font-size:80%}.bp-block-members.avatar-none .item-header-avatar{display:none}.bp-block-members.avatar-full{min-height:190px}.bp-block-members.avatar-full .item-header-avatar{width:180px}.bp-block-members.avatar-thumb .member-content{min-height:80px}.bp-block-members.avatar-thumb .item-header-avatar{width:70px}.bp-block-members.columns-2 .member-content,.bp-block-members.columns-3 .member-content,.bp-block-members.columns-4 .member-content{display:block;text-align:center}.bp-block-members.columns-2 .member-content .item-header-avatar,.bp-block-members.columns-3 .member-content .item-header-avatar,.bp-block-members.columns-4 .member-content .item-header-avatar{margin:0 auto}.bp-block-members img.avatar{height:auto;max-width:-moz-fit-content;max-width:fit-content;width:auto}.bp-block-members .member-content.has-activity{align-items:center}.bp-block-members .member-content.has-activity .item-header-avatar{padding-right:1em}.bp-block-members .member-content.has-activity .wp-block-quote{margin-bottom:0;text-align:left}.bp-block-members .member-content.has-activity .wp-block-quote cite a,.entry .entry-content .bp-block-members .user-nicename a{border:none;color:currentColor;text-decoration:none}
+
+</style>
+<style id="bp-dynamic-members-style-inline-css" type="text/css">
+.bp-dynamic-block-container .item-options{font-size:.5em;margin:0 0 1em;padding:1em 0}.bp-dynamic-block-container .item-options a.selected{font-weight:600}.bp-dynamic-block-container ul.item-list{list-style:none;margin:1em 0;padding-left:0}.bp-dynamic-block-container ul.item-list li{margin-bottom:1em}.bp-dynamic-block-container ul.item-list li:after,.bp-dynamic-block-container ul.item-list li:before{content:" ";display:table}.bp-dynamic-block-container ul.item-list li:after{clear:both}.bp-dynamic-block-container ul.item-list li .item-avatar{float:left;width:60px}.bp-dynamic-block-container ul.item-list li .item{margin-left:70px}
+
+</style>
+<style id="bp-online-members-style-inline-css" type="text/css">
+.widget_bp_core_whos_online_widget .avatar-block,[data-type="bp/online-members"] .avatar-block{display:flex;flex-flow:row wrap}.widget_bp_core_whos_online_widget .avatar-block img,[data-type="bp/online-members"] .avatar-block img{margin:.5em}
+
+</style>
+<style id="bp-active-members-style-inline-css" type="text/css">
+.widget_bp_core_recently_active_widget .avatar-block,[data-type="bp/active-members"] .avatar-block{display:flex;flex-flow:row wrap}.widget_bp_core_recently_active_widget .avatar-block img,[data-type="bp/active-members"] .avatar-block img{margin:.5em}
+
+</style>
+<style id="bp-latest-activities-style-inline-css" type="text/css">
+.bp-latest-activities .components-flex.components-select-control select[multiple]{height:auto;padding:0 8px}.bp-latest-activities .components-flex.components-select-control select[multiple]+.components-input-control__suffix svg{display:none}.bp-latest-activities-block a,.entry .entry-content .bp-latest-activities-block a{border:none;text-decoration:none}.bp-latest-activities-block .activity-list.item-list blockquote{border:none;padding:0}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini){box-shadow:1px 0 4px #00000026;padding:0 1em;position:relative}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini):after,.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini):before{border-color:#0000;border-style:solid;content:"";display:block;height:0;left:15px;position:absolute;width:0}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini):before{border-top-color:#00000026;border-width:9px;bottom:-18px;left:14px}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini):after{border-top-color:#fff;border-width:8px;bottom:-16px}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item.mini .avatar{display:inline-block;height:20px;margin-right:2px;vertical-align:middle;width:20px}.bp-latest-activities-block .activity-list.item-list footer{align-items:center;display:flex}.bp-latest-activities-block .activity-list.item-list footer img.avatar{border:none;display:inline-block;margin-right:.5em}.bp-latest-activities-block .activity-list.item-list footer .activity-time-since{font-size:90%}.bp-latest-activities-block .widget-error{border-left:4px solid #0b80a4;box-shadow:1px 0 4px #00000026}.bp-latest-activities-block .widget-error p{padding:0 1em}
+
+</style>
+<style id="bp-friends-style-inline-css" type="text/css">
+.bp-dynamic-block-container .item-options{font-size:.5em;margin:0 0 1em;padding:1em 0}.bp-dynamic-block-container .item-options a.selected{font-weight:600}.bp-dynamic-block-container ul.item-list{list-style:none;margin:1em 0;padding-left:0}.bp-dynamic-block-container ul.item-list li{margin-bottom:1em}.bp-dynamic-block-container ul.item-list li:after,.bp-dynamic-block-container ul.item-list li:before{content:" ";display:table}.bp-dynamic-block-container ul.item-list li:after{clear:both}.bp-dynamic-block-container ul.item-list li .item-avatar{float:left;width:60px}.bp-dynamic-block-container ul.item-list li .item{margin-left:70px}
+
+</style>
+<style id="bp-sitewide-notices-style-inline-css" type="text/css">
+.bp-sitewide-notice-block .bp-screen-reader-text,[data-type="bp/sitewide-notices"] .bp-screen-reader-text{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.bp-sitewide-notice-block [data-bp-tooltip]:after,[data-type="bp/sitewide-notices"] [data-bp-tooltip]:after{background-color:#fff;border:1px solid #737373;border-radius:1px;box-shadow:4px 4px 8px #0003;color:#333;content:attr(data-bp-tooltip);display:none;font-family:Helvetica Neue,Helvetica,Arial,san-serif;font-size:12px;font-weight:400;letter-spacing:normal;line-height:1.25;max-width:200px;opacity:0;padding:5px 8px;pointer-events:none;position:absolute;text-shadow:none;text-transform:none;transform:translateZ(0);transition:all 1.5s ease;visibility:hidden;white-space:nowrap;word-wrap:break-word;z-index:100000}.bp-sitewide-notice-block .bp-tooltip:after,[data-type="bp/sitewide-notices"] .bp-tooltip:after{left:50%;margin-top:7px;top:110%;transform:translate(-50%)}.bp-sitewide-notice-block{border-left:4px solid #ff853c;padding-left:1em;position:relative}.bp-sitewide-notice-block h2:before{background:none;border:none}.bp-sitewide-notice-block .dismiss-notice{background-color:#0000;border:1px solid #ff853c;color:#ff853c;display:block;padding:.2em .5em;position:absolute;right:.5em;top:.5em;width:-moz-fit-content;width:fit-content}.bp-sitewide-notice-block .dismiss-notice:hover{background-color:#ff853c;color:#fff}
+
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="wpdm-font-awesome-css" href="https://www.ctocio.com/wp-content/plugins/download-manager/assets/fontawesome/css/all.min.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="wpdm-frontend-css-css" href="https://www.ctocio.com/wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.min.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="wpdm-front-css" href="https://www.ctocio.com/wp-content/plugins/download-manager/assets/css/front.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="https://www.ctocio.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.77.2" type="text/css" media="all">
+<style id="wp-polls-inline-css" type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 15px;
+	line-height: 17px;
+	height: 17px;
+	background: #007A8F;
+	border: 1px solid #007A8F;
+}
+
+</style>
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://www.ctocio.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="https://www.ctocio.com/wp-content/plugins/tablepress/css/build/default.css?ver=2.4.4" type="text/css" media="all">
+<script type="text/javascript" src="https://www.ctocio.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/plugins/download-manager/assets/bootstrap/js/popper.min.js?ver=6.6.2" id="wpdm-poper-js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=6.6.2" id="wpdm-frontend-js-js"></script>
+<script type="text/javascript" id="wpdm-frontjs-js-extra">
+/* <![CDATA[ */
+var wpdm_url = {"home":"https:\/\/www.ctocio.com\/","site":"https:\/\/www.ctocio.com\/","ajax":"https:\/\/www.ctocio.com\/wp-admin\/admin-ajax.php"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"2553e885a7d4eafb988c2399df8dfcb3"};
+var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click following button to start download.","start_dl":"Start Download"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/plugins/download-manager/assets/js/front.js?ver=3.2.90" id="wpdm-frontjs-js"></script>
+<link rel="https://api.w.org/" href="https://www.ctocio.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.ctocio.com/wp-json/wp/v2/posts/25086"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ctocio.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6.2">
+<link rel="canonical" href="https://www.ctocio.com/bigdata/ai/25086.html">
+<link rel="shortlink" href="https://www.ctocio.com/?p=25086">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.ctocio.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ctocio.com%2Fbigdata%2Fai%2F25086.html">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.ctocio.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ctocio.com%2Fbigdata%2Fai%2F25086.html&amp;format=xml">
+
+	<script type="text/javascript">var ajaxurl = 'https://www.ctocio.com/wp-admin/admin-ajax.php';</script>
+
+<meta name="generator" content="WordPress Download Manager 3.2.90">
+                <style>
+        /* WPDM Link Template Styles */        </style>
+                <style>
+
+            :root {
+                --color-primary: #4a8eff;
+                --color-primary-rgb: 74, 142, 255;
+                --color-primary-hover: #4a8eff;
+                --color-primary-active: #4a8eff;
+                --color-secondary: #4a8eff;
+                --color-secondary-rgb: 74, 142, 255;
+                --color-secondary-hover: #4a8eff;
+                --color-secondary-active: #4a8eff;
+                --color-success: #18ce0f;
+                --color-success-rgb: 24, 206, 15;
+                --color-success-hover: #4a8eff;
+                --color-success-active: #4a8eff;
+                --color-info: #2CA8FF;
+                --color-info-rgb: 44, 168, 255;
+                --color-info-hover: #2CA8FF;
+                --color-info-active: #2CA8FF;
+                --color-warning: #f29e0f;
+                --color-warning-rgb: 242, 158, 15;
+                --color-warning-hover: orange;
+                --color-warning-active: orange;
+                --color-danger: #ff5062;
+                --color-danger-rgb: 255, 80, 98;
+                --color-danger-hover: #ff5062;
+                --color-danger-active: #ff5062;
+                --color-green: #30b570;
+                --color-blue: #0073ff;
+                --color-purple: #8557D3;
+                --color-red: #ff5062;
+                --color-muted: rgba(69, 89, 122, 0.6);
+                --wpdm-font: "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            }
+
+            .wpdm-download-link.btn.btn-primary {
+                border-radius: 4px;
+            }
+
+
+        </style>
+        <script src="https://www.ctocio.com/wp-includes/js/wp-emoji-release.min.js?ver=6.6.2" defer=""></script></head>
+<body>
+
+<div id="header">
+    <div id="top">
+        <ul id="pagenav">
+            <li class="page_item page-item-2"><a href="https://www.ctocio.com/abouts">关于我们</a></li>
+            <li class="page_item page-item-21520"><a href="https://www.ctocio.com/link">友情链接</a></li>
+            <li class="page_item page-item-22371"><a href="https://www.ctocio.com/event-directory">会议日历</a></li>
+            <li class="page_item page-item-1386"><a href="https://www.ctocio.com/editor">投稿</a></li>
+            <li><a href="https://www.ctocio.com/feed" title="News Feed">订阅</a></li>
+
+
+
+                                                        <li><a href="https://www.ctocio.com/register/">注册</a></li>
+                                                        <li><a href="https://www.ctocio.com/wp-login.php">登录</a></li>
+
+                                                            </ul>
+        <div class="clear"></div>
+    </div>
+    <div id="hdr">
+        <div id="logo">
+            <a href="https://www.ctocio.com"><img src="https://www.ctocio.com/logo/logo.svg" width="235" height="90"></a>
+        </div>
+        <div id="ad">
+          <!-- 广告位：全站顶部banner -->
+ <a href="https://go.nordpass.io/aff_c?offer_id=754&amp;aff_id=9842&amp;url_id=23176" target="_blank"><img src="https://www.ctocio.com/wp-content/uploads/2023/12/nordpass-1.jpg" width="680px" height="auto" title="遥遥领先的密码管理器"></a>
+
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="header_biz">
+        <div class="navBg_biz">
+            <div id="menu_biz">
+                <ul>
+                    <li>
+                        <a id="tindex" class="sub" href="https://www.ctocio.com/" title="Home"><img src="https://www.ctocio.com/wp-content/themes/wp-max/images/home.jpg" width="15" height="14" class="PA10 PT12"></a>
+                    </li>
+                    <li><a id="tsme" class="sub" href="https://www.ctocio.com/?cat=4330"><b>区块链</b></a></li>
+                    <li><a id="tsme" class="sub" href="https://www.ctocio.com/?cat=654"><b>大数据</b></a></li>
+                    <li> <a id="tsme" class="sub" href="https://www.ctocio.com/?cat=3431"><b>人工智能</b></a> </li>
+                    <li><a id="tsme" class="sub" href="https://www.ctocio.com/?cat=67"><b>云计算</b></a></li>
+                    <li><a id="tsme" class="sub" href="https://www.ctocio.com/?cat=579"><b>企业2.0</b></a></li>
+                    <li> <a id="tsme" class="sub" href="https://www.ctocio.com/?cat=125"><b>互联网</b></a> </li>
+
+                    <li> <a id="tsme" class="sub" href="https://www.ctocio.com/?cat=619"><b>安&nbsp;全</b></a> </li>
+                    <li> <a id="tsme" class="sub" href="https://www.ctocio.com/?cat=11"><b>装&nbsp;备</b></a> </li>
+                    <li> <a id="tsme" class="sub" href="https://www.ctocio.com/?cat=9"><b>报&nbsp;告</b></a> </li>
+                    <li> <a id="tsme" class="sub" href="https://www.ctocio.com/?cat=2817"><b>TOP&nbsp;</b></a> </li>
+                    <li> <a id="tsme" class="sub" href="https://www.ctocio.com/?cat=13"><b>会&nbsp;务</b></a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <ul id="menu">
+        <li><a href="https://www.ctocio.com" title="Home" class="nav_parent">热门标签:</a></li>
+
+        <li>
+            <a href="https://www.ctocio.com/tag/%e8%99%9a%e6%8b%9f%e7%8e%b0%e5%ae%9e" class="tag-cloud-link tag-link-2982 tag-link-position-1 nav_parent" style="font-size: 12px;">虚拟现实</a>
+<a href="https://www.ctocio.com/tag/%e5%a4%a7%e6%95%b0%e6%8d%ae%e8%b6%8b%e5%8a%bf" class="tag-cloud-link tag-link-1040 tag-link-position-2 nav_parent" style="font-size: 12px;">大数据趋势</a>
+<a href="https://www.ctocio.com/tag/%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e5%ae%b6" class="tag-cloud-link tag-link-993 tag-link-position-3 nav_parent" style="font-size: 12px;">数据科学家</a>
+<a href="https://www.ctocio.com/tag/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0" class="tag-cloud-link tag-link-1723 tag-link-position-4 nav_parent" style="font-size: 12px;">机器学习</a>
+<a href="https://www.ctocio.com/tag/%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-233 tag-link-position-5 nav_parent" style="font-size: 12px;">网络安全</a>
+<a href="https://www.ctocio.com/tag/%e5%a4%a7%e6%95%b0%e6%8d%ae%e5%ba%94%e7%94%a8" class="tag-cloud-link tag-link-998 tag-link-position-6 nav_parent" style="font-size: 12px;">大数据应用</a>
+<a href="https://www.ctocio.com/tag/%e4%ba%91%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-496 tag-link-position-7 nav_parent" style="font-size: 12px;">云安全</a>
+<a href="https://www.ctocio.com/tag/%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a" class="tag-cloud-link tag-link-1570 tag-link-position-8 nav_parent" style="font-size: 12px;">安全报告</a>
+<a href="https://www.ctocio.com/tag/%e7%a7%bb%e5%8a%a8%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-487 tag-link-position-9 nav_parent" style="font-size: 12px;">移动安全</a>
+<a href="https://www.ctocio.com/tag/%e7%a7%bb%e5%8a%a8%e5%bc%80%e5%8f%91" class="tag-cloud-link tag-link-242 tag-link-position-10 nav_parent" style="font-size: 12px;">移动开发</a>
+<a href="https://www.ctocio.com/tag/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd" class="tag-cloud-link tag-link-804 tag-link-position-11 nav_parent" style="font-size: 12px;">人工智能</a>        </li>
+    </ul>
+    <div class="clear"></div>
+    <div id="headerc">
+    </div>
+</div>
+
+<div id="pagei">
+<div id="page">
+
+<div id="contents-b">
+<div id="content-b"><div class="sitenav">
+    <a href="https://www.ctocio.com">首页</a>&nbsp;&nbsp;»&nbsp;&nbsp;
+    <a href="https://www.ctocio.com/category/bigdata/ai" rel="category tag">人工智能</a></div>
+<br>
+<div id="post-25086" class="post">
+    <h1>麦肯锡人工智能报告：5个行业 34个AI应用场景</h1>
+    <ul class="postinfo">
+        <li>作者：
+            <a href="https://www.ctocio.com/author/cashcow" title="文章作者 Cashcow" rel="author">Cashcow</a>        </li>
+        <li>
+            2017年09月27日        </li>
+        <li class="ncat">
+            <a href="https://www.ctocio.com/category/bigdata/ai" rel="category tag">人工智能</a>        </li>
+
+            </ul>
+    <div class="clear"></div>
+    <div class="entrys">
+        <p>“我觉得不行！”；“我觉得可以！”这正是现在大家看待AI的两种态度。有人觉得现在去谈人工智能的商业化为时尚早，但也有人觉得人工智能已经在企业的许多业务场景中发挥至关重要的作用。无论如何，作为一个刷爆朋友圈，并且曝光度与日俱增的热门话题，许多企业都已经对AI“蠢蠢欲动”，甚至“先下手为强”了。</p>
+<p>不仅大大小小的科技公司都开始纷纷自觉贴上人工智能的标签，许多企业也开始尝试利用人工智能技术不断优化企业的运营。</p>
+<p>这样的方式不仅给消费者带来了便利，也使得可口可乐公司可以更好地收集消费者相关的数据、了解消费者行为，并相应地调整其产品和服务，改善公司的管理运营。</p>
+<p><strong>一、 图解行业场景中的人工智能应用</strong></p>
+<p>这仅仅是人工智能一个非常小的商用案例。关于人工智能的商业化，麦肯锡全球研究院跨越14个行业、10个国家，对3073名企业高管进行了调查，并分析了160个案例，最终发布了《人工智能：下一个数字前沿？》报告，其中，报告详细描述了5个应用案例，并对零售、电力、医疗3个行业应用进行了图解：</p>
+<p><strong>1.零售：连接消费者，改善购物体验</strong></p>
+<p><img decoding="async" class="alignnone size-large wp-image-25088" src="https://www.ctocio.com/wp-content/uploads/2017/09/2017-09-27-000.jpeg" alt="" width="1" height="1"><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-25089" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160027.png" alt="" width="440" height="572" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160027.png 440w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160027-231x300.png 231w" sizes="(max-width: 440px) 100vw, 440px"></p>
+<p>图像识别、机器学习和自然语言处理等技术等发展使得智能服务机器人能够轻松与顾客打招呼、交流，可以预测订单，提供引导</p>
+<p>通过机器学习，可以根据消费者到个人资料进行个性化促销; 在顾客浏览店铺商品时，店内的信标（Beacon）也可以通过手机向他们发送优惠信息</p>
+<p>基于深度学习的计算机视觉技术，可以识别购物者打包的商品; 加上传感器所获取的数据，AI使得自动结帐和付款成为可能</p>
+<p>使用深度学习技术的无人机快递完成了零售业务链最后一英里的交付，能够实现避障并处理收货人不在的状况</p>
+<p><strong>2.电力：更少的电站，更智能的电网</strong></p>
+<p><img decoding="async" class="alignnone size-full wp-image-25090" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160416.png" alt="" width="428" height="575" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160416.png 428w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160416-223x300.png 223w" sizes="(max-width: 428px) 100vw, 428px"></p>
+<p>通过传感器和机器学习系统，可以通过对风力条件的实时调整，最大限度地提高发电效率</p>
+<p>通过机器学习可以预测电力的供需峰值，从而最大限度地利用间歇性可再生能源</p>
+<p>智能电线与机器学习的结合，可以实现实时的电力调度，改善电网负载</p>
+<p>无人机和小型机器人可以在不关停电路的情况下，检测和预测设备故障</p>
+<p>机器可以替代人工自动记录数据并检查设备状态，从而减少对技术人员的需求数量，使他们可以花更多时间解决其它问题</p>
+<p><strong>3、医疗：更快的诊断，更好的治疗</strong></p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-25091" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160654-434x580.png" alt="" width="434" height="580" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160654-434x580.png 434w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160654-224x300.png 224w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160654.png 436w" sizes="(max-width: 434px) 100vw, 434px"></p>
+<p>机器学习程序可以通过可穿戴设备远程分析患者的健康状况，并将数据与其医疗记录进行比较，提供健康建议并预警疾病风险</p>
+<p>使用机器学习和其他相关的AI技术，设备可以进行自主诊断并帮患者做简单的体征指标检查，而无需人力辅助，从而减轻医生和护士的工作压力</p>
+<p>根据患者的历史医疗数据和记录，基于AI的诊断工具可以更准确地诊断疾病</p>
+<p>根据医疗和环境等因素，AI算法可以预测患者行为和疾病的概率，从而优化医院运营、排班计划和库存管理</p>
+<p><strong>4、制造：更智能、更灵活</strong></p>
+<p>对于工程和研发人员而言，人工智能工具的使用意味着更快的周转时间和更少的迭代次数，效率得到大大提升</p>
+<p>获取全球各地的供应商信息，降低采购过程中的成本，更好地管理供应链，使得收益最大化</p>
+<p>项目经理可以使用基于人工智能的高级分析，从而提高审查流程的有效性</p>
+<p>AI可以帮助企业重新审视制造流程和生产线，并针对性地进行优化和调整，从而以降低成本、减少资源浪费，加快企业上市速度</p>
+<p>制造商可以利用AI技术为客户提供更优质的售后服务</p>
+<p>工作人员与工厂的生产线必须更好地进行协同作业，从而挖掘AI的全部潜力，实现其中的价值</p>
+<p><strong>5、教育：不断优化教学形式和效果</strong></p>
+<p>解决教育资源分布不均的问题，并根据市场需求帮助政府机构不断优化教育制度，提高人才与市场的匹配度</p>
+<p>为学生提供更有针对性的教学计划，改善学习成果，并帮助学校不断改进课程组合，提高毕业生就业率</p>
+<p>通过自适应学习系统，在合适的时间以最佳方式向每个学生提供适当的内容，打造个性化教学</p>
+<p>自然语言、计算机视觉和深度学习可以帮助教师回答学生的常规问题或担任教学助教，使得教师可以把更多的时间花在更具价值的教学环节中</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-25092" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160739-580x462.png" alt="" width="580" height="462" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160739-580x462.png 580w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160739-300x239.png 300w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160739.png 593w" sizes="(max-width: 580px) 100vw, 580px"></p>
+<p><em>目前人工智能应用程度最高的企业，也是增加投资意愿最强的企业</em></p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-25093" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160810-580x506.png" alt="" width="580" height="506" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160810-580x506.png 580w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160810-300x262.png 300w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927160810.png 585w" sizes="(max-width: 580px) 100vw, 580px"></p>
+<p>也可以看到，已经采用了AI策略的公司的利润率得到了明显提升</p>
+<p>正因如此，越来越多的企业CEO开始重视人工智能技术的影响，并亲自主导相关项目的开展。据IBM商业价值研究院在今年6月份发布的一项调查结果显示，73%受调查的企业CEO认为，人工智能将为企业的未来起到重要的作用，其中，50%的CEO计划在2019年前采用相关技术。</p>
+<p><strong>二、 企业应用AI技术的10个关键思考点</strong></p>
+<p>当然，还未采用人工智能技术的企业也不必感到焦虑和恐慌。企业未来战略如何布局，如何更好地运用这些技术，在运用过程中如何推进，这些都成为目前摆在企业面前的问题。基于麦肯锡的报告，我们总结了企业在应用AI技术的过程中的10个关键思考点。</p>
+<p><strong>1.不要听信所有炒作：</strong></p>
+<p>其实并非每个企业都已在使用人工智能。虽然人们对AI的投资正在升温，但企业对人工智能技术的采用仍然有些滞后。虽然AI的总投资额（包括内部和外部的）在2016年达到了260亿美元到390亿美元，其中外部投资是2013年的三倍。然而，AI的应用仍处于初步阶段，在麦肯锡的调查对象中，只有20%的受访者在一个或一个以上的业务或是核心业务中大规模使用AI技术。（调查涵盖了五个范畴下的AI技术系统：机器人和自动驾驶汽车、计算机视觉、语言、虚拟代理和机器学习）</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-25094" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161001-580x360.png" alt="" width="580" height="360" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161001-580x360.png 580w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161001-300x186.png 300w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161001.png 586w" sizes="(max-width: 580px) 100vw, 580px"></p>
+<p><strong>2.要相信AI可以提升公司的营收和利润这类“炒作”。</strong></p>
+<p>根据麦肯锡的调查，AI早期采用者（即大规模使用AI或在核心业务采用AI的公司）中有30%的用户表示他们已经实现了收入的增长，利用AI获得了更高的市场份额，或提升了产品和服务能力。此外，AI早期采用者中预计自己公司的利润率增长到比同行高出5%的人相较其他人要多3.5倍。证据表明，人工智能已经能够直接提高企业利润，使得AI投资的投资回报率（ROI）与其相关数字技术范畴的投资回报率相同，如大数据和高级分析。</p>
+<p><strong>3.没有领导的支持，你的AI转型计划可能会失败。</strong></p>
+<p>成功的人工智能采用者往往拥有领导对新技术最强有力的支持。调查反馈显示，已经成功大规模部署AI技术的调查对象得到公司管理层的支持率几乎是那些没有采用任何AI技术支持的公司的2倍。此外，除了从其公司CEO和IT部门主管那里获得了强有力的支持，他们还获得了来自全部管理层高管和董事会的支持。</p>
+<p><strong>4.不要一个人独立专研AI，你还需要合作伙伴的才干和能力。</strong></p>
+<p>经历数十年的“寒冬”，人工智能领域最近才开始加速其创新的步伐，而具备专业技术和能力人才也出现了稀缺的情况。即便是亚马逊和谷歌这样的大型数字原生代公司也开始转向通过外部市场的企业和人才，以增强其自身的AI技能。例如Google对DeepMind公司的收购，正是因为DeepMind能够运用其机器学习能力帮助Google提升搜索优化等核心业务。另外，据调查显示，AI的早期使用者主要是通过购买外部适用的技术解决方案来实现，只有少数的调查对象完全是由公司内部人才开发和实施人工智能解决方案。</p>
+<p><strong>5.避免让技术团队独立进行人工智能项目和计划。</strong></p>
+<p>在IT、数字或创新领域分别任命不同的部门主管，划分人工智能的管理职责，可能会导致“拿着锤子找钉子”的结果出现，为确保企业能够把关注点放在最有价值的案例上，人工智能项目应该由业务和技术部门主管共同评估和领导。</p>
+<p><strong>6.采用投资组合的方式加速公司的AI历程。</strong></p>
+<p>AI工具如今的应用范围已相当广泛，能够解决具体商业问题，例如用于预测性维护等等。各组织机构可以考虑在融合AI技术时采用一种基于投资组合的方法。</p>
+<p><strong>7.机器学习是一种强大的工具，但它并非适用于所有事物。</strong></p>
+<p>机器学习及其最为突出的子领域深度学习已经吸引了众多媒体的关注，并获得了占据2016年所有外部投资近60%份额的融资。</p>
+<p>但即便如此，机器学习也只是众多能够解决企业问题的人工智能技术中的一项。并不存在什么放之四海而皆可用的人工智能解决方案。例如，为实现客户服务中心效率的提高所采用的AI技术可能与用于识别信用卡诈骗风险所采用的技术迥然不同。因此，在一个企业的数字与AI技术应用历程的特定阶段，寻找合适的工具解决每一个增值的业务问题才是至关重要的。</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-25095" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161146.png" alt="" width="529" height="515" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161146.png 529w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161146-300x292.png 300w" sizes="(max-width: 529px) 100vw, 529px"></p>
+<p><em>不同的人工智能技术之间是有交集的</em></p>
+<p><strong>8.数字化能力应该优先于AI。</strong></p>
+<p>调查发现，在AI应用方面领先的行业，如高科技、电信和汽车等，也是数字化程度最高的行业。同样，所有早期应用AI技术的企业都已在包括云基础架构和大数据的数字化能力方面进行了投资。事实上，没有数字化转型经验的企业似乎很难轻易地跳跃到AI领域。通过一连串的统计分析，我们发现在数字化方面经验较多的企业在融合AI技术时创造出利润的可能性相比其他公司要高出50%。</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-25097" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161359.png" alt="" width="543" height="558" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161359.png 543w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161359-292x300.png 292w" sizes="(max-width: 543px) 100vw, 543px"></p>
+<p><em>数字化程度更高的行业和价值链更快采用了人工智能技术</em></p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-25098" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161513.png" alt="" width="571" height="252" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161513.png 571w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161513-300x132.png 300w" sizes="(max-width: 571px) 100vw, 571px"></p>
+<p><strong>9.要大胆勇敢。</strong></p>
+<p>在一项关于数字化颠覆（digital disruption）的独立研究中，我们发现要扭转数字化颠覆的“魔咒”，采取更“激进”的数字化战略是最重要的因素。采用这样策略的企业将从根本上调整其业务的投资组合，开发新的商业模式，以构建一个比其数字化前更加强大的增长途径。截至目前，这一因素似乎也适用于AI：AI的早期应用者中恰好采取积极、“激进”策略的企业较其他企业拥有更好的利润前景。</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-25099" src="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161623.png" alt="" width="542" height="527" srcset="https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161623.png 542w, https://www.ctocio.com/wp-content/uploads/2017/09/微信截图_20170927161623-300x292.png 300w" sizes="(max-width: 542px) 100vw, 542px"></p>
+<p><em>AI转型与数字化转型所需的相似的条件和要素</em></p>
+<p><strong>10.人与流程是最大的挑战。</strong></p>
+<p>多数情况下，对管理层而言，将AI纳入到企业的流程和决策过程的挑战其实远远超过了实施AI的技术性挑战。作为领导者，需要决定哪些任务由机器处理，哪些任务由人类执行，而且无论是新任务还是传统任务，实施能够让员工持续学习的程序将是至关重要的。随着AI技术与先进的可视化技术、协作和设计思维的继续融合，企业未来需要将主要关注点从流程效率转向决策管理的有效性，而这将进一步要求领导者打造一个持续改进和学习的文化氛围。</p>
+<p>毫无疑问，AI就是下一个数字前沿。尽管一些公司仍未从之前的数字化颠覆中“缓”过来，但新的数字化颠覆正在成型。不过目前我们仍在早期阶段，还有时间将AI打造成自己的竞争优势。不妨先从这10条建议入手，开始规划自己的人工智能战略吧。</p>
+<p>整理：<a href="https://mp.weixin.qq.com/s/kdISswd9Nw2ZgI_GZt8PoQ" target="_blank" rel="noopener">人工智能学家 Altists</a></p>
+        <!--<div class='wp-pagenavi' role='navigation'>
+<span class='pages'>第 1 页</span><span aria-current='page' class='current'>1</span>
+</div>-->
+        <div class="wp-pagenavi">
+                    </div>
+    </div>
+    <div class="clear"></div>
+    <code>
+<div class="entry"><p><strong>第一时间获取面向IT决策者的独家深度资讯，敬请关注IT经理网微信号：ctociocom</strong></p></div>
+<div class="entry"><img src="https://www.ctocio.com/images/qrcode.jpg"></div>
+
+<div class="entry">&nbsp;&nbsp;&nbsp;<h3>除非注明，本站文章均为原创或编译，未经许可严禁转载。</h3></div>
+
+<div class="entry">
+<b>相关文章：</b>
+
+<ul id="tags_related">
+                    <li style="list-style-type:none"><a href="https://www.ctocio.com/ccnews/40027.html" rel="bookmark" title="谷歌AI聊天机器人比真人医生更受病人欢迎">谷歌AI聊天机器人比真人医生更受病人欢迎</a></li>
+                                      <li style="list-style-type:none"><a href="https://www.ctocio.com/ccnews/40011.html" rel="bookmark" title="人工智能和高性能计算把科研速度提高了10倍">人工智能和高性能计算把科研速度提高了10倍</a></li>
+                                      <li style="list-style-type:none"><a href="https://www.ctocio.com/ccnews/39987.html" rel="bookmark" title="顶级风险投资2024年AI预测">顶级风险投资2024年AI预测</a></li>
+                                      <li style="list-style-type:none"><a href="https://www.ctocio.com/bigdata/ai/39936.html" rel="bookmark" title="IDC：人工智能投资回报率高达250%">IDC：人工智能投资回报率高达250%</a></li>
+                                      <li style="list-style-type:none"><a href="https://www.ctocio.com/ccnews/39647.html" rel="bookmark" title="人工智能竞标公司AutogenAI进军美国市场">人工智能竞标公司AutogenAI进军美国市场</a></li>
+                                      <li style="list-style-type:none"><a href="https://www.ctocio.com/ccnews/39417.html" rel="bookmark" title="2024年AI将是最大IT支出项目，预算是云计算的两倍">2024年AI将是最大IT支出项目，预算是云计算的两倍</a></li>
+                                      <li style="list-style-type:none"><a href="https://www.ctocio.com/ccnews/39000.html" rel="bookmark" title="人工智能应用的黑马：零售业">人工智能应用的黑马：零售业</a></li>
+                                      <li style="list-style-type:none"><a href="https://www.ctocio.com/bigdata/ai/38374.html" rel="bookmark" title="ChatGPT通过美国医疗执照考试">ChatGPT通过美国医疗执照考试</a></li>
+                  </ul>
+
+
+</div>
+<div class="tags">标签： <a href="https://www.ctocio.com/tag/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8" rel="tag">人工智能应用</a>, <a href="https://www.ctocio.com/tag/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ba%94%e7%94%a8%e6%a1%88%e4%be%8b" rel="tag">人工智能应用案例</a>, <a href="https://www.ctocio.com/tag/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%8a%a5%e5%91%8a" rel="tag">人工智能报告</a></div><br>
+<ul>
+
+
+
+
+
+
+    </ul></code>
+    <div class="clear"></div>
+    <br>
+    <h4>关于作者<a href="https://www.ctocio.com/author/cashcow" title="文章作者 Cashcow" rel="author">Cashcow</a></h4>
+    <div class="author">
+        <img alt="" src="https://www.ctocio.com/wp-content/uploads/avatars/10/61541696c9889-bpfull.png" srcset="https://www.ctocio.com/wp-content/uploads/avatars/10/61541696c9889-bpfull.png 2x" class="avatar avatar-70 photo" height="70" width="70" loading="lazy" decoding="async">        <p>
+            隐私已经死去，软件正在吃掉世界，数据即将爆炸        </p>
+        <div class="clear"></div>
+    </div>
+    <!--上一篇-->
+    <div class="nav">
+        <div class="alignleft">
+            <strong>上一篇«<a href="https://www.ctocio.com/ccnews/25080.html" rel="prev">德勤遭遇公司史上最严重黑客攻击，超500万封电子邮件和大量客户知识产权恐被泄露</a></strong></div>
+        <div class="alignright">
+            <strong><a href="https://www.ctocio.com/conference/25101.html" rel="next">深度聚焦金融机构•数据业务的创新与发展</a>»下一篇</strong></div>
+        <div class="clear"></div>
+    </div>
+    <p></p>
+
+</div>
+</div>
+<div id="sidebar">
+<form class="searchform" method="get" action="https://www.ctocio.com">
+<fieldset>
+<input type="text" value="" name="s" id="s" class="searchinput">
+<input type="hidden" name="cat" value="2491,2817,992,67,125,7,13,8,6,657,5,654,3431,619,658,662,2378,619,2123,660,3456,659,2212,1864,216,602,653,162,150,754,652,579,651,215,4330,647,650,621,215,648,649,3539,3437,9,4463,4021,1,4002,669,14,839,656,632,655,563,1070,3981,638,564,645,3737,642,640,627,646,4046,643,641,644,701,639,11,1554,665,666,663,664,4,12,2319,214" <button="" class="searchbutton">搜索
+</fieldset>
+</form>
+<div class="clear"></div>
+<ul id="tabs" class="tabs" style="margin:5px 0 0 0">
+    <li><a href="#" rel="viewed" class="selected">本周热门</a></li>
+    <li><a href="#" rel="viewedmonth" class="">本月热门</a></li>
+    <li><a href="#" rel="discussed" class="">评论排行</a></li>
+
+    <li><a href="#" rel="tags" class="">标签云</a></li>
+</ul>
+<div class="clear"></div>
+<div id="viewed" class="tabcontent" style="display: block;">
+    <ol>
+        <li><a href="https://www.ctocio.com/ccnews/40768.html">亚马逊进军核电</a> </li><li><a href="https://www.ctocio.com/ccnews/40765.html">马斯克放言星链十倍提速，宽带卫星通信时代即将到来</a> </li><li><a href="https://www.ctocio.com/ccnews/40759.html">欧莱雅的生成式人工智能战略</a> </li><li><a href="https://www.ctocio.com/ccnews/40762.html">量子危机提前到来？中国学者用量子计算破译RSA！</a> </li><li><a href="https://www.ctocio.com/ccnews/40773.html">从丰田到小米：福特CEO眼中的电动车市场新格局</a> </li><li><a href="https://www.ctocio.com/conference/40777.html">深圳市物联传媒有限公司荣膺广东省会展企业百强，IOTE物联网展再获殊荣!</a> </li>    </ol>
+</div>
+<div id="viewedmonth" class="tabcontent" style="display: none;">
+    <ol>
+        <li><a href="https://www.ctocio.com/ccnews/40768.html">亚马逊进军核电</a> </li><li><a href="https://www.ctocio.com/ccnews/40765.html">马斯克放言星链十倍提速，宽带卫星通信时代即将到来</a> </li><li><a href="https://www.ctocio.com/ccnews/40759.html">欧莱雅的生成式人工智能战略</a> </li><li><a href="https://www.ctocio.com/ccnews/40762.html">量子危机提前到来？中国学者用量子计算破译RSA！</a> </li><li><a href="https://www.ctocio.com/ccnews/40773.html">从丰田到小米：福特CEO眼中的电动车市场新格局</a> </li><li><a href="https://www.ctocio.com/conference/40777.html">深圳市物联传媒有限公司荣膺广东省会展企业百强，IOTE物联网展再获殊荣!</a> </li>    </ol>
+</div>
+<div id="discussed" class="tabcontent" style="display: none;">
+    <ol>
+      
+        <li><a href="https://www.ctocio.com/internet/35924.html">大数据广告暗黑史：百亿程序化的消亡</a></li>
+        <li><a href="https://www.ctocio.com/ccnews/16649.html">手机平板iOS/Android一键通吃，微软推出通用蓝牙键盘</a></li>
+        <li><a href="https://www.ctocio.com/ccnews/30732.html">2019看板工具流行榜</a></li>
+        <li><a href="https://www.ctocio.com/hotnews/30078.html">工业软件发展过程中的五点反思与四大致命问题</a></li>
+        <li><a href="https://www.ctocio.com/ccnews/31513.html">谷歌、Twitter 先后开始远程办公，工程师发文吐槽：VPN 都是垃圾</a></li>
+        <li><a href="https://www.ctocio.com/security/datasafety/31290.html">RSAC 2020创新沙盒十强分析：应用安全、云安全为技术热点方向</a></li>
+        <li><a href="https://www.ctocio.com/ccnews/29258.html">新技术时代的办公2.0：我们不再需要办公室和996？</a></li>
+        <li><a href="https://www.ctocio.com/ccnews/28545.html">网站可访问性的五个自动化测试工具</a></li>
+        <li><a href="https://www.ctocio.com/ccnews/30398.html">ENISA发布第二版《智能汽车网络安全最佳实践研究报告》</a></li>
+        <li><a href="https://www.ctocio.com/points/8299.html">马克·安德森：软件正在吃掉世界</a></li>
+    
+    </ol>
+</div>
+
+<div id="tags" class="tabcontent" style="display: none;">
+    <a href="https://www.ctocio.com/tag/android" class="tag-cloud-link tag-link-51 tag-link-position-1" style="font-size: 9.0967741935484pt;" aria-label="Android (39 项)">Android</a>
+<a href="https://www.ctocio.com/tag/app%e6%8e%a8%e8%8d%90" class="tag-cloud-link tag-link-1530 tag-link-position-2" style="font-size: 9.8709677419355pt;" aria-label="app推荐 (52 项)">app推荐</a>
+<a href="https://www.ctocio.com/tag/byod" class="tag-cloud-link tag-link-556 tag-link-position-3" style="font-size: 9.2258064516129pt;" aria-label="BYOD (41 项)">BYOD</a>
+<a href="https://www.ctocio.com/tag/chatgpt" class="tag-cloud-link tag-link-5519 tag-link-position-4" style="font-size: 8.8387096774194pt;" aria-label="chatGPT (35 项)">chatGPT</a>
+<a href="https://www.ctocio.com/tag/cio" class="tag-cloud-link tag-link-3651 tag-link-position-5" style="font-size: 8.1935483870968pt;" aria-label="CIO (28 项)">CIO</a>
+<a href="https://www.ctocio.com/tag/cmo" class="tag-cloud-link tag-link-1303 tag-link-position-6" style="font-size: 8.8387096774194pt;" aria-label="CMO (35 项)">CMO</a>
+<a href="https://www.ctocio.com/tag/facebook" class="tag-cloud-link tag-link-27 tag-link-position-7" style="font-size: 8.3870967741935pt;" aria-label="facebook (30 项)">facebook</a>
+<a href="https://www.ctocio.com/tag/gartner" class="tag-cloud-link tag-link-103 tag-link-position-8" style="font-size: 8.6451612903226pt;" aria-label="Gartner (33 项)">Gartner</a>
+<a href="https://www.ctocio.com/tag/hadoop" class="tag-cloud-link tag-link-323 tag-link-position-9" style="font-size: 9.6774193548387pt;" aria-label="Hadoop (48 项)">Hadoop</a>
+<a href="https://www.ctocio.com/tag/html5" class="tag-cloud-link tag-link-194 tag-link-position-10" style="font-size: 8.3225806451613pt;" aria-label="HTML5 (29 项)">HTML5</a>
+<a href="https://www.ctocio.com/tag/ibm" class="tag-cloud-link tag-link-17 tag-link-position-11" style="font-size: 8.5161290322581pt;" aria-label="IBM (31 项)">IBM</a>
+<a href="https://www.ctocio.com/tag/it%e6%8b%9b%e8%81%98" class="tag-cloud-link tag-link-357 tag-link-position-12" style="font-size: 8.1290322580645pt;" aria-label="IT招聘 (27 项)">IT招聘</a>
+<a href="https://www.ctocio.com/tag/nsa" class="tag-cloud-link tag-link-1879 tag-link-position-13" style="font-size: 9.5483870967742pt;" aria-label="NSA (46 项)">NSA</a>
+<a href="https://www.ctocio.com/tag/openstack" class="tag-cloud-link tag-link-318 tag-link-position-14" style="font-size: 8.1935483870968pt;" aria-label="OpenStack (28 项)">OpenStack</a>
+<a href="https://www.ctocio.com/tag/twitter" class="tag-cloud-link tag-link-42 tag-link-position-15" style="font-size: 8.3225806451613pt;" aria-label="twitter (29 项)">twitter</a>
+<a href="https://www.ctocio.com/tag/web%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-366 tag-link-position-16" style="font-size: 8.9032258064516pt;" aria-label="web安全 (36 项)">web安全</a>
+<a href="https://www.ctocio.com/tag/%e4%b8%aa%e4%ba%ba%e4%bf%a1%e6%81%af%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-2230 tag-link-position-17" style="font-size: 8.7096774193548pt;" aria-label="个人信息安全 (34 项)">个人信息安全</a>
+<a href="https://www.ctocio.com/tag/%e4%ba%91%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-496 tag-link-position-18" style="font-size: 10.064516129032pt;" aria-label="云安全 (55 项)">云安全</a>
+<a href="https://www.ctocio.com/tag/cloud" class="tag-cloud-link tag-link-3653 tag-link-position-19" style="font-size: 8.9032258064516pt;" aria-label="云计算 (36 项)">云计算</a>
+<a href="https://www.ctocio.com/tag/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd" class="tag-cloud-link tag-link-804 tag-link-position-20" style="font-size: 12pt;" aria-label="人工智能 (112 项)">人工智能</a>
+<a href="https://www.ctocio.com/tag/enterprise20" class="tag-cloud-link tag-link-3658 tag-link-position-21" style="font-size: 8.1290322580645pt;" aria-label="企业2.0 (27 项)">企业2.0</a>
+<a href="https://www.ctocio.com/tag/%e5%8a%9e%e5%85%acapp" class="tag-cloud-link tag-link-1466 tag-link-position-22" style="font-size: 8.6451612903226pt;" aria-label="办公app (33 项)">办公app</a>
+<a href="https://www.ctocio.com/tag/%e5%8c%ba%e5%9d%97%e9%93%be%e5%ba%94%e7%94%a8" class="tag-cloud-link tag-link-4410 tag-link-position-23" style="font-size: 8.1935483870968pt;" aria-label="区块链应用 (28 项)">区块链应用</a>
+<a href="https://www.ctocio.com/tag/%e5%a4%a7%e6%95%b0%e6%8d%ae" class="tag-cloud-link tag-link-457 tag-link-position-24" style="font-size: 9.0967741935484pt;" aria-label="大数据 (39 项)">大数据</a>
+<a href="https://www.ctocio.com/tag/%e5%a4%a7%e6%95%b0%e6%8d%ae%e5%b7%a5%e5%85%b7" class="tag-cloud-link tag-link-1046 tag-link-position-25" style="font-size: 8.1290322580645pt;" aria-label="大数据工具 (27 项)">大数据工具</a>
+<a href="https://www.ctocio.com/tag/%e5%a4%a7%e6%95%b0%e6%8d%ae%e5%ba%94%e7%94%a8" class="tag-cloud-link tag-link-998 tag-link-position-26" style="font-size: 9.8709677419355pt;" aria-label="大数据应用 (52 项)">大数据应用</a>
+<a href="https://www.ctocio.com/tag/%e5%a4%a7%e6%95%b0%e6%8d%ae%e8%b6%8b%e5%8a%bf" class="tag-cloud-link tag-link-1040 tag-link-position-27" style="font-size: 8.3225806451613pt;" aria-label="大数据趋势 (29 项)">大数据趋势</a>
+<a href="https://www.ctocio.com/tag/%e5%ae%89%e5%85%a8%e5%b7%a5%e5%85%b7" class="tag-cloud-link tag-link-2220 tag-link-position-28" style="font-size: 8.9032258064516pt;" aria-label="安全工具 (36 项)">安全工具</a>
+<a href="https://www.ctocio.com/tag/%e5%ae%89%e5%85%a8%e6%84%8f%e8%af%86" class="tag-cloud-link tag-link-513 tag-link-position-29" style="font-size: 8.5161290322581pt;" aria-label="安全意识 (31 项)">安全意识</a>
+<a href="https://www.ctocio.com/tag/%e5%ae%89%e5%85%a8%e6%8a%a5%e5%91%8a" class="tag-cloud-link tag-link-1570 tag-link-position-30" style="font-size: 10.322580645161pt;" aria-label="安全报告 (60 项)">安全报告</a>
+<a href="https://www.ctocio.com/tag/%e5%be%ae%e8%bd%af" class="tag-cloud-link tag-link-19 tag-link-position-31" style="font-size: 9.2903225806452pt;" aria-label="微软 (42 项)">微软</a>
+<a href="https://www.ctocio.com/tag/%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83" class="tag-cloud-link tag-link-347 tag-link-position-32" style="font-size: 8.9677419354839pt;" aria-label="数据中心 (37 项)">数据中心</a>
+<a href="https://www.ctocio.com/tag/%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e5%ae%b6" class="tag-cloud-link tag-link-993 tag-link-position-33" style="font-size: 8.5806451612903pt;" aria-label="数据科学家 (32 项)">数据科学家</a>
+<a href="https://www.ctocio.com/tag/%e6%99%ba%e8%83%bd%e5%88%b6%e9%80%a0" class="tag-cloud-link tag-link-2251 tag-link-position-34" style="font-size: 8.1290322580645pt;" aria-label="智能制造 (27 项)">智能制造</a>
+<a href="https://www.ctocio.com/tag/%e6%99%ba%e8%83%bd%e5%ae%b6%e5%b1%85" class="tag-cloud-link tag-link-560 tag-link-position-35" style="font-size: 8.7096774193548pt;" aria-label="智能家居 (34 项)">智能家居</a>
+<a href="https://www.ctocio.com/tag/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0" class="tag-cloud-link tag-link-1723 tag-link-position-36" style="font-size: 9.3548387096774pt;" aria-label="机器学习 (43 项)">机器学习</a>
+<a href="https://www.ctocio.com/tag/%e6%af%94%e7%89%b9%e5%b8%81" class="tag-cloud-link tag-link-1914 tag-link-position-37" style="font-size: 8.1290322580645pt;" aria-label="比特币 (27 项)">比特币</a>
+<a href="https://www.ctocio.com/tag/%e6%b7%b1%e5%ba%a6%e5%ad%a6%e4%b9%a0" class="tag-cloud-link tag-link-1794 tag-link-position-38" style="font-size: 9.3548387096774pt;" aria-label="深度学习 (43 项)">深度学习</a>
+<a href="https://www.ctocio.com/tag/%e7%89%a9%e8%81%94%e7%bd%91" class="tag-cloud-link tag-link-730 tag-link-position-39" style="font-size: 8pt;" aria-label="物联网 (26 项)">物联网</a>
+<a href="https://www.ctocio.com/tag/%e7%89%a9%e8%81%94%e7%bd%91%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-1790 tag-link-position-40" style="font-size: 8.1935483870968pt;" aria-label="物联网安全 (28 项)">物联网安全</a>
+<a href="https://www.ctocio.com/tag/%e7%a7%bb%e5%8a%a8%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-487 tag-link-position-41" style="font-size: 10.903225806452pt;" aria-label="移动安全 (74 项)">移动安全</a>
+<a href="https://www.ctocio.com/tag/%e7%a7%bb%e5%8a%a8%e5%bc%80%e5%8f%91" class="tag-cloud-link tag-link-242 tag-link-position-42" style="font-size: 11.032258064516pt;" aria-label="移动开发 (78 项)">移动开发</a>
+<a href="https://www.ctocio.com/tag/%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8" class="tag-cloud-link tag-link-233 tag-link-position-43" style="font-size: 9.8064516129032pt;" aria-label="网络安全 (50 项)">网络安全</a>
+<a href="https://www.ctocio.com/tag/%e8%8b%b9%e6%9e%9c" class="tag-cloud-link tag-link-70 tag-link-position-44" style="font-size: 8.5806451612903pt;" aria-label="苹果 (32 项)">苹果</a>
+<a href="https://www.ctocio.com/tag/%e8%bd%af%e4%bb%b6%e5%bc%80%e5%8f%91" class="tag-cloud-link tag-link-74 tag-link-position-45" style="font-size: 9.2258064516129pt;" aria-label="软件开发 (41 项)">软件开发</a></div>
+<script type="text/javascript">
+var tabs = new ddtabcontent("tabs")
+tabs.setpersist(false)
+tabs.setselectedClassTarget("link")
+tabs.init()
+</script>
+
+<div id="downdata">
+    <div class="headerFour">
+        <p><a href="#" title="专栏作家">&nbsp;&nbsp;CTOCIO专栏</a></p>
+    </div>
+    <div class="content">
+        <table>
+            <tbody><tr>
+
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/wangmeng" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/avatars/wangmeng50.png">
+                            <br>王萌</a>
+                    </div>
+                </td>
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/daijian" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/wp-content/uploads/avatars/309910/61458c680b7f6-bpfull.jpg">
+                            <br>戴剑</a>
+                    </div>
+                </td>
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/songyan" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/avatars/songyan50.png">
+                            <br>宋妍</a>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <br>
+        <table>
+            <tbody><tr>
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/guozhaohui" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/wp-content/uploads/2016/11/777111352321708524-150x150.jpg">
+                            <br>郭朝晖</a>
+                    </div>
+                </td>
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/liuchaoyang" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/avatars/liuchaoyang50.png">
+                            <br>刘朝阳</a>
+                    </div>
+                </td>
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/zhaomin" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/avatars/zhaomin.png">
+                            <br>赵敏</a>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <br>
+        <table>
+            <tbody><tr>
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/rikferguson" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/avatars/rikferguson50.png">
+                            <br>Rik Ferguson</a>
+                    </div>
+                </td>
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/jean-paul-smets" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/wp-content/uploads/2014/02/Smets-Jean-Paul_avatar_1392577141-126x126.jpg">
+                            <br>Jean-Paul Smets</a>
+                    </div>
+                </td>
+                <td width="100" align="center">
+                    <div align="center">
+                        <a href="https://www.ctocio.com/author/zhanglin" target="_blank"><img class="attachment-50.5 wp-post-image" width="65" height="65" src="https://www.ctocio.com/avatars/zhanglin50.png">
+                            <br>张霖</a>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        <br>
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+
+
+
+
+
+<br>
+<div id="downdata">
+<div class="headerFour"><p><a href="https://www.ctocio.com/downloads/" title="更多下载">&nbsp;&nbsp;下载</a></p></div>
+<ul id="mid-latest">
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2018/07/20230913160456-150x150.png" class="attachment-50.5 size-50.5 wp-post-image" alt="人工智能安全" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/downloads/39497.html" rel="bookmark" title="人工智能对知识工作者生产力和工作质量影响报告">人工智能对知识工作者生产力和工作质量影响报告</a></h5>
+	<p>根据哈佛商学院技术管理运营研究所与波士顿咨询集团的研究，大语言模型 (LLM) 可显著提高知识工作者的生产力和工作质量。 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2022/03/20220301164246-150x150.png" class="attachment-50.5 size-50.5 wp-post-image" alt="" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/reports/36590.html" rel="bookmark" title="99条赛道·700+厂商 | 「Cyber Security Billboard」第1版正式发布·附下载">99条赛道·700+厂商 | 「Cyber Security Billboard」第1版正式发布·附下载</a></h5>
+	<p>本次调研得到了国内近500家厂商的积极参与与反馈，经梳理整合，现正式发布。 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2020/10/微信截图_20201009131118-150x150.png" class="attachment-50.5 size-50.5 wp-post-image" alt="" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/security/websafety/33034.html" rel="bookmark" title="云主机上必备的10个开源安全工具">云主机上必备的10个开源安全工具</a></h5>
+	<p>云主机上建议常备的安全开源工具。 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2020/05/image001-1-150x150.jpg" class="attachment-50.5 size-50.5 wp-post-image" alt="" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/downloads/31892.html" rel="bookmark" title="Kali Linux 2020.2正式发布">Kali Linux 2020.2正式发布</a></h5>
+	<p>Offensive Security发布了开源渗透测试平台Kali Linux的最新版本 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2019/03/人工智能深度伪造2-150x150.jpeg" class="attachment-50.5 size-50.5 wp-post-image" alt="" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/downloads/28937.html" rel="bookmark" title="如何用人工智能技术制作deepfake深度伪造视频">如何用人工智能技术制作deepfake深度伪造视频</a></h5>
+	<p>利用人工智能神经网络技术已经能够合成几可乱真的深度伪造（Deepfake）视频，这使得未来的网络谣言传播和网络欺诈更加难以防范 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	</ul>
+</div>
+<br><!-- 广告位：CTOCIO-right -->
+
+<br>
+<div id="downdata">
+<div class="headerFour"><p><a href="https://www.ctocio.com/category/sponsored-content/" title="更多赞助内容">&nbsp;&nbsp;企业供稿</a></p></div>
+<ul id="mid-latest">
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2022/12/image001-2-150x150.jpg" class="attachment-50.5 size-50.5 wp-post-image" alt="" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/sponsored-content/37927.html" rel="bookmark" title="新一代浪潮K1 Power高端服务器上市 &nbsp;引领中国关键计算产业发展">新一代浪潮K1 Power高端服务器上市 &nbsp;引领中国关键计算产业发展</a></h5>
+	<p>新一代产品采用最新Power10处理器，全面优化系统架构设计，整机性能相较上一代产品提升70%。 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2021/07/20210713093450-150x150.png" class="attachment-50.5 size-50.5 wp-post-image" alt="" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/sponsored-content/34641.html" rel="bookmark" title="Infoblox 3.0将混合DDI与安全相结合，开启云优先战略">Infoblox 3.0将混合DDI与安全相结合，开启云优先战略</a></h5>
+	<p>Infoblox 3.0利用业界领先的DDI和DNS安全解决方案，支持企业本地、虚拟、云和混合部署的现代化网络定制需求。 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2022/01/20220124110523-150x150.jpg" class="attachment-50.5 size-50.5 wp-post-image" alt="" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/sponsored-content/36426.html" rel="bookmark" title="NVIDIA，为未来数据中心应用“拾柴添薪”">NVIDIA，为未来数据中心应用“拾柴添薪”</a></h5>
+	<p>DPU开始承担数据处理基础设施侧的任务，解决数据中心基础设施的效率问题，并将CPU释放出来，执行它所擅长的应用程序处理。 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	    <ul>
+    <div id="downlink">
+	<p>
+	                    <img width="51" height="51" src="https://www.ctocio.com/wp-content/uploads/2019/09/微信图片_20190920144410-150x150.jpg" class="attachment-50.5 size-50.5 wp-post-image" alt="" decoding="async" loading="lazy">            		</p><h5><a href="https://www.ctocio.com/sponsored-content/30008.html" rel="bookmark" title="DDN助力TACC Frontera让不可能成为可能">DDN助力TACC Frontera让不可能成为可能</a></h5>
+	<p>DDN很荣幸能与TACC保持多年的合作关系，这次Frontera采用了DDN业内领先的高性能计算存储解决方案，Frontera提供了总计38.7Pflops浮点运算的峰值性能。 </p>
+   <p></p>
+	</div>
+	<div class="clear"></div>
+     </ul>
+	</ul>
+</div>
+
+<br>
+<div id="downdata">
+<div class="headerFour"><p><a href="https://www.ctocio.com/link" title="ESG合作伙伴">&nbsp;&nbsp;ESG合作伙伴</a></p></div>
+<p><a href="http://polarhub.org.cn" target="_blank"><img src="https://www.ctocio.com/wp-content/uploads/2023/04/jidi-logo.png"></a></p>
+<p><a href="https://www.zhixiaotongxin.com" target="_blank"><img src="https://www.ctocio.com/wp-content/uploads/2023/04/zhixiao-logo.png"></a></p>
+<p><a href="https://www.rapid.space/" target="_blank"><img src="https://www.ctocio.com/wp-content/uploads/2024/02/rapidspace-Website.png"></a></p>
+</div>
+
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+<div class="footer_biz">
+  <div class="PT20 PB20 brdb_gl">
+	  <div class="FL list" style="width:60px; margin-right:50px;">
+			<ul>
+				&nbsp;
+			</ul>
+		</div>
+		<div class="FL" style="width:55px; margin-right:50px;">
+			<div>
+				<div class="MB5"><a href="https://www.ctocio.com/?cat=563" class="b_13"><strong>行业</strong></a></div>
+				<ul>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=638">制造</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=639">零售</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=640">教育</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=564">医疗</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=641">能源</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=642">政府</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=643">电信</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=644">航空</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=645">媒体</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=646">汽车</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=695">服务</a></li>
+                <li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=701">金融</a></li>
+				<li style="border-bottom:0px;list-style-type:none"><a href="https://www.ctocio.com/?cat=627">旅游</a></li>
+			</ul>
+				<div class="PT20"></div><ul></ul></div>
+		</div>
+		<div class="FL" style="width:60px; margin-right:50px;">
+			<div>
+				<div class="MB5"><a href="https://www.ctocio.com/?cat=216" class="b_13" style="text-transform:uppercase;"><strong>应用</strong></a></div>
+				<ul>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=162">CRM</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=150">ERP</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=602">BI</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=651">物联网</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=652">SCM</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=653">BPM</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=654">大数据</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=579">企业2.0</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=669">移动</a></li>
+				<li style="border-bottom:0px;list-style-type:none"><a href="https://www.ctocio.com/?cat=21" title="Collaboration">CIO库</a></li>
+			</ul>
+				<div class="PT20"></div><ul></ul></div>
+		</div>
+		<div class="FL" style="width:60px; margin-right:50px;">
+			<div>
+				<div class="MB5"><a href="https://www.ctocio.com/?cat=14" class="b_13" style="text-transform:uppercase;"><strong>管理</strong></a></div>
+				<ul>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=4">观点</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=655">领导力</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=7">人物</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=632">职场</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=8">公司</a></li>
+        <li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=656">招聘</a></li>
+        <li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=12">读书</a></li>
+        <li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=9">报告</a></li>
+        <li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=657">创业</a></li>
+				<li style="border-bottom:0px;list-style-type:none"><a href="https://www.ctocio.com/?cat=13">会务</a></li>
+				</ul>
+                 <div class="PT20"></div><ul></ul></div>
+		</div>
+        <div class="FL" style="width:60px; margin-right:50px;">
+			<div>
+				<div class="MB5"><a href="https://www.ctocio.com/?cat=215" class="b_13" style="text-transform:uppercase;"><strong>技术</strong></a></div>
+				<ul>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=67">云计算</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=647">存储</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=621">网络</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=648">计算</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=649">软件</a></li>
+                <li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=650">数据中心</a></li>
+				<li style="border-bottom:0px;list-style-type:none"><a href="https://www.ctocio.com/?cat=23">CTO库</a></li>
+				</ul>
+                 <div class="PT20"></div><ul></ul></div>
+		</div>
+		<div class="FL" style="width:60px; margin-right:50px;">
+			<div>
+				<div class="MB5"><a href="https://www.ctocio.com/?cat=619" class="b_13" style="text-transform:uppercase;"><strong>安全</strong></a></div>
+				<ul>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=658">WEB安全</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=659">数据安全</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=660">安全管理</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=661">安全审计</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=662">入侵侦测</a></li>
+				<li style="border-bottom:0px;list-style-type:none"><a href="https://www.ctocio.com/?cat=1864">通信安全</a></li>
+				</ul>
+				<div class="PT20"><a href="https://www.ctocio.com/?cat=11" class="b_13" style="text-transform:uppercase;"><strong>装备</strong></a></div>
+				<ul>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=663">移动设备</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=664">苹果</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/?cat=665">家庭网络</a></li>
+				<li style="border-bottom:0px;list-style-type:none"><a href="https://www.ctocio.com/?cat=666">应用程序</a></li>
+				</ul>
+			</div>
+		</div>
+         <div class="FL" style="width:60px; margin-right:50px;">
+			<div>
+				<div class="MB5"><a href="https://www.ctocio.com" class="b_13" style="text-transform:uppercase;"><strong>IT经理网</strong></a></div>
+				<ul>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/关于">关于我们</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/投稿">我要投稿</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/feed">文章RSS</a></li>
+				<li style="list-style-type:none"><a href="https://www.ctocio.com/comments/feed">评论RSS</a></li>
+				<li style="border-bottom:0px;list-style-type:none"><a href="https://www.ctocio.com/privacy-policy">隐私条款</a></li>
+				</ul>
+                 <div class="PT20"></div><ul></ul></div>
+		</div>
+		<div class="FL" style="width:80px;">
+			<div>
+				<div class="MB5"></div>
+				<ul>
+
+				<li style="border-bottom:0px;list-style-type:none"></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="CL"></div>
+	</div>
+	<div class="gL_10_1 PT10">
+	<span class="FL">&nbsp;Copyright © 2010-2021,ctocio.com - IT经理网 <a href="https://www.ctocio.com/privacy-policy">隐私条款</a></span>
+	<span class="FR"><a href="https://beian.miit.gov.cn/" target="_blank">京ICP备11041033号-1</a>&nbsp;|&nbsp;
+
+	<script src="https://s11.cnzz.com/stat.php?id=3283703&amp;web_id=3283703" language="JavaScript"></script>
+	</span>
+	<div class="CL"></div>
+	</div>
+</div>
+<!--登录弹出层-->
+
+
+
+            <script>
+                jQuery(function($){
+
+                    
+                });
+            </script>
+            <div id="fb-root"></div>
+            <script type="text/javascript" src="https://www.ctocio.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" id="jquery-form-js"></script>
+<script type="text/javascript" id="wp-polls-js-extra">
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.ctocio.com\/wp-admin\/admin-ajax.php","text_wait":"\u60a8\u7684\u4e0a\u4e00\u4e2a\u8bf7\u6c42\u4ecd\u5728\u5904\u7406\u4e2d\u3002\u8bf7\u7b49\u4e00\u4e0b......","text_valid":"\u8bf7\u9009\u62e9\u6709\u6548\u7684\u6295\u7968\u7b54\u6848\u3002","text_multiple":"\u5141\u8bb8\u7684\u6700\u5927\u9009\u62e9\u6570\u91cf\uff1a","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.77.2" id="wp-polls-js"></script>
+<script type="text/javascript" src="https://www.ctocio.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.7" id="page-links-to-js"></script>
+
+
+
+<!-- Dynamic page generated in 0.894 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2024-11-12 15:18:43 -->
+
+<!-- Super Cache dynamic page detected but late init not set. See the readme.txt for further details. -->
+<!-- Dynamic Super Cache --></body></html>

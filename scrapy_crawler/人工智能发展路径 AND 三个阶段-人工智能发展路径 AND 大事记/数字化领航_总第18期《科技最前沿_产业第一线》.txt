@@ -1,0 +1,566 @@
+<!DOCTYPE html><html lang="en"><head><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://hm.baidu.com/hm.js?330b88a4558e6a8b4e4c0e5f905a4679"></script><script async="" src="http://bbswlan.h3c.com/share/jssdk.js?_=1731224260921"></script><script async="" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js?_=1731224260919"></script>
+	<meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<title>数字化领航 总第18期《科技最前沿 产业第一线》</title>
+	<link rel="stylesheet" href="https://resource.h3c.com/cn/tres/images/NewITNavi/css/style1.css">
+	<script src="/cn/tres/images/NewITNavi/js/jquery-1.8.3.min.js"></script>
+	<script src="/cn/tres/images/NewITNavi/js/js.js"></script>
+	<script src="/cn/tres/images/NewITNavi/js/function.js"></script>
+</head>
+<body>
+	<div id="wz-box">
+		<div id="top" class="clearfix">
+
+<div id="logoh">
+<a href="http://www.h3c.com/cn/"><img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/logoh.png" alt=""></a>
+			</div>
+
+                        <div id="top-1">
+				<a href="http://newitnavi.h3c.com/"><img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/logo0.png" alt=""></a>
+			</div>
+							
+<div class="kan">
+	<a href=""><div class="qh">
+		
+总18期
+					<br>
+		</div>
+		<div class="kh">
+
+</div>
+			</a>
+			</div>
+
+			<div class="list-w">
+				<img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/menuw.png" alt="">
+			</div>
+			<!--ul id="top-2">
+				<a href="http://sso.h3c.com/GroupLoginPage.aspx" target="_blank">
+					<li id="p1">
+						<img src="/cn/tres/images/NewITNavi/image/p1-0.png" alt="" onMouseOver="over('#p1','p1')" onMouseOut="out('#p1','p1')" />
+					</li>
+				</a>
+				<a href="http://www.h3c.com/cn/aspx/Home/Registration/NewH3CReg.aspx" target="_blank">
+					<li id="p2">
+						<img src="/cn/tres/images/NewITNavi/image/p2-0.png" alt="" onMouseOver="over('#p2','p2')" onMouseOut="out('#p2','p2')" />
+					</li>
+				</a>
+
+			</ul-->
+			
+			<div class="clear"></div>
+		</div>
+
+		<div class="wz-top">
+		<div class="smf">
+		<a href="/cn/NewITNavi/2019/04/">
+               <img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/back.png" alt=""></a>
+			</div>
+			<div class="it">
+				<img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/mfw.png" alt="">
+			</div>
+			<div class="qk m-t-05">
+				<div class="qh">
+总18期
+</div>
+				<div class="kh">
+
+</div>
+			</div>
+			<div class="list-w">
+				<img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/menuw.png" alt="">
+			</div>
+			<div class="redtip">Focus&nbsp;&nbsp;&nbsp;&nbsp;焦点</div>
+		</div>
+		<div class="content">
+<div class="backtop"><img src="https://resource.h3c.com/cn/tres/images/NewITNavi/Image/backtop1.png" alt=""></div>
+			<div class="content-c" style="padding-top: 0.5%">
+				<div class="main-txt">
+					<div class="redtip-w">
+						<div class="redtip-c">Focus&nbsp;&nbsp;&nbsp;&nbsp;焦点</div>
+					</div>
+                                        <div class="wz-title m-t-5">人工智能在网络安全领域的应用</div> 
+<div class="wz-zuozhe "><span>文/朱仕银</span> 
+    <div class="fenxiang pb"> 
+        <!--<DIV class=ftxt>分享</DIV> 
+        <DIV class="jiathis_style_24x24 bnr"><A class="jiathis_button_qzone nm"></A><A class=jiathis_button_tsina></A><A class=jiathis_button_douban></A></DIV> 
+        <SCRIPT type=text/javascript charset=utf-8 src="http://v3.jiathis.com/code/jia.js?uid="></SCRIPT> 
+         JiaThis Button END --> 
+    </div> 
+</div> 
+<div class="box-93 line"></div><div><p class="MsoNormal" align="center"></p><p class="MsoNormal">1956年，在由达特茅斯学院举办的一次会议上，计算机专家约翰·麦卡锡首次提出了“人工智能”一词，这也被人们看作是人工智能正式诞生的标志。此后的人工智能发展历程经历了多次波折：</p><p class="MsoNormal">人工智能的第一次高峰就是达特茅斯会议之后长达十几年的时间里，计算机被广泛应用于数学和自然语言领域，用来解决代数、几何和英语问题，有很多学者认为“20年内，机器将能完成人能做到的一切”。但很快人工智能发展遇到了技术瓶颈：一是计算机性能不足，很多程序无法在人工智能领域运行；二是用于深度学习的数据严重缺乏，无法支撑智能训练；三是人工智能程序处理复杂问题不堪重负。由于以上原因，上个世纪70年代人工智能发展陷入低谷。</p><p class="MsoNormal">人工智能的第二次高峰是以卡内基梅隆大学设计的一套名为XCON的“专家系统”为代表，这是一套具有完整专业知识和经验的计算机智能系统。在这个时期，仅专家系统产业的价值就高达5亿美元，衍生出了像Symbolics、Lisp Machines和IntelliCorp、Aion这样的软硬件公司。但到1987年时，苹果和IBM公司生产的台式机性能都超过了Symbolics等厂商生产的通用计算机，从此，专家系统风光不再。</p><p class="MsoNormal">人工智能再次崛起是以IBM的计算机系统“深蓝”战胜了国际象棋世界冠军卡斯帕罗夫事件为代表，这是人工智能发展的一个重要里程碑。而2016年AlphaGo战胜围棋冠军李世石则把人工智能推上了一个新的顶峰。在最近3年人工智能则引发了一场商业革命，谷歌、微软、百度等互联网巨头以及众多的初创科技公司，纷纷加入人工智能战场，掀起一轮又一轮的智能化狂潮，人工智能技术已经开始应用在各行各业，在网络和安全领域的研究和应用也得到了各科技公司的重视，其应用价值开始浮现。</p><p class="MsoNormal"><strong>人工智能在网络领域的应用</strong></p><p class="MsoNormal">人工智能在网络最重要的应用包括智能运维、网络加速和网络优化三部分。</p><p class="MsoNormal"><strong>1. 智能运维</strong></p><p class="MsoNormal">智能运维目前是人工智能发展最好、价值最高的应用，受到了各大公司的重视。传统的运维方式在监控、问题发现、告警以及故障处理等各个环节均存在明显不足，需要大量依赖人的经验，工作效率低下，并且在数据采集、异常诊断分析、告警事件以及故障处理的效率等方面都有待提高，而人工智能结合大数据分析技术，可以在智能监控、智能问题发现和预警、智能故障处理等方面最小化人为干预程度、降低人力成本以及提高运维管理效能。</p><p class="MsoNormal"><strong>1) 智能监控</strong></p><p class="MsoNormal">随着企业IT系统规模的扩大、运维环境的复杂化，使得运维人员从海量的数据中发现问题的难度也越来越大。智能运维可以通过智能异常检测、故障关联分析、故障根因分析和智能异常预测等能力，帮助运维人员快速定位问题、追溯故障根源，并实现故障的预测预警。以智能异常检测为例，通过历史数据模型的异常检测等方法并结合AI技术，能够自动、实时、准确地从监控数据中发现异常，为后续故障的分析与处理提供基础。</p><p class="MsoNormal"><strong>2) 智能问题发现和预警</strong></p><p class="MsoNormal">对故障进行根源分析是在众多可能引起故障的因素中，追溯到导致故障发生的症结所在，并找出根本性的解决方案。利用机器学习或者深度学习的方法可以找出不同因素之间的强相关关系，并利用这些关系，推断出哪些因素是根本性的因素，帮助用户快速诊断问题、提高故障的定位速度以及修复效率。</p><p class="MsoNormal">在告警方面，传统的告警管理一般使用固定阈值并且需要运维人员手动设置，这种方式不仅工作量巨大且十分依赖运维人员的经验，阈值设置不当可能导致告警风暴或者告警漏报等后果。当监控环境发生变化时，原先的固定阈值无法满足告警管理的要求。而智能运维采用动态基线告警方式，智能分析数据的动态极限，弥补了以往人为设置固定阈值的缺陷，智能地分析数据的发展趋势以及分析数据动态极限，从而对告警做出智能的判断，也就有更大灵活性和适用性。</p><p class="MsoNormal"><strong>3) 智能故障处理</strong></p><p class="MsoNormal">在智能故障处理方面，传统运维管理中对故障的处理非常依赖运维人员的经验，但人的经验无法覆盖所有故障范围，运维人员经验不足可能会使运维效率低下或者产生错误决策。智能运维将实时监测结果或者预测结果引入智能专家决策系统，智能生成决策建议，根据实际结果及趋势判断采用的处理策略，可以是人工处理或者自动处理，有效减少问题排查的时间、大幅提升问题解决的效率，提升企业运维的标准化程度。</p><p class="MsoNormal"><strong>2. 网络加速</strong></p><p class="MsoNormal">人工智能在网络加速最重要的应用是利用强化学习的思想，深度参与网络协议拥塞控制算法，加速各个应用的传输速率，提高网络的带宽利用率和减小网络时延，其典型应用是用强化学习改进TCP的网络拥塞算法。TCP具有慢启动、快恢复的特点，但是其快恢复是以拥塞窗口直接减半为代价，这就导致TCP传输带宽是一个锯齿形的形状，传输带宽不稳定。而强化学习则通过丢包预测自适应地调整拥塞窗口，使拥塞窗口稳定在一个较小的范围内波动，从而保证了TCP传输的总带宽和时延。国外有相关论文指出，跟传统的TCP拥塞算法相比，基于强化学习的方法可以使传输的带宽提高30％以上，端到端时延减小7％，图1是测试效果图。</p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal"></p><table cellspacing="0" cellpadding="0" align="left"><tbody><tr><td height="465" width="6"></td></tr><tr><td></td><td></td></tr></tbody></table><p></p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal"></p><p class="MsoNormal" align="center"></p><p class="MsoNormal" align="center"><img border="0" src="https://resource.h3c.com/cn/201912/26/20191226_4653842_02_1254714_233453_0.JPG"></p><p class="MsoNormal" align="center">图1 基于强化学习和普通TCP拥塞算法测试对比图</p><p class="MsoNormal">在图1中，红色是采用普通NewReno算法的测试效果，绿色则是采用强化学习的LP-TCP测试效果，从图1中可以清楚看到，基于强化学习的TCP拥塞窗口非常稳定，这也是为什么能提高网络带宽利用率的原因，同时因为拥塞窗口的稳定，设备的队列深度也维持在一个稳定的水平，端到端时延也同时减少了。</p><p class="MsoNormal"><strong>3. 网络优化</strong></p><p class="MsoNormal">人工智能在网络优化上的应用主要是转发路径优化、资源优化和流量优化。传统的ECMP算法一般是基于五元组原则进行Hash计算，在大象流都Hash到同一个路径的情况下，很容易引起路径流量的不对称，起不到流量均衡的作用，而引入人工智能技术，则可以考虑链路实时带宽，动态计算每一个流的转发路径，从而保证在任何流量情况下均可以实现链路的流量均衡，避免了传统Hash算法的不足。国外有一些学者和专家也在研究通过强化学习的方法来进行路由的计算，以替代传统的路由协议（如OSPF）等。在资源优化方面，人工智能在无线核心网资源分配、无线信道利用率、转发芯片包缓存动态调整方面均有良好的表现，其可以有效提高资源的利用率，根据环境和压力自动调节资源分配，以保证资源利用总是处于较佳的一个状态。</p><p class="MsoNormal"><strong>人工智能在安全的应用</strong></p><p class="MsoNormal">人工智能在安全领域的应用十分广泛，并且有其独特的价值和优势，比如加密流量的威胁识别问题和APT（高级持续性威胁）识别问题，传统的基于规则和特征匹配的方法完全失效，必须依赖人工智能的方法来加以甄别。同时，人工智能在欺诈检测、恶意软件检测、入侵检测、网络风险评分和用户/机器行为分析等方面也有重要的应用价值，下面介绍人工智能在安全领域的两个典型应用。</p><p class="MsoListParagraph"><b>1. </b><b>加密流量威胁检测</b></p><p class="MsoNormal">目前网络上50%以上是加密流量，加密是保护隐私的一个重要手段，能够保护我们的数据不被窥探，但同时也让不法分子有了可乘之机，加密能够像隐藏其他信息一样隐藏恶意软件，从而带来一系列安全问题。而传统DPI（深度报文检测）需要解密原始报文，这是不可能完成的任务。而人工智能基于特征提取和行为分析的方法，可以在不解密报文的情况下，提炼出恶意软件的特性，从而识别出有害威胁。以HTTPS流量为例，通过提取TLS联接的初始数据包信息、数据包长度和时间的顺序、有效载荷上的字节分布等特征数据，经过人工智能模型推理，可以检测出加密流量中的恶意流量，如图2所示。</p><p class="MsoNormal" align="center"><img id="图片 1" src="https://resource.h3c.com/cn/201912/26/20191226_4653840_image002_1254714_233453_0.jpg" width="399" height="124"></p><p class="MsoNormal" align="center">图2 用人工智能对提取的TLS联接的数据包进行分析</p><p class="MsoListParagraph"><b>2. </b><b>APT</b><b>防攻击检测</b></p><p class="MsoNormal">APT攻击具有不同于传统网络攻击的5个显著特征：针对性强、组织严密、持续时间长、高隐蔽性和间接攻击，攻击者能适应防御者的入侵检测能力，不断更换和改进入侵方法，具有较强的隐藏能力，攻击入口、途径、时间都是不确定和不可预见的，使得基于特征匹配的传统检测防御技术很难有效检测出攻击，必须要引入新的检测技术。人工智能则可以在这方面发挥特有的优势，通过特征提取和行为分析、结合沙箱和大数据分析技术，准确判定C&amp;C异常、Web异常、隐蔽通道、邮件和流量异常检测等，可以有效识别并阻断勒索病毒、海莲花、震网、BlackEnergy、Google Aurora等APT攻击。</p><p class="MsoNormal">此外，借助于人工智能增强学习的优势，可以构建并完善一套主动式安全防御系统。如今的网络攻击和病毒具有易变性的特点，被动防御已经不能满足当前网络安全的要求，主动防御成为趋势和必须，借助人工智能的学习和进化能力，可以针对即将发生或者未知的攻击行为，与安全策略和威胁情报有机结合，最终实现智慧型、主动型的安全防御系统。</p><p class="MsoNormal"><strong>结束语</strong></p><p class="MsoNormal">人工智能作为一门当前最热的技术之一，其在网络和安全的应用和探索仍然还在进行当中，但网络智能化和安全智能化的趋势不可阻挡，人工智能在其中也扮演着不可或缺的角色。当然，我们同时也要意识到人工智能并非是万能的，甚至发展到某些时候还可能带来负面的效果。以安全为例，黑客和攻击者也可以利用人工智能技术来发动网络和安全攻击，AI与AI的对抗在不久的将来就会成为现实。“水能载舟，亦能覆舟”，人类怎样利用好人工智能技术仍然是一个值得探讨和研究的课题。</p></div>
+
+				</div>
+				<div class="sidebar">
+    <div class="contents">Contents 目录</div>
+    <div class="box-86 m-t-20">
+
+        <div class="s-title">
+            <div class="ssr"></div>
+            <div class="bbr">焦点</div>
+        </div>
+        
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254714_233453_0.htm">
+        <span class="sc">•</span> 人工智能在网络安全领域的应用
+    </a>
+</div>
+
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254712_233453_0.htm">
+        <span class="sc">•</span> 边缘计算，云计算的好搭档
+    </a>
+</div>
+
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254710_233453_0.htm">
+        <span class="sc">•</span> 视频编码技术5大趋势
+    </a>
+</div>
+
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254709_233453_0.htm">
+        <span class="sc">•</span> VDI应用中音视频质量的优化
+    </a>
+</div>
+
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254708_233453_0.htm">
+        <span class="sc">•</span> 5G网络切片技术解读
+    </a>
+</div>
+
+<br>
+
+        <div class="s-title">
+            <div class="ssr"></div>
+            <div class="bbr">方案</div>
+        </div>
+        
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254719_233453_0.htm">
+        <span class="sc">•</span> 教育中台，让应用创新和后台稳定可以兼顾
+    </a>
+</div>
+
+<br>
+
+        <div class="s-title">
+            <div class="ssr"></div>
+            <div class="bbr">区块链专栏</div>
+        </div>
+        
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254724_233453_0.htm">
+        <span class="sc">•</span> 区块链技术仍在快速演进中
+    </a>
+</div>
+
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254723_233453_0.htm">
+        <span class="sc">•</span> 区块链面临的机遇与挑战
+    </a>
+</div>
+
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254721_233453_0.htm">
+        <span class="sc">•</span> 用区块链构建安全可信的基础网络
+    </a>
+</div>
+
+<br>
+
+        <div class="s-title">
+            <div class="ssr"></div>
+            <div class="bbr">讲堂</div>
+        </div>
+        
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254718_233453_0.htm">
+        <span class="sc">•</span> 5G到来，视频客服迎来爆发期
+    </a>
+</div>
+
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254716_233453_0.htm">
+        <span class="sc">•</span> H3C SeerBlade—开创网络智能化未来（下）
+    </a>
+</div>
+
+<div class="box-10 tc m-t-3">
+    <a href="/cn/d_201912/1254715_233453_0.htm">
+        <span class="sc">•</span> 新媒体的关键技术及应用
+    </a>
+</div>
+
+<br>
+
+</div>
+</div>
+</div>
+			</div>
+			<div class="fenxiang-w">
+				<div class="fx-line"></div>
+				<div class="fx-txt">分享到</div>
+				<div class="fx-line"></div>
+			</div>
+			<div class="jiathis_style_32x32">
+				<a class="jiathis_button_qzone"></a>
+				<a class="jiathis_button_tsina"></a>
+				<a class="jiathis_button_weixin"></a>
+				<a class="jiathis_button_douban"></a>
+			</div>
+			<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=" charset="utf-8"></script>
+		</div>
+
+<!--微信分享 begin-->
+    <script type="text/javascript">
+    $.getScript('http://res.wx.qq.com/open/js/jweixin-1.0.0.js');
+    var title = '数字化领航 总第18期《科技最前沿 产业第一线》'; //分享的标题
+    //var desc = '人工智能在网络安全领域的应用'; //分享的描述
+    var link = location.href.split('#')[0]; //分享的当前页面链接
+    var imgUrl = 'http://www.h3c.com.cn/tres/images/NewITNavi/image/share.jpg'; //分享的小图标
+    $.getScript('http://bbswlan.h3c.com/share/jssdk.js');
+    </script>
+<!--微信分享 end -->
+
+    <script type="text/javascript">
+var desc='人工智能在网络安全领域的应用';
+    </script>
+
+
+
+<div class="footer">
+    版权所有 2003-2024 新华三技术有限公司.
+    <br>
+    保留一切权利.浙ICP备09064986号
+    <span>
+        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010802004375">
+            <img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/beian.png" alt="">浙公网安备 33010802004375号
+        </a>
+    </span>
+</div>
+<div class="copyright">
+    版权所有 2003-2024 新华三技术有限公司.保留一切权利.浙ICP备09064986号
+    <span>
+        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010802004375">
+            <img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/beian.png" alt="">浙公网安备 33010802004375号
+        </a>
+    </span>
+</div>
+	
+
+
+<div id="containerm" style="">
+    <div class="mask-wap"></div>
+    <div class="box-91 m-t-5">
+        <div class="menu-w">Contents 目录</div>
+        <div class="close">
+            <img src="https://resource.h3c.com/cn/tres/images/NewITNavi/image/guan.png" alt="关闭">
+        </div>
+    </div>
+    <div class="box-91 m-t-5">
+        
+<div class="menu-s">
+<div class="menu-t">
+	<div class="mt-l">卷首语</div>
+	<div class="brline"></div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147632_233453_0.htm">
+<span class="sc">•</span>
+向新而行 做智能新时代的领航者						
+</a>
+</div>
+
+
+</div>
+</div>
+
+<div class="menu-s">
+<div class="menu-t">
+	<div class="mt-l">×AI见未来</div>
+	<div class="brline"></div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147643_233453_0.htm">
+<span class="sc">•</span>
+新华三发布全栈智算解决方案 持续赋能智能新时代						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147642_233453_0.htm">
+<span class="sc">•</span>
+新华三尤学军：释放“算力×联接”的倍增效应，为大模型提供最优算力						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147641_233453_0.htm">
+<span class="sc">•</span>
+新华三张鹏：以“用”为本，迈出AIGC走向行业的关键一步						
+</a>
+</div>
+
+
+</div>
+</div>
+
+<div class="menu-s">
+<div class="menu-t">
+	<div class="mt-l">AI in ALL 智原生</div>
+	<div class="brline"></div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2148864_233453_0.htm">
+<span class="sc">•</span>
+新华三灵犀智算解决方案，以全栈技术革新激发AI潜能						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2148863_233453_0.htm">
+<span class="sc">•</span>
+新华三徐润安：×AI的五次“运算”，加速基础架构走向AGI时代						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2148862_233453_0.htm">
+<span class="sc">•</span>
+新华三智慧计算新品首发：AI原生持续进化 多元开放高效融合						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2148859_233453_0.htm">
+<span class="sc">•</span>
+新华三曾富贵：应用与AI双轮驱动，演绎智能时代的“算力×联接”						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2148857_233453_0.htm">
+<span class="sc">•</span>
+新华三发布智算网络解决方案 以开放网络赋能多元融合智算体系						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2148856_233453_0.htm">
+<span class="sc">•</span>
+新华三孙松儿：安全×AI，打造场景化安全新范式						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147699_233453_0.htm">
+<span class="sc">•</span>
+业内首次内置大模型能力，新华三发布旗舰AI防火墙						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147697_233453_0.htm">
+<span class="sc">•</span>
+新华三毕首文：打造“四桨协同”的技术服务体系，护航客户的数智化之旅						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147696_233453_0.htm">
+<span class="sc">•</span>
+新华三发布灵犀大模型 四大能力重塑AIGC时代运维新体验						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147646_233453_0.htm">
+<span class="sc">•</span>
+新华三发布AIGC灵犀一体机，打通大模型落地“最后一公里”						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147644_233453_0.htm">
+<span class="sc">•</span>
+新华三发布能源云解决方案，引领全场景智能能耗治理新模式						
+</a>
+</div>
+
+
+</div>
+</div>
+
+<div class="menu-s">
+<div class="menu-t">
+	<div class="mt-l">AI for ALL 赋百业</div>
+	<div class="brline"></div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147612_233453_0.htm">
+<span class="sc">•</span>
+新华三重磅发布《城市数字化发展指数（2024）》，开启AI时代发展研究新范式						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147611_233453_0.htm">
+<span class="sc">•</span>
+智能算力战略新章落地 图灵小镇AIGC智算中心正式启用						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2147608_233453_0.htm">
+<span class="sc">•</span>
+郑州智算中心-待补充						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143923_233453_0.htm">
+<span class="sc">•</span>
+咸阳高新区×新华三：“中国屏谷”开启数智之变						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143920_233453_0.htm">
+<span class="sc">•</span>
+以新提质，数智城市擦亮发展“新底色”						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143918_233453_0.htm">
+<span class="sc">•</span>
+让“智造”生根发芽，新华三助力祥邦科技打造未来工厂						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143917_233453_0.htm">
+<span class="sc">•</span>
+七云合一：新华三助力广东机场集团搭建“机场一朵云”						
+</a>
+</div>
+
+
+</div>
+</div>
+
+<div class="menu-s">
+<div class="menu-t">
+	<div class="mt-l">媒体观察</div>
+	<div class="brline"></div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143915_233453_0.htm">
+<span class="sc">•</span>
+“算力×联接”的阡陌纵横，数字经济的田园牧歌						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143913_233453_0.htm">
+<span class="sc">•</span>
+对话新华三：揭秘算力×联接，如何赋能AI时代？						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143912_233453_0.htm">
+<span class="sc">•</span>
+新华三张鹏：让AIGC技术在不同产业中找到用武之地						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143911_233453_0.htm">
+<span class="sc">•</span>
+以智管智 以智用智，AI时代需要全新思维理念						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143910_233453_0.htm">
+<span class="sc">•</span>
+Scaling law信仰下，新华三网络“越过山丘”						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143908_233453_0.htm">
+<span class="sc">•</span>
+新华三AI for ALL：释放AI落地乘法效应						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143899_233453_0.htm">
+<span class="sc">•</span>
+新华三的AI安全“可以商用”						
+</a>
+</div>
+
+<div class="menu-lt m-t-5">
+<a href="/cn/d_202405/2143898_233453_0.htm">
+<span class="sc">•</span>
+新华三技术服务：持续深化客户化战略，激发AI乘数效应						
+</a>
+</div>
+
+
+</div>
+</div>
+
+    </div>
+</div>
+<!-- 百度统计 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?330b88a4558e6a8b4e4c0e5f905a4679";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+		<!-- 谷歌统计 -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92574041-1', 'auto');
+  ga('send', 'pageview');
+		</script>
+
+		 <script type="text/javascript" async="" charset="UTF-8" src="https://www.h3c.com/cn/tres/WebUI/scripts/gstracker.js"></script><script>
+            window._gsq = window._gsq || [];
+(function(option) { _gsq.unshift(["init", option]); var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.setAttribute('charset', 'UTF-8');
+    s.src = 'https://www.h3c.com/cn/tres/WebUI/scripts/gstracker.js'; var varfirstScript = document.getElementsByTagName('script'); var firstScript = varfirstScript[varfirstScript.length - 1];
+    firstScript.parentNode.insertBefore(s, firstScript); })({ 
+        profile_id: "0NpT7UOth3dBVVteHHN1LOEpPUpT004g", 
+        app_name: "新华三", 
+        is_cross_subdomain: true, 
+        is_track_single_page: true, 
+        debug_mode: true, 
+        click: true, 
+        scroll: true });
+_gsq.push(["autoTrack"]);
+        </script>
+
+   
+</body></html>

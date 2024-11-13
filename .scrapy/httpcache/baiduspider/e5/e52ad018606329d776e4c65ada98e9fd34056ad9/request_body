@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "SERVERID=6ab329d24ff64d68f1b9338630d4cb17|1731250558|1731250558",
+        "Referer": "https://hub.baai.ac.cn/view/35001",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://hub.baai.ac.cn/view/35001",
+    "wait": 6
+}

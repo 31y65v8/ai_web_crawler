@@ -1,0 +1,24 @@
+Content-Length: 25487
+Last-Modified: Tue, 12 Nov 2024 07:35:07 GMT
+Etag: "1fc67-626b241a0f833-gzip"
+Accept-Ranges: bytes
+Content-Type: text/html;charset=utf-8
+X-Akamai-Transformed: 9 22882 0 pmb=mRUM,3
+Content-Encoding: gzip
+Cache-Control: max-age=21600
+Expires: Tue, 12 Nov 2024 13:47:33 GMT
+Date: Tue, 12 Nov 2024 07:47:33 GMT
+Vary: Accept-Encoding
+Set-Cookie: affinity="bc7c3393102e43cd"; Path=/; HttpOnly; secure
+Set-Cookie: AKA_A2=A; expires=Tue, 12-Nov-2024 08:47:33 GMT; path=/; domain=deloitte.com; secure; HttpOnly
+Server-Timing: edge; dur=30
+Server-Timing: origin; dur=228
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: ak_p; desc="1731397652842_388814365_439234759_25794_7294_0_172_-";dur=1
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: frame-ancestors 'self' *.deloitte.com;
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Akamai-Cache-Status: Miss from child

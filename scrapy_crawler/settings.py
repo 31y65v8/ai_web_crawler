@@ -12,12 +12,13 @@ BOT_NAME = "scrapy_crawler"
 SPIDER_MODULES = ["scrapy_crawler.spiders"]
 NEWSPIDER_MODULE = "scrapy_crawler.spiders"
 
+REDIRECT_ENABLED = True#跳转到重定向后的url
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "scrapy_crawler1 (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -96,24 +97,53 @@ FEED_EXPORT_ENCODING = "utf-8"
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_crawler.middlewares.RandomUserAgentMiddleware': 543,  # 中间件的优先级
 }
+
+DEFAULT_REQUEST_HEADERS = {
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Referer': 'https://www.google.com'
+}
+
 DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,  # 禁用默认的 User-Agent 中间件
 }
 #启用pipelines，将爬取到的Google数据存入数据库
 ITEM_PIPELINES = {
     'scrapy_crawler.pipelines.GoogleResultPipeline': 1,
+    'scrapy_crawler.pipelines.BaiduResultPipeline': 2,
 }
 
 #添加动态网页处理（搜索结果页）
-SPLASH_URL = 'http://localhost:8050'
+#SPLASH_URL = 'http://localhost:8050  'http://localhost:8052','
+# 定义多个 Splash 实例的地址
+SPLASH_URLS = [
+    'http://localhost:8050',
+    'http://localhost:8051',
+
+]
+
+DOWNLOAD_TIMEOUT = 300
 DOWNLOADER_MIDDLEWARES = {
+    'scrapy_crawler.middlewares.SplashProxyMiddleware':722,
     'scrapy_splash.SplashCookiesMiddleware': 723,
     'scrapy_splash.SplashMiddleware': 725,
     'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
 }
-DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
-HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
+DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'#使用splash的去重过滤器
 
+CONCURRENT_REQUESTS_PER_DOMAIN = 5
+SPLASH_MAX_TIMEOUT = 60  # Splash 的超时时间
+# 设置下载延迟，避免对 Splash 服务器产生过多负载
+DOWNLOAD_DELAY = 2  # 每个请求之间的延迟，单位是秒
+# 使用 Splash 缓存，减少重复请求并减轻 Splash 服务器压力
+HTTPCACHE_ENABLED = True  # 启用 HTTP 缓存
+HTTPCACHE_EXPIRATION_SECS = 86400  # 缓存有效期设置为 24 小时
+HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'  # 使用 Splash 的缓存存储
+# 自定义 Splash 的参数以减少资源消耗，例如禁用图片加载
+SPLASH_ARGS = {
+    'wait': 5,  # 等待页面加载的时间，单位为秒
+    'images': 0,  # 禁用图片加载，减少 Splash 的渲染压力
+    'resource_timeout': 10  # 对加载资源设置超时，单位为秒
+}
 
 
 

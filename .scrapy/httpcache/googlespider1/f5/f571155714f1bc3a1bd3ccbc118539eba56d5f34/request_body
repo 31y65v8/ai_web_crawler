@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Referer": "http://www.21jingji.com/article/20221219/herald/0ec1ab08d17c697a030001bd4967f4ec.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "http://www.21jingji.com/article/20221219/herald/0ec1ab08d17c697a030001bd4967f4ec.html",
+    "wait": 6
+}

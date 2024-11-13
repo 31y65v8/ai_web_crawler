@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "Cookie": "acw_tc=276aeddf17312245703573978e63c9c819f1ab3ecf7f6803889fa15a9c6ad3",
+        "Referer": "https://cdo.develpress.com/?p=6615",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://cdo.develpress.com/?p=6615",
+    "wait": 6
+}

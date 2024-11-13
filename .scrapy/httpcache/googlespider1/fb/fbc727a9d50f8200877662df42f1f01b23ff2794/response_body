@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--避免IE使用兼容模式-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--使用webkit内核-->
+    <meta name="renderer" content="webkit">
+    <title>&#x65B0;&#x95FB;&#x516C;&#x544A;-&#x4E2D;&#x56FD;&#x79D1;&#x5B66;&#x9662;&#x81EA;&#x52A8;&#x5316;&#x7814;&#x7A76;&#x6240;&#x56FE;&#x4E66;&#x9986;</title>
+    <meta name="keywords" content="&#x4E2D;&#x79D1;&#x9662;&#x81EA;&#x52A8;&#x5316;&#x7814;&#x7A76;&#x6240;&#x56FE;&#x4E66;&#x9986;" />
+    <meta name="description" content="&#x4E2D;&#x79D1;&#x9662;&#x81EA;&#x52A8;&#x5316;&#x7814;&#x7A76;&#x6240;&#x56FE;&#x4E66;&#x9986;" />
+    <link rel="stylesheet" href="/lib/layer/theme/default/layer.css" />
+    <link rel="stylesheet" href="/lib/layer/theme/default/style.css" />
+    <link rel="stylesheet" href="/lib/jquery-ui/dist/css/jquery-ui.min.css" />
+    <link rel="stylesheet" href="/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="/css/i-lib.css" />
+    <link rel="stylesheet" href="/css/site/globa.css" />
+    
+    <script src="/lib/requirejs/require.js"></script>
+    <script src="/js/app.js"></script>
+</head>
+<body>
+    <div style="display: block; width: 0; height: 0; overflow: hidden;">
+        <button></button>
+    </div>
+    <input type="hidden" id="hidLoginUrl" value="/login?returnUrl=http%3a%2f%2flib.ia.ac.cn%2fstart%2floginredirect%3furl%3dhttp%253a%252f%252flib.ia.ac.cn%252fnews%252fnewsdetail%252f68292" />
+<div id="header">
+    <div class="l-width">
+        <div id="logo">
+            <a href="/">
+                    <img src="http://lib.ia.ac.cn:8003/ContentDelivery/20210604/logo_BD3C07133D9C611716E6A7D8D2636FCB.png" alt="&#x4E2D;&#x56FD;&#x79D1;&#x5B66;&#x9662;&#x81EA;&#x52A8;&#x5316;&#x7814;&#x7A76;&#x6240;&#x56FE;&#x4E66;&#x9986;" />
+                    <span>&#x4E2D;&#x56FD;&#x79D1;&#x5B66;&#x9662;&#x81EA;&#x52A8;&#x5316;&#x7814;&#x7A76;&#x6240;&#x56FE;&#x4E66;&#x9986;</span>
+            </a>
+        </div>
+        <div id="top-nav">
+            <ul>
+                                <li><a href="/home/index"><i class="icon-1"></i>&#x9996;&#x9875;</a></li>
+                                <li><a href="http://lib1.ia.ac.cn/"><i class="icon-2"></i>&#x65E7;&#x7AD9;&#x5165;&#x53E3;</a></li>
+                                <li class="hs-sub">
+                                    <a href="/home/Service/1002/0"><i class="icon-3"></i>&#x8BFB;&#x8005;&#x670D;&#x52A1;</a>
+                                    <ul class="sub1">
+                                                <li><a href="/home/service/1002/68282">&#x5165;&#x9986;&#x987B;&#x77E5;</a></li>
+                                                <li><a href="/home/service/1002/336">&#x501F;&#x4E66;&#x8BC1;&#x529E;&#x7406;</a></li>
+                                                <li><a href="/home/service/1002/335">&#x501F;&#x9605;&#x89C4;&#x5219;</a></li>
+                                                <li><a href="/home/service/1002/334">&#x7535;&#x5B50;&#x8D44;&#x6E90;&#x4F7F;&#x7528;&#x89C4;&#x5B9A;</a></li>
+                                                <li><a href="/home/service/1002/333">&#x529E;&#x7406;&#x79BB;&#x6240;&#x624B;&#x7EED;&#x987B;&#x77E5;</a></li>
+                                                <li><a href="/home/service/1002/332">&#x81EA;&#x884C;&#x91C7;&#x8D2D;&#x4E66;&#x7C4D;&#x62A5;&#x9500;&#x529E;&#x6CD5;</a></li>
+                                    </ul>
+                                </li>
+                                <li class="hs-sub">
+                                    <a href="/home/service/1007/0"><i class="icon-4"></i>&#x7D2B;&#x4E1C;&#x5B66;&#x672F;</a>
+                                    <ul class="sub1">
+                                                <li><a href="http://ir.ia.ac.cn/community-list">&#x7814;&#x7A76;&#x5355;&#x5143;</a></li>
+                                                <li><a href="http://ir.ia.ac.cn/search-filter?field=dc.type_filter&amp;from=navbar">&#x6210;&#x679C;&#x7EDF;&#x8BA1;</a></li>
+                                                <li><a href="http://ir.ia.ac.cn/simple-search?field=dc.type_filter&amp;advanced=false&amp;&amp;fq=dc.type_filter%3A%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87">&#x4E13;&#x5BB6;&#x5B66;&#x8005;</a></li>
+                                                <li><a href="http://ir.ia.ac.cn/simple-search?field=dc.type_filter&amp;advanced=false&amp;&amp;fq=dc.type_filter%3A%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87">&#x5B66;&#x4F4D;&#x8BBA;&#x6587;</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="https://webvpn.ia.ac.cn/browserVerification?id=polyNote"><i class="icon-5"></i>&#x4E91;&#x7B14;&#x8BB0;</a></li>
+                                <li><a href="https://webvpn.ia.ac.cn"><i class="icon-6"></i>&#x6240;&#x5916;&#x8BBF;&#x95EE;</a></li>
+
+            </ul>
+
+        </div>
+        <div id="top">
+            <ul>
+                    <li class="login"><i class="icon-user"></i>您好，读者！ 请 <a href="/login?returnUrl=http%3a%2f%2flib.ia.ac.cn%2fstart%2floginredirect%3furl%3dhttp%253a%252f%252flib.ia.ac.cn%252fnews%252fnewsdetail%252f68292">登录</a></li>
+                <li id="site-search" style="position:relative">
+                    <input id="newsSearchKey" class="" value="" maxlength="100" autocomplete="off" type="text" placeholder="站内搜索" style="height:30px">
+                    <button id="newssearch" style="background: none; position: absolute; right: 0; top: 4px; height: 30px; border: none; color: #000;"><i class="icon-search"></i></button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <!--侧栏热线-->
+    <div class="tools" style="top:50%">
+        <ul>
+            <li>
+                <a href="#"><i class="icon-t0"></i><span class="name">热线</span></a><span class="h-box zx">
+                    <span class="t">热线：010-82544500</span>
+                </span>
+            </li>
+            <li><a href="#"><i class="icon-t1"></i><span class="name">移动</span></a></li>
+            <li><a href="#"><i class="icon-t2"></i><span class="name">微信</span></a></li>
+            <li>
+                <a href="#"><i class="icon-t3"></i><span class="name">邮件</span></a><span class="h-box zx">
+                    <span class="t">邮件：lib@ia.ac.cn</span>
+                </span>
+            </li>
+            <li><a href="/consult/new"><i class="icon-t4"></i><span class="name">在线咨询</span></a></li>
+            <li><a href="/consult/delivery"><i class="icon-t5"></i><span class="name">文献传递</span></a></li>
+            <li><a href="/consult/recommend"><i class="icon-t6"></i><span class="name">图书荐购</span></a></li>
+        </ul>
+    </div>
+    <link rel="stylesheet" href="/css/site/news2.css" />
+<div id="body">
+
+    <div class="l-width">
+        <div class="news">
+            <div class="left-part">
+                <div class="news-guid">
+                    <h2 id="pageColumn">新闻公告</h2>
+                    <ul>
+                                <li class=" ">
+                                    <a title="&#x5BA3;&#x4F20;&#x56FE;&#x7247;" href="/news/newslist/1">
+                                        &#x5BA3;&#x4F20;&#x56FE;&#x7247;
+                                    </a>
+                                </li>
+                                <li class=" ">
+                                    <a title="&#x6D3B;&#x52A8;&#x901A;&#x77E5;" href="/news/newslist/2">
+                                        &#x6D3B;&#x52A8;&#x901A;&#x77E5;
+                                    </a>
+                                </li>
+                                <li class="current ">
+                                    <a title="&#x52A8;&#x6001;&#x8D44;&#x8BAF;" href="/news/newslist/3">
+                                        &#x52A8;&#x6001;&#x8D44;&#x8BAF;
+                                    </a>
+                                </li>
+                                <li class=" ">
+                                    <a title="&#x5E73;&#x53F0;&#x6570;&#x636E;" href="/news/newslist/1004">
+                                        &#x5E73;&#x53F0;&#x6570;&#x636E;
+                                    </a>
+                                </li>
+                                <li class=" ">
+                                    <a title="&#x8BFE;&#x7A0B;&#x4E2D;&#x5FC3;" href="/news/newslist/1008">
+                                        &#x8BFE;&#x7A0B;&#x4E2D;&#x5FC3;
+                                    </a>
+                                </li>
+                                <li class=" ">
+                                    <a title="&#x91CD;&#x70B9;&#x5173;&#x6CE8;" href="/news/newslist/1010">
+                                        &#x91CD;&#x70B9;&#x5173;&#x6CE8;
+                                    </a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="main">
+                <div class="main-site">
+                    <span class="current">当前位置：</span><a>&#x52A8;&#x6001;&#x8D44;&#x8BAF;</a>
+                </div>
+                <div class="main-content">
+                        <div class="news-detail">
+                                <h1><span style="">主要国家人工智能技术发展路线图规划模式及启示</span></h1>
+                                <em>
+                                        <span>发布时间：2022-02-25</span>
+                                </em>
+                                <div class="news-content">
+                                    <p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">2017年以来，美国、欧盟、英国、日本、韩国、俄罗斯、加拿大等主要国家和经济体相继发布人工智能研发战略，结合本国国情谋划人工智能未来发展路线，对人工智能的未来发展方向及优先领域进行系统布局。本研究基于人工智能技术和社会双重属性，提出用于分析人工智能路线图规划模式的“菱形”分类图，通过分析主要国家的人工智能发展战略，探索凝练出典型的规划模式，即美国的“全面技术引领型”模式、欧盟的“伦理深度介入型”模式、英国的“伦理约束下的双驱动力”模式、日本的“智能社会导向型”模式、韩国的“产业结合与领域选择型”模式、俄罗斯的“基础研发夯实型”模式和加拿大的“前沿理论创新型”模式。在此基础上，尝试提出符合中国国情的未来人工智能发展路径。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">人工智能技术作为一种通用技术，其发展日益受到各国重视。2016年AlphaGo出现以来，全球已有20余个国家和地区密集发布了人工智能相关战略、规划或重大计划、美国、德国、法国、英国、日本、韩国、俄罗斯、加拿大等主要发达国家都将发展人工智能提升到国家或区域战略层面，对人工智能的未来发展方向、优先领域进行系统布局，以抢占未来发展制高点，美国、德国、韩国等更是根据人工智能发展的阶段性特征和本国国情等及时更新了人工智能发展战略。分析这些国家人工智能未来发展路线图的规划背景、特征与模式，研究其规划布局的内在逻辑，有助于我们借鉴相关经验，构建并持续完善符合我国国情的人工智能发展路线，科学有序地推进我国人工智能发展。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">1 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">各国制定人工智能发展路线图的背景及典型模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">“路线图”作为一种规范且灵活的规划手段，通常是将短期、中期和长期发展目标与具体的技术解决方案相匹配，进一步明确重点任务、发展方式、发展路径和必要举措的过程，以支撑实现相应时期的战略目标。科学、合理的路线图设计既可以帮助发现当前新兴技术发展过程中所面临的难题，确定未来发展方向及应用领域，同时也可以辅助管理者制定前瞻性的技术战略管理方案。人工智能作为一种通用技术，正在对人类社会各个领域产生颠覆性影响，同时处在本轮发展热潮的人工智能技术不仅面临诸多技术瓶颈，其引发的深度伪造、隐私，侵犯、机器伦理等治理挑战也日渐突出，亟需通过前瞻性战略规划引导人工智能技术发展，规范人工智能创新应用。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">人工智能技术自身发展面临诸多困境，迫使人们去探索可能的新路径。当前，主流的以深度学习为代表的人工智能算法仍存在不可解释、通用程度低、情景适应能力弱、抗干扰能力差等问题：数据驱动的人工智能对算力的要求越来越高，有研究显示，2012年以来人工智能算法训练过程中使用的算力呈指数级增长，平均每3.4个月就会翻倍，这一周期远远低于半导体硬件摩尔定律18个月的周期，近年来摩尔定律正逐渐逼近极限，因此，无论是集成电路硬件设计还是高性能计算体系架构都亟待有新的方法或路径出现。此外，确保人工智能研发及应用符合人类伦理，是管理主体和研发主体等必须积极解决的问题。作为一项颠覆性技术，人工智能引发了许多新的伦理难题，如算法歧视、决策过程的不可解释性、算法进化的不可控性等，人工智能技术应用的广泛性和渗透性则进一步放大了个人信息泄露、社会偏见等方面的风险，因此需要在技术进步性与伦理可接受性之间寻找平衡，将伦理纳入技术演化图景中。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">各国人工智能发展的基础条件和水平不同，且彼此之间在文化传统、伦理道德观念方面存在一定的差异，因此在规划模式上也有所不同。比如，美国追求在人工智能基础研究和技术应用等方面的全面领先，欧盟在人工智能应用和产业发展方面处于相对弱势地位，且许多欧盟人士对于AI持完全怀疑态度…负面情绪要明显得多，导致欧盟在设计未来AI发展路线图时更加强调伦理要素的介入。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">基于上述技术、伦理以及国情等核心因素，本文在分析主要国家人工智能发展路线图规划特征时，提出包含横纵两大维度的菱形分类图（见图1)。纵向两个维度分别是技术导向优先和伦理导向优先，前者表示更倾向于从技术自身发展来进行布局，后者则强调从伦理视角来引导规范人工智能发展。横向四个维度主要有创新的前瞻性、研究的基础性、产业的选择性和社会粘合度，意指不同国家在规划重心上各有侧重，或注重前沿问题探索，或关注基础理论，或强调结合本国产业优势等。需要指出的是，上述各维度之间的划分只是侧重不同，并不存在非此即被的明确界限。整体来看，美国具有明显的“技术优先导向+创新前瞻性”特征（图1中的TAF维面），强调技术领先，欧盟各国和英国重视将伦理嵌入人工智能的未来发展中，属于“伦理优先导向”与“研究的基础性”的结合(EAB维面)，日本关注数据智能与社会各要素的结合，推动“社会的智能性”(TAS维面)，韩国产业选择性特征最为突出，将人工智能规划与本国的优势产业紧密结合在一起(TAR维面)，俄罗斯重视夯实人工智能基础理论与方法(TAB维面)，加拿大重视人工智能前沿理论的颠覆性创新(TAF维面)。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px; padding-left: 40px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px; padding-left: 40px;"><img src="http://lib.ia.ac.cn:8003/ContentDelivery/20220225/0zl11_8F0327C1B229A72F2C2839E762385369.jpg" title="0zl11.jpg" alt="0zl11.jpg" data-mce-src="http://lib.ia.ac.cn:8003/ContentDelivery/20220225/0zl11_8F0327C1B229A72F2C2839E762385369.jpg"></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">2 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">美国：全面技术引领型模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">同其他高技术领域的战路发展目标相同，美国对人工智能发展的定位是保持美国在全球的领先地位。2016年奥巴马发布首份《国家人工智能研发战略计划》，并将这一战略规划类比为新阿波罗计划。2019年2月特朗普签署行政令，强调美国在人工智能研发和部署方面处于世界领先地位，未来美国在人工智能领域将继续保持领导地位。政府部门、研发资助机构等相继发布技术路线图，力图进一步塑造技术优势。总体来看，美国高度重视人工智能基础理论研究与前沿创新，并持续加强对未来革命性算法的前瞻研判，开拓类脑智能前沿创新领域，布局面向未来的智能半导体研发，同时也注重人工智能相关伦理法律问题，为人工智能创新提供文化与社会支持，如《国家人工智能研发战略计划》中的八大战略之一便是理解和处理人工智能的伦理、法律和社会影响。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">2.1 AI</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">未来算法</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">美国科学技术委员会、美国人工智能协会(AAAI)、美国国防部高级研究计划局(DARPA)等陆续发布相关计划，不仅要进一步探讨主流的数据智能研究范式，还努力从情境层面为未来人工智能算法应实现的功能开展前瞻性引导和布局。一方面，进一步强化数据智能基础理论研究。《国家人工智能研发战略计划（更新版）》特别指出，确保对人工智能基础研究的长期投资，优先领域包括以数据为中心的知识发现方法，加速异质性数据的新知识发现问题，了解AI算法的能力及局限，特别是其决策机制、推理过程等。另一方面，前瞻性探讨未来算法特征。AAAI、美国科学院等发布的《美国未来20年人工智能研究路线图》对未来人工智能可能达到的理想功能状态进行了预测，一是集成智能发展应实现不同智能系统间的有效整合，打破当前人工智能研究仅限于单个技术领域、仅可应用于孤立问题的分立局面；二是实现人机、机机之间有意义的互动，开发具有社会特征的智能体，实现人机、机机之间的有效协作，以及可了解人类意图的敏捷交互机器人等；三是使人工智能具有自我意识的学习能力，使人工智能主动捕获超越表面相关性的知识，或无需人工介入便可进行长时有效学习。DARPA启动实施的“AI Next”计划提出，要提升人工智能技术的情景适应性，可根据不同的应用领域、基于不同的情景主动构建学习模型，目标是让机器从工具变成可信赖的合作伙伴，使机器具备一定的常识和识别能力，以及终身学习能力，在没有相关经验或提前训练的情况下应对新的情况。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">2.2 </span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">类脑智能研究</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">受脑科学研究成果启发的类脑智能已成为非常重要的发展方向。早在2008年，美国DARPA便启动了神经形态自适应可塑可扩展电子系统项目，力图打破冯·诺依曼体系，实现计算与存储的高度融合，构建架构层面与人脑更为相似的新型计算机。该项目的主要执行者之一IBM于2011年宣布完成区别于传统诺依曼式架构的革命性电脑芯片设计方案，2014年推出TrueNorth大脑芯片计划，2017年设计出第五代自学习神经形态测试芯片Loihi。脑机接口、智能增强是另一个优先发展领域，2016年，DARPA发起神经工程系统设计项日(NESD)，关注视觉、听觉及语言系统的智能增强，开发可将大脑神经元电化学活动翻译成数字语言的可植入芯片；2018年，DARPA推出下一代非手术神经技术项目(N3)，旨在开发不需要手术的高分辨率神经接口技术；同时，DARPA联合美国陆军、美国空军等，推进一系列脑机交互/智能增强计划，包括定向神经可塑性训练计划、阿凡达计划、脑联网项目、脑电波控制无人机蜂群研究、脑信息提取研究、恢复性主动记忆项目等。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">2.3 </span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">下一代半导体研发</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">美国一向认为半导体领域是其确保人工智能全球领先优势的核心关键，近年来持续强化下一代半导体研发，2020年8月，美国白宫在《2022财年美国研发预算优先事项》中特别强调，要在半导体基础材料、器件、设计和软件方面继续保持全球领导地位。2018年11月，DARPA宣布电子复兴计划正式进入第二阶段，推动美国半导体产业向专用集成电路方向转变，优先领域包括传统CMOS集成电路工艺等比例缩放技术的替代路径研究、微机电系统(MEMS)与射频器件的集成研究、可增强电子元器件安全性和隐私性的防护技术研发等。2020年10月，美国半导体工业协会等发布“半导体十年规划”，推进传感、存储、通信、安全、高效计算等传统硬件领域的智能化革命与转型，重点推动感知信息智能处理技术、高密度存储技术、智能和敏捷网络与通信技术、安全硬件设计、异构计算与3维半导体制造等。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">3 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">欧盟：伦理深度介入型模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">欧盟及其主要成员国在布局人工智能技术、产业发展和社会应用等方面均强调伦理约束，围绕欧洲文化与价值观来形塑AI的未来技术演化及应用，欧盟的野心在于力图成为开发和部署前沿性、合伦理性及安全性AI的世界领导者。自冯德莱恩新任欧洲委员会主席以来，欧盟出台的所有科技相关战略都把“技术主权”作为重要目标，“欧盟必须具备能力，基于自己的价值观、根据自己的规则来做出选择”，在人工智能领域，欧盟将在世界范围内努力输出欧盟价值观。相比美国，欧盟没有从技术层面对未来新一代AI进行详细规划，认为人工智能研究高度动态且创新周期短，很难对其未来发展进行可靠预测与布局，而是将重点放在分析AI的伦理和社会责任边界，以此为基础来引导A紅技术的未来发展。同时，欧盟对AI伦理体系的构建已从单纯的理论探讨延伸至实践层面，最具代表性的政策文件就是2018年正式生效的《通用数据保护条例》(GDPR)。2020年2月发布的《人工智能白皮书：通往卓越与信任的欧洲之路》重点围绕“卓越生态系统”与“信任生态系统”两方面展开，着重建构可信任与安全的人工智能监管框架)。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">3.1 </span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">欧盟：为人工智能技术设立伦理边界</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">为了保障AI的发展符合欧洲伦理要求，欧盟提出发展“可信性人工智能”，重视数据隐私保护、维护人类尊严、可控性、可解释性、可追责性。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">主要遵循三大原则：一是尊重隐私，GDPR确定了数据主体的知情权、访问权（查阅权）、更正权（限制处理权)、数据移植权、被遗忘权以及明确的处罚规则，且GDPR属于欧盟法律条例，无需各国议会通过便可在各欧盟成员国执行；二是技术的伦理嵌入，《可信人工智能伦理指南草案》提出可信性人工智能10项要求一一可追责性、数据治理、普惠设计、非歧视、尊重和强化人类自治、隐私保护、透明性等)，并基于这些要求提出技术方案，包括将伦理和法律纳入AI设计、监测AI模型的稳定性、AI决策过程的可解释性等；三是风险可控与安全，2020年2月欧盟委员会的《面向卓越和信任的人工智能发展之路》突出了AI风险可控理念，要求允许对人工智能的行为或决策进行追踪和验证；提供关于使用高危人工智能系统的充分信息，使其按照预期可靠地运行；确保人类监督，人工智能系统不应破环人类的自主性或造成其他不利影响。除了伦理约束型AI技术，欧盟还结合自身传统优势，着力优先发展以下理论与技术：在基础理论探索中，欧盟第九期研发框架计划(2021一2027年)重点支持无监督机器学习，使用较少数据来训练人工智能等研究方向；在智能机器人领域，欧盟地平线2020“未来和新兴技术”项目对具有传统优势的机器人领域进行大量投入，重点支持人工智能与机器人领域的融合；神经形态计算及基于AI的人类增强技术结合欧盟“人类大脑计划”，推动神经形态计算发展，如大型神经形态计算平台建设及下一代神经形态芯片；加大基于AI技术来增强人类能力的相关研究，且这一方向已于2019年进入欧盟“旗舰科学计划”最后一轮筛选流程。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">3.2 </span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">德国：三位一体模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">德国提出“AI德国造”口号，强调AI创新能力、社会责任和伦理责任三位一体，将AI创新与社会需求、公民安全、伦理责任等整合起来，以负责任为导向推动人工智能开发和利用，引导人工智能的未来发展。在AI技术创新层面，德国志在成为欧盟AI创新发展的驱动力，确保欧洲在AI研发方面的全球领先地位，重视模式识别、推理系统、基于知识的系统、机器人等基础研究，注重提高人工智能抵御攻击的能力、构建安全可靠的AI，支持AI软硬件协同设计等前沿领域，2020年《德国人工智能战略（修订版）》强调了“增强欧洲AI技术主权”的理念。在社会责任层面，要求负责任地开发和使用AI、确保AI为社会造福，特别强调AI对各种应用领域的赋能，如提升人工智能与关键技术（例如生物技术和生产技术)相结合的潜力，推动AI与医疗卫生、护理、航空航天、农业和食品等领域的融合，同时加强AI在气候与环境保护、可持续发展、抗击流行病等方面的应用，努力实现联合国提出的17项可持续发展目标。在伦理责任层面，强化AI可解释性研究，使人工智能变得可解释、可问责、透明；推动保护消费者利益和隐私、保障公民安全的人工智能技术研发，推动以人为本的AI应用框架的完善。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">3.3 </span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">法国：发展有意义的人工智能</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">法国在规划未来人工智能的发展时关注其承截的社会责任，强调发展对社会发展有意义的人工智能。2018年3月，法国总统马克龙宣布实施法国人工智能战略—AI造福人类，明确提出有意义的人工智能理念。“有意义”主要体现在三个方面，首先，人工智能发展需要符合这个时代的普遍利益、能够应对主要挑战，特别指出将利用人工智能技术来保护生态作为首要任务，确保以最经济的方式利用能源。其次，人工智能本身并不是目的，它应成为服务、造福人类的工具，如发展AI不应加剧社会不公平、破坏现有的社会福利体系，应确保基本的人权、促进社会团结等。最后，“有意义”还意味着AI应具有可解释性，数字社会不应受到“黑盒算法”的支配。基于这一理念，法国将未来AI研发重点聚焦以下领域：①有利于公共利益的AI，推动AI技术与公共领域（如医疗、环境、交通和国防安全)的结合；②“绿色”AI，大力推进能源节约型AI技术研发、重塑后摩尔定律时代的半导体产业，如新型半导体材料、颠覆性算法、创新性架构体系等，特别是内存计算和神经形态芯片研究；③使工程师及设计人员以合道德和伦理的方式设计、开发AI技术，此外，研发更多的可解释性模型，理解AI决策过程的内在机制。法国希望基于其传统的数学等基础科学的优势来强化AI基础研究，如半监督或非监督学习、强化学习、表征学习、迁移学习、知识表示分布式人工智能等，通过基础领域突破来推进AI理论创新及其与应用的结合。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">4 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">英国：伦理约束下的双驱动力模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">英国积极构建基于数据驱动的经济发展模式，使AI知识创新、大数据应用成为推动英国经济增长的新引擎。“我们的愿景是使英国成为世界上最适合发展和部署人工智能的国家”，但总体上英国较少从技术层面对AI未来发展进行详细预测，而是更多关注如何为AI发展提供更好的数据环境。英国强调伦理约束下的双驱动力发展模式：一是重视人工智能发展的数据基础，开发可信任的数据、强化数据的共享性，支持文本和数据挖掘；二是积极推动AI知识创新，通过机器学习技术的发展来推动数据应用，使英国成为世界人工智能研发与应用的标杆；三是强调在数据和人工智能的合平伦理的发展和使用方面引领世界，如2017年4月英国皇家学会发布《机器学习：计算机通过实例学习的能力和前景》，指出下一波机器学习的新议题便是可解释性、验证和确认、隐私、处理真实数据、因果性、安全。2018年4月，英国上议院发布《英国人工智能发展的计划、能力与志向》报告，呼吁英国有能力成为人工智能领域的世界领导者，同时强调要推动合乎伦理的AI研发及应用模式，具体包括：①推进数据共享、使公共数据的价值得以最大化；②积极发展可理解的AI；③确保数据样本的平衡和代表性；④打破数据垄断。在2021年1月发布的《人工智能路线图》中，英国人工智能委员会同样强调要在强化AI基础研究（如异质性数据库间的通用语言、非结构化数据分析技术)的同时，发展安全、合道德、可解释、可回湖的AI技术，实现对AI技术发展与应用的“善治”。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">5 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">日本：智能社会导向型模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">日本发展人工智能是在“超智能社会”的顶层愿景下进行谋篇布局的，重点探索基于以人为中心原则，构建一个面向未来的、基于先进AI系统的“超智能社会”——社会5.0，通过构建智能社会体系、实现社会各要素的高效整合，来解决日本当前所面临的各种社会问题、加速社会运转效率。2017年3月，日本内阁人工智能技术战略委员会发布《人工智能技术战略》报告，详细描述了日本面向2030年的“5.0社会”的人工智能研发和产业化路线图：发展人工智能基础系统、数据和硬件；促进人工智能在生产领域的应用；推动AI在健康、医疗和社会福利领域中的应用；实现AI与交通领域的融合。2019年，日本发布《AI战略2019》，明确指出，“日本必须先于其他国家采取行动，解决人口老龄化、人口减少和基础设施恶化等成熟社会所面临的许多社会问题。”《AI战略2019》认为，虽然当前日本并没有在AI技术领域形成足够的国际竞争力，但可以在世界范围内率先实现AI技术的广泛社会应用，形成可持续的、以人为本的智能社会运转系统：①使日本成为世界AI应用领域的领先者，以增强工业竞争力；②借助AI技术来发展循环生态经济，成为国际可持续发展典范；③提出以人为本的AI社会发展准则一一尊严、包容、可持续性。《AI战略2019》详细规划了未来AI在医疗与健康、农业、国土资源、交通基础设施与物流、地区发展五个重点领域的应用方式，积极构建数字智能社会，如在国土资源领域构建国家数字基础设施、智能资源管理系统及灾害应对系统等。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">6 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">韩国：产业结合/领域选择型模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">早在2016年，韩国便发布了《为智能信息社会做准备的中长期总体规划：为第四次工业革命做准备》报告，将信息智能化视为第四次工业革命的核心特征。韩国非常强调将人工智能的未来规划与本国优势产业结合起来，进行有针对性的技术布局，大力发展人工智能半导体产业，具有非常强的优势产业关联性。为了将韩国在信息通信技术、半导体、电子器件制造等领域的优势转化为发展人工智能的优势，韩国在2019年提出从“IT强国”向“人工智能强国”转型的宏伟愿景，同时还谋划了未来4年利用数据和人工智能促进经济发展的产业计划。具体来说，就是利用其世界最好的ICT基础设施和半导体制造技术，集中打造全球AI硬件研发、加工和生产中心，主要有先进元器件、材料开发，包括低能耗元件、细微工程专用装备及工程技术等；新概念人工智能半导体开发，特别是可整合记忆（存储）和运算（处理器）的新计算架构体系，如内存中计算：新一代AI算法预研，如可解释性AI、情景适应性AI、小数据样本学习式AI等。2020年10月，韩国发布“人工智能半导体产业发展战略”，进一步明确了智能半导体在未来整个产业体系中的核心地位，力图使其成为韩国的“第二个DRAM产业”，并围绕智能汽车、基于物联网的家用电器、生物技术、机器人和公共服务五大关键领域，定制化开发每个领域所需的智能芯片。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">7 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">俄罗斯：基础研发夯实型模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">俄罗斯高度重视人工智能发展，2017年9月普京发表公开演讲时强调人工智能是“人类的未来”，但总体来讲，相比美国、中国、欧盟，俄罗斯在人工智能研发投入、社会应用等方面尚存在差距，产业生态还不完善。因此在规划未来AI发展路线时，俄罗斯特别注重利用国家力量（包括国防部、联邦教育和科学部、科学院、各公立学校等)，通过自上而下方式来推动AI研发体系改革，希望在核心算法及硬件方面有所突破，夯实AI发展所需的基础理论及技术体系，培育本国AI产业生态。这一理念集中体现在2019年10月发布的《俄罗斯2030年前国家人工智能发展战略》中：一是加强人工智能基础研究，优先发展模拟生物决策的集群算法、自主学习算法、复杂任务的自主分解及解决、神经计算系统架构基础等领域，成立算法研究基金；二是积极推动AI软硬件、数据基础的发展，构建AI产业生态体系，包括研发及推广人工智能软件，提升数据的可访问性（如创建、升级各类公共数据访问平台，开发数据采集、标记的统一方法等)，提高人工智能发展所需硬件的质量（如发展俄罗斯国产处理器、光电元器件，建立高性能数据处理中心)。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">8 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">加拿大：前沿理论创新型模式</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">加拿大是深度学习理论的诞生地，在规划未来AI发展时，加拿大注重结合其在深度学习方面的知识储备基础，推动AI基础理论创新，力图成为世界AI基础创新和人才培养基地[知]。2017年3月，加拿大颁布“泛加拿大人工智能战略”，成立三个卓越AI研究中心——艾伯塔省机器智能研究所、向量研究院和蒙特利尔学习算法研究所。同时仿效硅谷，推进“人工智能超级集群”战略，形成“多伦多-滑铁卢”（多伦多大学、向量学院、加拿大高等研究院等)、蒙特利尔（蒙特利尔大学、蒙特利尔学习算法研究所等)和埃德蒙顿（艾伯塔大学、艾伯塔机器智能研究所)三大超级人工智能研发中心。理论基础创新是加拿大未来AI研究的重点，各主要研究机构基于其在深度学习、强化学习基础理论方面的优势地位，力图实现AI基础理念的颠覆性突破。例如：加拿大高等研究院重点研究人机交互、机器和大脑中的基本学习原理；艾伯塔机器智能研究所则希望在未来的AI和机器学习领域做出里程碑式发现，强化学习、启发式搜索、自然语言处理、博弈理论、深度学习是其主要研究方向；向量研究院则关注序贯决策、生成模型、AI算法的数学基础等基础性、前沿性基础理论创新领域。</span></p><p style="text-align: center; line-height: 2em; margin-top: 10px;" data-mce-style="text-align: center; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px;" data-mce-style="font-size: 18px;"><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">9 &nbsp;</span></strong><strong><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">启示</span></strong></span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">综上所述，全球主要国家基于本国的科技、产业、社会和文化等现状，探索符合本国国情的人工智能未来发展路径。总体来看，除了前沿领域（如面向未来的新一代人工智能）外，关键共性技术（与AI产业相关的核心算法与架构、先进半导体材料与加工工艺等)已成为各国布局的重中之重，人工智能的未来竞争将是前沿技术与关键共性技术的“双驾马车之争”，而各国的AI伦理治理实践不仅仅表现为一种文化异同，更涉及AI技术标准与产业生态的国际话语权分配。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif;" data-mce-style="font-size: 18px; font-family: 微软雅黑, sans-serif;">2020年初以来的全球新冠肺炎疫情进一步加速了以人工智能、量子信息、宽带无线通信等为核心的数字技术的发展与应用，未来较长一段时期仍是人工智能发展的重大机遇期。中国作为人工智能发展大国，应在客观总结国家《新一代人工智能发展规划》第一步阶段性成果的基础上，参考借鉴主要国家做法，根据最新技术发展态势适时更新完善规划实施重点，坚持人工智能技术属性和社会属性并重、加快推进人工智能伦理治理等，确保国家战略目标顺利实现。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">一是更加注重AI关键共性技术的攻克与储备。中国在AI核心算法、支撑AI发展的半导体产业等基础层技术层面依然有明显差距。首先是AI核心算法缺位，如1960一2018年，美国向美国专利商标局所提交的高被引专利族群达28031件，而中国仅为691件；其次是关键性半导体材料及生产工艺技术缺乏（如GPU研发与应用、智能芯片生产与加工等)。因此，中国应启动“AI基础层技术战略储备计划”，对自然语言处理、视觉/语音识别与处理、智能搜索、云计算领域中的核心算法与底层技术，以及支撑AI产业发展的半导体技术(材料创新、芯片设计/加工/产生工艺等)实施更有针对性的规划，维护整个AI产业的生态安全。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">二是结合学科前沿、产业优势与未来需求等强化下一代AI技术的前瞻部署。如下一代AI算法预研，包括情景适应性算法、通用性算法、元学习算法、类脑算法等；应用障碍型算法创新，突破算法可解释性、可追责性、抗干扰性等问题；新计算体系，可颠覆冯·诺依曼架构体系的内存中计算、异构计算、神经形态计算、量子计算等；学科交叉式核心算法创新，赋予科学研究事业，如类似于Alpho Fold、AI化学家等新型科研平台及工具，为科研活动提供颠覆性研究手段；产业优势结合型前沿技术，结合我国的5G、无人驾驶以及数据基础方面的技术优势，发力下一代边缘计算、云计算、集群算法技术；后摩尔定律时代的新型半导体材料、加工工艺研究，如3D堆栈、可改进硬件的AI、芯片的敏捷设计、碳化硅材料等。</span></p><p style="text-indent: 28px; line-height: 2em; margin-top: 10px;" data-mce-style="text-indent: 28px; line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">三是加快人工智能伦理治理实践。坚持把握人工智能技术属性和社会属性高度融合的特征，在国家规划层面加强伦理治理的项层设计，并在工作机制、政策试验和行业领域监管等方面不断探索实践，取得一定成效。下一步在伦理治理理念上，应统筹发展与安全，找好发展与安全的平衡点，既不能因为规制过度而阻碍技术创新应用，也不能因为规制不当而引发不可逆转的风险。在治理路径上，坚持从技术、法律和伦理三方面共同推动符合人工智能阶段性发展特征的规制体系，加强人工智能安全可信、隐私保护等方面的技术研发，强化伦理治理和风险防范的技术支撑，实现“以技制技”。分领域、分地域开展立法试点，为国家层面立法积累实践经验。在《新一代人工智能治理原则一一发展负责任的人工智能》指导下，积极构建中国特色的AI伦理规范，提出可操作、可落实的AI伦理规范并加快落地实施，以开放包容共享的理念推进人工智能伦理治理的全球合作。</span></p><p style="line-height: 2em; margin-top: 10px;" data-mce-style="line-height: 2em; margin-top: 10px;"><span style="font-family: 微软雅黑, sans-serif; font-size: 18px;" data-mce-style="font-family: 微软雅黑, sans-serif; font-size: 18px;">来源：中国科技论坛</span><span style="font-size: 18px;" data-mce-style="font-size: 18px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>
+
+                                    <div class="panel-body">
+                                        <a class="media" href=""></a>
+                                    </div>
+                                </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <input type="hidden" id="isLogined" value="False" />
+</div>
+
+
+    <div id="footer">
+    <!--友情链接 start-->
+    <div class="links">
+        <div class="l-width">
+            <div class="index-tail">
+                <div class="index-tail-content">
+                    
+<ul>
+            <li><a href="/link/68215/2">&#x7814;&#x7A76;&#x6240;&#x4E3B;&#x9875;</a></li>
+            <li><a href="/link/377/2">&#x7F51;&#x4E0A;&#x529E;&#x516C;&#x5E73;&#x53F0;</a></li>
+            <li><a href="/link/176/2">&#x4E2D;&#x79D1;&#x9662;&#x90AE;&#x4EF6;&#x7CFB;&#x7EDF;</a></li>
+            <li><a href="/link/175/2">&#x4E2D;&#x79D1;&#x9662;&#x6587;&#x732E;&#x60C5;&#x62A5;&#x4E2D;&#x5FC3;</a></li>
+            <li><a href="/link/174/2">&#x56FD;&#x5BB6;&#x56FE;&#x4E66;&#x9986;</a></li>
+            <li><a href="/link/173/2">&#x56FD;&#x5BB6;&#x79D1;&#x6280;&#x56FE;&#x4E66;&#x6587;&#x732E;&#x4E2D;&#x5FC3;</a></li>
+            <li><a href="/link/172/2">&#x6E05;&#x534E;&#x5927;&#x5B66;&#x56FE;&#x4E66;&#x9986;</a></li>
+            <li><a href="/link/171/2">&#x81EA;&#x52A8;&#x5316;&#x5B66;&#x62A5;</a></li>
+            <li><a href="/link/369/2">IEEE/CAA Journal of Automatica Sinica</a></li>
+            <li><a href="/link/370/2">Machine Intelligence Research</a></li>
+</ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--友情链接 end-->
+
+    <div class="l-width">
+        <div class="index-tail-content none-after">
+            
+        </div>
+
+    </div>
+</div>
+<div class="footer-code-show" id="footer-code-show" style="display:none">
+    <img src="/images/site/cd_cx.jpg" />
+    <a class="close" href="javascript:void(0);" onclick="jQuery('#footer-code-show').hide();jQuery('#lay-bg').hide();"></a>
+</div>
+<div class="layer-bg" id="lay-bg" style="display:none"></div>
+
+    
+    <script>
+        //加载页面js
+        require(["news"], function (news) {
+            news.init();
+        });
+
+    </script>
+
+</body>
+</html>
+    <script src="https://chatlibrary.newacademic.net/static/a_chat_web_robot/ykqx-c-s-1.0.js?orgcode=1411&color=#6596FF&imageName=ykqx&imageFormat=png&autoOpen=1" type="text/javascript">
+
+    </script>
