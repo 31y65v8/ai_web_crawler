@@ -12,6 +12,7 @@ from scrapy_splash import SplashRequest
 from scrapy import Request
 from bs4 import BeautifulSoup
 
+
 '''
 使用scrapy直接爬取Google响应请求的html页面
 '''
@@ -31,17 +32,37 @@ class GoogleSpiderSpider(scrapy.Spider):
     start_urls = ['http://google.com']
 
     # 数据文件路径
-    csv_file_path = 'data.csv'
+    csv_file_path = 'spiders/data.csv'
 
     # 初始化，检查文件是否存在，若存在则加载已有的标题以防止重复
     def __init__(self, *args, **kwargs):
         super(GoogleSpiderSpider, self).__init__(*args, **kwargs)
-        self.existing_titles = set()  # 用于存储已存在的标题，以避免重复
-        '''if os.path.exists(self.csv_file_path):
+        self.existing_urls = set()  # 用于存储已存在的url，以避免重复
+        # 增加csv文件每行字段大小限制
+        csv.field_size_limit(10000000)  # 10MB
+
+        def clean_file(file_path):
+            # 读取文件并去除 NUL 字符
+            with open(file_path, 'rb') as file:
+                content = file.read()
+            content = content.replace(b'\x00', b'')  # 删除 NUL 字符
+            with open(file_path, 'wb') as file:
+                file.write(content)
+
+        # 清理 CSV 文件
+        clean_file('spiders/data.csv')
+
+        #重启爬虫时加载data.csv文件中所有已经存在的url
+        if os.path.exists(self.csv_file_path):
+            clean_file(self.csv_file_path)
             with open(self.csv_file_path, mode='r', encoding='utf-8') as file:
                 reader = csv.DictReader(file)
                 for row in reader:
-                    self.existing_titles.add(row['title'])'''
+                    self.existing_urls.add(row['url'])
+
+
+        # 去重文件中的内容
+        self.remove_duplicates_from_csv()
 
     def write_to_csv(self, item):
         # 如果 CSV 文件不存在，则写入表头
@@ -55,19 +76,47 @@ class GoogleSpiderSpider(scrapy.Spider):
                 writer.writeheader()
 
             writer.writerow(item)  # 写入一行数据
+        # 写入成功后，将 title 添加到 existing_titles 集合中
+        self.existing_urls.add(item['url'])
+
+    def remove_duplicates_from_csv(self):
+        """去除 CSV 文件中的重复条目"""
+        if not os.path.exists(self.csv_file_path):
+            return  # 如果文件不存在，直接返回
+
+        # 读取 CSV 文件并存储已存在的标题
+        existing_urls = set()
+        rows = []  # 用来存储去重后的所有数据行
+
+        with open(self.csv_file_path, mode='r', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                title = row['url']  # 获取每一行的标题
+                if title not in existing_urls:
+                    existing_urls.add(title)  # 如果标题没有出现过，则添加到集合中
+                    rows.append(row)  # 将此行数据添加到结果列表中
+
+        # 重新写入去重后的数据
+        with open(self.csv_file_path, mode='w', newline='', encoding='utf-8') as file:
+            fieldnames = ['title', 'url', 'last_modified', 'crawl_time', 'language', 'keyword', 'source', 'text']
+            writer = csv.DictWriter(file, fieldnames=fieldnames)
+            writer.writeheader()  # 写入表头
+            writer.writerows(rows)  # 写入去重后的数据行
+
+
 
     # 读取 cookies 的函数
     def load_cookies(self):
-        with open('gcookies.json', 'r') as f:
+        with open('spiders/gcookies.json', 'r') as f:
             cookies = json.load(f)
         return cookies
 
     custom_settings = {
         'ROBOTSTXT_OBEY': False,
         'LOG_LEVEL': 'DEBUG',
-        'CONCURRENT_REQUESTS_PER_DOMAIN': 2,
-        'CONCURRENT_REQUESTS' : 2,
-        'RETRY_TIMES': 3,
+        'CONCURRENT_REQUESTS_PER_DOMAIN': 3,
+        'CONCURRENT_REQUESTS' : 5,
+        'RETRY_TIMES': 5,
         'DOWNLOAD_DELAY': 2  # 限制请求之间的延迟时间，防止过于频繁的请求
         , 'RETRY_HTTP_CODES': [502, 503, 504, 408],
         'RANDOMIZE_DOWNLOAD_DELAY' : True  # 启用请求延迟的随机化
@@ -76,31 +125,15 @@ class GoogleSpiderSpider(scrapy.Spider):
 
 
     # 基础关键词
-    base_queries = ['人工智能发展历程',]
+    base_queries = ['人工智能']
 
     # 拓展关键词
-    extension_queries = ['大事纪']
+    extension_queries = ['应用','典型技术']
 
     # 组合生成查询
-    combined_queries = [ ]
+    combined_queries = ['智能生命']
 
     def start_requests(self):
-        '''headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            'Accept-Language': 'en-US,en;q=0.9',  # 增加 Accept-Language 头，模拟更真实的浏览器行为
-            'Accept-Encoding': 'gzip, deflate, br'
-        }'''
-
-        '''# 中文基础关键词
-        ch_base_queries = ['人工智能']
-
-        # 中文拓展关键词
-        ch_extension_queries = [
-            '应用',
-            '影响行业'
-        ]
-        # 中文组合生成查询
-        ch_combined_queries = []'''
 
         # 加载 cookies
         cookies = self.load_cookies()
@@ -111,10 +144,12 @@ class GoogleSpiderSpider(scrapy.Spider):
                 query = f"{base} AND {extension}"
                 self.combined_queries.append(query)
 
+        self.logger.debug(f"所有组合查询: {self.combined_queries}")
+
         # 发送请求到每个查询
         for query in self.combined_queries:
             self.logger.debug(f"正在查询关键词: {query}")  # 打印当前正在处理的查询
-            self.keyword = query#在数据库中标记关键词字段
+            #self.keyword = query#在数据库中标记关键词字段
             url = create_google_url(query)  # 创建 Google 搜索的 URL
             #yield scrapy.Request(url, callback=self.parse)
             #Google搜索结果页为动态页面，使用splash加载动态页面（先打开docker）
@@ -125,41 +160,13 @@ class GoogleSpiderSpider(scrapy.Spider):
                 args={'wait': 5},  # 等待时间，确保页面加载完成
                 endpoint='render.html',
                 #allow_redirects=True,
-                dont_filter=True
+                dont_filter=True,
+                meta={'keyword' : query}#meta 传递关键词
                 #resource_timeout = 10  # 资源加载的超时时间
             )
             #self.logger.debug(f"渲染完成: {query}")
 
-            '''# 随机等待 1 到 3 秒之间的时间
-            time.sleep(random.uniform(3, 5))
-'''
-    '''
-    #爬取每个搜索结果的html
-    def parse_search_results(self, response):
-            self.logger.debug(f"正在解析网页： {response.url}")
 
-            # 解析搜索结果页面
-            search_results = response.css('div.g')  # Google 搜索结果的父元素是 <div class="g">
-
-            # 遍历每个搜索结果并提取链接
-            for result in search_results:
-                title = result.css('h3::text').get()  # 提取搜索结果的标题
-                link = result.css('a::attr(href)').get()  # 提取搜索结果的链接
-
-                if link:
-                    # 处理相对链接
-                    if link.startswith('/url?q='):
-                        link = link[7:]  # 移除 "/url?q=" 部分
-
-                    # 确保链接是一个有效的完整 URL
-                    if link.startswith('http'):
-                        # 请求并爬取该页面的 HTML
-                        yield scrapy.Request(link, callback=self.parse_article, meta={'title': title, 'link': link})
-
-                    # 随机等待时间，避免过于频繁的请求
-                    time.sleep(random.uniform(1, 3))
-
-    '''
 
     # 判断是否为动态网页
     def is_dynamic(self,html_source):
@@ -191,17 +198,22 @@ class GoogleSpiderSpider(scrapy.Spider):
     # 调用 is_dynamic 方法判断页面类型
     def check_dynamic(self,response):
         #通过标题判断之前是否爬取过该网页
-        title = response.xpath('//title/text()').get()
-        if title and title not in self.existing_titles:
-            self.existing_titles.add(title)  # 将标题添加到已爬取的集合中
+        url = response.url
+        if url and url not in self.existing_urls:
+            self.existing_urls.add(url)  # 将标题添加到已爬取的集合中
         else:
-            self.logger.info(f"标题 {title} 已存在，跳过此网页")
+            self.logger.info(f"URL: {url} 已存在，跳过此网页")
             return
+
+        # 从 response.meta 获取 'keyword' 值
+        keyword = response.meta.get('keyword')
+        self.logger.info(f"网页搜索关键词: {keyword}")
 
         if self.is_dynamic(response.text):
             # 如果是动态网页，使用 Splash 渲染页面,再调用 parse_article
             self.logger.info(f"动态网页: {response.url}，使用 Splash 渲染")
-            yield SplashRequest(response.url, self.parse_article, args={'wait': 6})
+
+            yield SplashRequest(response.url, self.parse_article, args={'wait': 10, 'timeout': 60},meta={'keyword':keyword})
         else:
             # 如果不是动态网页，直接调用 parse_article
             self.logger.info(f"静态网页: {response.url}，直接解析")
@@ -211,28 +223,22 @@ class GoogleSpiderSpider(scrapy.Spider):
 
     #爬取搜索结果页，获取每个搜索结果的url列表
     def parse(self, response):
+
+        keyword = response.meta.get('keyword')  # 获取对应关键词
+        self.logger.debug(f"解析搜索结果页面时获取的关键词: {keyword}")  # 打印关键词
+
         self.logger.debug(f"响应状态码: {response.status}")
 
         if response.status != 200:
             self.logger.error(f"请求失败，状态码: {response.status} ， URL: {response.url}")
             return  # 如果请求失败，跳过
 
-        '''# 输出渲染后的 HTML 内容
-        rendered_html = response.text  # 获取渲染后的 HTML
-        self.logger.debug(f"渲染后的 HTML 内容:\n{rendered_html}")'''
 
-
-
-        # 使用正则表达式查找所有链接,返回一个包含所有匹配url的列表
-        # 匹配带有 jsname="UWckNb" 的链接，这包含搜索结果网页的url，观察搜索结果页面html分析得出（不包含谷歌学术论文）
-        #urls = re.findall(r'<a[^>]*jsname="UWckNb"[^>]*href="(https?://[^"]+)"', response.text)
-
-        # 使用正则表达式查找所有链接,返回一个包含所有匹配links的列表（不是完整url）
-        # 提取 <div class="egMi0 kCrY T"> 内的 href 属性，这包含搜索结果网页的link，观察搜索结果页面html分析得出（不包含谷歌学术论文）
         links = response.xpath('//div[contains(@class, "egMi0") and contains(@class, "kCrY")]/a/@href').extract()
         self.logger.debug(f'匹配到的搜索结果URL数: {len(links)}')  # 输出匹配到的链接数量
 
-
+        # 定义过滤 YouTube 链接的正则表达式
+        youtube_pattern = r'https?://(?:www\.)?youtube\.com/watch.*'
         # 去除无效链接
         valid_links = [link.split('&')[0]#去掉无关参数
                       for link in links
@@ -243,8 +249,10 @@ class GoogleSpiderSpider(scrapy.Spider):
                                                     'google.com/terms',  # Terms of service
                                                     'google.com/policies',  # Policies page
                                                     'google.com/settings',  # Any general settings link
-                                                    'accounts.google.com'])  # Google accounts links
-                      ]
+                                                    'accounts.google.com',# Google accounts links
+                                                     ]) and not any(link.lower().endswith(ext) for ext in ['.pdf', '.ppt', '.pptx'])
+                                                    and not re.match(youtube_pattern, link)
+                       ]
 
         #拼接完整url
         base_url = "https://www.google.com"
@@ -253,7 +261,7 @@ class GoogleSpiderSpider(scrapy.Spider):
             self.logger.info(f'搜索结果url: {url}')
 
             # 发送一个普通的请求，判断是否为动态网页
-            yield Request(url, callback=self.check_dynamic)
+            yield Request(url, callback=self.check_dynamic,meta={'keyword':keyword})
         # 打印或保存有效的 URL
         #for url in urls:
             #self.logger.info(f'搜索结果url: {url}')
@@ -265,7 +273,7 @@ class GoogleSpiderSpider(scrapy.Spider):
         #限制爬取搜索结果页数，每页10条
         page_number = response.meta.get('page_number', 1)  # 获取当前页码
 
-        if  page_number < 10:  # 限制爬取的最大页数（这里是5页）
+        if  page_number < 20:  # 限制爬取的最大页数
             # 获取下一页的链接
             #next_page = response.css('a#pnnext::attr(href)').get()  # 获取翻页链接（下一页）
             next_page = response.css('a[aria-label="Next page"]::attr(href)').get()
@@ -277,14 +285,15 @@ class GoogleSpiderSpider(scrapy.Spider):
                 # 更新页码并发起请求爬取下一页
                 #yield scrapy.Request(next_page_url, callback=self.parse, meta={'page_number': page_number + 1})
                 #splash模拟点击翻页
-                yield SplashRequest(next_page_url, callback=self.parse, args={'wait': 5},meta={'page_number': page_number + 1})
+                yield SplashRequest(next_page_url, callback=self.parse, args={'wait': 5},meta={'page_number': page_number + 1,'keyword':keyword})
 
 
 
     #提取搜索结果网页的标题、HTML内容和其他信息
     def parse_article(self, response):
 
-        #self.logger.info(f'正在处理文章页面: {response.url}')
+        self.logger.info(f'正在处理文章页面: {response.url}')
+        keyword = response.meta.get('keyword')#获取对应关键词
 
         # 创建 ScrapyCrawlerItem 实例
         item = ScrapyCrawlerItem()
@@ -315,27 +324,6 @@ class GoogleSpiderSpider(scrapy.Spider):
         # 获取爬取的时间（当前时间）
         crawl_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-        # 创建一个文件夹存储 HTML 文件
-        #folder_path = 'test'
-        #folder_path = 'Google'+ '-'.join(self.combined_queries)
-        #os.makedirs(folder_path, exist_ok=True)
-        #print(f"文件夹 '{folder_path}' 创建成功")
-
-        # 生成 HTML 文件名（避免特殊字符）
-        #filename = f"{title}.txt".replace(" ", "_").replace(":", "_").replace("/", "_")
-        #filename = filename.replace("\\", "_").replace("?", "_").replace("*", "_")
-        #filename = filename.replace('"', "_").replace("<", "_").replace(">", "_").replace("|", "_")
-        # 文件路径
-        #file_path = os.path.join(folder_path, filename)
-
-        #简单的判重：同一个文件夹中标题相同的网页只存储一次
-        #if os.path.exists(file_path):
-        #    print(f"文件 '{file_path}' 已存在，跳过保存和数据库存储。")
-        #   return
-
-        # 保存 HTML 到文件
-        #with open(file_path, 'w', encoding='utf-8') as f:
-        #   f.write(html_source)
 
         # 提取语言信息
         # 优先使用 HTTP 响应头中的 Content-Language
@@ -358,19 +346,22 @@ class GoogleSpiderSpider(scrapy.Spider):
         item['last_modified'] = last_modified
         item['crawl_time'] = crawl_time
         item['language'] = language
-        item['keyword'] = self.keyword
-        item['text'] = text
+        item['keyword'] = keyword
         item['source'] = 'google'
+        item['text'] = text
+
         #item['file_path'] = file_path
 
         # 写入 CSV 文件
         self.write_to_csv(item)
         print(f"{title}已存入csv文件")
+        self.logger.debug(f"存入 CSV 的关键词: {item['keyword']}")
 
 
 
         # 返回 item,将 item 传递到pipelines进行存入数据库处理
-        yield item
+        #yield item
+        return
 
 
 

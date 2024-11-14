@@ -134,9 +134,9 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 5
 SPLASH_MAX_TIMEOUT = 60  # Splash 的超时时间
 # 设置下载延迟，避免对 Splash 服务器产生过多负载
 DOWNLOAD_DELAY = 2  # 每个请求之间的延迟，单位是秒
-DOWNLOAD_TIMEOUT = 30  # 下载超时时间
+DOWNLOAD_TIMEOUT = 60  # 下载超时时间
 # 使用 Splash 缓存，减少重复请求并减轻 Splash 服务器压力
-HTTPCACHE_ENABLED = True  # 启用 HTTP 缓存
+HTTPCACHE_ENABLED = False  # 禁用 HTTP 缓存
 HTTPCACHE_EXPIRATION_SECS = 86400  # 缓存有效期设置为 24 小时
 HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'  # 使用 Splash 的缓存存储
 # 自定义 Splash 的参数以减少资源消耗，例如禁用图片加载
