@@ -1,0 +1,15 @@
+Cache-Control: public, max-age=120
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 14 Nov 2024 03:36:32 GMT
+Last-Modified: Thu, 14 Nov 2024 03:34:32 GMT
+Vary: X-CnaInAPP, X-CnaInAPPFontSize, X-CnaInAPPDarkMode, Accept-Encoding
+Server: Microsoft-IIS/10.0
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Date: Thu, 14 Nov 2024 03:34:33 GMT
+Via: 1.1 google
+Content-Encoding: br
+Cache_Id: SIN
+Cache_Status: miss
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

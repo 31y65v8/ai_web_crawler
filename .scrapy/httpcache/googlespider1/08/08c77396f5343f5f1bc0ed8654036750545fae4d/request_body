@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "ym_localSetting=%7B%22theme%22%3A0%2C%22fontSize%22%3A20%7D; ETCI=57fb0fa83ba541ef865f7ae1b2f10a48; msecToken=a18dd1b7d79e106085a2cc87910f6015; fuid=4552fdf9831b4142a7c857bc5efb15b8",
+        "Referer": "https://m.chuangshi.qq.com/read/27741239/7",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://m.chuangshi.qq.com/read/27741239/7",
+    "wait": 6
+}

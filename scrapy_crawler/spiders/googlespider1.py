@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 
 '''
-使用scrapy直接爬取Google响应请求的html页面
+coded by 王栩麓
 '''
 
 def create_google_url(query, site=''):  # 构建针对Google搜索的url
@@ -28,18 +28,36 @@ def create_google_url(query, site=''):  # 构建针对Google搜索的url
 class GoogleSpiderSpider(scrapy.Spider):
     keyword = ""
     name = "googlespider1"
-    #allowed_domains = ['google.com']
     start_urls = ['http://google.com']
 
     # 数据文件路径
-    csv_file_path = 'spiders/data.csv'
+    csv_file_path1 = 'spiders/data.csv'#中文结果
+    csv_file_path2 = 'spiders/data_Eng.csv'#英文结果
+    #关键词文件路径
+    keywords_file = 'spiders/keywords.json'
 
     # 初始化，检查文件是否存在，若存在则加载已有的标题以防止重复
     def __init__(self, *args, **kwargs):
         super(GoogleSpiderSpider, self).__init__(*args, **kwargs)
-        self.existing_urls = set()  # 用于存储已存在的url，以避免重复
-        # 增加csv文件每行字段大小限制
-        csv.field_size_limit(10000000)  # 10MB
+
+        self.existing_urls1 = set()  # 用于存储已存在的url，以避免重复
+        self.existing_urls2 = set()
+
+        # 增加csv文件每行字段大小限制为10MB
+        csv.field_size_limit(10000000)
+
+        # 启动爬虫时加载data.csv文件中所有已经存在的url
+        if os.path.exists(self.csv_file_path1):
+            with open(self.csv_file_path1, mode='r', encoding='utf-8') as file:
+                reader = csv.DictReader(file)
+                for row in reader:
+                    self.existing_urls1.add(row['url'])
+                    
+        if os.path.exists(self.csv_file_path2):
+            with open(self.csv_file_path2, mode='r', encoding='utf-8') as file:
+                reader = csv.DictReader(file)
+                for row in reader:
+                    self.existing_urls2.add(row['url'])
 
         def clean_file(file_path):
             # 读取文件并去除 NUL 字符
@@ -50,54 +68,82 @@ class GoogleSpiderSpider(scrapy.Spider):
                 file.write(content)
 
         # 清理 CSV 文件
-        clean_file('spiders/data.csv')
-
-        #重启爬虫时加载data.csv文件中所有已经存在的url
-        if os.path.exists(self.csv_file_path):
-            clean_file(self.csv_file_path)
-            with open(self.csv_file_path, mode='r', encoding='utf-8') as file:
-                reader = csv.DictReader(file)
-                for row in reader:
-                    self.existing_urls.add(row['url'])
-
+        clean_file(self.csv_file_path1)
+        clean_file(self.csv_file_path2)
 
         # 去重文件中的内容
-        self.remove_duplicates_from_csv()
+        self.remove_same(self.csv_file_path1,self.existing_urls1)
+        self.remove_same(self.csv_file_path2, self.existing_urls2)
+        #加载关键词
+        self.combined_queries = self.load_keywords()
+
+    #从keyword.json加载查询关键词
+    def load_keywords(self):
+        if not os.path.exists(self.keywords_file):
+            self.logger.error(f"关键词文件 {self.keywords_file} 不存在！")
+            return []
+        with open(self.keywords_file, 'r', encoding='utf-8') as f:
+            try:
+                data = json.load(f)
+                return data.get("queries", [])
+            except json.JSONDecodeError as e:
+                self.logger.error(f"加载 JSON 文件失败: {e}")
+                return []
 
     def write_to_csv(self, item):
-        # 如果 CSV 文件不存在，则写入表头
-        file_exists = os.path.exists(self.csv_file_path)
-        is_empty = file_exists and os.path.getsize(self.csv_file_path) == 0
-        with open(self.csv_file_path, mode='a', newline='', encoding='utf-8') as file:
+        #是否为中文关键词爬取结果
+        if_chinese = any('\u4e00' <= char <= '\u9fff' for char in item['keyword'])
+
+        # 确定目标 CSV 文件路径
+        if if_chinese:
+            target_csv = self.csv_file_path1
+            existing_urls = self.existing_urls1
+        else:
+            target_csv = self.csv_file_path2
+            existing_urls = self.existing_urls2
+
+        # 如果 URL 已存在，跳过写入
+        if item['url'] in existing_urls:
+            self.logger.info(f"URL 已存在，跳过: {item['url']}")
+            return
+
+            # 检查目标 CSV 文件是否存在并初始化字段
+        file_exists = os.path.exists(target_csv)
+        is_empty = file_exists and os.path.getsize(target_csv) == 0
+
+        # 写入到目标文件
+        with open(target_csv, mode='a', newline='', encoding='utf-8') as file:
             fieldnames = ['title', 'url', 'last_modified', 'crawl_time', 'language', 'keyword', 'source', 'text']
             writer = csv.DictWriter(file, fieldnames=fieldnames)
 
-            if is_empty:  # 如果文件为空，则写入表头
+            if not file_exists or is_empty:  # 如果文件不存在或为空，则写入表头
                 writer.writeheader()
 
             writer.writerow(item)  # 写入一行数据
-        # 写入成功后，将 title 添加到 existing_titles 集合中
-        self.existing_urls.add(item['url'])
 
-    def remove_duplicates_from_csv(self):
+        # 更新已存在的 URL 集合
+        existing_urls.add(item['url'])
+        self.logger.info(f"数据已写入 {'中文' if if_chinese else '英文'} CSV 文件: {target_csv}")
+
+    def remove_same(self,file_path,existing_urls):
         """去除 CSV 文件中的重复条目"""
-        if not os.path.exists(self.csv_file_path):
+        if not os.path.exists(file_path):
             return  # 如果文件不存在，直接返回
 
-        # 读取 CSV 文件并存储已存在的标题
-        existing_urls = set()
+        # 读取 CSV 文件并存储已存在的url
+        #existing_urls = set()
         rows = []  # 用来存储去重后的所有数据行
 
-        with open(self.csv_file_path, mode='r', encoding='utf-8') as file:
+        with open(file_path, mode='r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
-                title = row['url']  # 获取每一行的标题
-                if title not in existing_urls:
-                    existing_urls.add(title)  # 如果标题没有出现过，则添加到集合中
+                url = row['url']  # 获取每一行的url
+                if url not in existing_urls:
+                    existing_urls.add(url)  # 如果url没有出现过，则添加到集合中
                     rows.append(row)  # 将此行数据添加到结果列表中
 
         # 重新写入去重后的数据
-        with open(self.csv_file_path, mode='w', newline='', encoding='utf-8') as file:
+        with open(file_path, mode='w', newline='', encoding='utf-8') as file:
             fieldnames = ['title', 'url', 'last_modified', 'crawl_time', 'language', 'keyword', 'source', 'text']
             writer = csv.DictWriter(file, fieldnames=fieldnames)
             writer.writeheader()  # 写入表头
@@ -115,7 +161,7 @@ class GoogleSpiderSpider(scrapy.Spider):
         'ROBOTSTXT_OBEY': False,
         'LOG_LEVEL': 'DEBUG',
         'CONCURRENT_REQUESTS_PER_DOMAIN': 3,
-        'CONCURRENT_REQUESTS' : 5,
+        'CONCURRENT_REQUESTS' : 3,
         'RETRY_TIMES': 5,
         'DOWNLOAD_DELAY': 2  # 限制请求之间的延迟时间，防止过于频繁的请求
         , 'RETRY_HTTP_CODES': [502, 503, 504, 408],
@@ -123,28 +169,30 @@ class GoogleSpiderSpider(scrapy.Spider):
 
     }
 
-
     # 基础关键词
-    base_queries = ['人工智能']
+    #base_queries = []
 
     # 拓展关键词
-    extension_queries = ['应用','典型技术']
+    #extension_queries = []
 
     # 组合生成查询
-    combined_queries = ['智能生命']
+    #combined_queries = ['AI development']
 
     def start_requests(self):
 
+        if not self.combined_queries:
+            self.logger.error("未加载到任何关键词，爬虫停止。")
+            return
+
         # 加载 cookies
         cookies = self.load_cookies()
-
         #组合关键词
-        for base in self.base_queries:
-            for extension in self.extension_queries:
-                query = f"{base} AND {extension}"
-                self.combined_queries.append(query)
+        #for base in self.base_queries:
+           #for extension in self.extension_queries:
+                #query = f"{base} AND {extension}"
+                #self.combined_queries.append(query)
 
-        self.logger.debug(f"所有组合查询: {self.combined_queries}")
+        #self.logger.debug(f"所有组合查询: {self.combined_queries}")
 
         # 发送请求到每个查询
         for query in self.combined_queries:
@@ -198,12 +246,12 @@ class GoogleSpiderSpider(scrapy.Spider):
     # 调用 is_dynamic 方法判断页面类型
     def check_dynamic(self,response):
         #通过标题判断之前是否爬取过该网页
-        url = response.url
+        '''url = response.url
         if url and url not in self.existing_urls:
             self.existing_urls.add(url)  # 将标题添加到已爬取的集合中
-        else:
-            self.logger.info(f"URL: {url} 已存在，跳过此网页")
-            return
+        else:'''
+            #self.logger.info(f"URL: {url} 已存在，跳过此网页")
+            #return
 
         # 从 response.meta 获取 'keyword' 值
         keyword = response.meta.get('keyword')
@@ -273,7 +321,7 @@ class GoogleSpiderSpider(scrapy.Spider):
         #限制爬取搜索结果页数，每页10条
         page_number = response.meta.get('page_number', 1)  # 获取当前页码
 
-        if  page_number < 20:  # 限制爬取的最大页数
+        if  page_number < 16:  # 限制爬取的最大页数
             # 获取下一页的链接
             #next_page = response.css('a#pnnext::attr(href)').get()  # 获取翻页链接（下一页）
             next_page = response.css('a[aria-label="Next page"]::attr(href)').get()
@@ -362,6 +410,3 @@ class GoogleSpiderSpider(scrapy.Spider):
         # 返回 item,将 item 传递到pipelines进行存入数据库处理
         #yield item
         return
-
-
-

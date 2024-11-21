@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "acw_tc=1a0c63d417315599913855822e00e7898bbbe594e759b639082095d83c019c; PHPSESSID=l4mcofs3fg1tq8h6cnn7vbvn82; SERVERID=bb7df8b57bcc860f85e3a5c1b43aae49|1731559991|1731559991",
+        "Referer": "https://www.megvii.com/news_detail/id/238",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.megvii.com/news_detail/id/238",
+    "wait": 6
+}

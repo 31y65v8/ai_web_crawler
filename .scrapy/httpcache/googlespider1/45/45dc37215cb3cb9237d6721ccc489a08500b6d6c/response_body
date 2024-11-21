@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="title" content="关于找准人工智能产业着力点的几点建议 - 科技">
+    
+    <title>关于找准人工智能产业着力点的几点建议 - 科技 -  福布斯中国 | Forbes China</title>
+    <link rel="stylesheet" type="text/css" href="/static/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/static/css/animate.min.css" />
+    <link rel="stylesheet" type="text/css" href="/static/css/share.css" />    
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/static/css/nav.css" />
+    <!--[if lt IE 9]>
+    <script  type="text/javascript" src="/static/bootstrap/js/html5shiv.min.js"></script>
+    <script  type="text/javascript" src="/static/bootstrap/js/respond.min.js"></script>
+    <![endif]-->
+    	
+</head>
+<body>
+<script>;(function(w,p){var p=w[p]=(w[p]||{});})(window,'Pg');</script>
+<div class="testBar">
+	福布斯中国新版网站试运营中，如需浏览旧版福布斯中国，<a target="_blank" href="http://china.forbeschina.com">请点击</a>
+</div>
+<div class="hd">
+    <div class="topBar">
+        <div class="container">
+            <div class="con">
+                                                                    <a href="https://www.forbeschina.com/login">登录</a>
+                            <a href="https://www.forbeschina.com/register">注册</a>
+							<a href="http://columnist.forbeschina.com/" target="_blank">投稿</a>
+                                                        <a href="/apps">APP下载</a>
+				<a href="/subscribe">邮件订阅</a>
+                <div class="follow">
+                    关注我们：
+                    <div class="share">
+                    	<a href="javascript:;" class="dropdown"><img  id="WXQR" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" width="24" height="24" src="/static/images/icon-1.png">
+                        	<span class="dropdown-menu" aria-labelledby="WXQR"><img width="152" src="/static/images/code.png"></span>
+                        </a>                                                
+                        <a target="_blank"  href="https://weibo.com/u/1765373140"><img width="24"  height="24" src="/static/images/icon-2.png"></a>
+                        <a target="_blank"  href="https://i.snssdk.com/rogue/ugc/profile/?version_code=7.1.6&version_name=70106&user_id=63109499187&media_id=1607034824064008&request_source=1&active_tab=dongtai&visit_user_id=63109499187&device_id=61070949238&app_name=news_article&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_ios&utm_campaign=client_share&wxshare_count=1"><img width="24"  height="24" src="/static/images/icon-3.png"></a>
+                        <a target="_blank" href="https://view.inews.qq.com/media/10292653?openid=o04IBAK1MYsvG-zI_6ZR0daKE_78&key=3da4a13190164767467dcee9be2c2420261d956ac60e07923f7d696d99d662c6a4cbc33881d7076797cd8808ea69f466603099c7a095e1ac162fa003bd6e307d837b4de1d435feec55b3502068cf80f9&version=62060739&devicetype=Windows+XP&wuid=oDdoCt5-2CTSpf_DTMsVR7d49Yb0&cv=0x62060739&dt=15&lang=zh_TW&pass_ticket=96yovRl6qXRK%2F6Ew7jfD%2FYupXftlWUOlGg5YsdYvzvY4KoQphxByOinz6dFTTisy"><img  width="24" height="24" src="/static/images/icon-4.png"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container relative">
+        <h1 class="navbar-brand logo"><a href="/" title="Forbes|福布斯"><img src="/static/images/logo.png"></a></h1>
+        <div class="pull-right searchWarp">
+            <div class="search">
+            	<span class="glyphicon glyphicon-search" id="search"></span>
+            </div>
+        </div>
+        <div class="app-nav-1">
+            <nav class="navbar">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                            data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right" id="nav">
+                                                    <li data-topid=2 class="dropdown "><a
+                                    href="/lists"  >榜单</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=3 class="dropdown "><a
+                                    href="/activity"  >活动</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=27 class="dropdown "><a
+                                    href="/insights"  >Insights</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=19 class="dropdown "><a
+                                    href="/leadership"  >领导力</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=18 class="dropdown "><a
+                                    href="/innovation"  >创新</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=8 class="dropdown "><a
+                                    href="/business"  >商业</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=29 class="dropdown "><a
+                                    href="/oneworld"  >寰宇</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=10 class="dropdown "><a
+                                    href="/investment"  >投资</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=11 class="dropdown "><a
+                                    href="/life"  >生活·文娱</a>
+								
+                                                                                            </li>
+                                                    <li data-topid=17 class="dropdown "><a
+                                    href="/woman"  >女性</a>
+								
+                                                                                            </li>
+                                            </ul>
+                </div>
+            </nav>
+        </div>
+        <div id="search-form">
+        <form class="form" action="/search">
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <div class="input-group">
+                          <input type="text" name="keyword"  class="form-control" placeholder="请输入搜索关键字">
+                          <span class="input-group-btn">
+                            <button class="btn btn-default" id="search-btn" type="button">搜索</button>
+                          </span>
+                        </div>
+                      </div>
+            </div>
+        </form>
+        </div>
+    </div>
+</div>
+<!-- //.hd end -->
+
+
+
+
+
+
+                                        <div class="bd">
+        <div class="ny-slide">
+        <div class="container">
+        	<div class="AD-970-250"></div>
+        </div>
+    </div>
+    
+    <div class="page pindao article">
+        <div class="container">
+            <div class="inner">
+            	<div id="fbShare" class="social-share"></div>
+                <div class="row">
+                    <div class="col-sm-9 main">
+                        <div class="article-detail">
+                            <div class="info">
+                                <p class="s"><span class="view hide">2043</span>
+								<span><a href="javascript:history.go(-1)">< 科技</a></span>
+								<span>2019年05月27日</span>
+								</p>
+                                <h2 class="title">关于找准人工智能产业着力点的几点建议</h2>
+                                                            	<p><a href="/author/64" class="author"><img src="https://oss.forbeschina.com/user-64/202406181745577.jpg">作者：汤子欧</a></p>
+                            	                            </div>
+                            <div class="con">
+                                                                <p><strong>一、人工智能是人类生产和生活方式的未来方向，是必须紧紧抓住的战略性产业</strong></p>
+
+<p><strong>（一）国际环境和国家战略聚焦人工智能产业发展</strong></p>
+
+<p>&nbsp; &nbsp; 人工智能学科是一门综合学科，其产生具有坚实的多科学理论基础，由日益海量化的基础数据、持续提升的运算力、不断优化的算法模型和多样化的应用场景四大要素共同驱动。算法是机器实现人工智能的核心，大数据是人工智能的基础。迄今为止，&ldquo;人工智能&rdquo;自1956年达特茅斯会议提出后的62年内经历了寒冬与高潮交替的发展历程，分为三个阶段：第一阶段（1956-1980）人工智能诞生；第二阶段（1980-2000）人工智能步入产业化；第三阶段（2000-至今）人工智能产业迈入快速发展阶段。</p>
+
+<p><img alt="" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-64/201905271344599.jpg?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" /></p>
+
+<p>图1：人工智能的三个发展阶段</p>
+
+<p>&nbsp; &nbsp; 近年来，得益于互联网、社交媒体、移动设备和传感器的大量普及，全球产生并存储的数据量急剧增加，为通过机器学习的方法来训练人工智能提供了良好的土壤。2016年，AlphaGo战胜围棋世界冠军掀起了第三次人工智能热潮。2018年人工智能产业迎来爆发。现阶段人工智能技术应用达到一个高点，提升了人工智能相关技术在金融、交通、安防、医疗等领域的渗透率：例如人机对战下棋；计算机视觉替代人工应用于安防、公安、刑侦、工业生产等领域；语音识别技术用于机场、车站、银行等领域的自动应答服务；源于网格式分布计算的云端服务为人工智能提供了更广泛的应用&mdash;&mdash;基于专家系统的远程医疗等等。这些成功的应用，为人工智能科学的发展赋予了无限的想象力和发挥空间，也大大加强了产业界对大规模人工智能技术成功应用的信心。人工智能技术的发展，不仅会改变我们的生产和生活方式、思维和决策方式，其发展和应用意义重大而深远。</p>
+
+<p>&nbsp; &nbsp; 当前，我国正在大力发展人工智能科学与应用。据不完全统计，2017年中国人工智能核心产业规模超700亿元，而2018是人工智能爆发的元年，人工智能核心产业规模有望接近1000亿元。政策方面，多项国家政策的出台推动了人工智能产业在我国的快速发展，各种&ldquo;AI+&rdquo;或&ldquo;+AI&rdquo;场景正在逐步落地。2017年07月20日，国务院印发了《新一代人工智能展规划》提到&ldquo;人工智能的迅速发展将深刻改变人类社会生活、改变世界。&rdquo;并制定了人工智能&ldquo;分三步走&rdquo;的战略目标。随后，2017年12月14日的《促进新一代人工智能产业发展三年行动计划（2018-2020）》明确了从培育智能产品、突破核心基础、深化智能制造以及构建支撑体系的发展规划。</p>
+
+<p><strong>（二）以史为鉴知兴替，&ldquo;人工智能时代&rdquo;不能重蹈&ldquo;信息化时代&rdquo;覆辙</strong></p>
+
+<p>&nbsp; &nbsp; 回顾我国改革开放四十年（暂不讨论第一产业成就），在快速信息化的时期成就了很多的全球巨无霸企业（例如中兴通讯），带来了几十年的经济指标高增长；但是在直面西方贸易战的2017-2018年才发现，我们在信息文明时代的第一波（信息化）产业发展机遇期存在思维上的惰性，仍然固守工业文明思维、以物质生产为主要目标，整个信息化产业主要还是专注在快速低成本生产制造，而并没有认识到信息文明的本质不再仅仅是物质层面，更重要的是人类知识的逻辑性总结和产权垄断，从而，在战略核心上受制于人、在贸易战中处处被动。这里面，产业结构认知值得反思，应当再次检验&ldquo;生产关系是否适应生产力的发展&rdquo;。如果说，在信息文明第一波（信息化）时代，知识产权问题只在进入法律程序时觉得有用；在信息文明第二波（人工智能）时代，信息作为主要的生产资料，其存储和运算都是基于云端，机器人能理解什么、能做什么都是远在云端某处的&ldquo;知识逻辑大脑&rdquo;通过SaaS服务的形式通过互联网予以规定，一旦失去这些知识和逻辑支撑，家里用的、路上跑的、银行用的、天上飞的、医院用的等等所有机器人都可能瞬间退化成&ldquo;婴幼儿能力&rdquo;或&ldquo;智障&rdquo;，有视觉、有听觉、甚至嗅觉、能跑能跳，但是无法从事正常的生产活动。当前在信息文明时代的第二波（人工智能）产业发展机遇期，我们担忧地看到学界和实践界普遍还在延续工业化早期的&ldquo;一窝蜂、短频快&rdquo;的做法，这种在科学版图&ldquo;一叶障目&rdquo;的情况下&ldquo;一路狂奔&rdquo;的情况，可能使整个健康智能产业重蹈&ldquo;信息化时代&rdquo;覆辙，让一代人在十到二十年的周期性时间中迷失方向，进而造成国家层面的资源浪费、并处于被动局面。</p>
+
+<p>&nbsp; &nbsp; 鉴于上述，有必要及时看清人工智能产业链的全景和结构，站在未来看现在，明晰人工智能产业的战略重点和核心。</p>
+
+<p><strong>二、明晰产业结构和战略核心，是找准人工智能产业着力点的前提</strong></p>
+
+<p><strong>（一）国内人工智能产业整体落后、畸重发展，亟需产业链结构思维的明晰</strong></p>
+
+<p>&nbsp; &nbsp; 据初步统计数字表明，目前人工智能产业主要涉及&ldquo;感知和行为替代&rdquo;、&ldquo;知识与逻辑图谱&rdquo;、&ldquo;行业应用&rdquo;等3大类，各类人工智能企业数分别为176家、26家、169家，占比为47%:7%:46%。其中，大企业偏&ldquo;感知和行为替代&rdquo;切入，创业企业偏&ldquo;行业应用&rdquo;切入，涉及人工智能核心&ldquo;知识和逻辑图谱&rdquo;企业最少。数据显示，国内&ldquo;感知和行为替代&rdquo;类人工智能企业中，85%集中在计算机视觉、语音和语义（自然语言处理）这3个领域，其中42%是计算机视觉相关技术，其后顺次是语音识别和语义理解（二者合计为43%）；与国外人工智能&ldquo;感知和行为替代&rdquo;这一大类实践相比，国内企业更加注重计算机视觉、语音、语义等（这里的感知芯片不同于&ldquo;信息化时代&rdquo;的CPU）。在&ldquo;行业应用&rdquo;中，安防、AI+医疗、金融、教育等4个子领域的占比达到了40%，接着是智能机器人、智能驾驶和无人机。值得注意的是，涉及&ldquo;知识与逻辑图谱&rdquo;核心竞争力的企业仅占4%。由此可见，我国人工智能产业链发展存在子类的畸轻畸重、避重就轻，需要通过产业链的划分，凸显这一问题。</p>
+
+<p>&nbsp;&nbsp;&nbsp;<img alt="" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-64/201905271412586.jpg?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" />&nbsp;&nbsp;&nbsp;</p>
+
+<p>&nbsp;&nbsp;&nbsp; 图2：人工智能企业分布情况&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</p>
+
+<p><img alt="" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-64/20190527135299.png?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>图3：&ldquo;感知和行为替代&rdquo;模块企业分布</p>
+
+<p>（资料来源：互联网检索、中国信通院）</p>
+
+<p><strong>（二）厘清思路，人工智能产业链划分为&ldquo;基础层&rdquo;、&ldquo;中间层&rdquo;和&ldquo;应用层&rdquo;</strong></p>
+
+<p><img alt="" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-64/201905271355508.jpg?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" /></p>
+
+<p>图4：人工智能产业链可分为&ldquo;基础层&rdquo;、&ldquo;中间层&rdquo;、&ldquo;应用层&rdquo;三类</p>
+
+<p><img id="图片_x0020_10" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-64/201905271356472.jpg?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" /></p>
+
+<p>图5：人工智能产业链三层结构图</p>
+
+<p>&nbsp; &nbsp;根据上述情况，为了我国能在未来占领人工智能产业机遇的制高点，我们提出把人工智能产业根据价值流重新定义和划分为&ldquo;基础层&rdquo;、&ldquo;中间层&rdquo;和&ldquo;应用层&rdquo;3个产业子领域：</p>
+
+<ol>
+	<li>&ldquo;基础层&rdquo;主要以感知芯片和动力传导等硬件和数据资源为主导，解决人工智能&ldquo;替代和发展人的感知和行为能力&rdquo;的问题；</li>
+	<li>&ldquo;中间层&rdquo;尤为重要，解决人工智能&ldquo;替代和发展人的知识&rdquo;的逻辑问题，使其能像领域专家一样思考和生产；</li>
+	<li>&ldquo;应用层&rdquo;是和各个传统产业领域相结合，整合基础层或中间层的能力实现人工智能对各行各业的转化，对传统行业进行升级式的应用改造，解决&ldquo;高效满足人的更高需求&rdquo;的服务问题。</li>
+</ol>
+
+<p>表1：人工智能产业链三层定义：</p>
+
+<p><img alt="" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-64/20190527140886.jpg?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" /></p>
+
+<p>&nbsp; &nbsp; 从人工智能的发展脉络角度看，从最初的存储数据、处理数据到现在可以用机器去感知，来&ldquo;读懂、听懂&rdquo;外界信息，做出相适应的判断，自动、半自动的进行下一步行动；而未来人工智能会产生自主意识，根据自我学习进化，主动判断下一步的行动，从而全面辅助或替代人类的工作。在这其中，&ldquo;基础层&rdquo;和&ldquo;应用层&rdquo;非常适合在&ldquo;工业文明&rdquo;的基础上延伸发展出来，因此我国人工智能产业的发展很可能也自然而然的以这两头为主。只有&ldquo;中间层（知识逻辑层）&rdquo;是具有鲜明信息文明时代特征的产业子领域。不得不指出，如果只有基础层和应用层的2端，没有中间层（知识层或逻辑层），机器能力和机器服务都将陷入盲目。而&ldquo;中间层&rdquo;牵涉到领域知识和逻辑，每个传统行业要通过人工智能提升生产力，必须要对这个行业的领域知识和逻辑有着深刻的理解，才能继承创新并有效发展（机器学习）出新的领域知识和逻辑，这样大方向才不会有偏差，转化出来的成果才会有价值。</p>
+
+<p>&nbsp; &nbsp; 因此，明晰人工智能产业机构、充分认识人工智能产业&ldquo;中间层&rdquo;的存在和重要性，是找准产业&ldquo;抓手&rdquo;的前提。然而，目前业界现状如何呢？</p>
+
+<p><strong>（三） 人工智能行业典型案例调研和行业现状思考</strong></p>
+
+<p>&nbsp; &nbsp; 鉴于上述思考，课题组赶赴三家具有代表性的人工智能企业和上海经济和信息化委员会进行了实地调研，深入了解人工智能行业运行环境、政策支持、技术水平及产业结构现状，为本文的建议和观点提供实证依据。</p>
+
+<p>表2：人工智能实地调研企业说明：</p>
+
+<p><img alt="" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-64/20190527145915.jpg?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" /></p>
+
+<p>&nbsp; &nbsp; 调研结果总结如下：</p>
+
+<p>&nbsp; &nbsp; 1. &ldquo;中间层&rdquo;技术对人工智能企业乃至全行业有战略意义。接受调研的企业和上海经济和信息化委员会都非常同意&ldquo;基础层&rdquo;、&ldquo;中间层&rdquo;、&ldquo;应用层&rdquo;的人工智能行业分类方法，也非常赞成&ldquo;中间层&rdquo;在我国人工智能产业战略核心地位，是需要重点积累&ldquo;护城河&rdquo;的领域。</p>
+
+<p>&nbsp; &nbsp; 2. &ldquo;中间层&rdquo;是各个产业应用所必须，但是普遍没有实现&ldquo;独立自主&rdquo;。调研中发现，即使是&ldquo;基础层&rdquo;和&ldquo;应用层&rdquo;两端的人工智能企业，只要有产品进入市场，都或多或少的需要有中间层（逻辑和知识图谱）来支撑硬件和产业应用面向市场。但除了深深扎根于人工智能中间层技术研发的中间层企业外，&ldquo;基础层&rdquo;和&ldquo;应用层&rdquo;两端的领军企业所应用的&ldquo;中间层&rdquo;技术往往掌握在境外机构或少数大企业手中，或者是缺乏坚实科学基础&ldquo;拼凑&rdquo;。</p>
+
+<p>&nbsp; &nbsp; 3．多数企业未能拥有&ldquo;中间层&rdquo;核心技术的原因是企业生存压力。造成&ldquo;中间层（知识和逻辑图谱）&rdquo;核心技术发展不足的原因在于：虽然企业在进行未来的战略规划和展望时普遍认为积累和具备&ldquo;中间层&rdquo;技术是长远的战略护城河，但苦于当下的企业生存压力或为了快速提升当前市场份额的占有率，纷纷以&ldquo;短频快&rdquo;的方式在人工智能的低层次市场化通道中相互追逐，往往没有资源或无暇顾及&ldquo;中间层&rdquo;的研发和积累。</p>
+
+<p>&nbsp; 4. 研发科学的&ldquo;中间层&rdquo;，需要正确选择机器学习方法。人工智能需要通过机器学习获取正确的知识和逻辑图谱，机器学习又可分为无监督学习、监督学习和强化学习，进而分别向下拓展延伸。图示如下：</p>
+
+<p style="text-align:center"><img alt="" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-1/20190528951858.jpg?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" /></p>
+
+<p>图6：机器学习方法分类</p>
+
+<p>&nbsp; &nbsp; 一方面是要充分重视监督学习的重要性。与日常生活领域不同，医疗、金融等具有深度行业知识的领域，需要运用监督学习算法，凝聚人类专业领域权威知识或广泛认可知识精度的初始知识和逻辑图谱用于迁移学习，而不能进行0基础的无监督学习，例如IBM的Watson宣告失败就是典型案例，说明所谓&ldquo;算法&rdquo;自身的优化并不能低消&ldquo;无监督学习&rdquo;所带来的方法性错误影响。另一方面，监督学习需要数据证据进行&ldquo;监督&rdquo;，其中，只有那些凝聚人类专业权威领域知识或广泛认可知识精度的初始知识和逻辑图谱（&ldquo;金标准&rdquo;）才适合用于产生有效的&ldquo;中间层&rdquo;，甚至可以用于迁移学习或小样本学习提高学习效率。一般来说，样本数据或证据分为三类，A类证据为无偏大数据；B类证据为专家组意见；C类证据为某个专家意见。其中，B类证据往往受到专家遴选的影响，只有有监督实践产生的有监督大数据证据（A类证据）才是真正的&ldquo;金标准&rdquo;，基于A类证据运用监督学习算法对知识图谱进行模型跃迁和进化的方法更为有效。虽然这种&ldquo;金标准&rdquo;往往可遇而不可求，发展&ldquo;中间层（知识和逻辑图谱）&rdquo;技术内核仍要遵循科学的逻辑和方法；目前出现不少&ldquo;无监督学习&rdquo;产生的所谓&ldquo;知识图谱&rdquo;受到市场盲目追捧，需要加以鉴别和正确引导。</p>
+
+<p>&nbsp; &nbsp; 5. 研发科学的&ldquo;中间层&rdquo;，需要正确选择数据类型或关注数据质量。通过有效的机器学习产生的正确知识逻辑图谱，是人工智能发展的关键科学内核，其中机器学习的对象（行业大数据）也至关重要。统计学是人工智能的算法基础，统计学界流行一句话&ldquo;垃圾数据进、垃圾结果出&rdquo;，应避免从&ldquo;垃圾数据&rdquo;或C类证据起步的0基础无监督学习造成的&ldquo;恶魔现象&rdquo;。例如在医疗领域，虽然系统性的循证医学实践产生的误诊率小的证据数据才真正符合A类数据的要求，国内却长期流行&ldquo;科室主任查房&rdquo;确定诊断和治疗方案，这种存在系统性偏倚的医疗实践所产生的是高误诊率均值和标准差的&ldquo;医疗大数据&rdquo;，是典型的C类证据（而不是A类证据），所以并非大数据就是可靠的。学界和企业界在应用时经常会混淆概念，在找不到或鉴别不了A类证据时，就用B类甚至C类具有很高混杂噪音和很高系统性偏移的数据基础上进行学习，这些含有大量&ldquo;假阳性&rdquo;和&ldquo;假阴性&rdquo;数据被机器学习的结果（&ldquo;知识图谱&rdquo;），很难超越&ldquo;垃圾数据&rdquo;本身所代表的高误诊率均值和标准差等信息。</p>
+
+<p><img alt="" src="http://forbes-web.oss-cn-hongkong.aliyuncs.com/user-64/201905271467.jpg?x-oss-process=image/watermark,image_Y29weV8yMDE5LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzIw,x_10,y_10" />图7：科学的监督机器学习和无监督机器学习在行业应用中的比较</p>
+
+<p><strong>三、 关于我国人工智能产业发展的若干建议</strong></p>
+
+<p>&nbsp; &nbsp; 综上所述，应当充分重视人工智能产业&ldquo;中间层&rdquo;子领域的扶植和发展，聚焦&ldquo;中间层&rdquo;抓手，我们建议：</p>
+
+<p><strong>（一）产业规划中重视、扶持和引导人工智能&ldquo;中间层&rdquo;企业的科学发展</strong></p>
+
+<p>&nbsp; &nbsp; 明确&ldquo;中间层&rdquo;在人工智能产业规划中的地位和重要性，针对植根人工智能&ldquo;中间层&rdquo;或在&ldquo;中间层&rdquo;拥有国际领先性的企业，在包括税收等各产业政策方面给予重点扶持，减少企业生存压力，使&ldquo;中间层&rdquo;企业能专注对&ldquo;中间层（知识和逻辑图谱）&rdquo;的持续进化和完善，并鼓励其领先性。同时，引导人工智能&ldquo;中间层&rdquo;的科学发展方向，强调数据的可靠性和监督学习方法在人工智能&ldquo;中间层（知识和图谱）&rdquo;研发和进化中的必要性，制定机器学习中数据证据和学习方法的指引或标准,以避免人工智能产业发展中出现&ldquo;劣币驱逐良币&rdquo;效应而制约整合行业的长远发展。</p>
+
+<p><strong>（二）充分引导和鼓励人工智能企业发展&ldquo;中间层&rdquo;技术的创新和积累</strong></p>
+
+<p>&nbsp; &nbsp; 一方面，通过对AI企业税收或相关政策的扶持，引导AI企业不追求快速盈利，从而留出&ldquo;中间层&rdquo;创新和技术积累的时间和空间，增强对&ldquo;中间层（逻辑知识和图谱）&rdquo;的研发和积累的重视程度。另一方面，对拥有自主知识产权&ldquo;中间层&rdquo;的市场化应用予以扶植，例如在政府采购项目中优先应用，从而增强我国人工智能产业发展的硬实力，避免在国际竞争中处于被动局面。</p>
+
+<p><strong>（三）针对&ldquo;AI+&rdquo;或&ldquo;+AI&rdquo;产业应用核心知识图谱领域，构建若干国家级&ldquo;中间层&rdquo;共享资源平台，有利于短期内缓解人工智能行业&ldquo;中间层（知识和逻辑图谱）&rdquo;底蕴和研发力度不足的局面</strong></p>
+
+<p>&nbsp; &nbsp; 国家构建&ldquo;中间层&rdquo;核心知识和逻辑图谱共享资源平台，能大大缓解目前人工智能行业&ldquo;中间层（知识和逻辑图谱）&rdquo;底蕴和研发力度不足的局面，能够在短期内促进人工智能&ldquo;应用层&rdquo;和&ldquo;基础层&rdquo;产业发展。国家在鼓励&ldquo;中间层&rdquo;企业持续发展适用于各行业的&ldquo;中间层&rdquo;核心知识和逻辑图谱的同时，积极发现、总结、整合优质资源，构建行业共享资源平台，通过提升&ldquo;中间层&rdquo;资源的有效利用和配置，增强我国人工智能行业的整体实力，有利&ldquo;人工智能时代&rdquo;弯道超车。</p>
+
+<p><strong>（四）加强数据资源思维、形成数据资源战略，以共享A类证据池夯实&ldquo;中间层&rdquo;的行业发展基础</strong></p>
+
+<p>&nbsp; &nbsp; 符合A类证据特征的各行业大数据，是&ldquo;中间层（知识逻辑层）&rdquo;子领域的必要学习资源。当前的行业数据主要掌握在少数大型互联网企业或各个信息孤岛手上，这些数据的安全性和使用规范也都掌握在企事业单位本身，政府对于数据资源的统筹和数据安全的监管相对薄弱。政府应加强数据资源思维、形成数据资源战略，加强全社会数据编码应用，打破各方壁垒，从各传统行业进行数据的抽取、清洗、验证、标签化，化解数据孤岛局面，保障隐私的同时提升数据效用，积极鼓励市场化挖掘生产、生活各领域的数据资源的应用价值，建成共有数据池，例如通过自动识别、翻译、适应性进化等技术处理，实现健康医疗行业大数据的隐私保护与行业应用的智能化对接和安全保障，从而使更多人工智能领域创新企业能够利用这些基础数据资源，促进其算法模型和解决方案的优化升级，挖掘更多潜在增长点，方便人民生活、促进信息时代生产。</p>
+
+<p><strong>（五）关注&ldquo;中间层&rdquo;人才的补给，改善人才不足对我国AI产业发展的制约情况</strong></p>
+
+<p>&nbsp; &nbsp; 当前人工智能&ldquo;中间层（逻辑和知识图谱）&rdquo;所需的机器学习方面的科技人才十分稀缺，在培养中存在2方面问题：一方面是，人工智能是跨领域、多学科的科技应用，不存在人工智能&ldquo;新专业&rdquo;，高等数学、多元统计、计算机科学等专业人才即可满足人工智能&ldquo;中间层&rdquo;所需的机器学习方法等底层技术在大数据挖掘、模式识别等相关方面的研发需求；另一方面是，正如数据挖掘和精算领域那句名言&ldquo;所有数据都应该是业务的（产生于业务并服务于业务）&rdquo;，需要重视的是复合型人才的培养，应加强多元统计等数学专业技能与医疗、金融、城市规划、机械、安防等相关应用领域的融合和互动，加深对于各传统行业的理解，才能有效的缓解我国人工智能人才欠缺对产业发展的制约。</p>
+
+<p>&nbsp;</p>
+
+<p>（本文基于民建中央科教委员会汤文巍、苏剑波、周世杰、赵晓光、韩佳、贺颐林共同调研）</p>
+                                                                    		<div style="margin: 10px 0"><div class="AD-500-90"></div></div>
+                                	                                                                                                <hr />
+                             	<p class="copy-txt">本文为福布斯中文网版权所有，未经允许不得转载。如需转载请联系wechat@forbeschina.com</p>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 sidebar">
+                    	
+                                                <div class="ny-slide-area">
+                                                                <div class="item">
+                                	<div class="AD-300-250"></div>
+                                </div>
+                                
+                                                                <div class="item">
+                                	<div class="AD-300-600"></div>
+                                </div>
+                                                        </div>
+                                            </div>
+                </div>
+				                <div class="relation">
+                    <h4 class="t">可能感兴趣</h4>
+                    <div class="news-list">
+                        <div id="xq-list" class="row">
+                        	   <div class="col-xs-12">loading...</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<link rel="stylesheet" type="text/css" href="/static/css/subscribe.css" />
+<div class="ft">
+    <div class="container">
+        <div class="">
+            <div class="row">
+                <div class="col-sm-2" style="width:14%;">
+                    <h2 class="ftLogo"><a href="#"><img src="/static/images/ftLogo.png"></a></h2>
+                </div>
+                <div class="col-sm-10" style="width:86%;">
+                    <p class="ftNav">
+                    	                    	<a  href="/lists" ">榜单</a>                            
+                                            	<a  href="/activity" ">活动</a>                            
+                                            	<a  href="/insights" ">Insights</a>                            
+                                            	<a  href="/leadership" ">领导力</a>                            
+                                            	<a  href="/innovation" ">创新</a>                            
+                                            	<a  href="/business" ">商业</a>                            
+                                            	<a  href="/oneworld" ">寰宇</a>                            
+                                            	<a  href="/investment" ">投资</a>                            
+                                            	<a  href="/life" ">生活·文娱</a>                            
+                                            	<a  href="/woman" ">女性</a>                            
+                                            </p>
+                </div>
+            </div>
+        </div>
+        <div class="ft-info">
+            <div class="row">
+                <div class="col-sm-1" style="padding-right: 0px;">
+                    <h4 class="title">公司信息</h4>
+                    <div class="con">
+                    	                    	                        	                            <p><a href="/p/about">关于我们</a></p>
+                                                                            	                            <p><a href="/p/job">诚聘英才</a></p>
+                                                                            	                            <p><a href="/p/contact">联系我们</a></p>
+                                                                            	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                                                	                          
+                                            
+                    </div>
+                </div>
+                <div class="col-sm-5">
+                    <h4 class="title">相关站点</h4>
+                    <div class="con">
+                                                <div class="ft-links">
+                    	                        	                                                	                                                	                                                	                            <a target="_blank" href="http://www.forbes.com">Forbes</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesafrica.com">Forbes Africa</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesafrique.com">Forbes Afrique</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesargentina.com">Forbes Argentina</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.com.au">Forbes Australia</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.at">Forbes Austria</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.be">Forbes Belgium</a>
+                                                                            	                            <a target="_blank" href="http://forbes.n1info.ba">Forbes Bosnia and Herzegovina</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.com.br">Forbes Brazil</a>
+                                                                            	                            <a target="_blank" href="http://forbesbulgaria.com">Forbes Bulgaria</a>
+                                                                            	                            <a target="_blank" href="http://forbes.n1info.hr">Forbes Croatia</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.cz">Forbes Czech Republic</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.com.ec">Forbes Ecuador</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.fr">Forbes France</a>
+                                                                            	                            <a target="_blank" href="http://forbes.ge">Forbes Georgia</a>
+                                                                            	                            <a target="_blank" href="http://www.capital.gr/forbes">Forbes Greece</a>
+                                                                            	                            <a target="_blank" href="http://forbes.hu">Forbes Hungary</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesindia.com">Forbes India</a>
+                                                                            	                            <a target="_blank" href="http://forbes.co.il">Forbes Israel</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.it">Forbes Italy</a>
+                                                                            	                            <a target="_blank" href="http://forbesjapan.com">Forbes Japan</a>
+                                                                            	                            <a target="_blank" href="http://forbes.kz">Forbes Kazakhstan</a>
+                                                                            	                            <a target="_blank" href="http://jmagazine.joins.com/forbes">Forbes Korea</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.lu">Forbes Luxembourg</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesafricalusofona.com">Forbes Lusophone Africa</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesmiddleeast.com">Forbes Middle East (English)</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesmiddleeast.com/ar">Forbes Middle East (Arabic)</a>
+                                                                            	                            <a target="_blank" href="http://forbes.vijesti.me">Forbes Montenegro</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.pl">Forbes Poland</a>
+                                                                            	                            <a target="_blank" href="http://www.forbespt.com">Forbes Portugal</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.ro">Forbes Romania</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.ru">Forbes Russia</a>
+                                                                            	                            <a target="_blank" href="http://forbes.n1info.rs">Forbes Serbia</a>
+                                                                            	                            <a target="_blank" href="http://www.forbes.sk">Forbes Slovakia</a>
+                                                                            	                            <a target="_blank" href="http://forbes.n1info.si">Forbes Slovenia</a>
+                                                                            	                            <a target="_blank" href="http://forbes.es">Forbes Spain</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesthailand.com">Forbes Thailand</a>
+                                                                            	                            <a target="_blank" href="http://forbes.ua">Forbes Ukraine</a>
+                                                                            	                            <a target="_blank" href="http://www.forbesuruguay.com">Forbes Uruguay</a>
+                                                                            	                            <a target="_blank" href="http://forbes.vn">Forbes Vietnam</a>
+                                                      
+                        </div>
+                           
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <h4 class="title">活动</h4>
+                    <div id="activity-hook" class="con">
+                    	                    	                            <p><a target="_blank" href="https://2024fchefs.forbeschina.com/" data-file="https://oss.forbeschina.com/user-1/202411051449461.jpg">2024福布斯中国·福厨30评选</a></p>
+                                                    <p><a target="_blank" href="https://2024digitaltrade.forbeschina.com/" data-file="https://oss.forbeschina.com/user-1/202409141126986.jpg">2024数字贸易系列评选</a></p>
+                                                    <p><a target="_blank" href="https://2024ies.forbeschina.com/" data-file="https://oss.forbeschina.com/user-1/202409141124660.jpg">2024福布斯中国可持续发展工业企业评选</a></p>
+                                                    <p><a target="_blank" href="https://2024cycx.forbeschina.com/" data-file="https://oss.forbeschina.com/user-1/202408302022629.jpg">2024福布斯中国产业创新乡村振兴系列评选</a></p>
+                                                    <p><a target="_blank" href="https://2024u30.forbeschina.com/" data-file="https://oss.forbeschina.com/user-1/202405211441691.jpg">福布斯中国征集2024年30岁以下精英</a></p>
+                                                    <p><a target="_blank" href="https://2024fne.forbeschina.com/" data-file="https://oss.forbeschina.com/user-1/202403121656137.jpg">2024福布斯中国新时代颠覆力创始人评选</a></p>
+                                                    <p><a target="_blank" href="https://2023oft.forbeschina.com/" data-file="https://oss.forbeschina.com/user-1/202403221440606.jpg">2023福布斯中国杰出外籍创业者评选</a></p>
+                                                    <p><a target="_blank" href="https://2023esgie.forbeschina.com/" data-file="https://oss.forbeschina.com/user-1/202403071256378.png">2023福布斯中国ESG创新企业评选</a></p>
+                          
+                        <a href="/p/activity-list">更多</a>
+                           
+                    </div>
+                </div>
+                <div class="col-sm-3 s">
+                    <h4 class="title">出版物</h4>
+                    <div class="con">
+                        <p><a href="/magazines/form">杂志赠阅</a>&nbsp;&nbsp;<a href="/magazines">杂志周刊</a>&nbsp;&nbsp;<a href="https://oss.forbeschina.com/MediaKit/2024%20Media%20kit.pdf">Media Kit</a></p>
+                        <p><a href="/magazines"><p><img alt="" src="https://oss.forbeschina.com/user-1/202411141012894.png" /></p></a></p>
+						
+						
+                        <div class="row form">
+                            <div class="form-group">
+                                <div class="col-sm-12 news_text color">
+                                    订阅我们的邮件
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="input-group">
+                                    <input type="email" name="email" class="form-control email" placeholder="请输入邮箱">
+                                    <span class="input-group-btn"><div class="btn btn-default subscribe" style="min-width: 10px;">订阅</div></span>
+                                </div>
+                            </div>
+                        </div>
+                        <p></p>
+                        <p>立即注册我们的邮件订阅，以向您提供最新的新闻和榜单信息</p>
+						<p>订阅表示您同意我们的<a  href="/p/sitedeclare">网站声明</a>和<a href="/p/declare">隐私政策</a></p>
+						
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ftBar">
+        <div class="container">
+            <div class="follow dropup">
+                	关注我们
+                <div class="share">
+                    	<a href="javascript:;" class="dropdown"><img  id="WXQRR" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" width="24" height="24" src="/static/images/icon-1.png">
+                        	<span class="dropdown-menu" aria-labelledby="WXQRR"><img width="152" src="/static/images/code.png"></span>
+                        </a>                                                
+                        <a target="_blank"  href="https://weibo.com/u/1765373140"><img width="24"  height="24" src="/static/images/icon-2.png"></a>
+                        <a target="_blank"  href="https://i.snssdk.com/rogue/ugc/profile/?version_code=7.1.6&version_name=70106&user_id=63109499187&media_id=1607034824064008&request_source=1&active_tab=dongtai&visit_user_id=63109499187&device_id=61070949238&app_name=news_article&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_ios&utm_campaign=client_share&wxshare_count=1"><img width="24"  height="24" src="/static/images/icon-3.png"></a>
+                        <a target="_blank" href="https://view.inews.qq.com/media/10292653?openid=o04IBAK1MYsvG-zI_6ZR0daKE_78&key=3da4a13190164767467dcee9be2c2420261d956ac60e07923f7d696d99d662c6a4cbc33881d7076797cd8808ea69f466603099c7a095e1ac162fa003bd6e307d837b4de1d435feec55b3502068cf80f9&version=62060739&devicetype=Windows+XP&wuid=oDdoCt5-2CTSpf_DTMsVR7d49Yb0&cv=0x62060739&dt=15&lang=zh_TW&pass_ticket=96yovRl6qXRK%2F6Ew7jfD%2FYupXftlWUOlGg5YsdYvzvY4KoQphxByOinz6dFTTisy"><img  width="24" height="24" src="/static/images/icon-4.png"></a>
+                    </div>
+            </div>
+            <div class="copyright">
+                <p><a href="/p/declare">隐私政策</a>|<a href="/p/sitedeclare">网站声明</a>| Copyright @ 2016 Forbes Media Hong Kong Limited福布斯传媒香港有限公司 版权所有</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!--//.ft end-->
+<div class="floatInfo hide" style="top:26%;">
+    <a href="/subscribe">
+        <div class="">
+          <p><img src="/static/images/subscribe.jpg"></p>
+        </div>
+    </a>
+</div>
+
+<div class="floatInfo hide">
+    <div class="con">
+    	<div class="close" aria-label="Close"><span aria-hidden="true">&times;</span></div>
+        <h4>扫一扫<span>下载APP</span></h4>
+        <p><img src="/static/images/app_download.jpg"></p>
+    </div>
+    <div class="backTop"><a id="backTop"></a></div>
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?aa8b760f41278f94669da4685a1ce4fa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90165231-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-90165231-13');
+</script>
+<script type="text/javascript" src="/static/js/wow.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.min.js"></script>
+<script type="text/javascript" src="/static/js/template-web.js"></script>
+<script type="text/javascript" src="/static/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/static/js/swiper.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.share.min.js"></script>
+<script type="text/javascript" src="/static/js/script.js"></script>
+<script type="text/javascript">
+;(function($){
+	
+	$('.social-share').share({
+	      sites: ['weibo','qzone','tencent','wechat'],
+	      disabled: ['google', 'facebook', 'twitter'],
+	      target : '_blank'
+	  });
+
+
+	$.get("/channels/api?action=loadInterest&article_id=599&path=technology",function(rs){
+		$('#xq-list').html(rs);
+	});
+
+})(jQuery);
+</script>
+    <script type="text/javascript" src="/static/js/layer.js"></script>
+    <script>
+        ;(function($){
+            $('.subscribe').on('click',function(){
+                var $btn = $(this);
+                var postData = {_token: '9HUfUwB7opXlsLwDwmW3CNNTITtjG6ArSVr41TT6'}
+                var email=$(".email").val();
+                if(email==''){
+                    $btn.parents('.input-group').addClass('has-error');
+                }else{
+                    postData['email'] = email;
+                    postData['status'] = 1;
+                    $btn.parents('.input-group').removeClass('has-error');
+                }
+                if(email){
+                    $.post('/subscribe',postData,function(result){
+                        if(result.status){
+                            layer.msg(result.tip,{icon: 6});
+                        }else{
+                            layer.msg(result.tip,{icon: 5});
+                        }
+                    });
+                }
+            });
+        })(jQuery);
+    </script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-5399714643496203",
+		enable_page_level_ads: true
+	  });
+	</script>
+</body>
+</html>

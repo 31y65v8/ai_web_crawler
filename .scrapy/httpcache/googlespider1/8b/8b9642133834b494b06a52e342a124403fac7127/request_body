@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "acw_tc=ac11000117315556291865179e0040694ab8b90019127c01b7a77936402351; XSRF-TOKEN=eyJpdiI6Ik5qeW1xcHVBbXFJVEY1cnJpT3ZUQ2c9PSIsInZhbHVlIjoiWlpmc2pEcXBMZm9DM3RyeVY5WjlvTVdjNTNyXC9uenNMbHk0VnlyeFNsN2tpeHVGbzhsbjdSWnR4YTlNd29leDEiLCJtYWMiOiIyMTYxY2ZlMzJlZDBhZGI4MDY0YmNhOTdlMWQ0ZmU3MzBkYzhmNmYwYmFmNTljNjViZjQwMDk3MjY0ZDlkODExIn0%3D; laravel_session=eyJpdiI6ImxacUh6c3JsVlN4bWNHWE1MVmtxOFE9PSIsInZhbHVlIjoiWGFOVGRRanNvY2JDYkIxTm5HZlpcL0Q2VUZaRjdGQkdTV0tPYUVZU2hcL0Y5cTE0U3hDRHllRmdxQ05oeTFmUmtNIiwibWFjIjoiZDJhZWYzOGMwNGUwOWU4ZjYxYWZmNzU0NTUzZDFhZDFjNzAwNDk5MjZjZjg4MzA1YWVlYTdhNjRkMTQ2N2FiNyJ9",
+        "Referer": "https://www.forbeschina.com/technology/599",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.forbeschina.com/technology/599",
+    "wait": 6
+}

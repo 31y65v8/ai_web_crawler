@@ -1,0 +1,24 @@
+Date: Thu, 14 Nov 2024 03:35:38 GMT
+Server: mw-web.eqiad.main-85db4f49b5-7sj5c
+X-Content-Type-Options: nosniff
+Content-Language: zh
+Accept-Ch: 
+Vary: Accept-Encoding,Cookie,Authorization
+Cache-Control: s-maxage=3600, must-revalidate, max-age=0
+Last-Modified: Thu, 31 Oct 2024 05:32:57 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Age: 4
+X-Cache: cp1110 miss, cp1110 miss
+X-Cache-Status: miss
+Server-Timing: cache;desc="miss", host;desc="cp1110"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Report-To: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+Nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+Set-Cookie: WMF-Last-Access=14-Nov-2024;Path=/;HttpOnly;secure;Expires=Mon, 16 Dec 2024 00:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=14-Nov-2024;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 16 Dec 2024 00:00:00 GMT
+Set-Cookie: WMF-DP=fb4;Path=/;HttpOnly;secure;Expires=Thu, 14 Nov 2024 00:00:00 GMT
+Set-Cookie: GeoIP=US:IL:Chicago:41.85:-87.63:v4; Path=/; secure; Domain=.wikipedia.org
+Set-Cookie: NetworkProbeLimit=0.001;Path=/;Secure;SameSite=Lax;Max-Age=3600
+X-Client-Ip: 164.152.111.175
+Accept-Ranges: bytes

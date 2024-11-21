@@ -22,7 +22,7 @@ img { border: 0; }
 .report:hover {text-decoration: underline; color: #0088CC;}
 hr{ border-top: 1px dashed #ddd;}
 center{ line-height: 48px; color: #919191;}
-.b-box {background: #0B6FD6;margin: -8px -8px 0 -8px;height: 32px;}
+.b-box {display: none;background: #0B6FD6;margin: -8px -8px 0 -8px;height: 32px;}
 .b-body {position: relative;left:50%;max-width: 1200px;transform: translateX(-50%);padding-top: 5px;white-space:nowrap;}
 .b-ico-box {display: inline-block;margin-right: 4px;}
 .b-ico {height: 18px;width: 18px;}
@@ -53,14 +53,20 @@ center{ line-height: 48px; color: #919191;}
         <!-- <span class='r-tip02 dn' id="second-box"><em id="second"></em>秒后进入帮助页面</span> -->
     </div>
     <hr />
-    <center>client: <span id="client_ip"></span>, server: 578e188, time: <span id="time_error"></span></center>
+    <center>client: <span id="client_ip"></span>, server: 276e55e, time: <span id="time_error"></span></center>
 </div>
 <script>
     void(function fuckie6(){if(location.hash && /MSIE 6/.test(navigator.userAgent) && !/jsl_sec/.test(location.href)){location.href = location.href.split('#')[0] + '&jsl_sec' + location.hash}})();
-    var data = {"rule_id":"89005","t_msg":"全球领先的IT市场研究和咨询公司IDC发布最新研究报告《中国云Web应用防火墙市场份额，2022：云上云下协同发展，云原生WAF成为必然》知道创宇【创宇盾】产品凭借过硬的技术实力及成熟的市场表现，在中国整体云WAF市场及公有云WAF市场中，均居专业安全厂商第一！","error_403_type":"","error_403_en":"Knownsec CloudWAF: Your request has been blocked due to suspected hacking","t_link":"https:\/\/mp.weixin.qq.com\/s\/o0ZGlxEQ1786abnXygyTqQ","error_403":"","client_ip":"221.4.34.147","time_error":"10\/Nov\/2024:15:42:57 +0800"};
+    var data = {"t_msg":"","t_link":"","display":false,"error_403_en":"Knownsec CloudWAF: Your request has been blocked due to suspected hacking","error_403_type":"","rule_id":"89005","error_403":"","client_ip":"120.238.248.157","time_error":"14\/Nov\/2024:12:31:37 +0800"};
     var from = encodeURIComponent(document.referrer.substr(0, 1024));
     var rule_id = parseInt(data['rule_id']) || '';
     var client_ip = data['client_ip'];
+    if (!('display' in data) || data['display'] === true) {
+        var divs = document.getElementsByClassName('b-box');
+        for (var i = 0; i < divs.length; i++) {
+            divs[i].style.display = 'block';
+        }
+    }
     var ref = encodeURIComponent(document.URL.substr(0, 1024));
     document.getElementById("wafblock").src = '/cdn-cgi/image/' + (data['error_403_type'] || 'hacker') + '.png';
     document.getElementById('error_403').innerText = data['error_403'] || '创宇盾提示您：当前访问疑似黑客攻击，已被网站管理员设置为拦截';

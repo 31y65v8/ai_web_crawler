@@ -1,0 +1,118 @@
+<!DOCTYPE html><html style="font-size: 54px;"><head>
+<meta charset="utf-8">
+<title>经济日报</title>
+<script>
+"use strict";!(function () {
+  var e = window.navigator.userAgent.toLocaleLowerCase();
+  if (-1 < e.indexOf("iphone") || -1 < e.indexOf("android"))
+    var t = "mobile",
+    // o = window.devicePixelRatio || 1,
+    o =  1,
+      n = window.screen.width * o;
+  else {
+    (t = "pc"), (o = 1);
+    var i = window.outerWidth || 540;
+    n = i < 540 ? i : 540;
+  }
+  var d = n / 10,
+    c = document.createElement("meta");
+  c.setAttribute("name", "viewport"),
+    c.setAttribute(
+      "content",
+      "width=" +
+        n +
+        ",initial-scale=" +
+        1 / o +
+        ",maximum-scale=" +
+        1 / o +
+        ",minimum-scale=" +
+        1 / o +
+        ",user-scalable=no"
+    ),
+    document.head.appendChild(c),
+    (document.documentElement.style.fontSize = d + "px"),
+    document.addEventListener(
+      "DOMContentLoaded",
+      function () {
+        (document.body.style.width = "10rem"),
+          (d = (d * n) / document.body.clientWidth),
+          (document.documentElement.style.fontSize = d + "px");
+      },
+      !1
+    ),
+    "mobile" == t
+      ? ((window.tap = "tap"),
+        (window.touchstart = "touchstart"),
+        (window.touchmove = "touchmove"),
+        (window.touchend = "touchend"))
+      : ((window.tap = "click"),
+        (window.touchstart = "mousedown"),
+        (window.touchmove = "mousemove"),
+        (window.touchend = "mouseup"));
+})();
+
+</script><meta name="viewport" content="width=540,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+<link rel="stylesheet" href="/static/css/swiper.min.css">
+<link rel="stylesheet" href="/static/grapes/module.css">
+<link rel="stylesheet" href="/static/css/common.css">
+<script>
+    let ua = navigator.userAgent.toLocaleLowerCase();
+     let isIOS = /iphone|ipad|ipod/.test(ua);
+     let url = isIOS ? 'jjrbfont://SourceHanSerifCN-SemiBold.otf' : 'font.ttf';
+     var newStyle = document.createElement('style');
+     newStyle.appendChild(document.createTextNode("\
+       @font-face {\
+       font-family: 'MyFont';\
+       src: url('"+url+"')\
+       }\
+       html,body {font-family: MyFont !important}\
+     "));
+     document.head.appendChild(newStyle);
+</script><style>       @font-face {       font-family: 'MyFont';       src: url('font.ttf')       }       html,body {font-family: MyFont !important}     </style>
+</head>
+<body style="width: 10rem;">
+<script src="/static/js/zepto-1.2.0.min.js"></script>
+<script src="/static/js/juicer.min.js"></script>
+<script src="/static/js/swiper.min.js"></script>
+<script src="/static/grapes/module.js"></script>
+<script src="/static/grapes/web.js"></script>
+<script src="//res.wx.qq.com/open/js/jweixin-1.6.0.js" type="text/javascript"></script>
+<script type="text/javascript" src="//qzonestyle.gtimg.cn/qzone/qzact/common/share/share.js"></script>
+<script src="/static/js/sugarcane.js?_ti=1693376312"></script>
+
+
+<script src="/page/readnews.js?_t=0.0.5"></script><div class="j-pagescreen j-pagescreen-detail app-fontsize-medium" id="j-screen-readnews315488" style="margin-bottom: 71.96875px;"><div class="grapes-154">
+  <div class="news-title" style="padding: 0.16rem 0.373rem; font-size: 0.587rem; color: rgb(28, 28, 28); line-height: 1.36;">把握制造业高质量发展基本思路</div>
+</div><div class="grapes-157">
+  <div class="news-sub" style="padding: 0rem 0.533rem 0.213rem 0.373rem;">
+    <div class="news-subspanright" style="margin-left: 0.213rem; font-size: 0.32rem; color: rgb(170, 170, 170); line-height: 1.42;"></div>
+    <div class="news-subspanleft" style="width: 8rem;">
+      <div class="news-subspan" style="margin-right: 0.32rem; font-size: 0.32rem; color: rgb(170, 170, 170); line-height: 1.42;">2024-11-07</div>
+      <div class="news-subspan" style="margin-right: 0.32rem; font-size: 0.32rem; color: rgb(170, 170, 170); line-height: 1.42;">王永贵</div>
+      <div class="news-subspan" style="margin-right: 0.32rem; font-size: 0.32rem; color: rgb(170, 170, 170); line-height: 1.42;"></div>
+    </div>
+  </div>
+</div><div class="grapes-155" style="margin-bottom: 1.013rem;"><div class="paper-img-wrapper"><img src="https://static.jingjiribao.cn/static/paper/2024/11/07/10/202411078678.jpg" style="width: 3048.48px; max-width: 100%; display: block;"></div><style>.j-m155-1731555292937 p{margin-top:0.317rem;}</style>
+  <div class="news-content j-m155-1731555292937" style="padding: 0.32rem 0.373rem 0.96rem; font-size: 0.48rem; line-height: 1.55; color: rgb(0, 0, 0);">
+ 
+ 
+  <p style="text-indent:2em;"> 制造业是立国之本、兴国之器、强国之基、富国之源。作为世界制造业规模最大、也是全球唯一拥有联合国产业分类中全部工业门类的国家，我国正处于由制造大国向制造强国转变的关键时期，必须把高质量发展作为制造业转型升级的核心和关键。党的十八大以来，习近平总书记对推动制造业高质量发展作出一系列重要论述，强调“制造业高质量发展是我国经济高质量发展的重中之重”“要立足现有产业基础，扎实推进先进制造业高质量发展，加快推动传统制造业升级，发挥科技创新的增量器作用”。这些重要论述具有深刻的理论逻辑、历史逻辑，是经济发展内在规律的反映，为我国加快建设现代化产业体系、建设制造强国提供了理论指导和行动指南。我们要抓住制造业转型升级的“时间窗口”，厘清发展思路，把握基本原则，探索制造业高质量发展新路径。</p>
+  <p style="text-indent:2em;"> 制造业高质量发展的内涵特征</p>
+  <p style="text-indent:2em;"> 世界经济发展史表明，制造业兴，则经济兴、国家强；制造业衰，则经济衰、国家弱。当前，新一轮科技革命和产业变革蓬勃兴起，数字技术、人工智能技术和制造业深度融合，形成新的生产方式、产业形态、商业模式和经济增长点。制造业发展必须顺应新的发展趋势，既要重“量”，更要重“质”。习近平总书记强调“推动制造业高端化、智能化、绿色化发展”，明确了制造业高质量发展的内涵、特征和方向。</p>
+  <p style="text-indent:2em;"> 其一，制造业高质量发展是突破关键核心技术的高端化发展。突破关键核心技术、实现科技自立自强的高端化发展是我国实现从制造大国向制造强国转变的关键路径。2018年12月中央经济工作会议强调，“要增强制造业技术创新能力”；2019年4月习近平总书记在重庆考察时进一步指出，“把制造业高质量发展放到更加突出的位置”。放眼全球，欧美国家之所以拥有强大的国际话语权和影响力，主要是因为其在关键核心零部件、重要基础材料等领域占据领先地位。一国拥有的核心产业和关键技术决定着其在全球价值链中的位势，这也是国家竞争力的集中体现。我国制造业整体上仍处于国际产业分工体系的中低端环节，产业链中高附加值环节发展落后，高精尖产业占比不足。立足于快速发展的数智化时代，面对复杂的国内外形势，突破关键核心技术，通过技术创新、产业链创新，推动价值链由中低端向中高端攀升，实现更高的附加价值率和利润率，提升制造业的高端化水平，是制造业高质量发展攻坚突破的重要方向。</p>
+  <p style="text-indent:2em;"> 其二，制造业高质量发展是促进数实融合的智能化发展。当前，世界主要国家都在加快数字化转型战略布局，抢抓产业智能化发展先机。每一个时代在特定背景下都有扩散最迅速、影响最深远的新技术。大数据、人工智能等作为当前发展速度最快、影响最广泛的数字技术，加速推动了制造业的数字化转型。数据显示，我国数字经济规模从2012年的11万亿元增至目前的超50万亿元。党的二十大报告明确提出，“加快发展数字经济，促进数字经济和实体经济深度融合，打造具有国际竞争力的数字产业集群”；党的二十届三中全会通过的《中共中央关于进一步全面深化改革、推进中国式现代化的决定》也进一步提出，“健全促进实体经济和数字经济深度融合制度”“加快构建促进数字经济发展体制机制”。对于制造业高质量发展而言，智能化为其提供了技术路径。推动实体经济和数字经济深度融合，一个重要方向就是加速推动数字技术赋能制造业，推动制造业向数字化、智能化转型升级，进而提升制造业的智能化水平。促进数实深度融合不仅是推动经济高质量发展和建设以实体经济为支撑的现代化产业体系的重要战略选择，也是制造业实现智能化发展的应有之义。</p>
+  <p style="text-indent:2em;"> 其三，制造业高质量发展是可持续的绿色化发展。习近平总书记指出，“绿色发展是高质量发展的底色，新质生产力本身就是绿色生产力”“必须加快发展方式绿色转型，助力碳达峰碳中和”。在碳减排成为全球共识的背景下，产业的碳排放水平在很大程度上影响其国际竞争力，低碳竞争力已经成为产业国际竞争力的重要内容。制造业是节能减碳的主体，也是整个绿色低碳循环经济体系的重要组成部分，既能为新能源发展提供创新和消纳应用场景，又能为节能减碳和污染治理提供技术设备支持，还能为高品质生活提供绿色低碳产品。加快制造业绿色低碳转型，实现绿色可持续发展，是实现制造业高质量发展的关键所在。在产业实践中，各个制造业部门需要提升能源使用效率、降低能源消费强度，从而减少碳排放。同时，制造业还要为全社会的绿色低碳转型提供技术和物质支持。</p>
+  <p style="text-indent:2em;"> 关键要处理好几对关系</p>
+  <p style="text-indent:2em;"> 我国制造业规模体量庞大、产业体系完备，拥有超大规模市场优势，实现制造业高质量发展既十分必要，也完全可能。高质量发展制造业必须抓住重点、解决难点、突破瓶颈，处理好几对关系。</p>
+  <p style="text-indent:2em;"> 一是处理好传统产业升级与新产业培育的关系。传统产业是现代化产业体系的重要组成部分，在经济体系中扮演着重要角色；新产业是指应用新技术发展壮大的新兴产业和未来产业，是制造业实现高质量发展的新生力量。目前，我国传统制造业体量大，占比超过80%。但新兴产业和未来产业的发展还处于起步阶段。如何改造提升传统产业、培育壮大新兴产业、布局建设未来产业、完善现代化产业体系，在产业链的高端环节和关键核心技术领域拓展空间，关系制造业高质量发展的成效。这就需要正确处理好传统产业升级与新产业培育之间的关系。一方面，直面我国传统制造业转型升级存在的关键核心技术受限、高端人才匮乏、转型资金欠缺等实践难题，加大对传统制造业企业使用数智技术、绿色技术的支持力度，推动传统产业向高端化、智能化、绿色化、融合化发展，进而健全促进实体经济和数字经济深度融合制度；另一方面，聚焦新一轮科技革命发展方向，推动产学研深度合作，把科技创新成果转化为推动制造业高质量发展的现实动力，培育壮大新一代信息技术、新能源、新材料、高端装备、新能源汽车、绿色环保、民用航空、船舶与海洋工程装备八大新兴产业，布局建设元宇宙、脑机接口、量子信息、人形机器人、生成式人工智能、生物制造、未来显示、未来网络、新型储能九大未来产业。推动制造业高质量发展不是要忽视传统产业，而是要坚持“两条腿”走路，使传统产业改造升级和新产业培育壮大协同发展，通过进一步完善促进数字产业化和产业数字化政策体系，创造良好的数字生态环境，进而推动传统产业和新产业融合发展、优势互补。</p>
+  <p style="text-indent:2em;"> 二是处理好制造业与服务业的关系。制造业高质量发展离不开服务业的支撑，制造业的产品和技术能够为现代服务业发展提供支持；服务业或者通过助力制造业高附加值的形成，或者通过加速制造业的价值实现，为制造业发展提供动力。制造业和服务业的融合发展是产业发展的新趋势，是产业附加价值不断提升的过程。一方面，大力发展先进制造业。先进制造业作为现代化产业体系的骨干和核心，能够用新技术、新设备、新工艺、新流程、新生产组织方式，提升制造业各环节和全过程生产技术的先进性和科技含量。另一方面，大力发展现代生产性服务业。生产性服务业是赋能制造业高质量发展的重要支撑。发展面向制造业全生命周期的新兴服务，找准生产性服务业深度服务制造业的嵌入点，能够促进现代服务业同先进制造业深度融合，提高产业附加值。</p>
+  <p style="text-indent:2em;"> 三是处理好发展与安全的关系。制造业高质量发展是产业链由中低端向中高端攀升的过程，需要统筹高质量发展与保障产业链供应链安全之间的关系，以高质量发展促进高水平安全，以高水平安全保障高质量发展，实现发展和安全的动态平衡。一方面，安全可靠是现代化产业体系的重要特征，提升产业链供应链韧性和安全水平是制造业高质量发展的前提。要抓紧打造自主可控的产业链供应链，健全强化集成电路、工业母机、医疗装备、仪器仪表、基础软件、工业软件、先进材料等重点产业链发展体制机制，全链条推进技术攻关、成果应用。另一方面，统筹考虑技术创新与信息安全。在推动制造业技术创新的同时，加强信息安全管理并防止关键技术外泄，特别要注意新技术应用带来的新安全隐患问题。此外，制造业高质量发展必须与环境保护相结合，推行绿色制造技术，减少对环境的影响，这也是长期可持续发展的必要条件。在推进制造业高质量发展过程中，必须正确处理好发展与安全的关系，有针对性地解决突出问题，把当前关键核心技术突破和强化产业链供应链安全放在重要位置，为制造业高质量发展提供保障。</p>
+  <p style="text-indent:2em;"> 探索切实有效的实践路径</p>
+  <p style="text-indent:2em;"> 站上新起点，我国制造业转型升级需多头并进，兼顾增强传统产业竞争力、促进高技术产业做强做优以及培育壮大战略性新兴产业和前瞻布局未来产业，探索切实有效的实践路径，把高质量发展要求贯穿制造业高端化、智能化、绿色化发展全过程。</p>
+  <p style="text-indent:2em;"> 第一，健全科技创新体制机制，向高端制造转型。制造业是科技创新的主战场，推动制造业向高端制造转型，关键在于健全科技创新体制机制。一是统筹强化关键核心技术攻关。对于制造业发展而言，突破“卡脖子”关键核心技术刻不容缓，必须坚持问题导向，发挥新型举国体制优势，加快实现科技自立自强。既要加强应用基础研究和前沿研究，加大研发投入，加速科技创新成果产业化，提升制造业关键环节和重点制造领域的创新水平，还要在完善新型举国体制、加快布局实施国家重大科技项目、发挥好政府在关键核心技术攻关中组织作用的同时，进一步突出企业在科技创新中的主体地位，促进政产学研协同创新，提高企业的科技创新能力。二是加强国家战略科技力量的合理布局。以国家目标和战略需求为导向，加快完善国家实验室体系，优化国家科研机构、高水平研究型大学、科技领军企业定位和布局，科学规划重大科技基础设施，加强科技基础条件自主保障。三是构建有利于基础研究的体制机制。持续加大基础研究投入，提高科技支出用于基础研究的比重，持续完善竞争性支持和稳定支持相结合的基础研究投入机制。支持基础研究选题多样化，鼓励开展高风险、高价值的基础研究，不断开辟新的认知领域并寻求新突破。</p>
+  <p style="text-indent:2em;"> 第二，健全促进数实融合制度，向数智制造转型。这是推动制造业高质量发展的关键举措，也是培育新质生产力的重要发力点。一是加大以5G、大数据中心、云计算中心、工业互联网等为代表的数字基础设施投入。加大对制造业企业生产运营设备智能化升级的支持力度，促进制造业生产运营管理等环节数据的联通与共享，充分释放数据要素价值；进一步加强数字技术在制造业研发、生产、运营、销售、管理、服务等环节的融合应用，进而提升制造业生产效率，推动传统商业模式创新。二是提升制造业数字化创新水平。数字技术驱动制造业高质量发展是大势所趋。既要通过提升数字服务水平、丰富数智人才培育举措、完善数字经济政策体系等，加大对制造业企业数字化创新生态环境的支持力度，又要进一步加强制造业企业的数字化资源投入，借助5G、大数据等新一代数字技术在制造业企业的创新应用来激发制造业对现代服务业的有效需求，进而推动制造业与服务业深度融合。三是加强产业链数智化协同创新。加快传统制造业数智化转型升级，推动制造业产业链向上下游延伸，重塑传统制造业比较优势，形成较为完善的产业链和产业集群；围绕产业链部署创新链，围绕创新链布局产业链，利用数智技术，促进制造业的产业链和创新链协同发展。</p>
+  <p style="text-indent:2em;"> 第三，健全绿色低碳发展机制，向绿色制造转型。一是构建制造业绿色低碳发展体系。绿色低碳发展是制造业高质量发展的必然选择。一方面，加快传统制造业的绿色低碳转型升级，在产品结构、用能结构、原料结构等方面加快传统制造业的工艺流程升级再造，实施“增品种、提品质、创品牌”行动，推动产品向高端、智能、绿色以及融合方向升级换代，形成品种更加丰富、品质更加稳定、品牌更具影响力的绿色制造供给体系。另一方面，聚焦制约新兴产业绿色低碳发展的关键瓶颈环节，加快补齐短板弱项。同时，对未来产业进行前瞻性布局，进一步聚焦“双碳”目标下能源革命和产业升级需求，谋划布局氢能、储能、生物制造等未来产业发展。二是推动制造业数字化和绿色化深度融合。数字化本质上追求的是精益生产和智能制造，强调通过数字技术赋能实现降本增效；绿色化本质是清洁生产和效率提升，强调以更少的能耗和排放来实现同样或者更大的价值产出。促进数字化和绿色化的融合能够在推动制造业向绿色制造转型方面发挥叠加效应。要充分发挥大数据和人工智能等数字技术在提高资源利用效率、管理效能、环境效益等方面的赋能作用，加速传统制造业数字化绿色化协同转型发展；在重点制造领域的生产制造全流程中，进一步拓展和创新“数字技术+绿色低碳”典型应用场景，提高全要素生产率。三是促进绿色制造业和现代服务业有效结合，在绿色低碳制造领域深入推进服务型制造，构建优质高效的绿色制造服务体系。积极引导传统制造业企业利用自身在绿色产品设计、绿色供应链管理和清洁生产等方面的经验，从提供“产品”向提供“产品+服务”转型升级；积极培育专业化绿色低碳公共服务平台和服务机构，开发推广绿色智能制造解决方案和碳中和解决方法，提供绿色诊断、研发设计、集成应用、运营管理、检验检测和评价认证等服务，助力制造业绿色可持续发展。</p>
+  <p style="text-indent:2em;"> （作者系浙江省习近平新时代中国特色社会主义思想研究中心研究员、浙江工商大学校长） </p>
+ 
+</div>
+</div><div class="app-banner"><a class="banner j-banner"><div></div></a></div></div><script src="/module/banner.js?_t=0.0.5"></script></body></html>

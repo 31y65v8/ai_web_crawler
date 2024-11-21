@@ -1,0 +1,495 @@
+<!DOCTYPE html><html lang="zh-CN" class="cn wf-geometosroundedregular-n4-inactive wf-inactive"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Founded by Ms. Weng Ling, a leading curator of integrative arts, IDEAS has its headquarters at 1 Jade River, a traditional courtyard house in Beijing’s Houhai neighborhood.北京艺文创新文化发展有限公司（IDEAS）由资深综合艺术策划人翁菱女士创立，总部位于北京玉河一号。其核心理念是通过跨学科探索与实践激发全新创造力，从而释放人文环境的多元可能。艺文创新持续将艺术、设计、科学与不同创造领域的跨界协作融⼊社会、城市、乡镇与环境的发展；通过创新的自然及人文环境营建与提升，推动社会的良性变迁。">
+
+
+
+    <!-- Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="IDEAS 艺文创新">
+    <meta property="og:image" content="http://fliers.beijingcenterforthearts.com/2021/10/logo.png">
+    <meta property="og:description" content="Founded by Ms. Weng Ling, a leading curator of integrative arts, IDEAS has its headquarters at 1 Jade River, a traditional courtyard house in Beijing’s Houhai neighborhood.北京艺文创新文化发展有限公司（IDEAS）由资深综合艺术策划人翁菱女士创立，总部位于北京玉河一号。其核心理念是通过跨学科探索与实践激发全新创造力，从而释放人文环境的多元可能。艺文创新持续将艺术、设计、科学与不同创造领域的跨界协作融⼊社会、城市、乡镇与环境的发展；通过创新的自然及人文环境营建与提升，推动社会的良性变迁。">
+    <meta property="og:site_name" content="IDEAS 艺文创新">
+    <meta property="og:locale" content="zh_cn">
+    <meta property="article:author" content="IDEAS 艺文创新">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="IDEAS 艺文创新">
+    <meta name="twitter:creator" content="IDEAS 艺文创新">
+    <meta name="twitter:title" content="IDEAS 艺文创新">
+    <meta name="twitter:description" content="Founded by Ms. Weng Ling, a leading curator of integrative arts, IDEAS has its headquarters at 1 Jade River, a traditional courtyard house in Beijing’s Houhai neighborhood.北京艺文创新文化发展有限公司（IDEAS）由资深综合艺术策划人翁菱女士创立，总部位于北京玉河一号。其核心理念是通过跨学科探索与实践激发全新创造力，从而释放人文环境的多元可能。艺文创新持续将艺术、设计、科学与不同创造领域的跨界协作融⼊社会、城市、乡镇与环境的发展；通过创新的自然及人文环境营建与提升，推动社会的良性变迁。">
+    <meta name="twitter:image" content="http://fliers.beijingcenterforthearts.com/2021/10/logo.png">
+
+    <!--  Favicon -->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <link rel="icon" type="image/png" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png" sizes="196x196">
+    <link rel="icon" type="image/png" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png" sizes="128x128">
+    <meta name="application-name" content="http://ideas.site/">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <meta name="msapplication-square70x70logo" content="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <meta name="msapplication-square150x150logo" content="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <meta name="msapplication-wide310x150logo" content="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+    <meta name="msapplication-square310x310logo" content="http://fliers.beijingcenterforthearts.com/2021/11/艺文创新-黑.png">
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700;900&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet">
+    <link href="http://ideas.site/wp-content/themes/ideas/icomoon/style.css" rel="stylesheet">
+    <link href="http://ideas.site/wp-content/themes/ideas/fonts/fonts.css" rel="stylesheet">
+    <link href="http://ideas.site/wp-content/themes/ideas/js/app.css" rel="stylesheet">
+    <link href="http://ideas.site/wp-content/themes/ideas/js/plyr2.css" rel="stylesheet">
+    <link href="http://ideas.site/wp-content/themes/ideas/js/swiper.css" rel="stylesheet">
+    <link href="http://ideas.site/wp-content/themes/ideas/js/fullpage.min.css" rel="stylesheet">
+    <script src="http://ideas.site/wp-content/themes/ideas/js/jquery.min.js"></script>
+    <script src="http://ideas.site/wp-content/themes/ideas/js/easings.min.js"></script>
+    <script src="http://ideas.site/wp-content/themes/ideas/js/fullpage.min.js"></script>
+    <script src="http://ideas.site/wp-content/themes/ideas/js/app.js"></script>
+    <script src="http://ideas.site/wp-content/themes/ideas/js/swiper.js"></script>
+    <script src="http://ideas.site/wp-content/themes/ideas/js/delighters.js"></script>
+    <script src="http://ideas.site/wp-content/themes/ideas/js/site.js"></script>
+	<title>第21期 | 在AI的浪潮中重新审视人类的创造力 – 李开复，喻红，张培力 – IDEAS 艺文创新</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//ideas.site">
+<link rel="alternate" type="application/rss+xml" title="IDEAS 艺文创新 » Feed" href="http://ideas.site/feed/">
+<link rel="alternate" type="application/rss+xml" title="IDEAS 艺文创新 » 评论 Feed" href="http://ideas.site/comments/feed/">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ideas.site\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="http://ideas.site/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5" media="all">
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="ideas-style-css" href="http://ideas.site/wp-content/themes/ideas/style.css?ver=1.0.0" media="all">
+<link rel="https://api.w.org/" href="http://ideas.site/wp-json/"><link rel="alternate" type="application/json" href="http://ideas.site/wp-json/wp/v2/art_creation/294"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ideas.site/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.5.5">
+<link rel="canonical" href="http://ideas.site/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/">
+<link rel="shortlink" href="http://ideas.site/?p=294">
+<link rel="alternate" type="application/json+oembed" href="http://ideas.site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fideas.site%2Fart-creation%2Fdi21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://ideas.site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fideas.site%2Fart-creation%2Fdi21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili%2F&amp;format=xml">
+<style type="text/css">
+.qtranxs_flag_zh {background-image: url(http://ideas.site/wp-content/plugins/qtranslate-x/flags/cn.png); background-repeat: no-repeat;}
+.qtranxs_flag_en {background-image: url(http://ideas.site/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="zh" href="http://ideas.site/zh/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/" rel="alternate">
+<link hreflang="en" href="http://ideas.site/en/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/" rel="alternate">
+<link hreflang="x-default" href="http://ideas.site/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/" rel="alternate">
+<meta name="generator" content="qTranslate-X 3.4.6.8">
+    <link href="http://ideas.site/wp-content/themes/ideas/screen.css" rel="stylesheet">
+<link rel="stylesheet" href="http://ideas.site/wp-content/themes/ideas/fonts/fonts.css" media="all"><script src="http://ideas.site/wp-includes/js/wp-emoji-release.min.js?ver=6.5.5" defer=""></script></head>
+<body class="art_creation-template-default single single-art_creation postid-294 ready no-sidebar" style="">
+
+<div class="line">
+    <em></em>
+    <em></em>
+    <em></em>
+</div>
+
+<div class="l1"></div>
+<div class="l2"></div>
+<div class="l3"></div>
+
+<div id="wrapper">
+    <header id="header">
+        <div class="site-header">
+            <div class="wrap w-b w-c">
+                <div class="header-left">
+                    <div class="open-menu step">
+                        <div>
+                            <em></em>
+                            <em></em>
+                            <em></em>
+                        </div>
+                    </div>
+                                        <div class="back"><span class="icon-keyboard_return"></span></div>
+                                    </div>
+                <div class="header-tool">
+                    <div class="open-search step"><span class="icon-search"></span></div>
+                    <div class="lng step">
+                        
+<ul class="language-chooser language-chooser-text qtranxs_language_chooser" id="qtranslate-chooser">
+<li class="lang-zh active"><a href="http://ideas.site/zh/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/" hreflang="zh" title="中文 (zh)" class="qtranxs_text qtranxs_text_zh"><span>中文</span></a></li>
+<li class="lang-en"><a href="http://ideas.site/en/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/" hreflang="en" title="English (en)" class="qtranxs_text qtranxs_text_en"><span>English</span></a></li>
+</ul><div class="qtranxs_widget_end"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main-menu">
+
+            <div class="wrap w-b">
+                <div class="main-menu-content">
+                    <div class="main-menu-nav">
+                        <ul id="primary-menu" class="menu"><li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 step"><a href="http://ideas.site/about/">关于</a></li>
+<li id="menu-item-1687" class="menu-item menu-item-type-post_type_archive menu-item-object-art_creation menu-item-has-children menu-item-1687 step"><a href="http://ideas.site/art_creation/">跨界思想</a>
+<ul class="sub-menu">
+	<li id="menu-item-1897" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1897"><a href="http://ideas.site/category/art-creation/bcachien-men-23-2008-2013/">BCA天安时间当代艺术中心（2008-2013）</a></li>
+	<li id="menu-item-1898" class="menu-item menu-item-type-taxonomy menu-item-object-category current-art_creation-ancestor current-menu-parent current-art_creation-parent menu-item-1898"><a href="http://ideas.site/category/art-creation/jade-river-talk/">玉河夜话</a></li>
+	<li id="menu-item-1899" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1899"><a href="http://ideas.site/category/art-creation/arts-china-union/">《艺文中国》</a></li>
+	<li id="menu-item-1901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1901"><a href="http://ideas.site/waitansanhaohushenhualang2002-2007/">沪申画廊（2002-2007）</a></li>
+	<li id="menu-item-1900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1900"><a href="http://ideas.site/zhongyangmeiyuanhualang1996-2001/">中央美院画廊（1996-2001）</a></li>
+</ul>
+</li>
+<li id="menu-item-1688" class="menu-item menu-item-type-post_type_archive menu-item-object-urban_regeneration menu-item-has-children menu-item-1688 step"><a href="http://ideas.site/urban_regeneration/">城市实践</a>
+<ul class="sub-menu">
+	<li id="menu-item-1894" class="menu-item menu-item-type-post_type menu-item-object-urban_regeneration menu-item-1894"><a href="http://ideas.site/urban-regeneration/hangyangshuangbowuguanzongheti/">O2 Park氧气场</a></li>
+	<li id="menu-item-1895" class="menu-item menu-item-type-post_type menu-item-object-urban_regeneration menu-item-1895"><a href="http://ideas.site/urban-regeneration/haibiandeyizhan%c2%b7haikou/">海边的驿站·海口</a></li>
+	<li id="menu-item-1892" class="menu-item menu-item-type-post_type menu-item-object-urban_regeneration menu-item-1892"><a href="http://ideas.site/urban-regeneration/damochang/">打磨场</a></li>
+	<li id="menu-item-1896" class="menu-item menu-item-type-post_type menu-item-object-urban_regeneration menu-item-1896"><a href="http://ideas.site/urban-regeneration/yuheyihao/">玉河一号</a></li>
+	<li id="menu-item-1890" class="menu-item menu-item-type-post_type menu-item-object-urban_regeneration menu-item-1890"><a href="http://ideas.site/urban-regeneration/chengnanjihua/">前门东区</a></li>
+	<li id="menu-item-1893" class="menu-item menu-item-type-post_type menu-item-object-urban_regeneration menu-item-1893"><a href="http://ideas.site/urban-regeneration/hangzhoudayunhexincheng/">杭州大运河新城</a></li>
+	<li id="menu-item-1889" class="menu-item menu-item-type-post_type menu-item-object-urban_regeneration menu-item-1889"><a href="http://ideas.site/urban-regeneration/qianmen23hao/">前门23号</a></li>
+	<li id="menu-item-1891" class="menu-item menu-item-type-post_type menu-item-object-urban_regeneration menu-item-1891"><a href="http://ideas.site/urban-regeneration/waitansanhao/">外滩三号</a></li>
+</ul>
+</li>
+<li id="menu-item-1691" class="menu-item menu-item-type-post_type_archive menu-item-object-talent_think_tank menu-item-1691 step"><a href="http://ideas.site/talent_think_tank/">人才智库</a></li>
+</ul>                    </div>
+                    <div class="step h-copyright">©2021 IDEAS</div>
+
+                </div>
+                <div class="main-menu-contact">
+                    <div class="wrap w-b">
+                        <div class="logo step"><a href="http://ideas.site/"><img src="http://fliers.beijingcenterforthearts.com/2021/10/logo.svg"></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="search-form">
+            <form role="search" method="get" id="searchform-2" action="http://ideas.site/"><input name="s" type="text" class="searchinput" placeholder="Search"></form>
+        </div>
+    </header>
+    <main id="content">
+
+        
+
+
+
+        
+    <div class="page-header inside">
+
+        <div class="page-header-title">
+            <div class="wrap w-b">
+                <h2><a href="http://ideas.site/category/art-creation/">跨界思想</a></h2><h2><a href="http://ideas.site/category/art-creation/jade-river-talk/">玉河夜话</a></h2>
+            </div>
+            <h1>第21期 | 在AI的浪潮中重新审视人类的创造力 – 李开复，喻红，张培力</h1>
+        </div>
+
+
+
+
+    </div>
+
+    <div class="post-info post-info-all text">
+        <p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-295" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG532_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG532_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG532_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG532_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG532_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG532_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p><span style="color: #999999;">翁菱女士、李开复博士、喻红女士、张培力先生</span></p>
+<section class="" data-tools="135编辑器" data-id="92708">
+<section data-width="100%">
+<section data-bgless="spin" data-bglessp="280" data-bgopacity="50%" data-width="100%">
+<section class="">
+<p class=""><em>从某种意义上说，AI能发展到什么程度，取决于人类相信什么。假设我们相信艺术的灵感也是一种可以被解构的物质，那么AI将会无限地接近人类的智慧。我们，准备好了吗？</em></p>
+<p class="">—翁菱</p>
+</section>
+</section>
+</section>
+</section>
+<p>题记：立春后乍暖还寒的北京，在静默中蕴含着生机。三月一日晚，我们以“人类在AI世界中的位置”开启了新一年的探索与相聚。在前两期关于AI的夜话中，我们叩问了人类自身命运的终极的命题，而关于AI究竟为何，究竟能带来什么，我们仍停留在想象的阶段。而本期夜话，通过李开复与艺术家喻红和张培力及现场朋友们的思辨对话，我们有了相对具体的答案。AI所涉及的领域相当广泛，而我们持续关心的问题是， AI到底可以如何与艺术、人文、哲学等传统去融合，从而形成新的典范？在当下AI的浪潮中重新审视人类的创造力，我们何以自居？</p>
+<section class="" data-tools="135编辑器" data-id="90142">
+<section><img decoding="async" class=" __bg_gif" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" data-ratio="0.6470588235294118" data-src="https://mmbiz.qpic.cn/mmbiz_gif/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8ADp2UrOYB3JGUWqSoMGbpVRo5RfluFybObod1jzhMh1dTNG5xZ3tDw/640?wx_fmt=gif" data-type="gif" data-w="34" data-width="100%" data-order="0"></section>
+</section>
+<p><em>* 以下为现场对话精选</em><em>（</em><em>文末有福利</em><em>）</em><em>：</em></p>
+<p><img decoding="async" class="alignnone size-full wp-image-296" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG530_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG530_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG530_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG530_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG530_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG530_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p><strong>「AI就是个黑盒子」</strong></p>
+<p><strong>翁菱：</strong>大家晚上好！欢迎朋友们来到2019年初春的第一期玉河夜话。过去三年我们一直在探讨关于人与未来变迁的话题，我们邀请各行业的智识精英在玉河相聚，希冀通过对话产生全新的创造力。今天晚上我们将第三次谈论AI这个话题。很高兴请到了我们的好朋友李开复博士以及艺术家喻红和张培力，希望他们今晚的对话可以为我们一直以来思考的AI与艺文创造力之间的关系问题带来启发。首先，有请开复老师为我们介绍一下人工智能。</p>
+<p><img decoding="async" class="alignnone wp-image-297" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG524_s.jpg" alt="" width="395" height="593" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG524_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG524_s-200x300.jpg 200w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG524_s-768x1152.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG524_s-683x1024.jpg 683w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG524_s-500x750.jpg 500w" sizes="(max-width: 395px) 100vw, 395px"></p>
+<p><span style="color: #999999;">创新工场创始人及CEO </span><span style="color: #999999;">李开复博士</span></p>
+<p><strong>李开复：</strong>&nbsp;今天我们讲人工智能，我想先跟大家分享人工智能里非常重要的一个概念，深度学习。其实AI就是一个黑盒子，给它很多很多的数据，告诉它每个数据正确的结果是什么，请它在这个过程中最大化或者最小化某一个函数，这就是AI的理解。深度学习是说在单一领域中为人工智能提供海量数据，通过标记数据来指导人工智能做判断。所提供的数据越多，它做的判断就越准确。</p>
+<p>深度学习大大增强了人工智能的能力，在生活诸多方面都有应用。我们可以看到大概有四波浪潮。第一波是互联网，互联网的数据可以让淘宝最大化你购买的概率，可以让百度最大化你点击广告带来的收入，可以让头条根据你过去的阅读和点击，推测给你看什么样的内容会让你存留更长的时间。每天的使用过程中都是白老鼠在帮它累计更多的数据。</p>
+<p>第二波是商业智能化。比如金融、银行、保险、投资，这些公司可以根据数据做出精确的推算，你可能愿意买什么产品，你的身价是多少。第三波是实体世界智能化，机器有了眼睛和耳朵，能听能看，比如没有收银员的商店，因为各个布置的摄像头看到了你是谁，你拿了什么。第四波是全自动智能化，能动能摸能把东西拿起来，比如仓库的拣货员、自动洗碗机器人、无人驾驶等，并将全面深入我们的生活。人工智能进入应用期，中国因着海量的数据，将成为最大受益者。未来五年，中国将全面赶超美国。</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-299" src="http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.39.49.png" alt="" width="2880" height="1620" srcset="http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.39.49.png 2880w, http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.39.49-300x169.png 300w, http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.39.49-768x432.png 768w, http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.39.49-1024x576.png 1024w, http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.39.49-500x281.png 500w" sizes="(max-width: 2880px) 100vw, 2880px"><img decoding="async" class="img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" crossorigin="anonymous" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_png/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8e2qZIe1PpwK9QgRiclxuKVwzeANh2Aiat0pEZiaXvYxVFf6KOLLJ4m4rw/0?wx_fmt=png" data-cropx1="0" data-cropx2="2880" data-cropy1="93.23741007194243" data-cropy2="1709.3525179856115" data-ratio="0.559375" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8bcZ2aQMicOdASVlGhZoqF6UcTZmjbb3cqYBpZHLwH9sbrMjljGQLsqQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280"></p>
+<p>AI将带来巨大的变革与机会。普华永道预测，2030年，全球AI市场规模将达到15.7万亿美元，这相当于2017年中国和印度的总和，这个数字比任何领域都大，因为AI在很多领域都可以使用，每个领域都可以经过海量的数据产生商业价值、降低成本、增加利润、提高效率。</p>
+<p>AI为我们带来便利，同时也带来巨大挑战，比如工作被取代。重复性的、日常性的、优化性的工作将在未来5至15年被取代，而复杂性的、创意性的工作则较为安全。那被取代工作的应该怎么办？我们知道AI有两大弱点：没有创造力，没有爱。未来的蓝图不是全部被AI取代，也不是乌托邦一样的未来，要看工作的种类。今天有很多是志愿者的工作，未来或许可以成为全职的工作，我们可以利用AI的优点，与人类结合，辅助人，更好地为人类服务。</p>
+<p><img decoding="async" class="img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" crossorigin="anonymous" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_png/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8N37ECmDRM7MQlfsqderA6B4h2njGg6rqD4CT8doJibVlT77NXEZbTAQ/0?wx_fmt=png" data-cropx1="0" data-cropx2="2880" data-cropy1="93.23741007194243" data-cropy2="1709.3525179856115" data-ratio="0.559375" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8rekXUgtolbZr5CWF4qcibiaUhKjXervKGIp0HvUH1SIrcFI6vuSeEj3Q/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-300" src="http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.40.29.png" alt="" width="2880" height="1620" srcset="http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.40.29.png 2880w, http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.40.29-300x169.png 300w, http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.40.29-768x432.png 768w, http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.40.29-1024x576.png 1024w, http://fliers.beijingcenterforthearts.com/2019/05/屏幕快照-2019-05-21-下午5.40.29-500x281.png 500w" sizes="(max-width: 2880px) 100vw, 2880px"></p>
+<p>30年后，如果再举办一次玉河夜话，我可能会跟大家说，AI带给人类的意义不是取代我们的工作，而是使我们思考两件事：第一，过去30年AI带来巨大的价值，因为它把人类从重复性的工作中解放出来，让我们真的有时间思考我们爱做什么，我们能做什么，人类存在的意义是什么。第二，AI是我们的工具，人类是世界唯一拥有自我意识的物种，未来AI和人类何以共存这本书，人类定是撰写者。</p>
+<p><strong>「以艺术去回应这个世界的暗流」</strong></p>
+<p><strong>翁菱：</strong>谢谢开复老师的分享，接下来我们请喻红老师谈谈艺术家在这个科技迅猛发展的时代的位置。</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-301" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG520_s.jpg" alt="" width="395" height="593" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG520_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG520_s-200x300.jpg 200w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG520_s-768x1152.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG520_s-683x1024.jpg 683w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG520_s-500x750.jpg 500w" sizes="(max-width: 395px) 100vw, 395px"></p>
+<p><span style="color: #999999;">艺术家喻红</span></p>
+<p><strong>喻红：</strong>&nbsp;我今天想通过介绍我艺术创作的几个节点，来引出最近这几年我对AI的一些思考。</p>
+<p>《紫色肖像》是我大学毕业后画的第一张画，当时跟所有年轻人一样，处在特别焦虑的状态，到底画什么，人生该往哪儿走，所以我画了很多跟我一样焦虑的女性。后来慢慢成长，自己有了孩子之后，画了一个很长的系列叫做《目击成长》，这个系列都由两部分组成，都是我画的，一边是当年我的生活状态，另一边是从新闻报纸、杂志里选取的图片，这是一个个人成长的历史，个人的成长和时代的关系。</p>
+<p>《愚公还在移山》比较新的一件作品，是根据古代寓言画的。很多人在推山，中间有个人像西西弗斯一样不断往山上推大石头，也有人在压腿、在凿山，或者在山上看景。右侧有岩浆流下，这就是现在动荡、不确定世界的缩影，我把很多现实生活和不确定的东西糅在一起的一个作品。</p>
+<p><img decoding="async" class="img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" crossorigin="anonymous" data-copyright="0" data-cropselx1="103" data-cropselx2="453" data-cropsely1="0" data-cropsely2="475" data-ratio="0.5591787439613527" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8oZPZNhdmEe7922jEDS5kyGJU3z1YGXOFBKlYPiaOseq95rWQOaW6X7g/640?wx_fmt=png" data-type="png" data-w="828"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-303" src="http://fliers.beijingcenterforthearts.com/2019/05/愚公还在移山-1.jpg" alt="" width="2000" height="1112" srcset="http://fliers.beijingcenterforthearts.com/2019/05/愚公还在移山-1.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/愚公还在移山-1-300x167.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/愚公还在移山-1-768x427.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/愚公还在移山-1-1024x569.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/愚公还在移山-1-500x278.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p class=""><span style="color: #999999;">愚公还在移山 <em>Old Man Yu Gong is Still Moving Away Mountains</em> | </span><span style="color: #999999;">2017&nbsp;|&nbsp;布面丙烯 Acrylic on canvas | 500x900cm</span></p>
+<p>我觉得创作对我来说伴随着成长以及外部世界的刺激，这会勾连出自己的思考产生一些作品。对艺术家来说，除了要了解前人或者周围人的创作之外，可能更多的是去体会这个世界的变化，或者这个世界的暗流，在世界的洪流中去创作一些作品。而AI的创作似乎不太一样，它是把图片库里前人的作品进行收集整合筛选，进而模仿。</p>
+<p><strong>李开复：</strong>AI确实是需要海量的数据，艺术家可以创造一个风格，而AI可能创造不出来。但是，虽然模仿艺术家很难，但是模仿一个画匠可能就没有那么难。未来我们如果从数量上来说，很可能更多的是机器画的，因为大众可能买不起艺术家的作品，并且会认为AI画的跟人画的差不多。我觉得未来画匠可能会被取代。</p>
+<p><strong>「艺术家的乐趣之一在于不断试错，而AI不会懂」</strong></p>
+<p><strong>张培力：</strong>在社会中，艺术对人类的贡献其实是被说得很重要，因为系统需要它，人需要它。就像做菜需要一些佐料，艺术可能就是不同的佐料。但是没有佐料还能吃吗？当然能吃。今天这个社会离不开电、离不开手机、离不开网络、离不开高铁飞机，但离开艺术可以。</p>
+<p>艺术是社会系统里的一个部分。它的重要性和伟大程度不会超越科学，现在如果少两个艺术家没什么问题，但是少两个顶尖的科学家，那人类的发展速度可能会迟缓很多。</p>
+<p class=""><img loading="lazy" decoding="async" class="alignnone wp-image-304" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG522_s.jpg" alt="" width="399" height="599" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG522_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG522_s-200x300.jpg 200w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG522_s-768x1152.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG522_s-683x1024.jpg 683w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG522_s-500x750.jpg 500w" sizes="(max-width: 399px) 100vw, 399px"></p>
+<p class=""><span style="color: #999999;">艺术家张培力</span></p>
+<p>我觉得，艺术家是跟随科学和技术的。跟一百年前不同，我们生活在这样一个充满技术的时代，我们肯定是有好奇心的。但问题是，如果过于依赖技术的话，或者特别想用技术来表达的话，可能又有一点太正确了。美国艺术家李希滕斯坦说过“我就是想画很差的画”，这个“很差的画”可能在别人看来是一种反叛性或者批判性，但是对他自己来讲，他不想追求一种看上去特别正确、特别有逻辑的绘画语言。所以，艺术家犯错误也好，恶作剧也好，这个是机器替代不了的。</p>
+<p><strong>翁菱：</strong>今天还来了一位艺术家，一直试图用新技术来做作品，我们来听听她的看法。</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-305" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG515_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG515_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG515_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG515_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG515_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG515_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p class=""><span style="color: #999999;">嘉宾曹斐</span></p>
+<p><strong>曹斐：</strong>我认为张老师说的“犯错误”是很有意思的一个优点。对我个人而言，我对技术的兴趣主要是想看看技术的界限在哪里，我想尝试通过技术在网络世界或者现实世界看到更迷惑、更超链接、更开放的一个空间，比如虚拟现实、增强现实，可能会改变观众观看作品的方式。</p>
+<p><img decoding="async" class="img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" crossorigin="anonymous" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8Cnf9tQ2ItsBW63Wcpicib46G4wZwZ6aGDLk8EiaCuzmVkQrVyYfpYms6g/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-306" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG513_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG513_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG513_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG513_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG513_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG513_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p class=""><span style="color: #999999;">嘉宾许戈辉</span></p>
+<p><strong>许戈辉：</strong>我发现一个特别有意思的现象。我刚才很专注地听三位讲，我发现其实培力老师根本不是谦虚，他内心是非常骄傲的。开复老师讲通过海量的数据，人工智能会越来越智能，何谓越来越智能，其实就是越来越接近于正确。但是培力老师上来开宗明义我们艺术家追求的是“错误”，在错误中构建一个新的世界，你们不过是在追求越来越正确，但是我们根本看不上你们的正确！而喻红在作品中表达的也是她不断在思考，这个世界到底什么正确的，什么是错误的，真的有正确吗，真的这就是错误的吗。人类在不断的思考中在探索、在挣扎、在创造也在毁灭。这个现象特别有意思，谁说人工智能一定是高级的，强大的，不可战胜的？</p>
+<p><strong>强人工智能是否会发生？</strong></p>
+<p><strong>翁菱：</strong>我们前两次讨论人工智能的时候，大家好像更悲观，迅速谈到了奇点，今天好像大家心更静了，在听目前人工智能发展的状态。关于奇点，开复你怎么看？</p>
+<p><strong>李开复：</strong>上次我来的时候，我讲这些东西，大家问我怎么老讲弱人工智能，强人工智能呢？我认为强人工智能的时代是很难预测的，但是今天的人工智能已经为人类带来很大的价值和很多颠覆。我们应该把有限的时间花在解决必然的问题，不用太多去揣测可能发生、可能不发生的奇点问题。</p>
+<p><img decoding="async" class="img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" crossorigin="anonymous" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW84uVRPZiaJ60SOcKNwA8wEfztMW3o18LiaFWUfZib7Hw1cEDKrq85QT5yQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-307" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG514_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG514_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG514_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG514_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG514_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG514_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p class=""><span style="color: #999999;">嘉宾赵胤胤</span></p>
+<p><strong>赵胤胤：</strong>当时人工智能是被妖魔化的，大家都觉得奇点马上来了，人类即将毁灭。我非常同意培力老师的观点，艺术的创作一定是跟随在技术之后的。莫扎特一辈子没有弹过钢琴（注：莫扎特的时代人们弹奏古钢琴，与现在的钢琴很不一样），因为钢琴没有被发明，但不妨碍我们用钢琴演奏莫扎特。我自己很喜欢烧菜，我不相信厨艺，我相信厨具，因为厨艺都是围绕厨具产生的。我们一定需要美味，吃糠咽菜，饿不死，不能使我们愉悦。任何一个发达的城市，一定有高度发达的科技和高度文明的艺术，因为人类需要两个世界，一个是属于物质的，那就是刚需饿不死，可以活下去；一个是属于精神的，我觉得艺术是服务后者的。</p>
+<p><strong>张培力：</strong>这个是相对的，如果跟科学相比，艺术家的贡献真的微不足道。可是现在我们说梵高多么重要，作品拍卖价格这么高，但梵高画画的时候谁知道他，不知道他又怎么了？都活得挺好的。</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-308" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG512_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG512_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG512_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG512_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG512_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG512_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p class=""><span style="color: #999999;">嘉宾王功新</span></p>
+<p><strong>王功新：</strong>我有个问题，AI是否能够提取人类情感的数据？能不能将这些数据拷贝在机器人上，产生新的东西？也许这个东西不能超越精神上最超前的人，但这个复制品或许可以满足百分之六七十的大众。这对人类可能是一个威胁，也可能不是。</p>
+<p><strong>李开复：</strong>人类的情感现在机器是可以一定程度识别的，可以看出愤怒、悲伤，开心地笑抑或讽刺、嘲笑。艺术家情感丰富，我们理工男情感识别能力很差，AI已经超过理工男的情感识别了。除了识别，还有模仿。现在可以把人脸放到另一个视频里模仿，以后的仿真、AR，确实可以产生看起来好像有情感的机器人。但是我还是相信人与人的情感，无论是男女之间、朋友之间、父母与孩子之间，这个是来自内心的。模仿的效果可能只会让非常少数的人被骗，或者那些不想找人只想找那些机器的人觉得蛮好的。</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-309" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG511_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG511_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG511_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG511_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG511_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG511_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p class=""><span style="color: #999999;">嘉宾朱云来</span></p>
+<p><strong>朱云来：</strong>我想提另一个问题，艺术家的创作跟情感、情绪有关，那人工智能没有，尽管人工智能可以识别可以模仿，但实际上是一种符号性的、抽象意义的识别对应。通过机械的标准，系统地去模仿，这样的东西并不是真正的创作。其实我们真正害怕的是，会不会有一天人工智能可以自己创作了，有情感了，有意识了，能超越人类了？有没有可能最后人工智能超越我们，成为消灭人类的机器人？</p>
+<p><strong>李开复：</strong>其实还是强人工智能的问题，所谓的超过人、控制人、比人更聪明，或者人类控制不住，都是基于人工智能有意识这个假设。其实它是没有的，它是一个工具，想象它可以反过来控制我们，应该是不会发生的。假如发生，还需要有很多技术的突破，比如单一领域的弱点，没有常识的弱点，没有策划、战略思维的弱点，没有自我意识等。要克服这些，都是巨大的挑战，所以我认为超越人类的概率不太存在。</p>
+<p>但是有一点，人工智能带来灾难的概率还是有的，因为它是简单的目标函数优化，过程中可能会做一些人类不认可或者伤害到人类的事情。比如facebook，它可能会给一个有偏见的人更多他喜欢的内容，加深他的偏见，导致更严重的问题。</p>
+<p><strong>人工智能时代的政策问题</strong></p>
+<p><img decoding="async" class="img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" crossorigin="anonymous" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8TEdNMhdsmoVkOkQwWIESgYrtC4yPSfjlR3oLkGkCZur46cCGEaZnGQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-310" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG510_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG510_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG510_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG510_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG510_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG510_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p><span style="color: #999999;">嘉宾李亦非</span></p>
+<p><strong>李亦非：</strong>我想提一下算法霸权的问题，实际上刚才培力老师已经讲到了，未来艺术家可能是“反正确”的。现阶段，AI可能80%是在帮助人类改善生活，但终有一天这个二八比例是会倒过来的。现在AI带来的算法霸权，极度的财富和技术掌握在写代码的人手里。当转折点来的时候，谁来决定它来临的时间、速度、方式，是政治家，哲学家？到那个时候，你们如何去解决未来社会的问题？</p>
+<p><strong>李开复：</strong>这个问题很大，我在书中也在探索这些问题。从科技的发展史来说，我们去克服科技带来的问题，一定是用更多的科技。我们都在道高一尺魔高一丈的状态，做网络安全的人总能克服。所以我觉得要相信科技的力量，以及负责的科学家预警的力量。九十年代末的时候，很多人都说Y2K很严重，2000年世界就崩溃了。但2000年为什么没有发生呢，是科学家用技术预防了Y2K带来的灾难。技术推进的过程是不可能被阻碍的，人的好奇心、改变世界的心态及付诸探索的努力也是不会改变的。</p>
+<p>当然今天也有很多欧洲的政府，就会说让AI发展慢一点，但是那是很理想主义的做法，因为其实还有美国、还有中国，中国跟美国都是会不断的推进科技的。所以我觉得既然已经科技走到了这个地步，我们就必须要让做科技的人负责起来，让政策把特别坏的事情管起来，还是要相信有更多科技的投入，用科技的方法解决科技的问题。</p>
+<p>关于奇点的问题，我觉得会不会来临，关乎人有没有灵魂的问题。如果人有灵魂，我们的灵魂可以永生，这是AI永远无法克服的。</p>
+<p><strong>翁菱：</strong>冯俊兰作为研究AI的专家，很明白大家的担忧，你怎么看？</p>
+<p><img decoding="async" class="img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" crossorigin="anonymous" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8LNHria2n8os2InCGXFl5XJjqn1ZmsBwUic52gWI64VwLSK4alRjqcLbQ/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-311" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG509_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG509_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG509_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG509_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG509_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG509_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p class=""><span style="color: #999999;">嘉宾冯俊兰</span></p>
+<p><strong>冯俊兰：</strong>刚才李老师讲了很多个体层面的，其实更大的层面是对整个社会的。我觉得AI是普适性很强的技术，以当前AI发展的速度，它会非常深入地改变我们社会的各个行业，包括运作模式。艺术家在这个过程中会扮演很重要的角色。艺术家更敏感，可以感知到现在和未来极度的愉悦或极度的痛苦，可以用艺术把这些展现出来，唤醒没有感知到这些的大众，以此为人服务。</p>
+<p><strong>AI的发展最终取决于人类相信什么</strong></p>
+<p>翁菱：今天的主题“人类在AI世界中的位置“ 其实来源于我和科学家汤超老师的一次交谈。赫胥黎的著作《人类在自然界的位置》成为了这次夜话的主题灵感。要知道，当时赫胥黎发布这本书的背景是人们对达尔文的进化论存在很大争议的年代。如今我们对AI的争议相信比起那个年代对进化论的争议是有过之而无不及的。汤超老师可以给我们解读一下吗？</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-312" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG496_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG496_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG496_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG496_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG496_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG496_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p class=""><span style="color: #999999;">嘉宾汤超</span></p>
+<p><strong>汤超：</strong>我本来说我想讲两点，刚才听了你的启发，我想我可以简单说一下三点：第一，人工智能能不能超越人类，达到跟人一样的有感情、有智慧，所谓的奇点。这在于你信什么，如果你觉得人本质上是物质的，就是一些神经元互相连接，再放电，他有一个物质基础，而不是说有一个超自然的东西在控制他，那这一点我觉得至少人工智能是可以无限逼近人的智能的。</p>
+<p>第二点，我想说现在的人工智能离这点还差的很远很远，现在人工智能只是把我们大脑的结构的很小一部分拿来，做一些具体的事情，为什么只拿很小的一部分，因为我们对我们的大脑了解的非常非常的少，我们理解的不够，这就是生物技术、生命科学要不断的进步，反过来其实可以促进人工智能的进步。现在的人工智能，特别是我跟喻红吃饭，我问她几个问题，还有她讲了几个问题以后，我觉得现在人工智能超越艺术家是不太可能的，刚才李老师说现在人工智能主要靠大数据、靠训练，你告诉它什么是好什么是不好，什么是创造什么不是创造，大量的数据它可以模仿的非常好，甚至某些方面可以创新。但如喻红所说你需要理解这个世界的暗流，你整个人生的经历都要放进去，现在人工智能是做不到的，为什么做不到，因为我们大脑如何吸取知识，如何融会贯通我们不清楚。以后这个事情是不是可以做到，如果你相信这个世界是物质的，大脑是物质的，那应该可以做到，但是离这点还差的非常非常远。至少在我们的有生之年，我觉得我们不太要担心说人工智能会超越你们这些在座的艺术家。</p>
+<p>第三点，刚才翁菱说的，假如人工智能和生物技术共同进步的话，我们人会变成什么样？这个我真的不知道。我想我们肯定会变得跟现在很不一样，但是变成什么样我不知道。你可以想象一下我们对大脑的了解越来越多，我们对情感、对世界的认识这些东西，怎么样放在大脑里面，他们是怎么样相互作用、怎么样储存，怎么样产生灵感的，灵感这个东西到底怎么回事。如果你觉得灵感也是物质的东西，而不是上帝给了你提示的话，那也是可以实现的，但是我们离这点很远。假如我们可以认识的越来越多，那么我们可以在相关技术上超越，比如我们造更强的大脑，可以记的更多，储存的更多，可以把人工智能的一部分放到大脑里面，那以后什么样我不知道，是好事是坏事我也不知道。</p>
+<p><strong>冯俊兰：</strong>补充一下，刚才李老师讲的通用人工智能，这两年有很大的进步。以前是单一任务去学习，现在是学习一种能力，这是很多人在研究的一个方向，还有一个叫学习转移，就是说从一个任务上学到的东西可以很容易用在另一个任务上。此外还有在研究一种所有任务之上都有的一层抽象的东西，如果找到这个抽象的模式，那么用在其他任务上就特别容易。还有就是强化学习，以前需要数据，将来不需要数据，需要的是自身探索环境的能力，这样学到的也是通用的。技术每几个月都很较大进展。</p>
+<p><strong>人工智能与人文的未来</strong></p>
+<p><img decoding="async" class="img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" crossorigin="anonymous" data-copyright="0" data-cropselx1="0" data-cropselx2="556" data-cropsely1="0" data-cropsely2="371" data-ratio="0.66640625" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/n6XdO6IIQtV0iaogpyj7iaSNLAeTfkHFW8plfMA6ibOvPQKQ2mk9lYqvpgDA2wbrIEUgreBnPj5uibAQOddG18cubA/640?wx_fmt=jpeg" data-type="jpeg" data-w="1280"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-313" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG507_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG507_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG507_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG507_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG507_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG507_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p><span style="color: #999999;">嘉宾董强</span></p>
+<p><strong>董强：</strong>我觉得有一个词大家没有讲到，进步。人工智能是在进步的概念中，而艺术跟进步是完全没有关系的。一个希腊的作品还没有被现代人超越。摄影发明后，大家觉得写实主义没有了，而像喻红这样的写实主义其实是非常现代的。当时张培力最早做的影像作品，几乎没有像素，但是作品非常好。所以艺术跟进步是没有关系的。</p>
+<p>第二想说情感，刚才李教授说人工智能没有情感，没有意识，所以不要怕它。我反而觉得正是因为它没有情感，我们被没有情感的东西毁灭了，这才是我恐惧的地方。如果人工智能有感情，也许可以和人形成一个新的共同体。另外一个关于情感我想说的是，是不是有了情感才是高级的。其实现代艺术、现代文学，都是在努力摈弃情感，比如现代文学三大作家，伍尔夫、普鲁斯特、卡夫卡，他们就是想去情感，或者假装客观。再比如你看电视，经常就很想落泪。所以简单地用情感就可以做出判断，我觉得并非如此。机器流出一滴眼泪就伟大了吗？</p>
+<p><strong>翁菱：</strong>董强的问题提得很好，把传统艺术跟情感问题放入一个更社会学、哲学、文化的层面。</p>
+<p><strong>张培力：</strong>刚才没有谈到艺术跟科技有一个不同之处。科技追求的是结果，而艺术更多的是追求过程。以前，艺术家其实更多的是在把玩艺术，享受这个过程。如果说人工智能能够替代艺术家的创作，我觉得是没有意义的。它的确能够替代艺术家的部分工作，这其实是艺术家利用这个技术，来享受创作的过程。等这个过程完成了，艺术就开始考虑下一个作品，下一个过程了。</p>
+<p><strong>喻红：</strong>我看完李老师讲的AI，我觉得AI是会对艺术产生巨大的影响的，因为它可以无限复制，不同于版画和印刷品，它对场地没有限制，并且可以将任何风格和语言结合在一起，这就会非常大的挤压艺术家的空间，很现实。</p>
+<p>另外，对艺术家来说，画一张画，开始和结束的时间节点都很重要。但对AI来说，艺术没有结束，它可以永远把这张画画下去，谁告诉它结束呢？这需要人的判断，只有人才能解决。但是AI一定会对艺术产生巨大的影响，让艺术不知道怎么就拐另一个弯了。</p>
+<p>而且，我发现科学家都特别乐观，当然技术确实可以帮人解决很多现实的问题，但艺术家可能更多的是关注人的社会生存状态，比如焦虑感。我相信AI越普及，人的焦虑感就越强，因为大部分人已经失去了人生的意义，当然你老了有机器帮助你生活，这些物质生活都可以解决，但人没有价值感，这是很焦虑的事。</p>
+<p><strong>翁菱：</strong>不就是摧毁人类嘛。</p>
+<p><strong>李开复：</strong>讲几点，第一，喻红老师刚才讲的我觉得非常正确，就跟之前说做AR、VR作品的一样，是把AI当成工具。今天艺术家是用画布或者笔，或者用一些材料来做雕塑作品，未来工具的想象空间可能更大，它可以帮助你更多更迅速地尝试很多不同的排列组合，当然艺术家可以做最终的修改，这是从效率角度去说。当然可能跟张老师讲的不太一样，如果过程重要的话，效果可能不那么重要。</p>
+<p>第二，从社会层面说，AI其实是给金字塔顶尖的人做工具。但是底端的人怎么办，刚进入行业的人完全被取代了，我们该如何处理这个事情。</p>
+<p>最后要讲的是，如果未来有不好的事发生，不在于AI是有感情还有没感情。我觉得AI就是工具，如果对人类带来害处，主要原因可能有两个：它为了优化一个目标可能不择手段地删除一些对人很重要的，但对目标无关的东西，最重要的是，它既然是工具，背后就有人告诉它怎么做。如果AI对我们有伤害，作恶者背后是人，而不是因为AI有感情导致的。</p>
+<p><strong>许戈辉：</strong>我有一个特别好的提议，这也许是一个实验性的和划时代性的一个作品，何不让台上的三位嘉宾分别做一件作品，开复老师带着艺术系的学生，两位艺术家带着AI专业的学生，分别调教AI，来做一件艺术品。创作过程要封闭，现在是春寒料峭，到金秋时节我们看看，作品是什么样子，我们能分辨出是谁的作品吗？</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-314" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG518_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG518_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG518_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG518_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG518_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG518_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+<p><strong>翁菱：</strong>开复最近出任世界经济论坛AI委员会的联席主席，你们人工智能委员未来的方向是什么呢？</p>
+<p><strong>李开复：</strong>我觉得最重要的是要有一个中国代表在里面做联席主席。其实一直以来都是欧美在制定AI的规则，但现在欧洲有焦虑感，他们价值观不同，欧洲想灌输他们的价值观到美国，美国想灌输到亚洲。我个人认为这些价值观都是值得尊敬的，但是每个国家民族都有不同的观点。所以这次有印度、中国、美国、日本等参与到这个事情。我希望做到的其实不是一个全球的治理，因为这一定是个灾难，我希望能做出一套足够聪明、足够包容的系统，让不同的价值观都能体现，让每个人都有选择的权利，我希望AI能有这样求同存异的过程。</p>
+<p><strong>喻红：</strong>大家焦虑的是人工智能会不会控制世界、控制人类，人类变成很低等的奴隶一样工作，或者是毫无意义的生活。从大的尺度来说，人类就是若干物种当中的一个，曾经就是很低端的，真的很难说在一个大尺度下我们是不是变成低端的奴隶，我觉得有这个可能性。</p>
+<p><strong>翁菱：</strong>感谢各位朋友，今晚你们的发言都非常精彩！对于很多人来说，AI曾经只存在于科幻电影中，现在我们发现AI已经无处不在。我们曾经以为的遥远未来其实正在发生。这个世界发展的速度超出了我的想象。曾经我也非常惶恐，但如今我逐渐悟出来，与其惶恐不如顺势而为，在有限的生命中继续去学习、创造与融合。“玉河夜话“的理想也在于此。今天的对话实在是让人意犹未尽，我们会将探讨以各种形式在实践中进行下去。再次感谢各位朋友，我们再会！</p>
+<p>&nbsp;</p>
+<p><em><strong>夜话现场：</strong></em></p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-315" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG526_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG526_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG526_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG526_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG526_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG526_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"> <img loading="lazy" decoding="async" class="alignnone size-full wp-image-316" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG527_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG527_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG527_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG527_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG527_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG527_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"> <img loading="lazy" decoding="async" class="alignnone size-full wp-image-318" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG529_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG529_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG529_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG529_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG529_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG529_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"> <img loading="lazy" decoding="async" class="alignnone size-full wp-image-319" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG490_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG490_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG490_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG490_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG490_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG490_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"> <img loading="lazy" decoding="async" class="alignnone size-full wp-image-320" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG500_s.jpg" alt="" width="2000" height="1333" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG500_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG500_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG500_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG500_s-1024x682.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG500_s-500x333.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"> <img loading="lazy" decoding="async" class="alignnone size-full wp-image-321" src="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG533_s.jpg" alt="" width="2000" height="1334" srcset="http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG533_s.jpg 2000w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG533_s-300x200.jpg 300w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG533_s-768x512.jpg 768w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG533_s-1024x683.jpg 1024w, http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG533_s-500x334.jpg 500w" sizes="(max-width: 2000px) 100vw, 2000px"></p>
+    </div>
+
+
+
+<div class="space"></div>
+<div class="more-post">
+    <div class="wrap w-b">
+        <a class="prev" href="http://ideas.site/art-creation/yuheyehuadiershiqixianchang-congshejideweilaikanshijie/"> <div class="go-yes"><span class="icon-first_page"></span></div> <div class="nav-box">
+                <div class="nav-box-img">
+                    <img src="http://fliers.beijingcenterforthearts.com/2019/06/IMG_4240-150x150.jpg">
+                </div>
+                <h3>第20期 | 从设计的未来看世界的未来 – 原研哉，金井政明，朱钦骐，毛继鸿</h3>
+            </div></a>        <div class="share open">
+            <div class="open-share">share:            </div>
+            <ul>
+                                <li><a target="_blank" href="https://service.weibo.com/share/share.php?url=http://ideas.site/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/&amp;title=第21期 | 在AI的浪潮中重新审视人类的创造力 – 李开复，喻红，张培力&amp;pic=http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG532_s.jpg" class="icon-sina-weibo"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://ideas.site/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/&amp;title=第21期 | 在AI的浪潮中重新审视人类的创造力 – 李开复，喻红，张培力&amp;link=hhttp://ideas.site/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/&amp;picture=http://fliers.beijingcenterforthearts.com/2019/05/WechatIMG532_s.jpg" class="icon-facebook2"></a></li>
+                <li><a target="_blank" href="https://twitter.com/intent/tweet?text=第21期 | 在AI的浪潮中重新审视人类的创造力 – 李开复，喻红，张培力&amp;url=http://ideas.site/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/&amp;via=http://ideas.site/art-creation/di21qi-zaiaidelangchaozhongzhongxinshenshirenleidechuangzaoli-likaifuyuhongzhangpeili/" class="icon-twitter"></a></li>
+            </ul>
+        </div>
+        <a class="next" href="http://ideas.site/art-creation/yuheyehuadi22qixianchang-yishuchuangzuozhongdeliuanhuaming/"> <div class="nav-box">
+                        <div class="nav-box-img">
+                               <img src="http://fliers.beijingcenterforthearts.com/2019/05/IMG_3876_s-150x150.jpg">
+                        </div>
+                          <h3>第22期 | 艺术创作中的“柳暗花明” – 刘小东，杨福东，张扬</h3>
+                    </div>
+                    <div class="go-yes"><span class="icon-last_page"></span></div></a>    </div>
+</div>
+
+   <!-- #main -->
+
+
+</main>
+
+    <div class="space"></div>
+    <footer id="footer">
+        <div class="logo"><img src="http://fliers.beijingcenterforthearts.com/2021/10/logo.svg"></div>
+        <div class="wrap w-b">
+            <div class="text">©2021 IDEAS</div>
+            <p></p>
+            <p></p>
+        </div>
+    </footer>
+
+</div>
+
+
+<script>
+
+    $(window).load(function(){
+        var nub = $('.big-text').text().length;
+        WebFont.load({
+            custom: {
+                families: ['geometos_roundedregular'],
+                urls: ['http://ideas.site/wp-content/themes/ideas/fonts/fonts.css']
+            },
+            active:function() {
+                $(".big-text").slabText({
+                    minCharsPerLine : nub
+                });
+            },
+        });
+
+        // housekeeping
+
+
+    })
+</script>
+
+<script src="//qzonestyle.gtimg.cn/qzone/qzact/common/share/share.js?ver=6.5.5" id="wxcs-js"></script>
+	<script id="wxcs-script">
+	WX_Custom_Share = function(){
+		
+		var xhr = null;
+		var url = 'http://ideas.site/wp-admin/admin-ajax.php';
+		var signature_url = window.location.href.split('#')[0];
+		var formData = {
+			action: 'wxcs_get_share_info',
+			type: 'post',
+			id: '294',
+			signature_url: signature_url
+		};
+		
+		this.init = function(){
+			if( window.XMLHttpRequest ){
+				xhr = new XMLHttpRequest();
+			}
+			else if( window.ActiveXObject ){
+				xhr = new ActiveXObject('Microsoft.XMLHTTP');
+			}
+			
+			get_share_info();
+		};
+		
+		function formatPostData( obj ){
+			
+			var arr = new Array();
+			for (var attr in obj ){
+				arr.push( encodeURIComponent( attr ) + '=' + encodeURIComponent( obj[attr] ) );
+			}
+			
+			return arr.join( '&' );
+		}
+		
+		function get_share_info(){
+			
+			if( xhr == null ) return;
+			
+			xhr.onreadystatechange = function(){
+				if( xhr.readyState == 4 && xhr.status == 200 ){
+					
+					var data = eval('(' + xhr.responseText + ')');
+					
+					if( data == null ){
+						return;
+					}
+					
+					var info = {
+						title: data.title,
+						summary: data.desc,
+						pic: data.img,
+						url: data.url
+					};
+					
+					if( formData.type == 'other' ){
+						info.title = document.title;
+						info.summary = location.href;
+						info.url = location.href;
+					}
+					
+					if( data.use_actual_url == true ){
+						info.url = location.href;
+					}
+
+					if( data.error ){
+						console.error( '自定义微信分享: ', data.error );
+					}
+					else if( data.appid ){
+						info.WXconfig = {
+							swapTitleInWX: data.swapTitleInWX,
+							appId: data.appid,
+							timestamp: data.timestamp,
+							nonceStr: data.nonceStr,
+							signature: data.signature
+						};
+					}
+					
+					setShareInfo( info );
+				}
+			};
+			
+			xhr.open( 'POST', url, true);
+			xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+			xhr.send( formatPostData( formData ) );
+		}
+	};
+	
+	new WX_Custom_Share().init();
+	</script>
+	
+
+
+</body></html>

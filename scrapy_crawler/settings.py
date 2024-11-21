@@ -1,12 +1,4 @@
-# Scrapy settings for scrapy_crawler1 project
-#
-# For simplicity, this file contains only settings considered important or
-# commonly used. You can find more settings consulting the documentation:
-#
-#     https://docs.scrapy.org/en/latest/topics/settings.html
-#     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-#     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-
+'''coded by 王栩麓'''
 BOT_NAME = "scrapy_crawler"
 
 SPIDER_MODULES = ["scrapy_crawler.spiders"]
@@ -145,6 +137,3 @@ SPLASH_ARGS = {
     'images': 0,  # 禁用图片加载，减少 Splash 的渲染压力
     'resource_timeout': 10  # 对加载资源设置超时，单位为秒
 }
-
-
-

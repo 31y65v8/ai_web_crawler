@@ -1,0 +1,1321 @@
+<!DOCTYPE html><html dir="ltr" lang="zh-CN" prefix="og: https://ogp.me/ns#" class="js applicationcache geolocation history postmessage svg websockets no-localstorage no-sessionstorage websqldatabase webworkers hashchange no-audio canvas canvastext no-video webgl cssgradients multiplebgs opacity rgba inlinesvg csspositionsticky hsla supports svgclippaths smil fontface generatedcontent textshadow no-indexeddb cssanimations backgroundsize borderimage borderradius boxshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox flexboxlegacy cssreflections csstransforms csstransforms3d csstransitions"><head>
+	
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/css/swiper.min.css">
+	<script src="https://hm.baidu.com/hm.js?ea9be69dcc9ef89a852d9084298f8fce"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/js/swiper.min.js"></script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><title>人工智能的起源、发展和未来</title>
+
+		<!-- All in One SEO 4.6.9.1 - aioseo.com -->
+		<meta name="description" content="作为本系列的首篇文章，将探讨人工智能的历史发展，并探究它是如何融入当下人们生活之中的。">
+		<meta name="robots" content="max-image-preview:large">
+		<meta name="keywords" content="ai,人工智能,机器学习,生成式人工智能,深度学习,技术,featured">
+		<link rel="canonical" href="https://news.skhynix.com.cn/all-about-ai-the-origins-evolution-future-of-ai/">
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.6.9.1">
+		<meta property="og:locale" content="zh_CN">
+		<meta property="og:site_name" content="SK hynix Newsroom">
+		<meta property="og:type" content="article">
+		<meta property="og:title" content="人工智能的起源、发展和未来">
+		<meta property="og:description" content="作为本系列的首篇文章，将探讨人工智能的历史发展，并探究它是如何融入当下人们生活之中的。">
+		<meta property="og:url" content="https://news.skhynix.com.cn/all-about-ai-the-origins-evolution-future-of-ai/">
+		<meta property="og:image" content="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/10003024/SK-hynix_All-About-AI_Thumbnail.png">
+		<meta property="og:image:secure_url" content="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/10003024/SK-hynix_All-About-AI_Thumbnail.png">
+		<meta property="article:tag" content="sk海力士">
+		<meta property="article:tag" content="sk hynix">
+		<meta property="article:tag" content="人工智能">
+		<meta property="article:tag" content="ai">
+		<meta property="article:tag" content="机器学习">
+		<meta property="article:tag" content="深度学习">
+		<meta property="article:tag" content="生成式人工智能">
+		<meta property="article:published_time" content="2024-10-14T06:00:18+00:00">
+		<meta property="article:modified_time" content="2024-10-10T00:54:50+00:00">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="人工智能的起源、发展和未来">
+		<meta name="twitter:description" content="作为本系列的首篇文章，将探讨人工智能的历史发展，并探究它是如何融入当下人们生活之中的。">
+		<meta name="twitter:image" content="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/10003024/SK-hynix_All-About-AI_Thumbnail.png">
+		<!-- All in One SEO -->
+
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="alternate" type="application/rss+xml" title="SK hynix Newsroom » Feed" href="https://news.skhynix.com.cn/feed/">
+<link rel="alternate" type="application/rss+xml" title="SK hynix Newsroom » 评论 Feed" href="https://news.skhynix.com.cn/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/news.skhynix.com.cn\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style type="text/css">.pt_splitter {
+	display: block;
+}</style><style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://news.skhynix.com.cn/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="email-subscribers-css" href="https://news.skhynix.com.cn/wp-content/plugins/email-subscribers/lite/public/css/email-subscribers-public.css?ver=5.7.31" type="text/css" media="all">
+<link rel="stylesheet" id="salient-social-css" href="https://news.skhynix.com.cn/wp-content/plugins/salient-social/css/style.css?ver=1.0" type="text/css" media="all">
+<style id="salient-social-inline-css" type="text/css">
+
+  .sharing-default-minimal .nectar-love.loved,
+  body .nectar-social[data-color-override="override"].fixed > a:before, 
+  body .nectar-social[data-color-override="override"].fixed .nectar-social-inner a,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:hover {
+    background-color: #000000;
+  }
+  .nectar-social.hover .nectar-love.loved,
+  .nectar-social.hover > .nectar-love-button a:hover,
+  .nectar-social[data-color-override="override"].hover > div a:hover,
+  #single-below-header .nectar-social[data-color-override="override"].hover > div a:hover,
+  .nectar-social[data-color-override="override"].hover .share-btn:hover,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a {
+    border-color: #000000;
+  }
+  #single-below-header .nectar-social.hover .nectar-love.loved i,
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover,
+  #single-below-header .nectar-social.hover[data-color-override="override"] a:hover i,
+  #single-below-header .nectar-social.hover .nectar-love-button a:hover i,
+  .nectar-love:hover i,
+  .hover .nectar-love:hover .total_loves,
+  .nectar-love.loved i,
+  .nectar-social.hover .nectar-love.loved .total_loves,
+  .nectar-social.hover .share-btn:hover, 
+  .nectar-social[data-color-override="override"].hover .nectar-social-inner a:hover,
+  .nectar-social[data-color-override="override"].hover > div:hover span,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) i,
+  .sharing-default-minimal .nectar-social[data-color-override="override"] .nectar-social-inner a:not(:hover) {
+    color: #000000;
+  }
+</style>
+<link rel="stylesheet" id="uaf_client_css-css" href="https://news.skhynix.com.cn/wp-content/uploads/useanyfont/uaf.css?ver=1722416392" type="text/css" media="all">
+<link rel="stylesheet" id="wonderplugin-gridgallery-engine-css-css" href="https://news.skhynix.com.cn/wp-content/plugins/wonderplugin-gridgallery/engine/wonderplugingridgalleryengine.css?ver=18.4.1PRO" type="text/css" media="all">
+<link rel="stylesheet" id="wpos-slick-style-css" href="https://news.skhynix.com.cn/wp-content/plugins/wp-responsive-recent-post-slider/assets/css/slick.css?ver=3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="wppsac-public-style-css" href="https://news.skhynix.com.cn/wp-content/plugins/wp-responsive-recent-post-slider/assets/css/recent-post-style.css?ver=3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://news.skhynix.com.cn/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="main-styles-css" href="https://news.skhynix.com.cn/wp-content/themes/salient/css/style.css?ver=10.5.3" type="text/css" media="all">
+<style id="main-styles-inline-css" type="text/css">
+
+		@font-face{
+		     font-family:'Open Sans';
+		     src:url('https://news.skhynix.com.cn/wp-content/themes/salient/css/fonts/OpenSans-Light.woff') format('woff');
+		     font-weight:300;
+		     font-style:normal
+		}
+		 @font-face{
+		     font-family:'Open Sans';
+		     src:url('https://news.skhynix.com.cn/wp-content/themes/salient/css/fonts/OpenSans-Regular.woff') format('woff');
+		     font-weight:400;
+		     font-style:normal
+		}
+		 @font-face{
+		     font-family:'Open Sans';
+		     src:url('https://news.skhynix.com.cn/wp-content/themes/salient/css/fonts/OpenSans-SemiBold.woff') format('woff');
+		     font-weight:600;
+		     font-style:normal
+		}
+		 @font-face{
+		     font-family:'Open Sans';
+		     src:url('https://news.skhynix.com.cn/wp-content/themes/salient/css/fonts/OpenSans-Bold.woff') format('woff');
+		     font-weight:700;
+		     font-style:normal
+		}
+</style>
+<link rel="stylesheet" id="nectar-single-styles-css" href="https://news.skhynix.com.cn/wp-content/themes/salient/css/single.css?ver=10.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="nectar-element-recent-posts-css" href="https://news.skhynix.com.cn/wp-content/themes/salient/css/elements/element-recent-posts.css?ver=10.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="fancyBox-css" href="https://news.skhynix.com.cn/wp-content/themes/salient/css/plugins/jquery.fancybox.css?ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="https://news.skhynix.com.cn/wp-content/themes/salient/css/responsive.css?ver=10.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="skin-material-css" href="https://news.skhynix.com.cn/wp-content/themes/salient/css/skin-material.css?ver=10.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="dynamic-css-css" href="https://news.skhynix.com.cn/wp-content/themes/salient/css/salient-dynamic-styles.css?ver=84342" type="text/css" media="all">
+<style id="dynamic-css-inline-css" type="text/css">
+@media only screen and (min-width:1000px){body #ajax-content-wrap.no-scroll{min-height:calc(100vh - 80px);height:calc(100vh - 80px)!important;}}@media only screen and (min-width:1000px){#page-header-wrap.fullscreen-header,#page-header-wrap.fullscreen-header #page-header-bg,html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header,.nectar_fullscreen_zoom_recent_projects,#nectar_fullscreen_rows:not(.afterLoaded) > div{height:calc(100vh - 79px);}.wpb_row.vc_row-o-full-height.top-level,.wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 79px);}html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header{top:80px;}.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 78px)!important;}.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 78px - 32px)!important;}}
+br { font-family:Open sans, sans-serif;}
+
+#ajax-content-wrap .wonderplugingridgallery .wonderplugin-gridgallery-pagination-btn-selected {
+    margin:0 8px;
+  text-align:center;
+  line-height:40px;
+  font-size:16px!important;
+  color:#e51937!important;
+  background-color:transparent!important;
+  font-family:'Open Sans';
+  font-weight:bold;
+}
+
+#ajax-content-wrap .wonderplugingridgallery .wonderplugin-gridgallery-pagination-btn-selected{
+     background:transparent!important; border:none!important;
+     font-family:'Open Sans';
+}
+
+#ajax-content-wrap .wonderplugingridgallery .wonderplugin-gridgallery-pagination-btn{
+  font-size:16px;
+  line-height:40px;
+  padding:0 5px;
+  margin:0 7px;
+  background:transparent!important; border:none!important;
+  font-family:'Open Sans';
+  color:#8d8d8d;
+  font-weight:bold;
+  transition:opacity .45s cubic-bezier(0.25, 1, 0.33, 1), transform .45s cubic-bezier(0.25, 1, 0.33, 1), border-color .45s cubic-bezier(0.25, 1, 0.33, 1), color .45s cubic-bezier(0.25, 1, 0.33, 1), background-color .45s cubic-bezier(0.25, 1, 0.33, 1), box-shadow .45s cubic-bezier(0.25, 1, 0.33, 1);
+  /* modify 190826 */
+}
+
+
+
+#wonderplugingridgallery-1 .wonderplugin-gridgallery-pagination{
+    height:32px;
+  padding-top:40px;
+  text-align:center;
+  width:100%;
+  margin-bottom:40px;
+  /* modify 190827 190828 */
+    border-top:1px solid #e0e0e0;
+}
+
+.wppsac-post-slider .slick-arrow svg, .wppsac-post-carousel .slick-arrow svg{
+    display:none;
+}
+.wppsac-post-slider .slick-arrow.slick-prev, .wppsac-post-carousel .slick-arrow.slick-prev{
+    background:rgba(0,0,0,0.5) url('https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/08/20063500/ico_main_prev.png') center center no-repeat !important;
+    background-size:15px 24px!important;
+   
+}
+.wppsac-post-slider .slick-arrow.slick-next, .wppsac-post-carousel .slick-arrow.slick-next{
+    background:rgba(0,0,0,0.5) url('https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/08/20063500/ico_main_next.png') center center no-repeat !important;
+    background-size:15px 24px!important;
+}
+.wppsac-post-slider .slick-arrow, .wppsac-post-carousel .slick-arrow{
+    width:50px!important;
+    height:70px!important;
+}
+.wppsac-post-slider.design-4 .wppsac-post-image-bg{
+    height:auto;
+}
+.wppsac-post-slider.design-4 .wp-medium-5{
+    width:61.8181%!important;
+    padding:0px 0px 0 0;
+}
+.wppsac-post-slider.design-4 .wppsac-post-list-content, .wppsac-post-slider.design-4 .post-list{
+    position:relative;
+}
+.wppsac-post-slider.design-4 .wppsac-post-list-content .wp-medium-7{
+    width:35%!important;
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+.wppsac-post-slider.design-4 .slick-next{
+    right:38.1919%!important;
+}
+.wppsac-post-slider.design-4 .slick-dots{
+    right:auto;
+    width:61.8181%;
+    bottom:20px;
+}
+.wppsac-post-slider h2.wppsac-post-title, .wppsac-post-carousel h2.wppsac-post-title{
+    font-size:30px;
+    line-height:1.2em;
+}
+.wppsac-post-slider h2.wppsac-post-title a, .wppsac-post-carousel h2.wppsac-post-title a{
+    font-size:30px;
+    line-height:1.3em;
+    color:#000!important;
+    letter-spacing:0.2px;
+}
+.wppsac-sub-content{
+    font-size:16px;
+    padding-top:10px;
+    padding-bottom:0px!important;
+    line-height:1.2em;
+}
+.wppsac-post-content{
+    padding-bottom:0px!important;
+}
+.wppsac-post-slider.design-4 .wppsac-post-list-content .wp-medium-7{
+    padding-bottom:0;
+}
+.wppsac-post-slider .slick-dots li button, .wppsac-post-carousel .slick-dots li button{
+    background:#8d8d8d !important;
+    margin:0px 2px !important;
+    padding:0px !important;
+    border:2px solid #fff;
+    width:13px !important;
+    height:13px !important;
+    border-radius:0px !important;
+}
+.wppsac-post-slider .slick-dots li.slick-active button, .wppsac-post-carousel .slick-dots li.slick-active button{
+    background:#e51937 !important;
+}
+
+.wppsac-post-categories .wppsac-post-categories-list li:nth-child(2){
+    display:none!important;
+}
+.wppsac-post-categories .wppsac-post-categories-list li{
+    color:#e51937!important;
+    font-size:16px;
+    font-weight:700;
+    text-transform:uppercase;
+    display:block;
+    line-height:normal;
+    background:none!important;
+    margin:0!important;
+}
+.wppsac-post-categories .wppsac-post-categories-list li a{
+    color:#e51937!important;
+    font-size:16px;
+    font-weight:700;
+    text-transform:uppercase;
+    display:block;
+    line-height:normal;
+    background:none!important;
+    margin:0!important;
+    padding:0px!important;
+}
+
+@media only screen and (max-width: 999px){
+    .wppsac-post-slider.design-4 .wp-medium-5{
+        width:100%!important;
+    }
+    .wppsac-post-slider.design-4 .slick-dots{
+        width:100%;
+    }
+    .wppsac-post-slider.design-4 .slick-next{
+        right:0!important;
+    }
+    .wppsac-post-slider.design-4 .wppsac-post-list-content .wp-medium-7{
+        width:100%!important;
+        position:static;
+        padding-left:0;
+        padding-right:0;
+    }
+    .wppsac-post-slider.design-4 .slick-arrow{
+        top:32%;
+    }
+    .wppsac-post-slider.design-4 .slick-dots{
+        position:static;
+    }
+    .wppsac-post-content{
+        padding-bottom:20px;
+    }
+    .wppsac-sub-content{
+        padding-bottom:20px!important;
+    }
+    .wppsac-post-slider.design-4 .wppsac-post-categories{
+        margin-top:10px;
+    }
+    .wppsac-post-slider.design-4 .wppsac-post-list-content .wppsac-post-title{
+        font-size:24px;
+        line-height:1.2em;
+    }
+    .wppsac-post-slider.design-4 .wppsac-post-list-content .wppsac-post-title a{
+        font-size:24px;
+        line-height:1.2em;
+    }
+    .wppsac-post-slider .slick-dots li button, .wppsac-post-carousel .slick-dots li button{
+        width:15px !important;
+        height:15px !important;
+    }
+}
+@media only screen and (max-width: 690px){
+    .wppsac-post-slider.design-4 .wppsac-post-list-content .wppsac-post-title{
+        font-size:18px;
+        line-height:1.2em;
+    }
+    .wppsac-post-slider.design-4 .wppsac-post-list-content .wppsac-post-title a{
+        font-size:18px;
+        line-height:1.2em;
+    }
+    .wppsac-sub-content{
+        font-size:14px;
+    }
+    .wppsac-post-slider.design-4 .slick-arrow{
+        top:30%;
+    }
+    .wppsac-post-slider .slick-arrow, .wppsac-post-carousel .slick-arrow{
+        width:35px!important;
+        height:50px!important;
+    }
+    .wppsac-post-slider .slick-arrow.slick-next, .wppsac-post-carousel .slick-arrow.slick-next{
+        background-size:10px auto !important;
+    }
+    .wppsac-post-slider .slick-arrow.slick-prev, .wppsac-post-carousel .slick-arrow.slick-prev{
+         background-size:10px auto !important;
+    }
+    .wppsac-post-categories .wppsac-post-categories-list li{
+        font-size:14px;
+    }
+    .wppsac-post-categories .wppsac-post-categories-list li a{
+        font-size:14px;
+    }
+}
+@media only screen and (max-width: 420px){
+    .wppsac-post-slider.design-4 .slick-arrow{
+        top:28%;
+    }
+}
+
+
+
+/*
+#ajax-content-wrap .wonderplugingridgallery .wpp-category-greybutton .wonderplugin-gridgallery-tag, 
+#wonderplugingridgallery-1 .wonderplugin-gridgallery-item-text { font-family:'NotoSansCJKsc','Noto Sans SC',sans-serif !important; }*/
+</style>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/plugins/wonderplugin-gridgallery/engine/wonderplugingridlightbox.js?ver=18.4.1PRO" id="wonderplugin-gridgallery-lightbox-script-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/plugins/wonderplugin-gridgallery/engine/wonderplugingridgallery.js?ver=18.4.1PRO" id="wonderplugin-gridgallery-script-js"></script>
+<link rel="https://api.w.org/" href="https://news.skhynix.com.cn/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://news.skhynix.com.cn/wp-json/wp/v2/posts/12331"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://news.skhynix.com.cn/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6.2">
+<link rel="shortlink" href="https://news.skhynix.com.cn/?p=12331">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://news.skhynix.com.cn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.skhynix.com.cn%2Fall-about-ai-the-origins-evolution-future-of-ai%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://news.skhynix.com.cn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.skhynix.com.cn%2Fall-about-ai-the-origins-evolution-future-of-ai%2F&amp;format=xml">
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q5QQFE47BV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q5QQFE47BV');
+</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta property="og:title" content="SK hynix Newsroom">
+<meta property="og:site_name" content="SK hynix Newsroom"><!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q5QQFE47BV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q5QQFE47BV');
+</script>
+<script type="text/javascript"> var root = document.getElementsByTagName( "html" )[0]; root.setAttribute( "class", "js" ); </script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://news.skhynix.com.cn/wp-content/plugins/js_composer_salient/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2019/10/29044643/152x152-100x100.png" sizes="32x32">
+<link rel="icon" href="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2019/10/29044643/152x152.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2019/10/29044643/152x152.png">
+<meta name="msapplication-TileImage" content="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2019/10/29044643/152x152.png">
+<noscript>&lt;style type="text/css"&gt; .wpb_animate_when_almost_visible { opacity: 1; }&lt;/style&gt;</noscript>	
+<style></style><script src="https://news.skhynix.com.cn/wp-includes/js/wp-emoji-release.min.js?ver=6.6.2" defer=""></script></head>
+
+
+<body class="post-template-default single single-post postid-12331 single-format-standard nectar-auto-lightbox material wpb-js-composer js-comp-ver-5.7 vc_responsive elementor-default" data-footer-reveal="false" data-footer-reveal-shadow="none" data-header-format="default" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-dropdown-style="minimal" data-cae="easeInOutExpo" data-cad="750" data-megamenu-width="full-width" data-aie="none" data-ls="fancybox" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="default" data-form-submit="regular" data-is="minimal" data-button-style="slightly_rounded_shadow" data-user-account-button="false" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="off" data-loading-animation="none" data-bg-header="false" data-responsive="1" data-ext-responsive="true" data-header-resize="0" data-header-color="light" data-transparent-header="false" data-cart="false" data-remove-m-parallax="" data-remove-m-video-bgs="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false">
+	
+	<script type="text/javascript"> if(navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/)) { document.body.className += " using-mobile-browser "; } </script><div class="ocm-effect-wrap"><div class="ocm-effect-wrap-inner">	
+	<div id="header-space" data-header-mobile-fixed="1" style="height: 181px;"></div> 
+	
+		
+	<div id="header-outer" data-has-menu="true" data-has-buttons="no" data-using-pr-menu="false" data-mobile-fixed="1" data-ptnm="false" data-lhe="default" data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="false" data-megamenu-rt="0" data-remove-fixed="0" data-header-resize="0" data-cart="false" data-transparency-option="0" data-box-shadow="large" data-shrink-num="6" data-using-secondary="0" data-using-logo="1" data-logo-height="40" data-m-logo-height="28" data-padding="20" data-full-width="false" data-condense="false">
+		
+		
+<div id="search-outer" class="nectar">
+	<div id="search">
+		<div class="container">
+			 <div id="search-box">
+				 <div class="inner-wrap">
+					 <div class="col span_12">
+						  <form role="search" action="https://news.skhynix.com.cn/" method="GET">
+														 <input type="text" name="s" value="" placeholder="Search"> 
+							 								
+						<span>Hit enter to search or ESC to close</span>						</form>
+					</div><!--/span_12-->
+				</div><!--/inner-wrap-->
+			 </div><!--/search-box-->
+			 <div id="close"><a href="#">
+				<span class="close-wrap"> <span class="close-line close-line1"></span> <span class="close-line close-line2"></span> </span>				 </a></div>
+		 </div><!--/container-->
+	</div><!--/search-->
+</div><!--/search-outer-->
+
+<header id="top">
+
+	<div class="lang">
+		<div class="container">
+			<div class="row">
+				<div class="select">
+					<a href="#" class="label -as-ga pc" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="select_language">中文<span></span></a>
+					<ul class="select_lang pc">
+						<li class="pc"><a class="-as-ga" href="https://news.skhynix.com/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="select_english">English</a></li>
+						<li class="pc"><a class="-as-ga" href="https://news.skhynix.com.cn/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="select_chinese">Chinese(中文)</a></li>
+						<li class="pc"><a class="-as-ga" href="http://news.skhynix.co.kr " data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="select_korean">Korean(한국어)</a></li>
+						<li class="mb"><a class="-as-ga" href="https://news.skhynix.com/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="select_English">ENG</a></li>
+						<li class="mb"><a class="-as-ga" href="https://news.skhynix.com.cn/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="select_Chinese">中文</a></li>
+						<li class="mb"><a class="-as-ga" href="http://news.skhynix.co.kr " data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="select_korean">KOR</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="mega_drop">
+		<div class="container">
+			<ul>
+				<li><a href="/press-center/press-release/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_presscenter-pressrelease">新闻稿</a></li>
+				<li><a href="/press-center/business/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_presscenter-business">商业</a></li>
+				<li><a href="/multimedia/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="multimedia">多媒体</a></li>
+			</ul>
+			<ul>
+				<li><a href="/insight/technology/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight-technology">技术</a></li>
+				<li><a href="/insight/culture-people/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight-culturepeople">企业文化和员工</a></li>
+				<li><a href="/insight/esg/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight-socialvalue">ESG</a></li>
+				<li><a href="/insight/opinion/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight-opinion">洞见</a></li>
+			</ul>
+			<ul>
+				<li><a href="/corporate/fact-sheet/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_corporate-factsheet">公司简介</a></li>
+				<li><a href="https://www.skhynix.com/cha/ir/UI-FR-IR06 " target="_blank">财报<i class="ico-blank">아이콘</i></a></li>
+				<li><a href="https://www.skhynix.com/cha/sustainability/UI-FR-SA1601" target="_blank">可持续发展报告<i class="ico-blank">아이콘</i></a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="mega_drop_m">
+		<ul>
+			<li class="subWrap">
+				<a class="sub" href="/press-center/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_presscenter">
+					<div class="container">新闻中心 <i></i></div>
+				</a>
+				<ul class="submenu">
+					<li><a href="/press-center/press-release/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_presscenter-pressrelease">
+						<div class="container">新闻稿</div></a></li>
+					<li><a href="/press-center/business/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_presscenter-business">
+						<div class="container">商业</div></a>
+					</li>
+					<li><a href="/multimedia/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="multimedia">
+						<div class="container">多媒体</div></a>
+					</li>
+				</ul>
+			</li>
+			<li class="subWrap">
+				<a class="sub" href="/insight/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight">
+					<div class="container">商业洞察 <i></i></div>
+				</a>
+				<ul class="submenu">
+					<li><a href="/insight/technology/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight-technology">
+						<div class="container">技术</div></a>
+					</li>
+					<li><a href="/insight/culture-people/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight-culturepeople">
+						<div class="container">企业文化和员工</div></a>
+					</li>
+					<li><a href="/insight/esg/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight-socialvalue">
+						<div class="container">ESG</div></a>
+					</li>
+					<li><a href="/insight/opinion/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight-opinion">
+						<div class="container">洞见</div></a>
+					</li>
+				</ul>
+			</li>
+			<li class="subWrap">
+				<a class="sub" href="/corporate/fact-sheet/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="corporate">
+					<div class="container">关于我们 <i></i></div>
+				</a>
+				<ul class="submenu">
+					<li><a href="/corporate/fact-sheet/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_corporate-factsheet">
+						<div class="container">公司简介</div></a>
+					</li>
+					<li><a href="https://www.skhynix.com/cha/ir/UI-FR-IR06 " target="_blank">
+						<div class="container">财报<i class="ico-blank">아이콘</i></div></a>
+					</li>
+					<li><a href="https://www.skhynix.com/cha/sustainability/UI-FR-SA1601" target="_blank">
+						<div class="container">可持续发展报告<i class="ico-blank">아이콘</i></div></a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+
+	<div class="container">
+		<div class="row">
+			<div class="bar_m"></div>
+			<a href="#" class="srch_m"></a>
+			<div class="col span_3">
+				<a id="logo" href="https://news.skhynix.com.cn" data-supplied-ml-starting-dark="false" data-supplied-ml-starting="false" data-supplied-ml="true" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_home" target="">
+					<img class="stnd default-logo dark-version" alt="SK hynix Newsroom" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2023/01/27073739/SK-hynix-newsroom-logo-new.png" srcset="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2023/01/27073739/SK-hynix-newsroom-logo-new.png 1x, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2023/01/27073810/SK-hynix-newsroom-logo-2-new.png 2x"><img class="mobile-only-logo" alt="SK hynix Newsroom" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2023/01/27073739/SK-hynix-newsroom-logo-new.png"> 
+				</a>
+				
+							</div><!--/span_3-->
+
+			<div class="col span_9 col_last gnb" style="position:relative;">
+				<nav>
+					<ul class="sf-menu">	
+						<li><a href="/press-center/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_presscenter" target="">新闻中心</a></li>
+						<li><a href="/insight/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_insight" target="">商业洞察</a></li>
+						<li><a href="/corporate/fact-sheet/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_corporate" target="">关于我们</a></li>
+					</ul>
+				</nav>
+				<div class="cs_search"><div id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://news.skhynix.com.cn/">
+	<input type="text" class="search-field" placeholder="搜索" value="" name="s" title="搜索">
+	<button type="submit" class="search-widget-btn"><span class="normal icon-salient-search" aria-hidden="true"></span><span class="text">Search</span></button>
+</form></div></div>
+			</div>
+
+			
+			<div class="col span_9 col_last" style="position:relative; display:none;">
+									<div class="slide-out-widget-area-toggle mobile-icon slide-out-from-right" data-icon-animation="simple-transform">
+						<div> <a href="#sidewidgetarea" aria-label="Navigation Menu" aria-expanded="false" class="closed"> <span aria-hidden="true"> <i class="lines-button x2"> <i class="lines"></i> </i> <i class="lines-button x2 hover-effect"> <i class="lines"></i> </i></span> </a> </div> 
+					</div>
+								
+									
+					<nav style="">
+						
+						<ul class="sf-menu sf-js-enabled sf-arrows">	
+							<li id="menu-item-348" class="megamenu columns-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-348"><a href="https://news.skhynix.com.cn/press-center/" class="sf-with-ul">PRESS CENTER</a>
+<ul class="sub-menu" style="padding-left: 50px; padding-right: 51px; width: 924px; left: -50px; box-sizing: content-box;">
+	<li id="menu-item-722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-722"><a href="#" class="sf-with-ul">PRESS CENTER</a>
+	<ul class="sub-menu">
+		<li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-728"><a href="https://news.skhynix.com.cn/press-center/press-release/">Press Release</a></li>
+		<li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a href="https://news.skhynix.com.cn/press-center/media-gallery/">Media Gallery</a></li>
+		<li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="https://news.skhynix.com.cn/press-center/event/">Event</a></li>
+	</ul>
+</li>
+	<li id="menu-item-723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-723"><a href="#">INSIGHT</a></li>
+	<li id="menu-item-724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-724"><a href="#">CORPORATE</a></li>
+	<li id="menu-item-725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-725"><a href="#">MULTIMEDIA</a></li>
+</ul>
+</li>
+<li id="menu-item-347" class="megamenu columns-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="https://news.skhynix.com.cn/insight/">INSIGHT</a></li>
+<li id="menu-item-346" class="megamenu columns-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a href="https://news.skhynix.com.cn/corporate/">CORPORATE</a></li>
+<li id="menu-item-345" class="megamenu columns-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="https://news.skhynix.com.cn/multimedia/">MULTIMEDIA</a></li>
+						</ul>
+						
+
+													<ul class="buttons sf-menu" data-user-set-ocm="off">
+								
+																
+							</ul>
+												
+					</nav>
+					
+					<div class="cs_search"></div>
+
+										
+				</div><!--/span_9-->
+				
+								
+			</div><!--/row-->
+					</div><!--/container-->
+	</header>
+		
+	<div class="bg-color-stripe"></div></div>
+	
+		<!--<div class="headerSubscribe"><a href="/newsroom-subscribe/"><span>订阅SK海力士新闻月刊</span></a></div>-->
+	<div id="ajax-content-wrap">
+		
+		
+
+<div class="container-wrap no-sidebar" data-midnight="dark" data-remove-post-date="0" data-remove-post-author="1" data-remove-post-comment-number="1">
+	<div class="container main-content">
+		
+		
+	  <div class="row heading-title hentry" data-header-style="default_minimal">
+		<div class="col span_12 section-title blog-title">
+				 
+		  <span class="meta-category">
+
+					<a class="business" href="https://news.skhynix.com.cn/category/insight/business/" alt="View all posts in 技术">技术</a><a class="featured" href="https://news.skhynix.com.cn/category/featured/" alt="View all posts in featured">featured</a>			  </span> 
+
+		  		  <h1 class="entry-title">人工智能的起源、发展和未来</h1>
+		   
+						<div id="single-below-header" data-hide-on-mobile="true">
+			  <span class="meta-author vcard author"><span class="fn">By <a href="https://news.skhynix.com.cn/author/user/" title="文章作者 user" rel="author">user</a></span></span>
+									  <span class="meta-date date updated">2024年10月14日</span>
+				  				  <span class="meta-comment-count"><a href="https://news.skhynix.com.cn/all-about-ai-the-origins-evolution-future-of-ai/#respond"> No Comments</a></span>
+							</div><!--/single-below-header-->
+				</div><!--/section-title-->
+	  </div><!--/row-->
+	
+				
+		<div class="row">
+			
+			<div class="post-area col  span_12 col_last">
+<div class="bottom-meta">	
+	<div class="sharing-default-minimal" data-bottom-space="true"><div class="nectar-social default" data-position="" data-color-override="override"><div class="nectar-social-inner"><div class="wechat_qr"><canvas width="256" height="256" style="width: 100%;"></canvas></div><a href="#" class="nectar-love" id="nectar-love-12331" title="Love this"> <i class="icon-salient-heart-2"></i><span class="love-text">Love</span><span class="total_loves"><span class="nectar-love-count">0</span></span></a><a class="wechat-share nectar-sharing" href="#" title="Share this"> <i class="fa fa-wechat"></i> <span class="social-text">Share</span> </a><a class="weibo-share nectar-sharing" href="" title="Share this"> <i class="fa fa-weibo"></i> <span class="social-text">Share</span> </a><a class="link-share nectar-sharing" href="#"><i class="fa fa-link"></i></a></div></div></div></div>
+
+<article id="post-12331" class="post-12331 post type-post status-publish format-standard has-post-thumbnail category-business category-featured tag-ai tag-613 tag-1078 tag-1199 tag-1507">
+  
+  <div class="inner-wrap">
+
+		<div class="post-content" data-hide-featured-media="1">
+      
+        <div class="content-inner"><p>能够像人类一样行走、说话和思考的人工智能机器人，过去常常是科幻漫画和电影中的热门题材。曾经只存在于人类想象中的人工智能和机器人，如今已不再是梦想，因为它正在走进现实并且改变着人们的日常生活。那么，人工智能始于何时，经历了怎样的演变，又会创造怎样的未来呢？</p>
+<h3 class="tit">“人工智能”的起源与发展</h3>
+<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-12333 size-full" title="人工智能发展的历史演变进程" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055755/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_01.png" alt="人工智能发展的历史演变进程" width="1000" height="563" srcset="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055755/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_01.png 1000w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055755/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_01-680x383.png 680w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055755/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_01-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></p>
+<p class="source" style="text-align: center;">人工智能发展的历史演变进程</p>
+<p>&nbsp;</p>
+<p>人工智能的起源可以追溯到20世纪50年代。1950年，英国数学家艾伦·图灵（Alan Turing）声称机器能够思考，并设计了“图灵测试（The Turing Test）”作为验证方法以佐证这个观点，这被认为是首次提出人工智能概念的研究。1956年，达特茅斯会议（Dartmouth Conference）召开，向世界介绍了人工智能的概念。会议讨论了机器能否像人类一样学习和发展，并首次使用了“人工智能”这一术语。</p>
+<p>在这一时期，人们对人工神经网络（Artificial Neural Network）模型的研究也很活跃。1957年，弗兰克·罗森布拉特（Frank Rosenblatt）用他的 “感知器（Perceptron）”模型实证了计算机可以识别和学习模式的概念，这是对”神经网络”理论的一次实践检验。“神经网络”理论是由神经生理学家沃伦·斯特吉斯·麦卡洛克（Warren Sturgis McCulloch）和沃尔特·皮茨（Walter Pitts）于1943年提出的，他们根据神经细胞的相互作用原理组建了一个简单的计算模型。尽管这些早期的研究成果引发了公众的期待，但由于计算能力、逻辑和数据缺乏等方面的限制，人工智能的研究很快就停滞不前。</p>
+<p>20世纪80年代出现了 “专家系统（Expert System）”，它可以根据人类输入的规则自动做出决策。“专家系统”在医学、法律和零售业等实用领域发挥的诊断、分类和分析等功能，暂时性地再度引起了人们对人工智能的关注。然而，该系统的局限性在于仅依赖人工设定的规则运行，缺乏理解现实世界的复杂性的能力，因此发展受到了限制。</p>
+<p>20世纪90年代，过去只能听从人类指令的人工智能，利用“机器学习（Machine Learning）”算法开始自主发现规则进行学习，这得益于数码技术及互联网的出现。有了来自网络的大量数据，人工智能可以自主学习规则，甚至发现人类无法发现的规则。基于“机器学习”的人工智能研究开始重新产出成果。</p>
+<h3 class="tit">人工智能的核心技术，”深度学习”的发展</h3>
+<p><img decoding="async" class="aligncenter wp-image-12334 size-full" title="人工神经网络和深度学习发展的时间线" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055758/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_02.png" alt="人工神经网络和深度学习发展的时间线" width="1000" height="562" srcset="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055758/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_02.png 1000w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055758/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_02-680x382.png 680w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055758/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_02-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></p>
+<p class="source" style="text-align: center;">人工神经网络和深度学习发展的时间线</p>
+<p>&nbsp;</p>
+<p>人工神经网络的早期研究在1969年进入了长期停滞期，因为人们发现先前提出的感知器模型无法有效解决非线性问题<sup>1</sup>。此后，重新将这一研究推向前沿的正是被誉为”深度学习之父”的杰弗里·辛顿（Geoffrey Hinton）。</p>
+<p>1986年，辛顿将反向传播算法<sup>2</sup>应用到由多层人工神经网络构成的多层感知器（Multi-Layer Perceptrons）理论中，证明其可以解决感知器存在的现有问题。这一举措重燃了人工神经网络研究的热情。然而，随着神经网络深度的增加，出现了学习过程和结果异常的问题。</p>
+<p>2006年，辛顿发表了题为《深度信念网络的快速学习算法（A Fast Learning Algorithm for Deep Belief Nets）》的论文，确立了深度学习的基本概念，并介绍了深度信念网络（DBN，Deep Belief Network），这种生成式模型可大幅提升多层感知器的性能。深度信念网络通过无监督学习<sup>3</sup>对每一层进行预训练，然后对整个网络进行微调，显著地提高了神经网络的学习速度和效率, 这一进展为未来深度学习的发展铺平了道路。</p>
+<p style="font-size: 14px; font-style: italic; color: #555;"><sup>1</sup>早期感知器模型为单层感知器（Single-layer Perceptron），不能处理XOR等非线性问题，处理这类问题时，在两个输入值相同时需输出0，而不同时则需输出1。<br>
+<sup>2</sup><strong>反向传播（Backpropagation）</strong>：神经网络中的一种算法，用于计算输出值与真实值之间的差值，并从输出值开始按相反顺序调整权重，以减少误差。<br>
+<sup>3</sup><strong>无监督学习（Unsupervised Learning）</strong>：机器学习中的一种学习理论，不给出输入数据的正确答案，而是让其发现和理解隐藏结构或模式的学习方法。</p>
+<p><img decoding="async" class="aligncenter wp-image-12335 size-full" title="Kien Nguyen, Arun Ross，《基于现有CNN特征的虹膜识别：深度学习视角》，IEEE ACCESS SEPT（2017），第 3 页" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055802/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_03.png" alt="Kien Nguyen, Arun Ross，《基于现有CNN特征的虹膜识别：深度学习视角》，IEEE ACCESS SEPT（2017），第 3 页" width="1000" height="563" srcset="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055802/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_03.png 1000w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055802/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_03-680x383.png 680w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055802/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_03-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></p>
+<p class="source" style="text-align: center;">Kien Nguyen, Arun Ross，《基于现有CNN特征的虹膜识别：深度学习视角》，IEEE ACCESS SEPT（2017），第 3 页</p>
+<p>&nbsp;</p>
+<p>2012年，发生了一件历史性事件，证明了深度学习的卓越性能。由辛顿率领的AlexNet在图像识别挑战赛（ILSVRC, ImageNet Large Scale Visual Recognition Challenge）中夺得冠军。基于深度学习的AlexNet模型实现了84.7%的图像识别率，远超其他模型，值得一提的是，它将上一年冠军的错误率从25.8%降至16.4%。</p>
+<p>自2010年以来，深度学习已成为人工智能研究的主流，其迅速发展的背后有两个主要原因。首先是包括图形处理器（GPU ，Graphics Processing Unit）在内的计算机系统的进步。GPU最初是为处理计算机图形而创建的，与中央处理器（CPU ，Central Processing Unit）相比，GPU并行处理类似的重复运算速度更快。2010年，GPU通用计算（GPGPU ，General-Purpose computing on GPU）技术的出现，使GPU取代了CPU的角色。GPU的应用领域愈发广泛，特别是在训练人工神经网络方面，极大地加快了深度学习的发展。深度学习需要对海量训练数据进行分析以提取特征，并且需要进行迭代计算，而GPU具备的并行计算结构则非常适合这一需求。</p>
+<p>其次是由于数据量的增加，因为训练人工神经网络需要大量数据。过去，数据仅限于输入计算机的信息，但自20世纪90年代以来，随着互联网的普及和搜索引擎的发展，可处理的数据范围呈指数级增长。2000年以来，智能手机和物联网（IoT, Internet of Things）得到发展，催生了大数据（Big Data）的概念，现实世界到处都能实时收集数不清的数据。深度学习算法经过更多数据的训练后变得更加精细化，数据模式的转变无疑为深度学习技术奠定了基础。</p>
+<p>2016年，深度学习再次改变了世界。谷歌DeepMind开发的人工智能AlphaGo以4胜1负的比分战胜了围棋大师李世石九段，这一壮举让全世界都铭记人工智能的存在。AlphaGo是通过融合深度学习算法、强化学习（Reinforcement Learning）<sup>4</sup>和蒙特卡洛树搜索（MCTS，Monte Carlo Tree Search）<sup>5</sup>算法而创建的。借助此种方式，它能够进行数万次的自我对弈、自主学习，并模仿人类直觉以预测数值，甚至是制定战略。“战胜人类的AI”问世，标志着人工智能时代正式到来。</p>
+<p style="font-size: 14px; font-style: italic; color: #555;"><sup>4</sup><strong>强化学习（Reinforcement Learning）</strong>：人工智能学习行为的方法之一，以奖励的形式告知行动结果，并且可以在特定情况下选择最佳行动的策略。<br>
+<sup>5</sup><strong>蒙特卡洛树搜索（Monte Carlo tree search）</strong>：一种通过反复生成一系列随机数来处理近似函数值的概率算法。 其功能是将目前情况下可选择的行为结构化为探索树，并通过随机模拟推论各行为的得失来决定最佳行为。</p>
+<h3 class="tit">“生成式人工智能”热潮始于ChatGPT</h3>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="aligncenter wp-image-12336 size-full" title="生成式人工智能概念图" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055806/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_04.png" alt="生成式人工智能概念图" width="1000" height="563" srcset="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055806/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_04.png 1000w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055806/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_04-680x383.png 680w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055806/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_04-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></p>
+<p class="source" style="text-align: center;">生成式人工智能概念图</p>
+<p>&nbsp;</p>
+<p>2022年末，人类迎来了人工智能技术的巨大变革。OpenAI推出了ChatGPT，由大语言模型（LLM，Large Language Model）<sup>6</sup>GPT（Generative Pre-trained Transformer）3.5驱动，标志着生成式人工智能时代的开启。生成式人工智能渗透到了曾被视为人类独有的“创作”领域，能够生成各种格式的高质量内容。它超越了基于数据进行预测或分类的深度学习层面，可根据用户需求，使用LLM或各种图像生成模型（如 VAE、GAN、扩散模型等），自行生成结果。</p>
+<p style="font-size: 14px; font-style: italic; color: #555;"><sup>6</sup><strong>大语言模型（Large Language Model）</strong>：以海量数据基础，进行多种自然语言处理任务的深度学习算法。</p>
+<p>生成式人工智能的诞生可以追溯到2014年，当时伊恩·古德费洛（Ian Goodfellow）发布了生成对抗网络（GANs，Generative Adversarial Networks）模型，该模型由两个神经网络相互竞争学习的结构而组成。一个神经网络生成与真实数据无异的新数据，另一个神经网络将其与真实数据进行比较，并做出判断，随着这一竞争和判断的过程不断重复，生成的数据也越来越精细。随着时间推移，GANs模型不断得到修改和完善，目前已被广泛应用于图像生成和转换等多个领域中。</p>
+<p>2017年，名为Transformer的自然语言处理（NLP，Natural Language Processing）模型问世。Transformer将数据间的关系视为重要变量，通过对特定信息给予更多”关注”，它可以学习数据之间的复杂关系和模式，捕捉更多重要信息，从而产生更高质量的输出结果。Transformer模型为语言理解、机器翻译和交互系统等自然语言处理任务带来了革命性变化，尤其是它对前文提到的GPT等LLM的出现产生了重大影响。</p>
+<p>GPT于2018年首次发布，由于每年都会使用更多的参数和训练数据，其性能一直在飞速提升。2022年，搭载GPT 3.5的交互式人工智能系统ChatGPT发布，彻底改变了人工智能的模式。ChatGPT能通过理解用户对话的上下文来提供适当的回复，并回答各种问题。ChatGPT推出一周内，用户数量就突破了100万，两个月内活跃用户数量就超过了1亿，在全球范围内引发了爆炸性的关注。</p>
+<p>2023年，Open AI推出了GPT-4，再次实现技术飞跃。GPT-4使用的数据集约为GPT-3.5的500倍，已进化为大型多模态模型（LMM，Large Multimodal Model）<sup>7</sup>，可同时处理文本之外的图像、音频和视频等各种输入数据，并生成各种数据格式。随着ChatGPT引发的生成式人工智能热潮，各企业纷纷推出了多种生成式人工智能服务。其中，谷歌推出的可同时识别并理解文本、图像和音频的Gemini、Meta推出的能准确识别并分离出图像中特定对象的SAM，和Open AI推出的可根据文本提示制作视频的Sora等均为具有代表性的生成式人工智能。</p>
+<p style="font-size: 14px; font-style: italic; color: #555;"><sup>7</sup><strong>大型多模式模型（Large Multimodal Model）</strong>：一种深度学习算法，除文本外，还可处理多种不同类型的数据，包括图像、音频等。</p>
+<p>生成式人工智能市场才刚刚起步。根据全球市场调研公司IDC（International Data Corporation）的报告，2024年生成式人工智能市场规模有望达到401亿美元，是上一年的2.7倍。同时，该报告还预测，该市场增长速度将逐年加快，到2027年有望达到1511亿美元。展望未来，生成式人工智能将超越软件，并转向硬件和互联网服务及其他领域。其性能和便利性也将不断提升，让更多人轻松使用。</p>
+<h3 class="tit">改变日常生活的人工智能，未来走向会如何？</h3>
+<p>就如同2000年的谷歌搜索和2010年的移动社交媒体一样，人工智能正在成为焦点，成为整个社会新变化和新机遇的驱动力。其技术进步的速度前所未有，而在此过程中，人类面临的挑战和担忧也与日俱增。</p>
+<p>那么，“下一代生成式人工智能技术”将是什么呢？当前最受瞩目的未来人工智能技术无疑是“端侧AI（On-Device AI）”。通常情况下，人工智能服务需要与大型云服务器进行通信，将数据传输到边缘设备。然而，端侧AI往往可以通过在手机、个人电脑或其他电子设备上安装人工智能芯片组和小型LLM （sLLM, Smaller LLM）自主运行人工智能服务。这种替代方案不仅可以解决与运行人工智能相关的安全和资源问题，同时还可以提供更加个性化的人工智能服务。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-12337 size-full" title="云侧人工智能和端侧人工智能的架构比较" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055809/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_05.png" alt="云侧人工智能和端侧人工智能的架构比较" width="1000" height="563" srcset="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055809/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_05.png 1000w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055809/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_05-680x383.png 680w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055809/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_05-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></p>
+<p class="source" style="text-align: center;">云侧人工智能和端侧人工智能的架构比较</p>
+<p>&nbsp;</p>
+<p>与端侧AI一样，未来人工智能也将搭载在更多的设备上，其形式也将不断进化。市场上已经出现了一些我们只在电影中见过的创新产品。美国人工智能初创公司Humane于2023年推出的AI Pin是一款可穿戴的人工智能设备，搭载激光墨水显示屏，可以将菜单投射到用户的手掌上。2024年，在CES上引起关注的Rabbit R1和Brilliant Labs推出的Frame，同样是具有创新性的人工智能可穿戴设备。此外，如苹果公司的Vision Pro和Meta公司的Quest等采用了人工智能技术的混合现实（MR, Mixed Reality）头戴式设备，正在开辟一个超越传统虚拟现实（VR，Virtual Reality）和元宇宙的新市场。</p>
+<p>科技的迅猛发展为人类创造了新的机遇，但同时也带来了一系列社会问题。人工智能技术的快速发展引起了人们的担忧，担心社会无法跟上这些技术进展的步伐。同时，在现实世界中出现了不少滥用人工智能的案例，制造精巧虚假内容导致大量假新闻的产生，加剧了社会混乱。最近，围绕着美国等多个面临大型选举的国家，人们对虚假视频和图片等 “深度伪造（Deepfake）”内容泛滥的情况表示深切担忧。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-12338 size-full" title="生成式人工智能（DALL·E）描述的深度伪造技术引起的社会焦虑和混乱" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055816/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_06.png" alt="生成式人工智能（DALL·E）描述的深度伪造技术引起的社会焦虑和混乱" width="1000" height="563" srcset="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055816/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_06.png 1000w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055816/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_06-680x383.png 680w, https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/07055816/SK-hynix_All-About-AI_The-Origins-Evolution-Future-of-AI_06-768x432.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></p>
+<p class="source" style="text-align: center;">生成式人工智能（DALL·E）描述的深度伪造技术引起的社会焦虑和混乱</p>
+<p>&nbsp;</p>
+<p>人工智能在开发和使用过程中可能存在一些风险因素。由于生成式人工智能会从网络上抓取并重新组合可公开获得的资料进行预训练，许多创作作品可能会成为抄袭对象。此外，人们还担心用相同的生成式人工智能程序并用相似的提示语所生成的内容可能会产生版权纠纷。人工智能不仅可以帮助人们完成工作、提高生产率，还有可能取代一些工作岗位，对劳动力市场结构带来改变，这种前景显然并不受欢迎。</p>
+<p>人工智能创造的世界已经超出了人类的想象。一个我们从未经历过的世界正在快速逼近。面对这突如其来的未来变革，我们该如何应对？为了做出正确的回应，我们需要深入理解和分析人工智能，并进行更具体的关注和社会讨论。</p>
+<div class="post-tags"><h4>TAG(#)</h4><a href="https://news.skhynix.com.cn/tag/ai/" rel="tag">AI</a><a href="https://news.skhynix.com.cn/tag/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/" rel="tag">人工智能</a><a href="https://news.skhynix.com.cn/tag/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0/" rel="tag">机器学习</a><a href="https://news.skhynix.com.cn/tag/%e7%94%9f%e6%88%90%e5%bc%8f%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd/" rel="tag">生成式人工智能</a><a href="https://news.skhynix.com.cn/tag/%e6%b7%b1%e5%ba%a6%e5%ad%a6%e4%b9%a0/" rel="tag">深度学习</a><div class="clear"></div></div> </div>        
+      </div><!--/post-content-->
+      
+    </div><!--/inner-wrap-->
+</article>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-rwdImageMaps/1.6/jquery.rwdImageMaps.min.js"></script>
+<script>
+jQuery(function ($) { $('img[usemap]').rwdImageMaps();});
+</script>
+		</div><!--/post-area-->
+			
+							
+		</div><!--/row-->
+
+		<!-- file attachments 설정 -->
+		<div class="row">
+			<div class="post-area download_wrap">
+											</div>
+		</div>
+		<!-- file attachments 설정 -->
+
+		<div class="row">
+
+			<div class="row vc_row-fluid full-width-section related-post-wrap first-section" data-using-post-pagination="false" data-midnight="dark"> <div class="row-bg-wrap"><div class="row-bg"></div></div> <h3 class="related-title ">相关帖子</h3><div class="row span_12 blog-recent related-posts columns-4" data-style="material" data-color-scheme="light">					 
+					 <div class="col span_3 one-fourths clear-both">
+						 <div class="inner-wrap post-12456 post type-post status-publish format-standard has-post-thumbnail category-business-press-center category-featured tag-16hbm3e tag-ai tag-full-stack-ai-memory-provider tag-sk tag-sk-ai tag-hbm3e">
+							 
+							 <a href="https://news.skhynix.com.cn/sk-hynix-announces-16-layer-hbm3e-at-sk-ai-summit-2024/" class="img-link -as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_view_https://news.skhynix.com.cn/sk-hynix-announces-16-layer-hbm3e-at-sk-ai-summit-2024/"><span class="post-featured-img"><img width="680" height="400" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/11/06035755/SK-hynix_CIIE-2024_Thumbnail_CN.png" class="attachment-portfolio-thumb size-portfolio-thumb wp-post-image" alt="SK海力士于2024年SK AI峰会上正式宣布开发全球最大容量16层堆叠HBM3E" title="" decoding="async" loading="lazy"></span></a>							 
+							 <span class="meta-category"><a class="business-press-center" href="https://news.skhynix.com.cn/category/press-center/business-press-center/">商业</a><a class="featured" href="https://news.skhynix.com.cn/category/featured/">featured</a></span>							 
+							 <a class="entire-meta-link -as-ga" href="https://news.skhynix.com.cn/sk-hynix-announces-16-layer-hbm3e-at-sk-ai-summit-2024/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_view_' . esc_url( get_permalink() ) . '"></a>
+							 
+							 <div class="article-content-wrap">
+								 <div class="post-header">
+									 <span class="meta"> 
+										 									 </span> 
+									 <h3 class="title">SK海力士于2024年SK AI峰会上正式宣布开发全球最大容量16层堆叠HBM3E</h3>	
+								 </div><!--/post-header-->
+								 
+								 <div class="grav-wrap"><img alt="user" src="https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=70&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=140&amp;d=mm&amp;r=g 2x" class="avatar avatar-70 photo" height="70" width="70" loading="lazy" decoding="async"><div class="text"> <a href="https://news.skhynix.com.cn/author/user/">user</a><span>2024年11月06日</span></div></div>							 </div>
+							 
+							 							 
+						 </div>
+					 </div>
+					 					 
+					 <div class="col span_3 one-fourths right-edge">
+						 <div class="inner-wrap post-12434 post type-post status-publish format-standard has-post-thumbnail category-business-press-center category-featured tag-613 tag-1517 tag-1516 tag-ai tag-cxl tag-pim">
+							 
+							 <a href="https://news.skhynix.com.cn/sk-hynix-at-ciie-2024-driving-ai-with-semiconductor-memory/" class="img-link -as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_view_https://news.skhynix.com.cn/sk-hynix-at-ciie-2024-driving-ai-with-semiconductor-memory/"><span class="post-featured-img"><img width="680" height="400" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/11/05083717/SK-hynix_CIIE-2024-_Thumbnail.png" class="attachment-portfolio-thumb size-portfolio-thumb wp-post-image" alt="" title="" decoding="async" loading="lazy"></span></a>							 
+							 <span class="meta-category"><a class="business-press-center" href="https://news.skhynix.com.cn/category/press-center/business-press-center/">商业</a><a class="featured" href="https://news.skhynix.com.cn/category/featured/">featured</a></span>							 
+							 <a class="entire-meta-link -as-ga" href="https://news.skhynix.com.cn/sk-hynix-at-ciie-2024-driving-ai-with-semiconductor-memory/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_view_' . esc_url( get_permalink() ) . '"></a>
+							 
+							 <div class="article-content-wrap">
+								 <div class="post-header">
+									 <span class="meta"> 
+										 									 </span> 
+									 <h3 class="title">SK海力士亮相2024年进博会，以面向AI的半导体存储器赋能AI时代</h3>	
+								 </div><!--/post-header-->
+								 
+								 <div class="grav-wrap"><img alt="user" src="https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=70&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=140&amp;d=mm&amp;r=g 2x" class="avatar avatar-70 photo" height="70" width="70" loading="lazy" decoding="async"><div class="text"> <a href="https://news.skhynix.com.cn/author/user/">user</a><span>2024年11月05日</span></div></div>							 </div>
+							 
+							 							 
+						 </div>
+					 </div>
+					 					 
+					 <div class="col span_3 one-fourths clear-both">
+						 <div class="inner-wrap post-12415 post type-post status-publish format-standard has-post-thumbnail category-business category-featured tag-1c-ddr5 tag-cpu tag-1513 tag-rulebreakers-revolutions tag-dram">
+							 
+							 <a href="https://news.skhynix.com.cn/rulebreakers-revolutions-ddr5-validation-in-diverse-market/" class="img-link -as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_view_https://news.skhynix.com.cn/rulebreakers-revolutions-ddr5-validation-in-diverse-market/"><span class="post-featured-img"><img width="680" height="400" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/30044643/SK-hynix_Rulebreaker_4_DDR5_Thumbnail.png" class="attachment-portfolio-thumb size-portfolio-thumb wp-post-image" alt="" title="" decoding="async" loading="lazy"></span></a>							 
+							 <span class="meta-category"><a class="business" href="https://news.skhynix.com.cn/category/insight/business/">技术</a><a class="featured" href="https://news.skhynix.com.cn/category/featured/">featured</a></span>							 
+							 <a class="entire-meta-link -as-ga" href="https://news.skhynix.com.cn/rulebreakers-revolutions-ddr5-validation-in-diverse-market/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_view_' . esc_url( get_permalink() ) . '"></a>
+							 
+							 <div class="article-content-wrap">
+								 <div class="post-header">
+									 <span class="meta"> 
+										 									 </span> 
+									 <h3 class="title">[Rulebreakers’ Revolutions] SK海力士如何在多样化服务器CPU市场中实现服务器DRAM验证流程的成功</h3>	
+								 </div><!--/post-header-->
+								 
+								 <div class="grav-wrap"><img alt="user" src="https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=70&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=140&amp;d=mm&amp;r=g 2x" class="avatar avatar-70 photo" height="70" width="70" loading="lazy" decoding="async"><div class="text"> <a href="https://news.skhynix.com.cn/author/user/">user</a><span>2024年10月31日</span></div></div>							 </div>
+							 
+							 							 
+						 </div>
+					 </div>
+					 					 
+					 <div class="col span_3 one-fourths right-edge">
+						 <div class="inner-wrap post-12401 post type-post status-publish format-standard has-post-thumbnail category-press-release category-featured tag-1392 tag-1107 tag-404">
+							 
+							 <a href="https://news.skhynix.com.cn/sk-hynix-announces-3q24-financial-results/" class="img-link -as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_view_https://news.skhynix.com.cn/sk-hynix-announces-3q24-financial-results/"><span class="post-featured-img"><img width="680" height="400" src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2024/10/23105916/SKhynix_3Q-2024-Earnings-Report_Thumb.png" class="attachment-portfolio-thumb size-portfolio-thumb wp-post-image" alt="" title="" decoding="async" loading="lazy"></span></a>							 
+							 <span class="meta-category"><a class="press-release" href="https://news.skhynix.com.cn/category/press-center/press-release/">新闻稿</a><a class="featured" href="https://news.skhynix.com.cn/category/featured/">featured</a></span>							 
+							 <a class="entire-meta-link -as-ga" href="https://news.skhynix.com.cn/sk-hynix-announces-3q24-financial-results/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_view_' . esc_url( get_permalink() ) . '"></a>
+							 
+							 <div class="article-content-wrap">
+								 <div class="post-header">
+									 <span class="meta"> 
+										 									 </span> 
+									 <h3 class="title">SK海力士发布2024财年第三季度财务报告</h3>	
+								 </div><!--/post-header-->
+								 
+								 <div class="grav-wrap"><img alt="user" src="https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=70&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b58996c504c5638798eb6b511e6f49af?s=140&amp;d=mm&amp;r=g 2x" class="avatar avatar-70 photo" height="70" width="70" loading="lazy" decoding="async"><div class="text"> <a href="https://news.skhynix.com.cn/author/user/">user</a><span>2024年10月23日</span></div></div>							 </div>
+							 
+							 							 
+						 </div>
+					 </div>
+					 </div></div>
+			<div class="comments-section" data-author-bio="false">
+				
+<div class="comment-wrap " data-midnight="dark" data-comments-open="false">
+
+
+			<!-- If comments are closed. -->
+		<!--<p class="nocomments">Comments are closed.</p>-->
+
+	
+
+
+</div>			</div>   
+
+		</div>
+
+	</div><!--/container-->
+
+</div><!--/container-wrap-->
+
+
+<div id="footer-outer" data-cols="2" data-custom-color="false" data-disable-copyright="false" data-matching-section-color="true" data-copyright-line="false" data-using-bg-img="false" data-bg-img-overlay="0.8" data-full-width="false" data-using-widget-area="true">
+	
+		
+	<div id="footer-widgets" style="display:none" data-has-widgets="true" data-cols="2">
+		
+		<div class="container">
+			
+						
+			<div class="row">
+				
+								
+				<div class="col span_6">
+					<!-- Footer widget area 1 -->
+					<div id="text-4" class="widget widget_text"><h4>欢迎订阅SK海力士的最新消息！</h4>			<div class="textwidget"></div>
+		</div>					</div><!--/span_3-->
+					
+											
+						<div class="col span_6">
+							<!-- Footer widget area 2 -->
+							<div id="text-3" class="widget widget_text">			<div class="textwidget"><p><a class="btn_subscr" href="/newsroom-subscribe/">申请订阅</a></p>
+</div>
+		</div>								
+							</div><!--/span_3-->
+							
+												
+						
+													
+															
+							</div><!--/row-->
+							
+														
+						</div><!--/container-->
+						
+					</div><!--/footer-widgets-->
+					
+					
+  <div class="row" id="copyright" data-layout="default">
+
+	<div class="container">
+		<div class="col span_12 f_menu">
+			<ul>
+				<li><a class="-as-ga" href="/contact-us/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="contact-us">联系我们</a></li>
+				<li><a class="-as-ga" href="https://www.skhynix.com/chat/index.jsp" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_https://www.skhynix.com/chat/index.jsp" target="_blank">SK hynix.com</a></li>
+				<li><a class="-as-ga" href="/sitemap/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="sitemap">网站地图</a></li>
+				<li><a class="-as-ga" href="/career/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="Careers">职业</a></li>
+				<li><a class="-as-ga" href="/terms-of-use/" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="goto_termsofuse">使用条款</a></li>
+			</ul>
+			<a href="#" class="gotop -as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="top">返回上端</a>
+		</div>
+	   
+				<div class="col span_5 f_copy">
+		   
+					   
+						<p>
+				版权所有 (C) SK Hynix inc. 保留所有权利. <br>SK海力士 ∣ 京畿道利川市夫鉢邑京忠大路2091 ∣ +82.31.8093.4790			 </p>	
+					   
+		</div><!--/span_5-->
+			   
+	  <div class="col span_7 col_last">
+		<ul class="social">
+			<li class="wechat_box"><a target="_blank" href="" onclick="return false;" class="wechat -as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="whatsapp-url" title="wechat"><i class="fa fa-wechat"></i></a><div class="footer_wechat_qr"><img src="https://dfovt2pachtw4.cloudfront.net/wp-content/uploads/2019/09/27061048/SKhynix_QRcode-ordinary.jpg" alt="wechat share"></div></li>
+								  		  		  		  			 <li><a target="_blank" href="https://www.linkedin.com/company/sk-hynix/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="linkedin-url" title="linkedin"><i class="fa fa-linkedin"></i> </a></li> 		  		  		  		  			 <li><a target="_blank" href="https://news.skhynix.com.cn/feed/rss/" class="-as-ga" data-ga-category="sk-hynix-newsroom-ch" data-ga-action="click" data-ga-label="rss-url" title="rss"><i class="fa fa-rss"></i> </a></li> 		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		  		                  
+          		</ul>
+	  </div><!--/span_7-->
+
+	  	
+	</div><!--/container-->
+	
+  </div><!--/row-->
+  
+		
+</div><!--/footer-outer-->
+
+	
+	
+		
+		
+			
+</div> <!--/ajax-content-wrap-->
+
+</div></div><div id="slide-out-widget-area" class="slide-out-from-right" data-dropdown-func="separate-dropdown-parent-link" data-back-txt="Back" style="padding-top: 76.80000000000001px; padding-bottom: 76.80000000000001px;">
+			
+			<div class="inner-wrap">			
+			<div class="inner" data-prepend-menu-mobile="false">
+				
+				
+				
+				
+									<div class="off-canvas-menu-container mobile-only">
+						
+												
+						<ul class="menu">
+							<li class="megamenu columns-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-348"><a href="https://news.skhynix.com.cn/press-center/">PRESS CENTER</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-722"><a href="#">PRESS CENTER</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-728"><a href="https://news.skhynix.com.cn/press-center/press-release/">Press Release</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a href="https://news.skhynix.com.cn/press-center/media-gallery/">Media Gallery</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="https://news.skhynix.com.cn/press-center/event/">Event</a></li>
+	</ul>
+<span class="ocm-dropdown-arrow" style="top: 0px;"><i class="fa fa-angle-down"></i></span></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-723"><a href="#">INSIGHT</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-724"><a href="#">CORPORATE</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-725"><a href="#">MULTIMEDIA</a></li>
+</ul>
+<span class="ocm-dropdown-arrow" style="top: 0px;"><i class="fa fa-angle-down"></i></span></li>
+<li class="megamenu columns-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="https://news.skhynix.com.cn/insight/">INSIGHT</a></li>
+<li class="megamenu columns-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a href="https://news.skhynix.com.cn/corporate/">CORPORATE</a></li>
+<li class="megamenu columns-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="https://news.skhynix.com.cn/multimedia/">MULTIMEDIA</a></li>
+							
+						</ul>
+						
+						<ul class="menu secondary-header-items">
+													</ul>
+					</div>
+										
+				</div>
+				
+				<div class="bottom-meta-wrap"></div><!--/bottom-meta-wrap--></div> <!--/inner-wrap-->					
+				</div><div id="slide-out-widget-area-bg" class="slide-out-from-right dark">
+				</div><a class="slide_out_area_close" href="#">
+					<span class="close-wrap"> <span class="close-line close-line1"></span> <span class="close-line close-line2"></span> </span>				</a><!--/ocm-effect-wrap--><script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.5.5/bluebird.core.min.js"></script>
+
+<script>
+(function ($) {
+    var query = 'blog_type=list_style';
+
+    var $viewSelector = $(".view_icon > i");
+    if ($viewSelector.size() !== 2) {
+        return;
+    }
+
+    var normalizeLink = function (isListStyle, url) {
+        var hasListStyle = url.indexOf(query) !== -1;
+        if (isListStyle && !hasListStyle) {
+            var joiner = '';
+            if (url.indexOf('?') !== -1) {
+                if (url.charAt(url.length - 1) !== '?') {
+                    joiner = '&';
+                }
+            } else {
+                joiner = '?';
+            }
+            return url + (joiner) + query;
+        } else if (!isListStyle && hasListStyle) {
+            // 만약 blog_type=list_style&s=1 같은 경우 뒤에 붙어 있는 & 까지 모두 지워줘야 한다.
+            // 두번 호출 하면 그냥 해결
+            return url.replace(query + '&', '').replace(query, '');
+        }
+        return null;
+    };
+    var updateLink = function (isListStyle, element) {
+        var href = normalizeLink(isListStyle, $(element).attr('href'));
+        if (href != null) {
+            $(element).attr('href', href);
+        }
+    };
+
+    var $tabAreaAnchors = $('.tabArea > .wpb_wrapper > .tab > li > a');
+    var $paginationAnchors = $('#pagination a');
+    var updateLinks = function (isListStyle) {
+        $tabAreaAnchors.each(function () {
+            updateLink(isListStyle, this);
+        });
+        $paginationAnchors.each(function () {
+            updateLink(isListStyle, this);
+        });
+    };
+
+    var initialListStyle = location.search.indexOf(query) !== -1;
+    // 토글 아이콘 & style
+    if (initialListStyle) {
+        $('.blog_type').addClass('list_style');
+        $viewSelector.removeClass('on').filter('.list').addClass('on');
+        updateLinks(true);
+    }
+
+    $viewSelector.click(function (e) {
+        // init.js 에서 $(".view_icon>i").on("click",function(){ 어쩌고 삭제 할것
+        e.stopImmediatePropagation();
+
+        var url = normalizeLink($(this).hasClass('list'), location.toString());
+        if (url == null) {
+            return;
+        }
+
+        window.location.replace(url);
+    });
+})(jQuery);
+</script>
+
+<script>
+(function($) {
+    $.fn.asGa = function () {
+        return this.click(function () {
+            var data = $(this).data();
+            var ga = window['__gaTracker'];
+            if (!ga) {
+                console.error('ga is missing');
+                return;
+            }
+            ga('send', 'event', data.gaCategory, data.gaAction, data.gaLabel);
+        });
+    };
+    $(function () {
+        $('.-as-ga').asGa();
+    });
+})(jQuery);
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.8/download.js"></script>
+<script>
+jQuery(function ($) {
+    $.fn.asDownload = function () {
+        return this.click(function (e) {
+            e.preventDefault();
+
+            var $this = $(this);
+            var data = $this.data();
+            var href = $this.attr('href');
+            var downloadUrl = href || data.downloadUrl;
+            if (!downloadUrl) {
+                alert('Cannot find the download URL');
+                return;
+            }
+
+            var splits = downloadUrl.split('/');
+            var fileName = splits[splits.length - 1] || 'download';
+            if (!fileName) {
+                alert('Cannot find a correct file name to download.');
+                return;
+            }
+
+            if (!window.fetch) {
+                window.open(downloadUrl);
+                return;
+            }
+
+            fetch(downloadUrl, {mode: 'cors', cache: 'no-cache'})
+                .then(function (res) {
+                    if (res.ok) {
+                        return res.blob();
+                    }
+                    throw new Error('Please try again.');
+                })
+                .then(function (blob) {
+                    download(blob, fileName);
+                });
+        });
+    };
+
+    $('.-as-download-').asDownload();
+});
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard-polyfill/2.8.6/clipboard-polyfill.js"></script>
+<script>
+jQuery(function ($) {
+    $.fn.asClipboard = function () {
+        return this.click(function (e) {
+            e.preventDefault();
+
+            var $this = $(this);
+            var data = $this.data();
+            var clipboardData = $this.attr('href') || data.clipboardData;
+            if (!clipboardData || clipboardData === '#') {
+                clipboardData =
+                    location.protocol + '//' +
+                    location.hostname +
+                    (location.port ? ":" + location.port : "") +
+                    location.pathname +
+                    (location.search ? location.search : "");
+            }
+            var clipboardMessage = data.clipboardMessage || 'URL Copied!';
+            clipboard
+                .writeText(clipboardData)
+                .then(function () {
+                    alert(clipboardMessage);
+                });
+        });
+    };
+
+    $('.-as-clipboard').asClipboard();
+    // salient share 기능중 fa-link 에 추가
+    $('.link-share.nectar-sharing:has(> .fa.fa-link)').asClipboard();
+});
+</script>
+
+// <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
+// wechat qr 현재 URL 로 변경
+<script>
+jQuery(function ($) {
+    var currentUrl =
+        location.protocol + '//' +
+        location.hostname +
+        (location.port ? ":" + location.port : "") +
+        location.pathname +
+        (location.search ? location.search : "");
+
+    $(function () {
+        $('.wechat_qr')
+            .empty()
+            .qrcode({text: currentUrl})
+            .children()
+            .css('width', '100%');
+    });
+});
+</script>
+
+// https://github.com/mkdynamic/jquery-popupwindow
+/*!
+* Display popup window.
+*
+* Requires: jQuery v1.3.2
+*/
+<script>
+(function ($) {
+    var defaults = {
+        center: "screen", //true, screen || parent || undefined, null, "", false
+        createNew: true,
+        height: 500,
+        left: 0,
+        location: false,
+        menubar: false,
+        name: null,
+        onUnload: null,
+        resizable: false,
+        scrollbars: false, // os x always adds scrollbars
+        status: false,
+        toolbar: false,
+        top: 0,
+        width: 500
+    };
+
+    $.popupWindow = function (url, opts) {
+        var options = $.extend({}, defaults, opts);
+
+        // center the window
+        if (options.center === "parent") {
+            options.top = window.screenY + Math.round(($(window).height() - options.height) / 2);
+            options.left = window.screenX + Math.round(($(window).width() - options.width) / 2);
+        } else if (options.center === true || options.center === "screen") {
+            // 50px is a rough estimate for the height of the chrome above the
+            // document area
+
+            // take into account the current monitor the browser is on
+            // this works in Firefox, Chrome, but in IE there is a bug
+            // https://connect.microsoft.com/IE/feedback/details/856470/ie11-javascript-screen-height-still-gives-wrong-value-on-secondary-monitor
+
+            // IE reports the primary monitor resolution. So, if you have multiple monitors IE will
+            // ALWAYS return the resolution of the primary monitor. This is a bug, and there is an
+            // open ticket with IE for it. In chrome and firefox it returns the monitor that the
+            // browser is currently located on. If the browser spans multiple monitors, whichever
+            // monitor the browser has the most real estate on, is the monitor it returns the size for.
+
+            // What this means to the end users:
+            // If they have multiple monitors, and their multiple monitors have different resolutions,
+            // and they use internet explorer, and the browser is currently located on a secondary
+            // monitor, the centering will not be perfect as it will be based on the primary monitors
+            // resolution. As you can tell this is pretty edge case.
+            var screenLeft = (typeof window.screenLeft !== 'undefined') ? window.screenLeft : screen.left;
+
+            options.top = ((screen.height - options.height) / 2) - 50;
+            options.left = screenLeft + (screen.width - options.width) / 2;
+        }
+
+        // params
+        var params = [];
+        params.push('location=' + (options.location ? 'yes' : 'no'));
+        params.push('menubar=' + (options.menubar ? 'yes' : 'no'));
+        params.push('toolbar=' + (options.toolbar ? 'yes' : 'no'));
+        params.push('scrollbars=' + (options.scrollbars ? 'yes' : 'no'));
+        params.push('status=' + (options.status ? 'yes' : 'no'));
+        params.push('resizable=' + (options.resizable ? 'yes' : 'no'));
+        params.push('height=' + options.height);
+        params.push('width=' + options.width);
+        params.push('left=' + options.left);
+        params.push('top=' + options.top);
+
+        // open window
+        var random = new Date().getTime();
+        var name = options.name || (options.createNew ? 'popup_window_' + random : 'popup_window');
+        var win = window.open(url, name, params.join(','));
+
+        // unload handler
+        if (options.onUnload && typeof options.onUnload === 'function') {
+            var unloadInterval = setInterval(function () {
+                if (!win || win.closed) {
+                    clearInterval(unloadInterval);
+                    options.onUnload();
+                }
+            }, 50);
+        }
+
+        // focus window
+        if (win && win.focus) {
+            win.focus();
+        }
+
+        // return handle to window
+        return win;
+    };
+})(jQuery);
+</script>
+
+// weibo show
+<script>
+jQuery(function ($) {
+    var currentUrl =
+        location.protocol + '//' +
+        location.hostname +
+        (location.port ? ":" + location.port : "") +
+        location.pathname +
+        (location.search ? location.search : "");
+
+    var weiboUrl = 'http://service.weibo.com/share/share.php?language=zh_cn&title=' + document.title + '&url=' + currentUrl;
+
+    $(function () {
+        $('.weibo-share').click(function (e) {
+            e.preventDefault();
+            $.popupWindow(weiboUrl, {width: 650, height: 332});
+        });
+    });
+});
+</script>
+
+
+<script>
+
+var _hmt = _hmt || [];
+
+(function() {
+
+  var hm = document.createElement("script");
+
+  hm.src = "https://hm.baidu.com/hm.js?ea9be69dcc9ef89a852d9084298f8fce";
+
+  var s = document.getElementsByTagName("script")[0];
+
+  s.parentNode.insertBefore(hm, s);
+
+})();
+
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-146133333-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-146133333-2');
+</script><div id="wondergridgallerylightbox_options" data-skinsfoldername="skins/default/" data-jsfolder="https://news.skhynix.com.cn/wp-content/plugins/wonderplugin-gridgallery/engine/" style="display:none;"></div><script type="text/javascript" id="email-subscribers-js-extra">
+/* <![CDATA[ */
+var es_data = {"messages":{"es_empty_email_notice":"Please enter email address","es_rate_limit_notice":"You need to wait for some time before subscribing again","es_single_optin_success_message":"Successfully Subscribed.","es_email_exists_notice":"Email Address already exists!","es_unexpected_error_notice":"Oops.. Unexpected error occurred.","es_invalid_email_notice":"Invalid email address","es_try_later_notice":"Please try after some time"},"es_ajax_url":"https:\/\/news.skhynix.com.cn\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public.js?ver=5.7.31" id="email-subscribers-js"></script>
+<script type="text/javascript" id="salient-social-js-extra">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/news.skhynix.com.cn\/wp-admin\/admin-ajax.php","postID":"12331","rooturl":"https:\/\/news.skhynix.com.cn","loveNonce":"28ff3152cc"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/plugins/salient-social/js/salient-social.js?ver=1.0" id="salient-social-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/third-party/jquery.easing.js?ver=1.3" id="jquery-easing-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/third-party/jquery.mousewheel.js?ver=3.1.13" id="jquery-mousewheel-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/priority.js?ver=10.5.3" id="nectar_priority-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/third-party/transit.js?ver=0.9.9" id="nectar-transit-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/third-party/waypoints.js?ver=4.0.1" id="nectar-waypoints-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/third-party/modernizr.js?ver=2.6.2" id="modernizer-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/plugins/salient-portfolio/js/third-party/imagesLoaded.min.js?ver=4.1.4" id="imagesLoaded-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/third-party/hoverintent.js?ver=1.9" id="hoverintent-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/third-party/jquery.fancybox.min.js?ver=3.3.1" id="fancyBox-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/third-party/superfish.js?ver=1.4.8" id="superfish-js"></script>
+<script type="text/javascript" id="nectar-frontend-js-extra">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/news.skhynix.com.cn\/wp-admin\/admin-ajax.php","postID":"12331","rooturl":"https:\/\/news.skhynix.com.cn","disqusComments":"false","loveNonce":"28ff3152cc","mapApiKey":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/themes/salient/js/init.js?ver=10.5.3" id="nectar-frontend-js"></script>
+<script type="text/javascript" src="https://news.skhynix.com.cn/wp-content/plugins/salient-core/js/third-party/touchswipe.min.js?ver=1.0" id="touchswipe-js"></script>
+<script type="text/javascript" id="wp_slimstat-js-extra">
+/* <![CDATA[ */
+var SlimStatParams = {"ajaxurl":"https:\/\/news.skhynix.com.cn\/wp-admin\/admin-ajax.php","baseurl":"\/","dnt":"noslimstat,ab-item","ci":"YTo0OntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicG9zdCI7czo4OiJjYXRlZ29yeSI7czoyNzoiMTksMSw0OTIsNjEzLDEwNzgsMTE5OSwxNTA3IjtzOjEwOiJjb250ZW50X2lkIjtpOjEyMzMxO3M6NjoiYXV0aG9yIjtzOjQ6InVzZXIiO30-.542a8c23c2555a026494b73e4407718e"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/wp/wp-slimstat/tags/4.8.8.1/wp-slimstat.min.js" id="wp_slimstat-js"></script>
+
+</body></html>

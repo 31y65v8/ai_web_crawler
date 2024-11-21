@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.sppm.tsinghua.edu.cn/info/1007/8987.htm",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.sppm.tsinghua.edu.cn/info/1007/8987.htm",
+    "wait": 6
+}

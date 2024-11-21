@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "WMF-Last-Access=14-Nov-2024; NetworkProbeLimit=0.001; WMF-Last-Access-Global=14-Nov-2024; GeoIP=US:IL:Chicago:41.85:-87.63:v4",
+        "Referer": "https://zh.wikipedia.org/zh-sg/AlphaGo",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://zh.wikipedia.org/zh-sg/AlphaGo",
+    "wait": 6
+}

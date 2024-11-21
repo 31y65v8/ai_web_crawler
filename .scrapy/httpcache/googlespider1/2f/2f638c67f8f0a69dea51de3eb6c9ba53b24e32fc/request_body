@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "lg=cn",
+        "Referer": "http://www.aie-tec.com/?news_7/735.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "http://www.aie-tec.com/?news_7/735.html",
+    "wait": 6
+}

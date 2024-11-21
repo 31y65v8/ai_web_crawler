@@ -1,0 +1,488 @@
+<!DOCTYPE html><!--[if lt IE 7 ]> <html lang="zh-CN" class="ie6 ielt8"> <![endif]--><!--[if IE 7 ]>    <html lang="zh-CN" class="ie7 ielt8"> <![endif]--><!--[if IE 8 ]>    <html lang="zh-CN" class="ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><html lang="zh-CN"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+        <title>人工智能的发展趋势与就业形态变化_原创精品_人民论坛网</title>
+    <meta name="keywords" content=" 人工智能的发展趋势与就业形态变化">
+    <meta name="description" content="人工智能的发展趋势与就业形态变化">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no">
+    <link rel="shortcut icon" href="http://www.rmlt.com.cn/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cmstop-common.css">
+	<link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cmstop-article-mobile.css?1597997929">
+	<link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cmstop-comment-mode.css">
+	<link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cmstop-right-common.css">
+	<!--[if lt IE 9 ]>
+		<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/helper/modernizr.js"></script>
+	<![endif]-->
+	<script type="text/javascript" async="" src="https://pos.baidu.com/auto_dup?di=0&amp;uuid=b240217106f3e2c2&amp;dri=0&amp;dis=0&amp;dai=0&amp;ps=0x0&amp;enu=encoding&amp;exps=110011&amp;ant=0&amp;psi=ff41cb9c0efe45b7&amp;dcb=___baidu_union_callback&amp;dtm=AUTO_JSONP&amp;dvi=0.0&amp;dci=-1&amp;dpt=none&amp;tpr=1731558721749&amp;ti=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E4%B8%8E%E5%B0%B1%E4%B8%9A%E5%BD%A2%E6%80%81%E5%8F%98%E5%8C%96_%E5%8E%9F%E5%88%9B%E7%B2%BE%E5%93%81_%E4%BA%BA%E6%B0%91%E8%AE%BA%E5%9D%9B%E7%BD%91&amp;ari=2&amp;ver=1107&amp;kws=%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E4%B8%8E%E5%B0%B1%E4%B8%9A%E5%BD%A2%E6%80%81%E5%8F%98%E5%8C%96&amp;dps=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E4%B8%8E%E5%B0%B1%E4%B8%9A%E5%BD%A2%E6%80%81%E5%8F%98%E5%8C%96&amp;dbv=0&amp;drs=1&amp;pcs=1024x768&amp;pss=1024x0&amp;cfv=32&amp;cpl=1&amp;chi=1&amp;cce=true&amp;cec=UTF-8&amp;tlm=1731558721&amp;prot=2&amp;rw=768&amp;ltu=http%3A%2F%2Fwww.rmlt.com.cn%2F2023%2F0907%2F682317.shtml&amp;ltr=http%3A%2F%2Fwww.rmlt.com.cn%2F2023%2F0907%2F682317.shtml&amp;ecd=1&amp;dft=0&amp;uc=1024x768&amp;pis=-1x-1&amp;sr=1024x768&amp;tcn=1731558722&amp;dc=4&amp;aa=1"></script><script src="http://push.zhanzhang.baidu.com/push.js"></script><script type="text/javascript" src="http://img.rmlt.com.cn/js/config.js"></script>
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/jquery.js"></script>
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/cmstop-common.js"></script>
+    <!-- 内容页头部 -->
+    <link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/module.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/common.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/html5.css">
+    <link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cont.css">
+    <script type="text/javascript">
+        var contentid = '682317';// 文章ID
+        var title = "\u4eba\u5de5\u667a\u80fd\u7684\u53d1\u5c55\u8d8b\u52bf\u4e0e\u5c31\u4e1a\u5f62\u6001\u53d8\u5316";//文章标题
+        var topicid = '873532';// 评论主题
+        var context = '';//全文内容缓存
+        var content = '';//第一页内容缓存
+        var _IMG_URL = 'http://img.rmlt.com.cn/templates/rmlt2013';
+    </script>
+    <script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/public-front-v1.js?15909998999"></script>
+
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/cmstop-imagezoom.js"></script>
+    <script type="text/javascript" src="http://img.rmlt.com.cn/js/fet.js"></script>
+<script type="text/javascript" src="http://img.rmlt.com.cn/js/repos.js"></script>
+<script type="text/javascript">fet.setAlias({IMG_URL: "http://img.rmlt.com.cn/"})</script>
+        <!-- 请置于所有广告位代码之前 -->
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+</head>
+<body>
+<!--头部-->
+<header class="header">
+    <!--header-top -->
+    <div class="header-top">
+        <div class="column">
+        <a href="http://www.rmlt.com.cn/" class="logo"><img src="http://img.rmlt.com.cn/templates/rmlt2013/css/images/logo-3.png?t=1" alt="" width="90" height="23"></a>
+<p class="website"><a href="http://www.rmlt.com.cn/">网站首页</a><span> | </span><a href="http://www.rmlt.com.cn/map/" target="_blank">网站地图</a><a href="" class="ico ie6_png32"></a></p>
+<!--<ul class="login-area2">
+    <li class="cor-153" id="logout_status" style="display:none"><a href="" class="head-login" rel="nofollow">登录</a>
+    <a href="" class="head-register" rel="nofollow">注册</a></li>
+    <li class="cor-153" id="login_status" style="display:none">
+    <a href="" class="head-center" target="_blank" rel="nofollow"><em></em>的个人中心</a><a href="" class="head-logout">退出</a></li>
+</ul>-->
+<script type="text/javascript">
+   /* var referurl = document.location.href;
+    $('.head-login').attr('href', APP_URL + '?app=member&controller=index&action=login&referer='+referurl);
+    $('.head-register').attr('href', APP_URL + '?app=member&controller=index&action=register&referer='+referurl);
+    $('.head-logout').attr('href', APP_URL + '?app=member&controller=index&action=logout&url='+referurl);
+    $('.head-center').attr('href', APP_URL + '?app=contribution&controller=panel&action=index');
+    function usernameCut(namestring){
+        var subString;
+        if (namestring.length > 3){
+        subString = namestring.substr(0,3);
+        return subString + '…';
+    } else {
+        return namestring;
+       }
+    }
+    if ($.cookie(COOKIE_PRE+'auth')) {
+    	var username = $.cookie(COOKIE_PRE+'username');
+    	if(!username) username = $.cookie(COOKIE_PRE+'rememberusername');
+        $('#login_status em').html(usernameCut(username));
+        $('#login_status').show();
+    } else {
+    	$('#logout_status').show();
+    }*/
+</script>
+
+        </div>
+    </div>
+    <!--@end header-top -->
+    <!-- 导航 -->
+    <div class="column nav-cont">
+        <ul>
+<li><a href="http://www.rmlt.com.cn/" target="_blank">首页</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/idea/" target="_blank">理论前沿</a></li>
+<li>|</li>
+<li><a href="http://politics.rmlt.com.cn/" target="_blank">时政法治</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/xuexi/" target="_blank">新思想</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/marx/" target="_blank">理响中国</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/governance/" target="_blank">国家治理网</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/eco/" target="_blank">经济金融</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/academics/" target="_blank">原创精品</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/dangjian/" target="_blank">党建创新</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/xiangcun/" target="_blank">社会治理</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/local/" target="_blank">地方要闻</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/zgpp/" target="_blank">中国品牌</a></li>
+<li>|</li>
+<li><a href="http://art.rmlt.com.cn/" target="_blank">文艺文旅</a></li>
+<li>|</li>
+<li class="more"><span>更多</span><em class="ico"></em></li>
+</ul>
+<ul class="down-list" style="display:none;height:116px;">
+<li class="more1"><span>更多</span><em class="ico"></em></li>
+<li><a href="http://video.rmlt.com.cn/" target="_blank">理论视频</a></li>
+<li><a href="http://www.rmlt.com.cn/investigations/" target="_blank">调查研究</a></li>
+<li><a href="http://www.rmlt.com.cn/magazine/" target="_blank">电子期刊</a></li>
+<li><a href="http://www.rmlt.com.cn/thinktank/" target="_blank">人民智库</a></li>
+</ul>
+    </div>
+    <!--@end 导航 -->
+    <!-- 广告 -->
+    <div class="column mar-t-10"><!-- 广告位：文章-顶部广告960*90 -->
+<!--<script type="text/javascript">BAIDU_CLB_fillSlot("727310");</script>-->
+<a href="http://special.rmlt.com.cn/20230628/" target="_blank">
+<img src="http://upload.rmlt.com.cn/2024/0131/1706688299821.jpg" title="大国新村" alt="大国新村" border="0" height="90" width="960">
+</a>
+</div>
+    <!--@end 广告 -->
+</header>
+<!--@end头部-->
+<div class="crumb column mar-t-10">
+    
+    <a href="http://www.rmlt.com.cn/">首页</a>
+    	&gt; <a href="http://www.rmlt.com.cn/academics/">原创精品</a>
+    	&gt; <a href="http://www.rmlt.com.cn/academics/shoufa/">成果首发</a>
+        <em>&gt;</em> <span>正文</span>
+</div>
+	<section class="column article  mar-t-10">
+		<!-- 主内容区域 -->
+		<section class="column-main">
+			<!-- 文章区域 -->
+			<article class="article-main">
+				<div class="inner">
+										<h1 class="article-title">人工智能的发展趋势与就业形态变化</h1>
+										<!-- 文章相关信息 -->
+					<div class="article-infos ov">
+						<span class="date">2023-09-07 17:26</span>
+						来源：
+						<span class="source">
+						 《人民论坛·学术前沿》2023年8月下						</span>
+                                                作者：
+                        <span class="editors">程承坪</span>
+                        					</div>
+					<!-- @end文章相关信息 -->
+					                                                                                <!-- 文章内容 -->
+					<div class="article-content fontSizeSmall BSHARE_POP">
+                        <p><strong>【摘要】</strong>人工智能正从弱人工智能向强人工智能转变，具备无监督学习能力和一定程度的通用性，并在脑机接口、自动驾驶、生物医疗和科学研究等越来越广泛的领域中发挥重要作用。人工智能与人类智能具有交叉关系，人工智能在许多需要程序性、重复性工作的行业中会对劳动力形成深度替代，但难以替代具备程序性认知技能、非程序性认知技能以及非程序性非认知技能的劳动力。人机合作可以形成人类智能和人工智能的互补，具有广泛的就业前景。当前基于人工智能和互联网平台，出现了大量新就业形态，新就业形态具有劳动关系灵活化、就业无界化、工作安排去组织化等显著特征，它与由雇主组织生产、有较为固定的工作时间与工作场所的传统就业形态有较大的区别。人工智能为人类发展带来了无限可能，但也给包括就业在内的诸多领域带来了新的挑战。未来，需积极采取措施，应对人工智能快速发展背景下就业形态变化带来的挑战。</p>
+<p><strong>【关键词】</strong>人工智能 新就业形态 劳动关系</p>
+<p><strong>【中图分类号】</strong>G32&nbsp; &nbsp; &nbsp;<strong>【文献标识码】</strong>A</p>
+<p><strong>【DOI】</strong>10.16619/j.cnki.rmltxsqy.2023.16.003</p>
+<p><strong>程承坪， 武汉大学经济与管理学院教授、博导。研究方向为企业理论、中国经济问题。主要著作有《企业理论新论：兼论国有企业改革》《企业、制度与中国经济改革》《中国经济改革的政治经济学分析》《中国特色社会主义政治经济学的理论与实践》等。</strong></p>
+<p><strong><br></strong></p>
+<p><strong>引言</strong></p>
+<p>世界经济论坛创始人兼执行主席施瓦布（Schwab, K.）认为，人工智能（Artificial Intelligence，简称AI）等相关信息技术的发展将带来新的技术革命，重塑几乎所有国家的所有行业，并称其为第四次工业革命。学术界基本已形成共识，AI将重塑国际科技竞争格局、国际收入分配格局、国际就业格局和各国综合实力，已成为改变世界的关键驱动力。[1]</p>
+<p>AI带来的技术变革，对于中国而言是一个重要的战略机遇。有效把握这一机遇，有利于中国在激烈的国际竞争中获得优势地位，为中华民族伟大复兴创造有利条件。党的十八大以来，以习近平同志为核心的党中央高度重视AI技术发展，2018年10月，第十九届中共中央政治局就人工智能发展现状和趋势举行第九次集体学习，习近平总书记在主持学习时强调：“要深刻认识加快发展新一代人工智能的重大意义，加强领导，做好规划，明确任务，夯实基础，促进其同经济社会发展深度融合，推动我国新一代人工智能健康发展。”[2]2016年开始，相关部门先后发布了《“互联网＋”人工智能三年行动实施方案》《新一代人工智能发展规划》《国家新一代人工智能创新发展试验区建设工作指引》等政策文件，国务院印发的《新一代人工智能发展规划》提出了面向2030年我国新一代AI发展的指导思想、战略目标、重点任务和保障措施，部署构筑我国AI发展的先发优势，加快建设创新型国家和世界科技强国。[3]</p>
+<p>众多实证研究表明，AI的发展有利于促进经济增长、提高人均产出水平，但也会带来短期失业率增加、劳动报酬在收入中所占比重降低等一系列经济社会问题。[4]《新一代人工智能发展规划》中明确指出，在大力发展AI的同时，要加强对AI技术发展的预测、研判和跟踪研究，重点关注对就业的影响。[5]就业是民生之本，“稳就业”位于“六稳”工作之首。2023年4月召开的中共中央政治局会议强调，要切实保障和改善民生，强化就业优先导向，扩大高校毕业生就业渠道，稳定农民工等重点群体就业。[6]因此，我们既要大力发展AI，又要认真分析研判AI发展对就业的影响，积极抓住机遇，有效应对挑战。鉴于此，如何在推进AI发展的同时，做好“稳就业”工作是当前及今后相当长一段时期需要认真对待的重大问题。</p>
+<p>本文旨在为读者提供一个全面而深入的视角，以理解AI的发展趋势，AI对就业形态的影响，并就有效应对AI给就业领域带来的新挑战提出相关对策。</p>
+<p><strong>人工智能的发展趋势</strong></p>
+<p>AI促进了经济增长，为人们带来了无数的便利，但也给包括就业在内的诸多领域带来了新的挑战。传统的工作模式和职业角色正在悄然发生变化，一些工作可能被AI取代，而新的工作机会也正在被创造出来。在这个过程中，我们需要准确理解和把握AI的发展趋势，以及它对未来就业形态和就业市场的影响，这样才能作出正确的决策，以应对这个快速变化的世界。</p>
+<p>AI的发展历程。AI的发展横跨数十年，从最早的概念化阶段到当前的逐步实现高级应用，其发展历程非常丰富且复杂。AI发展的历史可以粗略地划分为四个主要阶段：早期的提出概念和定义、AI的第一次“繁荣”和随之而来的“冬天”、AI的复兴，以及当前的AI“大爆炸”。</p>
+<p>AI的起源可以追溯到20世纪40年代和50年代，这一时期，一些科学家开始探索如何让机器模仿人类的智能。1956年，达特茅斯会议召开，提出了“人工智能”这个名词，标志着AI作为一个独立研究领域的诞生，该会议确立了AI的目标，即创建一种机器，其智能行为可以与人类的智能相媲美。早期AI的研究者们认为，人类的智能是理性智能，表现为逻辑推理能力，因此提出了AI的符号主义工作模式。[7]在随后的10年中，研究人员取得了一些初步的成果，例如，早期的象棋程序和自然语言理解系统，以及其中最具代表性的成果——定理机器证明，科学家们运用AI证明了《数学原理》中的38条数学定理。在此基础上，又逐渐发展出启发式算法、专家系统以及知识工程理论与技术，这些初步的成果使得人们对AI的未来充满了乐观和期待。</p>
+<p>然而，从1970年代到1980年代，AI的发展遭遇了重大挑战。计算能力的限制、处理现实世界复杂性的困难等AI发展的技术难题难以解决，导致商业和学术领域对这些技术的投资逐渐减少，公众的关注热情也逐渐消退，这个时期被称为“人工智能的冬天”。</p>
+<p>为了弥补符号主义存在的诸多局限性，自20世纪80年代末开始，联结主义工作机制兴起。联结主义的工作原理为神经网络及神经网络间的联结机制与学习算法。联结主义认为，智能产生于人脑的结构，通过对人脑结构的模仿，可以使AI获得与人类一样的智能。2006年，杰弗里·辛顿（Geoffrey Hinton）在“Science”上发表论文，提出了深度学习算法，用多层的卷积神经网络可以使AI获得更强的特征学习能力，自此AI进入新的发展阶段。AI逐渐由有监督的学习发展到无监督的学习，并拥有了弱自主性。</p>
+<p>联结主义发展至今，主要取得了五个方面的成就。一是图像识别。微软亚洲研究院开发的深度残余学习模型，对于头部五个类别的识别错误率控制在3.57%以内，低于一个正常人5%的平均识别错误率，从而使这一技术具备了广泛的商业运用前景。二是语音识别。中国百度公司开发的汉语语音识别AI，其识别错误率只有3.7%，低于一个五人小组4%的集体平均识别错误率，从而使汉语翻译AI具有了商业价值。三是艺术创作。基于深度学习功能，AI具备了把绘画作品的内容和艺术风格区别开来的能力，从而使AI能够学习不同艺术家的艺术风格，并把不同的艺术风格综合运用在同一内容创作上，从而表现出新的艺术创作能力。四是游戏和棋类。例如，2016年3月，Google DeepMind公司开发的AlphaGo击败了世界围棋冠军李世石，这标志着AI在处理复杂任务方面取得了重大突破。五是科学研究。比如，2022年7月，Google DeepMind公司开发的AlphaFold，预测出超过100万个物种的2.14亿个蛋白质的结构，这一数量几乎涵盖了地球上所有已知蛋白质，这一突破性研究成果将推动基础生命科学领域的研究取得重大进展，并加速新药的开发，[8]这使得人们对AI推动科技进步又充满了期待和信心。</p>
+<p>然而，由于人们对大脑的结构及其工作原理知之甚少，因此，即使是无监督学习的联结主义仍然是对大脑的功能性模拟，而不是机制性模拟。虽然联结主义AI能够处理一些看似复杂的问题，但是面对许多常识性问题仍然束手无策。</p>
+<p>与符号主义和联结主义同时进行的AI研究还有行为主义。行为主义的工作原理是基于控制论，即根据“感知-行为”型控制系统模拟人类对行为的控制与实现。行为主义认为，只要AI接受外界信息刺激时表现出与人类相同的行为，就说明它与人类具有相同的智能，并不需要复杂的逻辑推理或演绎，也不需要模拟大脑的结构和功能。20世纪末开始，AI行为主义作为AI的新学派逐渐引起世人的关注。AI行为主义的代表作首推罗德尼·布鲁克斯（Rodney Brooks）开发的六足行走机器人，它是基于“感知-行为”型模式模拟昆虫行为的控制系统。此外，AI行为主义在人类语音翻译、智能机器人等方面也取得了积极成果。</p>
+<p>行为主义AI的局限性主要表现在其工作原理的经验主义，因其不是对大脑机制性的模拟，这使得它不能像人类那样能够举一反三，而只能依赖大数据库和强大的计算能力，如果大数据技术和计算能力得不到长足进步，它的发展就会受到限制。</p>
+<p>从工作机制的角度而言，符号主义、联结主义和行为主义各有优劣，将三者综合可以扬长补短、推陈出新。目前有两种思路可以达到这一综合目的：一是机制主义，二是AORBCO模型。[9]从功能角度而言，AI的发展趋势表现为从文本、图片、语音、视频等单模态的弱智能，向多种模态相融合的强智能方向发展。随着算力、算法和大数据技术的进步，多模态融合的大模型将促进AI认知水平的不断提高，加速强AI的发展。[10]</p>
+<p>AI的技术要素。算力、算法和大数据是AI的三大要素。由于当前人类对大脑神经网络的结构和功能等知之甚少，相关研究暂未取得突破性进展，受此因素的限制，AI发展的主流形态采取深度学习算法、大模型、大数据的方式。深度学习算法由卷积神经网络（CNN）、递归神经网络（RNN）、前馈神经网络（FNN）发展到生成对抗网络（GAN）以及Transformer算法等。2022年OpenAI公司发布的ChatGPT就是以Transformer算法为基础构建的。大模型先后经历了预训练模型、大规模预训练模型和超大规模预训练模型三个发展阶段，大模型的参数量已经实现了亿级，并逐步向百万亿级扩大。ChatGPT模型的参数量已经达到了数亿，并仍在不断地更新、增长，已成为主流大模型的基础模型。</p>
+<p>大模型、大数据需要先进算力的支持，算力已成为制约AI发展的关键技术。在世界各国的AI发展竞争中，谁能主导算力的发展谁就能引领AI发展的世界潮流。而算力的发展不仅受技术的制约，也受经济条件的制约。算力建设成本高昂，ChatGPT-3的算力需求为3640Petaflop/s-day，算力建设成本为7500万美元，云端训练的单次训练成本近1000万美元。[11]OpenAI公司在其发布的AI模型算力报告中谈到，从2012年起，基于GPU集群的超大规模深度学习模型高速发展，AI训练的算力呈指数级增长，每3.4个月翻一番。从2012年到2020年，AI算力增长超600万倍，预计从2023年到2028年，AI所需算力将再增加100万倍。[12]算力已成为AI时代的核心生产力，且不同国家算力发展水平差距较大。国际数据公司（IDC）、浪潮信息和清华大学全球产业研究院联合发布的《2021-2022全球计算力指数评估报告》（以下简称《报告》）指出，目前美国和中国作为领跑者，在全球算力领域的主导地位进一步增强，而其余国家的算力指数在排名中处于追赶者或起步者的位置。此外，算力不仅是发展AI的关键技术，同时也是促进经济发展的重要推动力。《报告》对计算力指数与经济指标的回归分析结果显示，十五个重点国家的国家计算力指数平均每提高1点，国家的数字经济规模和GDP将分别增长3.5‰和1.8‰。[13]因此，近年来世界各国之间的算力竞争在加剧，各主要算力大国都在加大算力相关的经济投入和人才支持力度。</p>
+<p>AI的应用价值。随着相关技术的飞速发展，AI在不同行业和领域的应用价值愈加凸显。智能机器人是AI的一个重要应用方向，它在汽车制造、电子制造、仓储物流、医疗装备制造、应急管理和军事等领域都有着极为广泛的应用价值。联合国贸易和发展会议（UNC-TAD）发布的《2021年技术和创新报告》将智能机器人列为全球前沿技术之一。</p>
+<p>脑机接口也是AI一个重要的应用方向。人类智能与AI的智能具有一定程度的互补性，脑机接口有助于增强人类智能和AI的智能。此外，脑机接口技术在医疗康复、自动驾驶等领域也具有重要而广泛的应用价值。当前，世界各主要国家、科研机构和企业均在加速布局脑机接口，积极抢占这一全球科技竞争的制高点。世界知识产权组织（WIPO）发布的《2021年辅助技术趋势报告》将脑机接口作为未来科技发展的重要方向。</p>
+<p>当前，AI已经广泛应用于从自动驾驶汽车到智能音箱，从个性化推荐系统到生物医疗应用等不同领域，成为人类工作和生活的一个重要组成部分。同时，新的AI技术，例如，以ChatGPT为代表的通用人工智能技术，正在不断迭代升级，迅速发展，并不断拓展其应用领域。正如AI专家玛格丽特·博登（Margaret Boden）所说：“人工智能无处不在。人工智能的实际应用十分广泛，如家居、汽车（无人驾驶）、办公室、银行、医院、天空……互联网，包括物联网（连接到小物件、衣服和环境中的快速增多的物理传感器）。地球以外的地方也有人工智能的影子：送到月球和火星的机器人；在太空轨道上运行的卫星。”[14]同时，我们也要看到AI的发展给人类社会带来了一系列新的挑战，比如，隐私和安全问题、道德和伦理问题，以及给就业市场带来的压力，等等。这些问题都需要在未来大力促进AI发展的同时积极面对和解决。</p>
+<p><strong>人工智能对就业形态的影响</strong></p>
+<p>基于理论视角讨论AI对就业形态的影响。从劳动能力的角度而言，人类有优势也有劣势。[15]人类的劣势主要表现在生理和心理上。生理方面，人类不能在有毒有害或高温极寒缺氧等条件下工作，人类的体能有限，不能超负荷劳动，且在劳动过程中存在“边际效益递减”的现象，不能长时间连续劳动。人类智能还会受到信息接收和存储的数量与质量的影响。心理方面，人类有情和意，这对工作既有积极影响，也有消极影响。</p>
+<p>AI则在一定程度上可以弥补人类劳动的劣势。[16]AI不受生物、心理和社会等因素的影响，AI可以在“脏”“累”“危”“险”“害”等不适合人类工作的环境中工作，还可根据工作场景的需要设计成恰当的体积和形态，适应性较强。工作时间上，AI不会有肌肉和脑力疲劳的问题，可以不间断工作，这一方面可以减少工作转换导致的效率损失，另一方面可以消除边际劳动效益递减带来的损失，从而提高劳动效率。在信息获取的渠道、接受和处理能力上，理论上AI可以拥有无数的“器官”，而且各种“器官”可根据需要复制或分离安装，因而AI获取信息的渠道更多；AI的“器官”比人类的器官更灵敏，因而可以接受更多的信息且处理信息的速度更快、质量更高；AI的跨媒体分析和推理技术也在不断成熟。随着大数据规模呈指数级增加，算法的日益精进和算力的不断提高，AI的能力或将不断地提升，并拥有一定程度的创造性和直觉。[17]</p>
+<p>当然，由于AI是对人类智能的模拟，而这种模拟是非常有限度的。从本质上说，人类智能与AI的智能属于不同类型的智能，[18]人类许多智能并不能完全被AI替代。从物质基础角度而言，AI不是生物，它只能处理物理知识，即人类获得的且可以外化的知识，而无法处理人类不可外化的意识经验。这也决定了AI不能内生出价值观和情绪。劳动既要合规律性，也要合目的性，目的性来自于人的价值观，因而这是AI无法具备的。</p>
+<p>上述分析表明，人类劳动能力与AI劳动能力具有交叉关系，这意味着AI与劳动力既有替代关系，也有互补关系，还存在相互独立关系。对于替代关系，AI将减少就业。对于互补关系，AI将增加就业。对于独立关系，AI的增加不影响就业。</p>
+<p>马克思将劳动力界定为：“人的身体即活的人体中存在的、每当生产某种使用价值时就运用的体力和智力的总和。”[19]根据该定义，劳动既要付出体力，也要付出智力。新一代AI诞生之前的机器只有体力付出，没有智力付出，因此从严格意义上来讲这些机器都不具备劳动力属性。而具有无监督学习能力的新一代AI，既有体力付出，也有智力付出，因而具备了一定程度的劳动力属性。[20]而在劳动力投入不减少的条件下，增加AI必然增加劳动投入。劳动是创造财富的源泉，劳动投入的增加必然带来财富的增加。即使劳动力投入有所减少，如果AI投入的增加超过劳动力的减少，也将带来财富的增加。由于劳动力在一定的时间内是有限的，而AI的增加从理论上说是无限的，因此即使把可被替代的劳动力的工作皆交付给AI，也不会减少财富。可以预见，随着具有劳动力属性的AI投入的增加，财富必将增加。人类不必担心劳动力被AI替代导致财富减少，需要担心的是财富是否能够公平分配。而不能妥善处理分配问题，将会反噬生产力。这就是马克思主义政治经济学所说的生产关系对生产力的反作用。</p>
+<p>AI代表的技术进步既会产生就业替代效应，也会产生就业创造效应。普遍现象是，短期表现为就业替代效应大于就业创造效应，长期则相反。</p>
+<p>卡尔·弗雷和迈克尔·奥斯本（Carl Benedikt Frey and Michael A. Osborne）把ALM模型加以拓展，假设程式化任务只需要低技能劳动，而非程式化任务则需要高技能劳动和低技能劳动的共同投入。根据这个拓展的模型，他们分析了美国的702个就业岗位被AI替代的概率，研究结果表明，在未来20年中，有47%的岗位可能会被AI替代，被替代的岗位绝大多数是低技能岗位。[21]陈永伟和许多应用上述拓展的ALM模型考察了国内AI对就业岗位的影响，研究结果表明，76.76%的就业人口会在未来20年内遭受AI的冲击，如果只考虑非农业人口，这一比例则是65.58%，受冲击最大的是低技能劳动者。[22]</p>
+<p>袁玉芝和杜育红进一步拓展ALM模型，将完成各类工作任务需要的技能划分为非程序性认知技能、非程序性非认知技能、程序性认知技能、程序性身体技能以及非程序性身体技能等五类。程序性的工作是指能够通过计算机完成的工作。非程序性的工作则是指那些难以被清晰识别的，不能够通过计算机程序或者机器完成的工作，主要分为分析和交互式的工作和体力类的工作。认知技能是指模拟人脑皮层前额叶等部位的功能进行决策、规划、经验总结与知识学习等的能力。她们通过实证研究得出如下重要结论：在中国劳动力市场上，对具备程序性认知技能、非程序性认知技能以及非程序性非认知技能的劳动力的需求不断增加，而对具备程序性身体技能和非程序性身体技能的劳动力的需求不断减少。[23]</p>
+<p>综合而言，高技能劳动力被AI替代的可能性较低，而低技能劳动力被AI替代的可能性较高。但AI对就业的替代是一个渐进的过程，而不是一蹴而就的，这既与AI技术发展的渐进性有关，也与劳动力与AI的相对成本有关。当劳动力相对AI拥有比较成本优势时，低技能劳动力就仍然拥有就业空间。AI的应用成本往往在初期比较高昂，但随着规模化生产的发展和技术的进一步成熟会显著降低。这一成本降低的趋势可能促使企业更愿意投资AI，而非雇佣工人，这将对低技能劳动者产生明显的就业冲击。</p>
+<p>但是上述研究重点着眼于劳动力与AI的替代性，忽视了两者之间还存在巨大的互补性。事实上，随着AI的进一步发展，人类独立工作的空间将会缩小，AI独立工作的空间将会扩大，而人机合作的空间将会进一步扩大，人机合作或将成为未来的主要就业形式。人机合作能够使人类与AI相互赋能。AI重塑就业，既可以重构机器和人的新型伙伴关系，实现人机融合发展，推动人机合作向更高阶段迈进，又可以促进高质量就业。[24]未来，人机合作将是最值得期待的就业模式，需要大力发展。</p>
+<p>基于现实视角讨论AI对就业形态的影响。根据配第—克拉克定理和萨勃鲁—辛格尔曼模式，随着技术进步和产业结构的不断升级，第一产业的劳动力会不断向第二产业转移，再向第三产业转移，甚至直接从第一产业向第三产业转移。三次产业就业结构的高低排序从工业时代的“二、三、一”发展到后工业时代的“三、二、一”。第三产业成为就业的蓄水池，有很强的就业吸纳能力。随着AI技术不断发展并走向成熟，第一产业和第二产业中的大量工作很容易被AI取代，一二产业在生产率不断提高的同时，就业人数和就业比重都将会不断减少。虽然AI也会不断进入生产性服务业，但是根据前文的分析，首先AI对第三产业就业岗位的替代是一个循序渐进的过程，其次AI对服务性就业的替代是有限度的，存在大量的人机合作就业岗位，因此大力发展第三产业，特别是生活性服务业，有助于促进就业。</p>
+<p>在数字经济和智能经济时代，AI对就业的影响还突出体现在新技术的快速发展创造出更大的新就业形态发展空间。新就业形态是指，劳动者依托移动互联网平台和AI获得就业机会，从事劳动工作并取得劳动报酬的就业形态。据中国社会科学院人口与劳动经济研究所发布的《人口与劳动绿皮书（2017）》显示，2007～2016年间，中国以服务业为主体的新经济的总体规模年均增长16.1%，远高于全国经济的增长水平，以灵活就业为主要特征的“新就业”年均增长7.2%，为同期全国就业增长率的22倍，新经济吸收了中国绝大部分的新增就业。以“互联网＋”和“人工智能＋”为代表的数字经济和智能经济的成长不断创造出新的就业岗位和新的就业形态。以福建省为例，2013～2017年，该省工商部门新登记的企业分别为7.09万户、12.08万户、15.81万户、19.07万户和21.52万户，其中拼多多、淘宝、微商、电商快递、城市配送、分享经济等电子商务企业，创造了许多就业机会并吸纳了众多灵活就业人员。同时，2013～2017年福建省城镇登记失业率分别为3.55%、3.47%、3.66%、3.86%和3.86%，连续5年低于5%的水平，而这期间该省城镇新增就业人数分别为65.87万人、66.13万人、65.95万人、60.73万人和60.49万人，5年间累计新增就业319.17万人。[25]此外，第九次中国职工队伍状况调查结果显示，目前中国职工总数约为4.02亿人，新就业形态劳动者已达8400万人，新就业形态劳动者占中国职工人数的比重已超过20%，新就业形态已经成为中国吸纳就业的一个重要渠道。[26]</p>
+<p>新就业形态具有劳动关系灵活化、就业无界化、工作内容多样化等特征，与由雇主组织生产、有较为固定的工作时间与工作场所的传统就业形态有较大的区别。</p>
+<p>新就业形态的特征之一是劳动关系灵活化。数字经济和智能经济打破了传统的固定式雇佣关系，劳动力市场供求关系更加富有弹性，实行契约式管理，劳动就业自主灵活。据《中国分享经济发展年度报告（2018）》数据显示，2017年中国有7亿人参与分享经济，提供劳动服务的人数约为7000万，其中绝大多数属于灵活就业。[27]近年来，虽然就业市场受新冠疫情的影响较大，但灵活就业有增无减。据阿里研究院预测，未来20年，固定的8小时工作制将逐渐被打破，中国约有4亿劳动力将通过互联网自我雇佣、灵活就业，这一数量相当于中国劳动力总数的45%。[28]</p>
+<p>新就业形态的特征之二是工作内容多样化和就业的无界化。通过互联网和AI相关技术，劳动者可以根据自己的实际情况和工作任务要求、薪酬水平签订契约，在不同的互联网平台上接受工作内容各不相同的工作任务。分派任务的人与劳动者可以在不同的城市，甚至不同的国家，表现为就业的无界化。</p>
+<p>新就业形态的特征之三是工作方式弹性化。由于工作内容主要是服务性质的，而且工作任务并不需要多人同时协作完成，因而工作方式具有较大的弹性，只要具备相关工作技能，接到工作订单就可以随时随地工作。</p>
+<p>新就业形态的特征之四是工作安排去组织化。组织化安排工作具有报酬固定、工作方式和工作内容相对确定、雇员服从雇主安排的特点。而去组织化意味着工作安排的市场化、契约化，改变工作安排需经双方当事人协商一致，劳动者的报酬不稳定，其具备的工作技能和获得的工作机会决定薪酬水平。</p>
+<p>新就业形态的特征之五是创业机会互联网化。创业者可以通过互联网捕捉创业机会、聚集创业资源，根据比较优势分派工作任务，按照契约分享创业收益。</p>
+<p>在数字经济和智能经济时代，新就业形态将成为主要和普遍的就业模式，应顺应潮流，多策并举促进新就业形态的健康发展。</p>
+<p><strong>应对人工智能背景下就业形态变化的对策措施</strong></p>
+<p>就业既是重要的民生工程，也是经济高质量发展的题中应有之义，促进高质量充分就业，是推动经济高质量发展的内在要求，将为经济高质量发展增添新动能。为积极应对AI快速发展给就业领域带来的新挑战并促进新就业形态的健康发展，本文提出以下八个方面的对策措施。</p>
+<p>鼓励AI领域的创新和创业，扩大AI的就业创造效应。一些观点认为，大力促进AI发展会给就业市场带来不利影响，使就业问题雪上加霜。这一观点是错误的。首先，AI发展对经济发展的促进作用十分显著，有利于提高我国人力资本水平。如果不抢占AI发展的制高点，会使我国丧失引领世界科技革命潮流的时机，而且新一轮科技革命落后产生的就业挤出效应，会给就业带来更大的挑战；其次，AI对就业市场不仅会产生替代效应，也会产生创造效应，特别是将创造大量的人机合作就业岗位，有利于实现高质量就业。</p>
+<p>AI发展会给就业带来两个方面的变化。一方面，劳动时间会不断缩短，劳动协作的形式会发生变化，劳动时间将会呈现套餐化、碎片化趋势，劳动者可以根据自身不同的劳动技能，把整体劳动时间分解用于满足不同劳动目标需要，从而追求最佳劳动组合收益，同时也有利于充分利用劳动者零碎时间，增加劳动时间供给。另一方面，劳动者更换工作的频率会越来越高，劳动供给弹性变大，就业形式更加灵活多样。从目前来看，分享经济和零工经济等新就业形态可以较好地适应这两个方面的变化。</p>
+<p>因此，政府可以通过提供资金支持、科研项目补助、税收优惠政策等措施，激励企业和创业者增加在AI相关领域，特别是与新就业形态相关领域的创新和创业，利用AI带来的机遇创造新的就业机会。</p>
+<p>促进新的产业和服务形态的产生和发展，创造更多的就业机会。中国是制造业大国，产业链完善、韧性较强，这是中国综合国力的基本保障。然而，短期来看AI在制造业领域的广泛应用在不断提高制造业生产率的同时，也会导致就业绝对数和相对数的降低，难以依靠制造业吸纳大量新增劳动力。因此，需要通过不断刺激新的产业和服务形态的产生和发展，创造大量新的就业机会。未来，应努力提高第一产业和第二产业的科技进步贡献率和AI普及率，以快速提高生产效率，夯实我国制造业大国的地位，推动我国从制造大国稳步迈向制造强国。与此同时，应加大力度发展第三产业，特别是促进与数字经济和智能经济相关联的“新经济”的发展，创造更多新就业形态，吸纳大量新增就业。值得注意的是，生活性服务业具有社交性、创意性和灵活多变的特点，且从一定程度上来说难以被AI替代，应大力促进其发展以吸纳大量新就业形态的就业。</p>
+<p>增加教育和培训投入，鼓励终身学习。2023年6月14日，全球咨询巨头麦肯锡发布《生成式人工智能的经济潜力：下一波生产力浪潮》报告，该报告指出在2030年至2060年间（中点为2045年）50%的职业将逐步被AI取代。[29]虽然从长远来看，AI可能会创造大量新的就业机会，但转型过程可能将会是痛苦和混乱的。很多劳动者可能需要重新学习和培训新的技能才能适应新的工作需要。</p>
+<p>随着AI的深入发展，相关行业科技水平含量不断提高，也对教育和培训提出了新的要求。一方面，需要对尚未就业的青少年的知识教育和职业技能培训体系进行改革，培养符合AI时代市场需求的创造性人才。另一方面，政府和企业等不同主体应加大教育和技能培训投入力度，加强对已就业群体的教育和培训，以适应AI时代对劳动力提出的新要求。此外，高技能工作与低技能工作的定义是动态变化的，随着科技不断进步，此时属于高技能工作彼时可能就演变成低技能工作。AI将逐步替代重复性、程序性、繁琐的低技能工作，同时对高技能劳动力的需求将会增加，这要求劳动者保持终身学习才能紧跟科技发展的步伐。</p>
+<p>根据世界经济论坛发布的《2023年未来就业报告》，82%的企业计划投资培训。这表明许多企业正在积极应对技能需求的转变，并通过培训来提升员工的技能。不仅如此，AI驱动的学习平台能够提供个性化的提升知识和技能的学习机会。因此，应通过教育宣传和引导，在全社会倡导树立终身学习的理念，鼓励广大劳动者在充分考虑个人学习风格和偏好的基础上，充分利用AI学习平台等不同渠道为个人提供的学习和培训机会，主动实现自身的知识更新和技能提升。</p>
+<p>建设和规范新就业形态市场，打破雇佣双方之间的信息壁垒，提高就业效率。新就业形态市场与传统劳动力市场有许多不同的特点，为了提高新就业形态市场的就业效率，需要建设与新就业形态相适应的制度规范，通过AI、大数据和区块链等技术消除雇佣双方之间的信息壁垒和“柠檬市场”现象，确保新就业形态市场信息的公开、透明、真实、有效、快捷。</p>
+<p>市场的有效性在一定程度上取决于市场的公平，新就业形态市场的公平主要表现在就业机会的公平。政府应通过制度建设和政策引领促使企业提供公平的就业机会，消除就业歧视，使得人尽其才，才尽其用。企业可以引入AI工具来消除招聘过程中的偏见，提供更公平的就业机会并提高劳动力需求的弹性。AI工具也可为劳动者提供较为充分的就业信息，进而提高劳动力供给的弹性和效率。</p>
+<p>确立AI伦理原则，规范AI发展，促进新就业形态健康发展。以ChatGPT-4为代表的新一代AI逐渐具备了无监督学习能力和一定程度的通用性，在显著提高工作能力的同时，也带来了侵犯个人隐私权、道德偏见、歧视等一系列问题，对劳动力市场的健康发展构成了挑战。[30]为了有效利用AI发展带来的积极效应并尽量规避其不利影响，需要确立AI伦理原则，加强AI算法的透明度，强化对AI的监管，防止对AI的滥用，保护个人隐私。</p>
+<p>确立AI伦理原则，需要经历一个艰苦的探索历程。无论是遵循人本主义的伊萨克·阿西莫夫（Isaac Asimov）提出的“机器人三定律”，还是自然主义的AI伦理观，都存在一定程度的局限性。[31]解决这一难题需要世界各国以及与AI相关学科领域的研究者和社会政策制定者携手并肩，共同努力。2020年以来，美国政府发布了《人工智能应用监管指南》，欧盟出台了《人工智能白皮书》，日本政府发布了《以人类为中心的人工智能社会原则》，2023年7月中国国家互联网信息办公室等七部门联合公布《生成式人工智能服务管理暂行办法》，等等。这些政策文件的出台为规范AI发展，确立AI伦理原则作出了有益探索。确立AI伦理原则，不仅能规范AI发展，同时也是确保新就业形态健康发展的前提条件。</p>
+<p>完善与AI及新就业形态发展相关的法律规范体系。为了确保AI的安全、公平和透明使用与发展，需要制定适应AI发展的法律规范。涉及到AI的法律规范主要包含AI的主体地位、民事权利、道德责任等内容。由于AI不断转型升级，目前正处于从弱AI向强AI转变的过程中，其主体地位、民事权利、道德责任等也在发生相应的变化，这就需要政府和立法机关跟上AI发展的步伐，更新或制定新的法律法规。制定AI相关的法律法规不能一国单打独斗，需要各国通力合作，共同面对，相互借鉴。</p>
+<p>针对新就业形态大量涌现的现象，2023年2月21日，中国人力资源和社会保障部发布了《新就业形态劳动者劳动合同与书面协议订立指引（试行）》（以下简称《指引》）。《指引》的发布对我国新就业形态相关的各种问题起到了及时有效的规范作用。[32]然而，新就业形态仍在经历不断涌现且不断变化的过程，因此，构建和完善新就业形态市场的法律规范体系不可能一蹴而就，需要随着实践的发展而与时俱进地修改和完善。</p>
+<p>建立与新就业形态相适应的劳动者权益保障机制。为确保AI不会被用于侵犯劳动者权益或滥用劳动力，应适时建立符合时代发展要求的劳动者权益保障机制。为了顺应新就业形态发展的需要，从2021年开始，中国加快了劳动制度改革的进程，从中央到地方各级政府管理部门针对新就业形态实行了多项改革措施，但我们应看到一些改革的进程仍然相对滞后于新就业形态发展的需要。新就业形态的劳动关系在劳动报酬、劳动任务分配、劳动时间、工作管理、劳动控制以及劳动者和用工部门的权利义务关系等方面，与传统劳动关系存在着较大差异，如果沿用适用传统劳动关系的现行劳动法规进行规制，将难以保护新就业形态劳动者的权益。在传统劳动关系没有完全退出历史舞台、新就业形态劳动关系没有完全替代传统劳动关系之前，需要积极探索构建兼顾这两种具有较大差异的就业形态的劳动者权益保障机制。</p>
+<p>目前来看，可从单项制度改革入手寻求突破，例如，可针对职业基本保障制度、集体合同和集体协商制度、民主参与制度以及劳动争议处理制度等进行改革。在进行每一项制度改革时，可以逐步突破现行劳动法的边界，综合劳动法和民法寻找改革的突破口。[33]</p>
+<p>改革社会保障制度，做好兜底工作。在当前的社会保障体系中存在一些难以适应新就业形态发展需要的因素，例如，《中华人民共和国劳动合同法》主要保障在职职工，没有把灵活就业人员纳入保障范围；《中华人民共和国社会保险法》《社会保险费征缴暂行条例》等法律法规没能充分考虑灵活就业人员的社会保障问题，在居住证办理、子女就学、购房、缴纳社会保险费用和住房公积金、出国护照办理等方面，皆把新就业形态劳动者排除在就业范畴之外，导致这一群体相关权益实现存在诸多困难。因此，为了适应AI时代新就业形态或将成为主要就业形态的形势需要，应当及时完善社会保障体系。需要特别注意的是，随着AI技术的不断发展，或将出现许多不适应新就业形态的失业人员。为维护社会和谐和安定，需完善相关社会保障制度，做好兜底工作，比如，可考虑实施无条件的基础收入制度等，帮助缓解由AI发展带来的就业不稳定所造成的社会问题。此外，AI给不同群体带来的影响不同。例如，那些年长、受教育程度较低、技能更新困难的劳动者可能更难适应AI快速发展背景下工作的需要。因此，我们需要制定具有针对性的解决方案，以确保AI的发展能够惠及更多的人。</p>
+<p><strong>结语</strong></p>
+<p>AI为人类发展带来了无限可能，也给包括就业在内的诸多领域带来了一些新的挑战。我们需要持续关注AI的发展情况，提前识别并采取有效措施，抓住其带来的机遇，并有效应对挑战。AI技术对社会、经济和文化等方面产生的影响是综合性的，应对挑战需要政府和社会各类主体的共同努力和参与。为促进社会对AI的科学理性认知和分析，还应通过公共教育、媒体宣传等方式，增进公众对AI的认知和理解，让公众更好地利用AI带来的机遇，同时积极主动地规避风险和应对挑战。唯有如此，才能既最大程度地享受AI带来的益处，又规避或至少减轻其带来的负面影响。总之，我们需要尽可能确保每个人都能从AI的发展中受益，而不是一部分人受益而另一部分人受损。</p>
+<p><strong>（本文系国家社会科学基金重大项目“社会主义本质与新时代共同富裕问题研究”和国家社会科学基金一般项目“促进共同富裕的城镇住房政策调整及优化研究”的阶段性成果，项目编号分别为：22&amp;ZD017、22BGL028）</strong></p>
+<p><strong>注释</strong></p>
+<p>[1]程承坪、彭欢：《人工智能影响就业的机理及中国对策》，《中国软科学》，2018年第10期。</p>
+<p>[2]《习近平主持中共中央政治局第九次集体学习并讲话》，2018年10月31日，https://www.gov.cn/xinwen/2018-10/31/content_5336251.htm?cid=303/*。</p>
+<p>[3][5]《国务院关于印发新一代人工智能发展规划的通知》，2017年7月20日，https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm。</p>
+<p>[4]陈永伟、曾昭睿：《“第二次机器革命”的经济后果：增长、就业和分配》，《学习与探索》，2019年第2期。</p>
+<p>[6]《中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议》，《人民日报》，2023年4月29日，第1版。</p>
+<p>[7]程承坪：《人工智能的工作机理及其局限性》，《学术界》，2021年第1期。</p>
+<p>[8]AlphaFold, https://www.deepmind.com/research/highlighted-research/alphafold.</p>
+<p>[9]冯媛、蔡增玉、张志峰、甘勇：《统一人工智能的研究与进展》，《科技通报》，2014年第3期。</p>
+<p>[10][11][12]胡滨雨：《从ChatGPT爆火看人工智能大势》，《中国电信业》，2023年第3期。</p>
+<p>[13]《2021–2022全球计算力指数评估报告》，https://www.inspur.com/lcjtww/resource/cms/article/2734773/2734784/2022122613493315670.pdf。</p>
+<p>[14]玛格丽特·博登：《人工智能的本质与未来》，孙诗惠译，北京：中国人民大学出版社，2017年，第3页。</p>
+<p>[15]程承坪：《人工智能背景下的“增强工作”》，《上海师范大学学报（哲学社会科学版）》，2023年第4期。</p>
+<p>[16]程承坪：《人工智能对劳动的替代、极限及对策》，《上海师范大学学报（哲学社会科学版）》，2020年第2期。</p>
+<p>[17]王华平：《图灵测试与人类水平机器人》，《上海师范大学学报（哲学社会科学版）》，2022年第4期。</p>
+<p>[18]中国工程院院士李国杰指出，人有人智，机有机智，人类智能与人工智能是两种不同的智能。参见：《李国杰院士：国内AI研究“顶不了天、落不了地”，该想想了》，2021年8月5日，https://m.thepaper.cn/baijiahao_13905790。</p>
+<p>[19]《马克思恩格斯全集》第44卷，北京：人民出版社，2001年，第195页。</p>
+<p>[20]程承坪：《论人工智能的自主性》，《上海交通大学学报（哲学社会科学版）》，2022年第1期。</p>
+<p>[21]Frey C. B. and Osborne M. A., The Future of Employment: How Susceptible are Jobs to Computerization? https://sep4u.gr/wp-content/uploads/The_Future_of_ Employment_ox_ 2013. pdf.</p>
+<p>[22]陈永伟、许多：《人工智能的就业影响》，《比较》，2018年总第95辑。</p>
+<p>[23]袁玉芝、杜育红：《人工智能对技能需求的影响及其对教育供给的启示——基于程序性假设的实证研究》，《教育研究》，2019年第2期。</p>
+<p>[24]周世军、赵丹丹：《人工智能重塑就业的未来趋势、特征及对策》，《经济体制改革》，2022年第1期。</p>
+<p>[25]陈宝国：《福建省推动发展互联网+新就业形态问题研究》，《发展研究》，2018年第11期。</p>
+<p>[26]陈晔：《新就业形态下的新机遇、新挑战》，《人力资源》，2023年第11期。</p>
+<p>[27]《〈中国共享经济发展年度报告（2018）〉在京发布》，2023年8月21日，http://www.sic.gov.cn/News/79/8860.htm。</p>
+<p>[28]《阿里研究院：〈数字经济2.0报告〉》，2017年1月11日，http://www.cbdio.com/BigData/2017-01/11/content_5428283.htm。</p>
+<p>[29]《麦肯锡发布：〈生成式人工智能的经济潜力：下一波生产力浪潮〉》，2023年7月14日，https://baijiahao.baidu.com/s?id=1771390367788007692&amp;wfr=spider&amp;for=pc。</p>
+<p>[30]罗艺、潘璐：《ChatGPT4：现状、风险与法律回应》，《上海法学研究》集刊，2023年第6卷。</p>
+<p>[31]刘超：《协商与校准：与人工智能共存的未来》，《光明日报》，2023年6月8日，第14版。</p>
+<p>[32]《人社部印发〈新就业形态劳动者劳动合同和书面协议订立指引（试行）〉》，http://www.gdhf.gov.cn/swhfrsj/attachment/0/45/45400/906540.pdf。</p>
+<p>[33]吴清军：《加强新就业形态劳动者权益保障》，《人民论坛》，2023年第10期。</p>
+<p style="text-align: right;">责 编∕包 钰</p>
+<p style="text-align: center;"><strong>Artificial Intelligence: Its Development Trend and Influence on Forms of Employment</strong></p>
+<p style="text-align: center;"><strong>Cheng Chengping</strong></p>
+<p><strong>Abstract</strong>: Artificial intelligence (AI), transforming from weak AI to strong AI, with unsupervised learning and some degree of versatility, plays an important role in a variety of fields such as brain-computer interface, autonomous driving, bio-medicine and scientific research. There is a cross-relations between AI and human intelligence, though AI can totally substitute labors in many industries requiring procedural and repetitive work, yet it can hardly replace labors with procedural cognitive skills, non-procedural cognitive skills and non-procedural non-cognitive skills. Therefore, the human-AI cooperation could complement each other, thus bringing broad employment prospects. With the development of AI and internet platforms, significant new forms of employment arise with significant features of flexible labor relations, unbounded employment and disorganization of work arrangements, different from traditional employment patterns characterized by employer-organized production, fixed working hours and work locations. While AI has brought infinite possibilities for human development, it also has brought new challenges in various fields, thus proactive measures are required to address those challenges with changes of the employment forms due to the rapid development of AI in the future.</p>
+<p><strong>Keywords</strong>: artificial intelligence (AI), new forms of employment, labor relations<span class="ico-logo"><a href="http://www.rmlt.com.cn/" target="_blank">
+						<img src="http://img.rmlt.com.cn/templates/rmlt2013/img/rmlt_logo.jpg" width="50" height="19" style="width: auto; visibility: visible; opacity: 1;"></a></span></p>						
+					</div><!-- @end 文章内容 -->
+                                                                                				</div>
+		                        <div class="editor">
+                	<span>[责任编辑：包钰]</span>
+                </div>
+                
+                <div class="new-list ov topblank">
+                    <dl>
+                                            </dl>
+                </div>
+			</article>
+                        <!-- @end文章区域 -->
+			<div class="basehr topblank"></div>
+		</section>
+		<!-- 右侧区域 -->
+		<aside class="column-aside">
+            <div>
+                <!-- 广告位：文章-右侧广告300*240 -->
+<!--<script type="text/javascript">BAIDU_CLB_fillSlot("727309");</script>-->
+<a href="http://www.rmlt.com.cn/" target="_blank">
+    <img src="http://upload.rmlt.com.cn/2024/0428/1714293797886.jpg" title="人民论坛投稿邮箱" alt="人民论坛投稿邮箱" border="0" height="240" width="300">
+</a>
+<!--<img src="http://upload.rmlt.com.cn/2021/1015/1634281681361.gif" width="300" height="240" alt="人民论坛评论投稿" />-->
+            </div>
+
+            <div class="basehr"></div>
+			<!-- 今日推荐 -->
+			<div class="mod-list">
+				<div class="inner">
+					<div class="m-head title-head">
+						<em class="ico"></em>
+						<div class="title"><a title="" class="words">今日推荐</a></div>
+					</div>
+					<div class="m-main">
+					
+					<ul class="list">
+                          <li class="item">
+    <em class="ico"></em><a href="http://politics.rmlt.com.cn/2024/1114/716879.shtml" target="_blank" title="学习进行时丨习近平主席与秘鲁的故事" class="title">学习进行时丨习近平主席与秘鲁的故事</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716882.shtml" target="_blank" title="向国际社会讲好社会主义协商民主的故事" class="title">向国际社会讲好社会主义协商民主的故事</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716885.shtml" target="_blank" title="实现对全体公民和法人合法权益的平等保护" class="title">实现对全体公民和法人合法权益的平等保护</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716889.shtml" target="_blank" title="我国长期护理保险制度全面推行的难点与重点" class="title">我国长期护理保险制度全面推行的难点与重点</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716887.shtml" target="_blank" title="发挥人民政协作为专门协商机构的作用" class="title">发挥人民政协作为专门协商机构的作用</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1113/716755.shtml" target="_blank" title="让教育家精神成为广大教师的自觉追求" class="title">让教育家精神成为广大教师的自觉追求</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716884.shtml" target="_blank" title="突出“两个维护”深化政治监督" class="title">突出“两个维护”深化政治监督</a>
+  </li>
+
+					</ul>
+					</div>
+				</div>
+			</div>
+			<!-- @end 今日推荐 -->
+			<div class="basehr"></div>
+            <!-- 专题推荐 -->
+            <div class="mod-list">
+                <div class="inner">
+                    <div class="m-head title-head">
+                        <em class="ico"></em>
+                        <div class="title"><a title="" class="words" href="http://www.rmlt.com.cn/topics/" target="_blank">专题推荐</a></div>
+                    </div>
+                    <div class="m-main">
+                        <ul class="list">
+                              <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20240227" target="_blank" title="2024人民论坛两会国是厅" class="title">2024人民论坛两会国是厅</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20220412-1" target="_blank" title="【大国基理】精彩专题" class="title">【大国基理】精彩专题</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20240126" target="_blank" title="【践悟方法论】精彩专题" class="title">【践悟方法论】精彩专题</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20230628" target="_blank" title="大国新村：沿着总书记的足迹" class="title">大国新村：沿着总书记的足迹</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/【科技强国有我】" target="_blank" title="【科技强国有我】精彩专题" class="title">【科技强国有我】精彩专题</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20220825-2/" target="_blank" title="【理响中国】精彩专题" class="title">【理响中国】精彩专题</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20231208" target="_blank" title="首届南水北调中线后续工程高质量发展论坛" class="title">首届南水北调中线后续工程高质量发展论坛</a>
+  </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- @end 专题推荐 -->
+            <div class="basehr"></div>
+                <div>
+                <!-- 广告位：文章-右侧专题推荐底部 300*240 -->
+<!--<script type="text/javascript">BAIDU_CLB_fillSlot("7969236");</script>-->
+<a href="http://www.rmlt.com.cn/" target="_blank"><img src="http://upload.rmlt.com.cn/2024/0417/1713340885267.png" title="好评中国 追光青年" alt="好评中国 追光青年" border="0" height="240" width="300">
+</a>
+                </div>
+                <!-- 推荐视频 -->
+                <div class="pic-recommend">
+                    <div class="m-head dotted-head">
+    <em class="ico"></em>
+    <div class="title"><a href="http://video.rmlt.com.cn/" target="_blank" title="" class="words">推荐视频</a></div>
+</div>
+<ul class="m-main ov">
+        <li class="v-pic">
+        <div class="thumb">
+            <div class="opa"></div>
+            <a href="http://www.rmlt.com.cn/2024/0829/710943.shtml" target="_blank" class="ico"></a>
+                        <span class="info"></span>
+                        <a href="http://www.rmlt.com.cn/2024/0829/710943.shtml" target="_blank" title="新农人种粮记"><img src="http://upload.rmlt.com.cn/2024/0902/thumb_120_77_1725263133626.png" alt="" width="120" height="77"></a>
+        </div>
+        <div class="title"><a href="http://www.rmlt.com.cn/2024/0829/710943.shtml" target="_blank" title="新农人种粮记">新农人种粮记</a></div>
+    </li>
+        <li class="v-pic">
+        <div class="thumb">
+            <div class="opa"></div>
+            <a href="http://www.rmlt.com.cn/2024/0731/708674.shtml" target="_blank" class="ico"></a>
+                        <span class="info"></span>
+                        <a href="http://www.rmlt.com.cn/2024/0731/708674.shtml" target="_blank" title="追寻雪域高原上的“绿电”足迹"><img src="http://upload.rmlt.com.cn/2024/0731/thumb_120_77_1722395498954.jpg" alt="" width="120" height="77"></a>
+        </div>
+        <div class="title"><a href="http://www.rmlt.com.cn/2024/0731/708674.shtml" target="_blank" title="追寻雪域高原上的“绿电”足迹">追寻雪域高原上的“绿电”足迹</a></div>
+    </li>
+        <li class="v-pic">
+        <div class="thumb">
+            <div class="opa"></div>
+            <a href="http://www.rmlt.com.cn/2024/0822/710454.shtml" target="_blank" class="ico"></a>
+                        <span class="info"></span>
+                        <a href="http://www.rmlt.com.cn/2024/0822/710454.shtml" target="_blank" title="渔村姑娘返乡记"><img src="http://upload.rmlt.com.cn/2024/0902/thumb_120_77_1725263155107.jpg" alt="" width="120" height="77"></a>
+        </div>
+        <div class="title"><a href="http://www.rmlt.com.cn/2024/0822/710454.shtml" target="_blank" title="渔村姑娘返乡记">渔村姑娘返乡记</a></div>
+    </li>
+        <li class="v-pic">
+        <div class="thumb">
+            <div class="opa"></div>
+            <a href="http://www.rmlt.com.cn/2024/0628/706040.shtml" target="_blank" class="ico"></a>
+                        <span class="info"></span>
+                        <a href="http://www.rmlt.com.cn/2024/0628/706040.shtml" target="_blank" title=" 跨越百年的光荣使命"><img src="http://upload.rmlt.com.cn/2024/0717/thumb_120_77_1721181294603.png" alt="" width="120" height="77"></a>
+        </div>
+        <div class="title"><a href="http://www.rmlt.com.cn/2024/0628/706040.shtml" target="_blank" title=" 跨越百年的光荣使命"> 跨越百年的光荣使命</a></div>
+    </li>
+    </ul>
+                </div><!-- @end 推荐视频 -->
+
+		</aside>
+	</section>
+
+    <!-- 页脚 -->
+    <div class="clear"></div>
+    <footer class="footer">
+        <div class="column mar-t-10"><!-- 广告位：文章-底部广告960*90 -->
+<!--<script type="text/javascript">BAIDU_CLB_fillSlot("727311");</script>-->
+<style>/*div.column {position:relative;}*/</style>
+<!--<div style="position: absolute;right:5px; bottom: 0px; width: 26px; height: 16px; z-index: 12; background: url(//ra.gtimg.com/web/res/icon/leftbottom_new.png) right top no-repeat;"></div>-->
+<a href="http://special.rmlt.com.cn/20240227/" target="_blank">
+<img src="http://upload.rmlt.com.cn/2024/0304/1709536421275.jpg" title="2024人民论坛两会国是厅" alt="2024人民论坛两会国是厅" border="0" height="90" width="960">
+</a></div>
+        <nav>
+            <ul>
+                <li><a href="http://special.rmlt.com.cn/181126/" target="_blank" rel="nofollow">关于人民论坛网</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/181127-1/" target="_blank" rel="nofollow">联系我们</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/about/special/advertisement/" target="_blank" rel="nofollow">广告服务</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/190517-3/index.shtml" target="_blank" rel="nofollow">人民论坛投稿</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/1505272/index.shtml" target="_blank">友情链接</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/181128-1/" target="_blank" rel="nofollow">关于人民论坛杂志社</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/181127/" target="_blank" rel="nofollow">法律顾问</a></li>
+            </ul>
+        </nav>
+        <div class="mar-t-10"></div>
+<div class="f-l mar-l-20">
+    <a href="http://www.rmlt.com.cn/"><img src="http://img.rmlt.com.cn/templates/rmlt2013/css/images/logo-02.png" alt="人民论坛网" width="175" height="75"></a>
+</div>
+<div class="f-r mar-t-10">
+    <p>人民日报社人民论坛杂志社版权所有 Copyright@<script>document.write(new Date().getFullYear())</script>2024 |  违法和不良信息举报电话：<span>010-65367214</span> </p>
+    <p>互联网新闻信息服务许可证号：<a href="http://www.rmlt.com.cn/2015/0429/384607.shtml" target="_blank" rel="nofollow">10120170047</a> | 网络出版服务许可证：<a href="http://www.rmlt.com.cn/2021/1110/631043.shtml" target="_blank" rel="nofollow">(署)网出证(京)字第323号</a> | <a href="https://beian.miit.gov.cn/" target="_blank" rel="nofollow">京ICP备13050492号-1</a> | <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11010502038840" rel="noreferrer" target="_blank">京公网安备11010502038840</a> </p>
+</div>
+    </footer>
+    <!-- end页脚 -->
+
+	<!-- 脚本区域 -->
+	<script type="text/javascript" src="http://img.rmlt.com.cn/js/zeroclipboard/ZeroClipboard.js"></script>
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/article-show.js"></script>
+	<script>
+	$(function() {
+                $(".ico-logo").prev().append($(".ico-logo"));
+		$('.article-content a').each(function(i,a){
+			var $a = $(a);
+			if(!$a.attr('target')) 
+			{
+				$a.attr('target','_blank');
+			}
+		});
+	});
+	</script>
+        <script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+<div id="global-zeroclipboard-html-bridge" class="global-zeroclipboard-container" data-clipboard-ready="false" style="position: absolute; left: -9999px; top: -9999px; width: 15px; height: 15px; z-index: 9999;">      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="global-zeroclipboard-flash-bridge" width="100%" height="100%">         <param name="movie" value="http://img.rmlt.com.cn/js/zeroclipboard/ZeroClipboard.swf?nocache=1731558721785">         <param name="allowScriptAccess" value="alway">         <param name="scale" value="exactfit">         <param name="loop" value="false">         <param name="menu" value="false">         <param name="quality" value="best">         <param name="bgcolor" value="#ffffff">         <param name="wmode" value="transparent">         <param name="flashvars" value="trustedDomain=*">         <embed src="http://img.rmlt.com.cn/js/zeroclipboard/ZeroClipboard.swf?nocache=1731558721785" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="100%" height="100%" name="global-zeroclipboard-flash-bridge" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="trustedDomain=*" scale="exactfit">                </object></div></body></html>

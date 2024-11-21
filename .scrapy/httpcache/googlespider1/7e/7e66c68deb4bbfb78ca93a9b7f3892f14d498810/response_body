@@ -1,0 +1,292 @@
+<!DOCTYPE html><html><head>
+    <title>合成数据在生成式人工智能时代的价值与风险 - 安全内参 | 决策者的网络安全知识库</title>
+    <meta name="keywords" content="大数据,企业安全,政务信息安全,国家安全,大数据安全,最佳安全实践,首席安全官,漏洞,病毒木马蠕虫,勒索软件,安全管理,安全参考,互联网安全内参,securityinsight">
+    <meta name="description" content="合成数据随人工智能技术跌宕演进，随生成式人工智能发展成为产业和政策热点：从价值上说，合成数据有助于突破人类数据限制，在产业中的使用场景、数量占比和实际效果都远超预期。">
+    <meta property="og:url" content="https://www.secrss.com/article/72295">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="合成数据在生成式人工智能时代的价值与风险">
+    <meta property="og:description" content="合成数据随人工智能技术跌宕演进，随生成式人工智能发展成为产业和政策热点：从价值上说，合成数据有助于突破人类数据限制，在产业中的使用场景、数量占比和实际效果都远超预期。">
+    <meta property="og:image" content="https://www.secrss.com/logo.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link id="icon" rel="apple-touch-icon" href="https://www.secrss.com/logo.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.secrss.com/logo.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://www.secrss.com/logo.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.secrss.com/logo.png">
+    <link rel="icon" id="favicon" href="https://www.secrss.com/logo.png" type="image/x-icon">
+    <link href="https://www.secrss.com/bower_components/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://www.secrss.com/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://www.secrss.com/css/navbar-customed.css" rel="stylesheet">
+    <link href="https://www.secrss.com/css/common.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://www.secrss.com/js/layer/theme/default/layer.css?v=3.1.1" id="layuicss-layer"></head>
+<body>
+<header class="header">
+    <nav class="navbar navbar-customed navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://www.secrss.com" title="首页">
+                    <div class="logo" style="width: 147px">
+                        <img src="https://www.secrss.com/logo_lg.png" alt="logo" style="height: 40px;">
+                    </div>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" style="width: 1080px;" id="navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="https://www.secrss.com"><span>首页</span></a>
+                    </li>
+                                        <li class="dropdown">
+                                                <a href="https://www.secrss.com/articles?tag=产业趋势"><span>产业趋势</span></a>
+                                                                    </li>
+                                        <li class="dropdown">
+                                                <a href="https://www.secrss.com/articles?tag=专家观察"><span>专家观察</span></a>
+                                                                    </li>
+                                        <li class="dropdown">
+                                                <a href="https://www.secrss.com/articles?tag=CISO洞察"><span>CISO洞察</span></a>
+                                                                    </li>
+                                        <li class="dropdown">
+                                                <a href="https://www.secrss.com/articles?tag=决策研究"><span>决策研究</span></a>
+                                                                    </li>
+                                    </ul>
+                <ul class="nav navbar-nav navbar-right">
+                                        <li><a href="https://www.secrss.com/login">登录/注册</a></li>
+                                        <!-- <li class="download-app"><a href="https://www.secrss.com/app"><span class="fa fa-mobile fa-2x"></span><span>APP下载</span></a> -->
+                    
+
+                    <li>
+
+                        <form class="navbar-form navbar-right" action="https://www.secrss.com/search">
+                            <div class="form-group form-group-sm search-bar">
+                                <input name="keywords" type="text" class="form-control" placeholder="搜索" required="">
+                                <button class="btn btn-sm search-btn" type="submit"><span class="fa fa-search"></span></button>
+                            </div>
+                        </form>
+
+                    </li>
+
+                </ul>
+                
+                    
+                        
+                        
+                    
+                
+            </div>
+        </div>
+    </nav>
+</header>
+    <section class="container main-container" style="min-height: 568px;">
+        <div class="row article-row">
+            <article class="article">
+                <h1>
+                    合成数据在生成式人工智能时代的价值与风险
+                </h1>
+                <div class="info text-info">
+                    <div class="meta">
+                        <div class="meta-left">
+                            <input type="hidden" name="_token" value="WEFcfFv8ouN91Uron2L2zBfBWjGqBYt7NaqN9gc7">
+                                                            <span class="tag"><a href="https://www.secrss.com/articles?tag=大数据" target="_blank">大数据</a></span>
+                                                        <span class="author"><a target="_blank" style="color: #999" href="https://www.secrss.com/articles?author=阿里研究院">阿里研究院</a></span>
+                            <span class="time">2024-11-12</span>
+                        </div>
+                        <div class="meta-right">
+                                                            <a href="https://www.secrss.com/login" title="登录后才可以收藏，请先登录" style="padding-right: 10px"><i class="fa fa-heart-o" style="color: #bbb"></i></a>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="summary">
+                    合成数据随人工智能技术跌宕演进，随生成式人工智能发展成为产业和政策热点：从价值上说，合成数据有助于突破人类数据限制，在产业中的使用场景、数量占比和实际效果都远超预期。
+                </div>
+                                <div class="article-body">
+                    <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p><strong>导语：</strong></p><p>合成数据随人工智能技术跌宕演进，随生成式人工智能发展成为产业和政策热点：从价值上说，合成数据有助于突破人类数据限制，在产业中的使用场景、数量占比和实际效果都远超预期。从安全上说，合成数据并非“超级智能”逃逸的助力，不会引发新的安全问题，反而是人类控制风险的抓手。从产业发展说，合成数据难以“独自成席”，对其市场规模和催生的创新企业不适合做过高预期。但合成数据是一个合适切口，理解大模型对数据要素价值发挥机制的整体改变，也是一个契机，思考数据相应政策体系如何顺应极速发展的前沿科技。（袁媛 王峥 傅宏宇）</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p><strong>一、合成数据发展历程回顾</strong></p><p><strong></strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p><strong></strong></p><p></p><p></p><p><strong>合成数据</strong>（Synthetic Data）并没有准确定义，一般指通过计算机程序或者数学模型生成的数据集，<strong>不直接来源于实际观察或测量，但能够反映真实世界的统计特征或者运行规律，被称为真实数据的“替身演员”。</strong></p><p>早在20世纪末，合成数据就开始被应用于统计调查、工业仿真或者科学研究等真实数据难以获取的领域，生成方式只有相对简单的随机数、正态分布、机理仿真等。2010到2022年左右，随着人工智能的技术发展，特别是生成对抗网络（GANs）的提出，合成数据的格式扩展到语音、图像和视频，并广泛应用于图像识别、自动驾驶、生物医药等多个领域，尤其是辅助生成Corner Case数据，即在自然世界很少发生，但可能对系统产生重大影响的情况。例如在天气预测中的极端天气（暴雪、沙尘暴），自动驾驶中的非常规交通行为（行人突然横穿马路）等。反映这些情况的真实数据难以获取，但对模型的训练和验证至关重要。与此同时，随着个人隐私问题的日益凸显和数据安全法规的不断完善，人工智能开始逐渐避免直接使用与个人相关的数据，合成数据成为重要替代方案。例如，在生物医药领域，通过对患者真实数据进行脱敏处理，利用生成对抗网络（GANs）生成的模拟数据，可以有效反映患者在病理、药理或基因方面的统计特征。</p><p>2022年之后，随着生成式人工智能的极速发展，合成数据才真正“出圈”并引起政策关注：<strong>一是来自于媒体对人类面临“数据枯竭”的报道，二是来自于合成数据可能引发系统崩溃、或是用于超级智能（Super Intelligence）研发的猜测，引发安全机制的顾虑，三是随着Hazy等初创企业迅速成长，带来合成数据是否能成为新兴产业的期待。</strong>为科学回应业界的顾虑和期待，有必要进行对于合成数据在生成式人工智能领域的应用场景和产业形态进行完整解析。</p><p></p><p></p><p></p><p></p><p></p><p><strong>二、合成数据在生成式人工智能时代的形态与价值</strong></p><p><strong></strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>根据研究机构Epoch AI的报告[1]，互联网上的所有高质量文本数据或将被耗尽，这份报告跟国内中文高质量数据不足的问题掺杂，引发大模型训练数据是否再次被“卡脖子”的忧虑。2024年以来，中美基础模型陆续升级发布，<strong>对数据耗尽的担忧并未成真，合成数据在基础模型的训练中大比例高效率使用，大幅度提升模型复杂推理、领域知识理解、空间理解和动作能力。</strong></p><p></p><p></p><p></p><p></p><p></p><p><strong>（一）对真实数据进行“填空补充”，合成数据支持模型复杂推理</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>复杂推理被认为是模型的“北极星能力”，即能够分解问题并逐步求解、能够从多个信息源中提取和整合相关知识、能够进行因果关系分析和逻辑推理。在实际训练中，采用<strong>思维链（CoT）合成数据补齐推理链路</strong>。例如，数学语料通常是一组组问题和答案，但没有分析和解答过程，可以利用COT能力强的模型补齐解题步骤、每步都有对应的思考和行为，最终得到解题结果。把“问题—答案”的语料，“填空”形成“问题—思考步骤—答案”的合成数据进行训练，模型在遇到复杂问题时，就也能分解步骤，逐步解答。</p><p></p><p></p><p></p><p></p><p></p><p><strong>（二）对真实数据进行“提炼拼装”，合成数据帮助模型掌握领域知识</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>领域里的专业理解是基础模型在产业中实际应用的最大门槛。各行业都在发展过程中沉淀了大量的运行数据、科研论文、工作文档、图片影像，在这些原始数据中沉淀了宝贵的领域知识，但原始数据模型无法直接学习。例如，在电商领域，有商品的文字描述、展示图片、购买记录，在科研领域，有论文文章、论证公式、实验图表，在工业领域，有设备的运行时序数据、性能状态、结构图纸。利用大模型的理解能力，可以将不同格式的数据提炼成描述文字，这在业内被称为“Data to Caption”。例如，根据设备明细数据总结产线的运行状态、理解产品图片并生成质量描述，把“生数据”做成“熟知识”，转化为模型可以学习或利用的问答对，补足领域知识缺陷。</p><p></p><p></p><p></p><p></p><p></p><p><strong>（三）对真实数据进行“扩展放大”，合成数据帮助模型增强空间理解和动作能力</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>生成式人工智能没有实体形态，只能进行语言响应，具身智能可以有机器实体，也能进行动作反应。但具身智能的训练难点在于极度缺乏训练数据，根据研究机构Coatue的最新报告[2]，语言模型的数据集最大约15万亿词元(Tokens)，图片模型有60亿图文配对数据，而具身智能只有240万个数据片段。采集真实数据，需要搭建各种工作生活场景，耗时长成本高，使得技术研发速度严重滞后。现有的创新方式是通过人类佩戴头显等智能设备，采集人类真实运动数据用模拟框架做场景扩展，再用仿真工具做动作放大，1次人类真实动作可以扩大到1000条量级的训练数据。这样可以低成本解决具身智能的数据荒，已经在产业中广泛使用。</p><p></p><p></p><p></p><p></p><p></p><p><strong>三、合成数据在生成式人工智能时代的风险与安全机制</strong></p><p><strong></strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p><strong>(一) 合成数据的系统安全风险可以通过数据治理防范</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>近期，Nature上的一篇论文[3]提到“从其他模型生成的数据中学习会导致模型崩溃”。文中随后解释了影响系统安全的原因并不在于合成数据本身，而是因为<strong>不加筛选的使用</strong>(indiscriminate use)，对训练数据总体质量带来的负面影响。不管数据“出身”是真实还是合成，在质量出现问题时就会引起模型性能下降或者崩溃。合成数据的生成过程可能引入人类理解的偏差，并因为模型能力可以批量生产合成数据，从而放大偏差。因此，<strong>合成数据用于模型训练之前需要跟真实数据一样经过质量筛查和治理动作。</strong>此外，训练数据的特征分布非常重要，跟真实世界的构成越贴近，模型训练效果就越好。如果合成数据大比例使用，可能会引发跟真实分布不符，或造成过拟合。<strong>在产业中，技术人员会小心设计数据配比，或者有意识的把真实数据和合成数据掺杂使用。</strong>各家技术能力的差别，就在于对数据质量治理、不同类型混合配比等环节，对于数据的理解和把握。也就是说，<strong>合成数据引发的系统安全问题可以通过数据质量治理和数据类型配比来防范治理。</strong></p><p></p><p></p><p></p><p></p><p></p><p><strong>（二）合成数据的数据安全问题可以用现行法规管理</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>合成数据尽管是基于程序或模型生成，但仍然要能反应真实世界的特征和规律：例如前文所述基于人类真实动作生成的仿真数据，仍然能体现出不同空间条件下的人类动作特点，才能有效用于具身智能训练。如果合成数据仍然反映真实主体的权利或者要求承担相应的安全责任，应该采用相应的数据安全制度进行规制。以人类仿真数据为例，如果合成后的数据能够推定出特定自然人，可以按个人信息或者人身权利保护的逻辑进行治理；如果动作仿真数据体现企业的生产流程和技术细节，即按企业商秘进行保护；如果采集的动作反映关键基础设施特征，将按重要数据进行评估和审查。<strong>总体来说，合成数据并没有引入新的风险类项，现行的数据安全和模型语料安全要求的法规、标准和工具仍然适用。</strong></p><p></p><p></p><p></p><p></p><p></p><p><strong>（三）合成数据用于模型对齐和自博弈训练有效且可控</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>在模型对齐阶段合成数据标注的占比正在快速增加，能大幅提升训练效率，理论上以能力较弱的模型训练出能力更强的模型（Weak to Strong），被认为是当前技术向通用人工智能演进的必经突破口。例如，Nvidia披露了Nemotron-4模型的训练过程，利用奖励模型产生的合成数据占比在对齐阶段达到了98%。同时在Llama 3的技术报告中提到利用合成数据实现自博弈强化学习（Self-Play RL），即让大语言模型对自己生成的回复打分，并根据打分形成新的训练数据，再继续训练模型。</p><p></p><p>模型合成的数据被用于模型自身训练并提高模型能力，也引发了模型能力过强、脱离人类控制的担忧，通过人类的参与和控制（Human in/over the loop）可以控制模型逃逸或者失控风险。对此，头部厂商不断提高合成数据技术的透明度，例如OpenAI向用户展示思维链CoT输出总结，让模型合成数据并用于模型训练的过程受到人类监督和控制。与此同时，头部厂商正在利用合成数据监控模型能力、管控模型风险。例如，OpenAI最新发布的o1大模型在复杂推理能力上显著提升，研发团队相应设置了对思维链（CoT）输出结果的欺骗性检测，该方案利用ChatGPT合成提问数据，评估并监测o1模型的回复是否有意或无意地忽略重点事实和人类要求。<strong>两项测试结果显示，通过有效的技术透明可以实现模型风险可控，合成数据并未引发模型“超级智能”的逃逸，而合成数据在安全方面的应用可以成为管控模型风险、保持模型可控性的一项抓手。</strong></p><p></p><p></p><p></p><p></p><p></p><p><strong>四、合成数据的产业特点及发展展望</strong></p><p><strong></strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>巨大的模型训练需求和演进动力催生了Nvidia作为算力核心器件企业的成功，训练数据需求是否会拉动数据产业规模成长，并孵化多家创新企业？近期政策部门都期待合成数据能带来数据产业的突破。</p><p></p><p></p><p></p><p></p><p></p><p><strong>（一）合成数据催生创新企业但未见规模业态</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>在生产式人工智能的极速发展推进下，市场涌现了众多的合成数据企业。包括新诞生的为模型厂商提供合成数据标注服务的Unstructured.io，帮助行业客户将存量数据加工为训练语料的Hazy，为具身智能训练搭建仿真模拟平台的Synthesis AI和光轮智能，还有传统人工数据标准服务转型升级的海天瑞声等。</p><p></p><p>但根据市场三方报告[4]，2023年全球提供合成数据产品和服务的市场规模为3亿美金，即使按照CAGR 45.7%的速度高速增长，2028年的全球市场规模也只有21亿美金。以典型初创企业Hazy来看，2024年预期收入有100%增长，总额约为300万美金，按其A轮融资规模900万美金来看，成功增长后市值或许在3000-4000万美金左右。以我国上市公司海天瑞声来看，2024年训练数据收入或在2500万美金左右，包含大量传统人工标注服务。从市场规模可以看到整体产业规模整体有限，从企业规模来看，按业内10亿年美金经营收入的心理阈值，也不会出现让人瞩目的创新独角兽。</p><p></p><p></p><p></p><p></p><p></p><p><strong>（二）合成数据的供需都具有高度动态性，难以形成专业分工</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>一项产品或服务能够独立成为产业，需要产业链的上下游推动专业化分工，同时产品或服务能够以标准化、可复用的方式对外提供。专业化分工通过发挥比较优势、交易流通提高资源配置效率，带来规模效应。<strong>合成数据产于模型，也用于模型，当前和今后一段时间内都在大模型厂商和科技企业内部“自循环”，难以从技术链路和供需链条中剥离出来规模化成长。</strong></p><p></p><p>如前文所述，不管是关键能力突破、还是领域知识学习、抑或是帮助具身智能“无中生有”突破数据荒地，合成数据的需求类型和数量都来自于模型，同时模型能力也决定了合成数据的供给，能否做好语料的加工、生成和甄别。从2022年到2023年，合成数据的需求已经从隐私保护快速过渡到模型生成内容的复用，而到了2024年，合成数据的使用类型可以总结，但使用场景已经无法穷举，而且还在快速变化，即使是核心的模型研发人员也不能确认现在的合成数据需求会持续多久。合成数据的需求量级和技术路线都在动态演化，难以精准前置定义需求给到供给方，需求方通常“自产自用”以应对技术的快速迭代。在这种不稳定的供求关系下，难以形成规模化、可持续的交易市场。</p><p></p><p></p><p></p><p></p><p></p><p><strong>（三）合成数据承载大量企业商业秘密，难以流通复用形成规模市场</strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>作为模型或者具身智能训练语料，合成数据生成的格式、质量标准，以及与真实数据的混合配比，都需要训练耗费大量的工程成本进行试错，是不同模型能力差别的重要原因。<strong>需要什么合成数据，能够合成什么数据，是对模型训练和应用的方法掌握和工程能力的综合体现，也是技术厂商间竞争的核心壁垒，必然是市场上的“非卖品”；</strong>作为行业语料，企业用户将现存数据进行深度加工，<strong>但高度重视数据中包含的行业knowhow和反应的企业内部经营状态，较多调用模型接口进行自处理，或者交给合成数据提供商进行“来料加工”，加工成品不会在市场上流通复用。</strong>在研究调研中，我们发现能够在市场中作为语料进行流通交易的合成数据集，都已经落后于业界最新水平，而且供方也相对难以证明在版权、隐私方向完全合规。同时，合成数据在也会带来传统人工标准服务的升级迭代，例如数据标注龙头企业Scale AI正在从人力标注为主向合成数据的AI标注转型。</p><p></p><p>总体来看，合成数据的技术发展具有动态性、同时承载了大量企业商秘，合成数据用于模型研发和应用，其价值最终体现在模型的关键能力指标或其应用场景的表现上，难以单独计算，不会形成规模市场。此外，在市场上存在的合成数据集，由于难以判断数据来源的合法性，交易链条上的合规义务权责界分较为复杂，从而限制合成数据的流通；而合成数据发展必然伴随着对人工标注服务的替代。<strong>三者共同决定了合成数据的产业会长期存在、快速变化、但整体规模有限。</strong></p><p></p><p></p><p></p><p></p><p></p><p><strong>五、由合成数据引发的思考</strong></p><p><strong></strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>合成数据跟随人工智能技术快速演进，2022年以来随生成式人工智能发展成为产业和政策热点。<strong>从价值上说</strong>，合成数据突破人类数据的既有限制，在模型训练和应用中的使用场景、数量占比和实际效果都远超预期。<strong>从安全上说</strong>，合成数据不会带来新的安全问题，也不是“超级智能”逃逸的助力，反而是人类控制风险的抓手。<strong>从产业发展说</strong>，合成数据难以“独自成席”，对其市场规模和催生的创新企业不适合做过高预期。</p><p></p><p><strong>合成数据是一个合适的窗口，从中观察到大模型改变了数据的生成方式，更改变了数据的使用方法</strong>：过去数据的开发利用，需要分析人员对行业/业务的专业理解，需要开发人员对数据口径的统一定义、对数据接口和链路的开发维护，为数据的安全流通还需要隐私计算等专有设施。但在近期大模型训练和应用中，我们充分体会到，<strong>大模型是数据要素价值发挥的最短路径</strong>：利用模型对行业数据的“提炼总结”，可以降低开发行业应用的专业门槛，可以简化大量数据开发和维护工作，同时合成数据也能比较好的适应安全合规要求，数据交互不再强依赖隐私计算这样的高成本技术设施。此外，合成数据的价值利用特点使其难以从技术链路和供需链条中单独剥离，因此要<strong>以推动大模型研发应用，扩大人工智能可利用数据供给的整体视角看待合成数据的发展。</strong></p><p></p><p>基于合成数据的价值路径和风险特征，我们可以理解大模型对数据要素价值发挥机制的整体改变。同时，我们也可以思考数据相应政策体系如何顺应极速发展的前沿科技：</p><p></p><p><strong>第一，合成数据不是合适的政策铆点，抓好大模型自然能促进合成数据；</strong></p><p><strong></strong></p><p></p><p></p><p><strong>第二，合成数据不需另起炉灶做安全治理和测试标准，现有数据安全和科技伦理体系下能够应对风险；</strong></p><p><strong></strong></p><p></p><p></p><p><strong>第三，合成数据体现了大模型带来的新型数据价值生成路径，数据相应政策体系在落地时需要纳入考虑，制度惯性太强将对新业态新技术产生抑制。</strong></p><p></p><p></p><p><strong>参考文献：</strong></p><p>[1] Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data, Epoch AI, 2024/06</p><p>[2] The Path to General-Purpose Robots, Coatue, 2024/07</p><p>[3] AI Models Collapse When Trained on Recursively Generated Data, Nature, 2024/07</p><p>[4] Synthetic Data Generation Market, Markets and Markets, 2024</p><p></p>
+
+                    
+                    <p style="color: #999; font-size: 14px;padding-top: 15px">声明：本文来自阿里研究院，版权归作者所有。文章内容仅代表作者独立观点，不代表安全内参立场，转载目的在于传递更多信息。如有侵权，请联系 anquanneican@163.com。</p>
+                </div>
+                                <div class="tags article-tags">
+                                        <a href="https://www.secrss.com/articles?tag=大数据" class="tag" target="_blank">大数据</a>
+                                    </div>
+                                                <section class="article-list">
+                    <div class="article-list-title">相关资讯</div>
+                    <ul class="list" id="article-list">
+                        <li class="list-item">
+    <div class="info text-info">
+        <h2 class="title">
+            <a target="_blank" href="https://www.secrss.com/articles/72265">
+                津沪闽京自贸区数据跨境流动清单管理制度研究
+            </a>
+        </h2>
+        <div class="meta">
+            <div class="meta-left">
+                                    <span class="tag"><a target="_blank" href="https://www.secrss.com/articles?tag=大数据">大数据</a></span>
+                                <span class="author"><a target="_blank" style="color: #999" href="https://www.secrss.com/articles?author=网安寻路人">网安寻路人</a></span>
+                <span class="time">2024-11-11</span>
+            </div>
+        </div>
+        <p class="intro hidden-xs">
+            <a target="_blank" href="https://www.secrss.com/articles/72265">
+                四个样本的分析。
+            </a>
+        </p>
+    </div>
+</li><li class="list-item">
+    <div class="info text-info">
+        <h2 class="title">
+            <a target="_blank" href="https://www.secrss.com/articles/71851">
+                开源情报显威！利用社交APP实时跟踪美俄法等国总统行踪
+            </a>
+        </h2>
+        <div class="meta">
+            <div class="meta-left">
+                                    <span class="tag"><a target="_blank" href="https://www.secrss.com/articles?tag=大数据">大数据</a></span>
+                                <span class="author"><a target="_blank" style="color: #999" href="https://www.secrss.com/articles?author=安全内参">安全内参</a></span>
+                <span class="time">2024-10-30</span>
+            </div>
+        </div>
+        <p class="intro hidden-xs">
+            <a target="_blank" href="https://www.secrss.com/articles/71851">
+                多国总统安保人员热衷分享位置，可用于跟踪敏感行程，但官方称不存在风险。
+            </a>
+        </p>
+    </div>
+</li><li class="list-item">
+    <div class="info text-info">
+        <h2 class="title">
+            <a target="_blank" href="https://www.secrss.com/articles/71838">
+                工信部、财政部、国家数据局联合部署建设新材料大数据中心
+            </a>
+        </h2>
+        <div class="meta">
+            <div class="meta-left">
+                                    <span class="tag"><a target="_blank" href="https://www.secrss.com/articles?tag=制造业">制造业</a></span>
+                                <span class="author"><a target="_blank" style="color: #999" href="https://www.secrss.com/articles?author=工信微报">工信微报</a></span>
+                <span class="time">2024-10-30</span>
+            </div>
+        </div>
+        <p class="intro hidden-xs">
+            <a target="_blank" href="https://www.secrss.com/articles/71838">
+                充分发挥大数据、人工智能对新材料产业的技术支撑作用，培育材料研发与应用的全新发展模式。
+            </a>
+        </p>
+    </div>
+</li>                    </ul>
+                </section>
+                
+                <!-- <section class="comments">
+                    <h3 class="comments-title text-center">评论（0）</h3>
+                    <div class="comment-box">
+                                                    <div class="text-center comment-login-box">
+                            登录后才能发表评论，请先 <a class="login-btn" href="https://www.secrss.com/login">登录 / 注册</a>
+                            </div>
+                                            </div>
+                                    </section> -->
+
+
+            </article>
+        </div>
+    </section>
+<footer class="footer">
+    <ul class="links">
+                        <li><a href="https://www.secrss.com/info/about">关于我们</a></li>
+                <li><a href="https://www.secrss.com/info/contactus">联系我们</a></li>
+                <li><a href="https://www.secrss.com/info/agreement">用户协议</a></li>
+                <li><a href="https://www.secrss.com/info/privacy">隐私政策</a></li>
+                        <!-- <li><a href="https://www.secrss.com/app">移动客户端</a></li> -->
+    </ul>
+    <p class="meta"><span>安全内参 © 2024 <a href="https://beian.miit.gov.cn" style="color: #707682;" target="_blank">沪ICP备19008222号-1</a></span></p>
+</footer>
+<div class="right-tools hidden-xs">
+    <a class="qrcode">
+        <i class="fa fa-qrcode"></i>
+        <div class="qrcode-box">
+            <img src="https://www.secrss.com/wx_qrcode.jpg" width="100">
+            <p class="text-center">微信公众号</p>
+        </div>
+    </a>
+    <a class="gototop" style="display: none;">
+        <i class="fa fa-angle-double-up"></i>
+        <div class="gototop-box">回到顶部</div>
+    </a>
+</div>
+<script src="https://hm.baidu.com/hm.js?75bd0223beb9520a49897a3bfbefa004"></script><script src="https://www.secrss.com/js/app.js"></script>
+<script src="https://www.secrss.com/bower_components/jquery_lazyload/jquery.lazyload.js"></script>
+<script src="https://www.secrss.com/js/common.js"></script>
+<script>
+    $("img.lazyload").lazyload();
+</script>
+<script src="https://www.secrss.com/js/layer/layer.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+<script>
+    $(".article-body a").attr("target", "_blank");
+    /* 评论 */
+    // $(".comment-btn").click(function(){
+    //     var content = $("#comment-content").val();
+    //     if(content=="") {
+    //         $("#comment-content").focus();
+    //         return;
+    //     }
+
+    //     var article_id = $(this).attr("data-article_id");
+    //     $.post('/article_comments', {"content":content, "article_id":article_id, "_token": $("input[name=_token]").val()}, function(re){
+    //         if(re) {
+    //             layer.msg(re.msg);
+    //             $("#comment-content").val("");
+    //         }
+    //     });
+    // });
+    /*收藏*/
+    $("#star").click(function () {
+        var article_id = $(this).attr("data-article_id");
+        $.post('/article_stars', {"article_id":article_id, "_token": $("input[name=_token]").val()}, function(re){
+            if(re) {
+                layer.msg(re.msg);
+                window.location = location.href;
+            }
+        });
+    });
+
+    /*取消收藏*/
+    $("#unstar").click(function () {
+        var article_id = $(this).attr("data-article_id");
+        $.post('/article_unstars', {"article_id":article_id, "_token": $("input[name=_token]").val()}, function(re){
+            if(re) {
+                layer.msg(re.msg);
+                window.location = location.href;
+            }
+        });
+    });
+
+    /* 微信分享 */
+    wx.config({"debug":false,"beta":false,"jsApiList":["onMenuShareTimeline","onMenuShareAppMessage","onMenuShareQQ","onMenuShareWeibo","onMenuShareQZone"],"appId":"","nonceStr":"","timestamp":"","url":"","signature":""});
+    wx.ready(function(){
+        var data = {
+            "imgUrl": "https://s.secrss.com/anquanneican/aba3e5a79903c0430b7454eec20ad6e6.jpg!m",
+            "link": "https://www.secrss.com/articles/72295",
+            "desc": "合成数据随人工智能技术跌宕演进，随生成式人工智能发展成为产业和政策热点：从价值上说，合成数据有助于突破人类数据限制，在产业中的使用场景、数量占比和实际效果都远超预期。",
+            "title": "合成数据在生成式人工智能时代的价值与风险"
+        };
+        wx.onMenuShareTimeline(data);
+        wx.onMenuShareAppMessage(data);
+        wx.onMenuShareQQ(data);
+        wx.onMenuShareWeibo(data);
+        wx.onMenuShareQZone(data);
+    });
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?75bd0223beb9520a49897a3bfbefa004";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+</body></html>

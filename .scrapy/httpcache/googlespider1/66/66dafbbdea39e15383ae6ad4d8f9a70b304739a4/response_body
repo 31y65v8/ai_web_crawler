@@ -1,0 +1,618 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="utf-8"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<!-- 天润统计代码共两部分，第1部分开始 -->
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="source" content="中国青年报">
+<meta name="PageNumber" content="08">
+<meta name="reporter" content="李新玲"> 
+<meta name="catalogs" content="zqb_文化阅读">
+<meta name="contentid" content="">
+<meta name="author" content="本报记者">
+<meta name="editor" content="李新玲"> 
+<meta name="publishdate" content="2018年04月03日"> 
+<meta name="partner" content="6">
+<!-- 天润统计代码共两部分，第1部分结束 -->
+<meta http-equiv="x-ua-compatible" content="ie=7">
+<meta http-equiv="content-language" content="utf-8">
+<meta name="robots" content="all">
+<meta name="description" content="《人工智能简史》：把AI的历史说明白">
+<meta name="keywords" content="《人工智能简史》：把AI的历史说明白-中国青年报">
+<link rel="stylesheet" href="https://news.cyol.com/themes/cyol/assets/css/baobao/aliplayer-min2.9.161.css">
+<script type="text/javascript" src="https://news.cyol.com/themes/cyol/assets/js/baobao/aliplayer-min2.9.16.js"></script> 
+<link href="../../../tplimg/mulu_cont.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all">
+<title>《人工智能简史》：把AI的历史说明白</title>
+<!--[if !IE]><!-->
+<!--<![endif]-->
+<!--[if IE 7]>
+<link href="../../../tplimg/hackie7.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+<![endif]-->
+<script language="Javascript" src="../../../tplimg/prototype_in.js"></script>
+<script language="Javascript" src="../../../tplimg/mp_in.js"></script>
+<script language="Javascript" src="../../../tplimg/calendar_in.js"></script>
+<script language="Javascript" src="../../../tplimg/new_in.js"></script>
+<!--SCRIPT language=Javascript src="../../../tplimg/range.js"></SCRIPT-->
+<script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+function GetObj(objName){
+	if(document.getElementById){
+		return eval('document.getElementById("' + objName + '")');
+	}else{
+		return eval('document.all.' + objName);
+	}
+}
+function Show_Sub(id_num,num){ //舌签功能
+	for(var i = 0;i <= 9;i++){
+		if(GetObj("S_Menu_" + id_num + i)){GetObj("S_Menu_" + id_num + i).className = '';}
+		if(GetObj("S_Cont_" + id_num + i)){GetObj("S_Cont_" + id_num + i).style.display = 'none';}
+	}
+	if(GetObj("S_Menu_" + id_num + num)){GetObj("S_Menu_" + id_num + num).className = 'selectd';}
+	if(GetObj("S_Cont_" + id_num + num)){GetObj("S_Cont_" + id_num + num).style.display = 'block';}
+}
+
+//--><!]]>
+</script>
+<style>
+a.ared:link {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+a.ared:visited {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+a.ared:hover {
+	font-size: 12px;
+	color: #006699;
+	text-decoration: none;
+}
+
+.header-app {
+    width: 110px;
+    height: 140px;
+	text-align: center;
+    position: fixed;
+    left: 50%;
+    margin-left: 520px;
+    z-index: 999;
+    top: 220px;
+	background:#ffebdc;
+	}
+
+.header-app p {background:#f66800; width:100%; display:block; height:30px; font-size:16px; font-family:Microsoft Yahei; color:#fff; line-height:30px;}
+.header-app img {width:97px; height:97px; padding-top:5px;}
+
+</style>
+<script type="text/javascript">
+function nTabs(tabObj,obj){
+	var tabList = document.getElementById(tabObj).getElementsByTagName("li");
+	for(i=0; i <tabList.length; i++)
+	{
+		if (tabList[i].id == obj.id)
+		{
+			document.getElementById(tabObj+"_Title"+i).className = "active";
+    		document.getElementById(tabObj+"_Content"+i).style.display = "block";
+		}else{
+			document.getElementById(tabObj+"_Title"+i).className = "normal";
+			document.getElementById(tabObj+"_Content"+i).style.display = "none";
+		}
+	}
+}
+function CopyAll()
+{
+	var obj = document.getElementById("articleContent");
+	if(obj!=null){
+		var content = obj.innerHTML;
+		window.clipboardData.setData("Text",content.substring(content.indexOf("<FOUNDER-CONTENT>")+18,content.indexOf("</FOUNDER-CONTENT>")));		
+		alert("复制成功");
+	}		
+}
+function zoomIn() {
+ newZoom= parseInt(ozoom.style.zoom)+10+'%'
+ ozoom.style.zoom =newZoom;
+ } 
+function zoomOut() {
+ newZoom= parseInt(ozoom.style.zoom)-10+'%'
+ ozoom.style.zoom =newZoom;
+ } 
+</script>
+<script type="text/javascript">
+ var focus_width=260;
+ var focus_height=180;
+ var text_height=20;
+ var swf_height = focus_height+text_height;
+ var pics ="";
+ var links ="";
+ var texts ="";
+ var resCount=0;
+ function showArtPics()
+ {
+ if(resCount>0)
+ {
+ pics = pics.substring(0, pics.length-1);
+ links = links.substring(0, links.length-1);
+ texts = texts.substring(0, texts.length-1);
+ var content = "";
+ content += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ focus_width +'" height="'+ swf_height +'">';
+ content += '<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="../../../tplimg/picflash.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff">';
+ content += '<param name="menu" value="false"/><param name="wmode" value="opaque"/>';
+ content += '<param name="FlashVars" value="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'">';
+ content += '<embed src="../../../tplimg/picflash.swf" wmode="opaque" FlashVars="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'" menu="false" bgcolor="#ffffff" quality="high" width="'+ focus_width +'" height="'+ focus_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />';
+ content += '<\/object>';
+ document.getElementById("showArtPicsDiv").innerHTML = content;
+ }
+}
+</script>
+<!--script src="http://iphone.wo.com.cn/top/top_jf.js"></script-->
+<!--top-->
+ <script type="text/javascript">
+  window.onload=function(){
+   function adsorption(){
+    var headerWrap=document.getElementById('header-wrap');
+    var scrollTop=0;
+    window.onscroll=function(){
+     scrollTop=document.body.scrollTop||document.documentElement.scrollTop;
+     if(scrollTop>100){
+      headerWrap.className='fixed';
+     }else{
+      headerWrap.className='header-wrap';
+     }
+    }
+   }
+   adsorption();
+  }
+ </script>
+ <script>
+	var emb = document.getElementById("videlInfo");
+	if(emb!=null){
+		var src_emb = emb.src;
+		src_emb =src_emb.substring(7);
+		src_emb=src_emb.replace(new RegExp("http:/","gm"),"http://");
+		emb.src = "http://"+src_emb;
+	}
+</script> 
+<!--    tu wen hun pai-->
+
+
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=480986"></script><script type="text/javascript" src="//d.webterren.com/common.js?z=21&amp;t=202304110258"></script><script type="text/javascript" src="//d.webterren.com/webdig21.js?z=21&amp;t=202304110258"></script><script type="text/javascript" src="//d.webterren.com/rec.js?z=21&amp;t=202304110258"></script><link rel="stylesheet" href="http://bdimg.share.baidu.com/static/api/css/share_style0_16.css?v=8105b07e.css"></head>
+<body onload="initialize();initMPPage();" style="font-family:宋体"><span id="leveldiv" title="点击查看内容" style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; Z-INDEX: 100; LEFT: 233px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 210px; CURSOR: hand; POSITION: absolute; TOP: 123px; HEIGHT: 34px; BORDER-RIGHT-WIDTH: 0px"></span>
+
+<!--app二维码-->
+<div class="header-app">
+<p>中青报客户端</p>
+<img src="http://img.cyol.com/tplimg/home/2015lh_code2.gif" data-bd-imgshare-binded="1">
+</div>
+
+<!--头部-->
+<div class="head"> </div>
+<!--菜单-->
+<div class="menu"> </div>
+<!--内容部分-->
+<div class="content">
+  <!--左侧版面图部分-->
+  <div class="left_c">
+    <div class="ban">
+      <div>
+        <map name="PagePicMap"><area coords="2,28,264,28,264,352,2,352" shape="polygon" href="nw.D110000zgqnb_20180403_1-08.htm"><area coords="273,32,388,32,388,338,273,338" shape="polygon" href="./nw.D110000zgqnb_20180403_2-08.htm"><area coords="2,361,264,361,264,576,2,576" shape="polygon" href="nw.D110000zgqnb_20180403_3-08.htm"><area coords="277,347,389,347,389,576,277,576" shape="polygon" href="nw.D110000zgqnb_20180403_4-08.htm"></map><img width="390" src="../../../images/2018-04/03/08/ZQB08B20180403C_b.jpg" border="0" usemap="#PagePicMap" data-bd-imgshare-binded="1"></div>
+    </div>
+    <div class="ban_t">
+      <div>
+        <ul>
+          <li>
+            08版:文化阅读
+            &nbsp;&nbsp;
+            <a class="preart" href="nbs.D110000zgqnb_07.htm"><img src="http://zqb.cyol.com/tplimg/left_ico.gif" border="0" data-bd-imgshare-binded="1"> 上一版</a>&nbsp;&nbsp;<a class="preart" href="nbs.D110000zgqnb_09.htm">下一版 <img src="http://zqb.cyol.com/tplimg/right_ico.gif" border="0" data-bd-imgshare-binded="1"></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+	<table width="300" border="0" cellspacing="0" cellpadding="0" height="10">
+  <tbody><tr>
+    <td></td>
+  </tr>
+</tbody></table>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#F5F5F5" style="margin-top:10px">
+      <tbody><tr>
+        <td height="25"><strong>&nbsp;<a href="http://news.cyol.com/gb/articles/2023-03/17/content_qbaVRRUpdJ.html">中青在线版权与免责声明</a></strong></td>
+      </tr>
+    </tbody></table>
+    <table width="420" border="0" cellpadding="0" cellspacing="0" bgcolor="#F5F5F5" class="tablemt">
+      <tbody><tr>
+        <td width="210" align="center" style="padding:10px; border:1px #CCCCCC solid"><p><strong>中国青年报手机版</strong></p>
+          <p><img src="../../../tplimg/zqbsjewm.jpg" alt="中国青年报手机版二维码" width="130" height="130" data-bd-imgshare-binded="1"><br>
+            </p></td>
+        <td width="210" align="center" style="padding:10px; border:1px #CCCCCC solid"><p><strong>中国青年报官方微信</strong></p>
+        <p align="center"><img src="../../../tplimg/erweima.jpg" alt="中国青年报官方微信" width="130" height="130" data-bd-imgshare-binded="1"></p></td>
+      </tr>
+    </tbody></table>
+  </div>
+
+  
+  <!--右侧目录部分-->
+  <div class="right_c">
+    <div style="margin:20px 0 6px 20px; width:140px; float:left">
+2018年04月03日 星期二</div>
+<div style="margin:20px 0 6px 20px; width:70px; float:left"><a href="#" onclick="window.external.addFavorite('http://zqb.cyol.com/','中国青年报')"><img src="../../../tplimg/zqbtop-sc.gif" border="0" data-bd-imgshare-binded="1"></a>
+</div>
+    <div class="head_c"> <a href="http://www.cyol.com"><img src="../../../tplimg/zqb-cyollogo.gif" alt="中青在线" width="109" height="78" border="0" data-bd-imgshare-binded="1"></a></div>
+    <div class="menu_c">&nbsp; 往期回顾 <a onclick="autoShowDate();" style="cursor:hand;" title="鼠标点击，显示日历牌"><img src="../../../tplimg/zqbp-riqi.gif" border="0" alt="" data-bd-imgshare-binded="1"></a>&nbsp;<a href="node_1.htm">新闻列表</a>&nbsp;<a href="nbs.D110000zgqnb_08.htm">返回目录</a>
+	<a href="#" onclick="goPrePeriod()">&lt;&nbsp;上一期</a>&nbsp;<a href="#" onclick="goNextPeriod()">下一期&nbsp;&gt;</a>
+	&nbsp;&nbsp;<span class="zqbx" onmouseover="document.getElementById('rmrbbx').style.display = 'block';" onmouseout="document.getElementById('rmrbbx').style.display = 'none';">
+      <table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+        <tbody><tr>
+          <td width="80" align="center"><font color="#333333">中青报系</font></td>
+          <td><img style="margin-left:10px; " src="../../../tplimg/ico10.gif" border="0" alt="" data-bd-imgshare-binded="1"></td>
+        </tr>
+      </tbody></table>
+      </span>
+	  </div>
+    <!--目录与标题-->
+    <div class="list_t">
+      <div class="text_c">
+        
+<h3></h3>
+<h1>《人工智能简史》：把AI的历史说明白</h1>
+<h2></h2>
+<div class="lai">
+          李新玲　　来源：中国青年报　　（
+          2018年04月03日
+          &nbsp;
+          08
+          版）</div>
+        <div class="c_c BSHARE_POP" id="cont">
+		
+		  <div id="ozoom" style="zoom:100%;" align="left">
+            <div id="showArtPicsDiv" align="center"></div>
+            <script language="javascript">
+							/*	if(picResCount>0){
+									document.getElementById("picres").style.display="block";
+									document.write("<br />");
+								}*/
+ 			  				</script>
+            
+<!--enpcontent--><p>　　当人工智能(AI)成为热词之时，一本《人工智能简史》把人工智能这个物种的家世渊源、名字由来、出身血脉、派系争斗、繁衍进化甚至基因变异等，梳理得清清楚楚。</p>
+<p abs_visibility="true">　　尼克，乌镇智库理事长。留学美国，曾在哈佛和惠普工作。近几年往返中美之间，创业投资。对于《人工智能简史》的写作，尼克的想法很简单：“现在人工智能这么热，需要有本书把发展历史说明白。国内没什么像样的人工智能科普书。”</p>
+<p>　　尼克自认够格写这样一本书，他的老师巴托和师兄萨顿是人工智能领域的大师级人物，他们发明了“强化学习”算法。2016年，AlphaGo战胜人类顶尖围棋手，让所属谷歌的DeepMind团队名声大噪，AlphaGo的核心算法就是强化学习，这个团队创始成员里一半的人都是萨顿的学生。而巴托的老师霍兰德发明了“遗传算法”，是美国第一个计算机科学的博士，他们这一支的师承源自冯诺依曼。尼克开玩笑说“我就是辈分高”。</p>
+<p>　　近两三年，人工智能在我国发展和应用很快，虽然在技术上起引领作用的还是欧美国家，但其中的差距越来越小。尼克的《人工智能简史》几乎涵盖人工智能所有领域：人工智能起源、自动定理证明、神经网络、自然语言处理等，不过尼克强调在每个章节中，也只是挑选了一些典型的主线，并没能全部覆盖。</p>
+<p>　　“历史素有两种写法，以人为主和以事为主。”明显，尼克更趋向于前者。书中有算法原理，也有人与思想传承，更有各种技术派系明争暗斗。他在前言中这样写：“八卦的历史，读者自然喜欢，对作者也有好处，就像一战后英国首相劳合·乔治对他的耶路撒冷总督那样：有争执，咱们政治家才派得上用场，如果他们停下来不打了，你就失业了。”</p>
+<p>　　他说科普有一种写法，用一些貌似通俗的语言去解释复杂的原理，但自己一直不大相信这种方法，无论作者是内行还是科普作家，“压根儿就没见过一本可以把量子力学解释清楚的科普书。即使简单如图灵机，也鲜有适当的普及读物。倒是那些讲历史和八卦的书引人入胜。”</p>
+<p>　　“人工智能”这个词最早是谁提出的，尼克做了详实的考证。目前普遍的说法是，这个词是1956年达特茅斯学院夏季研讨会（人工智能的起源事件）的召集者麦卡锡（John&nbsp;McCarthy）想出来的，其实这是误读。麦卡锡晚年承认这个词最早是从别人那里听来的，但记不清是谁了。后来英国数学家伍德华说他是AI一词的原创者，因为他1956&nbsp;年曾去麻省理工学院访问，与麦卡锡交流过。但麦卡锡在1955年就使用“人工智能”一词了。如今当事人大都已仙逝，此事恐成悬案。</p>
+<p>　　从1956年开始，60多年浩荡中，这个新学科波峰波谷、向前发展，主线旁支交杂，尼克收集了大量第一手的史料，书中时不时就有一位历史主角的轶事，这些轶事不孤立、不单薄，有形象比喻的，有以古喻今的，也有以子之矛攻子之盾的。读这种“夹枪带棒”叙述点评就像在品一道道点心时，不知道下一口是不是甜中带酸。</p>
+<p>　　对于人工智能能否超越人类，一直是这个物种产生后伴随的争论。“奇点临近”——2020年机器的智能达到人类智能，2045年机器智能会超过人的智能，这是让人工智能引起公众广泛关注的一个卖点，与此同时，也造成了公众对人工智能的恐慌与技术崇拜。这种争论最具代表性的要属这一领域的两位元老“斯基”——明斯基和乔姆斯基。明斯基在2012年接受他的学生、预言家、奇点理论炮制者库兹韦尔的采访时说，他相信奇点的到来，可能就在我们的有生之年。尼克对此没有评价，只是客观写道：“明斯基2016年1月24日在波士顿去世，据说为了等奇点，他老人家把自个儿冷冻了。”</p>
+<p>　　对于普通公众，最关心的是人工智能能够做什么，至于技术本身很多人都不甚了解。他在写技术流派发展时，一直在尽力理清各种关联，包括人物之间的学术传承、思想影响、生活影响。</p>
+<p>　　例如，自图灵提出“机器与智能”起，就一直有两派观点：一派认为实现人工智能必须用逻辑和符号系统，这一派看问题是自上向下的；还有一派认为通过仿造大脑就可以达到人工智能，这一派是自底向上的，他们认为如果能造一台机器，模拟大脑中的神经网络，这台机器就有智能了。于是，尼克给前一派归类为“想啥来啥”，后一派称为“吃啥补啥”。两派争斗曾经你死我活，如今以谷歌大脑为代表的“吃啥补啥”派占了上风。</p>
+<p>　　随着数据量的大增、移动终端等生态系统的建立，人工智能产业的发展这几年无比迅猛，资本也随之大量聚集。回顾几十年人工智能几次大起大落，尼克发现每次高潮都是一个旧哲学思想的技术再包装，而每一次的衰败都是源自高潮时期的承诺不能兑现。</p>
+<p>　　“当下人工智能领域的创业，一些和人工智能毫无瓜葛的社会闲杂人员一夜之间都成了AI专家，拿到VC之后再想干啥。”尼克对此深有忧虑。</p>
+<p>李新玲  来源：中国青年报</p> 
+<!--/enpcontent-->
+<input type="checkbox" value="0" name="titlecheckbox" sourceid="&lt;Source&gt;SourcePh&lt;/Source&gt;" style="display:none">
+            <p>
+          2018年04月03日
+          08
+          版</p>
+		  <script>
+	var box = document.getElementById('videoDiv');
+	var srcPath;
+	var emb = document.getElementById("videoInfo");
+	if(emb!=null){
+		var src_emb = emb.src;
+		src_emb =src_emb.substring(7);
+		src_emb=src_emb.replace(new RegExp("http:/","gm"),"http://");
+		srcPath = "http://"+src_emb;
+	}
+	var str = '<embed id="videoInfo" src="'+srcPath+'" width="550px" height="309px" allowFullScreen="true" allowScriptAccess="always" type="application/x-shockwave-flash"/>';
+	box.innerHTML += str;
+</script>
+		  </div>
+	
+<!-- 百度分享 -->
+<script language="javascript1.1" src="http://js.cyol.com/2015042109212691.js" type="text/javascript" charset="gb2312"></script><div class="bdsharebuttonbox bdshare-button-style0-16" data-bd-bind="1731556007848"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a></div><script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["weixin","tsina","qzone","tqq","renren","tieba"],"viewText":"分享到：","viewSize":"16"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<!-- 百度分享 结束-->
+<!-- 畅言评论开始 -->
+<script language="javascript1.1" src="http://js.cyol.com/2015111915194893.js" type="text/javascript" charset="gb2312"></script> 
+<!-- 畅言评论 结束-->
+<!--版权印授权开始-->
+                    <div style="width:500px;text-align:left;font-size:14px;padding:0 10px; margin:8px auto; border:#e2e2e2 1px solid; line-height:26px; position:relative;" id="shengming"><p><a href="http://news.cyol.com/gb/articles/2023-03/17/content_qbaVRRUpdJ.html"><strong>版权声明：</strong>凡本网文章下标注有版权声明的均为中国青年报社合法拥有版权或有权使用的作品，未经本网授权不得使用。违者本网将依法追究法律责任。</a></p>
+<script language="JavaScript1.1" src="http://js.cyol.com/2016031410141698.js" charset="gb2312"></script> <span data-bqylink="zgqnb.bqy.mobi"></span>
+              <div class="clear"></div></div>
+              <!--版权印授权结束-->
+<script src="https://news.cyol.com/themes/cyol/assets/js/common/alivideo2022.js" type="text/javascript"></script>
+  <div class="clear"></div>
+        </div>
+<script>
+        var allA = document.getElementById("cont").getElementsByTagName("p"); //获取所有p标签
+        for (var i = 0; i < allA.length; i++) { //循环所有a标签
+                var a = allA[i]; //获取当前循环的a标签
+                a.innerHTML = a.innerHTML.replace("&nbsp;&nbsp;&nbsp;&nbsp;", "　　"); //替换所有的空格为&nbsp;
+		}        
+</script>
+
+      </div>
+    </div>
+    <!--工具条-->
+    <div class="tool_t"><div style="float:left;"> <a href="nbs.D110000zgqnb_08.htm">返回目录</a>&nbsp;<a href="#" onclick="zoomIn();">放大</a><a href="#" onclick="zoomOut();"><img src="../../../tplimg/ico6.gif" border="0" alt="" data-bd-imgshare-binded="1">缩小</a><a href="#" onclick="CopyAll();"><img src="../../../tplimg/ico7.gif" border="0" alt="" data-bd-imgshare-binded="1">全文复制</a>&nbsp;
+      <a class="preart" href="nw.D110000zgqnb_20180403_1-08.htm"><img src="http://zqb.cyol.com/tplimg/ico8.gif" border="0" data-bd-imgshare-binded="1"> 上一篇</a>&nbsp;&nbsp;<a class="preart" href="nw.D110000zgqnb_20180403_3-08.htm">下一篇 <img src="http://zqb.cyol.com/tplimg/ico9.gif" border="0" data-bd-imgshare-binded="1"></a></div>
+        <div class="clear"></div>
+    </div>
+    <!-- 以下是供复制全文用 -->
+    <div style="display:none" id="articleContent">
+     
+<!--enpcontent--><p>&nbsp;&nbsp;&nbsp;&nbsp;当人工智能(AI)成为热词之时，一本《人工智能简史》把人工智能这个物种的家世渊源、名字由来、出身血脉、派系争斗、繁衍进化甚至基因变异等，梳理得清清楚楚。</p>
+<p abs_visibility="true">&nbsp;&nbsp;&nbsp;&nbsp;尼克，乌镇智库理事长。留学美国，曾在哈佛和惠普工作。近几年往返中美之间，创业投资。对于《人工智能简史》的写作，尼克的想法很简单：“现在人工智能这么热，需要有本书把发展历史说明白。国内没什么像样的人工智能科普书。”</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;尼克自认够格写这样一本书，他的老师巴托和师兄萨顿是人工智能领域的大师级人物，他们发明了“强化学习”算法。2016年，AlphaGo战胜人类顶尖围棋手，让所属谷歌的DeepMind团队名声大噪，AlphaGo的核心算法就是强化学习，这个团队创始成员里一半的人都是萨顿的学生。而巴托的老师霍兰德发明了“遗传算法”，是美国第一个计算机科学的博士，他们这一支的师承源自冯诺依曼。尼克开玩笑说“我就是辈分高”。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;近两三年，人工智能在我国发展和应用很快，虽然在技术上起引领作用的还是欧美国家，但其中的差距越来越小。尼克的《人工智能简史》几乎涵盖人工智能所有领域：人工智能起源、自动定理证明、神经网络、自然语言处理等，不过尼克强调在每个章节中，也只是挑选了一些典型的主线，并没能全部覆盖。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;“历史素有两种写法，以人为主和以事为主。”明显，尼克更趋向于前者。书中有算法原理，也有人与思想传承，更有各种技术派系明争暗斗。他在前言中这样写：“八卦的历史，读者自然喜欢，对作者也有好处，就像一战后英国首相劳合·乔治对他的耶路撒冷总督那样：有争执，咱们政治家才派得上用场，如果他们停下来不打了，你就失业了。”</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;他说科普有一种写法，用一些貌似通俗的语言去解释复杂的原理，但自己一直不大相信这种方法，无论作者是内行还是科普作家，“压根儿就没见过一本可以把量子力学解释清楚的科普书。即使简单如图灵机，也鲜有适当的普及读物。倒是那些讲历史和八卦的书引人入胜。”</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;“人工智能”这个词最早是谁提出的，尼克做了详实的考证。目前普遍的说法是，这个词是1956年达特茅斯学院夏季研讨会（人工智能的起源事件）的召集者麦卡锡（John&nbsp;McCarthy）想出来的，其实这是误读。麦卡锡晚年承认这个词最早是从别人那里听来的，但记不清是谁了。后来英国数学家伍德华说他是AI一词的原创者，因为他1956&nbsp;年曾去麻省理工学院访问，与麦卡锡交流过。但麦卡锡在1955年就使用“人工智能”一词了。如今当事人大都已仙逝，此事恐成悬案。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;从1956年开始，60多年浩荡中，这个新学科波峰波谷、向前发展，主线旁支交杂，尼克收集了大量第一手的史料，书中时不时就有一位历史主角的轶事，这些轶事不孤立、不单薄，有形象比喻的，有以古喻今的，也有以子之矛攻子之盾的。读这种“夹枪带棒”叙述点评就像在品一道道点心时，不知道下一口是不是甜中带酸。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;对于人工智能能否超越人类，一直是这个物种产生后伴随的争论。“奇点临近”——2020年机器的智能达到人类智能，2045年机器智能会超过人的智能，这是让人工智能引起公众广泛关注的一个卖点，与此同时，也造成了公众对人工智能的恐慌与技术崇拜。这种争论最具代表性的要属这一领域的两位元老“斯基”——明斯基和乔姆斯基。明斯基在2012年接受他的学生、预言家、奇点理论炮制者库兹韦尔的采访时说，他相信奇点的到来，可能就在我们的有生之年。尼克对此没有评价，只是客观写道：“明斯基2016年1月24日在波士顿去世，据说为了等奇点，他老人家把自个儿冷冻了。”</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;对于普通公众，最关心的是人工智能能够做什么，至于技术本身很多人都不甚了解。他在写技术流派发展时，一直在尽力理清各种关联，包括人物之间的学术传承、思想影响、生活影响。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;例如，自图灵提出“机器与智能”起，就一直有两派观点：一派认为实现人工智能必须用逻辑和符号系统，这一派看问题是自上向下的；还有一派认为通过仿造大脑就可以达到人工智能，这一派是自底向上的，他们认为如果能造一台机器，模拟大脑中的神经网络，这台机器就有智能了。于是，尼克给前一派归类为“想啥来啥”，后一派称为“吃啥补啥”。两派争斗曾经你死我活，如今以谷歌大脑为代表的“吃啥补啥”派占了上风。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;随着数据量的大增、移动终端等生态系统的建立，人工智能产业的发展这几年无比迅猛，资本也随之大量聚集。回顾几十年人工智能几次大起大落，尼克发现每次高潮都是一个旧哲学思想的技术再包装，而每一次的衰败都是源自高潮时期的承诺不能兑现。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;“当下人工智能领域的创业，一些和人工智能毫无瓜葛的社会闲杂人员一夜之间都成了AI专家，拿到VC之后再想干啥。”尼克对此深有忧虑。</p><p>李新玲</p><!--/enpcontent-->
+
+    </div>
+    <!--结束工具条-->
+    <!--版面打分-->
+    <!--我要评报-->
+  </div>
+</div>
+<!--结束内容部分-->
+<!--版权部分-->
+<div class="copyright">
+<script language="JavaScript1.1" src="http://js.cyol.com/2015041314130192.js" charset="gb2312"></script><style type="text/css">*{margin:0;padding:0}a:link{text-decoration:none}a:visited{text-decoration:none}a:hover{text-decoration:underline}.fbot{text-align:center;}.fbot1{height:40px;border-top:1px solid #787878;border-bottom:1px solid #787878;background:#707070;line-height:40px}.fbotcon{margin:0 auto;color:#fff;text-align:center;font-size:12px}.fbotcon a{color:#fff}.fbotcon span{padding:0 12px}.fbot2{margin:0 auto;width:940px;height:102px;text-align:left}.fbot2 span{float:left;margin-top:25px;width:219px;height:50px;color:#727272;font-size:12px;line-height:30px}.fbot2 span a{color:#727272;margin-left:43px;}.fbot2 i.shu{ float:left;height:50px;width:0;border-right:1px solid #dbdbdb;margin-top:30px;}#paspan{margin-left:59px;border:none}.fbot3{margin:0 150px;padding-bottom:10px;width:940px;text-align:left}.fbot3 p{float:left;display:inline;margin-left:102px;color:#727272;font-size:12px;line-height:30px}.fbot3 img{float:left;display:inline;margin-top:12px;margin-left:20px}img{border:none}</style><div class="fbot"> <div class="fbot1" id="fbot1"><div class="fbotcon"><a target="_blank" href="http://news.cyol.com/gb/articles/2023-05/09/content_Ajpm0vUzLo.html">中国青年报简介</a><span>|</span><a href="http://www.cyol.com/link/link-index.htm">联系方式</a><span>|</span><a href="http://www.cyol.com/kanli.pdf">广告刊例</a><span>|</span><a href="http://www.12377.cn/">网上暴恐有害信息举报</a><span>|</span>举报电话：13641153091<span>|</span><a href="http://www.adsame.com/" class="dwa">广告发布支持<img src="http://img.cyol.com/tplimg/home/cyol2015_foot.gif" data-bd-imgshare-binded="1"> </a> </div> </div> <div class="fbot2" id="fbot2"><span id="paspan"><a href="https://beian.miit.gov.cn/" style="text-decoration:none;">京ICP备16062000号</a><br><a style="text-decoration:none;">京网文【2013】0922-971号</a></span><i class="shu"></i><span><a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010102000004">京公网安备11010102000004</a> <br><a href="http://www.cyol.com/home/xukezheng.htm">网络视听许可证0110415号</a></span><i class="shu"></i><span> <a style="text-decoration:none;">互联网新闻信息服务许可</a><br><a href="http://www.cyol.com/home/xukezheng.htm#guangbo">广播电视节目制作经营</a></span><i class="shu"></i><span><a href="http://www.12377.cn/node_548446.htm"><img style="margin-top:10px;" src="http://img.cyol.com/tplimg/home/jubaoapp.jpg" width="80" height="40" data-bd-imgshare-binded="1"></a></span><div class="clear"></div></div> <div class="fbot3" id="fbot3"><p>北京中青在线网络信息技术有限公司版权所有　声明：本网站内容未经书面授权不得转载与镜像<br>中青在线、中国青年报地址 Add：北京市朝阳区东三环北路19号中青大厦 邮编 P.C. 100020</p><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000090900001" style="display:none"><img src="http://img.cyol.com/tplimg/hd315.gif" data-bd-imgshare-binded="1"></a><a id="___szfw_logo___" href="https://search.szfw.org/cert/l/CX20140723008873008566" style="display:none"><img src="http://img.cyol.com/tplimg/home/20150504chengxin.jpg" data-bd-imgshare-binded="1"></a><script type="text/javascript">(function(){document.getElementById('___szfw_logo___').oncontextmenu = function(){return false;}})();</script><div class="clear"></div></div> </div>
+</div>
+ <!--中青报系-->
+  <div id="rmrbbx" style="display:none;position:absolute;top:115px;left:50%;margin-left:365px;" onmouseover="document.getElementById('rmrbbx').style.display = 'block';" onmouseout="document.getElementById('rmrbbx').style.display = 'none';">
+    <table width="100" border="0" cellpadding="0" cellspacing="1" bordercolor="#007CD2" bgcolor="#007CD2">
+      <tbody><tr>
+        <td bgcolor="#D8EFFF" style="padding: 3px;"><table width="100" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td bgcolor="#FFFFFF" style="padding: 1px;" valign="top">
+                <table width="100" border="0" cellpadding="0" cellspacing="0" height="23">
+                  <tbody><tr>
+                    <td width="99" bgcolor="#ffffff" align="center" valign="top"><table width="85" border="0" cellpadding="0" cellspacing="0" style="margin: 5px 0;">
+                        <tbody><tr>
+                          <td height="20" align="left" class="fontstyle"><a href="http://zqb.cyol.com">中国青年报</a></td>
+                        </tr>
+                        <tr>
+                          <td height="1"></td>
+                        </tr>
+                        <tr>
+                          <td height="20" align="left" class="fontstyle"><a href="http://qnck.cyol.com">青年参考</a></td>
+                        </tr>
+                        <tr>
+                          <td height="1"></td>
+                        </tr>
+                        <tr>
+                          <td height="20" align="left" class="fontstyle"><a href="http://qnzj.cyol.com">中国青年作家报</a></td>
+                        </tr>
+                        <tr>
+                          <td height="1"></td>
+                        </tr>
+						<tr>
+                          <td height="20" align="left" class="fontstyle"><a href="http://qnsx.cyol.com">青年时讯</a></td>
+                        </tr>
+                        <tr>
+                          <td height="1"></td>
+                        </tr>
+                    </tbody></table></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table>
+  </div>
+  <!--结束中青报系-->
+<script language="JavaScript">
+<!--
+document.write("<div id=detail style=position:absolute;width:300px;></div>");
+//-->
+</script><div id="detail" style="position:absolute;width:300px;"></div>
+<!-------rqdh版面导航------>
+<div id="daydh" style="display:none; position:absolute; left:50%;margin-left:-100px; top:110px; filter:alpha(opacity=90);" onmouseover="document.getElementById('daydh').style.display='block';">
+  <form name="CLD" style="padding:0px;margin:0px;">
+    <table width="210" border="0" cellpadding="0" cellspacing="1" bordercolor="#007CD2" bgcolor="#007CD2">
+      <tbody><tr>
+        <td bgcolor="#D8EFFF" style="padding: 3px;"><table cellspacing="0" cellpadding="0" width="100%" align="center" border="0" bgcolor="#D8EFFF">
+          <tbody><tr>
+            <td><table width="100%" align="center" border="0" cellpadding="1" cellspacing="1">
+              <tbody><tr class="default" align="center">
+                <td height="15" colspan="7" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="2" cellspacing="0">
+                  <tbody><tr align="center">
+                    <td align="left" nowrap=""><img src="http://www.cyol.com/tplimg/zqb-riqi-l.gif" width="7" height="11" style="cursor:hand;" onclick="turnpage(SY,0)" data-bd-imgshare-binded="1"></td>
+                    <td><select class="jumpmenu" onchange="changeMPCld()" name="SY">
+                      <script language="JavaScript">
+					for(i=2005;i<2051;i++)
+					document.write('<option>'+i+'</option>')
+        			</script><option>2005</option><option>2006</option><option>2007</option><option>2008</option><option>2009</option><option>2010</option><option>2011</option><option>2012</option><option>2013</option><option>2014</option><option>2015</option><option>2016</option><option>2017</option><option>2018</option><option>2019</option><option>2020</option><option>2021</option><option>2022</option><option>2023</option><option>2024</option><option>2025</option><option>2026</option><option>2027</option><option>2028</option><option>2029</option><option>2030</option><option>2031</option><option>2032</option><option>2033</option><option>2034</option><option>2035</option><option>2036</option><option>2037</option><option>2038</option><option>2039</option><option>2040</option><option>2041</option><option>2042</option><option>2043</option><option>2044</option><option>2045</option><option>2046</option><option>2047</option><option>2048</option><option>2049</option><option>2050</option>
+                    </select>
+                    </td>
+                    <td><img src="http://www.cyol.com/tplimg/zqb-riqi-r.gif" width="7" height="11" style="cursor:hand;" onclick="turnpage(SY,1)" data-bd-imgshare-binded="1"></td>
+                    <td align="center" nowrap=""><img src="http://www.cyol.com/tplimg/zqb-riqi-l.gif" width="7" height="11" style="cursor:hand;" onclick="turnpage(SM,0)" data-bd-imgshare-binded="1"></td>
+                    <td><select class="jumpmenu" onchange="changeMPCld()" name="SM">
+                      <script language="JavaScript">
+				<!--
+					for(i=1;i<13;i++) document.write('<option>'+i+'</option>')
+				//-->
+        			</script><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option><option>11</option><option>12</option>
+                    </select>
+                    </td>
+                    <td><img src="http://www.cyol.com/tplimg/zqb-riqi-r.gif" width="7" height="11" style="cursor:hand;" onclick="turnpage(SM,1)" data-bd-imgshare-binded="1"></td>
+                    <td align="right" nowrap=""><strong><font id="GZ" fface="Arial, Helvetica, sans-serif"></font></strong></td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+              <tr align="middle" bgcolor="#FFFFFF" class="default">
+                <td bgcolor="#027CD1" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">日</font></b></td>
+                <td bgcolor="#027CD1" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">一</font></b></td>
+                <td bgcolor="#027CD1" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">二</font></b></td>
+                <td bgcolor="#027CD1" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">三</font></b></td>
+                <td bgcolor="#027CD1" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">四</font></b></td>
+                <td bgcolor="#027CD1" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">五</font></b></td>
+                <td bgcolor="#027CD1" align="center" class="fontstyle01"><b><font face="Arial, Helvetica, sans-serif">六</font></b> </td>
+              </tr>
+              <script language="JavaScript">
+		<!--
+			var gNum;
+			for(i=0;i<6;i++)
+			{
+				document.write('<tr align=center>');
+				for(j=0;j<7;j++)
+				{
+					gNum = i*7+j;
+					document.write('<td  bgcolor="#FFFFFF" class="default" align=center id="GD' + gNum +'" style="cursor: default;" width="14%"><a href="" id="CD' + gNum + '"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onMouseOver="mOvr(' + gNum +')" onMouseOut="mOut()" id="SD' + gNum +'"');
+					document.write('></font></span></a><br><font id="LD' + gNum + '" size=2 class=pt9 style=display:none></font></td>');
+				}
+				document.write('</tr>');
+			}
+		//-->
+        	</script><tr align="center"><td bgcolor="#FFFFFF" class="default" align="center" id="GD0" style="cursor: default;" width="14%"><a href="#" id="CD0"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(0)" onmouseout="mOut()" id="SD0" class="" color="#DFDEDB">1</font></span></a><br><font id="LD0" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD1" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/02/nbs.D110000zgqnb_01.htm" id="CD1"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(1)" onmouseout="mOut()" id="SD1" class="" color="">2</font></span></a><br><font id="LD1" size="2" class="pt9" style="display:none">廿六</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD2" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/03/nbs.D110000zgqnb_01.htm" id="CD2"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(2)" onmouseout="mOut()" id="SD2" class="todaycolor" color="red">3</font></span></a><br><font id="LD2" size="2" class="pt9" style="display:none">廿七</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD3" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/04/nbs.D110000zgqnb_01.htm" id="CD3"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(3)" onmouseout="mOut()" id="SD3" class="" color="">4</font></span></a><br><font id="LD3" size="2" class="pt9" style="display:none">廿八</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD4" style="cursor: default;" width="14%"><a href="#" id="CD4"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(4)" onmouseout="mOut()" id="SD4" class="" color="#DFDEDB">5</font></span></a><br><font id="LD4" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD5" style="cursor: default;" width="14%"><a href="#" id="CD5"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(5)" onmouseout="mOut()" id="SD5" class="" color="#DFDEDB">6</font></span></a><br><font id="LD5" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD6" style="cursor: default;" width="14%"><a href="#" id="CD6"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(6)" onmouseout="mOut()" id="SD6" class="" color="#DFDEDB">7</font></span></a><br><font id="LD6" size="2" class="pt9" style="display:none"></font></td></tr><tr align="center"><td bgcolor="#FFFFFF" class="default" align="center" id="GD7" style="cursor: default;" width="14%"><a href="#" id="CD7"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(7)" onmouseout="mOut()" id="SD7" class="" color="#DFDEDB">8</font></span></a><br><font id="LD7" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD8" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/09/nbs.D110000zgqnb_01.htm" id="CD8"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(8)" onmouseout="mOut()" id="SD8" class="" color="">9</font></span></a><br><font id="LD8" size="2" class="pt9" style="display:none">初三</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD9" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/10/nbs.D110000zgqnb_01.htm" id="CD9"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(9)" onmouseout="mOut()" id="SD9" class="" color="">10</font></span></a><br><font id="LD9" size="2" class="pt9" style="display:none">初四</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD10" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/11/nbs.D110000zgqnb_01.htm" id="CD10"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(10)" onmouseout="mOut()" id="SD10" class="" color="">11</font></span></a><br><font id="LD10" size="2" class="pt9" style="display:none">初五</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD11" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/12/nbs.D110000zgqnb_01.htm" id="CD11"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(11)" onmouseout="mOut()" id="SD11" class="" color="">12</font></span></a><br><font id="LD11" size="2" class="pt9" style="display:none">初六</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD12" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/13/nbs.D110000zgqnb_01.htm" id="CD12"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(12)" onmouseout="mOut()" id="SD12" class="" color="">13</font></span></a><br><font id="LD12" size="2" class="pt9" style="display:none">初七</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD13" style="cursor: default;" width="14%"><a href="#" id="CD13"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(13)" onmouseout="mOut()" id="SD13" class="" color="#DFDEDB">14</font></span></a><br><font id="LD13" size="2" class="pt9" style="display:none"></font></td></tr><tr align="center"><td bgcolor="#FFFFFF" class="default" align="center" id="GD14" style="cursor: default;" width="14%"><a href="#" id="CD14"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(14)" onmouseout="mOut()" id="SD14" class="" color="#DFDEDB">15</font></span></a><br><font id="LD14" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD15" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/16/nbs.D110000zgqnb_01.htm" id="CD15"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(15)" onmouseout="mOut()" id="SD15" class="" color="">16</font></span></a><br><font id="LD15" size="2" class="pt9" style="display:none">初十</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD16" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/17/nbs.D110000zgqnb_01.htm" id="CD16"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(16)" onmouseout="mOut()" id="SD16" class="" color="">17</font></span></a><br><font id="LD16" size="2" class="pt9" style="display:none">十一</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD17" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/18/nbs.D110000zgqnb_01.htm" id="CD17"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(17)" onmouseout="mOut()" id="SD17" class="" color="">18</font></span></a><br><font id="LD17" size="2" class="pt9" style="display:none">十二</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD18" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/19/nbs.D110000zgqnb_01.htm" id="CD18"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(18)" onmouseout="mOut()" id="SD18" class="" color="">19</font></span></a><br><font id="LD18" size="2" class="pt9" style="display:none">十三</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD19" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/20/nbs.D110000zgqnb_01.htm" id="CD19"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(19)" onmouseout="mOut()" id="SD19" class="" color="">20</font></span></a><br><font id="LD19" size="2" class="pt9" style="display:none">十四</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD20" style="cursor: default;" width="14%"><a href="#" id="CD20"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(20)" onmouseout="mOut()" id="SD20" class="" color="#DFDEDB">21</font></span></a><br><font id="LD20" size="2" class="pt9" style="display:none"></font></td></tr><tr align="center"><td bgcolor="#FFFFFF" class="default" align="center" id="GD21" style="cursor: default;" width="14%"><a href="#" id="CD21"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(21)" onmouseout="mOut()" id="SD21" class="" color="#DFDEDB">22</font></span></a><br><font id="LD21" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD22" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/23/nbs.D110000zgqnb_01.htm" id="CD22"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(22)" onmouseout="mOut()" id="SD22" class="" color="">23</font></span></a><br><font id="LD22" size="2" class="pt9" style="display:none">十七</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD23" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/24/nbs.D110000zgqnb_01.htm" id="CD23"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(23)" onmouseout="mOut()" id="SD23" class="" color="">24</font></span></a><br><font id="LD23" size="2" class="pt9" style="display:none">十八</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD24" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/25/nbs.D110000zgqnb_01.htm" id="CD24"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(24)" onmouseout="mOut()" id="SD24" class="" color="">25</font></span></a><br><font id="LD24" size="2" class="pt9" style="display:none">十九</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD25" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/26/nbs.D110000zgqnb_01.htm" id="CD25"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(25)" onmouseout="mOut()" id="SD25" class="" color="">26</font></span></a><br><font id="LD25" size="2" class="pt9" style="display:none">二十</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD26" style="cursor: default;" width="14%"><a href="http://zqb.cyol.com/html/2018-04/27/nbs.D110000zgqnb_01.htm" id="CD26"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(26)" onmouseout="mOut()" id="SD26" class="" color="">27</font></span></a><br><font id="LD26" size="2" class="pt9" style="display:none">廿一</font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD27" style="cursor: default;" width="14%"><a href="#" id="CD27"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(27)" onmouseout="mOut()" id="SD27" class="" color="#DFDEDB">28</font></span></a><br><font id="LD27" size="2" class="pt9" style="display:none"></font></td></tr><tr align="center"><td bgcolor="#FFFFFF" class="default" align="center" id="GD28" style="cursor: default;" width="14%"><a href="#" id="CD28"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(28)" onmouseout="mOut()" id="SD28" class="" color="#DFDEDB">29</font></span></a><br><font id="LD28" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD29" style="cursor: default;" width="14%"><a href="#" id="CD29"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(29)" onmouseout="mOut()" id="SD29" class="" color="#DFDEDB">30</font></span></a><br><font id="LD29" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD30" style="cursor: default;" width="14%"><a href="" id="CD30"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(30)" onmouseout="mOut()" id="SD30" class=""></font></span></a><br><font id="LD30" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD31" style="cursor: default;" width="14%"><a href="" id="CD31"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(31)" onmouseout="mOut()" id="SD31" class=""></font></span></a><br><font id="LD31" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD32" style="cursor: default;" width="14%"><a href="" id="CD32"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(32)" onmouseout="mOut()" id="SD32" class=""></font></span></a><br><font id="LD32" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD33" style="cursor: default;" width="14%"><a href="" id="CD33"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(33)" onmouseout="mOut()" id="SD33" class=""></font></span></a><br><font id="LD33" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD34" style="cursor: default;" width="14%"><a href="" id="CD34"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(34)" onmouseout="mOut()" id="SD34" class=""></font></span></a><br><font id="LD34" size="2" class="pt9" style="display:none"></font></td></tr><tr align="center"><td bgcolor="#FFFFFF" class="default" align="center" id="GD35" style="cursor: default;" width="14%"><a href="" id="CD35"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(35)" onmouseout="mOut()" id="SD35" class=""></font></span></a><br><font id="LD35" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD36" style="cursor: default;" width="14%"><a href="" id="CD36"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(36)" onmouseout="mOut()" id="SD36" class=""></font></span></a><br><font id="LD36" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD37" style="cursor: default;" width="14%"><a href="" id="CD37"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(37)" onmouseout="mOut()" id="SD37" class=""></font></span></a><br><font id="LD37" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD38" style="cursor: default;" width="14%"><a href="" id="CD38"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(38)" onmouseout="mOut()" id="SD38" class=""></font></span></a><br><font id="LD38" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD39" style="cursor: default;" width="14%"><a href="" id="CD39"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(39)" onmouseout="mOut()" id="SD39" class=""></font></span></a><br><font id="LD39" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD40" style="cursor: default;" width="14%"><a href="" id="CD40"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(40)" onmouseout="mOut()" id="SD40" class=""></font></span></a><br><font id="LD40" size="2" class="pt9" style="display:none"></font></td><td bgcolor="#FFFFFF" class="default" align="center" id="GD41" style="cursor: default;" width="14%"><a href="" id="CD41"><span class="date" style="font-family:Verdana, Arial;font-size:11px;"><font _onmouseover="mOvr(41)" onmouseout="mOut()" id="SD41" class=""></font></span></a><br><font id="LD41" size="2" class="pt9" style="display:none"></font></td></tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td align="center" height="22"><a href="#" onclick="autoShowDate();">关闭</a></td>
+      </tr>
+    </tbody></table>
+  </form>
+</div>
+<!-------rqdh版面导航END------>
+<!-------文章显示标题开始------>
+<div style="display:none">
+  <table width="265" border="0" cellspacing="0" cellpadding="0" style="margin-top:3px;">
+
+  <tbody><tr>
+	<td width="16" align="left"><img src="3.files/icon07.jpg" data-bd-imgshare-binded="1"></td>
+	<td width="271" align="left" class="fontstyle" height="22">
+<a href="nw.D110000zgqnb_20180403_1-08.htm"><div style="display:inline" id="mp_nw.D110000zgqnb_20180403_1-08">城市文化客厅：去鼓楼听一场朗读会</div></a>
+	</td>
+  </tr>
+  <tr><td background="3.files/dian01.jpg" colspan="2" height="1"></td></tr>
+  <tr>
+	<td width="16" align="left" bgcolor="#D8EFFF"><img src="3.files/icon07.jpg" data-bd-imgshare-binded="1"></td>
+	<td width="271" align="left" class="fontstyle" height="22" bgcolor="#D8EFFF">
+<a href="./nw.D110000zgqnb_20180403_2-08.htm"><div style="display:inline" id="mp_nw.D110000zgqnb_20180403_2-08">《人工智能简史》：把AI的历史说明白</div></a>
+	</td>
+  </tr>
+  <tr><td background="3.files/dian01.jpg" colspan="2" height="1"></td></tr>
+  <tr>
+	<td width="16" align="left"><img src="3.files/icon07.jpg" data-bd-imgshare-binded="1"></td>
+	<td width="271" align="left" class="fontstyle" height="22">
+<a href="nw.D110000zgqnb_20180403_3-08.htm"><div style="display:inline" id="mp_nw.D110000zgqnb_20180403_3-08">中国设计40年：我们的城市故事还动人吗</div></a>
+	</td>
+  </tr>
+  <tr><td background="3.files/dian01.jpg" colspan="2" height="1"></td></tr>
+  <tr>
+	<td width="16" align="left" bgcolor="#D8EFFF"><img src="3.files/icon07.jpg" data-bd-imgshare-binded="1"></td>
+	<td width="271" align="left" class="fontstyle" height="22" bgcolor="#D8EFFF">
+<a href="nw.D110000zgqnb_20180403_4-08.htm"><div style="display:inline" id="mp_nw.D110000zgqnb_20180403_4-08">3.2公里的长乐路与繁叶落尽后的人间事</div></a>
+	</td>
+  </tr>
+  <tr><td background="3.files/dian01.jpg" colspan="2" height="1"></td></tr>
+
+</tbody></table>
+</div>
+<!-------文章显示标题结束------>
+<img src="http://zqb.cyol.com/tplimg/left_ico.gif" style="display:none;" data-bd-imgshare-binded="1"> <img src="http://zqb.cyol.com/tplimg/right_ico.gif" style="display:none;" data-bd-imgshare-binded="1"> <img src="http://zqb.cyol.com/tplimg/ico10.gif" style="display:none;" data-bd-imgshare-binded="1"> <img src="http://zqb.cyol.com/tplimg/ico8.gif" style="display:none;" data-bd-imgshare-binded="1"> <img src="http://zqb.cyol.com/tplimg/ico9.gif" style="display:none;" data-bd-imgshare-binded="1"> <img src="../../../tplimg/ti.gif" style="display:none;" data-bd-imgshare-binded="1"> <img src="../../../tplimg/fb.gif" style="display:none;" data-bd-imgshare-binded="1">
+
+<div id="header-wrap" class="header-wrap">
+    <div class="header-bd"><a href="javascript:scroll(0,0)"><img src="http://img.cyol.com/tplimg/home/cyol2015_top.gif" width="40" height="40" data-bd-imgshare-binded="1"></a></div>
+  </div>
+
+<!--天润统计b-->
+<div style="display:none">
+<script src="http://zqb.cyol.com/tianrun.js" type="text/javascript"></script><script id="tr_statobj" src="http://cl2.webterren.com/webdig.js?z=21" type="text/javascript"></script><script type="text/javascript"> wd_paramtracker('_wdxid=000000000000000000000000000000000000000000');</script>
+</div>
+<!--天润统计e-->
+
+
+<div style="width:100px; margin:0 auto;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/01/001/0000/60886907/CA010010000608869070003.js' type='text/javascript'%3E%3C/script%3E"));</script><span id="_ideConac"><a href="https://bszs.conac.cn/sitename?method=show&amp;id=57532D88DF79340EE053022819AC3D42" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="https://dcs.conac.cn/image/blue.png" data-bd-imgshare-binded="1"></a></span><script src="http://dcs.conac.cn/js/01/001/0000/60886907/CA010010000608869070003.js" type="text/javascript"></script><span id="_ideConac"></span>
+</div>
+
+<script>
+img_filter();
+
+//图文混排图片去重
+/**
+此方法需要根据实际文章模板进行调整，否则无法生效
+*/
+function img_filter() {
+	var imgs = document.getElementById("reslist").getElementsByTagName("img");
+	//模板上正文区域的div的id为articleText（参考具体模板调整）
+	var contentimglist= document.getElementById("articleContent").getElementsByTagName("img");    
+	var len = contentimglist.length;
+	var imglen = imgs.length;
+	var count = 0;
+	var delobjs = new Array();
+	outer:
+	for (var i = 0; i < imgs.length; i++) {
+		for (var j = 0; j < contentimglist.length; j++) {
+			if(imgs[i].src == contentimglist[j].src){			  
+				delobjs.push(imgs[i]);
+				count++;
+				if(count>=len){
+					break outer;
+				}
+			}
+		}
+	}
+
+	//删除重复元素
+	for(var i=0;i<delobjs.length;i++){
+		//根据模板素材查找素材图片所在的元素（需要根据实际模板进行调整）
+		var imgObj = delobjs[i];
+		var delEle = imgObj.parentNode.parentNode.parentNode.parentNode;
+		//imgs[i].parentNode.remove(imgs[i]);
+		delEle.parentNode.removeChild(delEle);
+	}
+	
+	//检查素材列表区域是否还有图片，如果没有则删掉该区域最外层占位元素
+	//模板上素材列表区域的最外层占位table的id为tableInfo（参考具体模板调整）
+	//此模板就是先找到图片的table，然后找到table的前两个兄弟元素，才是占位元素，然后删除该元素
+	var resimglist= document.getElementById("reslist").getElementsByTagName("img");
+	if(resimglist.length<1){
+		var obj = document.getElementById("reslist");//$("#tableInfo");
+		//var delobj=obj.previousSibling.previousSibling;
+		delobj=obj;
+		delobj.parentNode.removeChild(delobj);
+	}
+}
+</script>
+
+<script language="javascript">
+if(document.getElementById('ozoom')!=null&&document.getElementById('ozoom').offsetHeight<=357)
+	document.getElementById('ozoom').style.height = '357px';
+</script>
+
+<!--mpproperty <date>
+2018-04-03
+</date>
+<author>
+李新玲
+</author>
+<title>《人工智能简史》：把AI的历史说明白
+</title>
+<founder-nodename></founder-nodename>
+<founder-keyword>
+
+</founder-keyword><founder-ChannelID>
+1
+</founder-ChannelID><founder-imp>0</founder-imp>
+<founder-subtitle></founder-subtitle>
+<founder-type>1</founder-type>
+<founder-introtitle></founder-introtitle>
+<founder-pagepicurl>http://zgqnb/images/2018-04/03/08/ZQB08B20180403C_b.jpg</founder-pagepicurl>
+<founder-pagenum>08</founder-pagenum>
+<founder-papername>中国青年报</founder-papername>
+<founder-nodeid>308</founder-nodeid> /mpproperty-->
+
+
+<div id="bdimgshare_1731556007860" class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" style="height:36px;line-height:26px;font-size:12px;width:autopx;display:none;" data-bd-bind="1731556007859"><div class="bdimgshare-bg"></div><div class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a href="#" onclick="return false;" class="bds_weixin" data-cmd="weixin" hidefocus=""></a><a href="#" onclick="return false;" class="bds_tsina" data-cmd="tsina" hidefocus=""></a><a href="#" onclick="return false;" class="bds_qzone" data-cmd="qzone" hidefocus=""></a><a href="#" onclick="return false;" class="bds_tqq" data-cmd="tqq" hidefocus=""></a><a href="#" onclick="return false;" class="bds_renren" data-cmd="renren" hidefocus=""></a><a href="#" onclick="return false;" class="bds_tieba" data-cmd="tieba" hidefocus=""></a><a href="#" onclick="return false;" class="bds_more" data-cmd="more" hidefocus=""></a></div></div></body></html>

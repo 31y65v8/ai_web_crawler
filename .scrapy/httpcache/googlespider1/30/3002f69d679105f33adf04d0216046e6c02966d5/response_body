@@ -1,0 +1,479 @@
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8">
+<title>因地制宜发展新质生产力 加快建设世界领先科技园区</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="keywords" content="中国经济,中国经济走势,国民经济,全球经济形势,世界经济,经济发展趋势,宏观经济,数字经济,国际经济,新基建,经济分析,宏观数据分析报告,宏观形势,宏观政策形势,,经济形势">
+<meta name="description" content="中关村建设世界领先科技园区，是习近平总书记、党中央作出的重大战略部署。党的二十届三中全会通过的《中共中央关于进一步全面深化改革、推进中国式现代化的决定》提出，“健全因地制宜发展新质生产力体制机制”。世界领先科技园区是科技创新资源高度集聚、科技成果引领发展、高效配置全球创新要素、引领区域经济发展的创新高地。">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<script src="https://hm.baidu.com/hm.js?2e0d0bf92ae9a14367b8c3fc7bfc51af"></script><script src="http://www.china-cer.com.cn/style/js/jquery-1.8.1.min.js"></script>
+<script src="http://www.china-cer.com.cn/style/js/all.js"></script>
+<link rel="stylesheet" href="http://t.china-cer.com.cn/style/css/all.css?1">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="bookmark" href="/favicon.ico">
+</head>
+<body>
+<div class="sj_nav">
+	
+</div>
+<script type="text/javascript">
+  $(function() {
+     $(".sj_nav").click(function() {
+		 $("body").toggleClass("nnav_this")
+		 
+	 });
+  });
+</script>
+<!--头部开始--->
+<!--头部开始--->
+
+<div class="head_h">
+  <div class="bg l-top">
+
+    <div class="tb logo "><a href="/" title="中国经济形势报告网"></a></div>
+    <div class="tb logo_z"></div>
+    <div class="fr head_r">
+      <form class="header_form" action="http://www.china-cer.com.cn/index.php" method="get" target="_blank">
+        <ul class="choose">
+		<style>
+		.t_user,.show_reg,.show_login{display:none;}
+		</style>
+		<script>
+		$.getJSON("http://www.china-cer.com.cn/index.php?m=member&c=checklogin&a=init&jsoncallback=?", function(data){
+				$('.t_user').hide();
+				$('.show_reg').hide();
+				$('.show_login').hide();
+			if(data=='1'){
+
+			   $('.t_user').show();
+
+			}else{
+			   $('.show_reg').show();
+				$('.show_login').show();
+			}
+		  });
+		$.getJSON("http://www.china-cer.com.cn/index.php?m=member&c=checklogin&a=user_name&jsoncallback=?", function(data2){
+				$('.headr_user_name').text('');
+			if(data2!==''&&data2.user_name!==''){
+			   $('.headr_user_name').text(data2.user_name);
+			}
+		  });
+		</script>
+       <span class="guan"><em></em>中宏国研信息技术研究院官网</span>
+          <li class="t_user" style="display: none;"><strong class="color_hongse headr_user_name"></strong>&nbsp;&nbsp;<a href="http://www.china-cer.com.cn/index.php?m=member&amp;c=index">[会员中心]</a>&nbsp;&nbsp;<a href="http://www.china-cer.com.cn/index.php?m=member&amp;c=index&amp;a=logout">[退出]</a></li>
+          <li class="show_reg" style="display: list-item;"><a href="http://www.china-cer.com.cn/index.php?m=member&amp;c=index&amp;a=register">注册</a></li>
+          <li class="show_login" style="display: list-item;"><a href="http://www.china-cer.com.cn/index.php?m=member&amp;c=index&amp;a=login">会员登录</a></li>
+          <li><a href="http://www.china-cer.com.cn/web_page/shengjivip/">会员服务</a></li>
+        </ul>
+        <div class="on_right">
+				<input type="hidden" name="m" value="search">
+				<input type="hidden" name="c" value="index">
+				<input type="hidden" name="a" value="init">
+				<input type="hidden" name="typeid" value="1" id="typeid">
+				<input type="hidden" name="siteid" value="1" id="siteid">
+				<input type="text" class="text" name="q" id="q" placeholder="请输入关键词">
+        <button class="tb" type="submit">搜  索</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="head_nav">
+  <div class="bg"> 
+          	<ul class="nav-site">
+			<li class="home"><a href="http://www.china-cer.com.cn">首页</a></li>
+						<li><a href="http://www.china-cer.com.cn/news/">要闻纵览</a></li>
+						<li><a href="http://www.china-cer.com.cn/lundao/">中宏论道</a></li>
+						<li><a href="http://www.china-cer.com.cn/juece/">决策要参</a></li>
+						<li><a href="http://www.china-cer.com.cn/neixun/">课题/内训</a></li>
+						<li><a href="http://www.china-cer.com.cn/ziliaodingyue/">资料订阅</a></li>
+						<li><a href="http://www.china-cer.com.cn/huigu/">往届回顾</a></li>
+						<li><a href="http://www.china-cer.com.cn/jiabin/">往届嘉宾</a></li>
+						<li><a href="http://www.china-cer.com.cn/latest_events/">最新活动</a></li>
+						<li><a href="http://www.china-cer.com.cn/zhengcefagui/">政策法规</a></li>
+			            </ul>
+        		  </div>
+</div>
+<!--头部结束---> <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js" type="text/javascript"></script>
+<script>
+	var signPackage_appId;
+	var signPackage_timestamp;
+	var signPackage_nonceStr;
+	var signPackage_signature;
+	$.ajax({
+		type : "GET",
+		url : "http://www.china-cer.com.cn/index.php?m=content&c=index&a=wechat",
+		dataType:'json',
+		success: function(data){
+			
+			signPackage_appId = data.appId;
+			signPackage_timestamp = data.timestamp;
+			signPackage_nonceStr = data.nonceStr;
+			signPackage_signature = data.signature;
+//	alert(signPackage_signature);
+			wx.config({
+				//debug: true,
+				appId: signPackage_appId,
+				timestamp: signPackage_timestamp,
+				nonceStr: signPackage_nonceStr,
+				signature: signPackage_signature,
+				jsApiList: ['onMenuShareTimeline','onMenuShareAppMessage','onMenuShareQQ','onMenuShareWeibo']
+			});
+		}
+		}
+	);
+    
+</script>
+<style>
+@media screen and (max-device-width:780px){
+.ihide_pagination .pagination{ display:none; max-height:0; overflow:hidden; margin:0; padding:0;}
+.footer_w .footer,.footer_w .hl_c_ad,.footer_w .hl_c_tag,.footer_w .hl_c_copy{ display:none}
+}
+</style>
+<script>
+var w_w = $(window).width();
+var ax=0;
+if(w_w<800){
+$(function() {
+$("html").addClass("ihide_pagination footer_w");
+});
+    $(window).on("resize scroll",function(){     
+        var windowHeight = $(window).height(),scrollTop = $(window).scrollTop(),docHeight = $(document).height(); 
+        if (scrollTop + windowHeight >= docHeight - 100) { 
+			fanye();	
+        }
+    });
+	function fanye(){
+	if(ax==0){
+	var dd = $(".hl_body_in:nth-last-of-type(1) .active").next();
+	var x = dd.nextAll("li").size();
+	if(x >= 1) {
+	var ssurl = dd.find("a").attr("href");
+	 open_url(ssurl,".hl_body_in",".pagination");
+	}if(x == 1) {
+	$("html").removeClass("footer_w");
+	}
+	 };
+  return;
+};
+
+function open_url(url,div,pagination){
+	 $(".hl_body_w").append($(".hlgdx").load(url+" "+div).html()); 
+ return;
+};
+};
+</script>
+<div class="hlgdx" style="height:0; width:0px; overflow:hidden"></div>
+
+<!--<div class="av_zhang bg ">
+<div class="blank16px"></div>
+<a href="http://www.china-cer.com.cn/zhongdian/202005215208.html"><img src="http://www.china-cer.com.cn/images/guanggao/hqf_ad.jpg"></a>
+</div>-->
+<!--内容开始--->
+<!--十四五广告-->
+ <div class="ssw_ad"><a href="http://www.china-cer.com.cn/ziliaodingyue/" target="_blank"><img src="http://www.china-cer.com.cn/images/guanggao/bgad2025.jpg"></a></div>
+<!--十四五广告--><div class="bg_huise">
+<div class="bg"><div class="mbx"><a href="http://www.china-cer.com.cn">首页</a> &gt; <a href="http://www.china-cer.com.cn/zhiku/">中宏智库</a> &gt; 因地制宜发展新质生产力 加快建设世界领先科技园区 详情</div><div class="content">
+  <div class="content_home zhuanlan">
+    <div class="list_left bg_bai">
+      
+                                                   <div class="hl_content">
+                                                    <div class="hl_c_title">
+          		  <h2>因地制宜发展新质生产力 加快建设世界领先科技园区</h2>
+		          </div>
+        <div class="hl_c_twid">《红旗文稿》2024/21  / <!--管理员 / -->2024-11-13 17:12:51</div>
+        <div class="hl_c_wcid"></div>
+        
+<div class="hl_body_w">
+	 <div class="hl_body_in">
+		<div class="hl_body">
+          						　　中关村建设世界领先科技园区，是习近平总书记、党中央作出的重大战略部署。党的二十届三中全会通过的《中共中央关于进一步全面深化改革、推进中国式现代化的决定》提出，“健全因地制宜发展新质生产力体制机制”。世界领先科技园区是科技创新资源高度集聚、科技成果引领发展、高效配置全球创新要素、引领区域经济发展的创新高地。习近平总书记三次向中关村<a href="http://www.china-cer.com.cn/latest_events/" target="_blank" class="keylink">论坛</a>致贺信，要求北京充分发挥教育、科技、人才优势，协同推进科技创新和制度创新，持续推进中关村先行先试改革，进一步加快世界领先科技园区建设，在前沿技术创新、高精尖产业发展方面奋力走在前列。作为中关村的发源地、首都“四个中心”功能集中承载地区，北京市海淀区是国家科技体制改革试验田，是北京国际科技创新中心核心区，具有教育、科技、人才资源高度密集和“四区”（国家自主创新示范区、国家服务业扩大开放综合示范区、自由贸易试验区、中关村综合保税区）政策叠加的独特优势。海淀区坚持把贯彻党的二十届三中全会精神与习近平总书记关于发展新质生产力的重要论述、建设世界领先科技园区的重要指示精神紧密结合起来，立足城市功能定位、区位特点、基础条件、资源优势，以进一步全面深化改革为牵引，奋力当好新时代首都高质量发展排头兵、新质生产力示范区，充分彰显推进中国式现代化的海淀担当，力争到2027年率先基本建成世界领先科技园区框架，打造世界级原始创新策源地、全球领先的产业发展高地、全球创新网络关键枢纽、具有全球竞争力的创新生态、国际一流的高品质典范城区；到2035年实现影响力、竞争力、引领力全球领先，成为国际一流的科学中心和创新高地，成为世界领先科技园区的标杆。
+<div>&nbsp;</div>
+<div><strong>　　一、提升原始创新策源能力</strong></div>
+<div>&nbsp;</div>
+<div>　　科技创新能够催生新产业、新模式、新动能，是发展新质生产力的核心要素。必须加强科技创新特别是原创性、颠覆性科技创新，加快实现高水平科技自立自强，打好关键核心技术攻坚战，使原创性、颠覆性创新成果竞相涌现，培育发展新质生产力的新动能。党的二十届三中全会强调，要深化科技体制改革，优化重大科技创新组织机制，加强国家战略科技力量建设。海淀区是原始创新重要策源地、自主创新主阵地，是国家战略科技力量重要承载地，紧紧围绕构建一流创新生态，突出原创性、颠覆性创新，让科技创新“关键变量”成为新质生产力赋能世界领先科技园区建设的“最大增量”。</div>
+<div>&nbsp;</div>
+<div>　　搭建高能级平台体系。服务好国家战略科技力量建设，支持和保障国家实验室、全国重点实验室高质量运行发展。聚焦国家战略需求，创新组织模式，深化与高校院所、国家级科研机构、新型研发机构合作，率先探索新型举国体制的中关村路径，推动战略科技力量体系化高效协同，开展原创性、引领性科技攻关，打造引领新质生产力的国家科技先导能力，为高质量发展提供基础支撑和源头供给。</div>
+<div>&nbsp;</div>
+<div>　　实施高水平攻关行动。实施基础研究领先行动，围绕人工智能、量子科技、集成电路、区块链、生命科学、新材料、新能源等领域开展基础研究和底层技术布局，发挥龙头企业市场需求、集成创新、组织平台优势，培育企业主导型高能级创新联合体，突破前沿科技和颠覆性技术，解决关键核心技术“卡脖子”难题。优化“揭榜挂帅”、“赛马”机制，支持和引导科技领军企业参与国家科技重大专项、重点研发计划，在产业发展最前沿和最具潜力领域抢占先机、赢得主动。</div>
+<div>&nbsp;</div>
+<div>　　推动高效能成果转化。围绕产业链部署创新链，围绕创新链布局产业链，促进科技创新与市场应用衔接互动、深度融合。完善支持激励政策措施，发展耐心资本，鼓励企业加大研发投入，提升研发强度。布局建设一批概念验证中心、中试平台，完善“概念验证—中小试熟化—工程转化”全过程转化链条，打造技术需求、应用场景需求对接平台，加速重大技术成果场景落地和迭代应用，促进科技成果转化为现实生产力。</div>
+<div>&nbsp;</div>
+<div><strong>　　二、构建特色现代化产业体系</strong></div>
+<div>&nbsp;</div>
+<div>　　面对新一轮科技革命和产业变革，必须抢抓机遇，加大创新力度，培育壮大新兴产业，超前布局建设未来产业，完善现代化产业体系。党的二十届三中全会强调，要推动科技创新与产业创新融合发展。近年来，海淀区逐步形成了以高精尖产业为支撑、以现代服务业为主导、以数字经济为驱动的产业体系。海淀区坚持以科技创新引领产业创新，加快构建以人工智能产业为灯塔、以战略性新兴产业和未来产业为主导、以科技服务业为底座的现代化产业体系。</div>
+<div>&nbsp;</div>
+<div>　　做强塔尖。实施人工智能“头雁”工程，聚焦前沿理论、底层技术、算力、数据、场景应用全链条发力，建设人工智能创新高地、要素聚集高地和产业集群高地。支持新型研发机构、高校院所形成具有市场核心竞争力的标志性创新产品。建设高能级算力基础设施，构建“超算+智算+通算+边缘计算”的算力供给体系。实施“人工智能+”行动，开发应用场景，催生一批新产业、新模式、新动能，发挥乘数效应。高标准规划建设全球首个人工智能创新街区，打造会学习、能思考、有温度、可进化的超级城市智能体，探索人工智能与生产、生活、城市治理深度融合，以人工智能赋能产业发展、城市运行、人民生活，充分释放数字经济红利。</div>
+<div>&nbsp;</div>
+<div>　　壮大塔身。聚焦信创、医药健康、集成电路、商业航天、新能源等高精尖领域，推动重点园区重点产业延链、补链、强链，培育一批具有生态主导力和产业链控制力的企业，加快优势战略性新兴产业融合集群发展，打造新增长引擎。聚焦具身智能、量子、6G、智能网联汽车、元宇宙等领域，前瞻布局，构建“源头创新—成果转化—产品开发—场景应用”未来产业培育链条，实现新技术从“实验室”向“生产线”的跨越，以未来产业开创产业未来。完善企业分类培育机制，建立“科技型中小企业—高新技术企业—独角兽企业”梯次培育体系，建设中关村地标型企业和世界一流原生企业。</div>
+<div>&nbsp;</div>
+<div>　　夯实塔基。完善科技服务业发展体制机制，聚焦研发设计、技术转移、创业孵化、知识产权、科技咨询、科技金融、检验检测等领域，提升科技服务市场化水平和国际竞争力，培育一批拥有知名品牌的科技服务机构和龙头企业，涌现一批新型科技服务业态，打造一批科技服务产业集群。做好科技金融、绿色金融、普惠金融、养老金融、数字金融“五篇大文章”，提升金融服务实体经济质效。优化金融生态，推动“科技—产业—金融”高水平良性循环，发展耐心资本，投早、投小、投硬科技，为发展新质生产力提供稳定资本支持。</div>
+<div>&nbsp;</div>
+<div><strong>　　三、打造绿色低碳发展样本</strong></div>
+<div>&nbsp;</div>
+<div>　　绿色发展是高质量发展的底色，新质生产力本身就是绿色生产力。党的二十届三中全会强调，要聚焦建设美丽中国，加快经济社会发展全面绿色转型，健全生态环境治理体系，推进生态优先、节约集约、绿色低碳发展，促进人与自然和谐共生。海淀区是国家生态文明建设示范区，是首都西北部的生态屏障，“山、水、林、田、湖、草”生态体系完整。海淀区坚持走生态优先、绿色发展之路，健全一体保护和系统治理机制，协同推进降碳、减污、扩绿、增长，促进人与自然和谐共生，厚植发展新质生产力的绿色底蕴。</div>
+<div>&nbsp;</div>
+<div>　　提升绿色发展“含新量”。推广应用绿色科技创新和先进绿色技术，实施清洁生产水平提升工程，做强绿色制造业，发展绿色服务业，壮大绿色能源产业，构建高效生态绿色产业集群，形成绿色低碳循环经济体系。建立重点行业、企业、园区碳管理体系，培育一批绿色企业、低碳园区、零碳园区。完善生态补偿机制和生态产品价值实现机制，发展绿色金融，培育绿色发展新动能。</div>
+<div>&nbsp;</div>
+<div>　　注重生活方式“含绿量”。牢固树立“绿水青山就是金山银山”、“节约就是增长”理念，倡导简约适度、绿色低碳、文明健康的生活和消费方式，培育绿色文化。开展绿色机关、零碳社区创建等节能降碳行动，让垃圾分类、绿色出行、节水节电、“光盘行动”等成风化俗。推动汽车换“能”、家电换“智”、家装“焕新”，推广低碳环保产品，加快新能源替代，促进经济社会发展全面绿色转型。</div>
+<div>&nbsp;</div>
+<div>　　强化环境治理“含金量”。发挥科技优势，纵深推进污染防治攻坚战，打好蓝天保卫战，深化“0.1微克”行动，让空气常新、蓝天常在。打好碧水保卫战，推进“水清岸绿”行动计划，坚持“水岸共治”，系统推进水资源保护、水环境治理和水生态修复，打造一批滨水景观绿廊。打好净土保卫战，有效管控建设用地和农用地土壤环境风险。</div>
+<div>&nbsp;</div>
+<div>　　抓好生态建设“扩容量”。推进国家森林城市建设，打造花园城市示范街区。实施园林绿化彩化三年行动，多元增绿、见缝插绿、立体绿化，新增一批城市绿道，扩大生态环境容量。建设一批融入科技、文化、艺术、体育元素的城市生态公园，打造服务市民需求的“城市会客厅”。</div>
+<div>&nbsp;</div>
+<div><strong>　　四、建设高水平人才高地</strong></div>
+<div>&nbsp;</div>
+<div>　　综合国力竞争说到底是人才竞争，人才是衡量一个国家综合国力的重要指标。形成具有吸引力和国际竞争力的人才制度体系，方能让各类人才的创造活力竞相迸发、聪明才智充分涌流。党的二十届三中全会强调，要深化人才发展体制机制改革，加快建设国家高水平人才高地和吸引聚集人才平台。教育、科技、人才是海淀区最具竞争力的资源优势。海淀区牢固树立“大人才观”，深化人才发展体制机制改革，探索畅通教育科技人才一体良性循环、有效贯通的新路径，培养引进聚集一批战略科学家、一流科技领军人才、高水平创新团队和各类高层次人才。</div>
+<div>&nbsp;</div>
+<div>　　培育更多高能级创新人才。探索科技融汇、产教融合新机制，用好高校院所资源，加强基础和关键领域人才培养。实施卓越青年科学家计划、杰出青年人才计划，集聚高活力青年科技人才。鼓励支持青年科技人才在原始创新和关键核心技术领域担重任、挑大梁。围绕人工智能等高精尖产业领域，实施企业经营管理人才素质提升工程，深化研究型大学与新型研发机构联合培养人才机制，拓展“薪火共燃计划”，培育一批高层次产业领军人才和优秀企业家。</div>
+<div>&nbsp;</div>
+<div>　　完善人才引进培养机制。围绕人工智能、集成电路、医药健康等产业，吸引聚集一批紧缺人才。支持企业高级管理人员、技术骨干人才担任驻区高校院所产业兼职教师。鼓励国际知名科技服务机构、硬科技孵化平台、风险投资机构落户，集聚多元化科技和产业服务人才。依托众创空间等载体，搭建创业项目展示交流平台，吸引海外人才聚集海淀创新创业。</div>
+<div>&nbsp;</div>
+<div>　　营造国际化人才发展环境。实行更加开放的人才政策，鼓励支持各类高端人才、专业人才来海淀工作、居留。建设高品质人才社区，补齐国际学校、国际医院短板，提升教育、医疗等公共服务国际化水平。完善人才服务机制，建好“一站式”人才服务平台，为高层次人才社会保障、创业融资、子女教育等提供便利化服务，营造国际一流的人才发展环境。</div>
+<div>&nbsp;</div>
+<div><strong>　　五、推动文化赋能提质</strong></div>
+<div>&nbsp;</div>
+<div>　　推动高质量发展，文化是重要支点。党的二十届三中全会强调，必须增强文化自信，发展社会主义先进文化，弘扬革命文化，传承中华优秀传统文化，加快适应信息技术迅猛发展新形势，培育形成规模宏大的优秀文化人才队伍，激发全民族文化创新创造活力。海淀区文化底蕴深厚、资源禀赋优异，是全国文化中心的主要承载区、首都历史文化名城保护区，有以“三山五园”(香山、玉泉山、万寿山和静宜园、静明园、颐和园、畅春园、圆明园)为核心的西山永定河文化带、大运河文化带重要节点，有“进京赶考”、“两弹一星”精神等红色文化资源和中关村创新文化资源、山水形胜的生态文化资源，古老传统文化与现代文明在此交相辉映。海淀区牢固树立大历史观、大文化观、大时代观，坚持守正创新，厚植文化自信，深化文化体制机制改革，加快建设文化强区，更好担负起新的文化使命，以文化软实力赋能新质生产力发展和世界领先科技园区建设。</div>
+<div>&nbsp;</div>
+<div>　　切实筑牢思想根基。牢牢把握党对意识形态工作领导权，健全网络综合治理机制，加强阵地管理，壮大主流思想舆论。巩固拓展学习贯彻习近平新时代中国特色社会主义思想主题教育成果，坚持不懈以习近平新时代中国特色社会主义思想凝心铸魂。推动理想信念教育常态化制度化，完善培育和践行社会主义核心价值观体制机制，抓好精神文明创建，培育积极健康、向上向善的社会风气。塑造城市精神，丰富中关村创新精神的时代内涵，形成独特城市文化标识，鼓舞人心、滋养人心、润泽人心，为经济社会高质量发展注入强大动能。</div>
+<div>&nbsp;</div>
+<div>　　创新传承历史文脉。坚持以文润城，深化“三山五园”国家文物保护利用示范区建设，探索文化遗产传承保护新路径，推动优秀传统文化创造性转化、创新性发展，发挥以文化人、以文育人的时代价值。繁荣文化事业，坚持以文惠民，用好各类文化资源，创新合作机制，探索构建区域文化共同体。拓展文化空间，打造特色文化品牌，提升公共文化服务品质，以高质量文化供给增强人民群众文化认同感、获得感。</div>
+<div>&nbsp;</div>
+<div>　　大力发展文化产业。坚持以文兴业，探索文化与科技双轮驱动、融合发展的有效机制，加快发展新型文化业态，实现文化与经济良性互动、相得益彰，写好“人文经济学”这篇大文章。深化以文塑旅、以旅彰文，挖掘古都文化、红色文化、创新文化的经济价值，打造更多可消费、可体验、可感受的沉浸式旅游新业态，激发文旅消费新活力。</div>
+<div>&nbsp;</div>
+<div><strong>　　六、深化高水平改革开放</strong></div>
+<div>&nbsp;</div>
+<div>　　发展新质生产力，必须进一步全面深化改革，形成与之相适应的生产关系。党的二十届三中全会强调，必须以新发展理念引领改革，立足新发展阶段，深化供给侧结构性改革，完善推动高质量发展激励约束机制，塑造发展新动能新优势；必须坚持对外开放基本国策，坚持以开放促改革，依托我国超大规模市场优势，在扩大国际合作中提升开放能力，建设更高水平开放型经济新体制。作为国家科技体制改革的试验田，从20世纪80年代“中关村电子一条街”，到北京市新技术产业开发试验区、中关村科技园区、中关村国家自主创新示范区、北京国际科技创新中心核心区，海淀区始终肩负着先行先试的责任使命。新时代以来，海淀区谋划实施各类改革举措500多项，为经济社会发展注入了强大动力。新征程上，海淀区将充分发挥“四区”政策叠加优势，统筹推进深层次改革和高水平开放，进一步解放和发展生产力，激发和增强社会活力。</div>
+<div>&nbsp;</div>
+<div>　　深化重点领域改革。细化承接好党中央60条、北京市委58条改革任务落地落实。坚持问题导向、需求导向、目标导向，结合新一轮中关村先行先试改革，在科技创新、产业发展、营商环境、新质生产力、超大城市治理等领域主动探索，谋划实施一批海淀特色标志性、引领性改革举措，形成一批可复制、可推广的改革经验。充分发挥基层首创精神，汇聚群众智慧，推出一批“落点准、见效快”的“微改革、微创新”案例，以“小切口”撬动大变革，用最短周期、最小成本、最大程度办好民心所向、发展所需、治理所急、群众所盼的关键实事，打通改革“最后一公里”，真正让改革红利可感受、能触摸、有温度。</div>
+<div>&nbsp;</div>
+<div>　　扩大更高水平开放。主动对接国际高标准经贸规则，稳步扩大制度型开放。用好中关村<a href="http://www.china-cer.com.cn/latest_events/" target="_blank" class="keylink">论坛</a>等平台，深化国际科技交流合作。支持科技领军企业牵头和参与数据安全、区块链等新技术新业态的标准制定。探索创新要素跨境流动便利化，形成具有全球竞争力的开放创新生态。高质量建设中关村综合保税区，拓展总部<a href="http://www.china-cer.com.cn/" target="_blank" class="keylink">经济</a>、跨境电商、数字文化、融资租赁、高端软件服务外包等服务业态，打造数字智慧综合保税区。</div>
+<div>&nbsp;</div>
+<div>　　促进区域协同联动。聚焦协同创新和产业合作，推进京津冀协同发展，支持雄安新区中关村科技园发展，支持驻区中央机构和企事业单位疏解项目落地雄安。抓好公共服务等领域重点合作事项落实和常态化干部人才交流。支持京津冀国家技术创新中心建设。以建立和完善机制为突破口，服务推动北京“三城一区”协同联动、融合发展。依托京蒙协作平台，为“京张呼”2小时创新生态圈建设率先探路。用好全国统一大市场，加强与长三角、珠三角等区域协同发展，探索建立创新链、产业链、供应链分工合作新机制，支持企业做强做大，形成核心竞争力。</div>
+<div>&nbsp;</div>
+<div>　　作者：张革&nbsp; 北京市海淀区委书记 来源：《红旗文稿》2024/21&nbsp;</div>
+<div>&nbsp;</div>
+		          </div>
+
+		<div class="text-center">
+			  <ul class="pagination">
+			  			  </ul>
+		</div>
+			</div>
+	
+</div>
+		                    <div class="blank20px"></div>
+<div class="color_huise_l font14">特别提示：凡注明“来源”或“转自”的内容均自于互联网，属第三方汇集推荐平台，版权归原作者及原出处所有。分享的内容仅供读者学习参考，不代表中国经济形势报告网的观点和立场。中国经济形势报告网不承担任何法律责任。如有侵权请联系QQ：3187884295进行反馈。</div>
+	<div class="blank20px"></div>
+        <div class="pcewm"><img src="http://www.china-cer.com.cn/images/w-erweima.jpg"></div>
+        <div class="pc_show"> <a href="https://appgFG0TNfE9798.h5.xiaoeknow.com"><img src="http://www.china-cer.com.cn/images/guanggao/pc_ad2.jpg"></a></div>
+        <div class="blank10px"></div>
+        <div class="wx_ad"><hr><a href="http://www.china-cer.com.cn/latest_events/2024092232.html" target="_blank"><img src="http://www.china-cer.com.cn/images/guanggao/bgh2025.jpg"></a></div>
+        <div class="hl_c_ad"></div>
+        <div class="hl_c_tag  clear">
+            <div class="hl_c_tagl">
+              <ul>
+			                </ul>
+            </div>
+
+          </div>
+        <div class="hl_c_copy">
+          <p>1.本站遵循行业规范，任何转载的稿件都会明确标注作者和来源；<br>
+            2.本站的原创文章，请转载时务必注明文章作者和"来源"，不尊重原创的行为本站或将追究责任；</p>
+        </div>
+        <br>
+        
+      </div>
+    </div>
+    <div class="list_right bg_bai">
+        
+           <div class="hrrwbd">
+           <hr>
+            <div class="hrrmhtttxt">最新新闻</div>
+            <div class="hrrwbd-content">
+              <ul>
+			<!--  -->
+            				                <li><a href="http://www.china-cer.com.cn/guwen/2024111329240.html" target="_blank">推动冰雪经济万亿级大市场成为新增长点</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111329238.html" target="_blank">我国经济韧性强、潜力大、空间广等有利条件依然较多</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111329236.html" target="_blank">国家安全是中国式现代化行稳致远的重要基础</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111329235.html" target="_blank">以新质生产力赋能高质量发展</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111329234.html" target="_blank">在法治轨道上促进民营经济高质量发展</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111329233.html" target="_blank">何为“隐性债务”隐性债务具有那些特征？</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111329232.html" target="_blank">以养老金融推进养老事业和养老产业协同发展</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111229231.html" target="_blank">圆桌对话：扎实推动经济持续向好、行稳致远</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111229229.html" target="_blank">黄益平：对当前几个重大经济问题的思考</a></li>
+				                <li><a href="http://www.china-cer.com.cn/guwen/2024111229228.html" target="_blank">张立群：中国经济正处蓄力待发阶段</a></li>
+					
+                          </ul>
+            </div>
+          </div>
+          
+          <div class="hrrwbd">
+           <hr>
+            <div class="hrrmhtttxt">热点文章</div>
+            <div class="hrrwbd-content">
+              <ul>
+			  				                <li><a href="http://www.china-cer.com.cn/zhiku/2024111329242.html" target="_blank">因地制宜发展新质生产力 加快建设世界领先科技园区</a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004214087.html" target="_blank">新冠疫情下的亚洲股票市场</a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004214084.html" target="_blank">全球化是人类历史发展的必然趋势</a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004214083.html" target="_blank">张继焦：从全球战“疫”中读懂中国自信</a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004214082.html" target="_blank">柯文俊：在疫情防控中彰显中国制度优势</a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004214069.html" target="_blank">疫情下全球和中国经济走势的分析</a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004214054.html" target="_blank"> 中国宏观经济智库联盟</a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004214053.html" target="_blank">“疫情后时代”的中国与世界</a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004204018.html" target="_blank">南京大学孔令池：构建长三角区域创新共同体 </a></li>
+				                <li><a href="http://www.china-cer.com.cn/zhiku/202004204016.html" target="_blank">高国力：推动形成高质量发展的区域经济布局  </a></li>
+					
+                          </ul>
+            </div>
+          </div>
+          <div class="hrrmht">
+        
+              <div class="hrrmhtttxt">热点标签</div>
+          
+            
+            <div class="hrrmht-content">
+              <ul>
+			  										  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  											                                                            <li class="li_h"><a href="http://www.china-cer.com.cn/tag-xinguanfeiyanyiqing-1.html" class="btn">新冠肺炎疫情</a></li>
+                                        			  				                                                            <li class="li_h"><a href="http://www.china-cer.com.cn/tag-jingjiyunxing-1.html" class="btn">经济运行</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-shuzijingji-1.html" class="btn">数字经济</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-shujushichang-1.html" class="btn">数据市场</a></li>
+                                        			  				                                                            <li class="li_h"><a href="http://www.china-cer.com.cn/tag-chengxiangronghefazhan-1.html" class="btn">城乡融合发展</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-fanhengshan-1.html" class="btn">范恒山</a></li>
+                                        			  				                                                            <li class=""><a href="http://www.china-cer.com.cn/tag-jingjixianghaofazhan-1.html" class="btn">经济向好发展</a></li>
+                                        			  				                                                            <li class=""><a href="http://www.china-cer.com.cn/tag-chengxiangquyuxiediaofazhan-1.html" class="btn">城乡区域协调发展</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-chenwenling-1.html" class="btn">陈文玲</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-daxiaotiao-1.html" class="btn">大萧条</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-guojijingjixingshi-1.html" class="btn">国际经济形势</a></li>
+                                        			  				                                                            <li class="li_h"><a href="http://www.china-cer.com.cn/tag-quyujingji-1.html" class="btn">区域经济</a></li>
+                                        			  				                                                            <li class=""><a href="http://www.china-cer.com.cn/tag-quyujingjifazhan-1.html" class="btn">区域经济发展</a></li>
+                                        			  				                                                            <li class="li_h"><a href="http://www.china-cer.com.cn/tag-quyujingjibuju-1.html" class="btn">区域经济布局</a></li>
+                                        			  				                                                            <li class=""><a href="http://www.china-cer.com.cn/tag-yidaiyilu-1.html" class="btn">一带一路</a></li>
+                                        			  				                                                            <li class="li_h"><a href="http://www.china-cer.com.cn/tag-guojizhiku-1.html" class="btn">国际智库</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-quanqiuzhilitixi-1.html" class="btn">全球治理体系</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-huangping-1.html" class="btn">黄平</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-guojiguanxizhonggou-1.html" class="btn">国际关系重构</a></li>
+                                        			  				                                                            <li class=""><a href="http://www.china-cer.com.cn/tag-zhongmeituogou-1.html" class="btn">中美脱钩</a></li>
+                                        			  				                                                            <li class=""><a href="http://www.china-cer.com.cn/tag-quyuxingronghefazhan-1.html" class="btn">区域性融合发展</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-quanqiujiazhilian-1.html" class="btn">全球价值链</a></li>
+                                        			  				                                                            <li class="li_l"><a href="http://www.china-cer.com.cn/tag-hongguanjingji-1.html" class="btn">宏观经济</a></li>
+                                        			  				                                                            <li class="li_h"><a href="http://www.china-cer.com.cn/tag-zhonghongzhiku-1.html" class="btn">中宏智库</a></li>
+                                        			  				                                                            <li class=""><a href="http://www.china-cer.com.cn/tag-gaoyuan-1.html" class="btn">高渊</a></li>
+                                        			  				                                                            <li class="li_h"><a href="http://www.china-cer.com.cn/tag-zhongguojingjizoushi-1.html" class="btn">中国经济走势</a></li>
+                                        			                </ul>
+            </div>
+          </div>
+            <div class="blank10px kongge"></div>
+        <div><img src="http://www.china-cer.com.cn/images/guanggao/w_tuogapo.jpg"></div>
+        </div>
+  </div>
+
+</div></div>
+<div class="blank20px"></div>
+<div class="blank20px"></div>
+</div>
+<!--内容结束--->
+<!--底部开始--->
+<div class="footer">
+	<p class="foot_nav">
+							<a href="http://www.china-cer.com.cn/about/about_us/" target="_blank">关于我们</a>
+						|<a href="http://www.china-cer.com.cn/about/institution/" target="_blank">机构设置</a>
+						|<a href="http://www.china-cer.com.cn/about/cooperation/" target="_blank">商务合作</a>
+						|<a href="http://www.china-cer.com.cn/about/job/" target="_blank">求职招聘</a>
+						|<a href="http://www.china-cer.com.cn/about/contact_us/" target="_blank">联系我们</a>
+						</p>
+	<p>版权所有：&nbsp;&nbsp;<a href="http://www.china-cer.com.cn/" title="中国经济形势报告网"><b>经济形势报告网</b></a>&nbsp;&nbsp;<a href="https://beian.miit.gov.cn/"></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+   <div class="tongji"><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?2e0d0bf92ae9a14367b8c3fc7bfc51af";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+</div>
+<script language="javascript" src="http://www.china-cer.com.cn/style/js/duilian.js"></script><div id="Javascript.LeftDiv" style="position: fixed; z-index: 1000; width: 100px; height: 300px; top: 260px; word-break: break-all; left: -29px;"><div align="right" style="position: absolute;top:0px;right:0px;margin:2px;padding:2px;z-index:2000; display:none;"><a href="javascript:;" onclick="hidead()" style="color:#fff;text-decoration:none;font-size:12px;">关闭</a></div><div><div align="center" style="color:green;font-size:23pt; display:none;"> <a href="http://www.china-cer.com.cn/latest_events/2023091828.html" target="_blank"><img src="http://www.china-cer.com.cn/images/guanggao/2024_dl.jpg" width="100" height="300" border="0"></a></div></div></div><div id="Javascript.RightDiv" style="position: fixed; z-index: 1000; width: 100px; height: 300px; top: 260px; word-break: break-all; left: 953px;"><div align="right" style="position: absolute;top:0px;right:0px;margin:2px;padding:2px;z-index:2000; display:none;"><a href="javascript:;" onclick="hidead()" style="color:#fff;text-decoration:none;font-size:12px;">关闭</a></div><div><div align="center" style="color:green;font-size:23pt; display:none;"> <a href="http://www.china-cer.com.cn/latest_events/2023091828.html" target="_blank"><img src="http://www.china-cer.com.cn/images/guanggao/2024_dl.jpg" width="100" height="300" border="0"></a></div></div></div>
+<!--底部结束--->
+<!--底部adv--->
+<script language="javascript" src="http://www.china-cer.com.cn/style/js/foodad.js"></script><div class="footApp"><div class="w1200"><div class="txt"><a href="http://www.china-cer.com.cn/ziliaodingyue/"><img src="http://www.china-cer.com.cn/images/guanggao/ad_db.png"></a></div><div class="pic"><img src="http://www.china-cer.com.cn/images/sma.png" width="120" alt=""></div><span class="fb-close">×</span></div></div>
+
+
+<script>
+
+			var imgUrl = 'http://www.china-cer.com.cn/images/fx_logo.jpg';  // 分享后展示的一张图片
+		
+        //var lineLink = 'http://www.china-cer.com.cn'; // 点击分享后跳转的页面地
+        var descContent = "中关村建设世界领先科技园区，是习近平总书记、党中央作出的重大战略部署。党的二十届三中全会通过的《中共中央关于进一步全面深化改革、推进中国式现代化的决定》提出，“健全因地制宜发展新质生产力体制机制”。世界领先科技园区是科技创新资源高度集聚、科技成果引领发展、高效配置全球创新要素、引领区域经济发展的创新高地。";  // 分享后的描述信息
+        var shareTitle = '因地制宜发展新质生产力 加快建设世界领先科技园区';  // 分享后的标题
+    wx.ready(function() {
+        wx.onMenuShareAppMessage({
+            title: shareTitle, // 分享标题
+            desc: descContent, // 分享描述
+            //link: lineLink, // 分享链接
+            imgUrl: imgUrl, // 分享图标
+            type: '', // 分享类型,music、video或link，不填默认为link
+            dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
+            success: function () {
+                // 用户确认分享后执行的回调函数
+            },
+            cancel: function () {
+                // 用户取消分享后执行的回调函数
+            }
+        });
+        wx.onMenuShareTimeline({
+            title: shareTitle, // 分享标题
+            //link: lineLink, // 分享链接
+            imgUrl: imgUrl, // 分享图标
+            success: function () {
+                // 用户确认分享后执行的回调函数
+            },
+            cancel: function () {
+                // 用户取消分享后执行的回调函数
+            }
+        });
+        wx.onMenuShareQQ({
+            title: shareTitle, // 分享标题
+            desc: descContent, // 分享描述
+            //link: lineLink, // 分享链接
+            imgUrl: imgUrl, // 分享图标
+            success: function () {
+                // 用户确认分享后执行的回调函数
+            },
+            cancel: function () {
+                // 用户取消分享后执行的回调函数
+            }
+        });
+        wx.onMenuShareWeibo({
+            title: shareTitle, // 分享标题
+            desc: descContent, // 分享描述
+            //link: lineLink, // 分享链接
+            imgUrl: imgUrl, // 分享图标
+            success: function () {
+                // 用户确认分享后执行的回调函数
+            },
+            cancel: function () {
+                // 用户取消分享后执行的回调函数
+            }
+        });
+		wx.updateAppMessageShareData({ 
+			title: shareTitle, // 分享标题
+			desc: descContent, // 分享描述
+			//link: lineLink, // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+			imgUrl: imgUrl, // 分享图标
+			success: function () {
+			  // 设置成功
+			}
+		});
+		wx.updateTimelineShareData({ 
+			title: shareTitle, // 分享标题
+			//link: lineLink, // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+			imgUrl: imgUrl, // 分享图标
+			success: function () {
+			  // 设置成功
+			}
+		  });
+    });		
+
+</script>
+</body></html>

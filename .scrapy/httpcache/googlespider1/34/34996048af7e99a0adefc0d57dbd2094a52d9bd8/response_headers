@@ -1,0 +1,11 @@
+Content-Type: text/html; charset=utf-8
+Server: openresty/1.19.9.1
+Date: Thu, 14 Nov 2024 06:20:46 GMT
+X-Powered-By: Next.js
+Etag: "2c746-mrP497x06h9EqoqqJrb97HknCHY"
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Kong-Upstream-Latency: 337
+X-Kong-Proxy-Latency: 0
+Via: kong/1.5.1

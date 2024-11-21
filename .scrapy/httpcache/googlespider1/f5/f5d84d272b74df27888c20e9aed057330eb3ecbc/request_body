@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "waf_captcha_marker=09815666e73f678a8496f6ac368107e7e92bbf2ff2f0fe6398e2e341129e21a1; dc_sid=ba25a36d53fdac96756eb8964bd86d8f",
+        "Referer": "https://blog.csdn.net/weixin_46034279/article/details/142471427",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://blog.csdn.net/weixin_46034279/article/details/142471427",
+    "wait": 6
+}

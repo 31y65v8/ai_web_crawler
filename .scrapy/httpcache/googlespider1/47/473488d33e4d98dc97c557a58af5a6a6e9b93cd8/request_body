@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.google.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%8F%B2+AND+%E5%85%B8%E5%9E%8B%E6%8A%80%E6%9C%AF&sca_esv=f3c126b7a3ab2fdd&ie=UTF-8&ei=oG41Z6zHLK6aseMPou7c-QI&start=10&sa=N",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.google.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%8F%B2+AND+%E5%85%B8%E5%9E%8B%E6%8A%80%E6%9C%AF&sca_esv=f3c126b7a3ab2fdd&ie=UTF-8&ei=nYA1Z7fcGd-gseMPtuW4yA4&start=20&sa=N",
+    "wait": 5
+}

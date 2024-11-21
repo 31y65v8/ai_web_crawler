@@ -1,0 +1,10 @@
+Server: nginx/1.19.6
+Date: Thu, 14 Nov 2024 06:14:08 GMT
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding
+Set-Cookie: oaid=772c51102bc1452db59796378548247c; Max-Age=315360000000; Domain=www.life001.com; Path=/
+X-Kong-Upstream-Latency: 30
+X-Kong-Proxy-Latency: 0
+Via: kong/3.5.0
+X-Kong-Request-Id: 1b8cb9515028af738fcd6f3bf7a53659
+Content-Encoding: gzip

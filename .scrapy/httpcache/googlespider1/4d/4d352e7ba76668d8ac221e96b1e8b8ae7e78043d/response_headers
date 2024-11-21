@@ -1,0 +1,10 @@
+Server: nginx
+Date: Thu, 14 Nov 2024 03:35:11 GMT
+Content-Type: text/html;charset=utf-8
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Set-Cookie: WEB_SESSION=DEC4CC053725B15F324D0CD533B22F9F; Domain=.zhizuobiao.com; Path=/; HttpOnly
+Content-Language: en-US
+Content-Encoding: gzip

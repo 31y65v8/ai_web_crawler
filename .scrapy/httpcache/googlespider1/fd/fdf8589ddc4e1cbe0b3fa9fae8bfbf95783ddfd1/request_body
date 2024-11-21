@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.google.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BC%BA%E4%B9%8F%E7%9A%84%E8%83%BD%E5%8A%9B&num=10",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.google.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%BC%BA%E4%B9%8F%E7%9A%84%E8%83%BD%E5%8A%9B&sca_esv=1c5d2991ca1b4824&ie=UTF-8&ei=H6A1Z9rREcWO4-EPleeBuAI&start=10&sa=N",
+    "wait": 5
+}

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "_csrf=ybGVgDsUktWo0H-AYmuxsmPL; x-csrf-token=yBf02WIO-tpk5cQFmEFEGUpKIF9KakfI3ieU",
+        "Referer": "https://tianchi.aliyun.com/specials/promotion/aigraph",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://tianchi.aliyun.com/specials/promotion/aigraph",
+    "wait": 6
+}

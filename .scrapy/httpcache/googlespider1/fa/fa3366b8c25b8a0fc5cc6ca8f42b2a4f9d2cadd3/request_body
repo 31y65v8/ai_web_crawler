@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "aws-priv=eyJ2IjoxLCJldSI6MCwic3QiOjB9",
+        "Referer": "https://aws.amazon.com/tw/what-is/artificial-intelligence/",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://aws.amazon.com/tw/what-is/artificial-intelligence/",
+    "wait": 6
+}

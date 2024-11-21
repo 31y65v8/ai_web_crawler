@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="keywords" content="">
+        <meta name="description" content="环球人物网是《环球人物》杂志社的官方网站，属于具备国家一类资质的中央新闻网站，拥有独立采编权，被国家网信办列入“互联网新闻信息稿源单位名单”，在“全国重要行业新闻网站传播力榜”中稳居前十。《环球人物》杂志由人民日报社主管、主办，是全国唯一的央媒人物类全媒体报道平台。">
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+        <title>“今年是AI发展的分水岭” - 环球人物网</title>
+        <link rel="shortcut icon" href="../favicon.ico">
+                <link rel="stylesheet" type="text/css" href="/statics/css/zt/swiper-bundle.min.css"/>
+        <link rel="stylesheet" type="text/css" href="/statics/css/zt/base_pc.css" />
+        <link rel="stylesheet" type="text/css" href="/statics/css/zt/base_ph.css" />
+        <script src="/statics/js/zt/jquery.js"></script>
+        <script src="/statics/js/zt/swiper-bundle.min.js"></script>
+        <script src="/statics/js/zt/zt_base.js"></script>
+        
+        
+        <style>
+            :root{
+                --themes_color: #0068c1;
+                --font_color: #ffffff;
+            }
+        </style>
+
+        <script type="text/javascript">
+            var uua = navigator.userAgent.toLowerCase()
+            if(/mobile/ig.test(uua)){
+                var cl = document.documentElement || document.body
+                var clw = cl.clientWidth >= 720 ? 720 : cl.clientWidth
+                var htmlDom = document.getElementsByTagName("html")[0];
+                htmlDom.style.fontSize = clw / 7.2 + "px";
+            }
+            
+            var _hmt = _hmt || [];
+        	(function() {
+        	  var hm = document.createElement("script");
+        	  hm.src = "https://hm.baidu.com/hm.js?070111fef388ecd8c776567c60a3d1a3";
+        	  var s = document.getElementsByTagName("script")[0]; 
+        	  s.parentNode.insertBefore(hm, s);
+        	})();
+        </script>
+
+        <style>
+        .set_font_on{
+            background: var(--themes_color);
+        }
+        .zt_search_btn{
+            background-color: var(--themes_color);
+        }
+        .zt_postion span::before{
+            background: var(--themes_color);
+        }
+        .show_main_ttile::after{
+            background: var(--themes_color);
+        }
+    </style>
+    </head>
+    <body>
+    		<div class="nav in_pc">
+			<div class="nav_main">
+				<a class="nav_list" href="../default.htm" target="_blank">首页</a>
+            <a class="nav_list " href="../channel/1/index.html" target="_blank">国际</a>
+            <a class="nav_list " href="../channel/2/index.html" target="_blank">国内</a>
+            <a href="../channel/135/index.html" target="_blank">China Fun</a>
+            <a href="../channel/162/index.html" target="_blank">长三角</a>
+            <a href="../channel/154/index.html" target="_blank">人民访谈</a>
+            <div class="nav_lists">
+                <span>热评</span>
+                <i class="psm_arrow"></i>
+                <div class="nav_lists_item">
+                    <a href="../channel/143/index.html" target="_blank">观点</a>
+                    <a href="../channel/20/index.html" target="_blank">思享</a>
+                    <a href="../channel/133/index.html" target="_blank">环球人物评</a>
+                    <a href="../channel/134/index.html" target="_blank">人民文娱评</a>
+                </div>
+            </div>
+            <div class="nav_lists">
+                <span>人事</span>
+                <i class="rsj_arrow"></i>
+                <div class="nav_lists_item">
+                    <a href="../channel/141/index.html" target="_blank">国内</a>
+                    <a href="../channel/142/index.html" target="_blank">国际</a>
+                </div>
+            </div>
+            <a class="nav_list " href="../channel/3/index.html" target="_blank">面孔</a>
+            <a class="nav_list " href="../channel/91/index.html" target="_blank">视野</a>
+            <div class="nav_lists">
+                <span>全媒矩阵</span>
+                <i></i>
+                <div class="nav_lists_item">
+                    <a href="../channel/54/index.html" target="_blank">特别策划</a>
+                    <a href="../channel/10/index.html" target="_blank">视听天下</a>
+                    <a href="index.html" target="_blank">专题</a>
+                </div>
+            </div>
+            <a class="nav_list " href="../channel/8/index.html" target="_blank">《环球人物》杂志</a>
+            <a class="nav_list" href="39/index.html" target="_blank">记者编辑专栏</a>
+            <!--<a class="nav_list" href="index.php?m=special&c=index&id=41" target="_blank">特刊</a>-->
+            <div class="nav_lists">
+                <span>人民品牌</span>
+                <i></i>
+                <div class="nav_lists_item">
+                    <a href="../channel/12/index.html" target="_blank">人民文创</a>
+                    <a href="../channel/13/index.html" target="_blank">人民学习</a>
+                    <a href="../channel/14/index.html" target="_blank">人民文娱</a>
+                </div>
+            </div>
+			</div>
+		</div>
+
+		<div class="nav in_ph">
+			<div class="nav_main">
+					<a  href="../waphtml/index.html">首页</a>
+					<a   href="../waphtml/channel/1/index.html">国际</a>
+					<a   href="../waphtml/channel/2/index.html">国内</a>
+					<a   href="../waphtml/channel/135/index.html">China Fun</a> 
+					<a   href="../waphtml/channel/162/index.html">长三角</a> 
+					<a   href="../waphtml/channel/154/index.html">人民访谈</a> 
+					<a   href="../waphtml/channel/143/index.html">热评</a>
+					<a   href="../waphtml/channel/141/index.html">人事</a>
+					<a   href="../waphtml/channel/3/index.html">面孔</a>
+					<a   href="../waphtml/channel/91/index.html">视野</a>
+					<a   href="../waphtml/channel/137/index.html">环媒生活</a>
+					<a   href="../waphtml/channel/53/index.html">全媒矩阵</a>
+					<a   href="../waphtml/channel/8/index.html">《环球人物》杂志</a>
+					<a  href="39/index.html" >记者编辑专栏</a>
+					<!--<a href="index.php?m=special&c=index&id=41">特刊</a>-->
+					<a   href="../waphtml/channel/9/index.html">人民品牌</a>
+			</div>
+		</div>
+            <div class="zt_top in_pc">
+            <a class="zt_top_l" href="../default.htm" target="_blank"><img src="/statics/images/zt/info_03.jpg"></a>
+            <div class="zt_top_r">
+                <div class="zt_top_r_hot_search">
+                    <span>热门搜索：</span>                                                                                                                                            <a target="_blank" href="index.php?m=search&c=index&a=init&siteid=1&typeid=1&q=金砖">金砖</a>
+                                                        </div>
+                <div class="zt_search">
+                    <form action="https://www.globalpeople.com.cn/index.php" method="get" id="myform">
+                        <input type="hidden" name="m" value="search">
+                        <input type="hidden" name="c" value="index">
+                        <input type="hidden" name="a" value="init">
+                        <input type="hidden" name="siteid" value="1" id="siteid">
+                        <input type="hidden" name="typeid" value="1">
+                        <input type="text" name="q" id="q" class="zt_search_q" placeholder="新闻关键字搜索" value="">
+                        <input type="submit" class="zt_search_btn" value="">
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            var myform = document.getElementById('myform');
+            myform.onsubmit=function(){
+                var con = document.getElementById("q");
+                conx = removeHTMLTag(con.value);
+                if(conx==""){
+                    alert('不能为空');
+                    return false;
+                }else{
+                    return true;
+                }
+            }
+        </script>
+    <div class="show_main">
+			<div class="show_main_content">
+				<div class="zt_postion in_pc">
+					<span>当前位置:</span>
+					<a href="../default.htm" class="hover_font" target="_blank">首页</a> &gt;
+					<a href="javascript:void(0);">专题</a> &gt;
+					<a href="51/index.html" class="hover_font" target="_blank">“聚力·奋发2024”环球人物年度盛典</a> 
+                    <!-- https://www.globalpeople.com.cn/index.php?m=special&c=index&a=special -->
+				</div>
+				<div class="show_main_l">
+					<div class="show_main_ttile">
+                        <p>专访北京智源人工智能研究院院长黄铁军</p>                        <h1>“今年是AI发展的分水岭”</h1>                        					</div>
+
+					<div class="show_main_mid">
+						<div class="show_main_msg">
+							<span>2023-12-21 14:03:00</span>
+							<span>来源：环球人物网-《环球人物》杂志</span>                   
+							<span>作者：刘舒扬</span>						</div>
+
+						<div class="show_set_font in_pc">
+							<span>小号</span>
+							<span class="set_font_on">中号</span>
+							<span>大号</span>
+						</div>
+					</div>
+					
+					<div class="zt_show_content">
+						<div>　　2023年，AI领域最令人瞩目的亮点之一是大模型。在今年7月于上海举办的世界人工智能大会（WAIC）上，有30余个大模型平台对外发布和亮相。大模型正在引领新一轮全球AI技术发展浪潮。</div>
+<div>　　大模型被称为新一代AI生态的核心。这是一个把智力赋予各种应用的基础性共性模型，能够从海量大数据中学到知识和规律，为各种通用智能任务提供服务，可应用于自然语言处理、图像识别、语音识别等领域。</div>
+<div>　　北京智源人工智能研究院（BAAI，以下简称智源）是国内最早从事大模型研究的机构之一。今年4月，微软副董事长兼总裁布拉德&middot;史密斯在接受采访时称：&ldquo;我们认为（全球）有3家机构处于领先位置，一是与微软合作的Open AI，二是谷歌，三是北京智源。&rdquo;</div>
+<div style="text-align: center;"><img alt="“今年是AI发展的分水岭”" src="/uploadfile/2023/1218/20231218033248584.png" style="width: 369px; height: 591px;" /><br />
+2023年12月5日，黄铁军在北京接受本刊记者采访。（本刊记者 侯欣颖 / 摄）</div>
+<div>　　北京大学计算机学院教授、博士生导师黄铁军是这所研发机构的掌舵者。他是&ldquo;70后&rdquo;，在AI领域耕耘了30余年。2018年，黄铁军和伙伴们共同讨论出&ldquo;智源&rdquo;这个名字，意为&ldquo;智慧的源头&rdquo;。除每年给本科生讲授两门基础性课程和指导研究生外，他的大部分时间在智源的办公楼&mdash;&mdash;这幢位于北京五道口、未来感十足的红房子里度过。</div>
+<div>　　万物的奥秘令他着迷。1988年，为了&ldquo;搞清楚奥秘&rdquo;，黄铁军报考了北京大学物理系，可&ldquo;差几分，没考上&rdquo;。他在武汉工业大学（今武汉理工大学前身）计算机应用专业度过了本科和硕士生涯，在华中理工大学（今华中科技大学前身）图像识别与人工智能研究所取得博士学位。</div>
+<div>　　12月上旬的一个上午，《环球人物》记者在智源的办公室里见到了黄铁军。他中等身材，衣着朴素，戴无框眼镜。他对未来图景充满期待，同时也在审慎地看待可能出现的风险。以下是《环球人物》记者与他的对话。</div>
+<div><strong>　　把AI作为&ldquo;年度人物&rdquo;是令人激动的</strong></div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：您如何看待本刊将AI推选为年度人物？</strong></span></div>
+<div>　　<strong>黄铁军：</strong>AI和人有可比性。其实AI这个概念被提出之初就被比作&ldquo;人&rdquo;，有其合理性，但也不全面。目前学科上已经有基本共识，即AI就是智能体。人也是智能体。智能体首先是一个物理存在的主体，然后具备智能。AI这么多方向，最后总要在一个载体上实现。目前AI的一个重要目标是模拟人的智能、超越人的表现。</div>
+<div>　　把AI评选为&ldquo;年度人物&rdquo;，令人激动，也恰如其分。2023年在AI发展史上将会是一个分水岭，在全世界范围内都是如此。今年AI领域最大的突破不仅是技术层面的，更是它的&ldquo;破圈&rdquo;，从一个技术话题成为社会话题。从某种意义上来说，这比技术上的突破更重要，大量非技术的社会资源的投入会加速技术进步。</div>
+<div>　　之前10多年，AI一直在迭代、积蓄，发展得很快，但大家心里始终不踏实，担心这种势能会不会再落下去，毕竟此前有过&ldquo;三起两落&rdquo;的历史覆辙。1956年&ldquo;达特茅斯会议&rdquo;推动全球第一次AI浪潮出现，直至1974年前后经历第一次寒冬，受限于性能和算法，那时AI能做的事情十分有限。上世纪80年代，&ldquo;知识工程&rdquo;成为AI研究的主要方向，带来第二轮热潮。但由于专家系统应用领域狭窄、知识获取困难，AI研究第二次陷入低谷。2006年，以计算机科学家杰弗里&middot;辛顿在《科学》（Science）杂志上发表的一篇深度学习文章为显著标志，AI迎来新一轮发展高潮。</div>
+<div>　　今年，我想大家都意识到，社会资源在AI领域的投入量已经达到了不可能再消失的程度。当然，因为热，投入不一定都是理性的，但总的来说，无论是人的资源、技术的资源还是数据的资源，等等，我认为最终都会发挥实实在在的作用。</div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：从科学上您如何定义&ldquo;AI&rdquo;？</strong></span></div>
+<div>　　<strong>黄铁军</strong>：AI就是制造有智能的机器，或制造有智能的系统&mdash;&mdash;我说的系统是偏实体化的&mdash;&mdash;这就是AI。</div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：目前常见的AI可以分为哪几类？其中，哪些是已经应用成熟的？哪些是可以期待的？</strong></span></div>
+<div>　　<strong>黄铁军：</strong>那就从&ldquo;实&rdquo;一点的角度来说吧。依据它们对产业、对社会发生作用的方式不同，我们可以把AI大致分为这么几类&mdash;&mdash;</div>
+<div>　　一种我们姑且称它为信息类的智能，如通过云、网、手机等各种方式提供智能服务，聊天机器人、图像生成软件等都属于这一类。这是目前应用比较成熟的，也是投入最多的。</div>
+<div>　　另一种我们称其为具身智能，即智能落到一个特定的物理实体上，如自动驾驶、机器人等。</div>
+<div>　　有人可能会问：今天的自动驾驶和以前我们常说的自动驾驶有什么区别？简单来说，以前的自动驾驶主要是模仿驾校教学过程&mdash;&mdash;司机看见什么，就要执行哪些具体操作；而现在的自动驾驶是要具备司机进驾校之前就有的那些能力&mdash;&mdash;不是左转右转、开快开慢那样的技能，而是对世界的认知。这样在行驶过程中遇到各种情况时，驾驶者才能做出合理的行动。再直白一点讲，人接受50个小时驾驶培训之后就能上路开车，牛就不行。</div>
+<div>　　这也是如今AI赋予自动驾驶的能力，有了对世界的认知能力，才谈得上具身智能。机器人也是一样的道理。目前具身智能应用尚不成熟，但技术道路已经打开了，可能性已经没问题了。</div>
+<div>　　还有一类智能，或许现在和我们的直接关系不是很大，但长远来说会产生极大影响&mdash;&mdash;AI赋能科学（AI for science）。我们常说科技是推动世界发展的重要力量，现在不少学科的研究范式比较传统，AI会带来新的范式，从而加速科学技术的进步，这种进步是跃进式而非渐进式的。</div>
+<div>　　比如数学领域。之前，一个数学猜想或是一个定理的证明，需要等待某位天才数学家的智力，因此重大突破往往历经数十年甚至几百年才实现。AI出现之后，很可能会改变这种局面。为什么？因为AI所掌握的数据的广度比人类数学家都要宽，它能把所有数学分支融会贯通，而许多定理证明恰恰需要把诸多分支串联在一起，形成一个很长的证明链。数学领域一旦有这样的事情发生，就是一个重大数学问题被AI解决了，之后重大突破就纷至沓来。</div>
+<div>　　再比如物质科学领域。以前做工程材料要做很多实验，大海捞针般地寻找有用的分子结构。而现在可以通过AI直接预测&mdash;&mdash;准确率往往还很高。鄂维南院士领衔的北京科学智能研究院（AISI）就在做这么一件事：在数字空间构建出高精度原子模型，然后用不同原子相互组合成分子，分子功能可以模拟出来，大大提高了实验效率。</div>
+<div>　　还有生命科学领域，智源正在做两个未来可能有大突破的方向。一个是做蛋白质，用AI加速对蛋白质的建模和理解。一个是做神经系统和人的器官&mdash;&mdash;目前是心脏，都在利用AI做高精度模拟。</div>
+<div>　　做这些有什么用？以心脏房颤治疗为例，医生采用的一种方法是通过能量烧灼异常放电的心肌细胞，来达到清除异常放电灶或者隔离错误信号的目的。烧灼的准确与否与医生本人经验息息相关。</div>
+<div>　　如果做出与患者心脏一模一样的数字孪生心脏，医生就可以先在数字心脏上预演手术，寻找最佳的烧灼位置，确定后再用到患者身上，手术成功率一下就提高了很多。所以这样的建模和模拟既可以帮助我们理解复杂对象，也能发挥实际作用，解决具体问题。</div>
+<div><strong>　　&ldquo;理解智能&rdquo;与&ldquo;制造智能&rdquo;</strong></div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：在我国的AI发展史中，科学家们的研究思路发生过怎样的转变？</strong></span></div>
+<div>　　<strong>黄铁军：</strong>拿我个人的经历来说吧。我是怀着对大脑和智能奥秘的好奇进入这一行的。</div>
+<div>　　1991年，读大学三年级时，我恰好有个机会可以跟着导师做&ldquo;863计划&rdquo;（国家高技术研究发展计划）智能计算机主题的项目，具体是做手写印刷体汉字识别，研究一些算法，使得手写汉字的识别率达到一定程度。那是要解决实际问题的，也取得了一些成绩。但是相比之下，我对人脑的奥秘、智能的奥秘更感兴趣，我的好奇心并没有得到满足，它们始终困扰着我。</div>
+<div style="text-align: center;"><img alt="“今年是AI发展的分水岭”" src="/uploadfile/2023/1218/20231218033324524.png" style="width: 339px; height: 267px;" /><br />
+1995年5月，黄铁军（左）硕士论文答辩时与导师胡家忠教授的合影。</div>
+<div>　　直到2010年前后，在参加&ldquo;973计划&rdquo;（国家重点基础研究发展计划）期间，我和脑科学家一起工作了三四年，才终于&ldquo;转过弯了&rdquo;。我发现之前自己一直致力于&ldquo;理解智能&rdquo;，试图搞清楚大脑是怎么回事、智能是怎么回事，其实是不现实的。这是科学的思维方式。我转换到了技术的思维方式&mdash;&mdash;&ldquo;制造智能&rdquo;，即不以理解为前提，先造一个东西出来，让其具备某种特定功能。</div>
+<div>　　这种思维方式在人类科技史中一直广泛存在。比如我国古代四大发明之一的指南针，最早的指南针司南在战国时期就有了，可电磁场理论直到近代才出现。</div>
+<div>　　再比如汉朝先民就知道用卤水点豆腐，但他们并不理解背后的化学反应机理。美国的莱特兄弟在1903年实现了人类历史上第一次驾机动力飞行，但空气动力学理论的建立也是后来的事情。所以我意识到，必须先做出来，再试图理解它。事实上，理解大脑、理解智能确实要比制造一个具有智能的机器难得多。</div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：促使您发生转变的契机是什么？</strong></span></div>
+<div>　　<strong>黄铁军：</strong>主要是一种紧迫感的驱使。那时我已经40多岁了，还有梦想，希望能在AI领域取得重大突破。在和脑科学家、神经科学家的合作过程中，我发现，他们面对的人脑是极其庞大复杂的神经系统，他们只能一点点去摸索。有人问过，脑科学什么时候能把智能的奥秘揭示出来？再乐观的脑科学家也只会告诉你，300年后能完成就不错了。可AI不能等300年后再做，这就必须转换思维方式&mdash;&mdash;不告诉你为什么，能不能做？</div>
+<div>　　人类发展依靠的是双轮&mdash;&mdash;科学和技术，不能简单地认为科学是第一性的，技术是第二性的。就像有人说中国古代的四大发明不是科学，只是技术，是第二性的。这话既对也不对。科学确实是我们缺失的一部分，我们要加强科学，要问为什么、找背后的原理，但是也不能抹煞了技术的伟大。在理解科学原理之前的技术发明更伟大。技术发明和科学发现一样，都是从0到1的原始创新。</div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：转变后，您在实践上会有什么变化？</strong></span></div>
+<div>　　<strong>黄铁军：</strong>就不束手束脚了。</div>
+<div>　　科学的目标是探索事物或现象背后的规律，努力回答&ldquo;为什么&rdquo;；技术的目标是创造新的事物或现象，核心是&ldquo;怎么做&rdquo;，是方法论问题。</div>
+<div>　　以制作指南针为例，需要解决的是用什么材料、打磨到什么程度它就指南这类问题。制造者并不懂&ldquo;磁场&rdquo;，甚至没有&ldquo;磁&rdquo;的概念，但这并不意味着他做不出可以指南的装置。</div>
+<div>　　AI也是这样，需要你做一个有智能的装置，并不以理解智能机理为前提，而是要探索怎么训练它效率高，这些事情是可以尝试、优化的。</div>
+<div>　　我并不是反对大家去理解它背后的原理，但是&ldquo;物有本末，事有终始，知所先后，则近道矣&rdquo;。科技实践过程中，既有科学发现在先、技术实现在后的例子，也有技术发明在先、科学发现在后的例子。科学和技术相互促进，迭代发展。</div>
+<div>　　就AI而言，人类智能对人类来说可能永远无法理解，但不等于我们做不出来类人甚至超人的智能。这就是技术思维和科学思维的区别。</div>
+<div><strong>　　&ldquo;智力时代&rdquo;</strong></div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：目前我国的AI行业在全球版图中处于什么位置？</strong></span></div>
+<div>　　<strong>黄铁军：</strong>回到AI本身，它首先是一门技术。技术发展到一定程度之后就是大工程，也就是做大系统。从这个意义上来说，AI领域已经进入到一个白热化的工程竞争期，有些开放，也有些不开放，这就很难比较谁快谁慢。</div>
+<div>　　必须强调的是，在工程技术的探索过程中，资源的投入、人的投入将会起到决定性作用。在信息类智能、实体类智能以及AI对科学的赋能上，我们都还有很多机会。现在只是一场马拉松开跑了，大家都在拼命地往前跑。</div>
+<div style="text-align: center;"><img alt="“今年是AI发展的分水岭”" src="/uploadfile/2023/1218/20231218033355600.png" style="width: 332px; height: 256px;" /><br />
+黄铁军正在调试一台视觉研究领域的设备。</div>
+<div>　　AI是通用型技术，就像电力技术等所有通用技术一样，不会被某一家企业垄断，也不会被某个国家或地区垄断。它基本的方法论大家都知道，只是具体到解决某个特定问题时，有的会快一点，有的会慢一点而已。</div>
+<div>　　这不是谁胜谁负的问题，这是一个时代&mdash;&mdash;我把它称之为&ldquo;智力时代&rdquo;，全世界都在往这个方向发展。这个时代至少会持续几十年，甚至上百年，未来也不会消失，它将是社会运行所需的重要基础设施。</div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：为什么发展AI这么重要？</strong></span></div>
+<div>　　<strong>黄铁军：</strong>我认为，人类进化史、地球演化史归根结底都是智能的进化史，本质是智力水平的不断提高。</div>
+<div>　　几年前，我全程参加了我国《新一代人工智能发展规划》的建议、起草和实施。《规划》的第一句话就是&ldquo;人工智能的迅速发展将深刻改变人类社会生活、改变世界&rdquo;。我非常幸运地赶上了这个时代，能在智能进化史中发挥一点作用。</div>
+<div><span style="color:#000080;"><strong>　　《环球人物》：目前有哪些风险需要提前考虑？</strong></span></div>
+<div>　　<strong>黄铁军：</strong>我们现在重视发展的是通用人工智能（General Artificial Intelligence，GAI），也就是具有通用性的AI，它不以超越人类为目标。</div>
+<div>　　但我们也应该注意到，世界正处于由通用人工智能向人工通用智能（Artificial General Intelligence，AGI）迈进的历史时期。这里的AGI就是所谓的&ldquo;超级AI&rdquo;，也就是全面超越人类的AI系统。现在我们就要考虑这个问题：AGI如果出现，我们怎么办？也许有人认为这是杞人忧天，但我认为这是个很现实的问题，可能性是存在的&mdash;&mdash;我认为这个时间会在2045年左右，还有人认为是在10年内甚至更短。我们要迎接这个重大挑战。</div>
+<div>　　&ldquo;人工智能之父&rdquo;艾伦&middot;图灵在1950年那篇划时代的论文《计算机器与智能》里写过这样一句话：&ldquo;我们能做到的，比我们能看到的要多得多。&rdquo;我很赞同。</div>
+<div>　　要去预测科技的进步是很难的，真正的科技进步主要是通过尝试和实践得来的，这个过程中会出现很多意想不到的新东西。2015年我在《人类能制造出&ldquo;超级大脑&rdquo;吗？》这篇文章中还引用了图灵这句话，我把它翻译为：&ldquo;吾等目力短亦浅，能见百事待践行。&rdquo;（本文图片除特别标注外，皆为受访者提供）</div>
+<br />
+<div><span style="color:#ff8c00;"><strong>　　系列报道：</strong></span><br />
+<div><a href="../channel/97/100127.html" target="_blank"><span style="color:#ff8c00;"><strong>　　</strong></span></a><a href="../channel/97/100122.html" target="_blank"><span style="color:#ff8c00;"><strong>破圈的AI</strong></span></a><br />
+<div><a href="../channel/97/100127.html" target="_blank"><span style="color:#ff8c00;"><strong>　　&ldquo;AI老顽童&rdquo;的44年</strong></span></a><br />
+<div><strong><a href="../channel/97/100136.html" target="_blank"><span style="color:#ff8c00;">　　嗅觉灵敏的&ldquo;AI猎人</span></a><span style="color:#ff8c00;">&rdquo;</span></strong><br />
+<div><a href="../channel/97/100150.html" target="_blank"><span style="color:#ff8c00;"><strong>　　&ldquo;AI请回答&rdquo;</strong></span></a>
+<div>
+<div><a href="../channel/97/100170.html" target="_blank"><span style="color:#ff8c00;"><strong>　　为AI&ldquo;立心&rdquo;</strong></span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br />
+					</div>
+                        
+                    <div id="pages"></div>
+                    
+                                         
+                    <!--关键词：-->
+                    <!--2024-6-1 0::0:0 后展示-->
+                    
+					<div class="zt_show_tips in_pc">
+						 <!-- <span>声明： 版权作品，未经《环球人物》书面授权，严禁转载，违者将被追究法律责任。</span>  -->
+						 <a href="javascript:getCUrl_goto(18)" >我要纠错</a>
+					</div>
+				</div>
+
+				<div class="baidu_share in_pc">
+					<div class="bdsharebuttonbox bdshare-button-style0-16">
+						<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+	                    <a href="#" class="bds_tsina bds_my_tsina"><div id="share_1"></div></a>
+	                    <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+					</div>
+				</div>
+	
+			</div>
+		</div>
+
+        <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"35"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='https://www.globalpeople.com.cn/statics/js/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+        <script src="/statics/js/js/jquery.share.min.js"></script>
+		<script type="text/javascript">
+		    $('#share_1').share({sites: ['weibo']});
+		</script>
+    			<div class="totop"></div>
+		
+		<!-- 底部 -->
+		<div class="foot">
+			<p>Copyright © 2015-2024 globalpeople.com.cn. All Rights Reserved. </p>
+			<a href="https://beian.miit.gov.cn/"  rel="nofollow">备案编号：京ICP备2023030480号</a>
+		</div>
+		
+		<script src="https://open.weibo.com/views/js/wbsdk.js" type="text/javascript" charset="utf-8"></script>
+
+		<script>
+			if( /mobile/ig.test(uua) ){
+				var all_a = document.querySelectorAll('a')
+				all_a.forEach(function(item){
+					item.removeAttribute('target')
+				})
+			}
+		</script>
+		<script src="/statics/js/zt/zt_base.js"></script>
+
+		<script type="text/javascript">
+			var newstit = "“今年是AI发展的分水岭”";
+			var newsdesc = "环球人物网，有温度的人物网站，国家一类资质新闻网站";
+			var imgUrl = "/statics/images/"+"../wap/info_03.jpg";
+		</script>
+				<script src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+		<script type="text/javascript">
+			var linkUrl = "3178.html";
+		</script>
+		<script type="text/javascript" src="/statics/js/wap/wx.js"></script>
+		<script>
+			var app_path = '../';
+			var id = '3178';
+			var specialid = '51'
+			var url = app_path + 'api.php?op=count&id=' + id + '&module=s-' + specialid;
+			$.get(url)
+		</script>
+    </body>

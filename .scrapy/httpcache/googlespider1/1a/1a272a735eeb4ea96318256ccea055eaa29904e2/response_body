@@ -1,0 +1,114 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>人工智能发展史简图</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <script src="https://hm.baidu.com/hm.js?d07e4d64d5cde19b5351e7032beaef1a"></script><script>
+        window.parent.postMessage({
+            event: 'headComplete',
+            time: Date.now()
+        }, '*');
+    </script>
+<link href="https://gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/thirdparty/js/wrap/third.css" rel="stylesheet" type="text/css"></head>
+<body class="font-size-1" ontouchstart="" style="visibility: visible;">
+<!-- // 此段js务必保留 -->
+<script type="text/javascript">
+    (function () {
+        var getQueryString = function (name, type) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+            var r = type === 1 ? window.location.search.substr(1)
+                .match(reg) : window.location.hash.substr(1).match(reg);
+            if (r != null) {
+                return unescape(r[2]);
+            }
+            return null;
+        };
+        var fsize = getQueryString('fontSize', 1) || 'font-size-1';
+        var sdkver = getQueryString('sdkver', 1);
+        var version = getQueryString('verision', 2);
+        version = version && version.slice(0, 8);
+        window.BAIDU_VERSION = sdkver || version;
+        window.BAIDU_VERSION = window.BAIDU_VERSION ? '_' + window.BAIDU_VERSION : '';
+        document.body.className = fsize;
+        var head = document.getElementsByTagName('head')[0];
+        var link = document.createElement('link');
+        link.href =
+            "https://gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/thirdparty/js/wrap/third" + window.BAIDU_VERSION + ".css";
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        window.addEventListener('message', function (e) {
+            if (e.data.event === 'postFontSize') {
+                document.body.className = e.data.data.fontSize;
+                document.body.style.visibility = 'visible';
+            }
+        });
+        link.onload = function () {
+            window.parent.postMessage({
+                event: 'getFontSize',
+                time: Date.now()
+            }, '*');
+            setTimeout(function () {
+                document.body.style.visibility = 'visible';
+            }, 200);
+        };
+        link.onerror = function () {
+            document.body.style.visibility = 'visible';
+        };
+        head.appendChild(link);
+    }());
+</script>
+<div id="container" class="container">
+    <div class="header">
+        <div id="title" class="titleFont">人工智能发展史简图</div>
+        <div class="info link" data-href="https://m.thepaper.cn">
+            <img src="https://file.thepaper.cn/wap/v6/img/logo_wap_v3.png" data-href="https://m.thepaper.cn">
+            <span data-href="https://m.thepaper.cn">
+                湃客：AI产业研究中心&nbsp;2020-10-25 08:56
+            </span>
+        </div>
+    </div>
+    <article>
+            <p class="contentFont">关注AI产业研究中心</p><p class="contentFont">专注5G、AI产业，为中国科技呐喊 ！</p><div style="text-align:center"><p class="contentImage"><img data-index="0" src="https://imagepphcloud.thepaper.cn/pph/image/95/277/192.jpg" data-width="555px" data-height="404px"></p></div>来源 | 学术头条<p class="contentFont">2020 年，在全球抗击疫情的背景下，当人与人之间的交往受到限制的时候，人工智能被赋予了更多的期待和重任。</p><p class="contentFont">通常来说，人工智能（Artificial Intelligence）是研究、开发用于模拟、延伸和扩展人智能的理论、方法、技术及应用系统的一门新技术科学。人工智能的研究领域包括机器人、语言识别、图像识别、自然语言处理和专家系统等。</p><p class="contentFont">事实上，给一门学科界定范围是很难的，即使是像数学这样古老的学科，有时我们也很难梳理出一个明确的边界。而对于一门正在快速发展的学科，尤其像人工智能这样仍在不断扩展边界，更是很难做出一个相对准确的判断。</p><p class="contentFont">另一方面，AI 的实用性极强，是一种极具代表性的多元跨专业学科。目前人工智能已被应用到各个领域，机械、电子、经济甚至哲学，都有所涉及。</p><p class="contentFont">我们查阅了大量的资料、文献，参考了海内外与人工智能历史相关的书籍，在 AMiner 科技情报引擎生成的河流图的基础之上，系统地梳理了人工智能的发展过程及其标志性成果，希望能将这段 70 年几经沉浮的历史，以一个更加清晰的形式呈现出来。</p><p class="contentFont">同时，我们还精心制作出本图文版的人工智能发展简史，以飨读者。</p><div style="text-align:center"><p class="contentImage"><img data-index="1" src="https://imagepphcloud.thepaper.cn/pph/image/95/277/194.jpg" data-width="661px" data-height="2733px"></p></div><div style="text-align:center"><p class="contentImage"><img data-index="2" src="https://imagepphcloud.thepaper.cn/pph/image/95/277/200.jpg" data-width="661px" data-height="2118px"></p></div><div style="text-align:center"><p class="contentImage"><img data-index="3" src="https://imagepphcloud.thepaper.cn/pph/image/95/277/208.jpg" data-width="661px" data-height="2319px"></p></div><div style="text-align:center"><p class="contentImage"><img data-index="4" src="https://imagepphcloud.thepaper.cn/pph/image/95/277/235.jpg" data-width="661px" data-height="3435px"></p></div><div style="text-align:center"><p class="contentImage"><img data-index="5" src="https://imagepphcloud.thepaper.cn/pph/image/95/277/254.jpg" data-width="661px" data-height="3575px"></p></div><div style="text-align:center"><p class="contentImage"><img data-index="6" src="https://imagepphcloud.thepaper.cn/pph/image/95/277/260.jpg" data-width="661px" data-height="2596px"></p></div><div style="text-align:center"><p class="contentImage"><img data-index="7" src="https://imagepphcloud.thepaper.cn/pph/image/95/277/273.jpg" data-width="661px" data-height="3337px"></p></div>人工智能的未来<p class="contentFont">2015 年张钹院士提出第三代人工智能体系的雏形。到 2018 年底，正式公开提出第三代人工智能的理论框架体系，确定了人工智能的发展已经进入了第三代。</p><p class="contentFont">2019 年，人工智能行业彻底告别了“喊口号”、“包装概念”的时代，步入稳步发展的轨道。人工智能技术和应用开始在各个行业落地，人工智能的成果和场景实践也层出不穷。</p><p class="contentFont">例如 NVDIA 开源的 StyleGAN ，谷歌量子霸权论文正式登上 Nature，波士顿动力机器狗 Spot 即将商用，阿里推出全球最强的 AI 芯片——含光 800， AI 换脸和 AI “人脸识别”协助警方等等。这些大事件都表明人工智能技术已经越来越“接地气”，进入到人们的生活中，而不是停留在研究和实验当中。而人工智能也被正式列入我国新增审批本科专业名单。</p><p class="contentFont">2020 年，在全球抗击疫情的背景下，当人与人之间的交往受到限制的时候，人工智能被赋予了更多的期待和重任。它在信息收集、数据汇总及实时更新、流行病调查、疫苗药物研发、新型基础设施建设等领域大显身手。与此同时，随着新技术新业态的不断涌现，人工智能凝聚全球智慧、助力全球经济复苏的力量更加突显。</p><p class="contentFont">2020 年 3 月 4 日，中央明确指示要加快推进国家规划已明确的重大工程和基础设施建设，人工智能被列入新基建范畴，它将是新一轮产业变革的核心驱动力，重构生产、分配、交换、消费等经济活动各环节，催生新技术、新产品、新产业。</p><p class="contentFont">2020 年 8 月 5 日，中国标准化管理委员会、中央网信办、国家发展改革委、科技部、工业和信息化部，五部门联合印发《国家新一代人工智能标准体系建设指南》。该指南提出了具体的国家新一代人工智能标准体系建设思路、建设内容，并附上了人工智能标准研制方向明细表，在国家层面进一步规范了人工智能的应用体系，明确了其发展方向。</p><p class="contentFont">人工智能将融入每个人的生活，变得无处不在。虽然任何技术的发展都会有高峰和低谷，在漫漫人工智能发展长河中，应保持乐观也保留理智。我们相信未来人工智能必将发挥长处，造福人类生活，促进经济发展。</p><p class="contentFont">最后，学术头条向那些致力于人工智能发展的一代又一代创新者们致敬。科技发展的背后离不开推动创新的人们，我们也期待更多年轻人，投身到科技改变世界的浪潮中。</p><p class="contentFont">END</p><p class="contentFont">原标题：《人工智能发展史简图（史上最全）》</p>
+    </article>
+</div>
+<!-- 我是分割线－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－ -->
+<script type="text/javascript">
+    // 此段js务必保留
+    (function () {
+        var domHeight = document.body.clientHeight;
+        window.parent.postMessage({
+            event: 'iFrameComplete',
+            height: domHeight,
+            time: Date.now()
+        }, '*');
+        var thirdJs = document.createElement("script");
+        thirdJs.src =
+            "https://gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/thirdparty/js/wrap/third" + window.BAIDU_VERSION + ".js";
+        document.body.appendChild(thirdJs);
+        thirdJs.onload = function () {
+            window.parent.postMessage({
+                event: 'thirdJsLoaded',
+                time: Date.now()
+            }, '*');
+        };
+    }());
+</script><script src="https://gss0.bdstatic.com/5bd1bjqh_Q23odCf/static/thirdparty/js/wrap/third.js"></script>
+<script>
+    // 此段js务必保留
+    window.parent.postMessage({
+        event: 'bodyComplete',
+        time: Date.now()
+    }, '*');
+</script>
+<!-- 百度统计js -->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d07e4d64d5cde19b5351e7032beaef1a";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<script src="//img.thepaper.cn/thepaper/third/thepaper_log.js"></script>
+
+</body></html>

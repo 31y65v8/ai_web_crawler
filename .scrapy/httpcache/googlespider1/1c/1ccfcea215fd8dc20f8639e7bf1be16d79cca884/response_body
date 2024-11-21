@@ -1,0 +1,452 @@
+<!DOCTYPE html><!--[if lt IE 7 ]>
+<html class="ie6"><![endif]--><!--[if IE 7 ]>
+<html class="ie7"><![endif]--><!--[if IE 8 ]>
+<html class="ie8"><![endif]--><!--[if IE 9 ]>
+<html class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class=" js touch csstransitions"><!--<![endif]--><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+  <meta name="renderer" content="webkit">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no, minimal-ui">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="keywords" content="">
+  <meta name="SiteName" content="中国科学院计算技术研究所">
+  <meta name="SiteDomain" content="ict.cas.cn">
+
+  <meta name="description" content="">
+  <meta name="author" content="author,中国科学院计算机网络信息中心">
+  <meta name="robots" content="index,follow">
+  <title>李国杰：“智能计算机”的历史、现在和未来：超算正与智能“历史性会合”--中国科学院计算技术研究所</title>
+
+  <!-- css -->
+  <link href="/images/bootstrap.min.css" rel="stylesheet">
+<link href="//api.cas.cn/lib/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="/images/common_ict.css" rel="stylesheet">
+
+ <link rel="icon" type="Image/x-icon" href="//asg.ict.ac.cn/images/logo.png">
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="//api.cas.cn/lib/selectivizr/1.0.2/js/selectivizr.js"></script>
+<![endif]-->
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="//api.cas.cn/lib/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="//api.cas.cn/lib/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+  <link href="../../../images/list_ict.css" rel="stylesheet">
+  <link href="../../../images/article_ict.css" rel="stylesheet">
+
+</head>
+
+<body>
+<!-- header -->
+<form name="searchform" action="/../../qwjs/index.html" method="get" target="_top">
+    <input type="hidden" name="keyword" value="" onkeydown="if(event.keyCode===13){return false;}">
+</form>
+<header>
+    <div class="header-top clearfix container">
+        <a href="/" target="_top"><img src="/images/header_ict.png"></a>
+        <div class="header-links hidden-sm hidden-xs">
+            <a href="https://mail.cstnet.cn/" class="btn_back hidden-sm hidden-xs">邮箱登录</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://oa.ict.ac.cn/" class="btn_back hidden-sm hidden-xs">所务办公</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://english.ict.cas.cn/" class="btn_back hidden-sm hidden-xs">English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        </div>
+        <!--pc版搜索框-->
+        <form name="searchForm" class="search hidden-sm hidden-xs" target="_top">
+            <input type="text" value="搜 索" name="searchWord" id="searchword" onclick="javascript:if(this.value=='搜 索') this.value=''" title="点击输入搜索词" onkeydown="if(event.keyCode===13){return false;}">
+            <input type="button" class="btn btn-search" value="" id="sub-pc" onkeydown="if(event.keyCode===13){return false;}">
+        </form>
+    </div>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="row main-navigation">
+                <div class="navbar-header">
+                    <!--移动版搜索框-->
+                    <form name="searchForm" class="search hidden-md hidden-lg" target="_top">
+                        <input type="text" value="搜 索" name="searchWord" id="iptSword" onclick="javascript:if(this.value=='搜 索') this.value=''" title="点击输入搜索词" onkeydown="if(event.keyCode===13){return false;}">
+                        <input type="button" class="btn btn-search" value="" id="sub-mobile" onkeydown="if(event.keyCode===13){return false;}">
+                    </form>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                </div>
+
+                <div class="collapse navbar-collapse" id="navbar-collapse-1">
+
+                    <ul class="nav navbar-nav">
+                        <li><a href="/" target="_top">首页</a></li>
+                        <li class="dropdown"><a href="/../../jssgk/" class="dropdown-toggle" data-toggle="dropdown" target="_top">计算所概况</a>
+                            <ul class="dropdown-menu">
+                                
+                                    <li><a href="/../../jssgk/jssjj/" target="_top">计算所简介</a></li>
+                                
+                                    <li><a href="/../../jssgk/xrsld/" target="_top">现任所领导</a></li>
+                                
+                                    <li><a href="/../../jssgk/lrld/" target="_top">历任领导</a></li>
+                                
+                                    <li><a href="/../../jssgk/xswyh/" target="_top">学术委员会</a></li>
+                                
+                                    <li><a href="/../../jssgk/xw/" target="_top">学位委员会</a></li>
+                                
+                                    <li><a href="/../../jssgk/zzjg/" target="_top">组织机构</a></li>
+                                
+                                    <li><a href="/../../jssgk/lsyg/" target="_top">历史沿革</a></li>
+                                
+                                    <li><a href="/../../jssgk/ysfm/" target="_top">计算所风貌</a></li>
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="/../../ky/" class="dropdown-toggle" data-toggle="dropdown" target="_top">科研工作</a>
+                            <ul class="dropdown-menu">
+                                
+                                    <li><a href="/../../ky/kygk/" target="_top">科研概况</a></li>
+                                
+                                    <li><a href="/../../ky/kjjl/" target="_top">科技奖励</a></li>
+                                
+                                    <li><a href="/../../ky/gjjl/" target="_top">国际交流</a></li>
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="/../../yjdw/" class="dropdown-toggle" data-toggle="dropdown" target="_top">研究队伍</a>
+                            <ul class="dropdown-menu">
+                                
+                                    <li><a href="/../../yjdw/yszj/" target="_top">两院院士</a></li>
+                                
+                                    <li><a href="/../../yjdw/gjjcqnkxjjhdz/" target="_top">国家杰出青年科学基金获得者</a></li>
+                                
+                                    <li><a href="/../../yjdw/jjwyxqnkxjjhdz/" target="_top">基金委优秀青年科学基金获得者</a></li>
+                                
+                                    <li><a href="/../../yjdw/zjxzjljhqnxz/" target="_top">“长江学者奖励计划”青年学者</a></li>
+                                
+                                    <li><a href="/../../yjdw/bjsjq/" target="_top">北京市杰出青年科学基金获得者</a></li>
+                                
+                                    <li><a href="/../../yjdw/yjy2020/" target="_top">研究员（正高级工程师）</a></li>
+                                
+                                    <li><a href="/../../yjdw/fyjy2020/" target="_top">副研究员（高级工程师）</a></li>
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="/../../yjsjy/" class="dropdown-toggle" data-toggle="dropdown" target="_top">教育工作</a>
+                            <ul class="dropdown-menu">
+                                
+                                    <li><a href="/../../yjsjy/gk/" target="_top">教育概况</a></li>
+                                
+                                    <li><a href="/../../yjsjy/zsxx/" target="_top">研究生招生</a></li>
+                                
+                                    <li><a href="/../../yjsjy/dsjj/" target="_top">导师介绍</a></li>
+                                
+                                    <li><a href="/../../yjsjy/xsgz/" target="_top">学生事务</a></li>
+                                
+                                    <li><a href="/../../yjsjy/jxypy/" target="_top">教学与培养</a></li>
+                                
+                                    <li><a href="/../../yjsjy/xwgl/" target="_top">学位管理</a></li>
+                                
+                                    <li><a href="/../../yjsjy/txh/" target="_top">校友工作</a></li>
+                                
+                                    <li><a href="/../../yjsjy/bshldz/" target="_top">博士后流动站</a></li>
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="/../../jsfz/" class="dropdown-toggle" data-toggle="dropdown" target="_top">技术发展</a>
+                            <ul class="dropdown-menu">
+                                
+                                    <li><a href="/../../jsfz/qyfh/" target="_top">企业孵化</a></li>
+                                
+                                    <li><a href="/../../jsfz/jszy/" target="_top">技术转移</a></li>
+                                
+                                    <li><a href="/../../jsfz/zscq/" target="_top">知识产权</a></li>
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="/../../dqyd/" class="dropdown-toggle" data-toggle="dropdown" target="_top">党群园地</a>
+                            <ul class="dropdown-menu">
+                                
+                                    <li><a href="/../../dqyd/jg/" target="_top">组织机构</a></li>
+                                
+                                    <li><a href="/../../dqyd/gzdt/" target="_top">工作动态</a></li>
+                                
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="/../../kxcb/" class="dropdown-toggle" data-toggle="dropdown" target="_top">科学传播</a>
+                            <ul class="dropdown-menu">
+                                
+                                    <li><a href="/../../kxcb/gk/" target="_top">科普概况</a></li>
+                                
+                                    <li><a href="/../../kxcb/sp/" target="_top">科普视频</a></li>
+                                
+                                
+                                    <li><a href="https://720yun.com/t/76vkswihprw#scene_id=46950265" target="_top">计算的脚步（网上展厅）</a></li>
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="/../../xxgk/" class="dropdown-toggle" data-toggle="dropdown" target="_top">信息公开</a>
+                            <ul class="dropdown-menu">
+                                
+                                    <li><a href="/../../xxgk/xxgkgd/" target="_top">信息公开规定</a></li>
+                                
+                                    <li><a href="/../../xxgk/xxgkzn/" target="_top">信息公开指南</a></li>
+                                
+                                    <li><a href="/../../xxgk/xxgkml/" target="_top">信息公开目录</a></li>
+                                
+                                    <li><a href="/../../xxgk/ysqgk/" target="_top">依申请公开</a></li>
+                                
+                                    <li><a href="/../../xxgk/xxgkndbg/" target="_top">信息公开年度报告</a></li>
+                                
+                                    <li><a href="/../../xxgk/yzs/" target="_top">预决算公开</a></li>
+                                
+                                    <li><a href="/../../xxgk/xxgklxfs/" target="_top">信息公开联系方式</a></li>
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="/../../rczp/" class="dropdown-toggle" data-toggle="dropdown" target="_top">人才招聘</a>
+                            <ul class="dropdown-menu">
+                                
+                                <li class="arrow-top"></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<!-- main -->
+<div class="main container">
+  <div class="row">
+    <ol class="breadcrumb">
+      <li><i class="fa fa-home pr-10"></i>&nbsp;<a href="../../../" title="首页" class="CurrChnlCls">首页</a>&nbsp;&gt;&gt;&nbsp;<a href="../../" title="新闻公告" class="CurrChnlCls">新闻公告</a>&nbsp;&gt;&gt;&nbsp;<a href="../" title="媒体文摘" class="CurrChnlCls">媒体文摘</a>
+
+      </li>
+    </ol>
+  </div>
+
+  <div class="row">
+    <!-- sidebar start -->
+    <aside class="col-md-3 col-sm-3 hidden-xs">
+    <div class="sidebar">
+        <div class="block clearfix">
+            <h3 class="type">新闻公告</h3>
+            <div class="subtype-list">
+                <ul class="left-nav">
+                    
+                    <li class="PL_MENU_CLASS" target="_self"><a href="../../jssxw/" target="_self"><i class="fa fa-angle-right"></i>计算所新闻</a></li>
+                    
+                    <li class="PL_MENU_CLASS" target="_self"><a href="../../xshd/" target="_self"><i class="fa fa-angle-right"></i>学术活动</a></li>
+                    
+                    <li class="PL_MENU_CLASS" target="_self"><a href="../" target="_self"><i class="fa fa-angle-right"></i>媒体文摘</a></li>
+                    
+                    <li class="PL_MENU_CLASS" target="_self"><a href="../../tzgg/" target="_self"><i class="fa fa-angle-right"></i>通知公告</a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</aside>
+    <!-- sidebar end -->
+
+    <div class="col-md-9 col-sm-9">
+      <div class="indexbox">
+        <div id="xlmain">
+          <p class="wztitle">李国杰：“智能计算机”的历史、现在和未来：超算正与智能“历史性会合”</p>
+          <p class="qtinfo hidden-lg hidden-md hidden-sm">发布时间：2019-07-09</p>
+          <p class="qtinfo hidden-xs">发布时间：2019-07-09  | 来源：中国科学报  &nbsp;&nbsp;|&nbsp;&nbsp;【<a onclick="window.print()" href="#">打印</a>】&nbsp;【<a onclick="window.close();" href="#">关闭</a>】</p>
+            <div class="textxl">
+            <div class="TRS_Editor"><p align="justify">　　<b>　　编者按</b>&nbsp;</p><p align="justify">　　<b>　 6月27日~29日，2019年世界智能计算机大会在深圳举行。在这次大会上，中国工程院院士、中科院计算所首席科学家、中科曙光董事长李国杰以《对智能超级计算机的几点认识》为题，深入浅出地剖析了智能计算机的历史、现在和未来。</b>&nbsp;</p><p align="justify">　　<b>　　“智能计算机”是李国杰从美国留学回来一直从事的工作，其对超算和智能计算的分析对于行业发展具有很高的借鉴价值。记者根据其演讲内容进行了论点梳理，以飨读者。</b>&nbsp;</p><p align="justify">　　<b>　　我们通常说的计算机指数字计算机。但人们一直希望“智能计算机”能像人脑一样处理信息，这是一种模拟计算。</b>&nbsp;</p><p align="justify">　　<strong>　　历史：超算是超算，智能是智能</strong>&nbsp;</p><p align="justify">　　“计算机之父”冯·诺依曼曾经试图模仿神经网络设计计算机，但并未成功。1946年11月，冯·诺依曼在给“控制论之父”诺伯特·维纳的信中写道：“我们选择了太阳底下最复杂的一个对象……向世人展示了一种绝对的且无望的通用性。”</p><p align="justify">　　事实上，从第一台电子计算机开始，计算机的发展就与模拟神经网络分道扬镳。此后数字计算的飞速发展，使得用计算机实现人工智能的方式与人脑的思维机制几乎不沾边。</p><p align="justify">　　20世纪80年代末至90年代初，在日本第五代计算机项目带动下，全球掀起一阵“智能计算机热”。当时的热点是面向智能语言和知识处理的计算机，研究重点是并行逻辑推理。</p><p align="justify">　　日本五代机走的是“定制化路线”。我国“智能计算机”研制走的则是一条比较通用的路线：从芯片、系统到软件、应用，都是“非定制化”。</p><p align="justify">　　1990年，国家科委（科技部的前身）批准成立“国家智能计算机研究开发中心”，不但开展了曙光系列并行计算机的研制，还从事了人工智能的基础研究和应用研究，为今天智能超算的发展打下了基础。</p><p align="justify">　　钱学森先生曾发表《关于“第五代计算机”的问题》提议：“第五代计算机是什么？是第二代巨型计算机。我认为再把这个概念叫做五代计算机或者六代计算机，就不那么合适了……建议为了不要混淆起见，就干脆叫第一代智能机。”</p><p align="justify">　　以此为标志，所谓的第五代计算机就分成了两个叉：一个是第二代巨型计算机，一个是第一代智能机——这是两个不同的概念。</p><p align="justify">　　事实证明，历史的发展与钱老的预测是相符的，从20世纪80年代以后的30年，计算机的发展之路确实符合钱学森的预测，超算是超算，智能是智能。</p><p align="justify">　　<strong>现在：智能与超算的历史性会合</strong>&nbsp;</p><p align="justify">　　超级计算是“算得快”的计算机。但智能计算机和超算不一样：智能的本意是“算得巧”，而不是“算得快”。这是两股道上的车。</p><p align="justify">　　本世纪以来，深度神经网络的成功和大数据的兴起，使得超级计算和计算智能（深度学习）走到一起，出现“历史性的会合”。</p><p align="justify">　　过去高性能计算机主要用于科学计算，现在的高性能计算机已大量用于大数据和机器学习。一组数据可以说明这一点：2015年，中国HPC在数据分析与机器学习领域应用只有27%，至2016年达到48%、2017年提升到56%。预计这个比例今后还将继续提高。</p><p align="justify">　　但是也应该看到，目前大量采用的智能计算实际上是基于GPU或GPU-Like加速器的“准智能计算”。比如，图像和语音的信号处理计算还是数值计算。</p><p align="justify">　　智能算法可以加速传统的科学计算。举例来说，今年4月，200多名科研人员从四大洲8个观测点“捕获”了黑洞的视觉证据。此项研究历时10余年，加州理工学院曾经采用Blue Waters超级计算机进行近900个黑洞合并的模拟，花费了2万小时的计算时间。后来采用新的机器学习程序和算法，从模拟中学习，帮助创建新的模型，在毫秒内就能给出合并结束状态的答案，大大促进了关于黑洞的研究。</p><p align="justify">　　如今，机器学习不仅是人工智能领域研究的重点，也正成为整个计算机科学研究的热点。</p><p align="justify">　　<strong>未来：智能超算的十大关注方向</strong>&nbsp;</p><p align="justify">　　人类可能会发明新的智能计算机，但至少最近20年内，智能超算是要高度重视的研究方向。关于智能超算的未来研究方向，以下10个方面值得重视。</p><p align="justify">　　第一，未来十年是体系结构的黄金时期。近几十年计算机的飞速发展一半来自摩尔定律，另一半来自系统结构的改进。摩尔定律即将走到尽头，计算机未来的改进将主要从结构改进入手。图灵奖得主、计算机体系结构宗师David Patterson与John Hennessy预言：“下一个十年将出现一个全新计算机架构的‘寒武纪’大爆发。”</p><p align="justify">　　第二，“人脑级能效”将是未来智能计算机的核心特征。大脑以超低功耗实现了超级复杂的计算，从目前的发展来看，超级计算机现在的能效还满足不了需求。“超算能效增长远远低于速度增长”，是计算机发展70年未有之大变局。这给我们提出挑战，未来超级计算机要达到像人脑一样的能效层次。</p><p align="justify">　　第三，要研究具有“低熵”特征的未来架构。智能计算机的本事主要体现在对付“不确定性”，而“熵”就是对不确定性的刻画。要通过全栈的系统设计应对不确定性挑战，在问题不确定、环境不确定、负载强度不确定的情况下，保障可预期的性能结果。</p><p align="justify">　　第四，要重视研究领域专用系统结构（DSA）以及可重塑处理器。近几十年通用处理器一直胜过专用处理器，这一局面正在改变。未来大多数计算将在专用加速器上完成，而通用处理器只是配角。</p><p align="justify">　　第五，要重视智能超算的通用性。尽管专用化是趋势，但作为一个智能中心和超算中心，还是要本着为大众服务的目标尽量匹配更多用户的需求。</p><p align="justify">　　第六，模拟计算值得重视。传感器接收的都是模拟信息，人脑处理的也是模拟量，连续变量的模拟计算是非图灵计算。模拟计算是离散数字计算的前辈，经过60年的变迁，模拟计算可能有机会东山再起，连续变量与离散变量的混合计算将开启计算新天地。</p><p align="justify">　　第七，计算存储一体化。人类的大脑计算和存储不是分开的，不需要数据搬移，所以未来的计算机体系结构可能要改变传统的把计算和存储分开的冯·诺依曼结构。</p><p align="justify">　　第八，推理驱动与数据驱动可能会交替发展。目前的智能应用，主要是数据驱动。人工神经网络属于开普勒研究模式，而人工智能研究中的推理驱动则是继承牛顿的演绎推理模式。1956年的“达特茅斯会议”预设了实现人工智能要走牛顿模式：先精确描述智能。但数据驱动如何转到推理驱动需要认真探索。</p><p align="justify">　　第九，要重视事件驱动计算。未来人工神经网络应考虑“时间”因素，基于事件的信息流（事件驱动计算）可直接反映人脑工作的自然模式，这是一种新的“空间—时间模式”。</p><p align="justify">　　第十，要建立智能超算新的测试基准。长期以来，评测超级计算机的性能都采用Linpack测试程序。它可以测出几乎满负荷、满功耗下的计算机浮点计算性能，是测试超级计算机可靠性和稳定性的理想程序。但是，由于功耗的限制，当前发展通用超级计算机已遇到极大的困难，领域专用超级计算机成为热门研究方向，Linpack显然不适合作为领域专用计算机的测试标准。</p><p align="justify">　　建立统一的基准评价标准，有助于行业内的良性竞争。希望从过去的超算到大数据和人工智能有一套新的标准，有一把尺子衡量技术，将影响力从学术界延伸至产业界。</p></div>
+          </div>
+          <div class="cas-wrap-appendix" style="display: none;">
+            <h6>附件：</h6>
+            <ul>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- footer -->
+<footer>
+    <div class="container">
+        <div class="row hidden-sm hidden-xs">
+            <img class="cas-logo" src="/images/footer_ict.png">
+            <span class="txt">版权所有©<script>document.write((new Date()).getFullYear());</script>2024  中国科学院计算技术研究所 &nbsp;&nbsp;<a target="_blank" href="https://beian.miit.gov.cn">京ICP备05002829号-1</a> &nbsp;&nbsp;京公网安备1101080060号<br>
+                    地址：北京市海淀区中关村科学院南路6号<br>
+                    电话：86-10-62601166  邮箱：ictoffice@ict.ac.cn
+      </span>
+      <span class="hidden-xs hidden-sm">
+                    <a href="/../../wfwjjb/"><img class="cas-logo" src="/../../wfwjjb/images/P020191217522293114126.jpg" style="margin-left: 5px; width: auto;height:64px;"></a>
+                </span>
+          <span class="hidden-xs hidden-sm"><a href="//bszs.conac.cn/sitename?method=show&amp;id=08E6159BAAA4168DE053022819AC06AE" target="_blank"><img id="imgConac" src="//dcs.conac.cn/image/blue.png" class="cas-logo"></a></span>
+        </div>
+        <div class="row hidden-lg hidden-md">
+            <div class="col-sm-12 col-xs-12 cas-logo">
+                <img src="/images/footer_ict.png">
+<span class="sydw-logo"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/60440102/CA330000000604401020002.js' type='text/javascript'%3E%3C/script%3E"));</script><span id="_ideConac"></span><script src="http://dcs.conac.cn/js/33/000/0000/60440102/CA330000000604401020002.js" type="text/javascript"></script>
+</span>
+</div>
+            
+            <div class="col-sm-12 col-xs-12">
+                <div class="txt">版权所有©<script>document.write((new Date()).getFullYear());</script>2024  中国科学院计算技术研究所<br>
+                    <a target="_blank" href="https://beian.miit.gov.cn">京ICP备05002829号-1</a> &nbsp;&nbsp;京公网安备1101080060号<br>
+                    地址：北京市海淀区中关村科学院南路6号<br>
+                    电话：86-10-62601166  邮箱：ictoffice@ict.ac.cn
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- js -->
+<script src="/images/jquery.min.js"></script>
+<script src="//api.cas.cn/lib/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="/images/jquery.touchSwipe.min.js"></script>
+<script src="/images/modernizr_ict.js"></script>
+<script src="/images/common_ict.js"></script>
+<script src="/images/lightbox.min.js"></script>
+
+<script type="text/javascript">
+    function isValid(str){
+        if(str.indexOf('&') != -1 || str.indexOf('<') != -1 || str.indexOf('>') != -1 || str.indexOf('\'') != -1
+            || str.indexOf('\\') != -1 || str.indexOf('/') != -1 || str.indexOf('"') != -1
+            || str.indexOf('%') != -1 || str.indexOf('#') != -1){
+            return false;
+        }
+        return true;
+    }
+
+    $(function(){
+window.onload=function () { $("input").attr('onkeydown',"if(event.keyCode===13){return false;}"); };
+        $('#sub-pc').click(function(){
+            var searchword = $.trim($('#searchword').val());
+            if(searchword == "" || searchword == "请输入关键字" || !isValid(searchword)){
+                alert("请输入关键词后再进行提交。");
+                return false;
+            }
+            $('input[name="keyword"]').val(encodeURI(searchword));
+            $('form[name="searchform"]').submit();
+        });
+
+        $('#sub-mobile').click(function(){
+            var iptSword = $.trim($('#iptSword').val());
+            if(iptSword == "" || iptSword == "请输入关键字" || !isValid(iptSword)){
+                alert("请输入关键词后再进行提交。");
+                return false;
+            }
+            $('input[name="keyword"]').val(encodeURI(iptSword));
+            $('form[name="searchform"]').submit();
+        });
+
+    });
+
+</script>
+
+<script type="text/javascript">
+    var locationStr = '首页|新闻公告|媒体文摘';
+    var curArray = locationStr.split('|');
+    var curHtml = '';
+    if(curArray.length == 1){
+        curHtml = '<a href=\"http://ict.cas.cn/\">首页</a>&nbsp;&gt;&nbsp;<a href="../">媒体文摘</a>';
+    }
+    if(curArray.length == 2){
+        curHtml = '<a href=\"http://ict.cas.cn/\">首页</a>&nbsp;&gt;&nbsp;<a href="../../">新闻公告</a>&nbsp;&gt;&nbsp;<a href="../">媒体文摘</a>';
+    }
+    if(curArray.length == 3){
+        curHtml = '<a href=\"http://ict.cas.cn/\">首页</a>&nbsp;&gt;&nbsp;&nbsp;&gt;&nbsp;<a href="../../">新闻公告</a>&nbsp;&gt;&nbsp;<a href="../">媒体文摘</a>';
+    }
+    if($("ol.col-sm-12").length == 1){
+        $("ol.col-sm-12").html(curHtml);
+    }
+
+    var curLocation = '首页|新闻公告|媒体文摘';
+    if($('.temp02-wrap-LmenuList li').length > 0){
+        $('.temp02-wrap-LmenuList li').each(function(){
+            var index = -1;
+            var thisChn = $.trim($(this).text());
+            if((index = curLocation.indexOf(thisChn)) != -1){
+                $(this).addClass('active');
+                $(this).siblings().removeClass('active');
+            }
+        });
+    }
+</script>
+<!--左侧嵌套js-->
+<script>
+    $(document).ready(function(){
+        $(".PL_MENU_CLASS").removeClass("current");
+        var currentChannel = $(".lanmu_l").text();
+        $(".PL_MENU_CLASS").each(function(){
+            var curtxt = $(this).text();
+            if(currentChannel == curtxt){
+                $(this).children().addClass("current");
+            }
+        });
+    });
+</script>
+
+<!--附件js-->
+<script>
+
+    $(function(){
+
+        //附件
+        var appLinkArr = new Array(); //附件路径
+        var appLinkStr = '';
+        appLinkArr = appLinkStr.split('|');
+        var appDescArr = new Array(); //附件名称
+        var appDescStr = '';
+        appDescArr = appDescStr.split('|');
+        if(appLinkArr[0] != '' && appDescArr[0] != ''){
+            var appHtml = "";
+            $.each(appLinkArr, function(i, str) {
+                if(str.indexOf('doc') != -1){
+                    appHtml += '<li><a href="' + str + '"><i class="fa fa-file-word-o" aria-hidden="true"></i>' + appDescArr[i] + '</a></li>';
+                }
+                if(str.indexOf('xls') != -1){
+                    appHtml += '<li><a href="' + str + '"><i class="fa fa-file-excel-o" aria-hidden="true"></i>' + appDescArr[i] + '</a></li>';
+                }
+                if(str.indexOf('ppt') != -1){
+                    appHtml += '<li><a href="' + str + '"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>' + appDescArr[i] + '</a></li>';
+                }
+                if(str.indexOf('pdf') != -1){
+                    appHtml += '<li><a href="' + str + '"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>' + appDescArr[i] + '</a></li>';
+                }
+                if(str.indexOf('txt') != -1){
+                    appHtml += '<li><a href="' + str + '"><i class="fa fa-file-text-o" aria-hidden="true"></i>' + appDescArr[i] + '</a></li>';
+                }
+                if(str.indexOf('rar') != -1 || str.indexOf('zip') != -1){
+                    appHtml += '<li><a href="' + str + '"><i class="fa fa-file-archive-o" aria-hidden="true"></i>' + appDescArr[i] + '</a></li>';
+                }
+            });
+            $(".cas-wrap-appendix ul").html(appHtml);
+        }else{
+            $(".cas-wrap-appendix").hide();
+        }
+    });
+</script>
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>

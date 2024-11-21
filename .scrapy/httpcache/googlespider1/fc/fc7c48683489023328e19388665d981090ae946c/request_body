@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "PHPSESSID=qdsgrb8h4b3isc67fp151ao5v2; HQthink_language=en-US; HQthink_template=hq_whht",
+        "Referer": "http://www.whht.org.cn/news/info/id/1402.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "http://www.whht.org.cn/news/info/id/1402.html",
+    "wait": 6
+}

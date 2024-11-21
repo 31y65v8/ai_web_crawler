@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "NID=519=mQXVnOhr42xrfdQYXogaAZPD_tQlpS0DWfXDfAoc9JtnvDtHfm_bj-7RcfahnvhnMU8kWWJMzz70appDu94kLhliauzMKyK_v457X3wSqkuD3N4xVvfVBLnAqqKoELrNaUbNEPXEaBxVGUDhQ7LuTrlvJm_AWHA_7au6ZJKwEkY4mxJ7omx5FoKyxu_FrqM",
+        "Referer": "https://www.google.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF+AND+%E5%BA%94%E7%94%A8&sca_esv=2b265522246b066d&ie=UTF-8&ei=o5Q1Z47BFJubnesPn_b6wAk&start=50&sa=N",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.google.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF+AND+%E5%BA%94%E7%94%A8&sca_esv=2b265522246b066d&ie=UTF-8&ei=tZQ1Z_n4NdyUseMPs8m16QE&start=60&sa=N",
+    "wait": 5
+}

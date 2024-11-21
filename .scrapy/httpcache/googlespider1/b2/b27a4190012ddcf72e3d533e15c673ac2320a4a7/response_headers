@@ -1,0 +1,44 @@
+Content-Length: 52245
+Content-Type: text/html; charset=utf-8
+Belfrage-Cache-Status: MISS
+Bid: sally
+Brequestid: db55f61d42994556bb11586495ca976f
+Bsig: 92fe712e7d9edb2f807b50d85b37332b
+Cache-Control: public, stale-if-error=300, stale-while-revalidate=120, max-age=30
+Content-Encoding: gzip
+Content-Security-Policy: default-src 'self' *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com https://*.googlesyndication.com;child-src 'self';connect-src 'self' https:;font-src *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com data: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/ https://fonts.gstatic.com;frame-src 'self' *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com https://*.amazon-adsystem.com https://*.chartbeat.com https://*.doubleclick.net https://*.facebook.com https://*.google.com https://*.googleadservices.com https://*.googlesyndication.com https://*.mapcreator.io https://*.teads.tv https://*.thomsonreuters.com https://*.twitter.com https://bbc-maps.carto.com https://bbc.com https://cdn.privacy-mgmt.com https://chartbeat.com https://edigitalsurvey.com https://flo.uri.sh https://public.flourish.studio https://www.instagram.com https://www.riddle.com https://www.tiktok.com https://www.youtube-nocookie.com https://www.youtube.com;img-src *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com data: 'self' https://*.adsafeprotected.com https://*.amazon-adsystem.com https://*.cdninstagram.com https://*.doubleclick.net https://*.effectivemeasure.net https://*.google.com https://*.googlesyndication.com https://*.googleusercontent.com https://*.gstatic.com https://*.imrworldwide.com https://*.teads.tv https://*.tiktokcdn.com https://*.twimg.com https://*.twitter.com https://*.xx.fbcdn.net https://i.ytimg.com https://ping.chartbeat.net https://sb.scorecardresearch.com https://www.googleadservices.com;script-src 'self' 'unsafe-inline' *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com https://*.adsafeprotected.com https://*.amazon-adsystem.com https://*.chartbeat.com https://*.covatic.io https://*.doubleverify.com https://*.effectivemeasure.net https://*.facebook.com https://*.g.doubleclick.net https://*.google.ae https://*.google.at https://*.google.az https://*.google.be https://*.google.ca https://*.google.ch https://*.google.cl https://*.google.co.id https://*.google.co.il https://*.google.co.in https://*.google.co.jp https://*.google.co.kr https://*.google.co.nz https://*.google.co.tz https://*.google.co.ve https://*.google.com https://*.google.com.af https://*.google.com.ar https://*.google.com.au https://*.google.com.bo https://*.google.com.br https://*.google.com.co https://*.google.com.cy https://*.google.com.ec https://*.google.com.eg https://*.google.com.gt https://*.google.com.hk https://*.google.com.kh https://*.google.com.mm https://*.google.com.mt https://*.google.com.mx https://*.google.com.ng https://*.google.com.ni https://*.google.com.np https://*.google.com.pe https://*.google.com.pk https://*.google.com.pr https://*.google.com.py https://*.google.com.ro https://*.google.com.sa https://*.google.com.sg https://*.google.com.sv https://*.google.com.tr https://*.google.com.tw https://*.google.com.ua https://*.google.com.uy https://*.google.com.vn https://*.google.cv https://*.google.cz https://*.google.de https://*.google.dk https://*.google.es https://*.google.fi https://*.google.fr https://*.google.ge https://*.google.hn https://*.google.ie https://*.google.iq https://*.google.it https://*.google.jo https://*.google.kz https://*.google.lk https://*.google.lv https://*.google.nl https://*.google.no https://*.google.pl https://*.google.ru https://*.google.se https://*.google.so https://*.googlesyndication.com https://*.imrworldwide.com https://*.mapcreator.io https://*.permutive.com https://*.teads.tv https://*.thomsonreuters.com https://*.twimg.com https://*.twitter.com https://*.wearehearken.eu https://*.webcontentassessor.com https://*.xx.fbcdn.net https://adservice.google.co.uk https://bbc.gscontxt.net https://cdn.ampproject.org https://cdn.privacy-mgmt.com https://connect.facebook.net https://lf16-tiktok-web.ttwstatic.com https://public.flourish.studio https://sb.scorecardresearch.com https://www.googletagservices.com https://www.instagram.com https://www.riddle.com https://www.tiktok.com;style-src 'unsafe-inline' *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com https://*.twimg.com https://*.twitter.com https://*.xx.fbcdn.net https://fonts.googleapis.com https://lf16-tiktok-web.ttwstatic.com;media-src 'self' blob: https:;worker-src blob: 'self' *.bbc.co.uk *.bbc.com;report-to worldsvc;upgrade-insecure-requests
+Etag: W/"373a2-QSiKGdw2bikta1w2EHkOGJq8Wuo"
+Link: <https://ichef.bbci.co.uk>; rel="dns-prefetch", <https://ichef.bbci.co.uk>; rel="preconnect",<https://static.files.bbci.co.uk>; rel="dns-prefetch", <https://static.files.bbci.co.uk>; rel="preconnect",<https://static.files.bbci.co.uk>; rel="preconnect"; crossorigin,<https://a1.api.bbc.co.uk/hit.xiti?>; rel="dns-prefetch", <https://a1.api.bbc.co.uk/hit.xiti?>; rel="preconnect",<https://ping.chartbeat.net>; rel="dns-prefetch", <https://ping.chartbeat.net>; rel="preconnect"
+Onion-Location: https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/zhongwen/simp/science-43142127
+Referrer-Policy: no-referrer-when-downgrade
+Report-To: {"group":"worldsvc","max_age":2592000,"endpoints":[{"url":"https://ws.bbc-reporting-api.app/report-endpoint","priority":1}],"include_subdomains":true}
+Report-To: {"group":"default","max_age":2592000,"endpoints":[{"url":"https://default.bbc-reporting-api.app/report-endpoint","priority":1}],"include_subdomains":true}
+Req-Svc-Chain: FASTLY,GTM,BELFRAGE
+Via: 1.1 BBC-GTM, 1.1 Belfrage, 1.1 varnish
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Origin-Agent-Cluster: ?0
+Nel: {"report_to":"default","max_age":2592000,"include_subdomains":true,"failure_fraction":0.25}
+X-Bbc-Edge-Cache-Status: MISS
+X-Bbc-Origin-Response-Status: 200
+Server: BBC-GTM
+X-Robots-Tag: bingbot: noarchive
+Strict-Transport-Security: max-age=31536000; preload
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Thu, 14 Nov 2024 03:50:49 GMT
+X-Fastly-Cache-Status: MISS-CLUSTER
+X-Served-By: cache-lon420085-LON
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1731556249.341028,VS0,VE106
+X-Fastly-Pre-Flight-Cache: MISS, HIT
+X-Fastly-Pre-Flight-Cache-Status: HIT-CLUSTER
+X-Cache-Age: 0
+X-Lb-Nocache: true
+Vary: X-BBC-Edge-Scheme,Accept-Encoding
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

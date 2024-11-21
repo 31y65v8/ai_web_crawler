@@ -1,0 +1,1256 @@
+<!DOCTYPE html><html lang="zh-cmn-Hans"><head>
+<meta charset="utf-8">
+<title>人工智能技术主要应用于什么方面 - 21ic电子网</title>
+
+<meta name="keywords" content="人工智能,智慧城市">
+<meta name="description" content="在当今科技日新月异的时代，人工智能(Artificial Intelligence, AI)作为一项前沿且具有颠覆性的技术，已经深度融入到社会生活的各个层面，并持续推动着各行各业的变革与发展。从解决复杂的决策问题到优化日常生活中的各类服务，AI的应用领域广泛而深入，以下将详述其主要应用场景及所带来的深远影响。">
+
+<link href="/css/2017global2_min.css?v=1681093662" rel="stylesheet">
+<link href="/css/2016content2.css?v=23119" rel="stylesheet">
+<link href="/css/channel_index2019.css?v=1681699772" rel="stylesheet">
+<link href="/css/homepage/index_nav2_min.css?v=1724035896" rel="stylesheet">
+<script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="/js/homepage/uaredirect.js?v=1634868979"></script>
+<script src="/js/homepage/function-utf8.js?v=1669876976"></script><script type="text/javascript">
+	// var url = document.referrer;
+	// url = url.toLowerCase();
+	// if(url.indexOf("m.21ic.com")==-1) {
+	//     var __url = "https://m.21ic.com"+window.location.pathname+window.location.search;
+	//     uaredirect(__url);
+	// }
+</script>
+<link rel="stylesheet" href="https://www.21ic.com/js/layer/theme/default/layer.css?v=3.1.1" id="layuicss-layer"><script type="text/javascript" src="//tj.21ic.com/inf/act.php?i=0&amp;j=2&amp;h=www.21ic.com&amp;sid=1731564843056193767&amp;at=Scrapy/2.11.2%20(+https://scrapy.org)&amp;w=1024&amp;re=https://www.21ic.com/a/965490.html&amp;url=https://www.21ic.com/a/965490.html&amp;t=0&amp;asr=&amp;bun="></script></head>
+<body style="">
+		<div class="wrap">
+		<div id="header">
+    <div class="topbanner">
+        <ul>
+            <li class="else1">
+                <!-- 网站：2 21ic 频道：公众号精选+logo上左 -->
+                <iframe id="7549484" marginheight="0" marginwidth="0" frameborder="0" width="468" height="60" scrolling="no" src="//ssp.21ic.com/f/baidu7549484"></iframe>
+            </li>
+            <li class="else2">
+                <!-- 网站：2 21ic 频道：公众号精选+logo上右 -->
+                <iframe id="7549486" marginheight="0" marginwidth="0" frameborder="0" width="468" height="60" scrolling="no" src="//ssp.21ic.com/f/baidu7549486"></iframe>
+            </li>
+        </ul>
+        <div class="logoright" id="embed_topLoginbox">
+            		<div class="logoright" id="logoright">
+			<ul class="s_nav">
+				<li class="btn1"><a href="https://my.21ic.com/logging.php?refer=https://www.21ic.com/a/965490.html" target="_blank" rel="nofollow">登 录</a></li>
+				<li class="btn2"><a href="https://my.21ic.com/member.php?mod=register&amp;come=www&amp;refer=https://www.21ic.com/a/965490.html" target="_blank" rel="nofollow">注 册</a></li>
+				<li class="btn3"><a href="https://pay.21ic.com/" target="_blank">钱 包</a></li>
+				<li class="btn4"><a href="https://m.21ic.com" target="_blank">手机版</a></li>
+			</ul>
+		</div>
+        </div>
+    </div>
+    <div class="logo">
+        <div class="logoleft"><a href="/" class="fl"><img src="https://img.21ic.com/logo.jpg" border="0" alt="21ic电子网"></a>
+            <i class="line-yuan"></i><div class="subtitle" title="物联网">物联网</div>
+        </div>
+        <div class="bannertop758">
+            <!-- 网站：2 21ic 频道：公众号精选+logo右侧 -->
+            <iframe id="7549488" marginheight="0" marginwidth="0" frameborder="0" width="758" height="64" scrolling="no" src="//ssp.21ic.com/f/baidu7549488"></iframe>
+        </div>
+
+    </div>
+
+    <div class="main_nav" id="main_nav">
+	<ul class="new_nav new_nav2021">
+		<li class="nav_downone"><a class="navone " href="/">首页</a> </li>
+			<li class="nav_downone">
+		<a id="power_nav" class="navone dropdown_toggle toggle_3" href="javascript:void(0)">技术/专栏</a>
+		<div class="nav_downholder newNav_column_item" style="display:none;">
+			<i class="nav_uparrow nav_uparrow2">
+					<img src="//img.21ic.com/2015nav/images/nav_uparrow.gif" width="18" height="9">
+				</i>		
+			<div class="newNav_item app_item_n">
+				<a href="/rf" target="_blank">通信技术</a>
+				<a href="/opto" target="_blank">显示光电</a>
+				<a href="/mcu" target="_blank">单片机</a>
+				<a href="/test" target="_blank">测试测量</a>
+				<a href="/computer" target="_blank">智能硬件</a>
+				<a href="/auto" target="_blank">汽车电子</a>
+				<a href="/ce" target="_blank">消费电子</a>
+				<a href="/control" target="_blank">工业控制</a>
+				<a href="/med" target="_blank">医疗电子</a>
+				<a href="/dianlu" target="_blank">电路图</a>
+				<a href="/iot" target="_blank">物联网</a>
+				<a href="/analog" target="_blank">模拟</a>
+				<a href="/zhuanfang" target="_blank">专访</a>
+				<a href="/power" target="_blank">电源</a>
+				<a href="/xinwenhao" target="_blank">芯闻号</a>
+				<a href="/embed" target="_blank">嵌入式</a>
+				<a href="/jichuzhishi" target="_blank">技术学院</a>
+				<a href="/wechat" target="_blank">公众号精选</a>
+				<a href="/changshang" target="_blank">厂商动态</a>
+				<a href="/inf" target="_blank">新基建</a>
+				<a href="/chip" target="_blank">中国芯</a>
+				<a href="//www.21ic.com/column/all" target="_blank" class="all_column_Navbtn">全部专栏&gt;</a>
+			</div>
+		</div>
+	</li>
+		<li class="nav_downone">
+			<a id="power_nav" class="navone dropdown_toggle toggle_2" href="/a/list">阅读</a>
+			<div class="nav_downholder nav_down1" style="display:none;">
+				<i class="nav_uparrow nav_uparrow1"><img src="//img.21ic.com/2015nav/images/nav_uparrow.gif" width="18" height="9"></i>
+				<div class="newNav_item">
+					<a href="/news/" target="_blank">新闻</a>
+					<a href="/np/" target="_blank">新品</a>
+					<a href="/app/" target="_blank">应用</a>
+					<a href="/expo/" target="_blank">会展</a>	
+	            </div>
+	        </div>
+	    </li>
+	<li class="nav_downone">
+		<a id="power_nav" class="navone dropdown_toggle" href="javascript:void(0)">社区互动</a>
+		<div class="nav_downholder nav_down3 bbs_bg" style="display:none;"> <i class="nav_uparrow nav_uparrow3"><img src="//img.21ic.com/2015nav/images/nav_uparrow.gif" width="18" height="9"></i>
+			<div class="newNav_item">
+				<a href="//bbs.21ic.com/" target="_blank">论坛</a>
+				<a href="//project.21ic.com" target="_blank">外包</a>
+				<a href="//job.21ic.com" target="_blank">招聘</a>
+				<a href="//bbs.21ic.com/icqa?utm_source=21ic&amp;utm_medium=click&amp;utm_campaign=1" target="_blank">问答</a>				
+			</div>
+		</div>
+	</li>
+
+	<li class="nav_downone">
+		<a id="power_nav" class="navone dropdown_toggle toggle_5" href="javascript:void(0)">课程</a>
+		<div class="nav_downholder nav_down4" style="display:none;">
+			<i class="nav_uparrow nav_uparrow4"><img src="//img.21ic.com/2015nav/images/nav_uparrow.gif" width="18" height="9"></i>
+			<div class="newNav_item">
+				<a href="//live.21ic.com" target="_blank">直播</a>
+				<a href="//open.21ic.com" target="_blank">公开课</a>
+				<a href="//seminar.21ic.com" target="_blank">在线研讨会</a>
+				<a href="//edu.21ic.com" target="_blank">TI在线培训中心</a>
+			</div>
+		</div>
+	</li>
+
+	<li class="nav_downone"><a id="power_nav" class="navone dropdown_toggle" href="javascript:void(0)">设计资源</a>
+		<div class="nav_downholder nav_down5" style="display:none;">
+			<i class="nav_uparrow nav_uparrow6"><img src="//img.21ic.com/2015nav/images/nav_uparrow.gif" width="18" height="9"></i>
+			<div class="newNav_item">
+				<a href="//dl.21ic.com" target="_blank">下载</a>
+				<a href="/dianlu" target="_blank">电路图</a>
+				<a href="/tools" target="_blank">计算器</a>
+				<a href="//www.21icsearch.com" target="_blank">datasheet</a>
+			</div>
+		</div>
+	</li>
+
+	<li class="nav_downone"><a id="power_nav" class="navone dropdown_toggle toggle_7" href="javascript:void(0)">厂商</a>
+		<div class="nav_downholder nav_down7" style="display:none;">
+			<i class="nav_uparrow nav_uparrow7"><img src="//img.21ic.com/2015nav/images/nav_uparrow.gif" width="18" height="9"></i>
+			<div class="newNav_item">
+				<ul>
+					<script src="/js/homepage/cs.js" type="text/javascript"></script><dd><a target="_blank" href="//www.21ic.com/ablic/">ABLIC汽车IC</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/microchip/">Microchip</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/nichicon2024/">尼吉康技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/stm32/">ST MCU技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/stpower/">ST Power技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/taiyo_yuden2024/">太阳诱电技术子站</a></dd>
+<dd><a target="_blank" href="//edu.21ic.com/">TI在线培训</a></dd>
+<dd><a target="_blank" href="//ssp.21ic.com/c/aqmt1oq0?l=https://www.21ic.com/toshiba/?utm_source=21ic&amp;utm_medium=insite&amp;utm_term=place8">TOSHIBA技术社区</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/we/">WE技术子站</a></dd>
+<dt><a target="_blank" href="//www.21ic.com/changshang/">厂商动态</a></dt>
+
+				</ul>
+			</div>
+
+		</div>
+	</li>
+	<li class="nav_downone">
+		<a id="power_nav" class="activit_toggle navone " href="https://huodong.21ic.com/" target="_blank">
+				活动 <i class="activit_iocn"><img src="//img.21ic.com/2015nav/images/huod.gif"></i>
+			</a>	
+	</li>
+	<li class="nav_searchbox">
+		<form accept-charset="UTF-8" method="get" action="https://search.21ic.com/so.php?type=www" name="formsearch1" id="formsearch1" target="_blank">
+			<ul>
+				<li class="sel">
+					<select name="selectType">
+                        <option value="s1">文章</option>
+                        <option value="s2">专栏</option>
+                        <option value="s21">论坛</option>
+                        <option value="s71">下载</option>
+                        <option value="s5">外包</option>
+                        <option value="s3">Datasheet</option>
+					</select>
+				</li>
+				<input name="type" value="" type="hidden">
+				<li class="text">
+					<input type="text" name="keyword" id="keyword1">
+				</li>
+				<li class="btn">
+					<input type="image" src="//misc.21ic.com/homepage2016/images/search_btn.jpg" value="" onclick="javascript: return searchFormSubmit(1)">
+				</li>
+			</ul>
+		</form>
+	</li>
+	</ul>
+	</div>
+</div>	
+	    <script src="/js/html5shiv.js"></script>
+<div id="content_position">当前位置：<a href="/">首页</a>
+&gt; 
+	        <script>
+            var __tmpVal = '/iot';
+            var tmpVal = __tmpVal.replace('/','');
+            tmpVal = tmpVal.trim();
+            var pindao= tmpVal;
+        </script>
+	<a href="/iot" target="_blank"> 物联网 </a> <!--  -->
+	&gt; <a href="/column/36.html" target="_blank">智能应用 </a>
+</div>
+<div class="content2016_main">
+	<div class="content-channel2019-left">
+		<article>
+		<div class="page-header">
+			<i class="original_article_icon">原创</i>			<h1>人工智能技术主要应用于什么方面</h1>
+			<div class="page-info">
+				<div class="time">时间：<b>2024-03-20 12:40:01</b> </div>
+				<div class="keywords">
+                        <span class="tags">
+                            关键字：
+                                                                    <a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/" target="_blank">人工智能</a> &nbsp;&nbsp;
+                                                                    <a href="/tags/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82/" target="_blank">智慧城市</a> &nbsp;&nbsp;
+                                                            					    </span>
+				</div>
+				<div class="posttitle_qrcode">手机看文章<div class="posttitle_qrcode_holder"><p>扫描二维码<br>随时随地手机看文章</p><img src="https://img.21ic.com/qrcode/qrcode.php?url=https://www.21ic.com/a/965490.html"></div></div>
+			</div>
+		</div>
+                                    <div class="introduction">
+                                <strong>[导读]</strong>在当今科技日新月异的时代，人工智能(Artificial Intelligence, AI)作为一项前沿且具有颠覆性的技术，已经深度融入到社会生活的各个层面，并持续推动着各行各业的变革与发展。从解决复杂的决策问题到优化日常生活中的各类服务，AI的应用领域广泛而深入，以下将详述其主要应用场景及所带来的深远影响。                    <br><br>
+            </div>
+        		<div class="newstext" id="ff">
+			<p style="text-indent:2em;">
+	在当今科技日新月异的时代，<a href="/tags/人工智能" target="_blank">人工智能</a>(Artificial Intelligence, 
+AI)作为一项前沿且具有颠覆性的技术，已经深度融入到社会生活的各个层面，并持续推动着各行各业的变革与发展。从解决复杂的决策问题到优化日常生活中的各类服务，AI的应用领域广泛而深入，以下将详述其主要应用场景及所带来的深远影响。
+</p>
+<p style="text-indent:2em;">
+	在工业生产中，人工智能通过机器人技术、自主控制和预测性维护等手段重塑了制造业格局。基于机器学习和深度学习算法的智能装备可以精准地执行复杂任务，提高产品质量和生产效率。此外，AI还助力实现智能供应链管理，通过实时数据分析，优化资源配置和生产调度，引领了“工业4.0”的智能化潮流。
+</p>
+<p style="text-indent:2em;">
+	人工智能在医疗领域的应用日益丰富，它不仅可以辅助医生进行疾病诊断，如利用图像识别技术对CT、MRI扫描结果进行分析，而且在病理学、基因组学研究等方面也有显著贡献。AI还可以应用于智能健康管理，通过可穿戴设备收集数据，为用户提供个性化的预防保健方案和远程医疗服务。
+</p>
+<p style="text-indent:2em;">
+	金融业借助AI的力量实现了数字化转型，例如，在风险评估、信用评分以及投资策略制定上，机器学习模型能够处理海量金融数据并提供精确预测。同时，智能客服系统和智能投顾平台利用自然语言处理技术和个性化推荐算法，提升了客户服务体验和理财效率。
+</p>
+<p style="text-indent:2em;">
+	教育行业通过人工智能得以创新教学模式，智能教育平台可以根据学生的学习行为和能力定制个性化课程内容。虚拟教师和自适应学习系统能及时反馈学习效果，动态调整教学计划，有效提升教学质量。此外，AI技术还有助于教育资源的公平分配，支持大规模在线教育的发展。
+</p>
+<p style="text-indent:2em;">
+	人工智能在交通领域的应用表现在自动驾驶汽车的研发上，融合计算机视觉、传感器信息融合、路径规划等技术，使车辆具备了在复杂环境中安全行驶的能力。同时，智能交通管理系统运用AI预测交通流量、优化信号灯控制，减少拥堵，保障交通安全。
+</p>
+<p style="text-indent:2em;">
+	<a href="/tags/智慧城市" target="_blank">智慧城市</a>构建在物联网与AI的基础上，通过整合城市大数据资源，实现智慧照明、智能停车、环境监测等全方位城市管理功能。在家居生活中，智能家居产品结合语音识别和自然语言理解技术，让用户可以通过简单对话控制家电设备，打造舒适便捷的居家环境。
+</p>
+<p style="text-indent:2em;">
+	人工智能驱动的电商平台利用推荐系统和用户画像技术，实现商品个性化推荐，提升客户购物体验。同时，AI在库存管理、物流配送、智能客服等方面的运用也大大提高了零售行业的运营效率和服务质量。
+</p>
+<p style="text-indent:2em;">
+	在法律领域，AI被用于文档审查、法规检索、案件预测等方面，帮助律师和顾问快速定位关键信息，减轻繁琐工作负担。此外，智能合同审核工具和AI法律顾问也在逐步兴起，为客户提供更为高效和精准的法律咨询服务。
+</p>
+<p style="text-indent:2em;">
+	环保工作中，人工智能被应用于环境监测、污染物追踪和生态恢复等多个环节，通过无人机巡检、卫星遥感图像分析等手段，实时监控环境污染情况，为环境保护决策提供科学依据。
+</p>
+<p style="text-indent:2em;">
+	人工智能技术以其强大的数据处理能力和模拟人类智能的特点，在众多领域发挥着重要作用，不仅极大地提高了生产力和服务水平，还在一定程度上解决了许多传统方法难以应对的问题。随着技术的不断迭代和创新，未来的<a href="/tags/人工智能" target="_blank">人工智能</a>将在更多未曾设想的领域开启新的可能，持续为社会发展注入源源不断的动力。
+</p>
+<p style="text-indent:2em;">
+	<br>
+</p>		</div>
+                <div id="adiv" class="word_down_btn" style="display: none;">
+            欲知详情，请下载word文档 <a href="javascript:void(0);" onclick="divDown()"><img src="../images/icon_down.png">下载文档</a>
+        </div>
+		<div class="page-footer">
+						<p>来源：<b>laocuo1142</b></p>
+            						<!-- <p style="color: #ff5400;">版权声明：此文章属于原创，版权属于21ic原作者所有，禁止转载。</p> --> <!--申请原创的时候显示，不申请这个P不要显示-->
+		</div></article>
+                            <div class="statement">声明：该篇文章为本站原创，未经授权不予转载，侵权必究。</div>
+        		<div class="left_textad">
+			<script src="/api/promotion"></script><iframe marginheight="0" marginwidth="0" scrolling="no" src="https://open.21ic.com/api/icview" frameborder="0" width="100%" height="135"></iframe>
+		</div>
+		
+		<div class="left_textad dl_newtidetail"><ul><li><a target="_blank" href="https://dl.21ic.com/ads-1272">华邦电子与莱迪思联合技术论坛即将来袭，21ic邀你来报名</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1254">性能. 可靠性. 服务——伍尔特电子光耦器件</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1263">优质参考设计&amp;应用资源，限时免费放送</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1268">车载用带延迟功能36 V的电压检测器</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1265">优化大功率 DC/DC 转换器的 EMC 和效率</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1273">适用于数据中心的IC</a></li></ul></div>
+        		
+		    <div class="left_read">
+			<div class="read_top" id="read_top">
+				<div class="read-push" id="read-push" style="display: block;">
+					<span class="icon-refresh"></span>
+					<span class="info">换一批</span>
+				</div>
+				<div class="yan_title">延伸阅读</div>
+			</div>
+						<div id="moreread_1" style=" display:block">
+														<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/349.html" target="_blank">[通信先锋]</a></span>
+							<h2><a href="https://www.21ic.com/a/973914.html" target="_blank">阿维塔、赛力斯已入股！华为引望可能成“中国博世”</a></h2>
+						</div>
+						<div class="readlist">
+							<p>9月2日消息，不造车的华为或将催生出更大的独角兽公司，随着阿维塔和赛力斯的入局，华为引望愈发显得引人瞩目。</p>
+							<span class="keywords">关键字：
+																<a href="/tags/%E9%98%BF%E7%BB%B4%E5%A1%94/" target="_blank">阿维塔</a>
+																<a href="/tags/%E5%A1%9E%E5%8A%9B%E6%96%AF/" target="_blank">塞力斯</a>
+																<a href="/tags/%E5%8D%8E%E4%B8%BA/" target="_blank">华为</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>
+							<h2><a href="https://www.21ic.com/a/973850.html" target="_blank">Trianz与AWS达成战略合作协议，彻底改变云采用和管理方式</a></h2>
+						</div>
+						<div class="readlist">
+							<p>                       加利福尼亚州圣克拉拉县2024年8月30日 /美通社/ -- 数字化转型技术解决方案公司Trianz今天宣布，该公司与Amazon Web Services （AWS）签订了...</p>
+							<span class="keywords">关键字：
+																<a href="/tags/AWS/" target="_blank">AWS</a>
+																<a href="/tags/AN/" target="_blank">AN</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/%E6%95%B0%E5%AD%97%E5%8C%96/" target="_blank">数字化</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>
+							<h2><a href="https://www.21ic.com/a/973803.html" target="_blank">人工智能驱动工具SODA V将颠覆汽车市场，使汽车开发时间和成本降低90%</a></h2>
+						</div>
+						<div class="readlist">
+							<p>伦敦2024年8月29日 /美通社/ -- 英国汽车技术公司SODA.Auto推出其旗舰产品SODA V，这是全球首款涵盖汽车工程师从创意到认证的所有需求的工具，可用于创建软件定义汽车。 SODA V工具的开发耗时1.5...</p>
+							<span class="keywords">关键字：
+																<a href="/tags/%E6%B1%BD%E8%BD%A6/" target="_blank">汽车</a>
+																<a href="/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/" target="_blank">人工智能</a>
+																<a href="/tags/%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8/" target="_blank">智能驱动</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>
+							<h2><a href="https://www.21ic.com/a/973751.html" target="_blank">从容应对未知风险----解密亚马逊云科技的韧性之道</a></h2>
+						</div>
+						<div class="readlist">
+							<p>北京2024年8月28日 /美通社/ -- 越来越多用户希望企业业务能7×24不间断运行，同时企业却面临越来越多业务中断的风险，如企业系统复杂性的增加，频繁的功能更新和发布等。如何确保业务连续性，提升韧性，成...</p>
+							<span class="keywords">关键字：
+																<a href="/tags/%E4%BA%9A%E9%A9%AC%E9%80%8A/" target="_blank">亚马逊</a>
+																<a href="/tags/%E8%A7%A3%E5%AF%86/" target="_blank">解密</a>
+																<a href="/tags/%E6%8E%A7%E5%88%B6%E5%B9%B3%E9%9D%A2/" target="_blank">控制平面</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/349.html" target="_blank">[通信先锋]</a></span>
+							<h2><a href="https://www.21ic.com/a/973789.html" target="_blank">中国游戏市场开始复苏！腾讯、网易等巨头缩减在日本投资</a></h2>
+						</div>
+						<div class="readlist">
+							<p>8月30日消息，据媒体报道，腾讯和网易近期正在缩减他们对日本游戏市场的投资。</p>
+							<span class="keywords">关键字：
+																<a href="/tags/%E8%85%BE%E8%AE%AF/" target="_blank">腾讯</a>
+																<a href="/tags/%E7%BC%96%E7%A0%81%E5%99%A8/" target="_blank">编码器</a>
+																<a href="/tags/CPU/" target="_blank">CPU</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/349.html" target="_blank">[通信先锋]</a></span>
+							<h2><a href="https://www.21ic.com/a/973749.html" target="_blank">独立自主！华为董事：致力打造不依赖西方的技术</a></h2>
+						</div>
+						<div class="readlist">
+							<p>8月28日消息，今天上午，2024中国国际大数据产业博览会开幕式在贵阳举行，华为董事、质量流程IT总裁陶景文发表了演讲。</p>
+							<span class="keywords">关键字：
+																<a href="/tags/%E5%8D%8E%E4%B8%BA/" target="_blank">华为</a>
+																<a href="/tags/12nm/" target="_blank">12nm</a>
+																<a href="/tags/EDA/" target="_blank">EDA</a>
+																<a href="/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/" target="_blank">半导体</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/349.html" target="_blank">[通信先锋]</a></span>
+							<h2><a href="https://www.21ic.com/a/973746.html" target="_blank">华为张平安：数字世界话语权最终由生态繁荣决定！</a></h2>
+						</div>
+						<div class="readlist">
+							<p>8月28日消息，在2024中国国际大数据产业博览会上，华为常务董事、华为云CEO张平安发表演讲称，数字世界的话语权最终是由生态的繁荣决定的。</p>
+							<span class="keywords">关键字：
+																<a href="/tags/%E5%8D%8E%E4%B8%BA/" target="_blank">华为</a>
+																<a href="/tags/12nm/" target="_blank">12nm</a>
+																<a href="/tags/%E6%89%8B%E6%9C%BA/" target="_blank">手机</a>
+																<a href="/tags/%E5%8D%AB%E6%98%9F%E9%80%9A%E4%BF%A1/" target="_blank">卫星通信</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>
+							<h2><a href="https://www.21ic.com/a/973711.html" target="_blank">中国通信服务公布2024年中期业绩</a></h2>
+						</div>
+						<div class="readlist">
+							<p>要点：     有效应对环境变化，经营业绩稳中有升   落实提质增效举措，毛利润率延续升势   战略布局成效显著，战新业务引领增长   以科技创新为引领，提升企业核心竞争力   坚持高质量发展策略，塑强核心竞争优势...</p>
+							<span class="keywords">关键字：
+																<a href="/tags/%E9%80%9A%E4%BF%A1/" target="_blank">通信</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/%E7%94%B5%E4%BF%A1%E8%BF%90%E8%90%A5%E5%95%86/" target="_blank">电信运营商</a>
+																<a href="/tags/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/" target="_blank">数字经济</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>
+							<h2><a href="https://www.21ic.com/a/973712.html" target="_blank">NVI技术创新联盟成立！自主生态将带动产业链高速发展</a></h2>
+						</div>
+						<div class="readlist">
+							<p>北京2024年8月27日 /美通社/ -- 8月21日，由中央广播电视总台与中国电影电视技术学会联合牵头组建的NVI技术创新联盟在BIRTV2024超高清全产业链发展研讨会上宣布正式成立。  活动现场  NVI技术创新联...</p>
+							<span class="keywords">关键字：
+																<a href="/tags/VI/" target="_blank">VI</a>
+																<a href="/tags/%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE/" target="_blank">传输协议</a>
+																<a href="/tags/%E9%9F%B3%E9%A2%91/" target="_blank">音频</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+															</span>
+						</div>
+					</div>
+																			<div class="left_readlist1">
+						<div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>
+							<h2><a href="https://www.21ic.com/a/973713.html" target="_blank">软通动力与长三角投资达成战略合作 共谋数字生态新发展</a></h2>
+						</div>
+						<div class="readlist">
+							<p>北京2024年8月27日 /美通社/ -- 在8月23日举办的2024年长三角生态绿色一体化发展示范区联合招商会上，软通动力信息技术（集团）股份有限公司（以下简称"软通动力"）与长三角投资（上海）有限...</p>
+							<span class="keywords">关键字：
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/" target="_blank">信息技术</a>
+															</span>
+						</div>
+					</div>
+												</div>
+
+			<div id="moreread_2" style="display:none">
+                													<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973723.html" target="_blank">海南区6家凯悦系酒店与岚图达成战略合作，共同推动新能源出行体验</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>山海路引&nbsp;岚悦新程  三亚2024年8月27日 /美通社/ --&nbsp;近日，海南地区六家凯悦系酒店与中国高端新能源车企岚图汽车（VOYAH）正式达成战略合作协议。这一合作标志着两大品牌在高端出行体验和环保理念上的深度融合，将...</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/%E6%96%B0%E8%83%BD%E6%BA%90/" target="_blank">新能源</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/PLAYER/" target="_blank">PLAYER</a>
+																<a href="/tags/ASIA/" target="_blank">ASIA</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973724.html" target="_blank">安岚携手妮可•巴菲特开启疗愈之旅 在秋日红叶的浪漫中疗愈身心</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>上海2024年8月28日 /美通社/ -- 8月26日至8月28日，AHN LAN安岚与股神巴菲特的孙女妮可•巴菲特共同开启了一场自然和艺术的疗愈之旅。  妮可·巴菲特在疗愈之旅活动现场合影  &nbsp;...</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/MIDDOT/" target="_blank">MIDDOT</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/LAN/" target="_blank">LAN</a>
+																<a href="/tags/SPI/" target="_blank">SPI</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/349.html" target="_blank">[通信先锋]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973745.html" target="_blank">不惧美国封锁！华为：我们给大家提供系统、存储等</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>8月29日消息，近日，华为董事、质量流程IT总裁陶景文在中国国际大数据产业博览会开幕式上表示，中国科技企业不应怕美国对其封锁。</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/%E5%8D%8E%E4%B8%BA/" target="_blank">华为</a>
+																<a href="/tags/12nm/" target="_blank">12nm</a>
+																<a href="/tags/EDA/" target="_blank">EDA</a>
+																<a href="/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/" target="_blank">半导体</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973672.html" target="_blank">尼尔森IQ深耕中国四十载，共绘未来新篇章</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>上海2024年8月26日 /美通社/ -- 近日，全球领先的消费者研究与零售监测公司尼尔森IQ（NielsenIQ）迎来进入中国市场四十周年的重要里程碑，正式翻开在华发展新篇章。自改革开放以来，中国市场不断展现出前所未有...</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/NI/" target="_blank">NI</a>
+																<a href="/tags/SE/" target="_blank">SE</a>
+																<a href="/tags/TRACE/" target="_blank">TRACE</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973674.html" target="_blank">第二十二届跨盈年度B2B营销高管峰会2025聚焦"营销竞取，打破市场内卷实现认知进化"</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>上海2024年8月26日 /美通社/ -- 第二十二届跨盈年度B2B营销高管峰会(CC2025)将于2025年1月15-17日在上海举办，本次峰会早鸟票注册通道开启，截止时间10月11日。  了解更多会议信息：cc.co...</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/COM/" target="_blank">COM</a>
+																<a href="/tags/AI/" target="_blank">AI</a>
+																<a href="/tags/INDEX/" target="_blank">INDEX</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973678.html" target="_blank">恒久动力 驰骋天地 美孚1号携手周冠宇邀您纵擎驰骋，劲享驾趣体验</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>上海2024年8月26日 /美通社/ -- 今日，高端全合成润滑油品牌美孚1号携手品牌体验官周冠宇，开启全新旅程，助力广大车主通过驾驶去探索更广阔的世界。在全新发布的品牌视频中，周冠宇及不同背景的消费者表达了对驾驶的热爱...</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0/" target="_blank">汽车制造</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973683.html" target="_blank">美通社母公司Cision发布CisionOne平台，进军亚太地区媒体监测市场</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>                       此次发布标志着Cision首次为亚太市场量身定制全方位的媒体监测服务。  芝加哥2024年8月27日 /美通社/ -- 消费者和媒体情报、互动及传播解决方案的全球领导者Cis...</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/CIS/" target="_blank">CIS</a>
+																<a href="/tags/IO/" target="_blank">IO</a>
+																<a href="/tags/SI/" target="_blank">SI</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973686.html" target="_blank">移远通信推出大模型解决方案，重塑千行百业智能边界</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>上海2024年8月27日 /美通社/ -- 近来，具有强大学习、理解和多模态处理能力的大模型迅猛发展，正在给人类的生产、生活带来革命性的变化。在这一变革浪潮中，物联网成为了大模型技术发挥作用的重要阵地。  作为全球领先的...</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/%E6%A8%A1%E5%9E%8B/" target="_blank">模型</a>
+																<a href="/tags/%E7%A7%BB%E8%BF%9C%E9%80%9A%E4%BF%A1/" target="_blank">移远通信</a>
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/%E9%AB%98%E9%80%9A/" target="_blank">高通</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/966.html" target="_blank">[美通社全球TMT]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973689.html" target="_blank">高途公布2024年第二季度未经审计业绩</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>北京2024年8月27日 /美通社/ -- 高途教育科技公司（纽约证券交易所股票代码：GOTU）（"高途"或"公司"），一家技术驱动的在线直播大班培训机构，今日发布截至2024年6月30日第二季度未经审计财务报告。  2...</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/BSP/" target="_blank">BSP</a>
+																<a href="/tags/%E7%94%B5%E8%AF%9D%E4%BC%9A%E8%AE%AE/" target="_blank">电话会议</a>
+																<a href="/tags/COM/" target="_blank">COM</a>
+																<a href="/tags/TE/" target="_blank">TE</a>
+															</span>
+						</div>
+					</div>
+																		<div class="left_readlist1">
+                <div class="yan_a_tit"><span><a href="/column/349.html" target="_blank">[通信先锋]</a></span>       
+						<h2>
+							<a href="https://www.21ic.com/a/973669.html" target="_blank">华为发布AI百校计划：培养AI人才 每年获最高100万支持</a>
+                    </h2></div>
+						<div class="readlist">
+							<p>8月26日消息，华为公司最近正式启动了“华为AI百校计划”，向国内高校提供基于昇腾云服务的AI计算资源。</p>
+
+							<span class="keywords">关键字：
+																<a href="/tags/%E5%8D%8E%E4%B8%BA/" target="_blank">华为</a>
+																<a href="/tags/12nm/" target="_blank">12nm</a>
+																<a href="/tags/EDA/" target="_blank">EDA</a>
+																<a href="/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/" target="_blank">半导体</a>
+															</span>
+						</div>
+					</div>
+												</div>
+            <!--弹出框 2021年7月26日  XXL-->
+            <!--弹出框 2021年7月26日  XXL-->
+
+		</div>
+            </div>
+
+	<aside class="content-channel2019-right">
+                		<div class="article-personal">
+			<div class="author-photo">
+                            <a href="/column/36.html" target="_blank"><img src="/uploads/column/36.jpg"></a>
+                            			</div>
+			<h3>智能应用</h3>
+
+			<div class="art-Number">
+				<p class="border-r"><span>12006</span> 篇文章</p>
+				<p class="attention-btn">
+								        <a href="javascript:;" id="attention" data-id="36">关注</a> <!--网页打开看到的，没有关注的状态--> 
+			        		        </p>
+			</div>
+			<div class="post-article-btn"><a href="/article/create" target="_blank">发布文章</a>
+			</div>
+        </div>  
+                <div class="righr_ad">
+                    </div>
+        <!-- 网站：2 21ic 频道：文章内容页+右侧上-340-260-->
+				        		<div class="righr_ad">
+			<!--网站：2,21ic中国电子网 频道：8,innewshtml 广告位：691,innews_340_220 尺寸：340X220
+			<iframe marginheight="0" marginwidth="0" frameborder="0" width="340" height="220" scrolling="no" src="//ssp.21ic.com/f/rpnqrv87"></iframe>-->
+            <!-- 频道：世强+资讯 广告位：20  尺寸：340.X.220 
+			<iframe marginheight="0" marginwidth="0" frameborder="0" width="340" height="220" scrolling="no" src="https://ssp.21ic.com/f/banner20"></iframe>-->
+		</div>
+		
+		<div class="righr_ad" style="border: 1px solid #ccc; height: 220px;">
+			<!--网站：2,21ic中国电子网 频道：8,innewshtml 广告位：399,content_340_new 尺寸：340X220-->
+                    <iframe id="7737381" marginheight="0" marginwidth="0" frameborder="0" width="340" height="220" scrolling="no" src="//ssp.21ic.com/f/baidu7737381"></iframe>
+        		</div>
+        <div class="righr_list">
+			<div class="righr_listtop"><span></span>
+				<h3>厂商专栏</h3>
+			</div>
+			<div class="right_cont1 changshang_item">
+				<ul>
+                                                                                <li class="no1">
+                                    <a href="/column/308.html" target="_blank">
+                                        <img src="//www.21ic.com/uploads/33/617258de96638.jpg" alt="厂商文章">
+                                        <p class="text">厂商文章</p>
+                                        <span>5467篇文章</span>
+                                    </a>
+                                </li>
+                                                            <li class="no1">
+                                    <a href="/column/91.html" target="_blank">
+                                        <img src="//www.21ic.com/21ic_image/tougao/uploads/logo/20190510135926_47328.jpg" alt="贸泽电子">
+                                        <p class="text">贸泽电子</p>
+                                        <span>849篇文章</span>
+                                    </a>
+                                </li>
+                                                            <li class="no1">
+                                    <a href="/column/77.html" target="_blank">
+                                        <img src="//www.21ic.com/uploads/33/6114b52b273d4.jpg" alt="意法半导体">
+                                        <p class="text">意法半导体</p>
+                                        <span>776篇文章</span>
+                                    </a>
+                                </li>
+                                                            <li class="no1">
+                                    <a href="/column/96.html" target="_blank">
+                                        <img src="//www.21ic.com/uploads/33/625fbf6b624cc.jpg" alt="ADI">
+                                        <p class="text">ADI</p>
+                                        <span>756篇文章</span>
+                                    </a>
+                                </li>
+                                                            <li class="no1">
+                                    <a href="/column/142.html" target="_blank">
+                                        <img src="//www.21ic.com/21ic_image/tougao/uploads/logo/20190603093109_38238.png" alt="英飞凌">
+                                        <p class="text">英飞凌</p>
+                                        <span>519篇文章</span>
+                                    </a>
+                                </li>
+                                                            <li class="no1">
+                                    <a href="/column/102.html" target="_blank">
+                                        <img src="//www.21ic.com/21ic_image/tougao/uploads/logo/20190528143947_17462.jpg" alt="是德科技">
+                                        <p class="text">是德科技</p>
+                                        <span>355篇文章</span>
+                                    </a>
+                                </li>
+                                                
+				</ul>
+			</div>
+		</div>
+        
+		<div class="righr_list">
+			<div class="righr_listtop"><span></span>
+				<h3>热门文章</h3>
+			</div>
+			<div class="right_cont1">
+				<ul>
+
+<!--                    <li class="no1">-->
+<!--                        <a href="https://ssp.21ic.com/c/gharim6g?l=https://app.ma.scrmtech.com/meetings-api/sapIndex/SapSourceData?pf_uid=20572_1899&sid=67509&source=2&pf_type=3&channel_id=33935&channel_name=%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A-Always+On-21ic+banner-eMMC%E5%9F%B9%E8%AE%AD%E4%BC%9A1&tag_id=661b3821df63c170" target="_blank" title="12月16日美光线上技术培训会报名开启！带您领略汽车级eMMC技术">12月16日美光线上技术培训会报名开启！带您领略汽车级eMMC技术</a>-->
+<!--                    </li>-->
+<!--                    <li class="no1">-->
+<!--                        <a href="https://ssp.21ic.com/c/u923v05q?l=https://app.ma.scrmtech.com/resources/ResourcePc/ResourcePcInfo?pf_uid=20572_1899&id=38977&source=1&pf_type=3&channel_id=29062&channel_name=%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A-Always+On-21ic-%E5%AD%90%E7%AB%99%E6%96%87%E5%AD%97%E9%93%BE&tag_id=56fd8740bdde4f47" target="_blank" title="【新闻稿】美光出货全球最先进的 1β 技术节点 DRAM">【新闻稿】美光出货全球最先进的 1β 技术节点 DRAM</a>-->
+<!--                    </li>-->
+<!--                    <li class="no1">-->
+<!--                        <a href="https://ssp.21ic.com/c/u923v05q?l=https://app.ma.scrmtech.com/resources/ResourcePc/ResourcePcInfo?pf_uid=20572_1899&id=38362&source=1&pf_type=3&channel_id=29062&channel_name=%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A-Always+On-21ic-%E5%AD%90%E7%AB%99%E6%96%87%E5%AD%97%E9%93%BE&tag_id=56fd8740bdde4f47" target="_blank" title="新闻稿：美光 7450 NVMe SSD 现已支持 OCP 2.0">新闻稿：美光 7450 NVMe SSD 现已支持 OCP 2.0</a>-->
+<!--                    </li>-->
+                    										<li class="no1">
+						<a href="https://www.21ic.com/a/976772.html" target="_blank" title="全套开源！稚晖君公开机器人设计资料（含图纸+代码）">全套开源！稚晖君公开机器人设计资料（含图纸+代码）</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/976660.html" target="_blank" title="六年亏500多亿，国内又一企业大裁员！">六年亏500多亿，国内又一企业大裁员！</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/975984.html" target="_blank" title="ASML股价继续大跌：想卖先进光刻机给中国厂商 但不被允许">ASML股价继续大跌：想卖先进光刻机给中国厂商 但不被允许</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/975335.html" target="_blank" title="小米被曝遭车主拉横幅求车！">小米被曝遭车主拉横幅求车！</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/975187.html" target="_blank" title="三星印度罢工更多细节曝光：每周工作35小时、职位世袭">三星印度罢工更多细节曝光：每周工作35小时、职位世袭</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/974733.html" target="_blank" title="工信部发文，国产光刻机又一次重大升级！">工信部发文，国产光刻机又一次重大升级！</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/974377.html" target="_blank" title="突发！阿里云机房烧了……">突发！阿里云机房烧了……</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/974271.html" target="_blank" title="又一芯片企业破产清算！多项资产被拍卖，起拍价才1万多">又一芯片企业破产清算！多项资产被拍卖，起拍价才1万多</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/973916.html" target="_blank" title="中国实现芯片制造关键技术首次突破：一年内投入应用">中国实现芯片制造关键技术首次突破：一年内投入应用</a>
+					</li>
+										<li class="no1">
+						<a href="https://www.21ic.com/a/973914.html" target="_blank" title="阿维塔、赛力斯已入股！华为引望可能成“中国博世”">阿维塔、赛力斯已入股！华为引望可能成“中国博世”</a>
+					</li>
+					                    				</ul>
+			</div>
+		</div>
+
+		
+<div class="righr_list">
+			<div class="righr_listtop"><h3>编辑精选</h3></div>
+		<div class="right_textad dl_newtidetail2"><ul><ul><li><a target="_blank" href="https://dl.21ic.com/ads-1272">华邦电子与莱迪思联合技术论坛即将来袭，21ic邀你来报名</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1254">性能. 可靠性. 服务——伍尔特电子光耦器件</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1263">优质参考设计&amp;应用资源，限时免费放送</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1268">车载用带延迟功能36 V的电压检测器</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1265">优化大功率 DC/DC 转换器的 EMC 和效率</a></li><li><a target="_blank" href="https://dl.21ic.com/ads-1273">适用于数据中心的IC</a></li></ul></ul></div>
+</div>
+		<div class="righr_list">
+			<div class="righr_listtop"><span><a href="https://bbs.21ic.com/guide-activity-1.html" target="_blank">更多</a></span>
+				<h3>论坛活动</h3>
+			</div>
+			<div class="right_cont3">
+				<ul>
+										<li class="no1">
+												<div class="pic"><a href="https://dl.21ic.com/activity/20240901/index.html" target="_blank"><img src="/uploads/admin/6/66d53d1eedefe.jpg" alt="【现金奖】 “智慧宝库，你传我奖” 资料征集大赛" title="【现金奖】 “智慧宝库，你传我奖” 资料征集大赛"></a>
+						</div>
+												<div class="newsname"><a href="https://dl.21ic.com/activity/20240901/index.html" target="_blank">【现金奖】 “智慧宝库，你传我奖” 资料征集大赛</a>
+						</div>
+					</li>
+										<li class="no2">
+												<div class="newsname"><a href="https://huodong.21ic.com/pi-auto-chip" target="_blank">解锁你的汽车电子“芯”技能</a>
+						</div>
+					</li>
+										<li class="no3">
+												<div class="newsname"><a href="https://bbs.21ic.com/icview-3406712-1-1.html" target="_blank">AMD自适应与嵌入式产品技术日空降北京，21ic邀你来报名</a>
+						</div>
+					</li>
+										<li class="no4">
+												<div class="newsname"><a href="https://huodong.21ic.com/winbond-lattice/index" target="_blank">华邦电子与莱迪思联合技术论坛即将来袭，21ic邀你来报名</a>
+						</div>
+					</li>
+									</ul>
+			</div>
+		</div>
+		<div class="righr_list">
+			<div class="righr_listtop"><span><a href="https://bbs.21ic.com" target="_blank">更多</a></span>
+				<h3>论坛热帖</h3>
+				<div class="viewBbs_tab">
+				  <ul>
+                        <li><a href="javascript:;" class="active">十大技术帖</a></li>
+                        <li><a href="javascript:;">十大生活帖</a></li>
+					</ul>
+				</div>
+				<div class="right_cont1 viewBbs_list">
+				    <ul>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413100-1-1.html" title="USART 可以发送数据，无法接收">USART 可以发送数据，无法接收</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413162-1-1.html" title="exint问题">exint问题</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413214-1-1.html" title="HC32L190芯片的SCB-&gt;VTOR 寄存器存在吗？">HC32L190芯片的SCB-&gt;VTOR 寄存器存在吗？</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413222-1-1.html" title="2.0的USB协议栈还是比较困难">2.0的USB协议栈还是比较困难</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413132-1-1.html" title="GD32F103RET6高温上电不工作的问题，求指教">GD32F103RET6高温上电不工作的问题，求指教</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413286-1-1.html" title="HC32L110C6UA如何在9600bps和38400hz时钟频率下实现低功耗串口通信">HC32L110C6UA如何在9600bps和38400hz时钟频率下实现低功耗串口通信</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413212-1-1.html" title="国民技术j-flash配置支持包哪里下载">国民技术j-flash配置支持包哪里下载</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413208-1-1.html" title="国民技术的SDK没有维护了吗">国民技术的SDK没有维护了吗</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413114-1-1.html" title="CW32L010F8F6 StartKit 开发板抢先体验">CW32L010F8F6 StartKit 开发板抢先体验</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413056-1-1.html" title="C+freertos改Cpp+freertos提示__iar_dynamic_initialization()找不到">C+freertos改Cpp+freertos提示__iar_dynamic_initialization()找不到</a> </li>
+                      					</ul>
+                    <ul style="display:none">
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413080-1-1.html" title="建议优先处理那些已婚却在公司做同事情侣的人">建议优先处理那些已婚却在公司做同事情侣的人</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413082-1-1.html" title="日产官宣全球裁员9000人，太夸张了！">日产官宣全球裁员9000人，太夸张了！</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413084-1-1.html" title="工资保密的重要性">工资保密的重要性</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3412972-1-1.html" title="戾气！">戾气！</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413038-1-1.html" title="老人没苦硬吃是为了填补安全感吗？">老人没苦硬吃是为了填补安全感吗？</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413008-1-1.html" title="**比例失调严重呀！">**比例失调严重呀！</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3412974-1-1.html" title="明年起法定假日增加2天！">明年起法定假日增加2天！</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3412826-1-1.html" title="明年起法定节假日增加两天">明年起法定节假日增加两天</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3412818-1-1.html" title="4年零4天，我从毕业后的第一家公司离职了">4年零4天，我从毕业后的第一家公司离职了</a> </li>
+                                              <li><a target="_blank" href="https://bbs.21ic.com/icview-3413014-1-1.html" title="医保基金预付金制度出台">医保基金预付金制度出台</a> </li>
+                      					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="righr_list">
+			<div class="righr_listtop">
+				<h3>技术子站</h3>
+			</div>
+			<div class="jszz">
+				<script src="/js/homepage/cs.js" type="text/javascript"></script><dd><a target="_blank" href="//www.21ic.com/ablic/">ABLIC汽车IC</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/microchip/">Microchip</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/nichicon2024/">尼吉康技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/stm32/">ST MCU技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/stpower/">ST Power技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/taiyo_yuden2024/">太阳诱电技术子站</a></dd>
+<dd><a target="_blank" href="//edu.21ic.com/">TI在线培训</a></dd>
+<dd><a target="_blank" href="//ssp.21ic.com/c/aqmt1oq0?l=https://www.21ic.com/toshiba/?utm_source=21ic&amp;utm_medium=insite&amp;utm_term=place8">TOSHIBA技术社区</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/we/">WE技术子站</a></dd>
+<dt><a target="_blank" href="//www.21ic.com/changshang/">厂商动态</a></dt>
+
+			</div>
+		</div>
+		<!--<div class="righr_ad">
+			 网站：2 21ic 频道：8 innewshtml 广告位：52 content_pay340 尺寸：340X100 
+			<iframe marginheight="0" marginwidth="0" frameborder="0" width="340" height="100" scrolling="no" src="//21ic.antdsp.com/s?m=21ic&c=52" id="right_ad3"></iframe>
+		</div>-->
+		<div class="righr_list">
+			<div class="righr_listtop"><span><a href="https://dl.21ic.com" target="_blank">更多</a></span>
+				<h3>资料下载</h3>
+			</div>
+						<div class="right_cont1">
+				<ul>
+										<li><a href="//dl.21ic.com/download/ft838mbd-746685.html" target="_blank">电源管理芯片资料FT838MBD手册</a></li>
+										<li><a href="//dl.21ic.com/download/zh2021ka-754758.html" target="_blank">两通道式电容触摸芯片ZH2021KA手册</a></li>
+										<li><a href="//dl.21ic.com/download/awg_ul758-754412.html" target="_blank">美国线规表 AWG UL758</a></li>
+										<li><a href="//dl.21ic.com/download/stm32-748599.html" target="_blank">基于stm32的空气净化器</a></li>
+										<li><a href="//dl.21ic.com/download/xunleiwebsetup12-748569.html" target="_blank">xunlei迅雷软件</a></li>
+										<li><a href="//dl.21ic.com/download/ic-748243.html" target="_blank">机械加工工艺设计实用手册</a></li>
+										<li><a href="//dl.21ic.com/download/ic-746546.html" target="_blank">三端稳压电路的原理图和PCB</a></li>
+										<li><a href="//dl.21ic.com/download/3-746665.html" target="_blank">STM32控制小米电机</a></li>
+										<li><a href="//dl.21ic.com/download/gb_14023-754918.html" target="_blank">GB 14023-2022 车辆 船和内燃机 无线电骚扰特性 用于保护车外接收机的限值和测量方法</a></li>
+										<li><a href="//dl.21ic.com/download/ic-753886.html" target="_blank">电气原理图 泵车的</a></li>
+									</ul>
+			</div>
+		</div>
+		<div class="righr_list">
+			<div class="righr_listtop"><span><a href="https://www.21ic.com/jichuzhishi" target="_blank">更多</a></span>
+				<h3>技术学院</h3>
+			</div>
+			<div class="right_cont1">
+				<ul>
+					                        <li><a href="https://www.21ic.com/a/977574.html" target="_blank">TrendForce集邦咨询: 预计2025年手机面板出货量将微跌1.7%，陆系厂商占比将超过70%</a></li>
+					                        <li><a href="https://www.21ic.com/a/977535.html" target="_blank">一文教你反激变压器设计过程</a></li>
+					                        <li><a href="https://www.21ic.com/a/977534.html" target="_blank">值得了解！主要元器件基础知识总结</a></li>
+					                        <li><a href="https://www.21ic.com/a/977533.html" target="_blank">总结几种分析常用电路的绝佳方法</a></li>
+					                        <li><a href="https://www.21ic.com/a/977532.html" target="_blank">汇总几款比较常用的代码比较工具</a></li>
+					                        <li><a href="https://www.21ic.com/a/977524.html" target="_blank">干货！5G如何实现波束赋形?</a></li>
+					                        <li><a href="https://www.21ic.com/a/977521.html" target="_blank">数字与信号转换过程详解</a></li>
+					                        <li><a href="https://www.21ic.com/a/977519.html" target="_blank">一文教你看懂恒流电路原理</a></li>
+									</ul>
+			</div>
+		</div>
+	</aside>
+</div>
+
+    
+
+
+<style>
+    #tempDiv{
+        display: none;
+    }
+
+</style>
+<script type="text/javascript">
+
+	
+</script>
+<script>
+    function divDown() {
+
+        var __hostUrl = window.location.protocol+"//"+window.location.host;
+        var params = $("#tempDiv").html();
+        //应当去下后台判断下是否登录 2021年7月26日 17:24:22 XXL
+        var __url = '/aa/dologin';
+
+        $.ajax({
+            type: "GET",
+            url: __url,
+            contentType: 'application/json;charset=utf-8', //设置请求头信息
+            data: "keyVal=", //必须是字符串
+            dataType: "json",
+            success: function (res) {
+                if(res =="true"||res==true){
+                    window.location.href=__hostUrl+"/article/downdocx?keyVal="+params;
+                }else{
+                    //<script src="https://my.21ic.com/api.php?mod=login_box&forcelogin=1&referer=xxxx"> //<script>
+                    var __url = "https://my.21ic.com/api.php?mod=login_box&forcelogin=1&referer=";
+                    var __nowUrl = window.location.href;
+                    var __hostDo = __url+__nowUrl;
+                    //重新加载下js
+                    $.getScript(__hostDo);
+                }
+            },
+            error: function (result) {
+                console.log(result);
+            }
+        });
+
+    }
+    document.domain = '21ic.com';
+    const request = new XMLHttpRequest();
+    request.open("GET","https://www.21ic.com/api/setkey?t=ss&v=当前名称");
+    request.send();
+</script>
+
+	</div>
+	
+<div class="footer" id="footer">
+  <div class="footer_cont">
+    <div class="footer_search"> <!-- <span class="footer_btn"><a href="http://weibo.com/21icv" target="_blank" rel="nofollow"><img class="lazy img-responsive" src="//misc.21ic.com/homepage2016/images/footer_btn2.jpg" alt="" border="0"></a></span> <span><a href="http://weibo.com/21icv" target="_blank" rel="nofollow">21ic官方微博</a></span> -->
+      <form accept-charset="UTF-8" method="get" action="https://search.21ic.com/so.php?type=www" name="formsearch1" id="formsearch2" target="_blank">
+        <ul>
+          <li class="sel">
+<!--              【文章】，【专栏】，【论坛】，【下载】，【外包】，【Datasheet】-->
+            <select name="selectType">
+                <option value="s1">文章</option>
+                <option value="s2">专栏</option>
+                <option value="s21">论坛</option>
+                <option value="s71">下载</option>
+                <option value="s5">外包</option>
+                <option value="s3">Datasheet</option>
+            </select>
+          </li>
+          <input name="type" value="" type="hidden">
+          <li class="text">
+            <input name="keyword" id="keyword2" type="text">
+          </li>
+          <li class="btn">
+            <input src="//misc.21ic.com/homepage2016/images/search_btn.jpg" value="" onclick="javascript: return searchFormSubmit(2)" type="image">
+          </li>
+        </ul>
+      </form>
+    </div>
+    <div class="footer_downmenu">
+      <dl class="reading">
+        <dt>阅读</dt>
+        <dd><a target="_blank" href="/chongdian">充电吧</a></dd>
+        <dd><a target="_blank" href="https://www.21ic.com/zhuanfang/">21ic专访</a></dd>
+        <dd><a target="_blank" href="https://www.21ic.com/zhuanfang/bianjishidian/">编辑视点</a></dd>
+        <dd><a target="_blank" href="https://www.21ic.com/wz/report/jishu.htm">专题 </a></dd>
+        <dd><a target="_blank" href="https://www.21ic.com/expo/">会展</a></dd>
+        <dd><a target="_blank" href="https://www.21ic.com/zhuanfang/gaoduanfangtan/">高端访谈</a></dd>
+      </dl>
+      <dl class="top_list_2row">
+        <dt>技术</dt>
+				<dd><a target="_blank" href="//www.21ic.com/rf/">通信技术</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/mcu/">单片机</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/test/">测试测量</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/computer/">智能硬件</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/auto/">汽车电子</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/ce/">消费电子</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/control/">工业控制</a></dd>
+				<dd><a target="_blank" class="else" href="//www.21ic.com/med/">医疗电子</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/evm/">开发板</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/iot/">物联网</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/analog/">模拟</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/power/">电源</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/embed/">嵌入式</a></dd>                           
+        <dd><a target="_blank" href="//www.21ic.com/news/">资讯</a></dd>
+        <dd><a target="_blank" href="//www.21ic.com/np/">新品</a></dd>
+        <dd><a target="_blank" href="//www.21ic.com/app/">应用</a></dd>
+        <dd><a target="_blank" href="//www.21ic.com/zhuanfang/jishuzhuanfang/">技术专访</a></dd>
+        <dd><a target="_blank" href="//www.21ic.com/jichuzhishi">基础知识</a></dd>
+				<dd><a target="_blank" href="//www.21ic.com/inf">新基建</a></dd>
+        <dd><a target="_blank" href="//www.21ic.com/chip">中国芯</a></dd>
+      </dl>
+      <dl class="hudong">
+        <dt>互动</dt>
+        <dd><a target="_blank" href="//bbs.21ic.com/">论坛</a></dd>
+        <dd><a target="_blank" href="//project.21ic.com/">外包</a></dd>
+        <dd><a target="_blank" href="//job.21ic.com">招聘</a></dd>
+        <dt style="padding-top:20px;">课程</dt>
+        <dd><a target="_blank" href="//open.21ic.com/">公开课</a></dd>
+        <dd><a target="_blank" href="//seminar.21ic.com/">在线研讨会</a></dd>
+        <dd><a target="_blank" href="//edu.21ic.com/">TI在线培训</a></dd>
+      </dl>
+      <dl class="resource">
+        <dt>资源</dt>
+        <dd><a target="_blank" href="//dl.21ic.com">下载</a></dd>
+        <dd><a target="_blank" href="//www.21ic.com/dianlu/">电路图</a></dd>
+        <dd><a target="_blank" href="//www.21icsearch.com/">Datasheet</a></dd>
+        <dd><a target="_blank" href="//www.21ic.com/tools/">在线计算器</a></dd>
+      </dl>
+      <dl class="company">
+        <dt>厂商</dt>
+        <script src="/js/homepage/cs.js" type="text/javascript"></script><dd><a target="_blank" href="//www.21ic.com/ablic/">ABLIC汽车IC</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/microchip/">Microchip</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/nichicon2024/">尼吉康技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/stm32/">ST MCU技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/stpower/">ST Power技术子站</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/taiyo_yuden2024/">太阳诱电技术子站</a></dd>
+<dd><a target="_blank" href="//edu.21ic.com/">TI在线培训</a></dd>
+<dd><a target="_blank" href="//ssp.21ic.com/c/aqmt1oq0?l=https://www.21ic.com/toshiba/?utm_source=21ic&amp;utm_medium=insite&amp;utm_term=place8">TOSHIBA技术社区</a></dd>
+<dd><a target="_blank" href="//www.21ic.com/we/">WE技术子站</a></dd>
+<dt><a target="_blank" href="//www.21ic.com/changshang/">厂商动态</a></dt>
+
+      </dl>
+    </div>
+    <div class="footer_code"> 
+      <ul>
+        <li><img class="lazy img-responsive" src="//misc.21ic.com/homepage2016/images/code_web.jpg" alt="" border="0"></li>
+        <li>21ic 官方微信</li>
+      </ul>
+      <ul>
+        <li><img class="lazy img-responsive" src="//misc.21ic.com/homepage2016/images/code_embed.jpg" alt="" border="0"></li>
+        <li>嵌入式微处理器</li>
+      </ul>
+      <ul>
+        <li><img class="lazy img-responsive" src="/images/homenew/code_video.jpg" alt="" border="0"></li>
+        <li>21ic微信视频号</li>
+      </ul>
+      <ul>
+        <li><img class="lazy img-responsive" src="/images/homenew/code_dy.jpg" alt="" border="0"></li>
+        <li>21ic抖音号</li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer_copyright">
+    <p><a target="_blank" href="/site/about" rel="nofollow">本站介绍</a> | <a target="_blank" href="/site/link" rel="nofollow">申请友情链接</a> | <a target="_blank" href="/site/tg" rel="nofollow">欢迎投稿</a> | <a target="_blank" href="/site/ys" rel="nofollow">隐私声明</a> | <a target="_blank" href="/site/ad" rel="nofollow">广告业务</a> | <a target="_blank" href="/site/map">网站地图</a> | <a target="_blank" href="/site/contact" rel="nofollow">联系我们</a> | <a target="_blank" href="/site/zhaopin" rel="nofollow">诚聘英才</a> </p>
+    <p>ICP许可证号：京ICP证070360号&nbsp;&nbsp;&nbsp;&nbsp;21IC电子网 2000-<script>document.write(new Date().getFullYear())</script>2024 版权所有</p>
+    <div class="yellow">
+      <div class="police">
+		 <a href="http://beian.miit.gov.cn" target="_blank" rel="nofollow">京ICP备11013301号</a>
+		 <img src="//misc.21ic.com/pub/topbar/images/ghs.png" style="vertical-align: middle;">
+		 <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024343" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" rel="nofollow">
+		 <p>京公网安备 11010802024343号</p>
+		 </a>
+		 </div>
+      <!-- 京公网安备 11010802024347号  --> 
+    </div>
+  </div>
+</div>
+	<script src="//misc.21ic.com/homepage2016/js/jquery-1.11.0.min.js"></script>
+<script src="/js/2015nav/slide-nav.min.js?v=1634868978"></script>
+<script src="/js/2015nav/lrtk.min.js?v=1634868978"></script>
+<script src="/js/homepage/jquery.lazyload.min.js?v=1634868979"></script>
+<script src="/js/layer/layer.js?v=1619258749"></script>
+<script>jQuery(function ($) {
+    var ids = $( "#attention" ).attr( 'data-id' );
+    copyTextA( ids );
+    divADiv();
+
+    if('物联网' == '厂商动态' || '物联网' == '原创'){
+        if($("#my_login_pop").length>0) {
+            $("#my_login_pop").css("display", "none");
+        }
+    }
+    if('智能应用' == '新闻速递' ){
+        if($("#my_login_pop").length>0) {
+            $("#my_login_pop").css("display", "none");
+        }
+    }
+
+
+    $("#login_close_popup").click(function () {
+        $(".Modal-wrapper").css("display","none");
+    });
+
+	$.get('/api/dl', function(res){
+		$('.dl_newtidetail').html(res);
+	})
+
+
+        
+        $.get('/api/dl', function(res){
+            res.replace("<ul>","");
+            var __temp = '<ul>';
+
+            // __temp += '<li><a target="_blank" href="https://ssp.21ic.com/c/7r44iy1w?l=https://app.ma.scrmtech.com/resources/ResourcePc/ResourcePcInfo?pf_uid=20572_1899&id=33586&source=1&pf_type=3&channel_id=29062&channel_name=%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A-Always+On-21ic-%E5%AD%90%E7%AB%99%E6%96%87%E5%AD%97%E9%93%BE&tag_id=56fd8740bdde4f47">助力理想 L9 旗舰 SUV 实现 L4 级自动驾驶和卓越智能座舱体验</a></li>';
+            // __temp += '<li><a target="_blank" href="https://ssp.21ic.com/c/7r44iy1w?l=https://app.ma.scrmtech.com/resources/ResourcePc/ResourcePcInfo?pf_uid=20572_1899&id=33586&source=1&pf_type=3&channel_id=29062&channel_name=%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A-Always+On-21ic-%E5%AD%90%E7%AB%99%E6%96%87%E5%AD%97%E9%93%BE&tag_id=56fd8740bdde4f47">美光内存和存储技术助力宏碁游戏系统实现新突破</a></li>';
+            // __temp += '<li><a target="_blank" href="https://app.ma.scrmtech.com/meetings-api/sapIndex/SapSourceData?pf_uid=20572_1899&sid=65691&source=2&pf_type=3&channel_id=29062&channel_name=%E5%AA%92%E4%BD%93%E5%B9%BF%E5%91%8A-Always+On-21ic-%E5%AD%90%E7%AB%99%E6%96%87%E5%AD%97%E9%93%BE&tag_id=56fd8740bdde4f47">美光科技 232 层 NAND ，扩展 3D NAND 技术边界</a></li>';
+            //
+            res = __temp + res;
+            $('.dl_newtidetail2').html(res);
+	})
+    
+	$.get('/show-log/log-view?id=965490', function(data) {
+
+	})
+
+	$('#attention').click(function(){
+	  var THIS = $(this)
+	  
+	  if(THIS.hasClass('m-attention')) {
+	    THIS.text('取消中...')
+	    $.get('/column/watch', {id: THIS.attr('data-id'), state:0}, function(data) {
+	      if (data.code == 0) {
+	        THIS.removeClass('m-attention').text('关注');
+	      } else if (data.code == 1) {
+	        layer.confirm('您尚未登录，是否登录?', {btn:['是', '否']}, function(index){
+	            window.location.href='//my.21ic.com/logging.php?referer='+window.location.href;
+	        }, function(){
+	            window.close()
+	        })
+	      } else {
+	        layer.alert(data.msg)
+	      }
+	      
+	    }, 'json')
+	  } else {
+	    THIS.text('关注中...')
+	    $.get('/column/watch', {id: THIS.attr('data-id'), state:1}, function(data) {
+	      if (data.code == 0) {
+	        THIS.addClass('m-attention').text('已关注');
+	      } else if (data.code == 1) {
+	        layer.confirm('您尚未登录，是否登录?', {btn:['是', '否']}, function(index){
+	            window.location.href='//my.21ic.com/logging.php?referer='+window.location.href;
+	        }, function(){
+	            window.close()
+	        })
+	      } else {
+	      	THIS.text('关注')
+	        layer.alert(data.msg)
+	      }
+	      
+	    }, 'json')
+	  }
+	  
+	})
+    
+    $('.viewBbs_tab a').hover(function(){
+        $('.viewBbs_tab a').removeClass('active');
+        $(this).addClass('active');
+        $('.viewBbs_list ul').hide();
+        $('.viewBbs_list ul').eq($(this).parent('li').index()).show();
+    })
+    
+    $('.delay_img').each(function(){
+        var obj =$(this);
+        $.post('/api/show-img',{src:$(this).data('src')},function(re){
+            obj.attr('src',re);
+        });
+    })
+    function divADiv(){
+        var params = $("#tempDiv").html();
+        if(params){
+            var arr=params.split("__");
+            if(arr[0].length>0&&arr[1].length>0){
+                $("#adiv").css("display","inline-block");
+            }else{
+                $("#adiv").css("display","none");
+            }
+        }else{
+            $("#adiv").css("display","none");
+        }
+    }
+    if ( !document.getElementById( 'moreread_1' ) ) {
+        document.getElementById( 'read_top' ).style.display = 'none';
+    } else {
+        var obj = document.getElementById( 'read-push' );
+        var page;
+        if ( !document.getElementById( 'moreread_2' ) ) {
+            obj.style.display = 'none';
+        }
+        obj.onclick = function () {
+            if ( !this.getAttribute( 'page' ) ) {
+                page = 1;
+            }
+            var divObj1 = document.getElementById( 'moreread_' + page );
+            page = page + 1;
+            if ( !document.getElementById( 'moreread_' + page ) ) {
+                page = 1;
+            }
+            var divObj2 = document.getElementById( 'moreread_' + page );
+            if ( divObj2 ) {
+                this.setAttribute( 'page', page );
+                divObj1.style.display = 'none';
+                divObj2.style.display = 'block';
+            }
+        }
+    }
+    function copyTextA( ids ) {
+        if(ids){
+            $.get( '/column/watchstate', {
+                    id: ids,
+                    state: 0
+                },
+                function ( data ) {
+                    if ( data.code == 0 ) {
+                        $( "#attention" ).removeClass( 'm-attention' ).text( '关注' );
+                    } else if ( data.code == 1 ) {
+                        $( "#attention" ).addClass( 'm-attention' ).text( '已关注' );
+                    } else {
+                        layer.alert( data.msg )
+                    }
+                }, 'json' )
+        }
+
+    }
+    // $.get('https://www.21ic.com/api/set-key',{t:'ss',v:'当前名称'},function () {},"json");
+    _hmt.push(['_setCustomVar', 1, 'test', 1, 3]);
+	
+});</script>
+    <!--右侧悬浮图标-->
+    <div class="article_group_right" id="article_group_right">
+        <a onclick="article_group_right();">关闭</a>
+        <a href="//misc.21ic.com/21ic_2021/vda21ic/index.html" target="_blank"><img src="/images/article_group_right_vda.png"></a>
+    </div>
+    <script language="javascript">
+        function article_group_right(){
+            document.getElementById('article_group_right').style.display="none";
+        }
+    </script>
+    <!--end右侧悬浮图标-->
+
+	<div style="display:none">
+	  	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8R2MPCQQZ0"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'G-024C3H6H0X')
+		  gtag('config', 'G-8R2MPCQQZ0');
+		</script>
+	  <script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F22332d78648b7586de15b4542cb6f7ae' type='text/javascript'%3E%3C/script%3E"));
+	  </script><script src=" https://hm.baidu.com/h.js?22332d78648b7586de15b4542cb6f7ae" type="text/javascript"></script> 
+
+	  <script type="text/javascript">
+	    var _21icProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	    document.write(unescape("%3Cscript src='" + _21icProtocol + "tj.21ic.com/sn.js' type='text/javascript'%3E%3C/script%3E"));
+	  </script><script src=" https://tj.21ic.com/sn.js" type="text/javascript"></script><script src="https://tj.21ic.com/inf/act.php?action=display&amp;ptype=1&amp;tid=3&amp;sid=1731564843056193767" type="text/javascript"></script><script src="https://tj.21ic.com/smart/actyan.php?action=display&amp;ptype=1&amp;tid=1&amp;sid=1&amp;pindao=all&amp;referer=https://www.21ic.com/a/965490.html" type="text/javascript"></script>
+	</div><div id="mxdata_ad_div" style="height: 80px;"><div style="clear: both; float: left; height: 148px;"></div><div id="mxdata_ad_div_nei" style="position: fixed; z-index: 166; bottom: 0px; width: 100%; height: 80px;"><a href="//tj.21ic.com/smart/actyan.php?urlgo=MQ==&amp;ptype=1&amp;tid=1&amp;sid=1" target="_blank"><iframe id="7569452" t="all" marginheight="0" marginwidth="0" frameborder="0" width="100%" height="100%" scrolling="no" src="//ssp.21ic.com/f/baidu7569452"></iframe></a><button id="mxdata_ad_div_but" style="position: absolute;cursor: pointer;right:10px;top: 10px;border: none;outline: none;display:inline-block;color: #f1f1f1;line-height: 20px;font-size: 20px;text-decoration: none;background: rgba(0,0,0,.3);padding-bottom: 5px;line-height: 16px;padding:5px;">×</button></div></div>
+	<script type="text/javascript">
+		$(function() {
+		    $("img.lazy").lazyload({
+		    });
+		    $("img.lazy-tabs").lazyload({
+		        skip_invisible: false
+		    });
+		    $("img.lazy-drop", this.list).show().lazyload({
+				container: this.list
+		    });
+		    checkLoginInfo();
+		});
+	</script>
+	<script>
+	(function(){
+	    var bp = document.createElement('script');
+	    var curProtocol = window.location.protocol.split(':')[0];
+	    if (curProtocol === 'https'){
+	   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+	  }
+	  else{
+	  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+	  }
+	    var s = document.getElementsByTagName("script")[0];
+	    var abcd = s.parentNode.insertBefore(bp, s);
+	    console.log(abcd);
+	    console.log('====================');
+	})();
+	</script>
+
+
+</body></html>

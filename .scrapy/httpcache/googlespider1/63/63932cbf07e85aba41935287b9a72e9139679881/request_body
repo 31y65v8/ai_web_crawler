@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.inside.com.tw/feature/ai/9854-ai-history",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.inside.com.tw/feature/ai/9854-ai-history",
+    "wait": 6
+}

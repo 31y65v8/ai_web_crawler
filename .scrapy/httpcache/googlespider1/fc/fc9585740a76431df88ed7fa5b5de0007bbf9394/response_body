@@ -1,0 +1,1055 @@
+<html lang="zn" class=" desktop landscape"><head><script src="http://push.zhanzhang.baidu.com/push.js"></script><script src="http://push.zhanzhang.baidu.com/push.js"></script><script type="text/javascript">	
+	var protocol = location.protocol;
+	var host = window.location.host;
+	var port = window.location.port;
+	var ctx = "http://www.cww.net.cn/";
+	var res = "http://cww.cww.net.cn/";
+</script>
+
+
+
+
+<title>人工智能发展上的起起落落_通信世界网</title>
+<meta name="keywords" content="人工智能">
+<meta name="description" content="人工智能的历史其实正好与计算机的历史差不多一样长，但两者的发展进度却大相径庭。一个很像一帆风顺的富二代，一个则起起落落很像白手起家的创业者。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="人工智能发展上的起起落落_通信世界网">
+<meta property="og:description" content="人工智能的历史其实正好与计算机的历史差不多一样长，但两者的发展进度却大相径庭。一个很像一帆风顺的富二代，一个则起起落落很像白手起家的创业者。">
+
+<base href="http://www.cww.net.cn:80/">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">    
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link rel="icon" href="http://cww.cww.net.cn/assets/img/ico.png" type="image/x-icon">
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+
+<script src="http://cww.cww.net.cn/assets/js/jquery.js"></script>
+<link href="http://cww.cww.net.cn/assets/css/bootstrap.css" rel="stylesheet">
+<link rel="stylesheet" href="http://cww.cww.net.cn/assets/css/themify-icons.css">
+<link rel="stylesheet" href="http://cww.cww.net.cn/assets/css/font-awesome.css">
+<link href="http://cww.cww.net.cn/assets/css/style.css" rel="stylesheet">
+<link href="http://cww.cww.net.cn/assets/css/base.css" rel="stylesheet">
+<link href="http://cww.cww.net.cn/assets/css/bg_white.css" rel="stylesheet">
+<link href="http://cww.cww.net.cn/assets/plugins/simplePagination-master/lib/pagination.css" rel="stylesheet"><!-- 分页插件 -->
+<link href="http://cww.cww.net.cn/assets/plugins/bootstrap-toastr/toastr.min.css" rel="stylesheet" type="text/css"><!-- 提示框插件 -->
+<link href="http://cww.cww.net.cn/assets/css/unslider.css" rel="stylesheet">
+<link href="http://cww.cww.net.cn/assets/css/bootstrap-tagsinput.css" rel="stylesheet">
+<!--焦点图--> 
+<script type="text/javascript" src="http://cww.cww.net.cn/assets/js/jdt.js"></script> 
+<!-- 页面底部百度分享自定义 -->
+<style>
+#share a{width:23px; height:23px; padding:0; margin:10px 2px;}
+#share a.popup_sqq{background: url(http://cww.cww.net.cn/assets/img/share_02_01_small.png) no-repeat;}
+#share a.bds_qzone{background: url(http://cww.cww.net.cn/assets/img/share_02_02_small.png) no-repeat;}
+#share a.bds_weixin{background: url(http://cww.cww.net.cn/assets/img/share_02_03_small.png) no-repeat;}
+#share a.bds_tsina{background: url(http://cww.cww.net.cn/assets/img/share_02_04_small.png) no-repeat;}
+
+/* #share_news a{width:25px; height:25px;}
+#share_news a.popup_sqq{background: url(http://cww.cww.net.cn/assets/img/share_02_01_h.png) no-repeat;  background-size: cover;}
+#share_news a.bds_qzone{background: url(http://cww.cww.net.cn/assets/img/share_02_02_h.png) no-repeat;  background-size: cover;}
+#share_news a.bds_weixin{background: url(http://cww.cww.net.cn/assets/img/share_02_03_h.png) no-repeat; background-size: cover;}
+#share_news a.bds_tsina{background: url(http://cww.cww.net.cn/assets/img/share_02_04_h.png) no-repeat;  background-size: cover;} */
+</style>
+<!-- 页面底部百度分享自定义 -->
+<!--[if lt IE 9]>
+<div style=' clear: both; text-align:center; position: relative;'>
+    <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+        <img src="http://img.t.felink.com/felinkcn/201604/images/ie8-panel/warning_bar_0000_us_cn.jpg" border="0" height="42" width="820"
+             alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+    </a>
+</div>
+<script src="http://img.t.felink.com/felinkcn/201604/js/html5shiv.js"></script>
+<![endif]-->
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<style>
+	.text iframe{overflow:hidden;overflow-x : hidden;overflow-y : hidden;width:95%;}
+	.floatAD{width:313px;height:216pxp;float:left;border:1px solid #f0f0f0;margin:8px 8px 8px 0;}
+	.floatAD img{margin:2px;}
+	.list-unstyled a{line-height:180%;}
+</style>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+<script src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=480987"></script><link rel="stylesheet" href="http://bdimg.share.baidu.com/static/api/css/share_style1_16.css"></head>
+<body>
+<script src="http://zhuanti.cww.net.cn/js/ads_news.js?v=2024090302" type="text/javascript"></script>
+	<!--header-->
+	
+
+	<header class="pos_r">
+		<!--顶部登陆注册-->
+		<div class="nav-top hidden-xs">
+			<div class="container">
+				<div class="row">
+					<!--登录后-->
+					
+					<!--登录后//-->
+					<!--登录前-->
+					
+					<div class=" ml15 pt-sm fr">
+						<a href="http://www.cww.net.cn/jsp/login.jsp">登录</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.cww.net.cn/jsp/register.jsp">注册</a>
+					</div>
+					
+					<!--登录前//-->
+
+					<!--搜索-->
+					<div class="col-sm-3 col-sm-5  fr">
+						<div class="qingchu">
+							<div class="search " style="margin-top: 4px;">
+									<input id="topSearchWord" value="热词：新闻 | 直播 " onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '热词：新闻 | 直播  ';}" type="text" class="texter" onkeyup="showBtn();" onkeydown="if(event.keyCode==13){search();}"> 
+									<input type="submit2" class="clearer" id="clearBtn" onclick="clearText();">
+									<input value="" type="submit" onclick="search()">
+							</div>
+						</div>
+					</div>
+					<!--搜索//-->
+					<div class=" topnav">
+						<ul class="list-unstyled list-inline">
+							<li><a href="http://www.cww.net.cn/web/homepage/index.action">首页</a></li>
+							<!--<li><a href="/web/magazines/issueslist.action?magazineId=2910" target="_blank">《通信世界》</a></li>-->
+							<li><a href="/web/magazines/index.action" target="_blank">图书推荐</a></li>
+							<li><a href="/subjects/cha/download/DCDDC3E188434ACE979EA14091C562B3" target="_blank">下载专区</a></li>
+							<li><a href="/subjects/nav/rollList/B49F9B4F2BE14170A5509153CADDB036" target="_blank">沙龙●会议</a></li>
+							<li class="tgIndex" style="margin-left:155px;"><a href="http://www.cww.net.cn/web/personalcenter/contribute.action" target="_blank"><img src="/images2020/tg.jpg" style="margin-top:-10px;" data-bd-imgshare-binded="1"></a></li>
+						</ul>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<!--顶部登陆注册//-->
+		<!-- 泰山压顶广告 -->
+		<!-- <div class="box gg_container" style="position: relative; margin: 0 auto;">
+			<div class="gg_full">
+				<div class="gg_fbtn">
+					<a style="display:none;" class="gg_freplay" onclick="gg_freplay()" title="重播" href="javascript:;"></a>
+					<a class="gg_fclose" onclick="gg_fclose()" title="关闭" href="javascript:;"></a>
+				</div>
+				<div class="gg_fcon">
+				<a href="javascript:void(0);"><img  src="http://cww.cww.net.cn/images/20170710/44901499672287661.jpg"/></a>
+				</div>
+			</div>
+		</div> -->
+		<!-- 泰山压顶广告 //-->
+		<!--主导航-->
+		<nav class="navbar navbar-default navbar-static-top border-b clearfix">
+			<div class="container ">
+			    <!--广告栏-->
+                <!--
+		        <div class="row ggbar hidden-sm hidden-xs mt-lg " >
+		           <div class="col-md-12 img100 jianj-r gg_2 gg_h70" style="margin-bottom:3px;">
+		          		<a href="http://zhuanti.cww.net.cn/zhuanti/CWW20/" target="_blank"><img src="http://cww.cww.net.cn/assets/gg/20200113143512.jpg" style="width:970px;height:70px;"></a>
+		          </div>
+		        </div>
+                -->
+				<!--
+		        <div class="row ggbar hidden-sm hidden-xs mt-lg " >
+		          <div class="col-md-8 img100 jianj-r gg_2 gg_h70" style="margin-bottom:3px;" id="A0001">
+		          		
+		          </div>
+		           <div class="col-md-4 img100 gg_2 gg_h70" style="margin-bottom:3px;" id="A0002">
+		           		
+		           </div>
+		        </div>
+				-->
+			    <!--广告栏//--> 
+				<div class="row" style="padding: 20px 0px;">
+					<div class="navbar-right">
+						<ul class="navbar-nav  list-unstyled" data-type="navbar" id="channelList">
+							<li class="visible-xs tc" style="padding-top: 0">
+							
+							</li>
+							<li class="channelList1 channelListA">
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/2603" target="_blank">监管</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/cha/channel/7E54960B6D8840A29525A5FC8534FDCC" target="_blank">运营</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/4278" target="_blank">企业</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/12372" target="_blank">产业</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/cha/channel/40E70A79BC864B60895472F8A85572D9" target="_blank">技术</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/cha/channel/1B52A8F9D69947B0B483383723E4B456" target="_blank">终端</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/6553" target="_blank">视点</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/CE2A0A3F766E4F3E8D2F3399AB3D570D" target="_blank">访谈</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/topic/6CDF472D12EF4ECD9D6ED97320BB0C25" target="_blank">专题</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/cha/rollAllList" target="_blank">滚动</a></dd>
+							</li>
+							<li class="channelList2 channelListA">
+							<dd><a href="http://www.cww.net.cn/subjects/cha/5G/9F1282077F8C43CBB90A83F4630703E7" target="_blank">5G•6G</a></dd>
+							<dd style="margin-left:-10px;"><a href="http://www.cww.net.cn/subjects/nav/rollList/3004" target="_blank">无线</a></dd>
+							<dd style="margin-left:-10px;"><a href="http://www.cww.net.cn/subjects/cha/channel/4D5DDD5AE49349B999171EBDA7EA383D" target="_blank">光通信</a></dd>
+							<dd><a href="http://zhuanti.cww.net.cn/live/" target="_blank">直播</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/3009" target="_blank">人工智能</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/8102" target="_blank">算力</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/3008" target="_blank">大数据</a></dd>
+							</li>
+							<li class="channelList3 channelListA">
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/2633" target="_blank">互联网</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/3007" target="_blank">工联网</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/3006" target="_blank">芯片</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/cha/channel/E67BA656D31F435D91E72601AE1E2DC7" target="_blank">物联网</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/3005" target="_blank">区块链</a></dd>
+							<dd><a href="http://www.cww.net.cn/subjects/nav/rollList/8639" target="_blank">安全</a></dd>
+							</li>
+						</ul>
+					</div>
+					<div class="navbar-header">
+						<div class="navbar-brand">&nbsp;</div>
+					</div>
+
+				</div>
+			</div>
+
+		</nav>
+		<!--主导航//-->
+		<div class=" topnav visible-xs mt-lg">
+						<ul class="list-unstyled list-inline">
+							<li>
+								<a href="http://www.cww.net.cn/web/homepage/index.action">首页</a>
+							</li>
+							<li class="dropdown" id="accountmenu"><a class="dropdown-toggle" data-toggle="dropdown" href="/web/magazines/issueslist.action?magazineId=2910">《通信世界》</a></li>
+							<li class="dropdown"><a href="/subjects/cha/download/DCDDC3E188434ACE979EA14091C562B3">下载专区</a></li>
+							<li class="dropdown"><a href="http://www.cww.net.cn/web/homepage/getPageRollNewsPage?columnsId=B49F9B4F2BE14170A5509153CADDB036">沙龙●会展</a></li>
+
+						</ul>
+		</div>
+	</header>
+<form id="searchForm" method="post" action="web/search/index.action" style=" height:0; line-height:0;">
+<input id="keyWord" name="keyWord" type="hidden">
+</form>
+<script type="text/javascript">
+var userId=$('#userId').val();
+var userImg=$('#userImg').val();
+var webPower=$('#webPower').val();
+if(userId==undefined){
+	userId="";
+}
+if(webPower==undefined){
+	webPower="";
+}
+if(userId!=""){
+	if(isContains('10000002'))
+		$('#tgBut').attr("disabled", false); 
+}
+function isContains(substr) {
+    return webPower.indexOf(substr) >= 0;
+}
+if(userId!=null&&userId!='')
+	setTimeout("getNoticeCount()",1000); 
+if(userImg==undefined || userImg==null || userImg=='' || userImg=='null'){
+	$("#userIco").attr("src","http://cww.cww.net.cn/assets/img/user-none.png");
+	$("#userIcoSm").attr("src","http://cww.cww.net.cn/assets/img/user-none.png");
+}
+//yxw add 通用的js判断
+function isloginJs(){
+	if(""==userId||null==userId||undefined==userId){
+		window.open("jsp/login.jsp");
+		return false;
+	}
+	return true;
+}
+function showBtn(){
+	if(document.getElementById('topSearchWord').value.length > 0){
+	document.getElementById('clearBtn').style.display = 'block';
+	}else{
+	document.getElementById('clearBtn').style.display = 'none';
+	}
+	}
+	function clearText(){
+	document.getElementById('topSearchWord').value = '热词：新闻 | 直播 ';
+	document.getElementById('clearBtn').style.display = 'none';
+	}
+//搜索
+function search(){
+	var keyWord=$('#topSearchWord').val();
+	if(keyWord==null||keyWord==''||keyWord=='热词：新闻 | 直播  '){
+		window.open("web/search/index.action");		
+	}else{
+		$('#keyWord').val(keyWord);
+		$('#searchForm').submit();
+	}
+}
+//去用户的消息数量
+function getNoticeCount(){
+	$.ajax({
+		url : ctx + 'web/personalcenter/getNoticeCount.json',
+		type : 'get',
+		dataType : 'json',
+		async : false,
+		success : function(data) {
+			// 操作成功
+			if (data['statusCode'] == '200') {
+				var jsonData=data['data'];
+				if(jsonData<10)
+					jsonData="&nbsp;"+jsonData+"&nbsp;";
+				$('#noticeCount').empty();
+				$('#noticeCount').append(jsonData);
+			}
+		}
+	});	
+}
+
+window._bd_share_config = {
+		"common" : {
+			"bdSnsKey" : {},
+			"bdText" : "",
+			"bdMini" : "2",
+			"bdMiniList" : false,
+			"bdPic" : 'http://www.cww.net.cn/assets/img/logo.png',
+			"bdStyle" : "1",
+			"bdSize" : "16"
+		}, 
+		"share" : {},
+		"image" : {
+			"viewList" : [ "tsina", "weixin", "qzone", "sqq" ],
+			"viewText" : "分享到：",
+			"viewSize" : "16"
+		},
+		"selectShare" : {
+			"bdContainerClass" : null,
+			"bdSelectMiniList" : [ "tsina", "weixin", "qzone", "sqq" ]
+		}
+	};
+</script>
+	<!--header//-->
+	<!--main-->
+<!--header//-->
+<!--面包屑导航-->
+	<div class="container">
+	<div class="navbread container">
+	<a href="http://www.cww.net.cn/web/homepage/index.action"><span>首页</span></a>
+	<span>&gt;</span>
+	
+	<span>资讯详情</span>
+	</div>
+	</div>
+<!--面包屑导航//-->
+	<!--main-->
+	<main>
+	<section class="container">
+		<div style="margin-bottom:10px;"><a href="https://k.weidian.com/EtdQWr5x" target="_blank"><img src="http://cww.cww.net.cn/assets/gg/20240802093139.jpg" style="width:100%" data-bd-imgshare-binded="1"></a></div><!---->
+		<!--通栏广告--
+		<div class="row gg_01">
+			<div class="col-md-12 img100" id="ad3001">
+				
+			</div>
+		</div>
+		<div class="row gg_01">
+			<div class="col-md-12 img100">
+				<a href="#" target="_blank"><img src=""></a>
+			</div>
+		</div>
+        -->
+		<!--通栏广告//-->
+		<div class="row row2">
+			<!--左-->
+			<div class="col-md-8 ht-wz">
+				<div class="title">
+				
+					 
+					  
+						<h1>
+							<!-- <script type="text/javascript">
+								var articleTitle='人工智能发展上的起起落落';
+								articleTitle=articleTitle.replace(/®/, "<sup>®</sup>");
+								document.write(articleTitle);
+							</script> -->
+							人工智能发展上的起起落落
+						</h1>					 
+					 
+				
+				</div>
+				<div class="subtitle">
+							<!-- <script type="text/javascript">
+								var subTitle='';
+								subTitle=subTitle.replace(/®/, "<sup>®</sup>");
+								document.write(subTitle);
+							</script> -->
+					
+				</div>
+				<div class="col-md-12">
+					
+	            	
+	                	<span class="introtit_fl"><em class="icon-circle listdot"></em>责任编辑：王德清</span>
+	                
+	            	<span class="introtit_fl"><em class="icon-circle listdot"></em>2018.06.11 16:13</span>
+	            	
+	            </div>
+	            <div class="clearfix"></div>
+	            <div class="col-md-12  mt-sm ">
+	             	<div class="newsbq fl ">
+		           		
+						
+			            	
+				            	 
+							      
+							      
+							      <div><a href="javascript:void(0);">人工智能</a></div>
+							     
+							    
+							
+			            
+		            </div>
+		            <div class="cl320"></div> 
+		            <div class="share_02" id="share_news">		      
+		       			<div class="bdsharebuttonbox bdshare-button-style1-16" id="bdshare" style="margin: 0 auto;width:130px" data-bd-bind="1731559059570">
+		       				<span><a href="#" class="popup_sqq" data-cmd="sqq" title="分享到QQ好友"></a></span>
+							<span><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a></span>
+							<span><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></span>
+							<span><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></span>						
+						</div>	          
+					</div>
+					<input type="hidden" id="arcticleSummary" value="人工智能的历史其实正好与计算机的历史差不多一样长，但两者的发展进度却大相径庭。一个很像一帆风顺的富二代，一个则起起落落很像白手起家的创业者。">
+					<script type="text/javascript">
+					var arcticleSummary=$('#arcticleSummary').val().replace(/\n/g, '');
+					if(arcticleSummary==''||arcticleSummary=='null'||arcticleSummary==null)
+						arcticleSummary='人工智能发展上的起起落落';
+					var bdPic='';
+					if(bdPic==''||bdPic=='null'||bdPic==null)
+						bdPic="http://www.cww.net.cn/assets/img/logo.png";
+					else
+						bdPic=ctx+bdPic;
+					window._bd_share_config = {
+								"common" : {
+									"bdSnsKey" : {},
+									"bdText" : "",
+									'bdComment':arcticleSummary,
+									"bdMini" : "2",
+									"bdMiniList" : false,
+									"bdPic" : bdPic,
+									"bdStyle" : "1",
+									"bdSize" : "16"
+								}, 
+								"share" : {},
+								"image" : {
+									"viewList" : [ "tsina", "weixin", "qzone", "sqq" ],
+									"viewText" : "分享到：",
+									"viewSize" : "16"
+								}/*,
+								"selectShare" : {
+									"bdContainerClass" : null,
+									"bdSelectMiniList" : [ "tsina", "weixin", "qzone", "sqq" ]
+								}*/
+							};
+					</script>
+	            </div>				
+				<!-- 新闻内容 -->
+				<div class="clearfix"></div>
+				<div class="borderbtm"></div>
+					<div id="divContentDiv" class="text">
+					<p style="text-indent:2em;">人工智能的历史其实正好与计算机的历史差不多一样长，但两者的发展进度却大相径庭。一个很像一帆风顺的富二代，一个则起起落落很像白手起家的创业者。</p><p style="text-indent:2em;">我们都知道现代计算机(包含我们常见的电脑、手机等)其实开始于图灵这个人。图灵在数学上证明了如果处理盒(相当于处理器)选择了一套正确的规则，并给予无限长的纸带(相当于内存和硬盘)，那么这种装置可以进行任何宇宙里可以定义的操作，此后才由冯·诺依曼确定了计算机的基本体系结构，最终才是最近30年计算机的蓬勃发展。</p><p style="text-align:center"><img src="http://221.179.172.81:8080/mnt_manage//ueditor/jsp/upload/image/20180611/1528704832353001644.jpg" data-bd-imgshare-binded="1"></p><p style="text-indent:2em;">图灵机</p><p style="text-indent:2em;">不管看到的电子产品多么神奇，其实原理都来自上面这么个简单的东西。</p><p style="text-indent:2em;">这就和很多科技发展所遵循的规律一样，一个伟大的人物先在理论上达成一个自洽的、让人仰望的高度，后人则在这个大框架下不断细化和应用。牛顿的定律是这样，爱因斯坦的相对论是这样，计算机也是这样，但很不幸人工智能则不是这样，科学家始终还处在摸索中，只不过摸到的东西确实越来越多了。</p><p style="text-indent:2em;">人工智能也诞生于图灵那个年代，甚至也就是图灵这个人提出了今天引起了极大关注的那些方向，比如图灵测试、机器学习、遗传算法和强化学习等。但此后人工智能的发展则是三起两落，既有万众瞩目，人们信心爆棚，资金大量注入的时候，也有被打入冷宫、无人问津的时候。这与计算机乃至互联网的发展完全不一样，这两个东西在摩尔定律的助推下，很像是安了天使翅膀的人类，几乎是一路向前狂奔，到现在也还没怎么减速。这里面也许最根本的差别就是人工智能本身并没有一种理论基础，所以怀疑它不行或者相信它肯定能行都很像一种信念。信念在受到事实威胁时实在不足以支撑这样一个极其费钱的大科目，这就导致了人工智能的发展起起落落，一波三折。</p><p style="text-indent:2em;">人工智能的起点要追溯到大概60年前。1956年，当时这个领域非常有影响力的约翰·麦肯锡说服了明斯基、香农等人，帮助他把全美所有自动机理论、神经网络和智能研究的人召集到了一起，这年夏天，他们在达特茅斯组织了一场研讨会，从这场会议的声明中可以看出那时候的科学家对人工智能持何种乐观态度：</p><p style="text-indent:2em;">那时候的顶级科学家其实希望迅速地做完图灵对计算机所做的事情，但很不幸，事情的进展和他们想的完全不一样，并且可以确定到2016年夏天，也就是60年后，这事也还没搞定。但这次会议的特别价值在于它形成了一种共识——让人工智能成为一个独立的学科，因此这个会议通常被看成是人工智能这一学科真正诞生的标志。</p><p style="text-indent:2em;">人工智能是在人们信心大爆棚时诞生的，尽管科学家非常乐观，也声称自己的程序能够证明《数学原理》第2章中的大部分定理，但大多数人并不能从这一乐观态度中看到什么明显的进步。当时美国政府对此非常热心，在这个领域投了很多钱，与之相反英国政府却采取了一种完全不同的做法，他们请了一位著名的数学家——詹姆斯·莱特希尔(Sir James Lighthill)教授，对人工智能做一个彻底的评估。这位教授在看了所有重要的相关论文后，写出了一份报告，后来世人称之为《莱特希尔报告》。这份报告说人工智能绝不可能有什么用途，因为它只能被用来解决简单的问题。英国政府以后没有在人工智能上进行大量的投资，此后人工智能逐渐变得少有人问津。事实上第一波人工智能浪潮止步于以下三种困难：</p><p style="text-indent:2em;">第一种困难是早期的人工智能程序对句子的真实含义完全不理解，它们主要依赖于句法处理获得成功。这样一来，它们“the spirit is willing but the flesh is weak”(英文：心有余而力不足)到“the vodka is good but the meat is rotten(俄语：伏特加酒是好的，而肉是烂的)的英译俄再俄译英就不可能做对。其实直到现在问题仍然存在，只不过大量的数据弥补了不理解真实含义的缺陷。形象地讲，现在计算机并不去理解这个句子，而是看哪种翻译被用得多。</p><p style="text-indent:2em;">第二种困难则是《莱特希尔报告》里重点强调的组合爆炸。这导致让程序每次产生一个小变化，最终产生出可以解决问题的程序这种思路被堵死了。这就好比用试错法寻找正确的路，但每条路上都有无数的岔路甚至岔路间还彼此勾连，因此可走的路近乎无限多，那么试错法毫无价值。</p><p style="text-indent:2em;">第三种困难则是那时候发现虽然人工智能具有的神经网络简单形式可以学会它们能表示的任何东西，但它其实只能表示很少的东西，应用范围十分有限。</p><p style="text-indent:2em;">正因为这些困难得不到有效的解决，在20世纪70年代人工智能渐渐冷却，直到专家系统的兴起和神经网络让人们看到了新的希望。到了80年代确实有些专家系统被成功部署，并为公司节约了数以千万美元计的费用，比如第一个成功的商用专家系统R1在DEC成功运转，此后DEC陆续部署了40个专家系统。也正是在这时候日本宣布了第五代计算机计划，希望用10年时间研制出智能计算机。作为回应，美国也组建了一家公司来保证国家竞争力。</p><p style="text-indent:2em;">也是在这个时候，神经网络上取得了新的进展，一个典型的事件是1989年，燕乐存(Yann LeCun)在AT&amp;T Bell实验室验证了一个反向传播在现实世界中的杰出应用，即“反向传播应用于手写邮编识别”系统，简单点说就是这个系统能很精准地识别各种手写的数字，很有意思的是当年的演示视频被保留了下来，所以我们今天仍然可以清楚地回放当年的效果。但很不幸的，展开这类算法所需要的计算能力和数据那时候并不具备，所以在实际应用中也逐渐败下阵来。这个方向狼狈到这样一种程度：现在的深度学习领军人物以及他们学生的论文被拒成了家常便饭，根本原因就是论文主题是神经网络。另一件小事也可以从侧面说明当时神经网络不被待见的程度：为了让神经网络复兴并被大家接受，现在鼎鼎大名的杰弗里·欣顿(Geoffrey Hinton)和它的小组密谋用“深度学习”来重新命名让人闻之色变的神经网络领域。很多人很难想到今天鼎鼎大名的深度学习其实是这么来的。</p><p style="text-indent:2em;">于是人工智能再次陷入低潮，这种低潮从其他方面解释其实是无意义的，主要还是技术本身的实现程度支撑不起足够多的应用。当一种技术并没有在商业中深度渗透进去，自身又需要较多的研究资源，也没有坚实的理论基础让人看到高额投入肯定会产生效果时，那么它遇冷的可能性就变得极大。</p><p style="text-indent:2em;">人工智能被低估持续了十几年，直到最近互联网和云计算的兴起。如果要从2010年时任斯坦福大学教授的吴恩达加入谷歌开发团队XLab开始计算，那这次的热潮兴起也不过只有五六年。互联网和云计算之所以让深度学习得以复兴，其关键点有两个：一是互联网提供了海量的数据;二是云计算提供了远超以往的计算能力。这两点很像燃料与引擎，它们叠加到一起就可以让车跑得飞快。</p><p style="text-indent:2em;">总结起来，我们可以讲到现在为止人工智能历经三起两落，和前两次不一样的是，这次我们有理由相信人工智能会发展起来而不是再落下去，关键原因不在于科学家如何有信心，而在于这种技术已经非常普遍地得到了应用，其应用范围要远大于前两次，不管是在声音、图像还是在数据分析上。</p><p style="text-indent:2em;"><br></p></div>
+					<script language="javascript">
+					var content = $(".text").html();
+					var re = /text-indent:[\s]*0em;/ig;
+					$(".text").html(content.replace(re,""));
+					
+					</script>
+					<div id="PaginationContent" class="pagination pull-right mr10" style="display: none;"><!-- 这里显示分页 --></div>
+					<div class=" clearfix"></div>
+					
+												
+				<div class="img100 p-lg"><a href="http://www.cww.net.cn/article?id=595276" target="_blank"><img src="http://cww.cww.net.cn/assets/gg/20241113144834.jpg" width="650" alt="" data-bd-imgshare-binded="1"></a></div>
+				
+				<div style="font-size:12px;line-height:18px;color:#555;padding:15px;">
+				<div style="font-size:16px;line-height:18px;color:#333;padding-bottom:10px;font-weight:bold;padding:15px 0px;border-top:1px dashed #ccc;">通信世界网版权及免责声明:</div>
+1、凡本网注明“来源：通信世界全媒体”及标有原创的所有作品，版权均属于通信世界网。未经允许禁止转载、摘编及镜像，违者必究。对于经过授权可以转载我方内容的单位，也必须保持转载文章、图像、音视频的完整性，并完整标注作者信息和本站来源。<br>
+2、凡本网注明“来源：XXX（非通信世界网）”的作品，均转载自其它媒体，转载目的在于传递更多信息，并不代表本网赞同其观点和对其真实性负责。<br>
+3、如因作品内容、版权和其它问题需要同本网联系的，请在相关作品刊发之日起30日内进行。<br>
+				</div>
+				      
+				<!-- <div class=" border-b">&nbsp;</div> -->
+				<!-- 新闻内容 -->
+				
+				<div class="col-md-12"><div id="_uluct"></div></div>
+				<script>
+					function setIframeHeight(iframe) {
+						if (iframe) {
+							var iframeWin = iframe.contentWindow
+							|| iframe.contentDocument.parentWindow;
+							if (iframeWin.document.body) {
+							var co=iframeWin.document.documentElement.scrollHeight;
+							var ff=iframeWin.document.body.scrollHeight;
+							if(co<ff)
+							iframe.height = iframeWin.document.documentElement.scrollHeight+30;
+							else
+							iframe.height = iframeWin.document.body.scrollHeight+30;
+							}
+						}
+					};
+					window.onload = function () {
+						$(".text iframe").css("height",parseInt($(".text iframe").css("width").replace("px",""))*9/16+"px");
+						setIframeHeight(document.getElementById('likenews'));
+					};
+				    (function () {
+				        //var cnt=document.getElementById("_uluct");
+				        if(!cnt)
+				            return;
+				        // urcmd.html?_usiteId=预先分配的siteId&_unum=请求推荐的条数&_uitemId="+当前文章id+"&_uuid=用户的id
+				        var url= "urcmd.html?_usiteId=5024&_unum=8&_uitemId=433992&_uuid="+userId+"&_v="+parseInt(Math.random()*10000);
+				        cnt.innerHTML='<iframe id="likenews"  width="100%" height="auto"  marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="'+url+'"></iframe>';
+				    })()				
+				</script>
+				<div class="clearfix"></div>
+				<div id="commentDiv" class="optioncon mt-xl" style="display: none;">
+					<div id="commentloginDiv" class="inputarea_l p">
+						发表评论请先<a href="http://www.cww.net.cn/jsp/login.jsp" style="color: blue">登录</a>
+					</div>
+					<!--评价输入 开始-->
+					<div id="commentFormDiv" class="inputarea_l " style="display: none;">
+						<div>
+							<textarea cols="" rows="3" id="comment"></textarea>
+						</div>
+						<div class="fr margin_top_10" style="margin-top: 10px; margin-right: 20px; margin-bottom: 10px;">
+
+							<span class="btn_submit ml-xl fr"><a href="javascript:void(0)" onclick="addComment()">发表评论</a></span>
+							<!--点赞-->
+							<div id="likeBut" class=" ft28 textgray fr" onclick="likeFun()" style="cursor:pointer">
+								<i class="icon-thumbs-up"></i>
+							</div>
+							<!--点赞//-->
+							<!--已赞-->
+<!-- 							<div class=" ft28 text-info fr">
+								<i class="icon-thumbs-up"></i>
+							</div> -->
+							<!--已赞//-->
+						</div>
+
+						<!-- <div class="fr margin_top_10" style="margin-top:10px; margin-right:20px;"><span class="btn_submit"><a href="javascript:void(0);">评论</a></span></div>-->
+						<div class="fl p">
+							
+						</div>
+						<div class="v_text"></div>
+						<div class=" clearfix"></div>
+					</div>
+					<!--评价输入 结束-->
+					<div class="pingjia">
+						<ul id="myTab" class="nav nav-tabs">
+							<li class="active "><a href="#home" data-toggle="tab">
+									评价</a></li>
+							<div class=" ml-lg mr-lg  fr">
+								<i class="icon-thumbs-up text-info ft16 "></i> <span id="likeCount">0</span>
+							</div>
+							<div class="fr">共<span id="commentCount">0</span>条评论</div>
+
+
+
+						</ul>
+						<div id="myTabContent" class="tab-content">
+							<div class="tab-pane fade in active" id="commentList"><center><img src="http://cww.cww.net.cn/assets/img/none/zwpl.png" data-bd-imgshare-binded="1"></center></div>
+
+
+						</div>
+						<div class="tc">
+						<div id="Pagination" class="pagination pull-right mr10"><!-- 这里显示分页 --></div>
+<!-- 							<ul class="pagination  ">
+								<li><a href="javascript:void(0);">&laquo;</a></li>
+								<li class="active"><a href="javascript:void(0);">1</a></li>
+								<li class="disabled"><a href="javascript:void(0);">2</a></li>
+								<li><a href="javascript:void(0);">3</a></li>
+								<li><a href="javascript:void(0);">4</a></li>
+								<li><a href="javascript:void(0);">5</a></li>
+								<li><a href="javascript:void(0);">&raquo;</a></li>
+							</ul> -->
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+			<!--左//-->
+			<div class="clearfix visible-xs"></div>
+			<!--右-->
+			<div class="col-md-4 leftbar4">
+				<!--热点文章-->
+				<div class="rightbar bgcolor-white ">
+					<div class="more">
+						<a id="1026MoreUrl" href="/subjects/cha/channel/7E54960B6D8840A29525A5FC8534FDCC" title="更多" target="_blank">...</a>
+					</div>
+					<div class="title">
+						<span id="1026title">热点文章</span>
+					</div>
+					<div class="">
+						<ul class="list-unstyled" id="1026NewsList"><li><a href="http://www.cww.net.cn/article?id=593737" target="_blank" title="邬贺铨院士：新质互联网是如何炼成的？">· 邬贺铨院士：新质互联网是如何炼成的？</a></li><li><a href="http://www.cww.net.cn/article?id=593697" target="_blank" title="小模型“反卷”大模型？适用才是真王道！">· 小模型“反卷”大模型？适用才是真王道！</a></li><li><a href="http://www.cww.net.cn/article?id=593570" target="_blank" title="算力崛起正当时，数字中原抢先绘蓝图">· 算力崛起正当时，数字中原抢先绘蓝图</a></li><li><a href="http://www.cww.net.cn/article?id=593606" target="_blank" title="上线5年，中国广电终于可以携号转网了？">· 上线5年，中国广电终于可以携号转网了？</a></li><li><a href="http://www.cww.net.cn/article?id=593479" target="_blank" title="5G-A套餐能否推动5G“深用”？">· 5G-A套餐能否推动5G“深用”？</a></li></ul>
+
+					</div>
+				</div>
+				<!--热点文章//-->
+				<!--技术文章-->
+				<div class="rightbar bgcolor-white hidden-xs">
+					<div class="more">
+						<a id="1027MoreUrl" href="/subjects/cha/channel/40E70A79BC864B60895472F8A85572D9" title="更多" target="_blank">...</a>
+					</div>
+					<div class="title">
+						<span id="1027title">技术文章</span>
+					</div>
+					<div class="">
+						<ul class="list-unstyled" id="1027NewsList"><li><a href="http://www.cww.net.cn/article?id=593126" target="_blank" title="AI赋能5G RAN标准进展、挑战与展望">· AI赋能5G RAN标准进展、挑战与展望</a></li><li><a href="http://www.cww.net.cn/article?id=592977" target="_blank" title="基于“IPv6+5G”技术的物联网改造方案研究与应用">· 基于“IPv6+5G”技术的物联网改造方案研究与应用</a></li><li><a href="http://www.cww.net.cn/article?id=592966" target="_blank" title="中国联通“IPv6+”的 创新拓展与应用实践">· 中国联通“IPv6+”的 创新拓展与应用实践</a></li><li><a href="http://www.cww.net.cn/article?id=592965" target="_blank" title="大型网络向IPv6单栈演进的路径探索">· 大型网络向IPv6单栈演进的路径探索</a></li><li><a href="http://www.cww.net.cn/article?id=592124" target="_blank" title="基于Stable Diffusion的图像生成与多模态编辑智能体">· 基于Stable Diffusion的图像生成与多模态编辑智能体</a></li></ul>
+
+					</div>
+				</div>
+				<!--技术文章//-->
+				<!--活动预告-->
+				<div class="rightbar bgcolor-white hidden-xs">
+					<div class="more">
+						<a id="1028MoreUrl" href="/subjects/nav/rollList/2900" title="更多" target="_blank">...</a>
+					</div>
+					<div class="title">
+						<span id="1028title">会议活动</span>
+					</div>
+					<div class="tuwen" id="1028top"><div class="img1028 "><a href="http://www.cww.net.cn/article?id=592794" target="_blank"><img src="http://cww.cww.net.cn/images/20240813/61351723541329794.jpg" data-bd-imgshare-binded="1"></a></div></div>
+					<div class="">
+						<ul class="list-unstyled" id="1028NewsList"><li><a href="http://www.cww.net.cn/article?id=592794" target="_blank" title="火热报名中！2024卫星互联网技术与产业发展论坛即将在京举办">· 火热报名中！2024卫星互联网技术与产业发展论坛即将在京举办</a></li><li><a href="http://www.cww.net.cn/article?id=588851" target="_blank" title="2024世界电信日大会暨系列活动定档5月16-18日">· 2024世界电信日大会暨系列活动定档5月16-18日</a></li><li><a href="http://www.cww.net.cn/article?id=588325" target="_blank" title="2024云电脑创新发展沙龙议程抢“鲜”看">· 2024云电脑创新发展沙龙议程抢“鲜”看</a></li><li><a href="http://www.cww.net.cn/article?id=588104" target="_blank" title="沙龙预告 | 云电脑创新发展沙龙“来袭”">· 沙龙预告 | 云电脑创新发展沙龙“来袭”</a></li><li><a href="http://www.cww.net.cn/article?id=586742" target="_blank" title="今天下午2点！Wi-Fi 7线上研讨会“龙”重登场">· 今天下午2点！Wi-Fi 7线上研讨会“龙”重登场</a></li></ul>
+
+					</div>
+				</div>
+				<!--活动预告//-->
+				<!--通信世界电子刊
+				
+<style>
+.wqhg_t{text-align:center;color:#000;font-size:40px;font-weight:600;margin-bottom:20px;letter-spacing:2px;}
+.wqhg_per{width:45%;float:left;}
+.wqhg_fengmianPic img{width:142px;height:178px;border:0;}
+.wqhg_list{padding:0px 0px 10px 0px;}
+.wqhg_per{margin-left:15px;margin-top:10px;}
+.wqhg_list div:nth-child(2n+1){margin-left:0;}
+.wqhg_title{text-align:center;padding:20px 0;}
+.wqhg_title div,.wqhg_title a:link,.wqhg_title a:visited,.wqhg_title a:hover,.wqhg_title a:active{font-size:18px;color:#444;text-decoration:none;}
+</style>
+				<div class="rightbar bgcolor-white hidden-xs">
+					<div class="more">
+						<a href="http://www.cww.net.cn/web/magazines/issueslist.action?magazineId=2910" title="更多" target="_blank">...</a>
+					</div>
+					<div class="title">
+						<span>通信世界电子刊</span>
+					</div>
+					<div class="dzk"></div>
+					<div style="clear:both;"></div>
+				</div>
+	
+	<script language="javascript">
+	console.log("aaa")
+	var page = 1;
+	var wqhg = function(){
+		page = page<1?1:page
+		$.ajax({
+			url:"http://zhuanti.cww.net.cn/cwwweizhan/wjhg.asp?pgNum=2&page=" + page,
+			success:function(data){
+				console.log("data")
+				$(".dzk").html(data)
+			}
+		})
+	}
+	console.log("bbb")
+	wqhg()
+	</script>
+	
+				<!--通信世界电子刊//-->
+			</div>
+			<!--右//-->
+		</div>
+	</section>
+	</main>
+	<!--main//-->
+<!--成功提示框-->
+ <div class="jf-bg"></div>
+ 	<div class="jf-box">
+		
+	</div> 
+
+<!--成功提示框//-->
+
+	<!--main//-->
+	<!--footer-->
+	
+
+
+
+<div class="footer clear hidden-xs">
+	<div class="footer-wrapper">
+		<div class="apus-link row">
+			<ul class="col-lg-2 col-xs-12 pr-xl btm_share">
+				<li class=""><img src="http://cww.cww.net.cn/assets/img/btm_logo.jpg" alt="" data-bd-imgshare-binded="1"></li>
+				<div id="share">
+					<div class="bdsharebuttonbox bdshare-button-style1-16" data-bd-bind="1731559059570">
+						
+						<span><a href="#" class="popup_sqq" data-cmd="sqq" title="分享到QQ好友"></a></span>
+						<span><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a></span>
+						<span><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></span>
+						<span><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a></span>
+					</div>
+				</div>
+			</ul>
+                <ul class="col-lg-3 col-sm-4 col-xs-6 jianj-r " style="border-left:1px #ececec solid">
+                    <li><a href="http://www.miit.gov.cn/" target="_blank">工业和信息化部</a></li>
+                    <li><a href="https://www.ciitp.com.cn/" target="_blank">中国工信出版传媒集团</a></li>
+                    <li><a href="http://www.ptpress.com.cn/" target="_blank">人民邮电出版社</a></li>
+                    <li><a href="http://www.bjxintong.com.cn/" target="_blank">北京信通传媒有限责任公司</a></li>
+                    <li><a href="http://www.cace.org.cn/" target="_blank">中国通信企业协会</a></li>
+                    <li><a href="http://www.china-cic.org.cn/" target="_blank">中国通信学会</a></li>
+                    <li><a href="http://www.ccsa.org.cn/" target="_blank">中国通信标准化协会</a></li>
+                    <li><a href="http://www.catr.cn/" target="_blank">中国信息通信研究院</a></li>
+                </ul>
+            	<ul class="col-lg-2 col-sm-4 col-xs-6 jianj-r jianj-l">
+                 <li><a href="http://www.srrc.org.cn/" target="_blank">无线电频谱管理中心</a></li>
+                    <li><a href="http://www.ptac.com.cn/" target="_blank">中国邮电器材公司</a></li>
+                    <li><a href="http://www.chinatelecom.com.cn/" target="_blank">中国电信</a></li>
+                    <li><a href="http://www.chinamobile.com/" target="_blank">中国移动</a></li>
+                    <li><a href="http://www.chinaunicom.com/" target="_blank">中国联通</a></li>  
+              </ul>
+            	<ul class="col-lg-2 col-sm-4 col-xs-6 jianj-r" style="border-left:1px #ececec solid">
+                <li><a href="http://www.iitime.com.cn/" target="_blank">工联网</a></li>
+                <li><a href="http://www.infocomm-journal.com" target="_blank">信息通信学术期刊网</a></li>
+                <li><a href="http://tech.ifeng.com/" target="_blank">凤凰网科技</a></li>
+                 <li><a href="http://tech.sina.com.cn/" target="_blank">新浪科技</a></li>
+                 <li><a href="http://it.sohu.com/" target="_blank">搜狐IT</a></li>
+                    <li><a href="http://tech.qq.com/" target="_blank">腾讯科技</a></li>
+                    <li><a href="http://tech.hexun.com/" target="_blank">和讯科技</a></li>
+                     <li><a href="http://www.c114.com.cn/" target="_blank">C114通信网</a></li>
+                     <li><a href="http://www.ccidcom.com/" target="_blank">通信产业网</a></li>
+                      <li><a href="http://www.tele.hc360.com/" target="_blank">慧聪通信网</a></li>
+                      <li><a href="http://www.idcquan.com/" target="_blank">中国IDC圈</a></li>
+                 
+                 
+                    
+              </ul>
+              <ul class="col-lg-2 col-sm-4 col-xs-6 jianj-r">
+                  <li><a href="http://scitech.people.com.cn" target="_blank">人民网科技频道</a></li> 
+                   <li><a href="http://www.ctiforum.com/" target="_blank">CTI论坛</a></li>
+                  <li><a href="http://labs.chinamobile.com/" target="_blank">移动Labs</a></li> 
+                  <li><a href="http://www.d1net.com/" target="_blank">企业网D1net</a></li> 
+                  <li><a href="https://www.yingpost.com/" target="_blank">盈媒网</a></li> 
+                  <li><a href="https://www.e-works.net.cn/" target="_blank">e-works</a></li> 
+              </ul>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+<div class="footer_btm">
+	<div class="footer-wrapper">
+        	<div class="text-center">
+            	<a href="http://zhuanti.cww.net.cn/management/" target="_blank">关于我们</a> | <a href="http://zhuanti.cww.net.cn/management/?surl=guanggbaojia.htm" target="_blank">广告服务</a> | <a href="http://www.cww.net.cn/web/magazines/issueslist.action?magazineId=2910" target="_blank">在线阅读</a>  | <a href="http://zhuanti.cww.net.cn/management/?surl=main.asp?artid=79481" target="_blank">工作机会</a> | <a href="http://zhuanti.cww.net.cn/management/?surl=main.asp?artid=78851" target="_blank">联系我们</a>  | <a href="http://zhuanti.cww.net.cn/siteMap.html" target="_blank">本站导航</a>
+            </div>
+        	<div class="text-center">Copyright ©1999-2023 By cww.net.cn.  <a href="https://beian.miit.gov.cn/" target="_blank" style="color:#fff;">京ICP备09082226号-10</a>  电信与信息服务业务经营许可证101190号</div>
+        	<div class="text-center">公司名称：北京信通传媒有限责任公司&nbsp;&nbsp; 法律顾问：北京市蓝石律师事务所</div>
+	</div>
+</div>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+<script>
+	$(function() {
+		//列表自适应
+		var ptListWrp = $('.jQ_ptLst'); //列表容器
+		var valLstLiWth = $('.jQ_ptLst li').width(); //图片宽度（图片可能包括边框样式等，取Li宽度参与可视图片计算避免误差）
+		var valImgLth = 1; //可见图数变量*
+		var valpLstMg = 0; //边距变量*
+		var pLstLesMg = 5; //临界间距
+		//列表滚动
+		var pLstRoLt = $('.jQ_plstRoLt'); //左滚动元素
+		var pLstRoRt = $('.jQ_plstRoRt'); //右滚动元素
+		var pLstImgLth = ptListWrp.find('img').length; //获取图片总数
+		//宽度自适应方法
+		function fnAutoWth() {
+			//重置滚动
+			$('.jQ_ptLst ul').css({
+				'marginLeft' : '0'
+			});
+			pLstRoLt.hide();
+			pLstRoRt.show();
+			var pLstWrpWth = ptListWrp.width(); //获取当前可视区域宽度
+			valImgLth = Math.floor(pLstWrpWth / valLstLiWth); ///当前可视图片数计算*
+			//图片间距算法
+			function fnpLstMg() {
+				//间距 = 除去图片的宽度 /（图片数 + 1），并向上取整（避免小数误差）
+				valpLstMg = Math.ceil((pLstWrpWth - valImgLth * valLstLiWth)
+						/ (valImgLth + 1));
+			}
+			;
+			//执行计算
+			fnpLstMg();
+			//间距临界值
+			if (valpLstMg < pLstLesMg) {
+				valImgLth = valImgLth - 1; //当间距达到临界值，图片数-1
+				fnpLstMg(); //重新计算间距
+			}
+			;
+			//可视图片数 >= 总图片数时，总图片数即可视图片数
+			if (valImgLth >= pLstImgLth) {
+				valImgLth = pLstImgLth;
+				fnpLstMg(); //重新计算间距
+				pLstRoRt.hide();
+			}
+			;
+			//使可视图不为0
+			// if(valImgLth == 0){
+			// valpLstMg = 5;
+			// };
+			//设置间距
+			//ptListWrp.find('li').css('margin-left', valpLstMg);
+			ptListWrp.find('li').css('margin-left', 20);
+		}
+		;
+		//初始执行宽度自适应方法
+		fnAutoWth();
+		//动态变化宽度时执行方法
+		$(window).resize(function() {
+			fnAutoWth(); //宽度自适应方法
+		});
+		//滚动方法
+		function fnPlstArr($this) {
+			var pLstRoWrp = ptListWrp.find('ul');
+			var ptLstCssMg = parseInt(pLstRoWrp.css('margin-left')); //获取当前已滚动宽度
+			var ptLstImgMg = parseInt(pLstRoWrp.find('li:first').css(
+					'margin-left')); //获取当前图片间距
+			//向右滚动
+			if ($this.hasClass('jQ_plstRoRt')) {
+				//当点击右箭头时，列表向左滚动。需滚动的宽度 = 当前图片间距 + 图片宽度（取Li宽度）
+				pLstRoWrp.not(':animated').animate(
+						{
+							marginLeft : ptLstCssMg
+									- (ptLstImgMg + valLstLiWth)
+						},
+						200,
+						function() {
+							//回调函数判断滚动之后的箭头状态
+							var ptLstCurMg = parseInt(pLstRoWrp
+									.css('margin-left')); //获取当前已滚动宽度
+							var ptLstRoWth = (pLstImgLth - valImgLth)
+									* (ptLstImgMg + valLstLiWth);//计算非可视区域宽度
+							//当已滚动宽度 = 非可视区宽度，即已滚动至最后一图
+							if (ptLstCurMg + ptLstRoWth == 0) {
+								$this.hide(); //隐藏右箭头
+							}
+							;
+							pLstRoLt.show(); //一旦向右滚动，左箭头即显示
+						});
+			}
+			;
+			//向左滚动
+			if ($this.hasClass('jQ_plstRoLt')) {
+				pLstRoWrp.not(':animated').animate(
+						{
+							marginLeft : ptLstCssMg
+									+ (ptLstImgMg + valLstLiWth)
+						},
+						200,
+						function() {
+							//回调函数判断滚动之后的箭头状态
+							var ptLstCurMg = parseInt(pLstRoWrp
+									.css('margin-left')); //获取当前已滚动宽度
+							var ptLstRoWth = (pLstImgLth - valImgLth - 1)
+									* (ptLstImgMg + valLstLiWth);//计算非可视区域宽度
+							//当已滚动宽度 = 0，即已滚动至最前一图
+							if (ptLstCurMg == 0) {
+								$this.hide(); //隐藏左箭头
+							}
+							;
+							pLstRoRt.show(); //一旦向左滚动，右箭头即显示
+						});
+			}
+			;
+		}
+		;
+		//滚动事件绑定
+		$('.jQ_plstRoLt, .jQ_plstRoRt').click(function() {
+			fnPlstArr($(this));
+		})
+		//..
+	});
+</script>
+<!--滚动//-->
+ <script>
+ /* window._bd_share_config = {
+		"common" : {
+			"bdSnsKey" : {},
+			"bdText" : "",
+			'bdComment':'您的自定义分享评论',
+			"bdMini" : "2",
+			"bdMiniList" : false,
+			"bdPic" : "http://www.cww.net.cn/assets/img/logo.png",
+			"bdStyle" : "1",
+			"bdSize" : "16"
+		}, 
+		"share" : {},
+		"image" : {
+			"viewList" : [ "tsina", "weixin", "qzone", "sqq" ],
+			"viewText" : "分享到：",
+			"viewSize" : "16"
+		},
+		"selectShare" : {
+			"bdContainerClass" : null,
+			"bdSelectMiniList" : [ "tsina", "weixin", "qzone", "sqq" ]
+		}
+	}; */
+	with (document)
+		0[(getElementsByTagName('head')[0] || body)
+				.appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='
+				+ ~(-new Date() / 36e5)];
+	
+	if(userImg==undefined || userImg==null || userImg=='' || userImg=='null'){
+		$("#userIMG").attr("src","http://cww.cww.net.cn/assets/img/user-none.png");
+	}
+	/*
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-NK9F46');
+	*/
+</script>
+<script src="assets/js/img404.js"></script>
+	<!--footer//-->
+	
+<script src="http://cww.cww.net.cn/assets/js/device.min.js"></script>
+<script src="http://cww.cww.net.cn/assets/js/bootstrap.min.js"></script>
+<script src="http://cww.cww.net.cn/assets/js/tm-scripts.js"></script><script src="http://cww.cww.net.cn/assets/js/jquery.easing.1.3.js"></script><script src="http://cww.cww.net.cn/assets/js/tmstickup.js"></script><script src="http://cww.cww.net.cn/assets/js/jquery.ui.totop.js"></script><script src="http://cww.cww.net.cn/assets/js/jquery.mousewheel.min.js"></script><script src="http://cww.cww.net.cn/assets/js/jquery.simplr.smoothscroll.min.js"></script><script src="http://cww.cww.net.cn/assets/js/superfish.js"></script><script src="http://cww.cww.net.cn/assets/js/jquery.rd-navbar.js"></script><script src="http://cww.cww.net.cn/assets/js/wow.js"></script><meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=0"><script src="http://cww.cww.net.cn/assets/js/jquery.rd-parallax.js"></script>  
+<script src="http://cww.cww.net.cn/assets/plugins/simplePagination-master/lib/jquery.pagination.js"></script><!-- 分页插件 -->
+<script src="http://cww.cww.net.cn/assets/plugins/bootstrap-toastr/toastr.min.js" type="text/javascript"></script><!-- 提示框插件 -->
+<script src="http://cww.cww.net.cn/assets/js/index.js" type="text/javascript"></script><!-- 公共调用侧边栏加载数据 -->
+<script src="js/adspaces.js" type="text/javascript"></script><!-- 公共调用广告加载数据 -->
+<script src="http://cww.cww.net.cn/assets/plugins/bootbox/bootbox.min.js"></script><!-- 弹出框插件 -->
+<script src="http://cww.cww.net.cn/assets/js/unslider.min.js"></script>
+<script src="http://cww.cww.net.cn/assets/js/bootstrap-tagsinput.min.js"></script>
+<script type="text/javascript">
+toastr.options = {
+        closeButton: true,
+        debug: false,
+        positionClass: 'toast-top-center',
+        onclick: null
+    };
+var contextPath = 'http://www.cww.net.cn/';
+var resPath = 'http://cww.cww.net.cn/';
+/**
+ * 时间出转换函数
+ * alert(format(new Date().getTime(), 'yyyy-MM-dd HH:mm:ss'));
+ **/
+var format = function(time, format){
+    var t = new Date(time);
+    var tf = function(i){return (i < 10 ? '0' : '') + i};
+    return format.replace(/yyyy|MM|dd|HH|mm|ss/g, function(a){
+        switch(a){
+            case 'yyyy':
+                return tf(t.getFullYear());
+                break;
+            case 'MM':
+                return tf(t.getMonth() + 1);
+                break;
+            case 'mm':
+                return tf(t.getMinutes());
+                break;
+            case 'dd':
+                return tf(t.getDate());
+                break;
+            case 'HH':
+                return tf(t.getHours());
+                break;
+            case 'ss':
+                return tf(t.getSeconds());
+                break;
+        }
+    })
+}
+ //金额格式化函数--调用：fmoney("12345.675910", 3)，返回12,345.676 
+function fmoney(s, n) {
+		n = n > 0 && n <= 20 ? n : 2;
+		s = parseFloat((s + "").replace(/[^\d\.-]/g, "")).toFixed(n) + "";
+		var l = s.split(".")[0].split("").reverse(), r = s.split(".")[1];
+		t = "";
+		for (i = 0; i < l.length; i++) {
+			t += l[i] + ((i + 1) % 3 == 0 && (i + 1) != l.length ? "," : "");
+		}
+		return t.split("").reverse().join("") + "." + r;
+	}
+//金额格式化还原函数
+function rmoney(s) {  
+    return parseFloat(s.replace(/[^\d\.-]/g, ""));  
+}  
+//乘法函数
+function accMul(arg1,arg2){
+	var m=0,s1=arg1.toString(),s2=arg2.toString();
+	try{m+=s1.split(".")[1].length}catch(e){}
+	try{m+=s2.split(".")[1].length}catch(e){}
+	return Number(s1.replace(".",""))*Number(s2.replace(".",""))/Math.pow(10,m)
+}
+//加法函数
+function accAdd(arg1,arg2){
+	var r1,r2,m;
+	try{r1=arg1.toString().split(".")[1].length}catch(e){r1=0}
+	try{r2=arg2.toString().split(".")[1].length}catch(e){r2=0}
+	m=Math.pow(10,Math.max(r1,r2))
+	return (arg1*m+arg2*m)/m
+}
+//评论内容处理
+function LRtrim(str){
+	var string=str.replace(/^\s+|\s+$/g,"");//去除两端的空格
+	string=string.replace(/<[^>]+>/g,"");//去除html标签
+	return string;
+} 
+//百度主动链接推送
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+	<script type="text/javascript">
+		var pagebreak = "<hr/>";
+		$("#nav1").attr("class", "sfHover");
+		var id="9876C3AFCD8F4E238EB867E04F3AE9D8";
+		var articleTitle="人工智能发展上的起起落落_通信世界网";
+		var arcticleSummary=$('#arcticleSummary').val().replace(/\n/g, '');
+		var comment_type="0";
+		initSideInfo();//初始化侧边栏
+		initAd3001();//内页顶部通栏
+		//------ 文章页顶部新增广告位 --------//
+		initAdA0001();   // 
+		initAdA0002();   //
+		// !-- //
+	</script>
+	<script src="js/news/articleinfo.js?v=2023122001"></script>
+	<script language="javascript">
+	</script>
+
+
+<a href="#" id="toTop" class="toTop ti-angle-double-up" style="display: none;"></a><div class="rd-mobilemenu"><ul class="rd-mobilemenu_ul"><li><a href="http://www.cww.net.cn/subjects/nav/rollList/2603" target="_blank">监管</a></li><li><a href="http://www.cww.net.cn/subjects/cha/channel/7E54960B6D8840A29525A5FC8534FDCC" target="_blank">运营</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/4278" target="_blank">企业</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/12372" target="_blank">产业</a></li><li><a href="http://www.cww.net.cn/subjects/cha/channel/40E70A79BC864B60895472F8A85572D9" target="_blank">技术</a></li><li><a href="http://www.cww.net.cn/subjects/cha/channel/1B52A8F9D69947B0B483383723E4B456" target="_blank">终端</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/6553" target="_blank">视点</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/CE2A0A3F766E4F3E8D2F3399AB3D570D" target="_blank">访谈</a></li><li><a href="http://www.cww.net.cn/subjects/nav/topic/6CDF472D12EF4ECD9D6ED97320BB0C25" target="_blank">专题</a></li><li><a href="http://www.cww.net.cn/subjects/cha/rollAllList" target="_blank">滚动</a></li><li><a href="http://www.cww.net.cn/subjects/cha/5G/9F1282077F8C43CBB90A83F4630703E7" target="_blank">5G•6G</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/3004" target="_blank">无线</a></li><li><a href="http://www.cww.net.cn/subjects/cha/channel/4D5DDD5AE49349B999171EBDA7EA383D" target="_blank">光通信</a></li><li><a href="http://zhuanti.cww.net.cn/live/" target="_blank">直播</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/3009" target="_blank">人工智能</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/8102" target="_blank">算力</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/3008" target="_blank">大数据</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/2633" target="_blank">互联网</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/3007" target="_blank">工联网</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/3006" target="_blank">芯片</a></li><li><a href="http://www.cww.net.cn/subjects/cha/channel/E67BA656D31F435D91E72601AE1E2DC7" target="_blank">物联网</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/3005" target="_blank">区块链</a></li><li><a href="http://www.cww.net.cn/subjects/nav/rollList/8639" target="_blank">安全</a></li></ul></div><div class="rd-mobilepanel"><button class="rd-mobilepanel_toggle"><span></span></button><h2 class="rd-mobilepanel_title"></h2><img class="rd-mobilemenu_logo" src="http://cww.cww.net.cn/assets/img/Felink-logo.png" data-bd-imgshare-binded="1"></div><div id="bdimgshare_1731559059578" class="sr-bdimgshare sr-bdimgshare-list sr-bdimgshare-16 sr-bdimgshare-black" style="height:36px;line-height:26px;font-size:12px;width:autopx;display:none;" data-bd-bind="1731559059578"><div class="bdimgshare-bg"></div><div class="bdimgshare-content bdsharebuttonbox bdshare-button-style0-16"><label class="bdimgshare-lbl">分享到：</label><a href="#" onclick="return false;" class="bds_tsina" data-cmd="tsina" hidefocus=""></a><a href="#" onclick="return false;" class="bds_weixin" data-cmd="weixin" hidefocus=""></a><a href="#" onclick="return false;" class="bds_qzone" data-cmd="qzone" hidefocus=""></a><a href="#" onclick="return false;" class="bds_sqq" data-cmd="sqq" hidefocus=""></a><a href="#" onclick="return false;" class="bds_more" data-cmd="more" hidefocus=""></a></div></div></body></html>

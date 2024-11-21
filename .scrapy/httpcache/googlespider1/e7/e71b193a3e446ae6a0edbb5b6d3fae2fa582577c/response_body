@@ -1,0 +1,364 @@
+<!DOCTYPE html><html><head>
+    <title>10款最佳人工智能应用- 雪兽软件</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no,email=no,address=no">
+    <meta name="keywords" content="10款最佳人工智能应用 雪兽软件 软件开发 ERP定制 ERP系统定制 企业管理软件 企业软件 H5开发 HTML开发 网站开发 互联网+ 应用商店 应用市场 Snowbeasts 雪兽 ERP">
+    <meta name="description" content="人工智能（AI）正在占领所有市场，包括竞争激烈的移动应用程序市场。大型公司和小型初创公司都在使用人工智能来创造高度个性化的用户体验。   每年我们都会看到越来越...">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.snowbeasts.com/image/icon-180x180.png">
+    <link rel="icon" type="image/png" href="https://www.snowbeasts.com/image/icon-192x192.png" sizes="192x192">
+    
+    
+
+
+    <link href="https://www.snowbeasts.com/css/web.min.css?v=2.1.5" rel="stylesheet">
+</head>
+<body ontouchstart="">
+<header class="layout-header fixed width-full large background-white transition" data-script="header?find(this).addClass('box-shadow'):find(this).removeClass('box-shadow')">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 col-sm-3 logo"><a href="https://www.snowbeasts.com" class="noline"><img src="https://saas.snowbeasts.com/business/file/SnowbeastsSystem/35/661ce61b91f22a27b8637791/e230b65401ba4036967e38b7a09140a8#size=29295&amp;name=logo-v5-x-cn.bk.jpg&amp;width=333&amp;height=140&amp;time=1713169947385&amp;type=image"></a></div>
+            <div class="col-xs-8 col-sm-9 text-gray-dark">
+                <i class="sicon-menu float-right hidden-sm hidden-md hidden-lg" onclick="SnowWeb.showMenu(event)"></i>
+                <div class="menu-links">
+                    <ul class="language list-fluid float-right hide">
+                        <li><button class="button prompt smaller base-width">中文</button></li>
+                        <li><button class="button blank smaller base-width">English</button></li>
+                    </ul>
+                    <nav class="links relative f5">
+                        <input data-model="lastMenuItem" value="#menuBlog" type="hidden">
+                        <input data-model="menuItem" value="#menuBlog" type="hidden">
+                        <div>
+                            <a id="menuHome" href="https://www.snowbeasts.com/" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">首页</a>
+                            <a id="menuApps" href="https://www.snowbeasts.com/apps" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">产品</a>
+                            <a id="menuERP" href="https://www.snowbeasts.com/erp" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">定制</a>
+                            <a id="menuCase" href="https://www.snowbeasts.com/cases" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">案例</a>
+                            <a id="menuBlog" href="https://www.snowbeasts.com/blog" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="active">动态</a>
+                            <a id="menuAbout" href="https://www.snowbeasts.com/about" data-mouseover="menuItem=this;return true" data-mouseout="menuItem=lastMenuItem;return true" data-class="find(this).equals(lastMenuItem)?'active':''" class="">关于</a>
+                            
+                        </div>
+                        <hr class="absolute bottom transition hidden-xs" data-script="@menu_mouse_action" style="left: 288px; width: 72px;">
+                    </nav>
+                    <i class="sicon-cross absolute right top padding f3 hidden-lg hidden-md hidden-sm" onclick="SnowWeb.showMenu();"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="fixed call-service transition text-gray-light">
+        <i class="icon-phone"></i>
+        <div class="padding-large border-radius box-shadow large transition-opacity">
+            <p class="text-gray-light">商务咨询</p>
+            <p class="row-1"></p>
+            <a class="call text-gray-dark" href="tel:13020133833">13020133833</a>
+            <p class="row-5"></p>
+            <p class="text-gray-light">技术支持</p>
+            <p class="row-1"></p>
+            <a class="call text-gray-dark" href="tel:18621663782">18621663782</a>
+            <p class="row-5"></p>
+            <p class="text-gray-light text-nowrap">您的反馈是我们前行的动力</p>
+        </div>
+    </section>
+</header>
+<p class="layout-header-block"></p>
+<div class="page-blog">
+    <section>
+        <p class="row-10 hidden-xs"></p>
+        <p class="row-10"></p>
+        <div class="container">
+            <div class="row">
+                <p class="hidden-xs hidden-sm hidden-md col-lg-1"></p>
+                <div class="col-sm-9 col-lg-8 details">
+                    <div class="relative">
+                        <h1 class="f3 text-gray-dark">10款最佳人工智能应用</h1>
+                        <p class="row-1"></p>
+                        <p class="f7 text-purple">文章发表于2024-07-30 09:25:01，归属【<a class="text-purple" href="https://www.snowbeasts.com/blog/3/1">科技前沿</a>】分类，已有645人阅读</p>
+                        <p class="row-5"></p>
+                        
+                        <p><img src="https://saas.snowbeasts.com/business/file/SnowbeastsSystem/35/66a6fc288adac228b6b0252c/ea8241fbafd64873ab552d79a7710499#size=392704&amp;name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD4.jpg&amp;width=1000&amp;height=660&amp;time=1722219561076&amp;type=image" class="width-full" alt="科技前沿"> </p>
+                        <p class="row-5"></p>
+                        
+                        <div class="content f6 text-gray-dark">
+                            <p>人工智能（AI）正在占领所有市场，包括竞争激烈的移动应用程序市场。大型公司和小型初创公司都在使用人工智能来创造高度个性化的用户体验。</p>
+<p>每年我们都会看到越来越多的人工智能应用程序，现有的应用程序也在不断改进。多年来，我们已经建立了许多不可或缺的人工智能应用程序。它们已经成为我们日常生活的重要组成部分。</p>
+<p>无论是语音辅助、教育、零售、旅游、金融科技、约会，还是媒体和娱乐，都有一款人工智能应用。</p>
+<p>让我们来看看市场上10个最好的AI应用：</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt; color: #5897fb;">1. Photoleap由Lightricks设计</span></p>
+<p>Photoleap是由Lightricks精心制作的，是一款动态照片编辑应用程序，它结合了大量的功能和工具，为图像带来了新的创造力和转变。以其无所不包的功能而闻名，Photoleap迎合了广泛的照片编辑需求，使其成为摄影师和创意人员在单个应用程序中寻求多功能性和高级功能的首选。</p>
+<p>Photoleap的主要优势之一是它的一体化特性。该应用程序使用户能够改变背景，删除不需要的对象，创建艺术拼接，并应用各种滤镜和效果，所有这些都集合在一个平台内。这一系列的功能使Photoleap成为快速编辑和复杂艺术创作的强大工具。此外，无论他们的技能水平如何，该应用程序的即时编辑选项和专业级效果为用户提供了一系列的选择来提升他们的图像。</p>
+<p>Photoleap在人工智能驱动的照片编辑方面的实力尤其值得注意。该应用强大的人工智能功能简化了创作过程，使用户能够以最小的努力获得惊人的效果。除了标准的编辑工具之外，Photoleap还提供高级图层和混合模式，为创建复杂而独特的构图开辟了可能性。该应用程序还拥有广泛的照片滤镜和效果，笔刷，字体和色调调整选择，允许广泛的自定义和个性化的图像。</p>
+<p>Photoleap的主要功能：（1）一体化照片编辑：全面的功能，背景更改，对象删除，拼贴创作等。（2）即时编辑和专业效果：各种快速增强和高级效果的选项。（3）强大的AI功能：AI功能可以改善创作过程并创作出引人注目的结果。（4）图层和混合模式：用于创建复杂构图的高级工具。（5）多样的滤镜和效果：广泛的选择，以转换和增强图像。（6）创意工具和调整：笔刷，字体和色调调整详细的自定义。（7）创新的AI转换：用于艺术和独特图像创作的AI工具。</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">2. Murf</span></p>
+<p>在我们的最佳商业人工智能应用程序列表中，排名第一的是文本语音生成器Murf，这是市场上最受欢迎和令人印象深刻的人工智能语音生成器之一，经常用于构建人工智能助手。Murf允许任何人将文本转换为语音、画外音和听写，它被产品开发人员、播音员、教育工作者和商业领袖等广泛的专业人士使用。</p>
+<p>Murf提供了许多自定义选项来帮助您创建最自然的声音。它有多种语音和方言可供选择，还有一个易于使用的界面。</p>
+<p>文本到语音生成器为用户提供了一个全面的AI画外音工作室，其中包括一个内置的视频编辑器，使您能够创建带有画外音的视频。有来自15种语言的100多种人工智能语音，您可以选择扬声器，口音或语音风格，语气等偏好设置。</p>
+<p>Murf提供的另一个顶级功能是声音转换器，它允许您在不使用自己的声音作为画外音的情况下录制。Murf提供的画外音也可以根据音调、速度和音量进行定制。你可以添加停顿和强调，或者改变发音。</p>
+<p>以下是Murf的一些主要功能：（1） 表达情感的说话风格（2）音频和文本输入支持<br>（3）AI画外音工作室（4）可通过音调，口音和更多定制</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">3. Jasper</span></p>
+<p>许多人认为Jasper是最好的人工智能写作助手，以其令人印象深刻的功能和质量引领市场。首先向它提供种子词，Jasper在根据主题和语气创建短语、段落或文档之前对其进行分析。它几乎可以立即生成1500字的文章。</p>
+<p>该平台拥有50多个人工智能内容生成模板，包括博客文章、电子邮件、营销文案、Facebook广告生成器、谷歌广告生成器、元标题和描述、新闻稿等等。</p>
+<p>以下是Jasper的一些最佳特性：（1）超过11,000种免费字体和2,500种书写风格<br>（2）支持25种以上语言（3）直观的界面（4）长篇写作助收（5）识别文本中的关键元素（代词、动词、名称等）</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">4. Synthesia</span></p>
+<p>另一个伟大的人工智能视频生成器Ssynia，一个人工智能视频生成平台，使您能够快速创建视频。该平台包括60多种语言和各种模板、屏幕记录器、媒体库等等。</p>
+<p>Google、Nike、Reuters和BBC等一些世界知名公司都在使用synia。</p>
+<p>有了Synia，就不需要复杂的视频设备或拍摄地点。你可以从70多个不同的AI化身中选择，甚至可以为你的品牌获得一个独家的AI化身。除了预设的头像，您还可以创建自己的头像。</p>
+<p>AI语音生成平台可以轻松获得一致且专业的画外音，只需点击一个按钮即可轻松编辑。这些画外音还包括隐藏式字幕。一旦你有了头像和画外音，你就可以在几分钟内用50多个预先设计的模板制作出高质量的视频。您可以上传自己的品牌标识并获得定制模板。</p>
+<p>以下是Synthesia的一些主要功能：</p>
+<p>（1）70多个AI化身（2）超过65 种语言（3）各种各样的视频模板（4）免费媒体库</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">5. Trint</span></p>
+<p>Trint的人工智能转录快速将您的音频和视频文件转换为文本，使其成为可编辑，可搜索和协作的文档。将原始文件转换为有意义的内容比以往更快。</p>
+<p>最好的功能之一是即时服务，可以转录任何音频或视频文件，或者实时捕获内容。从文字记录中提取关键的引语来构思你的叙述；点击播放验证引用和听到你的叙述。</p>
+<p>易于使用的工具，如标签、高亮和注释，使团队合作变得简单。将你的故事无缝地编织在一起，并与同事分享。</p>
+<p>Trint可以转录30多种语言的内容，并将其翻译成50多种语言，因此您可以在几分钟内为全球受众量身定制内容。</p>
+<p>将您的所有内容安全地存储在一个地方，并使用Trint强大的搜索功能来找到重要的时刻，并一次又一次地重复利用内容。</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">6. InVideo</span></p>
+<p>如果你正在寻找一个强大的人工智能来生成营销型视频，InVideo可以满足你的需求。它不需要任何视频创作或视频编辑的技能基础，所以任何人都可以开始使用这个工具。</p>
+<p>InVideo从输入文本到创建视频，可以在几分钟内轻松创建高质量的视频。它提供了各种经过专业设计和动画制作模板。</p>
+<p>要使用AI视频生成器，您所要做的就是输入文本，选择最佳模板或自定义自己的模板，并下载完成的视频。视频内容可以直接分享到YouTube、Instagram和Facebook等社交媒体平台上。</p>
+<p>许多用户选择InVideo来制作宣传视频、演示、视频推荐、幻灯片。</p>
+<p>以下是InVideo的一些主要功能：</p>
+<p>（1）无需视频创作基础（2）视频从输入文本到完成创作，只需要几分钟（3）专业设计的模板（4）直接分享到社交媒体上</p>
+<p>InVideo 可在 iOS 和 Android 上作为应用程序使用，让您可以随时随地创建和编辑视频。</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">7. Otter.ai</span></p>
+<p>Otter是市场上最好的人工智能转录服务之一。该工具可在桌面、Android 和 iOS 设备上使用，您可以转录语音对话。该公司提供了几种不同的计划，每种计划都有自己独特的功能。</p>
+<p>其中一项功能使用户可以用手机或电脑记录和自动转录对话。另一个提供识别和区分不同说话者的能力。</p>
+<p>使用Otter，你可以直接在应用程序中编辑和管理转录，并且可以以不同的速度播放音频记录。图像和各种其他内容也可以直接实现到转录中，您可以导入音频和视频文件，然后进行转录。</p>
+<p>该平台的界面直观且设计良好，包括记录按钮、导入按钮和最近的活动记录等重要工具。它还提供了一个有用的教程来帮助指导用户。</p>
+<p>Otter的一些主要功能包括：（1）直观，设计精良（2）可用于桌面和移动设备（3）应用内直接管理（4）以不同速度播放音频（5）自动记录对话</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">8. Speechify</span></p>
+<p>Speechify可以将任何格式的文本转换为听起来自然的语音。该平台基于网络，可以将pdf文件、电子邮件、文档或文章转换为音频，让用户可以收听而不是阅读。该工具还允许你调整阅读速度，它有超过30个自然的声音可供选择。</p>
+<p>该软件是智能的，在处理文本时可以识别超过15种不同的语言，它可以无缝地将扫描的打印文本转换为清晰可听的音频。</p>
+<p>以下是Speechify的一些主要功能：</p>
+<p>（1）基于web的Chrome和Safari扩展（2）超过15种语言（3）超过30个声音可供选择（4）扫描和转换打印文本语音</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">9. Flick</span></p>
+<p>Flick是一个工具，可以让你更快、更大规模地创建社交媒体内容。用户可以比以前快10倍的速度制作高度个性化和品牌化的标题。</p>
+<p>不要让写标题的麻烦妨碍你的内容创作。制作独特的文字说明，就好像你有一个私人助手为你服务。</p>
+<p>Flick的人工智能社交媒体助手是一种营销工具，可以帮助您加快头脑风暴，写作和社交媒体规划过程。无需花费数小时想出内容创意，该助手可以根据您输入的主题在几秒钟内生成原创且引人入胜的内容创意。</p>
+<p>它会帮助你成为一名专业的文案写手，而无需经过多年的训练。制作字幕可能很有挑战性，但它可以帮助你在更短的时间内用自己独特的声音做更多的事情。</p>
+<p>这些工具都包含在“内容规划器”中，这是你的想法的专用空间，无论它们是完全充实的还是只是一个暂定的标题。这可以帮助你更好地组织你的想法，创造更有凝聚力的内容。</p>
+<p>提供的一些附加功能包括：</p>
+<p>（1）日程安排——你的时间和头脑空间都很宝贵。通过可靠且易于使用的调度程序，使计划，创建和发布内容的压力更小。</p>
+<p>（2）标签——无需费劲心思构思内容。当你发布的时候，开始接触更多的人，并定制你的标签来提高你的表现。</p>
+<p>（3）分析——我们很容易忽略社交平台上的运作方式。获得做出正确决定所需的清晰框架。</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">10. ELSA Speak</span></p>
+<p>说到教育人工智能应用，没有比ELSA Speak更好的了。这是一款帮助人们完善英语口语技能的人工智能口语教练。该应用程序依靠语音数据和语音识别技术，聆听用户的口音，并使用红、黄、绿三色编码系统来识别发音单词与美式英语发音规则的接近程度。</p>
+<p>在分析语音片段后，该应用程序提供音频提示，以便用户实现更好的发音。</p>
+<p>以下是ELSA Speak的一些主要功能：</p>
+<p>（1）语言能力评估（2）个性化课程（3）进度追踪（4）个性化课程（5）词汇表</p>
+<p>&nbsp;</p>
+<p><span style="color: #5897fb; font-size: 18pt;">总结</span></p>
+<p>总之，人工智能正在显著改变移动应用市场，大型公司和小型初创公司都利用人工智能来提供高度个性化的用户体验。人工智能应用程序的激增和不断增强凸显了它们在日常生活的各个方面不可或缺的作用，包括语音辅助、教育、零售、旅游、金融科技和媒体。</p>
+<p>排名靠前的人工智能应用展示了由人工智能驱动的各种应用和创新功能。这些应用程序通过提供人工智能驱动的照片编辑、语音生成、内容创建、视频生成、转录服务和预测旅行洞察力等先进功能，在各自的领域树立了新的标准。</p>
+<p>人工智能与移动应用程序的集成不仅增强了用户体验，还重塑了我们与各个领域的技术互动方式，使这些人工智能驱动的工具在我们的日常生活中变得必不可少。</p>
+                        </div>
+                    </div>
+                    <p class="row-10"></p>
+                    <p class="row-15 hidden-xs"></p>
+                </div>
+                <div class="col-sm-3 col-lg-2 sidebar background-gray">
+                    
+
+<div class="">
+    <div class="relative">
+        <a class="sicon-search1 absolute right top f3  cursor-pointer padding transition" onclick="search_blog()"></a>
+        <input id="keywords" type="input" placeholder="搜索动态" class="textbox" onkeydown="Snow.onKeyPress(this, event, [13, 108], search_blog)">
+    </div>
+    <p class="row-5"></p>
+    <div>
+        <p class="f4">分类</p>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/2/1">ERP系统 147</a>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/3/1">科技前沿 392</a>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/4/1">企业管理 137</a>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/1/1">雪兽软件 157</a>
+        
+            <p class="row-2"></p>
+            <a class="button smaller info" href="https://www.snowbeasts.com/blog/5/1">信息安全 72</a>
+        
+    </div>
+    <p class="row-10"></p>
+    <div>
+        <p class="f4">感兴趣的文章</p>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/592" class="f6">2024年20个最好的AI工具和应用</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/147" class="f6">8款最好用的AI视频剪辑工具</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/497" class="f6">人工智能的优缺点</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/143" class="f6">世界上最先进的5个AI系统</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/35" class="f6">什么是大数据，为什么如此重要？</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/139" class="f6">9个最好的AI平台</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/3" class="f6">人工智能研究领域的热门话题</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/19" class="f6">25件让你大吃一惊的计算机趣事</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/105" class="f6">利用ChatGPT提高工作效率的7种方法</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/161" class="f6">7种主流的AI技术</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/390" class="f6">2024年22大新技术趋势</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/14" class="f6">塔塔、联合利华、万豪酒店都在用AI进行面试</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/443" class="f6">2024年排名前十的量子计算公司</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/5" class="f6">2021年人工智能最受期待的8大趋势</a>
+        
+            <p class="row-2"></p>
+            <a href="https://www.snowbeasts.com/blog/details/17" class="f6">准备好了吗？2021年的7大科技趋势</a>
+        
+    </div>
+</div>
+                </div>
+                <p class="hidden-xs hidden-sm hidden-md col-lg-1"></p>
+            </div>
+        </div>
+    </section>
+
+</div>
+<script src="https://hm.baidu.com/hm.js?0dddd6b9700b370bd8c5b29585908736"></script><script>
+    window.ready = function(){
+        Snow.Event.pageScrollFlag({
+            form: Snow.form('body', {autoUpdate: false})
+        }).add('header', find(document).height() + 70).scroll();
+
+        //share init
+        var config = Snow.extend({
+            jsApiList: ['onMenuShareTimeline', 'onMenuShareAppMessage', 'updateTimelineShareData', 'updateAppMessageShareData']
+        }, {});
+        Snow.OpenPlatform.getInstance(config, function(platform){
+            var title = '10款最佳人工智能应用';
+            var imageUrl = 'https://www.snowbeasts.com/image/icon-192x192.png';
+            platform.initShareTimeline(title, location.href, imageUrl);
+            platform.initShareMessage(title, '人工智能（AI）正在占领所有市场，包括竞争激烈的移动应用程序市场。大型公司和小型初创公司都在使用人工智能来创造高度个性化的用户体验。   每年我们都会看到越来越...', location.href, imageUrl);
+            window.opPlatform = platform;
+        });
+    }
+</script>
+
+
+<footer class="layout-footer">
+    <section class="background-skew purple">
+        <div class="container">
+            <p class="row-5 hidden-xs"></p>
+            <p class="row-5"></p>
+            <div class="row">
+                <div class="col-xs-4 col-sm-3 col-padding">
+                    <p class="row-10"></p>
+                    <p class="text-purple">快速链接</p>
+                    <p class="row-1"></p>
+                    <hr class="purple">
+                    <p class="row-2"></p>
+                    <ul class="text-purple-dark">
+                        <li><a href="https://www.snowbeasts.com/" class="text-purple-dark">雪兽软件</a></li>
+                        <li><a href="https://www.snowbeasts.com/apps" class="text-purple-dark">应用中心</a></li>
+                        <li><a href="https://www.snowbeasts.com/erp" class="text-purple-dark">软件定制</a></li>
+                        <li><a href="https://www.snowbeasts.com/cases" class="text-purple-dark">经典案例</a></li>
+                        <li><a href="https://www.snowbeasts.com/blog" class="text-purple-dark">雪兽动态</a></li>
+                    </ul>
+                </div>
+                <div class="hidden-xs col-sm-3">
+                    <p class="row-10"></p>
+                    <p class="text-purple">事业发展</p>
+                    <p class="row-1"></p>
+                    <hr class="purple">
+                    <p class="row-2"></p>
+                    <ul class="text-purple-dark">
+                        <li><a href="https://www.snowbeasts.com/cooperation" class="text-purple-dark">商务合作</a></li>
+                        <li><a href="https://www.snowbeasts.com/join" class="text-purple-dark">加入我们</a></li>
+                        <li><a href="https://www.snowbeasts.com/about" class="text-purple-dark">关于我们</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-8 col-sm-6 col-padding">
+                    <p class="row-10"></p>
+                    <p class="text-purple">联系我们</p>
+                    <p class="row-1"></p>
+                    <hr class="purple">
+                    <p class="row-2"></p>
+                    <div class="float-fluid">
+                        <ul class="text-purple-dark l">
+                            <li>电话：13020133833</li>
+                            <li>邮箱：ryan@snowbeasts.com</li>
+                            <li>地址: 上海市嘉定区江桥万达</li>
+                        </ul>
+                        <div class="r wx-snowbeasts">
+                            <img src="https://www.snowbeasts.com/image/wx-snowbeasts.png" height="85">
+                        </div>
+                    </div>
+                    <p class="row-5 hidden-xs"></p>
+                    <p class="row-2"></p>
+                    <ul class="list-float large text-purple-dark f7 hide">
+                        <li class="text-middle"><img src="https://www.snowbeasts.com/image/lang-zh-cn.png"><span> 中文</span></li>
+                        <li class="text-middle"><img src="https://www.snowbeasts.com/image/lang-en-us.png"><span> Coming soon</span></li>
+                    </ul>
+                </div>
+            </div>
+            <p class="row-10"></p>
+        </div>
+    </section>
+
+    <section class="background-skew purple-dark" style="margin-top:-1px">
+        <p class="row-10"></p>
+        <p class="row-5 hidden-xs"></p>
+    </section>
+    <section class="copyright background-skew purple-darker text-center text-purple-light">
+        <p class="row-2"></p>
+        <p class="f7 relative container">© 2014-<script>document.write(new Date().getFullYear())</script>2024 上海雪兽信息技术有限公司&nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://beian.miit.gov.cn" target="_blank" class="text-purple-light">沪ICP备14048954号-1</a></p>
+    </section>
+</footer>
+
+<script src="https://www.snowbeasts.com/js/web.min.js?v=2.1.5"></script>
+
+<script>
+    window.context = {
+        appUrl: 'https://www.snowbeasts.com',
+        apiUrl: 'https://saas.snowbeasts.com',
+        appName: 'SnowbeastsSystem'
+    };
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?0dddd6b9700b370bd8c5b29585908736";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+
+
+</body></html>

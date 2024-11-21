@@ -1,0 +1,420 @@
+<!DOCTYPE html><!--[if lt IE 7 ]> <html lang="zh-CN" class="ie6 ielt8"> <![endif]--><!--[if IE 7 ]>    <html lang="zh-CN" class="ie7 ielt8"> <![endif]--><!--[if IE 8 ]>    <html lang="zh-CN" class="ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><html lang="zh-CN"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+        <title>我国人工智能发展趋势研究_原创精品_人民论坛网</title>
+    <meta name="keywords" content=" 我国人工智能发展趋势研究">
+    <meta name="description" content="我国人工智能发展趋势研究">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0, user-scalable=no">
+    <link rel="shortcut icon" href="http://www.rmlt.com.cn/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cmstop-common.css">
+	<link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cmstop-article-mobile.css?1597997929">
+	<link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cmstop-comment-mode.css">
+	<link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cmstop-right-common.css">
+	<!--[if lt IE 9 ]>
+		<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/helper/modernizr.js"></script>
+	<![endif]-->
+	<script type="text/javascript" async="" src="https://pos.baidu.com/auto_dup?di=0&amp;uuid=22593f77c7fafb6b&amp;dri=0&amp;dis=0&amp;dai=0&amp;ps=0x0&amp;enu=encoding&amp;exps=110011&amp;ant=0&amp;psi=2f60cfb77e561c92&amp;dcb=___baidu_union_callback&amp;dtm=AUTO_JSONP&amp;dvi=0.0&amp;dci=-1&amp;dpt=none&amp;tpr=1731563713221&amp;ti=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E7%A0%94%E7%A9%B6_%E5%8E%9F%E5%88%9B%E7%B2%BE%E5%93%81_%E4%BA%BA%E6%B0%91%E8%AE%BA%E5%9D%9B%E7%BD%91&amp;ari=2&amp;ver=0722&amp;kws=%20%E6%88%91%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E7%A0%94%E7%A9%B6&amp;dps=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E7%A0%94%E7%A9%B6&amp;dbv=0&amp;drs=1&amp;pcs=1024x768&amp;pss=1024x0&amp;cfv=32&amp;cpl=1&amp;chi=1&amp;cce=true&amp;cec=UTF-8&amp;tlm=1731563713&amp;prot=2&amp;rw=768&amp;ltu=http%3A%2F%2Fwww.rmlt.com.cn%2F2024%2F0430%2F701700.shtml&amp;ltr=http%3A%2F%2Fwww.rmlt.com.cn%2F2024%2F0430%2F701700.shtml&amp;ecd=1&amp;dft=0&amp;uc=1024x768&amp;pis=-1x-1&amp;sr=1024x768&amp;tcn=1731563713&amp;dc=4&amp;aa=1"></script><script src="http://push.zhanzhang.baidu.com/push.js"></script><script type="text/javascript" src="http://img.rmlt.com.cn/js/config.js"></script>
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/jquery.js"></script>
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/cmstop-common.js"></script>
+    <!-- 内容页头部 -->
+    <link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/module.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/common.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/html5.css">
+    <link rel="stylesheet" type="text/css" href="http://img.rmlt.com.cn/templates/rmlt2013/css/cont.css">
+    <script type="text/javascript">
+        var contentid = '701700';// 文章ID
+        var title = "\u6211\u56fd\u4eba\u5de5\u667a\u80fd\u53d1\u5c55\u8d8b\u52bf\u7814\u7a76";//文章标题
+        var topicid = '897014';// 评论主题
+        var context = '';//全文内容缓存
+        var content = '';//第一页内容缓存
+        var _IMG_URL = 'http://img.rmlt.com.cn/templates/rmlt2013';
+    </script>
+    <script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/public-front-v1.js?15909998999"></script>
+
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/cmstop-imagezoom.js"></script>
+    <script type="text/javascript" src="http://img.rmlt.com.cn/js/fet.js"></script>
+<script type="text/javascript" src="http://img.rmlt.com.cn/js/repos.js"></script>
+<script type="text/javascript">fet.setAlias({IMG_URL: "http://img.rmlt.com.cn/"})</script>
+        <!-- 请置于所有广告位代码之前 -->
+    <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+</head>
+<body>
+<!--头部-->
+<header class="header">
+    <!--header-top -->
+    <div class="header-top">
+        <div class="column">
+        <a href="http://www.rmlt.com.cn/" class="logo"><img src="http://img.rmlt.com.cn/templates/rmlt2013/css/images/logo-3.png?t=1" alt="" width="90" height="23"></a>
+<p class="website"><a href="http://www.rmlt.com.cn/">网站首页</a><span> | </span><a href="http://www.rmlt.com.cn/map/" target="_blank">网站地图</a><a href="" class="ico ie6_png32"></a></p>
+<!--<ul class="login-area2">
+    <li class="cor-153" id="logout_status" style="display:none"><a href="" class="head-login" rel="nofollow">登录</a>
+    <a href="" class="head-register" rel="nofollow">注册</a></li>
+    <li class="cor-153" id="login_status" style="display:none">
+    <a href="" class="head-center" target="_blank" rel="nofollow"><em></em>的个人中心</a><a href="" class="head-logout">退出</a></li>
+</ul>-->
+<script type="text/javascript">
+   /* var referurl = document.location.href;
+    $('.head-login').attr('href', APP_URL + '?app=member&controller=index&action=login&referer='+referurl);
+    $('.head-register').attr('href', APP_URL + '?app=member&controller=index&action=register&referer='+referurl);
+    $('.head-logout').attr('href', APP_URL + '?app=member&controller=index&action=logout&url='+referurl);
+    $('.head-center').attr('href', APP_URL + '?app=contribution&controller=panel&action=index');
+    function usernameCut(namestring){
+        var subString;
+        if (namestring.length > 3){
+        subString = namestring.substr(0,3);
+        return subString + '…';
+    } else {
+        return namestring;
+       }
+    }
+    if ($.cookie(COOKIE_PRE+'auth')) {
+    	var username = $.cookie(COOKIE_PRE+'username');
+    	if(!username) username = $.cookie(COOKIE_PRE+'rememberusername');
+        $('#login_status em').html(usernameCut(username));
+        $('#login_status').show();
+    } else {
+    	$('#logout_status').show();
+    }*/
+</script>
+
+        </div>
+    </div>
+    <!--@end header-top -->
+    <!-- 导航 -->
+    <div class="column nav-cont">
+        <ul>
+<li><a href="http://www.rmlt.com.cn/" target="_blank">首页</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/idea/" target="_blank">理论前沿</a></li>
+<li>|</li>
+<li><a href="http://politics.rmlt.com.cn/" target="_blank">时政法治</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/xuexi/" target="_blank">新思想</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/marx/" target="_blank">理响中国</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/governance/" target="_blank">国家治理网</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/eco/" target="_blank">经济金融</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/academics/" target="_blank">原创精品</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/dangjian/" target="_blank">党建创新</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/xiangcun/" target="_blank">社会治理</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/local/" target="_blank">地方要闻</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/zgpp/" target="_blank">中国品牌</a></li>
+<li>|</li>
+<li><a href="http://art.rmlt.com.cn/" target="_blank">文艺文旅</a></li>
+<li>|</li>
+<li class="more"><span>更多</span><em class="ico"></em></li>
+</ul>
+<ul class="down-list" style="display:none;height:116px;">
+<li class="more1"><span>更多</span><em class="ico"></em></li>
+<li><a href="http://video.rmlt.com.cn/" target="_blank">理论视频</a></li>
+<li><a href="http://www.rmlt.com.cn/investigations/" target="_blank">调查研究</a></li>
+<li><a href="http://www.rmlt.com.cn/magazine/" target="_blank">电子期刊</a></li>
+<li><a href="http://www.rmlt.com.cn/thinktank/" target="_blank">人民智库</a></li>
+</ul>
+    </div>
+    <!--@end 导航 -->
+    <!-- 广告 -->
+    <div class="column mar-t-10"><!-- 广告位：文章-顶部广告960*90 -->
+<!--<script type="text/javascript">BAIDU_CLB_fillSlot("727310");</script>-->
+<a href="http://special.rmlt.com.cn/20230628/" target="_blank">
+<img src="http://upload.rmlt.com.cn/2024/0131/1706688299821.jpg" title="大国新村" alt="大国新村" border="0" height="90" width="960">
+</a>
+</div>
+    <!--@end 广告 -->
+</header>
+<!--@end头部-->
+<div class="crumb column mar-t-10">
+    
+    <a href="http://www.rmlt.com.cn/">首页</a>
+    	&gt; <a href="http://www.rmlt.com.cn/academics/">原创精品</a>
+    	&gt; <a href="http://www.rmlt.com.cn/academics/shoufa/">成果首发</a>
+        <em>&gt;</em> <span>正文</span>
+</div>
+	<section class="column article  mar-t-10">
+		<!-- 主内容区域 -->
+		<section class="column-main">
+			<!-- 文章区域 -->
+			<article class="article-main">
+				<div class="inner">
+										<h1 class="article-title">我国人工智能发展趋势研究</h1>
+										<!-- 文章相关信息 -->
+					<div class="article-infos ov">
+						<span class="date">2024-04-30 16:32</span>
+						来源：
+						<span class="source">
+						《人民论坛·学术前沿》2024年第8期						</span>
+                                                作者：
+                        <span class="editors">田永静、苑卫国</span>
+                        					</div>
+					<!-- @end文章相关信息 -->
+					                                                                                <!-- 文章内容 -->
+					<div class="article-content fontSizeSmall BSHARE_POP">
+                        <p>【摘要】当前人工智能技术正在以前所未有的速度蓬勃发展，带来了新技术突破和产业变革，为人工智能与产业融合发展注入新动能。同时，我国人工智能基础设施建设和人工智能技术自主可控有待提升，人工智能引发的安全风险对监管和治理提出新要求，对有效保障国家安全提出新挑战。积极推动我国人工智能发展，要推动人工智能基础设施建设，加快人工智能芯片技术发展，实现人工智能核心技术突破，加强人工智能安全保障支撑、科研教育支持、金融政策支持，推动人工智能行业赋能应用，加强人工智能应用监管治理。</p>
+<p>【关键词】人工智能 基础设施 产业发展</p>
+<p>【中图分类号】F49 【文献标识码】A</p>
+<p>【DOI】10.16619/j.cnki.rmltxsqy.2024.08.009</p>
+<p>【作者简介】北京交通大学马克思主义学院 田永静；<span style="text-indent: 2em;">中国互联网络信息中心 苑卫国</span></p>
+<p>“人工智能是引领这一轮科技革命和产业变革的战略性技术，具有溢出带动性很强的‘头雁’效应。”[1]基于生成式人工智能（AIGC）技术可以生成高质量文本、图像和视频、代码等内容，大大提升了数据分析处理和智能化交互能力，并逐渐赋能各产业生态，从而改变人们日常工作生活方式。</p>
+<p><strong>当前人工智能技术发展态势</strong></p>
+<p>人工智能创新型突破性技术不断涌现。一是人工智能技术加速演进。人工智能技术经过七十多年发展，早期是机器学习、专家系统、神经网络等技术不断演进，近十几年随着互联网、大数据的发展，深度学习、强化学习等技术引领了新一轮爆发式增长的高潮。二是大模型开启人工智能新纪元。通用大模型平台为人工智能技术创新和应用提供了强大的算力和训练能力支撑，加速了各类垂直领域行业大模型应用的开发和部署。三是通用人工智能可能会加速到来。2022年12月，OpenAI推出生成式大语言模型GPT3.5，将机器对人类语言的理解推向新高度。2024年2月，OpenAI推出文本生成视频大模型Sora，被称为“世界模拟器”，对真实物理世界的理解和还原能力远超人类想象。这些人工智能取得的新技术突破，使更多人认为像人类一样思考、拥有多种用途的通用人工智能（AGI）将成为可能。</p>
+<p>人工智能基础设施建设快速发展。一是人工智能算力需求呈指数级增长。据OpenAI报告指出，从2012到2018年，AI模型训练的算力增长近30万倍，平均3.5个月翻倍，且呈进一步加速态势。[2]二是人工智能数据资源重要性日益凸显。多模态和跨模态数据集的建设，对人工智能技术发展起到关键支撑。</p>
+<p>人工智能大规模产业应用将快速展开。传统人工智能技术已经广泛应用。而随着大模型在语义理解、视觉感知和逻辑推理等方面的能力突破，对各行业的颠覆和重塑将会上演。大模型将为未来产业发展注入“智能”，并引发产业竞争新格局。当前全球人工智能产业规模正迅速增长，预计2030年我国人工智能核心产业规模将超过1万亿元。[3]</p>
+<p><strong>我国人工智能发展面临的新挑战</strong></p>
+<p>我国人工智能基础设施建设有待完善。一是在算力基础设施建设方面，我国在通讯网络基础设施建设方面处于领先地位，算力基础设施建设也在积极推进，但生成式人工智能应用已提出更高算力需求。另外，随着算力中心建设和大模型训练任务增多，对电力能源的需求也将不断增长。二是在通用大模型平台建设方面，通用大模型框架平台是开展人工智能驱动的行业应用基础，国内公司积极推出相关通用大模型平台和行业应用，但我国在通用大模型平台研发方面与美国仍存在技术差距。三是在数据资源建设方面，构建高质量、结构化、多模态的数据集是人工智能发展的重要基础设施之一。我国人口和产业规模庞大，数据资源丰富，但在高质量公共数据集建设上仍缺乏对行业模型训练的数据整理和标注，尚未将所拥有的数据资源规模优势转换为大模型技术在各行业领域的更好应用效果。</p>
+<p>我国实现人工智能技术自主可控面临更高要求。一是智能算力资源建设仍依赖国外GPU硬件，成本高且存在断供风险。智能算力是人工智能发展的“基础底座”，高度依赖智能芯片GPU。我国急需实现高端智能芯片技术新突破，突破我国人工智能发展的算力资源制约。二是需加大大模型自主核心技术研发。算法创新是取得人工智能行业产品和应用竞争优势的关键驱动力量之一。我国大模型基础技术理论、核心算法、框架平台研究以及应用效果尚不理想。国内大模型行业应用也主要依赖国外开源通用大模型，制约着我国人工智能和产业融合的发展。目前，各国都更加重视构建符合本国国情和文化特征的人工智能生态应用系统，人工智能的国家主权争夺日益突出。三是需引进人工智能领域高端研究人才。我国从事人工智能领域研究和开发技术人员数量规模较大，论文和专利成果数量较多，但基础研究和原创性成果不多，需要加大对人工智能基础研究和平台构架领域高水平人才的吸引。</p>
+<p>人工智能引发的安全风险对监管和治理提出新要求。一是内容安全问题。人工智能的使用一直存在社会伦理争议。二是数据安全问题。数据安全和个人隐私保护成为关键问题。三是模型安全问题。人工智能模型自身也存在安全隐患，针对训练数据投毒攻击，操纵干扰模型输入内容，都可以产生错误或潜在危险输出。四是给法律监管和治理提出新挑战。人工智能发展带来的诸多安全问题，需要对人工智能进行有效治理和监管，防止技术滥用、数据知识产权争议。</p>
+<p>人工智能对有效保障国家安全提出新挑战。一是影响国家政治和文化安全。利用人工智能工具进行有目的的意识形态渗透和网络传播，会对国家政治安全和文化安全造成潜在的不良影响。诱导式的用户交互，可以大范围进行数据收集和事件画像，导致涉及国家安全的敏感数据和机密情报泄露。二是推动国家网络安全对抗升级。人工智能技术在提升网络攻击手段多样化和智能化的同时，也为检测识别各种复杂网络安全威胁变化提供新手段。关键信息基础设施安全已成为大国地缘政治博弈的新前线，人工智能技术发展对实现其网络安全防护韧性提出新挑战。三是推动现代战争形态加速演进。人工智能技术在武器装备上的应用部分改变了战争形态。同时利用深度伪造图片和视频等进行虚假信息宣传，已成为认知战、舆论战的重要组成部分。</p>
+<p><strong>积极推动我国人工智能发展的对策建议</strong></p>
+<p>推动人工智能基础设施建设。一是夯实人工智能算力基础设施。建设国家智能计算中心，加快西部智能算力中心建设，促进算力资源区域协同共享，提升算力资源利用效能。二是打造高质量数据资源基础设施。建立国家数据资源服务和共享平台，加强各行业应用数据集和语料库建设，促进大规模优质数据资源汇集。建立数据汇聚统一标准、格式规范，加强对各领域数据的标注工作，推动各方协作开展数据资源共享和开发利用。</p>
+<p>加快人工智能芯片技术发展。一是加快自主可控人工智能芯片技术研发。加快实施高端智能芯片重大专项，推动关键技术攻关重大项目，提升智能芯片设计能力和制造水平，打造自主可控的智能算力硬件基础。二是提升国产智能芯片推广应用。加大国内芯片厂商智能芯片研发和配套软件的国产化替代进程，引导大模型研发和应用企业的国产化算力资源部署。三是推动人工智能芯片产业发展。加大对通用人工智能芯片GPU设计制造，以及针对应用场景的专业芯片设计和研发力度，推动智能芯片全产业链发展。</p>
+<p>实现人工智能核心技术突破。一是布局人工智能核心技术攻关。鼓励国内企业在通用大模型算法、框架和平台设施方面的建设，推进我国全阶段自主可控通用大模型建设，争取人工智能核心技术发展的主动权和话语权。二是支持人工智能多领域应用场景技术开发。优先支持基于大模型的各领域应用技术开发，支持面向各应用领域的高质量语料库建设，支持基于大模型应用场景的创新研究。</p>
+<p>加强人工智能安全保障支撑。一是成立国家人工智能咨询机构。持续跟踪分析人工智能对国家安全的影响，为政府提供相关技术监管和治理的政策建议。二是加强网络安全领域应用场景技术研发。加强对人工智能基础设施的网络安全监管，利用人工智能技术提升关键信息基础设施安全保障能力。三是加强人工智能在军事领域应用支持。加强人工智能在军事领域应用的跟踪分析，加快军队武器装备智能化、无人化的研制进程，推进战场态势感知平台和智能化军事指挥系统开发。</p>
+<p>加大人工智能科研教育支持。一是加快建立国家人工智能研究基础设施，为政府部门、研究型大学、科研机构等提供模型训练算力支撑，建立更加开放的人工智能创新服务环境。二是建设多个国家级人工智能研究中心，形成覆盖全国的国家级人工智能研究、教育和成果转移的综合生态网络。三是加大人工智能人才培养和科研支持力度。四是加强人工智能知识与应用的民众教育和青少年普及。</p>
+<p>加大人工智能金融政策支持。一是支持国内人工智能关键技术发展。充分发挥资本市场激励技术创新的作用。二是加快国内人工智能产业发展。支持人工智能企业创新和产业升级，加大人工智能科技创新专项的财政资金支持力度，鼓励人工智能企业进行境内外多层次资本市场的融资上市。</p>
+<p>推动人工智能行业赋能应用。一是加大人工智能在各领域应用的政策支撑。扩展通用人工智能的各领域应用场景创新，推动人工智能和实体经济深度融合发展。二是及时总结我国人工智能在各产业领域阶段性发展成效，结合现阶段人工智能产业发展形势和需求，制定产业发展目标、任务和具体实施方案。三是加强人工智能应用场景创新应用，加快形成新质生产力。发挥行业标杆示范工程的引领带动作用，带动各行业领域的企业人工智能技术应用，加快形成国家所需的各行业领域大模型应用产品和方案。</p>
+<p>培育人工智能产业生态集群。一是推进高水平人工智能产业园区规划和建设。依托现有创新资源和产业基础，规划和发展一批人工智能产业创新区，培育人工智能交叉发展的专精特新企业，充分发挥产业聚集效应和规模效应。二是建立自主可控人工智能产业体系。持续做大做强国内人工智能产业，持续加强人工智能基础研发能力，重点在智能芯片、基础构架、大模型产业应用等领域开展创新活动，构建人工智能全产业链和产业技术体系。三是形成全球竞争力人工智能产业集群。推进企业和科研院所、研究型大学之间相互协作，共同构建人工智能产业创新生态，增强人工智能产业发展绿色动能，增强人工智能产业链整体竞争力。</p>
+<p>加强人工智能国际交流合作。一是加强国际合作和技术交流。通过国际技术交流合作，更好引进国外人工智能的高端人才、技术和服务。加强我国人工智能技术对外输出，促进人工智能产业向外拓展业务，打造我国全球化人工智能企业。二是建立跨国数据协调机制，加强我国企业对海外数据的控制能力。从国家层面建立明确的数据跨国流动机制，在加强海外数据的隐私保护同时加强对非敏感数据的共享和利用。三是加强人工智能国际治理合作。主动参与全球人工智能的使用规范和标准制定，共同打击利用人工智能技术的有组织网络犯罪，共同应对人工智能带来的安全威胁。</p>
+<p>加强人工智能应用监管治理。一是从国家层面加快制定人工智能监管法律法规。积极完善有关人工智能的监管政策及法律法规，防治人工智能技术滥用带来的安全风险。关注人工智能数据安全，防止企业和用户隐私数据泄露。二是加强人工智能应用的监督和数据审查。建立健全人工智能应用的分级分类监管制度和监管措施，建立行之有效的数据审查机制和接入许可规范，从源头规范大模型内容安全。加强对人工智能技术应用管理，对大模型应用可能产生的安全风险开展合规性评估和审查处置。</p>
+<p>（本文系国家社会科学基金高校思政课研究专项“数智技术赋能‘大思政课’实践教学机制研究”的阶段性成果，项目编号：23VSZ094）</p>
+<p><strong>注释</strong></p>
+<p>[1]《加强领导做好规划明确任务夯实基础 推动我国新一代人工智能健康发展》，《人民日报》，2018年11月1日 ，第1 版。</p>
+<p>[2]《AI算力需求6年增长30万倍、3.5月翻一番——OpenAI数据分析》，2018年5月17日，https://www.jiqizhixin.com/articles/051704。</p>
+<p>[3]《中科院原院长白春礼：2030年我国人工智能核心产业规模将超过1万亿元》，2023年5月17日，https://www.tmtpost.com/nictation/6533147.html。</p>
+<p style="text-align: center;"><strong>Research on the Development Trend of Artificial Intelligence in China</strong></p>
+<p style="text-align: center;"><strong>Tian Yongjing Fan Weiguo</strong></p>
+<p><strong>Abstract:</strong> At present, artificial intelligence (AI) technology is booming at an unprecedented speed, bringing new technological breakthroughs and industrial changes, and injecting new momentum into the integrated development of AI and industry. Against such background, China needs to improve the construction of its AI infrastructure and the independent development and controllability of AI technology. At the same time, the security risks brought about by AI raise new requirements for supervision and governance, and present new challenges to effectively protecting national security. To actively promote the development of AI in China, it is necessary to promote the construction of AI infrastructure, accelerate the development of AI chip technology, make breakthroughs in AI core technology, strengthen support for AI security, scientific research and education, and financial policy, promote AI empowerment and application of industry, and strengthen the supervision and governance of AI application.</p>
+<p><strong>Keywords:</strong> artificial intelligence, infrastructure, industrial development</p>
+<p style="text-align: right;">责 编／李思琪 美 编／梁丽琛<span class="ico-logo"><a href="http://www.rmlt.com.cn/" target="_blank">
+						<img src="http://img.rmlt.com.cn/templates/rmlt2013/img/rmlt_logo.jpg" width="50" height="19" style="width: auto; visibility: visible; opacity: 1;"></a></span></p>						
+					</div><!-- @end 文章内容 -->
+                                                                                				</div>
+		                        <div class="editor">
+                	<span>[责任编辑：李思琪]</span>
+                </div>
+                
+                <div class="new-list ov topblank">
+                    <dl>
+                                            </dl>
+                </div>
+			</article>
+                        <!-- @end文章区域 -->
+			<div class="basehr topblank"></div>
+		</section>
+		<!-- 右侧区域 -->
+		<aside class="column-aside">
+            <div>
+                <!-- 广告位：文章-右侧广告300*240 -->
+<!--<script type="text/javascript">BAIDU_CLB_fillSlot("727309");</script>-->
+<a href="http://www.rmlt.com.cn/" target="_blank">
+    <img src="http://upload.rmlt.com.cn/2024/0428/1714293797886.jpg" title="人民论坛投稿邮箱" alt="人民论坛投稿邮箱" border="0" height="240" width="300">
+</a>
+<!--<img src="http://upload.rmlt.com.cn/2021/1015/1634281681361.gif" width="300" height="240" alt="人民论坛评论投稿" />-->
+            </div>
+
+            <div class="basehr"></div>
+			<!-- 今日推荐 -->
+			<div class="mod-list">
+				<div class="inner">
+					<div class="m-head title-head">
+						<em class="ico"></em>
+						<div class="title"><a title="" class="words">今日推荐</a></div>
+					</div>
+					<div class="m-main">
+					
+					<ul class="list">
+                          <li class="item">
+    <em class="ico"></em><a href="http://politics.rmlt.com.cn/2024/1114/716879.shtml" target="_blank" title="学习进行时丨习近平主席与秘鲁的故事" class="title">学习进行时丨习近平主席与秘鲁的故事</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716882.shtml" target="_blank" title="向国际社会讲好社会主义协商民主的故事" class="title">向国际社会讲好社会主义协商民主的故事</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716885.shtml" target="_blank" title="实现对全体公民和法人合法权益的平等保护" class="title">实现对全体公民和法人合法权益的平等保护</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716889.shtml" target="_blank" title="我国长期护理保险制度全面推行的难点与重点" class="title">我国长期护理保险制度全面推行的难点与重点</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716887.shtml" target="_blank" title="发挥人民政协作为专门协商机构的作用" class="title">发挥人民政协作为专门协商机构的作用</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1113/716755.shtml" target="_blank" title="让教育家精神成为广大教师的自觉追求" class="title">让教育家精神成为广大教师的自觉追求</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://www.rmlt.com.cn/2024/1114/716884.shtml" target="_blank" title="突出“两个维护”深化政治监督" class="title">突出“两个维护”深化政治监督</a>
+  </li>
+
+					</ul>
+					</div>
+				</div>
+			</div>
+			<!-- @end 今日推荐 -->
+			<div class="basehr"></div>
+            <!-- 专题推荐 -->
+            <div class="mod-list">
+                <div class="inner">
+                    <div class="m-head title-head">
+                        <em class="ico"></em>
+                        <div class="title"><a title="" class="words" href="http://www.rmlt.com.cn/topics/" target="_blank">专题推荐</a></div>
+                    </div>
+                    <div class="m-main">
+                        <ul class="list">
+                              <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20240227" target="_blank" title="2024人民论坛两会国是厅" class="title">2024人民论坛两会国是厅</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20220412-1" target="_blank" title="【大国基理】精彩专题" class="title">【大国基理】精彩专题</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20240126" target="_blank" title="【践悟方法论】精彩专题" class="title">【践悟方法论】精彩专题</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20230628" target="_blank" title="大国新村：沿着总书记的足迹" class="title">大国新村：沿着总书记的足迹</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/【科技强国有我】" target="_blank" title="【科技强国有我】精彩专题" class="title">【科技强国有我】精彩专题</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20220825-2/" target="_blank" title="【理响中国】精彩专题" class="title">【理响中国】精彩专题</a>
+  </li>
+  <li class="item">
+    <em class="ico"></em><a href="http://special.rmlt.com.cn/20231208" target="_blank" title="首届南水北调中线后续工程高质量发展论坛" class="title">首届南水北调中线后续工程高质量发展论坛</a>
+  </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- @end 专题推荐 -->
+            <div class="basehr"></div>
+                <div>
+                <!-- 广告位：文章-右侧专题推荐底部 300*240 -->
+<!--<script type="text/javascript">BAIDU_CLB_fillSlot("7969236");</script>-->
+<a href="http://www.rmlt.com.cn/" target="_blank"><img src="http://upload.rmlt.com.cn/2024/0417/1713340885267.png" title="好评中国 追光青年" alt="好评中国 追光青年" border="0" height="240" width="300">
+</a>
+                </div>
+                <!-- 推荐视频 -->
+                <div class="pic-recommend">
+                    <div class="m-head dotted-head">
+    <em class="ico"></em>
+    <div class="title"><a href="http://video.rmlt.com.cn/" target="_blank" title="" class="words">推荐视频</a></div>
+</div>
+<ul class="m-main ov">
+        <li class="v-pic">
+        <div class="thumb">
+            <div class="opa"></div>
+            <a href="http://www.rmlt.com.cn/2024/0829/710943.shtml" target="_blank" class="ico"></a>
+                        <span class="info"></span>
+                        <a href="http://www.rmlt.com.cn/2024/0829/710943.shtml" target="_blank" title="新农人种粮记"><img src="http://upload.rmlt.com.cn/2024/0902/thumb_120_77_1725263133626.png" alt="" width="120" height="77"></a>
+        </div>
+        <div class="title"><a href="http://www.rmlt.com.cn/2024/0829/710943.shtml" target="_blank" title="新农人种粮记">新农人种粮记</a></div>
+    </li>
+        <li class="v-pic">
+        <div class="thumb">
+            <div class="opa"></div>
+            <a href="http://www.rmlt.com.cn/2024/0731/708674.shtml" target="_blank" class="ico"></a>
+                        <span class="info"></span>
+                        <a href="http://www.rmlt.com.cn/2024/0731/708674.shtml" target="_blank" title="追寻雪域高原上的“绿电”足迹"><img src="http://upload.rmlt.com.cn/2024/0731/thumb_120_77_1722395498954.jpg" alt="" width="120" height="77"></a>
+        </div>
+        <div class="title"><a href="http://www.rmlt.com.cn/2024/0731/708674.shtml" target="_blank" title="追寻雪域高原上的“绿电”足迹">追寻雪域高原上的“绿电”足迹</a></div>
+    </li>
+        <li class="v-pic">
+        <div class="thumb">
+            <div class="opa"></div>
+            <a href="http://www.rmlt.com.cn/2024/0822/710454.shtml" target="_blank" class="ico"></a>
+                        <span class="info"></span>
+                        <a href="http://www.rmlt.com.cn/2024/0822/710454.shtml" target="_blank" title="渔村姑娘返乡记"><img src="http://upload.rmlt.com.cn/2024/0902/thumb_120_77_1725263155107.jpg" alt="" width="120" height="77"></a>
+        </div>
+        <div class="title"><a href="http://www.rmlt.com.cn/2024/0822/710454.shtml" target="_blank" title="渔村姑娘返乡记">渔村姑娘返乡记</a></div>
+    </li>
+        <li class="v-pic">
+        <div class="thumb">
+            <div class="opa"></div>
+            <a href="http://www.rmlt.com.cn/2024/0628/706040.shtml" target="_blank" class="ico"></a>
+                        <span class="info"></span>
+                        <a href="http://www.rmlt.com.cn/2024/0628/706040.shtml" target="_blank" title=" 跨越百年的光荣使命"><img src="http://upload.rmlt.com.cn/2024/0717/thumb_120_77_1721181294603.png" alt="" width="120" height="77"></a>
+        </div>
+        <div class="title"><a href="http://www.rmlt.com.cn/2024/0628/706040.shtml" target="_blank" title=" 跨越百年的光荣使命"> 跨越百年的光荣使命</a></div>
+    </li>
+    </ul>
+                </div><!-- @end 推荐视频 -->
+
+		</aside>
+	</section>
+
+    <!-- 页脚 -->
+    <div class="clear"></div>
+    <footer class="footer">
+        <div class="column mar-t-10"><!-- 广告位：文章-底部广告960*90 -->
+<!--<script type="text/javascript">BAIDU_CLB_fillSlot("727311");</script>-->
+<style>/*div.column {position:relative;}*/</style>
+<!--<div style="position: absolute;right:5px; bottom: 0px; width: 26px; height: 16px; z-index: 12; background: url(//ra.gtimg.com/web/res/icon/leftbottom_new.png) right top no-repeat;"></div>-->
+<a href="http://special.rmlt.com.cn/20240227/" target="_blank">
+<img src="http://upload.rmlt.com.cn/2024/0304/1709536421275.jpg" title="2024人民论坛两会国是厅" alt="2024人民论坛两会国是厅" border="0" height="90" width="960">
+</a></div>
+        <nav>
+            <ul>
+                <li><a href="http://special.rmlt.com.cn/181126/" target="_blank" rel="nofollow">关于人民论坛网</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/181127-1/" target="_blank" rel="nofollow">联系我们</a></li>
+<li>|</li>
+<li><a href="http://www.rmlt.com.cn/about/special/advertisement/" target="_blank" rel="nofollow">广告服务</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/190517-3/index.shtml" target="_blank" rel="nofollow">人民论坛投稿</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/1505272/index.shtml" target="_blank">友情链接</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/181128-1/" target="_blank" rel="nofollow">关于人民论坛杂志社</a></li>
+<li>|</li>
+<li><a href="http://special.rmlt.com.cn/181127/" target="_blank" rel="nofollow">法律顾问</a></li>
+            </ul>
+        </nav>
+        <div class="mar-t-10"></div>
+<div class="f-l mar-l-20">
+    <a href="http://www.rmlt.com.cn/"><img src="http://img.rmlt.com.cn/templates/rmlt2013/css/images/logo-02.png" alt="人民论坛网" width="175" height="75"></a>
+</div>
+<div class="f-r mar-t-10">
+    <p>人民日报社人民论坛杂志社版权所有 Copyright@<script>document.write(new Date().getFullYear())</script>2024 |  违法和不良信息举报电话：<span>010-65367214</span> </p>
+    <p>互联网新闻信息服务许可证号：<a href="http://www.rmlt.com.cn/2015/0429/384607.shtml" target="_blank" rel="nofollow">10120170047</a> | 网络出版服务许可证：<a href="http://www.rmlt.com.cn/2021/1110/631043.shtml" target="_blank" rel="nofollow">(署)网出证(京)字第323号</a> | <a href="https://beian.miit.gov.cn/" target="_blank" rel="nofollow">京ICP备13050492号-1</a> | <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11010502038840" rel="noreferrer" target="_blank">京公网安备11010502038840</a> </p>
+</div>
+    </footer>
+    <!-- end页脚 -->
+
+	<!-- 脚本区域 -->
+	<script type="text/javascript" src="http://img.rmlt.com.cn/js/zeroclipboard/ZeroClipboard.js"></script>
+	<script type="text/javascript" src="http://img.rmlt.com.cn/templates/rmlt2013/js/article-show.js"></script>
+	<script>
+	$(function() {
+                $(".ico-logo").prev().append($(".ico-logo"));
+		$('.article-content a').each(function(i,a){
+			var $a = $(a);
+			if(!$a.attr('target')) 
+			{
+				$a.attr('target','_blank');
+			}
+		});
+	});
+	</script>
+        <script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+<div id="global-zeroclipboard-html-bridge" class="global-zeroclipboard-container" data-clipboard-ready="false" style="position: absolute; left: -9999px; top: -9999px; width: 15px; height: 15px; z-index: 9999;">      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="global-zeroclipboard-flash-bridge" width="100%" height="100%">         <param name="movie" value="http://img.rmlt.com.cn/js/zeroclipboard/ZeroClipboard.swf?nocache=1731563713258">         <param name="allowScriptAccess" value="alway">         <param name="scale" value="exactfit">         <param name="loop" value="false">         <param name="menu" value="false">         <param name="quality" value="best">         <param name="bgcolor" value="#ffffff">         <param name="wmode" value="transparent">         <param name="flashvars" value="trustedDomain=*">         <embed src="http://img.rmlt.com.cn/js/zeroclipboard/ZeroClipboard.swf?nocache=1731563713258" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="100%" height="100%" name="global-zeroclipboard-flash-bridge" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="trustedDomain=*" scale="exactfit">                </object></div></body></html>

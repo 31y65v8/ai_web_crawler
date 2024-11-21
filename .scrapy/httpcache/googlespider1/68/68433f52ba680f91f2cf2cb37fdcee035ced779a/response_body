@@ -1,0 +1,584 @@
+<!DOCTYPE html><html pw-lang="zh-hans"><head>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+<meta charset="UTF-8">
+<title>数字技术简史：三位奠基人、三个阶段、五大定律、十项发明-品玩</title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge，chrome=1">
+<meta property="og:type" content="article">
+<meta property="og:title" content="数字技术简史：三位奠基人、三个阶段、五大定律、十项发明-品玩">
+<meta property="og:description" content="离得越远，看得越清。">
+<meta property="og:url" content="https://www.pingwest.com/a/254027">
+<meta property="og:image" content="https://cdn.pingwest.com/portal/2021/11/26/portal/2021/11/26/YxKexptYmY8813Ss9WF438_3wF94j8zf">
+<meta property="og:site_name" content="品玩">
+<meta name="keywords" content="数学技术">
+<meta name="description" content="离得越远，看得越清。">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="">
+<meta name="apple-touch-fullscreen" content="YES">
+<meta name="apple-itunes-app" content="app-id=1249610310">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=no">
+<meta name="HandheldFriendly" content="true">
+<meta name="format-detection" content="telephone=no">
+<meta name="login-status" content="0">
+<meta property="fb:app_id" content="227726278114021">
+<meta name="captcha-appid" content="2099135131">
+<link rel="apple-touch-icon-precomposed" sizes="48x48" href="">
+<link rel="icon" href="https://cdn.pingwest.com/pw-favicon.png">
+<link rel="shortcut icon" href="https://cdn.pingwest.com/pw-favicon.png">
+<link rel="apple-touch-icon" href="https://cdn.pingwest.com/touch-icon.png">
+<link rel="stylesheet" type="text/css" href="//cdn.pingwest.com/static/modules/css/reset_fb6084b.css">
+<link rel="stylesheet" type="text/css" href="//at.alicdn.com/t/font_698792_pj7xo5kt8wr.css">
+<link rel="stylesheet" type="text/css" href="//cdn.pingwest.com/static/css/style_018de75.css">
+<!-- <link rel="stylesheet" type="text/css" href="/static/css/headerShortTime.css"> -->
+<script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script async="" src="https://matomo.dev.pingcode.tech/js/container_DVNfyJ8s.js"></script><script async="" src="https://matomo.dev.pingcode.tech/matomo.js"></script><script type="application/ld+json">{
+    "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+    "@id": "https://www.pingwest.com/a/254027",
+    "appid": "1544703316321905",
+    "title": "数字技术简史：三位奠基人、三个阶段、五大定律、十项发明",
+    "images": [
+        "https://cdn.pingwest.com/portal/2021/11/26/portal/2021/11/26/YxKexptYmY8813Ss9WF438_3wF94j8zf"
+    ],
+    "pubDate": "2021-11-26T07:12:00.000Z"
+}</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-34863888-1"></script> -->
+<!-- <script>
+window.dataLayer = window.dataLayer || []
+function gtag () { dataLayer.push(arguments) }
+gtag('js', new Date())
+gtag('config', 'UA-34863888-1')
+</script>
+<script>
+var _hmt = _hmt || [];
+(function () {
+let hm = document.createElement('script')
+hm.src = 'https://hm.baidu.com/hm.js?f84e8ac4a3dd041a31147de7a5c7263c'
+let s = document.getElementsByTagName('script')[0]
+s.parentNode.insertBefore(hm, s)
+})()
+</script> -->
+<!-- <script>
+(function(para) {
+var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+if(typeof(w['sensorsDataAnalytic201505']) !== 'undefined') {
+return false;
+}
+w['sensorsDataAnalytic201505'] = n;
+w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+var ifs = ['track','quick','register','registerPage','registerOnce','trackSignup', 'trackAbtest', 'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 'identify','login','logout','trackLink','clearAllRegister','getAppStatus'];
+for (var i = 0; i < ifs.length; i++) {
+w[n][ifs[i]] = w[n].call(null, ifs[i]);
+}
+if (!w[n]._t) {
+x = d.createElement(s), y = d.getElementsByTagName(s)[0];
+x.async = 1;
+x.src = p;
+x.setAttribute('charset','UTF-8');
+w[n].para = para;
+y.parentNode.insertBefore(x, y);
+}
+})({
+sdk_url: 'https://cdn.pingwest.com/static/js/sensorsdata.min.js',
+name: 'sensors',
+server_url: '',
+heatmap: {
+clickmap: 'default',
+scroll_notice_map: 'default'
+},
+app_js_bridge: true,
+show_log: false});sensors.registerPage({
+_project: 'main',
+_platform: 'web'
+});sensors.quick('autoTrack');
+</script> -->
+<!-- Matomo -->
+<script>
+var _paq = window._paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+_paq.push(["setCookieDomain", "*.www.pingwest.com"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="https://matomo.dev.pingcode.tech/";
+_paq.push(['setTrackerUrl', u+'matomo.php']);
+_paq.push(['setSiteId', '2']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- Matomo Tag Manager -->
+<script>
+var _mtm = window._mtm = window._mtm || [];
+_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.async=true; g.src='https://matomo.dev.pingcode.tech/js/container_DVNfyJ8s.js'; s.parentNode.insertBefore(g,s);
+</script>
+<!-- End Matomo Tag Manager -->
+</head><body class="article-detail">
+<section class="top-header">
+<style>@media (max-width: 768px) {.kjcxz{display: none}}</style>
+<header class="clearboth">
+<a class="mobile-menu font_family icon-menu1" href="javascript:;" data-type="show" data-common-action="toggleMobileNav"></a>
+<section class="logo">
+<a href="//www.pingwest.com/"><img src="//cdn.pingwest.com/static/modules/images/logo_e67f85d.png" class="img" alt=""></a>
+</section>
+<section class="download-bar">
+<section class="logo">
+<a href="https://s.growingio.com/LWqRgA"><img src="//cdn.pingwest.com/static/modules/images/logo-white_b52707b.png" class="img" alt=""></a>
+</section>
+<section class="content">
+<p class="title"><a href="https://s.growingio.com/LWqRgA">品玩</a></p>
+<p class="description"><a href="https://s.growingio.com/LWqRgA">科技创新者的每日必读</a></p>
+</section>
+<section class="options">
+<a href="https://s.growingio.com/LWqRgA">打开APP</a>
+</section>
+</section>
+<section class="right-wrap drop-down-adom">
+<a href="//www.pingwest.com/app-download" target="_blank" class="down-app">品玩APP</a>
+<a href="//en.pingwest.com" target="_blank" class="margin-left">English</a>
+<!--            <a href="//synclub.pingwest.com" target="_blank" class="margin-left">SYNClub</a>-->
+<a href="//events.pingwest.com" target="_blank" class="margin-left">线下活动</a>
+<a href="//www.pingwest.com/subject" target="_blank" class="margin-left">专题</a>
+<!--<a href="javascript:;" data-common-action="userRegister" class="register-btn margin-left">注册</a>-->
+<a href="javascript:;" data-common-action="userLogin" class="login-btn margin-left">登录</a>
+</section>
+</header>
+<nav class="clearboth">
+<section class="nav-items">
+<a href="//www.pingwest.com" target="_self" class="item">
+首页</a>
+<a href="//www.pingwest.com/status" target="_self" class="item">
+实时要闻</a>
+<a href="//www.pingwest.com/tag/%E5%93%81%E9%A9%BE" target="_self" class="item">
+品驾</a>
+<a href="//www.pingwest.com/tag/%E5%93%81%E7%8E%A9Global" target="_self" class="item">
+品玩Global</a>
+<a href="//www.pingwest.com/tag/%E7%A1%85%E6%98%9F%E4%BA%BA" target="_self" class="item">
+硅星人</a>
+<a href="//www.pingwest.com/tag/%E4%B8%8D%E5%AE%A2%E8%A7%82%E5%AE%9E%E9%AA%8C%E5%AE%A4" target="_self" class="item">
+不客观实验室</a>
+<a href="//www.pingwest.com/Pingraphic" target="_self" class="item">
+PinGraphic</a>
+<a href="//www.pingwest.com/user/feed" target="_self" class="item">
+我的订阅</a>
+<a href="//www.pingwest.com/tag/gpt" target="_self" class="item esp">
+#品玩大模型内刊#</a>
+</section>
+<section class="search">
+<input type="text" data-el-action="search" class="pc-search-icon" placeholder="输入关键词搜索">
+<i class="font_family icon-loupe" data-el="this" data-common-action="search"></i>
+</section>
+</nav>
+</section>
+<section class="mobile-menu-box" id="J_mobileMenu">
+<section class="menu-search-box animate-fade-in">
+<i class="font_family icon-loupe"></i>
+<input type="search" data-el-action="search" placeholder="搜索文章、快讯">
+</section>
+<section class="scroll-flex">
+<ul class="nav">
+<li class="animate-fade-in"><a href="//www.pingwest.com" target="_self">首页</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/status" target="_self">实时要闻</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/%E5%93%81%E9%A9%BE" target="_self">品驾</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/%E5%93%81%E7%8E%A9Global" target="_self">品玩Global</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/%E7%A1%85%E6%98%9F%E4%BA%BA" target="_self">硅星人</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/%E4%B8%8D%E5%AE%A2%E8%A7%82%E5%AE%9E%E9%AA%8C%E5%AE%A4" target="_self">不客观实验室</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/Pingraphic" target="_self">PinGraphic</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/user/feed" target="_self">我的订阅</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/tag/gpt" target="_self">#品玩大模型内刊#</a></li>
+<li class="animate-fade-in"><a href="//en.pingwest.com" target="_blank" class="margin-left">English</a></li>
+<li class="animate-fade-in"><a href="//synclub.pingwest.com" target="_blank" class="margin-left">SYNClub</a></li>
+<li class="animate-fade-in"><a href="//events.pingwest.com" target="_blank" class="margin-left">线下活动</a></li>
+<li class="animate-fade-in"><a href="//www.pingwest.com/subject" target="_blank" class="margin-left">专题</a></li>
+</ul>
+<section class="login-register animate-fade-in">
+<a href="//www.pingwest.com/register" class="register">注册</a>
+<a href="//www.pingwest.com/login" class="login">登录</a>
+</section>
+</section>
+<section class="close-layer animate-fade-in" data-type="hide" data-common-action="toggleMobileNav">
+<a href="javascript:;">关闭</a>
+</section>
+</section>
+<section id="J_articleBox">
+<section class="article-row" data-topic-id="" data-down-id="253964">
+<section class="news-recom-tag">
+<a href="//www.pingwest.com/tag/19830" target="_blank" style="color: #E04A1C">数学技术</a>
+</section>
+<section class="article-title" data-article-id="254027">
+<p>数字技术简史：三位奠基人、三个阶段、五大定律、十项发明</p>
+</section>
+<section class="article-description">
+<i class="font_family icon-quote"></i>
+<p>离得越远，看得越清。</p>
+</section>
+<section class="news-author">
+<section class="author">
+<section class="author-avatar">
+<section class="avatar">
+<a href="//www.pingwest.com/user/234848348" target="_blank">
+<img src="https://cdn.pingwest.com/portal/2021/11/26/k1P7k1tr1YkZ0QT2b7_Fwrk1fPaj4hdR.jpeg?x-oss-process=style/avatar-thumb-md" class="img" alt="">
+</a>
+</section>
+<!--<a class="avatar" href="//www.pingwest.com/user/234848348"><img src="https://cdn.pingwest.com/portal/2021/11/26/k1P7k1tr1YkZ0QT2b7_Fwrk1fPaj4hdR.jpeg?x-oss-process=style/avatar-thumb-md" class="img" alt=""></a>-->
+</section>
+<section class="author-info">
+<p class="name">
+<a href="//www.pingwest.com/user/234848348" target="_blank">腾讯研究院</a>
+<!--<button class="follow-btn sm icon border text " data-common-action="follow" data-status="0" data-id="72056" data-type="0"><span>关注</span></button>-->
+</p>
+<p class="publish-time">
+发布于 2021年11月26日</p>
+</section>
+</section>
+<!--<section class="author-desc">-->
+<!--<p></p>-->
+<!--</section>-->
+</section>
+<section class="article-main clearboth">
+<aside class="article-opts">
+<section class="article-cover">
+<section class="news-img">
+<img src="https://cdn.pingwest.com/portal/2021/11/26/portal/2021/11/26/YxKexptYmY8813Ss9WF438_3wF94j8zf?x-oss-process=style/article-thumb-lg" class="img wechat-share-img" alt="">
+</section>
+</section><section id="J_scrollOptions">
+<section id="J_fixedLeftAside">
+<section class="item-tag-list follows block clearboth">
+<button class="tag lg  clearboth" id="KJozj19830254027">
+<a href="//www.pingwest.com/tag/19830" target="_blank">数学技术</a>
+<span class="follow" data-common-action="follow" data-el="KJozj19830254027" data-no-text="no" data-status="1" data-id="19830" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+</section>
+<section class="options">
+<ul>
+<li class="circle show">
+<section class="item zan " data-common-action="likeArticle" data-like-id="254027" data-like-type="1" data-like-status="1">
+<i class="font_family icon-dianzan"></i>
+<span class="favor_count"></span>
+</section>
+</li>
+<li>
+<a href="javascript:;" class="" data-common-action="collectArticle" data-c-status="1" data-c-type="1" data-c-id="254027">
+<img src="//cdn.pingwest.com/static/images/icon_shoucang1_8fbaeeb.png" class="ico">
+</a>
+</li>
+<li>
+<a href="javascript:;" data-common-action="shareWeibo">
+<img src="//cdn.pingwest.com/static/images/icon_weibo_66e0c0a.png" class="ico">
+</a>
+</li>
+<li>
+<a href="javascript:;" data-common-action="wechatPreview">
+<img src="//cdn.pingwest.com/static/images/icon_weixin_1a7b35c.png" class="ico">
+</a>
+</li>
+</ul></section>
+</section>
+</section>
+</aside>
+<section class="main">
+<article class="article-style">
+<p style="color: #9e9e9e;">*转载文章不代表本站观点。</p><p style="color: #9e9e9e;"><a href="https://mp.weixin.qq.com/s/YnoW0jKJ9juUjSBlcDqFeQ">本文</a>来自微信公众号“腾讯研究院”（cyberlawrc）作者：闫德利（腾讯研究院资深专家） </p><hr><h2><strong>三位奠基人</strong></h2><p>计算机作为一门科学，主要源于数学，最早源于“二战”。艾伦·图灵、冯·诺依曼和克劳德·香农无疑是计算机科学与技术的三位奠基人。他们都是数学家，都曾参与“二战”密码破译或盟军重大科研项目。</p><p>艾伦·图灵（1912年—1954年），英国数学家、逻辑学家，被称为“计算机科学之父”“人工智能之父”。他提出了著名的“图灵机”“图灵测试”，其论文《计算机器与智能》（1950年）是人工智能的开山之作。图灵在“二战”中曾协助军方破解德国密码系统Enigma。不幸的是，年轻的图灵死于家中的床上，床头放着被咬了一口泡过氰化物的苹果。为纪念图灵对计算机科学的巨大贡献，美国计算机协会于1966年设立图灵奖，该奖项是“计算机界的诺贝尔奖”。</p><p>冯·诺依曼（1903年—1957年），出生于匈牙利的美籍犹太人，是20世纪最著名的数学家之一，理论计算机科学和博弈论的奠基者，常被誉为“电子计算机之父”。他提出了计算机制造的三个基本原则，即采用二进制逻辑、程序存储执行以及计算机由五个部分组成（运算器、控制器、存储器、输入设备、输出设备），该理论被称为冯·诺依曼体系结构。</p><p>克劳德·香农（1916年—2001年），美国数学家和密码学家，是“信息论之父”。1948年发表划时代的论文《通信的数学理论》，宣告“信息论”作为一门学科的诞生。香农还被认为是数字计算机理论和数字电路设计理论的创始人。其硕士毕业论文《中继及开关电路的符号分析》，论证了数字计算机及数字线路逻辑设计的可能性，被誉为“有史以来最重要的一篇硕士论文”。</p><h2><strong>三个发展阶段</strong></h2><p>从1946年第一台电子计算机发明算起，数字技术经历了计算机、互联网和新一代信息技术三个阶段。</p><p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>1 /</strong></strong></strong></strong></strong></strong></strong></strong>&nbsp;计算机阶段（1946年-1970年代）</strong></strong></p><p>“二战”中，同盟国为满足快速计算需要，在艾伦·图灵和冯·诺依曼的指导下研发电子计算机。1943年，英国发明了第一台可编程的电子计算机——巨人计算机（Colossus Computer），以破译德军密码；同年，美国为完成火炮弹道运算，开始研制可编程的通用计算机ENIAC。1946年2月14日，该机器在宾夕法尼亚大学宣布诞生，标志着数字时代的来临。</p><p>从1946年电子计算机的发明到上世纪70年代，是数字技术发展的第一阶段，主要由计算机驱动，贝尔实验室、施乐帕克研究中心、IBM、仙童半导体公司、德州仪器、英特尔、通用电气是当时无可争议的风云公司。计算机阶段大体有四个子阶段。&nbsp;</p><p>第一代电子计算机以真空电子管为主要电路元件，又称为“真空管计算机”。其体积庞大，耗电量大，易发热，因而工作时间不能太长。</p><p>1947年，贝尔实验室发明了晶体管，它被誉为“20世纪最伟大的发明”。1953年11月，英国曼彻斯特大学的实验型“晶体管电脑”启用，它通常被认为是世界上第一台投入运作的晶体管计算机。从50年代中后期开始，晶体管取代真空管成为计算机的核心器件，这就是第二代计算机——晶体管计算机。</p><p>1958年，仙童公司和德州仪器公司分别发明了集成电路（IC）。1964年，IBM360系统研制成功，它以中小规模集成电路构成计算机的主要功能部件，标志着第三代计算机登上历史舞台。有学者进一步把70年代采用大规模和超大规模集成电路的计算机看作第四代计算机。</p><p>微处理器是由一片或少数几片大规模集成电路组成的中央处理器。1971年11月15日，第一台微处理器——Intel 4004问世，开创了微型计算机的新时代。人们对谁是第一台现代个人电脑（PC）尚存争议，较多人认为是1973年的施乐奥托（Alto），或1975年的 Altair 8800。1976年的Apple I、1981年的IBM5150也是较早的产品，它们为两家公司在PC市场上的成功奠定了基础。</p><p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>2 /</strong></strong></strong></strong></strong></strong></strong></strong>&nbsp;互联网阶段（1969年-2015年）</strong></strong></p><p>计算机是“二战”的产物，互联网则是冷战的产物。1969年10月29日，美国国防部高级研究计划局（ARPA）组建的阿帕网（ARPANET）第一期工程投入使用，它连接了加州大学洛杉矶分校（UCLA）、斯坦福研究院、加州大学圣巴巴拉分校和犹他大学四个节点。阿帕网的诞生，标志着数字技术进入以互联网为主的发展阶段。</p><p>阿帕网早期采用的是网络控制协议（NCP）。该协议只能用于同构环境，难以满足越来越多计算机网络接入需求。因此，高级研究计划局信息处理技术办公室（IPTO）的罗伯特·卡恩（Robert Kahn）和斯坦福大学的温特·瑟夫（Vint Cerf）开始研究下一代通信协议。</p><p>1973年，两人开发了传输控制协议（TCP）；1974年，两人联合发表题为《关于分组交换的网络通信协议》的论文，正式提出TCP/IP协议。1983年1月1日，高级研究计划局决定淘汰NCP协议，TCP/IP取而代之。从此，阿帕网迅速成长为一个全球互连的网络。1983年1月1日也被很多人认为是互联网的官方生日，罗伯特·卡恩和温特·瑟夫也被誉为“互联网之父”。值得一提的是，温特·瑟夫是术语“Internet”的提出者，他在1974年论文“Specification of Internet Transmission Control Program”中首次书面使用了“Internet”。</p><p>1989年3月，欧洲核子研究中心（CERN）的英国工程师蒂姆·伯纳斯-李（Tim Berners-Lee）提交了《信息管理：建议书》（Information Management: A Proposal）。这是一份关于万维网（WWW）的项目开发计划，标志着互联网进入万维网时代。1991年，全球第一个网站诞生，网址为http://info.cern.ch。蒂姆因此被称为“互联网之父”。</p><p>1993年4月30日，CERN宣布万维网对所有人免费开放，万维网迅速普及。同年，美国提出信息高速公路战略。次年4月20日，我国全功能接入国际互联网。互联网浪潮席卷全球，数字化生存渐行渐近。</p><p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>3&nbsp;/</strong></strong></strong></strong></strong></strong></strong></strong>&nbsp;新一代信息技术阶段（2016年至今）&nbsp;</strong></strong></p><p>李国杰院士指出（人民日报，2016）：“上世纪90年代发明万维网以后，信息领域虽然不断冒出新的热词，但一直没有出现称得上基本创新的重大发明。”与前两个阶段是由重大发明创造引领不同，新一代信息技术阶段是以集成应用为主，是数字技术加速与经济社会全方位深度融合的阶段。“新一代信息技术”是在《国务院关于加快培育和发展战略性新兴产业的决定》（国发〔2010〕32号）中首先提出，但我们很难准确划分这一阶段的开始时间。</p><p>从整个数字技术发展史来看，把2016年作为迈入新一代信息技术阶段的时间较具标志意义——2016年是计算机发明70周年、人工智能提出60周年、光纤通信提出50周年、微处理器发明45周年、量子计算机提出35周年、电子商务提出20周年、云计算提出10周年。2016年，我国印发《国家信息化发展战略纲要》；成功举办G20杭州峰会，大会发布了全球第一个由多国领导人共同签署的数字经济文件——《二十国集团数字经济发展与合作倡议》。一个计算无处不在、软件定义一切、网络包容万物、连接随手可及、宽带永无止境、智慧点亮未来（邬贺铨，2017）的时代已经来临，数字革命进入了融合深化的新时代，人类站到换代发展的新起点。</p><h2><strong>五大基本定律</strong></h2><p>数字技术的典型特征是指数增长。在计算（Compute）、带宽（Bandwidth）、网络（Network）、数据（Data）和能耗（Energy）等方面分别有摩尔定律、吉尔德定律、梅特卡夫定律、“大数据定律”和库梅定律。这是数字技术的五个基本定律，我们可将之合称为“CBNDE定律”。如下表所示。<br style=""></p><figure class="image"><img src="https://cdn.pingwest.com/portal/2021/11/26/portal/2021/11/26/n8y9e861y9y4z7ZFZ9YGJX2eaZG6P7eY?x-oss-process=style/article-body" title="表&nbsp;数字技术CBNDE定律，来源：腾讯研究院，2021年11月。" alt="表&nbsp;数字技术CBNDE定律，来源：腾讯研究院，2021年11月。" width="1080" height="773"><figcaption>表&nbsp;数字技术CBNDE定律，来源：腾讯研究院，2021年11月。</figcaption></figure><p>摩尔定律是数字时代的核心准则，是计算机第一定律。1965年4月19日，仙童半导体公司工程师戈登·摩尔在《电子学》杂志上发表名为《让集成电路填满更多元件》的文章。文中预言“在最小成本的前提下，集成电路所含有的元件数量大约每年便能增加一倍”（The complexity for minimum component costs has increased at a rate of roughly a factor of two per year)。其后，“每年翻一番”的论断先后被修正为“每两年翻一番”“每18个月翻一番”，从而有了今天常见的表述——“集成电路上晶体管数量每18个月翻一番。”</p><p>摩尔定律提出50多年来，时不时有人做出“摩尔定律已死”的论断，但其后发生的事实一再证明它依然有效。摩尔本人也犯了过于保守的错误——最初预测它可以持续10年时间。至今，摩尔定律仍然充满活力，它被历史学家称为“现代世界的节拍器”。</p><p>乔治·吉尔德被誉为“数字时代三大思想家之一”，曾师从美国前国务卿基辛格。他认为，带宽的增长速度至少是计算机的三倍。即“主干网的带宽每6个月增长一倍”，这被称为吉尔德定律(Gilder's Law)。</p><p>梅特卡夫定律(Metcalfe's law)也是由乔治·吉尔德提出，但以以太网之父罗伯特·梅特卡夫命名。其内容是：一个网络的价值等于该网络内节点数的平方。</p><p>“全球数据量每两年翻一番”，这是业界公认和流行的说法，例如：IDC（2011）、enFact（2016）、Brian Gallagher（2020）。该指数增长规律尚未命名，我们姑且称之为“大数据定律”。&nbsp;</p><p>数据大爆炸，给人们的直观感受是计算机耗电量必随之大幅增加。而研究表明，数据中心耗电量并不会和数据规模同步增长，效率的提高使能耗占比几乎保持不变。斯坦福大学乔纳森·库梅教授提出了著名的库梅定律（Koomey's Law）：计算机的能源效率大约每18个月翻一番，即计算设备的耗电量每18个月就会下降一半。</p><p>与牛顿运动定律、E=MC2、宇称不守恒等客观存在、不以人的意志为转移的物理学定律不同，CBNDE实际上是经验法则或者预言，描述的是计算机科学家和工程师的工作，是人们付出努力所带来的持续进步。</p><h2><strong>十项重大发明</strong></h2><p>通过对数字技术的相关论述，我们认为最重要的10项技术发明是电子计算机、晶体管、集成电路、微处理器、Unix操作系统和C语言、光纤通信、阿帕网、TCP/IP协议、万维网和人工智能。如下表所示。需要说明的是，严格来说人工智能不是一项发明，而是一种方法或者技术领域。自提出60多年来，众多科学家不断推动人工智能技术进步，例如：马文·明斯基、约翰·麦卡锡、艾伦·纽厄尔、赫伯特·西蒙、犹大·伯尔、约舒亚·本希奥等。</p><figure class="image"><img src="https://cdn.pingwest.com/portal/2021/11/26/portal/2021/11/26/3A5413T7sTEP636KjE8h79s9477Ww6G3?x-oss-process=style/article-body" title="表&nbsp;数字技术领域的十项重大技术发明，来源：腾讯研究院，2021年11月。" alt="表&nbsp;数字技术领域的十项重大技术发明，来源：腾讯研究院，2021年11月。" width="1048" height="941"><figcaption>表&nbsp;数字技术领域的十项重大技术发明，来源：腾讯研究院，2021年11月。</figcaption></figure><p>技术的变革和演进是复杂的。经济史学家Thomson指出（1984）：“技术变革就像上帝。人们对它讨论颇多，有人顶礼膜拜，有人拒绝抵制，却没有多少人理解。”也许当下正酝酿着某项伟大的发明，或者它已经出现，只是尚未产生革命性的影响。“离得越远，看得越清。”随着时间远去，相信人们会有更准确的判断。<strong></strong></p></article>
+<section class="item-tag-list follows">
+<button class="tag default " id="VKdji9k219830254027">
+<a href="//www.pingwest.com/tag/19830" target="_blank">数学技术</a>
+<span class="follow" data-common-action="follow" data-el="VKdji9k219830254027" data-no-text="no" data-status="1" data-id="19830" data-type="2">
+<i class="font_family icon-add a"></i>
+<i class="font_family icon-yes s"></i>
+</span>
+</button>
+</section>
+<section class="download-app-tip">
+<section class="mobile app-icon">
+<img src="//cdn.pingwest.com/static/modules/images/logo_e67f85d.png" class="img" alt="">
+</section>
+<section class="slogan">
+<p class="pc title">下载品玩App，比99.9%的人更先知道关于「数学技术」的新故事</p>
+<p class="mobile title">下载品玩App</p>
+</section>
+<p class="mobile desc">比99.9%的人更先知道关于「数学技术」的新故事</p>
+<section class="buttons">
+<section class="pc">
+<a href="https://s.growingio.com/O1WoZy" target="_blank">
+<i class="font_family icon-ios"></i>
+<span>iOS版本</span>
+</a>
+<a href="https://s.growingio.com/kvkLxz" target="_blank">
+<i class="font_family icon-android"></i>
+<span>Android版本</span>
+</a>
+</section>
+<section class="mobile">
+<a href="https://s.growingio.com/LWqRgA" target="_blank">立即下载</a>
+</section>
+</section>
+</section><section class="article-bottom-options">
+<section class="like">
+<section class="item zan " data-common-action="likeArticle" data-like-id="254027" data-like-type="1" data-like-status="1">
+<i class="font_family icon-dianzan"></i>
+<span><i class="favor_count"></i> 点赞</span>
+</section>
+</section>
+<section class="share">
+<a href="javascript:;" class="" data-common-action="collectArticle" data-c-status="1" data-c-type="1" data-c-id="254027">
+<!-- <i class="icon font_family icon-ribbon"></i> -->
+<img src="//cdn.pingwest.com/static/images/icon_shoucang1_8fbaeeb.png" class="ico">
+</a>
+<a href="javascript:;" data-common-action="shareWeibo">
+<!-- <i class="font_family icon-weibo"></i> -->
+<img src="//cdn.pingwest.com/static/images/icon_weibo_66e0c0a.png" class="ico">
+</a>
+<!--<a href="javascript:;" data-common-action="wechatPreview"><i class="font_family icon-weixin"></i></a>-->
+</section>
+</section>
+<section class="author-news" data-id="72056">
+<section class="author">
+<section class="avatar">
+<a href="//www.pingwest.com/user/234848348" target="_blank"><img src="https://cdn.pingwest.com/portal/2021/11/26/k1P7k1tr1YkZ0QT2b7_Fwrk1fPaj4hdR.jpeg?x-oss-process=style/avatar-thumb-md" class="img" alt=""></a>
+</section>
+<section class="info">
+<section class="name-wrap">
+<a href="//www.pingwest.com/user/234848348" target="_blank" class="name">腾讯研究院</a>
+<button class="follow-btn sm icon " data-common-action="follow" data-status="1" data-id="72056" data-type="0"><i class="font_family icon-cc-plus-crude"></i><span>关注</span></button>
+</section>
+<section class="desc">
+<p>腾讯公司设立的社会科学研究机构，依托腾讯公司多元的产品、丰富的案例和海量的数据，围绕产业发展的焦点问题，通过开放合作的研究平台，汇集各界智慧，共同推动互联网产业健康、有序的发展，致力于成为现代科技与社会人文交叉汇聚的研究平台。</p>
+</section>
+</section>
+</section>
+<section class="news-list" id="J_userRecommendArticle"><ul>
+                    <li>
+                        <a href="//www.pingwest.com/a/175579" target="_blank">“五年超越苹果”大限将至，华为2018上半年的业绩究竟怎么样？</a>
+                        <span>2018年8月5日</span>
+                    </li>
+                
+                    <li>
+                        <a href="//www.pingwest.com/a/169643" target="_blank">华为Matebook X Pro，一个搅局者是如何炼成的</a>
+                        <span>2018年7月11日</span>
+                    </li>
+                
+                    <li>
+                        <a href="//www.pingwest.com/a/170459" target="_blank">vivo 一本正经秀黑科技的样子，还真是性感</a>
+                        <span>2018年6月15日</span>
+                    </li>
+                
+                    <li>
+                        <a href="//www.pingwest.com/a/165472" target="_blank">深泽直人的无意识，一加的无负担</a>
+                        <span>2018年5月8日</span>
+                    </li>
+                </ul></section>
+</section>
+<section id="J_bottomAd"></section>
+</section>
+<aside class="recommend"><div class="aiHelperEntry show" data-ai-action="openAiHelper"><div class="entryFixed"><img src="https://cdn.pingwest.com/portal/2023/10/10/Y33t7mtt8Q9ap2rCZ8KztT1btZ6f166i.png" class="robot"><div class="tips">我是您的专属阅读助手，在阅读中有任何想法，欢迎向我提问～</div></div></div>
+<section class="news-list" id="J_articleRecommend" style="padding-top: 86px;"><p class="title">推荐阅读</p>
+<section class="item">
+<a href="//www.pingwest.com/a/299267" target="_blank" class="title">10月30日，北京，一起感受 AI for Real</a>
+<p class="author">
+<a href="//www.pingwest.com/user/74474943" target="_blank" class="name">PRO</a>
+<i>·</i>
+<span>10月21日</span>
+</p>
+</section>
+<section class="item">
+<a href="//www.pingwest.com/a/299102" target="_blank" class="title">没人想错过TikTok</a>
+<p class="author">
+<a href="//www.pingwest.com/user/95543764" target="_blank" class="name">summer</a>
+<i>·</i>
+<span>10月16日</span>
+</p>
+</section>
+<section class="item">
+<a href="//www.pingwest.com/a/298529" target="_blank" class="title">截胡Meta！Snap发了款“只租不卖”的AR眼镜，却让我们离消费级AR更近了</a>
+<p class="author">
+<a href="//www.pingwest.com/user/82043743" target="_blank" class="name">张潇雪</a>
+<i>·</i>
+<span>9月22日</span>
+</p>
+</section>
+</section>
+<section id="J_recommendArticle">
+<section class="scroll" id="J_scrollFixed">
+<!--<section class="wire-push" id="J_wirePush"></section>-->
+<section class="day-news" id="J_dayNews">
+<p class="title">每日要闻</p>
+<ul>
+<li class="n n1 show">
+<section class="in">
+<p class="title">
+<i></i>
+<span></span>
+</p>
+<p class="content c1"></p>
+<p class="content c2"></p>
+</section>
+<section class="back">
+<p class="title">
+<i></i>
+<a id="J_dayTitle" target="_blank" href="//www.pingwest.com/w/299395">美团</a>
+</p>
+<a class="content" id="J_dayContent" target="_blank" href="//www.pingwest.com/w/299395">国内首条口岸场景无人机配送航线在深开航 旅途外卖也能“人来货到”</a>
+</section>
+</li>
+<li class="n n2 show">
+<section class="in">
+<p class="title">
+<i></i>
+<span></span>
+</p>
+<p class="content c1"></p>
+<p class="content c2"></p>
+</section>
+<section class="back">
+<p class="title">
+<i></i>
+<a id="J_dayTitle" target="_blank" href="//www.pingwest.com/w/298896">美团</a>
+</p>
+<a class="content" id="J_dayContent" target="_blank" href="//www.pingwest.com/w/298896">北京八达岭长城再添美团无人机航线 黄金周日均订单量环比节前增1100%</a>
+</section>
+</li>
+<li class="n n3 show">
+<section class="in">
+<p class="title">
+<i></i>
+<span></span>
+</p>
+<p class="content c1"></p>
+<p class="content c2"></p>
+</section>
+<section class="back">
+<p class="title">
+<i></i>
+<a id="J_dayTitle" target="_blank" href="//www.pingwest.com/w/298384">美团</a>
+</p>
+<a class="content" id="J_dayContent" target="_blank" href="//www.pingwest.com/w/298384">美团 Apple 授权专营店将开始 iPhone 16 系列预售</a>
+</section>
+</li>
+<li class="ewm">
+<img src="//wxcdn.pingwest.com/mina%5Etype=0%5Eaging=0%5E-pages-index-index@from=article-side.png" class="img" alt="">
+<p class="tip">扫码查看每日要闻</p>
+</li>
+</ul>
+</section>
+</section>
+</section>
+</aside>
+</section>
+<section class="comment-box" data-comment-list="" id="J_comment">
+<section class="comment">
+<p class="comment-count" style="display: none"><span id="J_commentCount">0</span> 条评论</p>
+<section class="write-comment">
+<section class="avatar">
+<img src="https://cdn.pingwest.com/default-avatar.jpg" class="img" alt="">
+</section>
+<section class="input">
+<p class="not-login-tip">请「<a href="javascript:;" data-common-action="userLogin">登录</a>」后评论</p>
+<section class="options">
+<!--<span class="tip" data-not="true">请登录后评论</span>-->
+<section class="btn">
+<a href="javascript:;" class="close">取消</a>
+<a href="javascript:;" data-comment-action="commentArticle" data-not="true" class="submit">发布</a>
+</section>
+</section>
+</section>
+</section>
+<section class="comment-list" id="J_commentList">
+                <section data-load="" class="load-more-box loading" style="display: none;">
+                    <a href="javascript:;" class="tip-text" data-page="1" data-action-assign="assign" data-loading-action-1731559889041="loading">加载更多</a>
+                    <section class="loading">
+                        <svg class="circular" viewBox="25 25 50 50">
+                            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="4" stroke-miterlimit="10"></circle>
+                        </svg>
+                    </section>
+                </section>
+                </section>
+</section>
+</section></section></section>
+<script src="//cdn.pingwest.com/lib/raven.min.js" crossorigin="anonymous"></script>
+<script>
+// Raven.config('https://92284a9768ba4c0c8f79489413ec4a73@sentry.pingwest.com/2', {
+//     release: '1.1.0',
+//     environment: 'production'
+// }).install();
+</script>
+<script src="//cdn.pingwest.com/static/modules/js/prod.ds_14ad023.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/j191_4b46fcb.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/popup.lib_e9df2b7.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/loginRegister.lib_73302fa.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/base.lib_06cba10.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/modules/js/loadMore.lib_1db04f1.js" crossorigin="anonymous"></script>
+<script src="https://ssl.captcha.qq.com/TCaptcha.js"></script><div class="aiChatBox">
+<div class="aiHeader">
+<div class="headerL">
+<img src="//cdn.pingwest.com/static/images/aiHelper/robotAvatar_f8b4cce.png" alt="" class="robotAvatar">
+<span class="title">AI阅读助手</span>
+<div class="hint">
+<img src="//cdn.pingwest.com/static/images/aiHelper/icon-i_f4f4783.png">
+<div class="hintText">
+以下有两点提示，请您注意：<br>
+1. 请避免输入违反公序良俗、不安全或敏感的内容，模型可能无法回答不合适的问题。<br>
+2. 我们致力于提供高质量的大模型问答服务，但无法保证回答的准确性、时效性、全面性或适用性。在使用本服务时，您需要自行判断并承担风险；<br>
+感谢您的理解与配合
+</div>
+</div>
+</div>
+<div class="headerR">
+<img src="//cdn.pingwest.com/static/images/aiHelper/fullScreen_2a813b1.png" alt="" class="fullScreen open" data-ai-action="openFullScreen">
+<img src="//cdn.pingwest.com/static/images/aiHelper/closeFullScreen_4b9db96.png" alt="" class="fullScreen close" data-ai-action="closeFullScreen">
+</div>
+</div>
+<div class="aiContentBox"></div>
+<div class="aiInputBox">
+<div class="inputBoxT">
+<div class="reset" data-ai-action="resetChat"><img src="//cdn.pingwest.com/static/images/aiHelper/reset_12f1863.png" alt=""></div>
+<div class="inputBox">
+<textarea class="aiInput" type="text" placeholder="可通过回车发送、shift+回车换行" name="question"></textarea>
+<div class="send un"><img src="//cdn.pingwest.com/static/images/aiHelper/send_60be4b7.png" alt=""></div>
+<div class="send active" data-ai-action="sendQuestion"><img src="//cdn.pingwest.com/static/images/aiHelper/sendActive_b7741f8.png" alt=""></div>
+</div>
+</div>
+<div class="packUp" data-ai-action="packUpAiHelper"><img src="//cdn.pingwest.com/static/images/aiHelper/packUp_946b44b.png" alt=""></div>
+</div>
+</div>
+<div class="dialogBox">
+<div class="dialog">
+<div class="close-btn" data-ai-action="closeDialog"><i class="font_family icon-close"></i></div>
+<span class="text">该功能目前正处于内测阶段，尚未对所有用户开放。如果您想快人一步体验产品的新功能，欢迎点击下面的按钮申请参与内测</span>
+<a href="https://www.wjx.cn/vm/tVl9Rjc.aspx#" target="_blank" class="form-entry">申请内测</a>
+</div>
+</div><script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+<script src="//cdn.pingwest.com/static/modules/js/comment.lib_6a2d26f.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/js/topic.card.class_bb45c53.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/js/fetch-event-source_6752f73.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/js/article.class_bf370c1.js" crossorigin="anonymous"></script>
+<script src="//cdn.pingwest.com/static/js/aiHelper.class_f1dab30.js" crossorigin="anonymous"></script>
+<script>
+// eslint-disable-next-line no-new, no-undef
+new AiHelper({
+type: 1
+})
+</script>
+<script>
+(function(){
+var bp = document.createElement('script');
+var curProtocol = window.location.protocol.split(':')[0];
+if (curProtocol === 'https') {
+bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+}
+else {
+bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+}
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+</body></html>

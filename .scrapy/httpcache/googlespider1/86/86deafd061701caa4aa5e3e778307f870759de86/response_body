@@ -1,0 +1,587 @@
+<!DOCTYPE html><html><head>
+	<meta charset="UTF-8">
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<title>中国人工智能学会</title>
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/index.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/flip.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/slider.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/fatHeader.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/article-list.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/pager.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/about.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/article.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/magazine-agenda.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/tabPager.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/notice.css">
+<link rel="stylesheet" type="text/css" href="/Public/Home/css/banner.css">
+<!-- <style type="text/css">
+html {filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+-o-filter: grayscale(100%);
+filter: url("data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg"><filter ….3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0"/></filter></svg>#grayscale"); 
+filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+filter: gray;
+-webkit-filter: grayscale(1); }
+</style>
+-->
+</head>
+<body>
+<div class="pageWrapper">
+	<!-- 头部 -->
+	<!-- 导航条
+================================================== -->
+<div id="fatHeader">
+	<div class="positionHeader">
+		<nav class="clear">
+		<ul>
+			<li><a href="https://en.caai.cn/">English Version</a></li>
+			<li><a href="http://caai.scimall.org.cn/member/login.php" target="_blank">加入学会</a></li>
+			<li><a href="javascript:void(0)" onclick="AddFavorite(window.location,document.title)">加入收藏</a></li>
+			<li><a href="/index.php?s=/home/article/detail/id/12.html">关于我们</a></li><li><a href="/index.php?s=/home/article/detail/id/13.html">联系我们</a></li><li><a href="/index.php?s=/home/article/detail/id/1430.html">常见问题</a></li>			<li><a href="/index.php?s=/home/article/detail/id/3203/login/go.html">登录</a></li>
+						<!-- <li><a href="http://caai.scimall.org.cn/member/login.php" target="_blank">登录</a></li> -->
+		</ul>	
+		</nav>
+		<form action="/index.php?s=/home/article/search.html" id="searchFormHeader" method="post">
+		<div class="head clear">
+			<img src="/Public/Home/images/logo.png" alt="logo" id="logo">
+			<ul class="dateAndSearch">
+				<li class="date">2024年11月14日 星期四</li>
+				<li class="search">
+					<input type="search" id="search" name="title" placeholder="Search" onkeypress="if(event.keyCode==13) {search_submit();}" value="">
+				</li>
+			</ul>
+		</div>
+		</form>		
+		<script src="//hm.baidu.com/hm.js?f1b9aef44b8656063724e8564c0924d0"></script><script type="text/javascript">
+		function search_submit(index){
+			$("#searchFormHeader").submit();	
+		}
+		function AddFavorite(sURL, sTitle) {
+			sURL = encodeURI(sURL); 
+	        try{
+	            window.external.addFavorite(sURL, sTitle);   
+	 		}catch(e) {
+	            try{
+	                window.sidebar.addPanel(sTitle, sURL, "");   
+	 			}catch (e) { 	
+	 				alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+	            }
+        	}
+    	}
+		</script>
+		<div class="tab clear">
+			<ul id="tabUl">
+				<li class="firstLayer">
+					<a href="/index.php?s=/home/index/index.html">首页</a>
+				</li>
+				<li class="firstLayer">
+					<a href="/index.php?s=/home/article/index/id/1.html">关于CAAI</a>
+					<div class="dropdown_1column">        
+		                <div class="col_1">                
+		                    <ul class="simple">
+								<li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/2.html">CAAI简介</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/39.html">学会章程</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/40.html">条例与法规</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/41.html">主要领导</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/42.html">组织机构</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/43.html">分支机构</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/90.html">学会党建</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/44.html">地方学会</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/77.html">文档下载</a>
+		                        	</div>
+		                        </li>                     
+		                    </ul>                        
+		                </div>                
+					</div>  
+				</li><li class="tablicurrent">
+					<a href="/index.php?s=/home/article/index/id/45.html">新闻动态</a>
+					<div class="dropdown_1column">        
+		                <div class="col_1">                
+		                    <ul class="simple">
+								<li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/147.html">时政要闻</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/148.html">科协头条</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/46.html">学会新闻</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/47.html">通知公告</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/49.html">活动预告</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/48.html">活动专题</a>
+		                        	</div>
+		                        </li>                     
+		                    </ul>                        
+		                </div>                
+					</div>  
+				</li><li class="firstLayer">
+					<a href="/index.php?s=/home/article/index/id/58.html">党建强会</a>
+					<div class="dropdown_1column">        
+		                <div class="col_1">                
+		                    <ul class="simple">
+								<li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/154.html">主题教育</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/149.html">二十大精神</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/151.html">重要讲话</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/79.html">党建强会</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/150.html">思想体系</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/152.html">伟大精神</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/115.html">党史百科</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/153.html">学习书库</a>
+		                        	</div>
+		                        </li>                     
+		                    </ul>                        
+		                </div>                
+					</div>  
+				</li><li class="firstLayer">
+					<a href="/index.php?s=/home/article/index/id/64.html">奖励与合作</a>
+					<div class="dropdown_1column">        
+		                <div class="col_1">                
+		                    <ul class="simple">
+								<li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/65.html">吴文俊奖</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/86.html">青托计划</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/67.html">院士推荐</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/91.html">成果鉴定</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/143.html">基金项目</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/160.html">激励计划</a>
+		                        	</div>
+		                        </li>                     
+		                    </ul>                        
+		                </div>                
+					</div>  
+				</li><li class="firstLayer">
+					<a href="/index.php?s=/home/article/index/id/50.html">CAAI资源</a>
+					<div class="dropdown_1column">        
+		                <div class="col_1">                
+		                    <ul class="simple">
+								<li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/52.html">学会期刊</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/51.html">学会通讯</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/137.html">智能系统学报</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/84.html">CAAI TRIT </a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/146.html">CAAI AIR</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/53.html">学科皮书系列</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/54.html">年鉴及发展报告</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/138.html">数字图书馆</a>
+		                        	</div>
+		                        </li>                     
+		                    </ul>                        
+		                </div>                
+					</div>  
+				</li><li class="firstLayer">
+					<a href="/index.php?s=/home/article/index/id/69.html">会员专区</a>
+					<div class="dropdown_1column">        
+		                <div class="col_1">                
+		                    <ul class="simple">
+								<li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/68.html">学会会士</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/89.html">杰出会员</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/135.html">高级会员 </a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/83.html">会员荣誉</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/144.html">常务理事单位会员</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/145.html">理事单位会员</a>
+		                        	</div>
+		                        </li><li>
+		                        	<div class="borderbox">
+		                        		<a href="/index.php?s=/home/article/index/id/74.html">单位会员</a>
+		                        	</div>
+		                        </li>                     
+		                    </ul>                        
+		                </div>                
+					</div>  
+				</li>			</ul>
+		</div>
+	</div>
+</div>
+
+	<!-- /头部 -->
+	
+	<!-- 主体 -->
+	<div id="mainContainer">
+
+
+   <div class="contentWrapper">
+	<div class="contentContainer">			
+		<div class="sidebar">
+			<div class="sideBigBox">
+				<ul>
+					<h1>新闻动态</h1>
+					<li><a href="/index.php?s=/home/article/index/id/147.html" title="时政要闻">时政要闻</a></li><li><a href="/index.php?s=/home/article/index/id/148.html" title="科协头条">科协头条</a></li><li class="current"><a href="/index.php?s=/home/article/index/id/46.html" title="学会新闻">学会新闻</a></li><li><a href="/index.php?s=/home/article/index/id/47.html" title="通知公告">通知公告</a></li><li><a href="/index.php?s=/home/article/index/id/49.html" title="活动预告">活动预告</a></li><li><a href="/index.php?s=/home/article/index/id/48.html" title="活动专题">活动专题</a></li>				</ul>
+			</div>
+			
+			<div class="sideSmallBox">
+				<a href="https://dl.caai.cn/" title="数字图书馆" target="_blank">
+					<img src="/Public/Home/images/AIOCCertificateQuery.png" class="icon" alt="数字图书馆">
+					<p><span class="title">数字图书馆</span><br><span class="title_eng">Digital Library</span></p>
+					<img src="/Public/Home/images/pointer.png" alt="Pointer">	
+				</a>
+			</div>
+			<div class="sideSmallBox">
+				<a href="https://www.caai.cn/index.php?s=/home/article/index/id/91.html" title="成果鉴定" target="_blank">
+					<img src="/Public/Home/images/educationTraining.png" class="icon" alt="成果鉴定">
+					<p><span class="title">成果鉴定</span><br><span class="title_eng">Achievement Appraisal</span></p>
+					<img src="/Public/Home/images/pointer.png" alt="Pointer">	
+				</a>
+			</div>
+			<!--<div class="sideSmallBox">
+				<a href="https://www.caai.cn/index.php?s=/home/article/index/id/69.html" title="AIOC 证书查询" target="_blank">
+					<img src="/Public/Home/images/academicResources.png" class="icon" alt="AIOC 证书查询">
+					<p><span class="title">AIOC 证书查询</span><br><span class="title_eng">AIOC Certificate Query</span></p>
+					<img src="/Public/Home/images/pointer.png" alt="Pointer">		
+				</a>
+			</div>-->
+			<div class="sideSmallBox">
+				<a href="https://www.caai.cn/index.php?s=/home/article/index/id/69.html" title="会员专区" target="_blank">
+					<img src="/Public/Home/images/academicResources.png" class="icon" alt="会员专区">
+					<p><span class="title">会员专区</span><br><span class="title_eng">Membership</span></p>
+					<img src="/Public/Home/images/pointer.png" alt="Pointer">		
+				</a>
+			</div>
+			<div class="sideSmallBox">
+				<a href="https://caai.aminer.cn/" title="AI 智库" target="_blank">
+					<img src="/Public/Home/images/institudeThinktank.png" class="icon" alt="AI 智库">
+					<p><span class="title">AI 智库</span><br><span class="title_eng">AI Thinktank</span></p>
+					<img src="/Public/Home/images/pointer.png" alt="Pointer">			
+				</a>
+			</div>
+		</div>
+		<div class="articleContainer contentDisplay">
+			<div class="topHeader">
+				<div class="path">
+					<h1>
+					<span><a href="/index.php?s=/home/article/index/id/46.html">学会新闻</a></span>
+					<span> &gt; </span>
+					<span><a href="/index.php?s=/home/article/detail/id/3203.html">2023第九届中国智能技术与大数据会议在山东烟台成功举办</a></span>
+					</h1>					
+				</div>
+			</div>
+
+			<div class="article">
+				<div class="articleUpperBox">
+					<!-- <h2 class="title">2023第九届中国智能技术与大数据会议在山东烟台成功举办</h2> -->
+					<br>
+					<style>
+					
+					</style>
+					<div class="articleContent">
+						<p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">2023年10月21日-22日，由中国人工智能学会（CAAI）主办，CAAI智能服务专委会、烟台大学、北京邮电大学计算机学院联合承办的“2023第九届中国智能技术与大数据会议”在山东烟台顺利召开。会议采用线上线下相结合的形式举办，吸引了线上线下共37万余人参加。会议邀请了中国工程院院士何友教授、中国工程院院士蒋昌俊教授、华东师范大学副校长周傲英教授、欧洲科学院院士高会军教授、北京大学博雅特聘教授崔斌教授和北京大学博雅特聘教授程翔教授做大会特邀报告，与会专家就人工智能发展前沿、AI的一点思考、人工智能时代对科学和数据的思考、面向类器官再生的智能制造系统、支持大模型的分布式机器学习系统性能优化、机器的联觉：通信与多模态感知的智能融合进行了探讨和交流。会议还举办了前沿技术与应用论坛、青年论坛和优秀论文论坛。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">烟台大学计算机与控制工程学院院长童向荣教授主持开幕式。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300732103121.jpg" title="1698300732103121.jpg" alt="1698300732103121.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">烟台大学副校长郝曙光教授向与会专家学者表达了热烈的欢迎，介绍了烟台大学近年来的发展情况，强调了人工智能对科技革命和产业变革的重要性。本次会议将深化人工智能和大数据产业的发展，推动人工智能和大数据领域的创新发展。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300744114288.jpg" title="1698300744114288.jpg" alt="1698300744114288.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"><br></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">北京邮电大学计算机学院院长王尚广教授代表会议联合承办方致辞，他强调了当前全球竞争的激烈性以及国际大国之间的博弈对各行各业和学术界产生了巨大的压力，希望中国人工智能学会智能服务专委会不断壮大发展。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300757447014.jpg" title="1698300757447014.jpg" alt="1698300757447014.jpg" width="618" height="413" border="0" vspace="0" style="width: 618px; height: 413px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">CAAI智能服务专委会主任、北京邮电大学杜军平教授指出智能服务专委会的定位是加强我国智能服务领域的学术研究，推动智能服务领域理论体系和关键技术的创新发展，积极组织委员投稿参加学会主办的各类活动等。杜军平教授回顾了中国智能技术与大数据会议的发展历程，介绍了本次会议的组织情况。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300771108952.jpg" title="1698300771108952.jpg" alt="1698300771108952.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300785789030.jpg" title="1698300785789030.jpg" alt="1698300785789030.jpg" width="618" height="372" border="0" vspace="0" style="width: 618px; height: 372px;"></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300797891575.jpg" title="1698300797891575.jpg" alt="1698300797891575.jpg" width="618" height="376" border="0" vspace="0" style="width: 618px; height: 376px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">中国工程院院士、海军航空大学何友教授报告的主题是“人工智能发展前沿”。自1956年美国达特茅斯会议至今，人工智能发展经历了三次热潮和两次寒冬，逐渐成为新一代科技革命的核心技术，是新一轮产业变革的重要驱动力量。报告简要回顾人工智能技术发展历程；针对大模型、无监督学习、生成模型等重要理论突破与发展前沿展开交流，并对相关理论问题进行展望；并进一步探讨自动驾驶、类脑感知与计算、元宇宙、智能科学计算等领域技术与应用发展前沿；针对人工智能产业发展前沿展开讨论，以中美对比为主，探讨我国在人工智能产业布局、企业、人才等领域的发展现状。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300810467411.jpg" title="1698300810467411.jpg" alt="1698300810467411.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300824564146.jpg" title="1698300824564146.jpg" alt="1698300824564146.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">中国工程院院士、同济大学讲座教授蒋昌俊教授报告的主题是“AI的一点思考”。人类科技革命经历了物质世界、信息世界、智能世界，回顾了三个发展阶段的代表性人物及其贡献，指出其相关的特征和相应的研究方法。并对类脑智能、人工智能、计算机科学发展的轨迹做了对应分析，可以看出人工智能三起二落的背后动因，最后对逻辑思维和形象思维的发展展现出已取得的进展和未来值得探索的方向。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300837625682.png" title="1698300837625682.png" alt="1698300837625682.png" width="618" height="333" border="0" vspace="0" style="width: 618px; height: 333px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">华东师范大学副校长周傲英教授报告的主题是“人工智能时代对科学和数据的思考Retrospection to Science and Data in the Age of AI”。人工智能是一场新的科技革命。继AlphaGo之后，ChatGPT带来更深刻的启示，我们需要重新思考科学和教育。这场新科技革命带来两个重要的变化，一是，从“科学引领技术”变成“技术倒逼科学”；二是，“新的经验主义”呼唤“新的理性主义”，也就是新科学。数据是新的能源动力，将把人类带入数字文明；新的科学范式已然形成，新科学呼之欲出；应用驱动创新，技术发展回归正道。对科学和数据的反思可以让我们理解人工智能的工具属性，发展人工智能需要新的思维方式和教育理念。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300850913392.jpg" title="1698300850913392.jpg" alt="1698300850913392.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300862423002.jpg" title="1698300862423002.jpg" alt="1698300862423002.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">欧洲科学院院士、哈尔滨工业大学高会军教授报告的主题是“面向类器官再生的智能制造系统”。类器官是在体外培育的、保有组织器官结构与功能的细胞团，在生物医学领域具有广泛应用，是国际前沿热点方向。本报告介绍面向类器官再生的智能制造方法、系统及应用。针对类器官再生机理复杂、生长轨迹控制难、细胞操控精度低等难点问题，基于智能控制与显微操作相关技术，研究类器官再生模型智能构建、类器官生长状态多维感知、类器官生长过程智能控制、类器官细胞微纳操作等理论与方法，建立面向类器官再生的智能制造系统，推动类器官在病理研究、药物研发、个体化诊疗等生物医药领域的重要应用。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300873102630.jpg" title="1698300873102630.jpg" alt="1698300873102630.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300887122670.jpg" title="1698300887122670.jpg" alt="1698300887122670.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">北京大学博雅特聘教授、计算机学院副院长崔斌教授报告的主题是“支持大模型的分布式机器学习系统性能优化”。机器学习系统是人工智能应用的重要基础，其核心包括数据组织形式、模型计算方法以及硬件使用方式等。日益增长的模型和数据规模对现有系统带来了严峻的挑战。本次报告介绍了课题组自主研发的面向大模型的分布式深度学习框架--河图。报告首先剖析了目前“大模型”发展情况，然后重点介绍了河图面向不同大模型和硬件环境的优化进展以及在自动化并行训练上的探索。最后，对机器学习系统的发展进行了展望。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300900817689.jpg" title="1698300900817689.jpg" alt="1698300900817689.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"><span style="text-wrap: nowrap;"></span></p><p style="line-height: 1.75em; text-align: center;"><img src="/ueditor/php/upload/image/20231026/1698300911614708.png" title="1698300911614708.png" alt="1698300911614708.png" width="618" height="411" border="0" vspace="0" style="width: 618px; height: 411px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">北京大学博雅特聘教授程翔教授报告的主题是“机器的联觉：通信与多模态感知的智能融合”。6G 网络是万物智联的核心使能技术，面向未来的6G网络，通信能力和感知能力将共融共生，万物智联环境中的智能体将会同时部署：通信设备和多模态感知设备，因此通信射频信息和多模态感知信息将会大量存在于未来的6G万物智联之中。受到人类联觉的启发，本报告首次提出机器联觉的概念，即通信与多模态感知的智能融合。其次，重点阐述支撑机器联觉研究的核心基础：通信与多模态感知信息数据集的构建。接下来，本报告初步阐述如何利用机器联觉进一步辅助增强通信和感知系统的设计。最后，本报告对机器联觉进行总结和展望。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300924781930.jpg" title="1698300924781930.jpg" alt="1698300924781930.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300938516381.jpg" title="1698300938516381.jpg" alt="1698300938516381.jpg" width="618" height="412" border="0" vspace="0" style="width: 618px; height: 412px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">北京工商大学计算机与人工智能学院执行院长李海生教授、中国人民大学刘勇副教授主持了前沿技术与应用论坛报告。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300950780983.jpg" title="1698300950780983.jpg" alt="1698300950780983.jpg" width="618" height="166" border="0" vspace="0" style="width: 618px; height: 166px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">中国科学院计算技术研究所闵巍庆副研究员、北京邮电大学薛哲副教授主持了青年论坛报告。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300963177893.jpg" title="1698300963177893.jpg" alt="1698300963177893.jpg" width="618" height="164" border="0" vspace="0" style="width: 618px; height: 164px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">北京邮电大学欧中洪教授、邵蓥侠副教授主持了优秀论文论坛。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><img src="/ueditor/php/upload/image/20231026/1698300979624821.jpg" title="1698300979624821.jpg" alt="1698300979624821.jpg" width="618" height="118" border="0" vspace="0" style="width: 618px; height: 118px;"></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">智能服务专委会2023年度全体委员会议</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;">2023年10月21日，智能服务专委会采用线上线下相结合的方式，举行了2023年度全体委员工作会议。会议由专委会秘书长李洪波主持，专委会主任杜军平教授做年度工作报告，总结了专委会一年来举办的各类活动，并介绍了2024年工作计划。本次专委会会议通过无记名投票方式，新增3名常委和40名委员。</span></p><p style="text-align: justify; line-height: 1.75em;"><span style="text-wrap: nowrap;"><br></span></p><p style="text-align: center; line-height: 1.75em;"><span style="text-wrap: nowrap;"><img src="/ueditor/php/upload/image/20231026/1698300990104717.jpg" title="1698300990104717.jpg" alt="1698300990104717.jpg" width="618" height="366" border="0" vspace="0" style="width: 618px; height: 366px;"></span></p>											</div>
+				</div>
+				<div class="articleBottomContainer" style="display: block;">
+					<!-- <div class="leftTopContainer">时间：2015年10月10日</div>
+					<div class="leftBottomContainer">地点：北京国家会议中心</div> -->
+					<div class="rightTopContainer">中国人工智能学会</div>
+					<div class="rightBottomContainer">2023年10月26日</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="externalLinkWrapper">
+	<div class="externalLinkContainer">
+		<div class="mainList externalLink">
+			<div class="listHeader">
+				<div class="module">友情链接</div>			
+			</div>
+			<ul>
+				<li>党政机关科协					<select name="" id="" onchange="change(this)">
+					<option value="">&nbsp;请选择</option>
+					<option value="https://www.12371.cn/">&nbsp;共产党员网&nbsp;</option><option value="http://dangshi.people.com.cn/">&nbsp;党史学习教育官网&nbsp;</option><option value="http://www.cast.org.cn/">&nbsp;中国科学技术协会&nbsp;</option><option value="https://www.cae.cn/">&nbsp;中国工程院&nbsp;</option><option value="https://www.cas.cn/">&nbsp;中国科学院&nbsp;</option><option value="http://www.mohrss.gov.cn/">&nbsp;人力资源部&nbsp;</option><option value="http://www.moa.gov.cn/">&nbsp;农业农村部&nbsp;</option><option value="https://www.ndrc.gov.cn/">&nbsp;国家发改委&nbsp;</option><option value="https://www.most.gov.cn/index.html">&nbsp;科技部&nbsp;</option><option value="https://www.miit.gov.cn/">&nbsp;工业和信息化部&nbsp;</option><option value="http://www.mca.gov.cn/">&nbsp;民政部&nbsp;</option><option value="http://www.gov.cn/">&nbsp;中国政府网&nbsp;</option>					</select>
+				</li><li>地方学会					<select name="" id="" onchange="change(this)">
+					<option value="">&nbsp;请选择</option>
+					<option value="http://www.hksair.org/">&nbsp;香港人工智能与机器人学会&nbsp;</option><option value="http://www.rzaai.cn/">&nbsp;日照市人工智能学会&nbsp;</option><option value="https://saai.net.cn/">&nbsp;深圳市人工智能学会&nbsp;</option><option value="http://www.zfai.org.cn/">&nbsp;浙江省人工智能学会&nbsp;</option><option value="https://www.tj.gov.cn/zmhd/hygqx/202104/t20210427_">&nbsp;天津市人工智能学会&nbsp;</option><option value="https://www.sdaai.org.cn/">&nbsp;山东省人工智能学会&nbsp;</option><option value="http://www.hnaai.cn/">&nbsp;湖南省人工智能学会&nbsp;</option><option value="http://haai.e-works.cn/">&nbsp;湖北省人工智能学会&nbsp;</option><option value="http://www.hnsrgznxh.com/">&nbsp;河南省人工智能学会&nbsp;</option><option value="http://www.fjai.org.cn/">&nbsp;福建省人工智能学会&nbsp;</option><option value="http://www.cqaai.cn/">&nbsp;重庆市人工智能学会&nbsp;</option><option value="http://www.jsai.org.cn/">&nbsp;江苏省人工智能学会&nbsp;</option><option value="http://hljai.cn/">&nbsp;黑龙江省人工智能学会&nbsp;</option><option value="http://aaai.net.cn/">&nbsp;安徽省人工智能学会&nbsp;</option><option value="http://www.haai.net/">&nbsp;海南省人工智能学会&nbsp;</option><option value="https://www.jlaai.cn/">&nbsp;吉林省人工智能学会&nbsp;</option><option value="http://m.gxaai.com/">&nbsp;广西人工智能学会&nbsp;</option>					</select>
+				</li><li>兄弟学会					<select name="" id="" onchange="change(this)">
+					<option value="">&nbsp;请选择</option>
+					<option value="http://www.cmes.org ">&nbsp;中国机械工程学会&nbsp;</option><option value="http://www.cis.org.cn">&nbsp;中国仪器仪表学会&nbsp;</option><option value="http://www.sae-china.org">&nbsp;中国汽车工程学会&nbsp;</option><option value="http://www.ces.org.cn">&nbsp;中国电工技术学会&nbsp;</option><option value="http://www.cie-info.org.cn">&nbsp;中国电子学会&nbsp;</option><option value="http://www.caa.org.cn">&nbsp;中国自动化学会&nbsp;</option><option value="http://www.agro-csam.org">&nbsp;中国农业机械学&nbsp;</option><option value="http://www.csmnt.org.cn">&nbsp;中国微米纳米技术学会&nbsp;</option><option value="http://www.csoe.org.cn">&nbsp;中国光学工程学会&nbsp;</option><option value="http://www.ctes.com.cn">&nbsp;中国纺织工程学会&nbsp;</option><option value="http://www.csaspace.org.cn">&nbsp;中国宇航学会&nbsp;</option><option value="http://www.csname.org.cn">&nbsp;中国造船工程学会&nbsp;</option><option value="http://www.china-csm.org">&nbsp;中国计量测试学会&nbsp;</option>					</select>
+				</li><li>国际组织					<select name="" id="" onchange="change(this)">
+					<option value="">&nbsp;请选择</option>
+					<option value="https://aaai.org/">&nbsp;AAAI&nbsp;</option><option value="https://ieeexplore.ieee.org/Xplore/home.jsp">&nbsp;IEEE&nbsp;</option><option value="https://www.acm.org/">&nbsp;ACM&nbsp;</option><option value="https://www.ijcai.org/">&nbsp;IJCAI&nbsp;</option>					</select>
+				</li><li>常务理事单位					<select name="" id="" onchange="change(this)">
+					<option value="">&nbsp;请选择</option>
+					<option value="https://www.armchina.com/">&nbsp;安谋科技（中国）有限公司&nbsp;</option><option value="http://home.baidu.com/">&nbsp;百度公司&nbsp;</option><option value="http://www.meituan.com">&nbsp;北京三快在线科技有限公司&nbsp;</option><option value="http://www.hhu.edu.cn">&nbsp;河海大学&nbsp;</option><option value="https://www.huawei.com/">&nbsp;华为技术有限公司&nbsp;</option><option value="https://xinghuo.xfyun.cn/">&nbsp;科大讯飞股份有限公司&nbsp;</option><option value="http://www.gosuncn.com/">&nbsp;高新兴科技集团股份有限公司&nbsp;</option><option value="http://www.nist.ac.cn/">&nbsp;南京金盾公共安全技术研究院有限公司&nbsp;</option><option value="https://www.360.net/">&nbsp;360政企安全集团&nbsp;</option><option value="https://www.hgcitech.com/">&nbsp;武汉华工智云科技有限公司&nbsp;</option><option value="https://www.sina.com.cn/">&nbsp;新浪网技术（中国）有限公司&nbsp;</option><option value="http://www.faw.com.cn/">&nbsp;中国第一汽车股份有限公司&nbsp;</option><option value="https://www.zte.com.cn/">&nbsp;中兴通讯股份有限公司&nbsp;</option><option value="https://www.antgroup.com/">&nbsp;蚂蚁科技集团股份有限公司&nbsp;</option><option value="https://www.niiddm.com">&nbsp;武汉数字化设计与制造创新中心有限公司&nbsp;</option>					</select>
+				</li><li>理事单位					<select name="" id="" onchange="change(this)">
+					<option value="">&nbsp;请选择</option>
+					<option value="https://www.hisense.com/">&nbsp;海信集团有限公司&nbsp;</option><option value="https://tech.pingan.com/">&nbsp;平安科技（深圳）有限公司&nbsp;</option><option value="http://www.dongshengai.com/index.html">&nbsp;东声（苏州）智能科技有限公司&nbsp;</option><option value="http://www.futong.com.cn/">&nbsp;北京富通东方科技有限公司&nbsp;</option><option value="http://www.lenovo.com.cn">&nbsp;联想（北京）有限公司&nbsp;</option><option value="https://cn.changhong.com/">&nbsp;四川长虹电器股份有限公司&nbsp;</option><option value="https://www.yiducloud.com.cn/index.html">&nbsp;医渡云（北京）技术有限公司&nbsp;</option><option value="http://www.naura.com">&nbsp;北方华创科技集团股份有限公司&nbsp;</option><option value="https://www.feixiangxingqiu.com/">&nbsp;北京飞象星球科技有限公司&nbsp;</option><option value="http://www.jqrjl.com">&nbsp;易显智能科技有限责任公司&nbsp;</option><option value="https://www.uniin.cn/">&nbsp;联通（广东）产业互联网有限公司&nbsp;</option>					</select>
+				</li><li>会员服务					<select name="" id="" onchange="change(this)">
+					<option value="">&nbsp;请选择</option>
+					<option value="http://dl.caai.cn/">&nbsp;数字图书馆&nbsp;</option><option value="https://www.caai.cn/index.php?s=/Home/Article/inde">&nbsp;会员注册&nbsp;</option><option value="https://www.caai.cn/index.php?s=/home/article/inde">&nbsp;个人会员会费说明&nbsp;</option><option value="https://www.caai.cn/index.php?s=/home/article/inde">&nbsp;单位会员会费说明&nbsp;</option><option value="https://www.caai.cn/index.php?s=/home/article/inde">&nbsp;分支活动申请表&nbsp;</option><option value="https://caai.aminer.cn/eb?id=600e2bd092c7f9be21b5d">&nbsp;学会智库&nbsp;</option>					</select>
+				</li><li>高校机构					<select name="" id="" onchange="change(this)">
+					<option value="">&nbsp;请选择</option>
+					<option value="https://www.fudan.edu.cn/">&nbsp;复旦大学&nbsp;</option><option value="https://www.zju.edu.cn/">&nbsp;浙江大学&nbsp;</option><option value="https://www.tsinghua.edu.cn/">&nbsp;清华大学&nbsp;</option><option value="https://www.bupt.edu.cn/">&nbsp;北京邮电大学&nbsp;</option><option value="https://www.pku.edu.cn/">&nbsp;北京大学&nbsp;</option>					</select>
+				</li>			</ul>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+//跳转到友情链接
+function change(obj){
+	if(obj.value.length > 0 ){
+		window.open(obj.value);
+	}
+}
+</script>
+
+<div style="display:none">
+<!--<script src="https://s22.cnzz.com/z_stat.php?id=1273359029&web_id=1273359029" language="JavaScript"></script>
+<script src="https://c.cnzz.com/core.php?web_id=1273359029&amp;t=z" charset="utf-8" type="text/javascript"></script>
+<a href="http://www.cnzz.com/stat/website.php?web_id=1273359029" target="_blank" title="站长统计">站长统计</a>-->
+</div>
+</div>
+	<!-- /主体 -->
+
+	<!-- 底部 -->
+	﻿
+    <!-- 底部
+    ================================================== -->
+<div class="fatFooter">
+	<div class="footContainer">
+		<p class="foot clear">
+			Copyright © 2010 中国人工智能学会 互联网ICP备案：<a href="https://beian.miit.gov.cn/" target="_blank" style="color: #FFF;">京ICP备06029423号-1</a><br>
+			地址: 北京市海淀区西土城路10号 邮编: 100876 技术支持: 010-62283919<br>
+			<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1273359029'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1273359029%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script><span id="cnzz_stat_icon_1273359029" class="zhandian"><a href="https://www.cnzz.com/stat/website.php?web_id=1273359029" target="_blank">站长统计</a><a href="https://www.cnzz.com/stat/website.php?web_id=1273359029" target="_blank"> |  今日IP[857] | 今日PV[9492] | 昨日IP[1557] |  昨日PV[33005] | 当前在线[395]</a></span><script src=" https://s22.cnzz.com/z_stat.php?id=1273359029&amp;online=1&amp;show=line" type="text/javascript"></script><script src="https://c.cnzz.com/c.js?web_id=1273359029&amp;show=line&amp;online=1&amp;t=z" charset="utf-8" type="text/javascript"></script>
+			</p>
+		<img src="/Public/Home/images/QRcode.png" alt="二维码">
+	</div>
+</div>
+
+
+
+<script src="/Public/Home/js/jquery.min.js" type="text/javascript"></script>
+<script src="/Public/Home/js/jquery.pager.js" type="text/javascript"></script>
+<script src="/Public/Home/js/flip.js" type="text/javascript"></script>
+<script src="/Public/Home/js/pager.js" type="text/javascript"></script>
+<script src="/Public/Home/js/slider.js" type="text/javascript"></script>
+<script src="/Public/Home/js/navFixed.js" type="text/javascript"></script>
+<script src="/Public/Home/js/notice.js" type="text/javascript"></script>
+<script type="text/javascript">
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?f1b9aef44b8656063724e8564c0924d0";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+$(".footContainer p span").addClass("zhandian");
+
+$(function(){
+	$('.swiper-slide').width($(window).width())
+    $('.swiper-wrapper').width(($('.swiper-slide').width())*($('.swiper-slide').length+2));
+	$(window).resize(function(){
+		$('.swiper-slide').width($(window).width())
+    	$('.swiper-wrapper').width(($('.swiper-slide').width())*($('.swiper-slide').length+2));
+	})
+    function swiperlunbo(){
+        $('.swiper-wrapper').stop().animate(
+       		{marginLeft:-($('.swiper-slide').width())},
+       		500,
+       		function(){
+				$('.swiper-wrapper').css('margin-left','0px');
+       			$('.swiper-wrapper div:first').remove().clone(true).appendTo('.swiper-wrapper');
+			})
+    };
+	//暂时关闭轮转
+	var swipertimer=setInterval(swiperlunbo,4000)
+    $('.swiper-button-next').click(function(){
+		clearInterval(swipertimer);
+        swiperlunbo()
+		clearInterval(swipertimer);
+    })
+    $('.swiper-button-prev').click(function(){
+		clearInterval(swipertimer);
+        $('.swiper-wrapper').css('margin-left',-($('.swiper-slide').width()));
+		$('.swiper-wrapper').animate({marginLeft:0},500);
+        $('.swiper-wrapper div:last').remove().clone(true).prependTo('.swiper-wrapper');
+		clearInterval(swipertimer);
+    })
+	$('.swiper-button-prev,.swiper-button-next').mouseout(function(){
+		clearInterval(swipertimer);
+		swipertimer=setInterval(swiperlunbo,4000)
+	})
+})
+</script>
+<style type="text/css">
+.zhandian {
+	color:#FFF;
+}
+.zhandian a
+{
+    color: #FFF;
+}
+</style>
+<script type="text/javascript">
+	var GG = $(".articleContent").find("span");
+	//var GGstring = GG.attr("style");
+	//console.log(GG.length);
+	if (GG.length > 0) {
+		$(".articleContent").find("span").each(function(index, e){
+			$(e).attr("style", $(e).attr("style").replaceAll("nowrap", "normal"));
+		});
+		//for (i = 0; i < GG.length; i++) {
+			//var spanG = $(".articleContent").find("span")[i];
+			//spanG.attr("style", spanG.attr("style").replaceAll("nowrap", "normal"));
+		//}
+		//GG.attr("style", GG.attr("style").replaceAll("nowrap", "normal"));
+		//console.log(GG.attr("style"));
+	}
+//弹出框展示
+/* var showPop = '';
+function load_popinfo(){
+	var dialog = $.dialog({
+		width:850,
+		height:350,
+		padding:20,
+		resize:false,
+		esc:true
+	});
+	//var title = $('#pop_info_title').html();
+	//var content = $('#pop_info_content').html();
+	var title = '';
+	var content = '<div style="overflow-y: auto;height: 340px;width:850px;"></div>';
+		
+	dialog.title(title);
+	dialog.content(content);
+	dialog.lock();
+}
+window.onload=function(){
+	if(showPop=='show'){
+		load_popinfo();
+	}
+} */
+var isopen1 = '';
+var isopen2 = '';
+if(isopen1 == '1'){
+	$("#msg_win2").show();
+	Message2.init();
+}
+if(isopen2 == '1'){
+	$("#msg_win3").show();
+	Message3.init();
+}
+</script>
+
+ <!-- 用于加载js代码 -->
+
+
+	<!-- /底部 -->
+</div>
+
+<style>#fatHeader:after{ transform: translateX(-1565px)}</style></body></html>

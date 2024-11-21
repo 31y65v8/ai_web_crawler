@@ -1,0 +1,707 @@
+<!DOCTYPE html><html><head>
+    <title>赠书 | 69个故事，带你了解100年人工智能历史—新闻—科学网</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="人工智能,《人工智能极简史》,张军平,复旦大学,[mynews.keys]">
+
+    <script language="javascript" type="text/javascript">
+		function showsize(sid)
+		{
+				document.getElementById("content"+1).style.fontSize=sid;
+				document.getElementById("content"+1).className='f'+sid;
+			
+		}
+		function showandhide(showid,hideid)
+        {
+         document.getElementById(showid).style.display="";
+         document.getElementById(hideid).style.display="none";
+          document.getElementById(showid+"1").style.background="#005007";
+         document.getElementById(hideid+"1").style.background="#787878";
+        }
+
+
+	
+
+    </script>
+    <style type="text/css">
+body { margin:0; padding:0; background:#e4e6df url(/images/a-b-mbr.jpg) repeat-y center top; text-align:center; font:13px Arial, Helvetica, sans-serif; }
+#wrap { margin:0 auto; text-align:left; width:970px; padding:0 0px; w\idth:970px;background:#ffffff}
+img { border:0; }
+td{font:13px 宋体}
+#header { width:100%; margin-top:5px;text-align:center; }
+#fielder {margin:0 auto; text-align:left; width:970px;}
+#fielderleft {width:450px; float: left;font:13px 宋体;color:#b41319;height:20px; text-align:right;margin-top:5px}
+#fielderright {width:520px; float: right;height:20px}
+#fielderleft a{font:13px 宋体;color:#b41319; text-decoration:none; }
+#main {margin:0 auto; text-align:left; width:960px; padding:0 4px;}
+#footer { width:100%; height:66px;margin-top:10px; clear:both; text-align:center; }
+ #foot1{text-align:center;background:#d7ceaa;color:#885f17;width:100%; height:30px;margin-top:10px;vertical-align:bottom}
+#foot1 a{font:12px 宋体, Helvetica, sans-serif;color:#885f17; text-decoration:none;}
+#mleft{float: left; width:680px}
+#mright{float: right; width:270px;text-align:left;}
+.html1{font:12px 宋体;color:#333333; text-decoration:none; }
+.html2{font:12px 宋体;color:#885f17; text-decoration:none; }
+#headerleft ul {text-align:left; width:456px;  margin:0; padding:0; list-style:none;  }
+#headerleft li{ margin-right: auto;display:inline;vertical-align:bottom;}
+#headerleft { float:left; width:456px; height:22px text-align:left; }
+#headerleft a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#headerright a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#head2{background:#ba1414;width:970px;bgcolor:#ba1414;margin-top:0px}
+textarea { font: 12px Arial, Helvetica, sans-serif; border:1px solid #333333; }
+.input{ font: 11px Arial, Helvetica, sans-serif; border:1px solid #333333;}
+.rblinput{ font: 11px Arial; border:0;width:30px}
+.ulclass{margin:8px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.ulclass li{display:inline;}
+.h1ulclass{margin:0px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.h1ulclass li{display:inline;}
+.plnum{width: 30px;color:#587c19;font:12px 宋体; text-align:center; font-weight:bold;margin-left:-14px}
+.highlight2{font-size:12px;color:#333333;text-decoration:none;}
+a:hover {
+	color: #ba1413;
+
+	text-decoration: underline;
+}
+a{ text-decoration:none;color:#333333;}
+#head1{width:970px;margin-top:0px}
+#head2 td{font:12px 宋体}
+#field8 a{font:13px 宋体;color:#fff; text-decoration:none;}
+#content1 a{color: #800000;}
+#content1 {font:14px 宋体;}
+img{max-width:600px}
+#field8 td{ height:20px;}
+.f12{font-size:12px；word-break: break-all;font:12px ;}
+.f14{font-size:14px；word-break: break-all;font:14px }
+.f16{font-size:16px；word-break: break-all;font:16px }
+.ifcomm{}
+.f12 p {font-size:12px；word-break: break-all;font:12px!important; }
+.f14 p {font-size:14px；word-break: break-all;font:14px!important; }
+.f16 p {font-size:16px；word-break: break-all;font:16px!important; }
+.bq{text-indent:0em;font-weight:bold;font-size:13px;border:solid 1px #333 ;padding:10px;}
+</style>
+<script type="text/javascript" src="/js/lazyload/jquery.min.js"></script>
+<script type="text/javascript" src="/js/lazyload/jquery.lazyload.js"></script>
+		<script type="text/javascript"> 
+			jQuery(document).ready( 
+			function($){ 
+				$("img").lazyload({ 
+					placeholder : "/js/lazyload/grey.gif", 
+					effect      : "fadeIn",
+					threshold : 200
+				}); 
+			}); 
+		</script> 
+</head>
+<body>
+   <div id="wrap">
+      <script src="/html/js/htmlnewshead.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+function browserRedirect() { 
+
+var sUserAgent= navigator.userAgent.toLowerCase(); 
+
+var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
+
+var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
+
+var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
+
+var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
+
+var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
+
+var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
+
+var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
+
+var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+
+if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
+
+ document.write("<div style='padding-left:4em'><a href=\"https://wap.sciencenet.cn/mobile.php?type=detail&cat=news&id=527574&mobile=1\" style='font-size:2em;color:#ba1413; line-height:2em;text-indent:4em'>点击此处切换为手机版网页</a></div>"); 
+  
+} else { 
+
+//window.location= '电脑网站地址'; 
+
+} 
+
+} 
+
+browserRedirect(); 
+
+</script>
+      <!--登录-->
+		<iframe src="https://blog.sciencenet.cn/plus.php?mod=iframelogin" style="width:970px; height:32px; " scrolling="no" frameborder="0"></iframe>
+            <!--导航-->
+           ﻿<link href="https://www.sciencenet.cn/css/indexhead.css" type="text/css" rel="stylesheet">
+     <div class="logo">
+          <div class="lg"><a href="https://news.sciencenet.cn/"><img src="/images/news.jpg" width="231" height="84" alt="科学网新闻频道"></a></div>
+		 <div class="rg02">
+		 <div class="rg"><span style="float:left;">
+                        <a href="https://www.sciencenet.cn/life/" style="color:#fff">生命科学</a> | 
+                        <a href="https://www.sciencenet.cn/medicine/" style="color:#fff">医学科学</a> | 
+                        <a href="https://www.sciencenet.cn/chemistry/" style="color:#fff">化学科学</a> | 
+                        <a href="https://www.sciencenet.cn/material/" style="color:#fff">工程材料</a> | 
+                        <a href="https://www.sciencenet.cn/information/" style="color:#fff">信息科学</a> | 
+                        <a href="https://www.sciencenet.cn/earth/" style="color:#fff">地球科学</a> | 
+                        <a href="https://www.sciencenet.cn/mathematics/" style="color:#fff">数理科学</a> | 
+                        <a href="https://www.sciencenet.cn/policy/" style="color:#fff">管理综合</a> </span> 
+		  <span style=" float:right;  "> <a href="https://blog.sciencenet.cn/blog-45-1064777.html" style="color:#fff">站内规定</a> | <a href="https://wap.sciencenet.cn/" style="color:#fff">手机版</a></span></div>
+          <div class="rg01"><span style="float:left;  ">
+               <a href="https://www.sciencenet.cn/">首页</a> | <a href="https://news.sciencenet.cn/">新闻</a> | <a href="https://blog.sciencenet.cn/blog.php">博客</a> | <a href="https://news.sciencenet.cn/ys/">院士</a> | <a href="https://talent.sciencenet.cn/">人才</a> | <a href="https://meeting.sciencenet.cn">会议</a> | <a href="https://fund.sciencenet.cn/">基金·项目</a> | <a href="https://paper.sciencenet.cn/">论文</a> | <a href="https://blog.sciencenet.cn/blog.php?mod=video">视频·直播</a> | <a href="https://paper.sciencenet.cn/AInews">小柯机器人</a> | <a href="https://kxxsh.sciencenet.cn/">医学科普</a>
+          </span>
+			  <div style="float:right; padding-left:0px;">
+				   <form style="display:inline" method="get" action="https://www.baidu.com/baidu" accept-charset="utf-8" name="f1">
+					  <input style=" width:100px;border:0" maxlength="40" size="31" name="word">
+					  <input type="submit" style="cursor:pointer; width:56px; font-size:12px; background-color:#880008; border-width:0px; height:16px; color:#fff;" value="本站搜索">
+					  <input type="hidden" value="2097152" name="ct">
+					  <input type="hidden" value="3" name="cl">
+					  <input type="hidden" value="news.sciencenet.cn" name="si">
+					  <input type="hidden" value="utf-8" name="ie">
+				  </form>
+			  </div>
+          </div></div>
+        </div> 
+
+        <div style="line-height: 10px; height: 10px; clear: both;  ">
+            &nbsp;</div>
+        <div id="main">
+            <div id="mleft">
+                <table border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+                    <tbody><tr>
+                        <td style="width: 680px;">
+                            <table id="content" style="border: solid 1px #bbc89b; width: 680px; text-align: center;
+                                background-color: #f8f9f4; table-layout:fixed">
+                                <tbody><tr>
+                                    <td align="left">
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 82%; font: 12px 宋体; float: left; ">
+                                             来源：科学网 发布时间：2024/8/3 20:56:18</div>
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 18%; font: 12px 宋体; float: right">
+                                            选择字号：<span onclick="showsize(12)" style="background-color: #587c19; color: #fff;
+                                                font-size: 12px; cursor: pointer">小</span> <span onclick="showsize(14)" style="background-color: #587c19;
+                                                    color: #fff; font-size: 12px; cursor: pointer">中</span> <span onclick="showsize(16)" style="background-color: #587c19; color: #fff; font-size: 12px; cursor: pointer">
+                                                        大</span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <div id="content1" style=" padding:15px; text-align: left; line-height: 24px;
+                                            word-wrap: break-word;word-break:break-all" class="f14">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody><tr>
+                                                    <td height="20">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px">
+                                                        <b></b></td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="style1" style="font-size: 22px; color: #587c19; font-family: 黑体;
+                                                        line-height: 30px">
+                                                        赠书 | 69个故事，带你了解100年人工智能历史</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px">
+                                                        <b></b></td>
+                                                </tr>
+                                            </tbody></table>
+                                            <p>&nbsp;</p><p style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;"><a class="hyperlinks" target="_blank" data-mce-href="https://shop337732.m.youzan.com/wscgoods/detail/3evcj828amapoz4?banner_id=ag.145564~goods.2~2~RzAg4qfV&amp;alg_id=0&amp;slg=allGoodList%2CsimpleSearch%2C9891281808%2CabTraceId&amp;rank_no=2&amp;rank_type=popular&amp;reft=1698288266388&amp;spm=ag.145564&amp;alias=3evcj828amapoz4&amp;shopAutoEnter=1&amp;is_share=1&amp;from_uuid=19342841262&amp;goodsImg=https%3A%2F%2Fimg01.yzcdn.cn%2Fupload_files%2F2023%2F10%2F17%2FFuiM4tz4YRAtlQpCpwXAqxZ85dHc.jpg&amp;sf=wx_sm&amp;share_cmpt=native_wechat&amp;is_silence_auth=1" href="https://shop337732.m.youzan.com/wscgoods/detail/3evcj828amapoz4?banner_id=ag.145564~goods.2~2~RzAg4qfV&amp;alg_id=0&amp;slg=allGoodList%2CsimpleSearch%2C9891281808%2CabTraceId&amp;rank_no=2&amp;rank_type=popular&amp;reft=1698288266388&amp;spm=ag.145564&amp;alias=3evcj828amapoz4&amp;shopAutoEnter=1&amp;is_share=1&amp;from_uuid=19342841262&amp;goodsImg=https%3A%2F%2Fimg01.yzcdn.cn%2Fupload_files%2F2023%2F10%2F17%2FFuiM4tz4YRAtlQpCpwXAqxZ85dHc.jpg&amp;sf=wx_sm&amp;share_cmpt=native_wechat&amp;is_silence_auth=1"></a><a class="hyperlinks" target="_blank" data-mce-href="https://shop337732.m.youzan.com/wscgoods/detail/3evcj828amapoz4?banner_id=ag.145564~goods.2~2~RzAg4qfV&amp;alg_id=0&amp;slg=allGoodList%2CsimpleSearch%2C9891281808%2CabTraceId&amp;rank_no=2&amp;rank_type=popular&amp;reft=1698288266388&amp;spm=ag.145564&amp;alias=3evcj828amapoz4&amp;shopAutoEnter=1&amp;is_share=1&amp;from_uuid=19342841262&amp;goodsImg=https%3A%2F%2Fimg01.yzcdn.cn%2Fupload_files%2F2023%2F10%2F17%2FFuiM4tz4YRAtlQpCpwXAqxZ85dHc.jpg&amp;sf=wx_sm&amp;share_cmpt=native_wechat&amp;is_silence_auth=1" href="https://shop337732.m.youzan.com/wscgoods/detail/3evcj828amapoz4?banner_id=ag.145564~goods.2~2~RzAg4qfV&amp;alg_id=0&amp;slg=allGoodList%2CsimpleSearch%2C9891281808%2CabTraceId&amp;rank_no=2&amp;rank_type=popular&amp;reft=1698288266388&amp;spm=ag.145564&amp;alias=3evcj828amapoz4&amp;shopAutoEnter=1&amp;is_share=1&amp;from_uuid=19342841262&amp;goodsImg=https%3A%2F%2Fimg01.yzcdn.cn%2Fupload_files%2F2023%2F10%2F17%2FFuiM4tz4YRAtlQpCpwXAqxZ85dHc.jpg&amp;sf=wx_sm&amp;share_cmpt=native_wechat&amp;is_silence_auth=1"></a><a class="hyperlinks" target="_blank" data-mce-href="https://shop337732.m.youzan.com/wscgoods/detail/3evcj828amapoz4?banner_id=ag.145564~goods.2~2~RzAg4qfV&amp;alg_id=0&amp;slg=allGoodList%2CsimpleSearch%2C9891281808%2CabTraceId&amp;rank_no=2&amp;rank_type=popular&amp;reft=1698288266388&amp;spm=ag.145564&amp;alias=3evcj828amapoz4&amp;shopAutoEnter=1&amp;is_share=1&amp;from_uuid=19342841262&amp;goodsImg=https%3A%2F%2Fimg01.yzcdn.cn%2Fupload_files%2F2023%2F10%2F17%2FFuiM4tz4YRAtlQpCpwXAqxZ85dHc.jpg&amp;sf=wx_sm&amp;share_cmpt=native_wechat&amp;is_silence_auth=1" href="https://shop337732.m.youzan.com/wscgoods/detail/3evcj828amapoz4?banner_id=ag.145564~goods.2~2~RzAg4qfV&amp;alg_id=0&amp;slg=allGoodList%2CsimpleSearch%2C9891281808%2CabTraceId&amp;rank_no=2&amp;rank_type=popular&amp;reft=1698288266388&amp;spm=ag.145564&amp;alias=3evcj828amapoz4&amp;shopAutoEnter=1&amp;is_share=1&amp;from_uuid=19342841262&amp;goodsImg=https%3A%2F%2Fimg01.yzcdn.cn%2Fupload_files%2F2023%2F10%2F17%2FFuiM4tz4YRAtlQpCpwXAqxZ85dHc.jpg&amp;sf=wx_sm&amp;share_cmpt=native_wechat&amp;is_silence_auth=1"></a>ChatGPT、Sora等不断升级，AI会不会超越人类？其短板极限在哪里？读完这本书，你或许能得到答案。</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">中国自动化学会普及工作<span class="errorText">委员</span>会主任、复旦大学计算机科学技术学院教授张军平的著作《人工智能极简史》，从古代传说讲起，用69个小故事描述人工智能近100年的历史。</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">张军平的主要研究方向包括人工智能、机器学习、图像处理、生物认证、智能交通及气象预测。至今发表论文200余篇，连续两年（2022、2023）入选全球前2%顶尖科学家榜单终身科学影响力排行榜。他的著作《爱犯错的智能体》曾获我国科普创作领域最高奖，即第六届中国科普作家协会优秀科普作品奖金奖。</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">学术之余，张军平对科普事业和个人创作也有极高热情。他常在科学网发布科普、科研相关博文，分享人工智能知识。此前，他曾将周杰伦的《Mojito》改编成《GPU的AI》，被朋友们戏称为“AI界的周杰伦”。</p> 
+<p style="text-align: center;"><img class="rich_pages wxw-img" data-imgfileid="509734391" data-ratio="0.6856240126382307" data-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253be4b03b5da6d14241.png" data-type="png" data-w="633" data-original-style="null" data-index="1" src="https://rmtzx.sciencenet.cn//kxwmam/66ae253be4b03b5da6d14241.png" _width="633px" alt="图片" data-fail="0" style="outline: 0px; vertical-align: bottom; height: auto !important; visibility: visible !important; width: 633px !important;" _src="https://rmtzx.sciencenet.cn//kxwmam/66ae253be4b03b5da6d14241.png" data-mce-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253be4b03b5da6d14241.png" id="img-null"></p> 
+<p style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">《人工智能极简史》作为张军平的第二本科普书，从历史的角度全面梳理人工智能发展脉络，引用古代传说、趣味典故、传奇人物等讲述人工智能的重要里程碑事件。作为科普读物，全书没有公式和代码，而是加入了生动的漫画，力求在不失趣味性的同时准确呈现知识内容。</p> 
+<p style="text-align: center;"><img class="rich_pages wxw-img" data-imgfileid="509734394" data-ratio="0.44590780809031044" data-src="https://rmtzx.sciencenet.cn//kxwmam/66ae2539e4b03b5da6d1423b.png" data-type="png" data-w="1063" data-original-style="null" data-index="2" src="https://rmtzx.sciencenet.cn//kxwmam/66ae2539e4b03b5da6d1423b.png" _width="677px" alt="图片" data-fail="0" style="outline: 0px; vertical-align: bottom; height: auto !important; visibility: visible !important; width: 661px !important;" _src="https://rmtzx.sciencenet.cn//kxwmam/66ae2539e4b03b5da6d1423b.png" data-mce-src="https://rmtzx.sciencenet.cn//kxwmam/66ae2539e4b03b5da6d1423b.png" id="img-null"></p> 
+<p style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">值得一提的是，这本书由陆汝钤<span class="errorText">院士</span>亲自作序，还得到了王耀南、郑南宁、潘云鹤3位院士的联袂推荐。同时，本书获19届文津奖提名图书，并入选2024年中国好书六一专榜和清华大学2024年暑假推荐书单。</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">读史可以明鉴，读AI可以知未来。智能时代，了解人工智能是每个人的必修课，《人工智能极简史》是不可错过的选择。</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;"><em>（本文有惊喜活动，免费赠书！赶时间的小伙伴可以直接拉到文末看活动规则）</em></p> 
+<p style="text-align: center;"><img class="rich_pages wxw-img" data-imgfileid="509734390" data-ratio="1.2653465346534654" data-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ae4b03b5da6d1423d.png" data-type="png" data-w="505" data-original-style="width: 294px;height: 372px;" data-index="3" src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ae4b03b5da6d1423d.png" _width="294px" alt="图片" data-fail="0" style="outline: 0px; vertical-align: bottom; height: auto !important; width: 294px !important; visibility: visible !important;" _src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ae4b03b5da6d1423d.png" data-mce-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ae4b03b5da6d1423d.png" id="img-null"></p> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;"> 
+ <strong>起源于人类共同的美好愿望</strong> 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  《列子·汤问篇》记载，在遥远的西周时代，民间就流传着一个关于“人形机器”的故事。周穆王西狩时，在遥远的昆仑山区偶遇一名叫偃师的匠人。偃师献给周穆王一个他制造的、几乎能以假乱真的舞者。以至于周穆王开始怀疑，偃师是请真人来跳舞，于是勃然大怒，要将偃师处决。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  偃师造人，唯难于心。偃师赶紧当场把舞者拆开。大家一看，原来这个舞者是由皮草、木头再刷上颜料制成。虽然五脏俱全，却都是假的，而如果去掉其中的器官，则舞者会失去相应的功能。 
+</section> 
+<section style="text-align: center;"> 
+ <img class="rich_pages wxw-img" data-imgfileid="509734392" data-ratio="0.8771186440677966" data-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ce4b03b5da6d14243.png" data-type="png" data-w="708" data-original-style="null" data-index="4" src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ce4b03b5da6d14243.png" _width="677px" alt="图片" data-fail="0" style="outline: 0px; vertical-align: bottom; height: auto !important; visibility: visible !important; width: 661px !important;" _src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ce4b03b5da6d14243.png" data-mce-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ce4b03b5da6d14243.png" id="img-null"> 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  而我国另一个人工智能相关的故事，则是东汉时期张衡发明的指南车，通过车里的齿轮转动来自动控制方向，以便让指南车上的木人始终保持出发时最初设置的、指示方向。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  而后，三国时期蜀汉的丞相诸葛亮曾发明了一种载重量达200千克左右的运输工具——木牛流马。从其民间仿制的形态和其所具有的军事意义来看，都可以视为美国Boston动力公司研发的大狗运输机器人的雏形版。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  这些故事被认为是世界上最早尝试过机器人制造的传说。也可以说是最早有记载的，人类对人工智能的梦想和思考。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;"> 
+ <strong>跨越百年的发展浪潮</strong> 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  人工智能研究从萌芽到发展，历经将近100年历史。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  专家认为，人工智能的历史应该从1936年“图灵机”的提出开始算起，提出这一概念的人正是计算机科学之父、英国科学家艾伦·图灵。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  1950年，图灵在期刊《心智》上发表论文《计算机器与智能》，这是人工智能领域的首篇论文。在这篇论文中，他首次提出了著名的“图灵测试”。在这个测试中，如果一个测试者无法判断和他进行交流的是一台机器还是一个人，或者把和他交流的机器当成了一个人，那么这台机器就通过了图灵测试，就可以认为它拥有了人工智能。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  时至今日，尚无真正能通过论文中提出的“图灵测试”的人工智能系统。 
+</section> 
+<section style="text-align: center;"> 
+ <img class="rich_pages wxw-img" data-imgfileid="509734393" data-ratio="0.8420348058902276" data-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ee4b03b5da6d14247.png" data-type="png" data-w="747" data-original-style="null" data-index="5" src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ee4b03b5da6d14247.png" _width="677px" alt="图片" data-fail="0" style="outline: 0px; vertical-align: bottom; height: auto !important; visibility: visible !important; width: 661px !important;" _src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ee4b03b5da6d14247.png" data-mce-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ee4b03b5da6d14247.png" id="img-null"> 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  1956年至1980年间，人工智能被正式命名并兴起研究热潮。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  在这一阶段，研究者们不仅成功地为这一领域赋予了“人工智能”的名称，还深入探索并揭示了神经元细胞作为智能基础单元的感知特性，凝炼了未来人工智能领域需要解决的问题。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  1955年8月，四位人工智能的先驱者，包括美国达特茅斯学院数学系助理教授约翰·麦卡锡、美国哈佛大学的马文·明斯基、美国公司IBM的纳撒尼尔·罗彻斯特和美国贝尔电话实验室的克劳德·香农，联合提交了一份带有“人工智能”字样的提案。这被认为是人工智能名词出现的时间点，标志着人类对智能模拟与增强的深刻认知与追求，也预示着未来无限可能性的开启。 
+</section> 
+<section style="text-align: center;"> 
+ <img class="rich_pages wxw-img" data-imgfileid="509734396" data-ratio="0.8850574712643678" data-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253be4b03b5da6d1423f.png" data-type="png" data-w="609" data-original-style="null" data-index="6" src="https://rmtzx.sciencenet.cn//kxwmam/66ae253be4b03b5da6d1423f.png" _width="609px" alt="图片" data-fail="0" style="outline: 0px; vertical-align: bottom; height: auto !important; visibility: visible !important; width: 609px !important;" _src="https://rmtzx.sciencenet.cn//kxwmam/66ae253be4b03b5da6d1423f.png" data-mce-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253be4b03b5da6d1423f.png" id="img-null"> 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  随后，美籍数理逻辑学家王浩就将《数学原理》中有关命题演算的全部220条定理都进行了证明，且程序在当时的IBM704计算机上仅用了3—5分钟就执行完成。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  1981年至2011年，人工智能进入成长期。新型训练方法让神经网络得以突破感知机不能求解异或问题的尴尬，成为人工智能主力军。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  1997年，我国学者吴文俊院士的几何定理的自动证明也在人工智能历史上具有里程碑意义，并获得了“Herbrand自动推理杰出成就奖”。 
+</section> 
+<section style="text-align: center;"> 
+ <img class="rich_pages wxw-img" data-imgfileid="509734397" data-ratio="0.7332624867162593" data-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ee4b03b5da6d14249.png" data-type="png" data-w="941" data-original-style="null" data-index="7" src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ee4b03b5da6d14249.png" _width="677px" alt="图片" data-fail="0" style="outline: 0px; vertical-align: bottom; height: auto !important; visibility: visible !important; width: 661px !important;" _src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ee4b03b5da6d14249.png" data-mce-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253ee4b03b5da6d14249.png" id="img-null"> 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  2006年，现代逻辑奠基人乔治·布尔的曾孙杰弗里·辛顿首次提出了深度网络的想法和实现的思路。此后，汽车无人驾驶、谷歌AI系统阿尔法狗、波士顿动力公司研发的机器人系列、生成对抗网络、知识图谱等也取得了令人瞩目的成绩。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  从2011年至今，人工智能发展一直处于第三次热潮中。这场热潮中，大批科研人员下海，希望形成更多能落地的科研成果。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  2022年11月底OpenAI开发的聊天机器人ChatGPT让机器与人的对话有了一次质的飞跃。而在2023年推出的Midjourney，在绘画的精细化和想象力上又上了一层楼。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  人工智能以技术与理论更新的堆叠为基石，逐渐由“量变”形成“质变”。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  对此，张军平在书中提醒到，要获得完全让人认同的、真正具有人类意识的智能体，可能需要人类重新找到一条完全不同于现在依赖于算力、大数据、大模型的技术路线。 
+</section> 
+<section style="text-align: center;"> 
+ <img class="rich_pages wxw-img" data-imgfileid="509734398" data-ratio="1.4322916666666667" data-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253de4b03b5da6d14245.png" data-type="png" data-w="576" data-original-style="null" data-index="8" src="https://rmtzx.sciencenet.cn//kxwmam/66ae253de4b03b5da6d14245.png" _width="576px" alt="图片" data-fail="0" style="outline: 0px; vertical-align: bottom; height: auto !important; visibility: visible !important; width: 576px !important;" _src="https://rmtzx.sciencenet.cn//kxwmam/66ae253de4b03b5da6d14245.png" data-mce-src="https://rmtzx.sciencenet.cn//kxwmam/66ae253de4b03b5da6d14245.png" id="img-null"> 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;"> 
+ <strong>未尽之路通向何方？</strong> 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  人工智能的进化之路，从“图灵机”的开创性构想逐渐走向智能化应用，自动识别、精准预测、虚拟形象、无人驾驶等新兴技术如雨后春笋般涌现，在我们的生活中无孔不入。但其仍面临着其技术的可解释性困境、安全挑战及道德伦理等议题。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  因此，本书对这一发展历程也并不仅停留在叙述层面，而是在每个重要的历史节点停下脚步，邀请读者一起思考人工智能的过去、现在和未来。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  让我们跟随作者的脚步，回溯人工智能的发展历程，深入探究人工智能对人类社会的深远影响，并思考人工智能未来的发展之路。以更加客观、科学的视角审视人工智能技术发展与应用，从而作出明智的判断。 
+</section> 
+<section style=";; margin: 0px 0px 26px;  text-align: justify; word-break: break-all;">
+  正如人工智能之父艾伦·图灵所说，这只是将来之事的前奏，也是未来之事的影子。人工智能正在改变世界，我们可以借助专业作者的著作，看懂人工智能发展之路，了解未来之势。 
+</section> 
+<p style=";; margin: 0px 0px 26px;  text-align: center; word-break: break-all;">即日起至2024年8月10日23点，</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: center; word-break: break-all;">读者在本文下方评论区</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: center; word-break: break-all;">发布您<strong>对人工智能的看法，或对其未来发展的期许</strong>。</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: center; word-break: break-all;">我们会根据评论内容，</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: center; word-break: break-all;">选取3名用户各赠送一本《人工智能极简史》</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: center; word-break: break-all;">获得赠书的用户将在</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: center; word-break: break-all;">8月12日—13日收到我们的通知，</p> 
+<p style=";; margin: 0px 0px 26px;  text-align: center; word-break: break-all;" class="">敬请留意！<a class="hyperlinks" data-mce-href="https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx55db64d265e84478&amp;redirect_uri=https%3A%2F%2Ftrade.youzan.com%2Fcommon%2Fwxauth371189&amp;response_type=code&amp;scope=snsapi_base&amp;state=https%3A%2F%2Fj.youzan.com%2F0_WeWA&amp;component_appid=wx7cd6227fafe53336#wechat_redirect" href="https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx55db64d265e84478&amp;redirect_uri=https%3A%2F%2Ftrade.youzan.com%2Fcommon%2Fwxauth371189&amp;response_type=code&amp;scope=snsapi_base&amp;state=https%3A%2F%2Fj.youzan.com%2F0_WeWA&amp;component_appid=wx7cd6227fafe53336#wechat_redirect" _href="https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx55db64d265e84478&amp;redirect_uri=https%3A%2F%2Ftrade.youzan.com%2Fcommon%2Fwxauth371189&amp;response_type=code&amp;scope=snsapi_base&amp;state=https%3A%2F%2Fj.youzan.com%2F0_WeWA&amp;component_appid=wx7cd6227fafe53336#wechat_redirect"></a></p> 
+<p style=";; margin: 0px 0px 26px;  word-break: break-all; text-align: center;" class=""><strong>科学网APP二维码及下载链接：</strong></p> 
+<p style=";; margin: 0px 0px 26px;  word-break: break-all;" class=""><strong></strong></p> 
+<div style="text-align: center;" class="ueditorOption ueditorOptionModel" contenteditable="true" id="0"> 
+ <img src="https://rmtzx.sciencenet.cn//kxwsprint/66ae350ae4b03b5da6d14251.png" data-wenge-id="114350" wosname="66ae350ae4b03b5da6d14251.png" size="29902" opaid="wenge-wxf7rsu8yu0/" data-mce-src="https://rmtzx.sciencenet.cn//kxwsprint/66ae350ae4b03b5da6d14251.png" id="img-null"> 
+</div> 
+<p style="text-align: center;"><a href="https://rmtzx.sciencenet.cn/app/kexuewang/openApp/openApp.html?appInfoId=100" class="lastPadding" _href="https://rmtzx.sciencenet.cn/app/kexuewang/openApp/openApp.html?appInfoId=100" style=";;  text-align: justify; white-space: normal;">https://rmtzx.sciencenet.cn/app/kexuewang/openApp/openApp.html?appInfoId=100</a></p> 
+<p style=";; margin: 0px 0px 26px;  word-break: break-all;" class=""><strong></strong><br></p> 
+<p style=";; margin: 0px 0px 26px;  word-break: break-all; text-align: center;" class="">您也可以扫描图片二维码下单</p> 
+<p style=";; margin: 0px 0px 26px;  word-break: break-all; text-align: center;" class=""><span style="color: rgba(0, 0, 0, 0.9); font-family: &quot;PingFang SC&quot;, system-ui, -apple-system, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px;">▽</span></p> 
+<p style=";; margin: 0px 0px 26px;  word-break: break-all;" class=""><span style="color: rgba(0, 0, 0, 0.9); font-family: &quot;PingFang SC&quot;, system-ui, -apple-system, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0.544px; text-align: center;"></span></p> 
+<div style="text-align: center;" class="ueditorOption ueditorOptionModel" contenteditable="true" id="0"> 
+ <span><img src="https://rmtzx.sciencenet.cn//kxwsprint/66ae25a7e4b03b5da6d1424b.jpg" data-wenge-id="114346" wosname="66ae25a7e4b03b5da6d1424b.jpg" size="662757" opaid="wenge-zovg1ftqcg0/" _src="https://rmtzx.sciencenet.cn//kxwsprint/66ae25a7e4b03b5da6d1424b.jpg" data-mce-src="https://rmtzx.sciencenet.cn//kxwsprint/66ae25a7e4b03b5da6d1424b.jpg" data-ratio="0.71" data-w="900" id="img-null"></span> 
+ <p></p> 
+ <section style="margin-right: 8px; margin-left: 8px; outline: 0px; color: rgba(0, 0, 0, 0.9); font-family: 'PingFang SC', system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;  letter-spacing: 0.544px; white-space: normal; text-align: center; line-height: 1.75em;"> 
+  <br style="outline: 0px; max-width: 100%;"> 
+ </section> 
+ <p></p> 
+ <span style="display:block;color: #999;font-size:14px;margin:0;text-align:center;line-height:20px;" class="img_caption" placeholder="请输入图说"><br></span> 
+</div> 
+<p style=";; margin: 0px 0px 26px;  word-break: break-all;" class="lastPadding"><br></p><div>&nbsp;</div><div style="text-indent:2em;color: #587c19;font-size:13px; ">特别声明：本文转载仅仅是出于传播信息的需要，并不意味着代表本网站观点或证实其内容的真实性；如其他媒体、网站或个人从本网站转载使用，须保留本网站注明的“来源”，并自负版权等法律责任；作者如果不希望被转载或者联系转载稿费等事宜，请与我们接洽。</div> 
+                                           
+                                            <div style="border-bottom: solid 1px #bfc89d; vertical-align: bottom; width: 100%;
+                                                height: 20px">
+                                            </div>
+                                            <div style="width: 100%; height: 20px; text-align: center; margin:10px">
+                                            <!-- JiaThis Button BEGIN -->
+<script src="/html/js/share.js" type="text/javascript"></script>
+<!-- JiaThis Button END -->
+                                            </div>
+                                            
+                                        </div>
+                                    </td>
+                                </tr>
+
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+                <div style="line-height: 10px; height: 10px; clear: both;">
+                        &nbsp;</div>
+                <div style=" vertical-align: bottom; width: 100%;
+                                             text-align:right">
+                                           
+
+
+             <div style="float:left"> 
+             
+             </div>
+                                        <form action="/html/mail.aspx" method="post" id="myform" style="float:right">
+                                       
+                                            <span onclick="javascript:window.print()" style="cursor: pointer; background-color: #587c19;
+                                                color: #fff;">&nbsp;打印&nbsp;</span> <span style="color: #587c19">发E-mail给：</span><input name="txtemail" type="text" value="" size="22" id="txtemail" style="background-color: #eeeee8">&nbsp;
+                                            <input type="hidden" id="myurl" name="myurl" runat="server" value="527574">
+                                            <input type="submit" value="" style="background-image: url(/images/go.gif); background-color: Transparent;
+                                                width: 30px; background-repeat: no-repeat; border-width: 0; height: 21px"></form>
+                                        &nbsp; &nbsp;&nbsp;
+                </div>
+               <div style="line-height: 20px; height: 20px; clear: both;">
+                        &nbsp;</div>
+                         <div style="color:#784704; text-align:left;clear: both;;display:none;" class="ifcomm">以下评论只代表网友个人观点，不代表科学网观点。&nbsp;</div>
+                <div style="border: solid 1px #bbc89b; width: 680px; text-align: center; background-color: #f8f9f4; color:#333333;;display:none;" class="ifcomm">
+                   <div id="commd">
+
+
+<title>
+	无标题页
+</title>
+
+    <form method="post" action="./c.aspx?id=527574&amp;com=1" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGQ1zLfMgEBlkCMN0+i1LrP+rWPcr9DZXN2KFTSLqDsYLw==">
+
+    <div>
+    
+    </div>
+    </form>
+
+
+
+</div>
+                     <div style="text-align:left;width: 94%;"><a href="/html/comment.aspx?id=527574" style="color:#ba1413; text-decoration:none"><img src="/images/newcomm.gif"></a></div>
+                    <div style="text-align:left;width: 94%;border-top: solid 0px #bfc89d" id="formcomm">
+                    
+                    <iframe src="/html/newscomm.aspx?nid=527574" style="margin: 0px;
+                    padding: 0px" frameborder="0" scrolling="no" height="160px" width="100%"></iframe>
+                   
+                    </div>
+                </div>
+               
+                </div>
+                <div id="mright">
+                
+                <script src="https://www.sciencenet.cn/field/js/news.js" type="text/javascript"></script>
+                    <!--相关新闻和相关论文-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" id="xgnews1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgnews','xgpaper')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关新闻</span></td>
+                            <td align="left" id="xgpaper1" style="background: #787878; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgpaper','xgnews')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关论文</span></td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="xgnews">
+                                    <ul class="ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="/htmlnews/2024/8/527573.shtm" class="highlight2" target="_blank">又一“大佬”回归学术，曾在两“大厂”做大模型</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="/htmlnews/2024/8/527565.shtm" class="highlight2" target="_blank">复旦大学揭牌神经调控与脑机接口研究中心</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="/htmlnews/2024/8/527510.shtm" class="highlight2" target="_blank">复旦上医副院长：卓越医师科学家≠只会写论文的医师</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="/htmlnews/2024/8/527498.shtm" class="highlight2" target="_blank">Perplexity AI与出版商启动收入共享计划</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="/htmlnews/2024/8/527480.shtm" class="highlight2" target="_blank">朱松纯：人工智能研究需由“理”向“心”转变</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="/htmlnews/2024/8/527469.shtm" class="highlight2" target="_blank">230万元/项，自然科学基金一专项项目指南发布</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="/htmlnews/2024/8/527454.shtm" class="highlight2" target="_blank">30万元/项，中国人工智能学会大模型专项名单公示</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="/htmlnews/2024/7/527287.shtm" class="highlight2" target="_blank">15所高校入选人工智能领域“101计划”建设委员会</a></li>
+</ul>
+
+                                   
+                                </div>
+                                <div id="xgpaper" style="display: none">
+                                   <ul class="ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="/htmlpaper/2024/7/2024722105624890109907.shtm" class="highlight2" target="_blank">人工智能预测光伏发电出力取得新进展</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="/htmlpaper/2024/7/2024712171047908108693.shtm" class="highlight2" target="_blank">FDE &nbsp;观点 ｜ 杨宗凯教授：利用人工智能赋能教与学</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="/htmlpaper/2024/7/20247713144051107737.shtm" class="highlight2" target="_blank">复旦大学报道功能性半导体光刻胶</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="/htmlpaper/2024/7/202471113458536106482.shtm" class="highlight2" target="_blank">人工智能帮你测谎？！当心强化偏见</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="/htmlpaper/2024/6/20246211312258105302.shtm" class="highlight2" target="_blank">如何识破人工智能在一本正经地瞎编乱造</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="/htmlpaper/2024/6/2024614165656822104651.shtm" class="highlight2" target="_blank">FCS 文章精要 | 复旦大学邱锡鹏教授团队：y-Tuning: 面向大规模预训练模型的一种基于标签表示学习的高效微调范式</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="/htmlpaper/2024/6/2024613185439213104477.shtm" class="highlight2" target="_blank">人工智能系统跟踪可食用设备的肠道运动</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="/htmlpaper/2024/6/20246716152374103595.shtm" class="highlight2" target="_blank">QB &nbsp;华中农业大学章文教授综述人工智能药物发现中的分子优化</a></li>
+</ul>
+
+                                   
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                  <script src="/html/js/n2.js" type="text/javascript"></script>
+                    <!--图片新闻-->
+                    
+                         ﻿<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" colspan="2" style="background-image: url(/images/lmsy_jbg_br.jpg);
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="/imgnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px">图片新闻</a></td>
+                        </tr>
+                        <tr>
+                            <td style="width: 100%; height: 8px; border-width: 1px; text-align: right;" colspan="2">
+                            </td>
+                        </tr><tr><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href="https://news.sciencenet.cn//htmlnews/2024/11/533930.shtm" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/20241113171117910.jpg" width="118" height="65" alt="天文学家找到最小恒星了吗"></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href="https://news.sciencenet.cn//htmlnews/2024/11/533882.shtm" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/20241113111417590.jpg" width="118" height="65" alt="超大容量变速抽蓄工程进入机电安装阶段"></a>
+</td>
+</tr><tr><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href="https://news.sciencenet.cn/https://blog.sciencenet.cn/blog-45-1458513.html" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/20241111163017600.jpg" width="118" height="65" alt="问答之间 | 如何开展科研之路"></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href="https://news.sciencenet.cn/https://blog.sciencenet.cn/blog-45-1459543.html" target="_blank"><img src="https://news.sciencenet.cn//upload/news/images/2024/11/202411111625575580.jpg" width="118" height="65" alt="研究生学位论文如何顺利通过外审和答辩"></a>
+</td>
+
+ 
+                        </tr><tr style="">
+                            <td style="width: 100%; border-width: 1px; text-align: right; height: 20px;" colspan="2">
+                                <a href="/imgnews.aspx" target="_blank" style="color: #3f6417">&gt;&gt;更多</a></td>
+                        </tr>
+                    </tbody></table>
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                        <script src="/html/js/n3.js" type="text/javascript"></script>
+                    <!--新闻排行和评论排行-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" id="zph1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 100%" onmouseover="showandhide('zph','yph')">
+                                <a href="/zphnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">一周新闻排行</a></td>
+                           
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="zph">
+                                    ﻿<ul class="h1ulclass">
+<li class="plnum">1</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533566.shtm" class="highlight2" target="_blank">预见未来：“天关”卫星“前传”</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">2</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533554.shtm" class="highlight2" target="_blank">第十八届中国青年科技奖拟表彰对象公示</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">3</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533763.shtm" class="highlight2" target="_blank">琚宜文获国际先进材料协会最高奖</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">4</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533611.shtm" class="highlight2" target="_blank">美国博士来中国找蛇，受聘高校并收获跨国爱情</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">5</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533658.shtm" class="highlight2" target="_blank">新型纳米水凝胶可增强免疫系统肿瘤杀伤力</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">6</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533573.shtm" class="highlight2" target="_blank">“背靠背”发现植物免疫激活新机制</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">7</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533693.shtm" class="highlight2" target="_blank">俄罗斯推迟3项重大科学项目</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">8</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533926.shtm" class="highlight2" target="_blank">解思深院士：豁达睿智的纳米科技先行者</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">9</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533593.shtm" class="highlight2" target="_blank">私人航空二氧化碳排放显著增加</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum">10</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2024/11/533654.shtm" class="highlight2" target="_blank">我国科学家荣获多项创新水研究国际奖项</a></li>
+</ul>
+
+ 
+                                   
+                                </div>
+                               
+                            </td>
+                        </tr>
+                    </tbody></table>
+                   
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                        <script src="/html/js/n4.js" type="text/javascript"></script>
+                    <!--博文精选-->
+                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a;">
+                        <tbody><tr>
+                            <td align="left" colspan="2" style="background:#a4934b url(/images/lmd_jby_mbr.jpg) no-repeat;
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="http://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="font: 13px 宋体; color: #fff;
+                                    font-weight: bold; line-height: 20px">编辑部推荐博文</a></td>
+                        </tr>
+                         <tr>
+                            <td colspan="2">
+                            <div>
+                                    ﻿<ul class="h1ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-45-1459543.html" class="highlight2" target="_blank">研究生学位论文如何顺利通过外审和答辩</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-45-1459239.html" class="highlight2" target="_blank">科学网2024年10月十佳博文榜单公布！</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-45-1458513.html" class="highlight2" target="_blank">问答之间 | 如何开展科研之路</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-299-1459927.html" class="highlight2" target="_blank">张海霞︱比有理想更重要的是在现实中实现它！</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-41174-1459924.html" class="highlight2" target="_blank">细菌注射到真菌能存活将会成为新研究范式</a></li>
+</ul>
+<ul class="ulclass">
+<li class="plnum"><img src="/images/t11.gif"></li><li><a href="https://blog.sciencenet.cn/blog-3612310-1459917.html" class="highlight2" target="_blank">Marie Curie</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="https://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="color: #567b1c; font-size: 12px">更多&gt;&gt;</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <div style="line-height: 10px; height: 15px; clear: both; ">
+                        &nbsp;</div>
+                     
+                    
+                    
+                </div>
+            </div>
+            <div id="footer">
+
+                <script src="/html/inc/foot.js" type="text/javascript"></script><script src="/html/jkong.aspx" type="text/javascript"></script><div id="foot1" style="height:90px;line-height:20px"><p style="margin-top:5px; clear:both"><a href="http://www.sciencenet.cn/aboutus.aspx" target="_blank">关于我们</a> | <a href="http://www.sciencenet.cn/shengming.aspx" target="_blank">网站声明</a> | <a href="http://www.sciencenet.cn/tiaokuang.aspx" target="_blank">服务条款</a> | <a href="http://www.sciencenet.cn/contact.aspx" target="_blank">联系方式</a> | <a href="https://www.sciencenet.cn/jubao.aspx" target="_blank">举报</a> | <a href="https://stimes.sciencenet.cn/">中国科学报社</a><br><a href="http://www.beian.miit.gov.cn" target="_blank">&nbsp;<span style="color:#4e5e10">京ICP备07017567号-12</span>&nbsp;</a><span style="color:#4e5e10;font:12px 宋体, Helvetica, sans-serif">互联网新闻信息服务许可证10120230008</span>&nbsp;<span style="color:#4e5e10;font:12px 宋体, Helvetica, sans-serif">京公网安备  11010802032783</span><br><span style="color:#4e5e10; font-size:12px;font-family: 宋体;">Copyright @ 2007-2024 中国科学报社 All Rights Reserved<br>地址：北京市海淀区中关村南一条乙三号&nbsp;电话：010-62580783 </span></p></div><p style="height:0px;display:none"><script src=" https://hm.baidu.com/h.js?cbf293a46e1e62385b889174378635f1" type="text/javascript"></script></p>
+
+            </div>
+        </div>
+
+<script src="https://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+//*******************
+
+ $.post("https://news.sciencenet.cn/html/c.aspx?id=527574&com=1" ,
+
+                 function (data) {
+                     if (data != "") {
+                        document.getElementById('commd').innerHTML=data;
+                     }
+                     
+                 });
+//******************
+var url=encodeURIComponent(location.href);
+ 
+  $.ajax({
+    type : "get",
+    url : "https://wap.sciencenet.cn/api/jssdk.php?url="+url,//替换网址，xxx根据自己jssdk文件位置修改
+    dataType : "jsonp",
+    jsonp: "callback",
+    jsonpCallback:"success_jsonpCallback",
+    success : function(data){
+        wx.config({
+	 debug: false,
+　　　　 appId: data.appId,
+　　　　 timestamp: data.timestamp,
+　　　　 nonceStr: data.nonceStr,
+　　　　 signature: data.signature,
+　　　　jsApiList: [
+       　　"onMenuShareTimeline", //分享给好友
+       　　"onMenuShareAppMessage", //分享到朋友圈
+       　　"onMenuShareQQ",  //分享到QQ
+       　　"onMenuShareWeibo" //分享到微博
+]
+});
+},
+   error:function(data){
+          
+     }
+});
+  wx.ready(function (){
+  var shareData = {
+  title: '科学网-赠书 | 69个故事，带你了解100年人工智能历史',
+  desc: '科学网-赠书 | 69个故事，带你了解100年人工智能历史',//这里请特别注意是要去除html
+  link:location.href,
+  imgUrl: 'https://news.sciencenet.cn/images/logo300.png'
+  };
+  wx.onMenuShareAppMessage(shareData);
+  wx.onMenuShareTimeline(shareData);
+  wx.onMenuShareQQ(shareData);
+  wx.onMenuShareWeibo(shareData);
+    });
+
+ window.onload = function(){
+		if (typeof WeixinJSBridge == "undefined"){
+		    if( document.addEventListener ){
+		        document.addEventListener('MenuShareTimeline', WeiXinShareBtn, false);
+		    }else if (document.attachEvent){
+		        document.attachEvent('MenuShareTimeline', WeiXinShareBtn); 
+		        document.attachEvent('onMenuShareTimeline', WeiXinShareBtn);
+		    }
+		}else{
+			//WeiXinShareBtn();
+		}
+	};
+</script>
+
+
+</body></html>

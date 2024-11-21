@@ -1,0 +1,10 @@
+Server: nginx
+Date: Thu, 14 Nov 2024 03:34:27 GMT
+Content-Type: text/html
+Referrer-Policy: strict-origin-when-cross-origin
+X-Permitted-Cross-Domain-Policies: master-only
+X-Download-Options: SAMEORIGIN
+X-Frame-Options: ALLOW-FROM  http://*.gov.cn/ https://*.gov.cn
+X-Xss-Protection: 1;mode=block
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors https://*.gov.cn  http://*.gov.cn http://zwfw.cq.gov.cn http://wmcs.devdemo.trs.net.cn http://www.ceirp.com:8888  http://183.64.111.243:28080 http://znwd.cqgxqzwzx.com:9090 http://mzj.cq12349.cn https://www.sczwfw.gov.cn https://cqjjqzwzx.cn https://ggfw.rlsbj.cq.gov.cn http://cq.12348.gov.cn/ http://gsxt.scjgj.cq.gov.cn/

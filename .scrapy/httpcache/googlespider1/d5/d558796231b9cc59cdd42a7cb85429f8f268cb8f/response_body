@@ -1,0 +1,1074 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+
+	    <meta name="title" content="在线课程：《人工智能在各行业的应用场景和案例》">
+    <meta name="description" content="">
+
+
+<meta property="og:title" content="在线课程：《人工智能在各行业的应用场景和案例》">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/">
+
+<meta property="og:description" content="">
+  <meta property="og:image" content="http://www.cbaia.org.uk/wp-content/uploads/2021/09/image-1.png">
+  <meta property="og:site_name" content="中英人工智能协会 China-Britain Artificial Intelligence Association">
+
+
+<!--HOME-->
+
+
+<!--Summary-->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/">
+<meta name="twitter:title" content="在线课程：《人工智能在各行业的应用场景和案例》">
+<meta name="twitter:description" content="">
+  <meta name="twitter:image" content="">
+    
+<!--Photo-->
+
+<!--Gallery-->
+
+<!--Product-->
+
+<link rel="pingback" href="https://www.cbaia.org.uk/xmlrpc.php"> 
+<title>在线课程：《人工智能在各行业的应用场景和案例》 – 中英人工智能协会 China-Britain Artificial Intelligence Association</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="中英人工智能协会 China-Britain Artificial Intelligence Association » Feed" href="https://www.cbaia.org.uk/feed/">
+<link rel="alternate" type="application/rss+xml" title="中英人工智能协会 China-Britain Artificial Intelligence Association » 评论 Feed" href="https://www.cbaia.org.uk/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="中英人工智能协会 China-Britain Artificial Intelligence Association » 在线课程：《人工智能在各行业的应用场景和案例》 评论 Feed" href="https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/feed/">
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v7.21.0 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+		<!-- Note: ExactMetrics is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the ExactMetrics settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cbaia.org.uk\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="wp-post-styling-css" href="https://www.cbaia.org.uk/wp-content/plugins/wp-post-styling/css/wp-post-styling.css" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.cbaia.org.uk/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="optimizer-style-css" href="https://www.cbaia.org.uk/wp-content/themes/optimizer_pro/style.css" type="text/css" media="all">
+<style id="optimizer-style-inline-css" type="text/css">
+#optimizer_front_about-3{ background-color: #ffffff!important; }#optimizer_front_about-3 .about_header, #optimizer_front_about-3 .about_pre, #optimizer_front_about-3 span.div_middle{color: #145893!important; }#optimizer_front_about-3 span.div_left, #optimizer_front_about-3 span.div_right{background-color: #145893!important; }#optimizer_front_about-3 .about_content{color: #202428!important; }#optimizer_front_about-3 .about_inner{width:60%;}  @media screen and (min-width: 480px){#optimizer_front_about-3 {}.frontpage_sidebar #optimizer_front_about-3 {width: calc(100% - 0px)!important;box-sizing:border-box;}   }
+#optimizer_front_blocks-4 .midrow{ background-color: #000000; }#optimizer_front_blocks-4 .midrow h3{color: #fcfcfc; }#optimizer_front_blocks-4 .midrow, #optimizer_front_blocks-4 .midrow a{color: #999999; }#optimizer_front_blocks-4 .blockimage .midrow_block.axn_block1{}#optimizer_front_blocks-4 .blockimage .midrow_block.axn_block2{}#optimizer_front_blocks-4 .blockimage .midrow_block.axn_block3{}#optimizer_front_blocks-4 .blockimage .midrow_block.axn_block4{}#optimizer_front_blocks-4 .blockimage .midrow_block.axn_block5{}#optimizer_front_blocks-4 .blockimage .midrow_block.axn_block6{}#optimizer_front_blocks-4 .block_header, #optimizer_front_blocks-4 .div_middle{color:#555555;}#optimizer_front_blocks-4 span.div_left, #optimizer_front_blocks-4 span.div_right{background-color: #555555}  @media screen and (min-width: 480px){#optimizer_front_blocks-4 .midrow{} .frontpage_sidebar  #optimizer_front_blocks-4 {width: calc(100% - 0px)!important;box-sizing:border-box;} }
+</style>
+<link rel="stylesheet" id="optimizer-style-core-css" href="https://www.cbaia.org.uk/wp-content/themes/optimizer_pro/style_core.css" type="text/css" media="all">
+<link rel="stylesheet" id="icons-css" href="https://www.cbaia.org.uk/wp-content/themes/optimizer_pro/assets/fonts/font-awesome.css" type="text/css" media="all">
+<link rel="stylesheet" id="animated_css-css" href="https://www.cbaia.org.uk/wp-content/themes/optimizer_pro/assets/css/animate.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="optimizer_google_fonts-css" href="//fonts.googleapis.com/css?family=Noto+Sans%3Aregular%2Citalic%2C700%7COpen+Sans%3Aregular%2Citalic%2C300%2C600%2C700%2C800%26subset%3Dlatin%2C" type="text/css" media="screen">
+<script type="text/javascript" src="https://www.cbaia.org.uk/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.cbaia.org.uk/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-migrate-js-after">
+/* <![CDATA[ */
+jQuery(document).ready(function(){   jQuery(".so-panel.widget").each(function (){   jQuery(this).attr("id", jQuery(this).find(".so_widget_id").attr("data-panel-id"))  });  });
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://www.cbaia.org.uk/wp-json/"><link rel="alternate" type="application/json" href="https://www.cbaia.org.uk/wp-json/wp/v2/posts/1785"><link rel="canonical" href="https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/">
+<link rel="shortlink" href="https://www.cbaia.org.uk/?p=1785">
+<link rel="alternate" type="application/json+oembed" href="https://www.cbaia.org.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cbaia.org.uk%2F2021%2F09%2F02%2F%25e5%259c%25a8%25e7%25ba%25bf%25e8%25af%25be%25e7%25a8%258b%25ef%25bc%259a%25e3%2580%258a%25e4%25ba%25ba%25e5%25b7%25a5%25e6%2599%25ba%25e8%2583%25bd%25e5%259c%25a8%25e5%2590%2584%25e8%25a1%258c%25e4%25b8%259a%25e7%259a%2584%25e5%25ba%2594%25e7%2594%25a8%25e5%259c%25ba%25e6%2599%25af%25e5%2592%258c%25e6%25a1%2588%25e4%25be%258b%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.cbaia.org.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cbaia.org.uk%2F2021%2F09%2F02%2F%25e5%259c%25a8%25e7%25ba%25bf%25e8%25af%25be%25e7%25a8%258b%25ef%25bc%259a%25e3%2580%258a%25e4%25ba%25ba%25e5%25b7%25a5%25e6%2599%25ba%25e8%2583%25bd%25e5%259c%25a8%25e5%2590%2584%25e8%25a1%258c%25e4%25b8%259a%25e7%259a%2584%25e5%25ba%2594%25e7%2594%25a8%25e5%259c%25ba%25e6%2599%25af%25e5%2592%258c%25e6%25a1%2588%25e4%25be%258b%2F&amp;format=xml">
+<style type="text/css">
+
+/*Fixed Background*/
+
+	/*BOXED LAYOUT*/
+	.site_boxed .layer_wrapper, body.home.site_boxed #slidera {width: 85%;float: left;margin: 0 7.5%;
+	background-color: #ffffff;}
+	.site_boxed .stat_bg, .site_boxed .stat_bg_overlay, .site_boxed .stat_bg img, .site_boxed .is-sticky .header{width:85%;}
+	.site_boxed .social_buttons{background-color: #ffffff;}
+	.site_boxed .center {width: 95%;margin: 0 auto;}
+	.site_boxed .head_top .center{ width:95%;}
+	/*Left Sidebar*/
+	@media screen and (min-width: 960px){
+	.header_sidebar.site_boxed #slidera, .header_sidebar.site_boxed .home_wrap.layer_wrapper, .header_sidebar.site_boxed .footer_wrap.layer_wrapper, .header_sidebar.site_boxed .page_wrap.layer_wrapper, .header_sidebar.site_boxed .post_wrap.layer_wrapper, .header_sidebar.site_boxed .page_blog_wrap.layer_wrapper, .header_sidebar.site_boxed .page_contact_wrap.layer_wrapper, .header_sidebar.site_boxed .page_fullwidth_wrap.layer_wrapper, .header_sidebar.site_boxed .category_wrap.layer_wrapper, .header_sidebar.site_boxed .search_wrap.layer_wrapper, .header_sidebar.site_boxed .fofo_wrap.layer_wrapper, .header_sidebar .site_boxed .author_wrap.layer_wrapper, .header_sidebar.site_boxed .head_top{width: calc(85% - 300px)!important;margin-left: calc(300px + 7.5%)!important;}
+	.header_sidebar.site_boxed .stat_bg_overlay, .header_sidebar.site_boxed .stat_bg{width: calc(85% - 300px)!important;left: 300px;}
+	
+	}
+
+
+
+/*Site Content Text Style*/
+body, input, textarea{ 
+	font-family:Noto Sans; 		}
+
+.single_metainfo, .single_post .single_metainfo a, a:link, a:visited, .single_post_content .tabs li a{ color:#7a7a7a;}
+body .listing-item .lt_cats a{ color:#7a7a7a;}
+
+.sidr-class-header_s.sidr-class-head_search i:before {font-family: 'FontAwesome', Noto Sans; ;}
+
+/*LINK COLOR*/
+.org_comment a, .thn_post_wrap a:not(.wp-block-button__link):link, .thn_post_wrap a:visited, .lts_lightbox_content a:link, .lts_lightbox_content a:visited, .athor_desc a:link, .athor_desc a:visited, .product_meta a:hover{color:#3590ea;}
+.org_comment a:hover, .thn_post_wrap a:link:hover, .lts_lightbox_content a:link:hover, .lts_lightbox_content a:visited:hover, .athor_desc a:link:hover, .athor_desc a:visited:hover{color:#1e73be;}
+
+
+
+/*-----------------------------Single Post Background------------------------------------*/
+/*----------------------------------------------------*/		
+
+
+.page_head, .author_div, .single.single_style_header .single_post_header{ background-color:#000000; color:#1dd3f7;text-align:center;}
+.page_head .postitle{color:#1dd3f7;}	
+.page_head .layerbread a, .page_head .woocommerce-breadcrumb{color:#1dd3f7;}	
+.single_post_header, .single.single_style_header .single_post_content .postitle, .single_style_header .single_metainfo, .single_style_header .single_metainfo i, .single_style_header .single_metainfo a{color:#1dd3f7;}
+
+
+
+
+/*-----------------------------Static Slider Content box------------------------------------*/
+.stat_content_inner .center{width:85%;}
+.stat_content_inner{bottom:4%; color:#ffffff;}
+
+/*SLIDER HEIGHT RESTRICT*/
+.static_gallery.nivoSlider, #zn_nivo{ max-height: 85vh!important;}
+#stat_img.stat_has_vid { max-height: 85vh!important; overflow: hidden;}
+.stat_bg img, .stat_bg, .stat_bg_img, .stat_bg_overlay{ height: 85vh!important; }
+
+
+
+/*SLIDER FONT SIZE*/
+#accordion h3 a, #zn_nivo h3 a{font-size:36px; line-height:1.3em}
+/*STATIC SLIDE CTA BUTTONS COLORS*/
+.static_cta1.cta_hollow, .static_cta1.cta_hollow_big, .static_cta1.cta_hollow_small, .static_cta1.cta_square_hollow, .static_cta1.cta_square_hollow_big, .static_cta1.cta_square_hollow_small{ background:transparent!important; color:#ffffff;}
+.static_cta1.cta_flat, .static_cta1.cta_flat_big, .static_cta1.cta_flat_small, .static_cta1.cta_rounded, .static_cta1.cta_rounded_big, .static_cta1.cta_rounded_small, .static_cta1.cta_hollow:hover, .static_cta1.cta_hollow_big:hover, .static_cta1.cta_hollow_small:hover, .static_cta1.cta_square, .static_cta1.cta_square_small, .static_cta1.cta_square_big, .static_cta1.cta_square_hollow:hover, .static_cta1.cta_square_hollow_small:hover, .static_cta1.cta_square_hollow_big:hover{ background:#36abfc!important; color:#ffffff; border-color:#36abfc!important;}
+
+
+.static_cta2.cta_hollow, .static_cta2.cta_hollow_big, .static_cta2.cta_hollow_small, .static_cta2.cta_square_hollow, .static_cta2.cta_square_hollow_big, .static_cta2.cta_square_hollow_small{ background:transparent!important; color:#ffffff;}
+.static_cta2.cta_flat, .static_cta2.cta_flat_big, .static_cta2.cta_flat_small, .static_cta2.cta_rounded, .static_cta2.cta_rounded_big, .static_cta2.cta_rounded_small, .static_cta2.cta_hollow:hover, .static_cta2.cta_hollow_big:hover, .static_cta2.cta_hollow_small:hover, .static_cta2.cta_square, .static_cta2.cta_square_small, .static_cta2.cta_square_big, .static_cta2.cta_square_hollow:hover, .static_cta2.cta_square_hollow_small:hover, .static_cta2.cta_square_hollow_big:hover{ background:#36abfc!important; color:#ffffff; border-color:#36abfc!important;}
+
+/*------------------------SLIDER HEIGHT----------------------*/
+/*Slider Height*/
+#accordion, #slide_acord, .accord_overlay{ height:500px;}
+.kwicks li{ max-height:500px;min-height:500px;}
+
+
+
+/*-----------------------------COLORS------------------------------------*/
+		/*Header Color*/
+		.header{ position:relative!important; background-color:#000000; 
+		background-image:url('http://www.cbaia.org.uk/wp-content/uploads/2019/07/bg_top_bw-1.jpg');		}
+		
+				.home.has_trans_header .header_wrap {float: left; position:relative;width: 100%;}
+		.home.has_trans_header .header{position: absolute!important;z-index: 999;}
+		
+		.home.has_trans_header .header, .home.has_trans_header.page.page-template-page-frontpage_template .header{ background-color:transparent!important; background-image:none;}
+		.home.has_trans_header .head_top{background-color: rgba(0, 0, 0, 0.3);}
+				
+		.header_sidebar .head_inner{background-color:#000000; background-image:url('http://www.cbaia.org.uk/wp-content/uploads/2019/07/bg_top_bw-1.jpg');}
+		
+				
+		/*Boxed Header should have boxed width*/
+		body.home.site_boxed .header_wrap.layer_wrapper{width: 85%;float: left;margin: 0 7.5%;}
+
+		.home.has_trans_header.page .header, .home.has_trans_header.page-template-page-frontpage_template .is-sticky .header{ background-color:#000000!important;}
+		@media screen and (max-width: 480px){
+		.home.has_trans_header .header{ background-color:#000000!important;}
+		}
+		
+				/*Sticky Header*/
+		.header{z-index: 9999;}
+		body .is-sticky .header{position: fixed!important;box-shadow: 0 0 4px rgba(0, 0, 0, 0.2); z-index:999!important;}
+				
+		.home .is-sticky .header, .page_header_transparent .is-sticky .header{ position:fixed!important; background-color:#000000!important;box-shadow: 0 0 4px rgba(0, 0, 0, 0.2)!important; transition-delay:0.3s; -webkit-transition-delay:0.3s; -moz-transition-delay:0.3s;}
+		
+		/*TOPBAR COLORS*/
+		.head_top, #topbar_menu ul li a{ font-size:15px;}
+		.head_top, .page_header_transparent .is-sticky .head_top, #topbar_menu #optimizer_minicart {background-color:#333333;}
+		#topbar_menu #optimizer_minicart{color:#ffffff;}
+		.page_header_transparent .head_top {  background: rgba(0, 0, 0, 0.3);}
+		.head_search, .top_head_soc a, .tophone_on .head_phone, .tophone_on .head_phone i, .tophone_on .head_phone a, .topsearch_on .head_phone a, .topsearch_on .head_search i, #topbar_menu ul li a, body.has_trans_header.home .is-sticky .head_top a, body.page_header_transparent .is-sticky .head_top a, body.has_trans_header.home .is-sticky #topbar_menu ul li a, body.page_header_transparent .is-sticky #topbar_menu ul li a, #topbar-hamburger-menu{color:#ffffff;}
+		.head_top .social_bookmarks.bookmark_hexagon a:before {border-bottom-color: rgba(255,255,255, 0.3)!important;}
+		.head_top .social_bookmarks.bookmark_hexagon a i {background-color:rgba(255,255,255, 0.3)!important;}
+		.head_top .social_bookmarks.bookmark_hexagon a:after { border-top-color:rgba(255,255,255, 0.3)!important;}
+		
+		/*LOGO*/
+				.logo h2, .logo h1, .logo h2 a, .logo h1 a{ 
+			font-family:'Open Sans'; 			font-size:36px;			color:#555555;
+		}
+		span.desc{font-size: 12px;}
+		body.has_trans_header.home .header .logo h2, body.has_trans_header.home .header .logo h1, body.has_trans_header.home .header .logo h2 a, body.has_trans_header.home .header .logo h1 a, body.has_trans_header.home span.desc, body.page_header_transparent .header .logo h2, body.page_header_transparent .header .logo h1, body.page_header_transparent .header .logo h2 a, body.page_header_transparent .header .logo h1 a, body.page_header_transparent span.desc, body.has_trans_header.home .head_top a{ color:#fff;}
+		body.has_trans_header .is-sticky .header .logo h2 a, body.has_trans_header .is-sticky .header .logo h1 a, body.page_header_transparent .is-sticky .header .logo h2 a, body.page_header_transparent .is-sticky .header .logo h1 a{color:#555555;}
+		#simple-menu, body.home.has_trans_header .is-sticky #simple-menu{color:#FFFFFF;}
+		body.home.has_trans_header #simple-menu{color:#fff;}
+		span.desc{color:#555555;}
+		body.has_trans_header.home .is-sticky span.desc, body.page_header_transparent .is-sticky span.desc{color:#555555;}
+		
+		body.has_trans_header.home .is-sticky .header .logo h2 a, body.has_trans_header.home .is-sticky .header .logo h1 a, body.page_header_transparent .is-sticky .header .logo h2 a, body.page_header_transparent .is-sticky .header .logo h1 a{color:#555555;}
+				
+		/*MENU Text Color*/
+		#topmenu ul li a, .header_s.head_search i{color:#FFFFFF;}
+		body.has_trans_header.home #topmenu ul li a, body.page_header_transparent #topmenu ul li a, body.page_header_transparent .head_top a, body.has_trans_header.home #topbar_menu ul li a, body.page_header_transparent #topbar_menu ul li a, .home.has_trans_header .head_soc .social_bookmarks a, .page_header_transparent .head_soc .social_bookmarks a{ color:#fff;}
+		body.header_sidebar.home #topmenu ul li a, #topmenu #optimizer_minicart{color:#FFFFFF;}
+		
+		#topmenu ul li ul li a:hover{ background-color:#0568bf; color:#d6d6d6;}
+		.head_soc .social_bookmarks a, .home.has_trans_header .is-sticky .head_soc .social_bookmarks a, .page_header_transparent .is-sticky .head_soc .social_bookmarks a{color:#FFFFFF;}
+		.head_soc .social_bookmarks.bookmark_hexagon a:before {border-bottom-color: rgba(255,255,255, 0.3)!important;}
+		.head_soc .social_bookmarks.bookmark_hexagon a i {background-color:rgba(255,255,255, 0.3)!important;}
+		.head_soc .social_bookmarks.bookmark_hexagon a:after { border-top-color:rgba(255,255,255, 0.3)!important;}
+		body.has_trans_header.home .is-sticky #topmenu ul li a, body.page_header_transparent .is-sticky #topmenu ul li a{color:#FFFFFF;}
+		
+		/*Menu Highlight*/
+		#topmenu li.menu_highlight_slim{ border-color:#FFFFFF;}
+		#topmenu li.menu_highlight_slim:hover{ background-color:#0568bf;border-color:#0568bf;}
+		#topmenu li.menu_highlight_slim:hover>a{ color:#d6d6d6!important;}
+		#topmenu li.menu_highlight{ background-color:#0568bf; border-color:#0568bf;}
+		#topmenu li.menu_highlight a, #topmenu li.menu_highlight_slim a{color:#d6d6d6!important;}
+		#topmenu li.menu_highlight:hover{border-color:#0568bf; background-color:transparent;}
+		#topmenu li.menu_highlight:hover>a{ color:#0568bf!important;}
+		
+		#topmenu ul li.menu_hover a{border-color:#ffffff;}
+		#topmenu ul.menu>li:hover:after{background-color:#ffffff;}
+		#topmenu ul li.menu_hover>a, body.has_trans_header.home #topmenu ul li.menu_hover>a, #topmenu ul li.current-menu-item>a[href*="#"]:hover{color:#ffffff;}
+		#topmenu ul li.current-menu-item>a, body.header_sidebar #topmenu ul li.current-menu-item>a, body.has_trans_header.header_sidebar .is-sticky #topmenu ul li.current-menu-item>a, body.page_header_transparent.header_sidebar .is-sticky #topmenu ul li.current-menu-item>a{color:#0166bf;}
+		#topmenu ul li.current-menu-item.onepagemenu_highlight>a, body.header_sidebar #topmenu ul li.menu_hover>a{color:#ffffff!important;}
+		#topmenu ul li ul li.current-menu-item.onepagemenu_highlight a { color: #FFFFFF!important;}
+		#topmenu ul li ul{border-color:#ffffff transparent transparent transparent;}
+
+		.logo_center_left #topmenu, .logo_center #topmenu{background-color:;}
+		.left_header_content, .left_header_content a{color:#FFFFFF;}
+
+
+		/*BASE Color*/
+		.widget_border, .heading_border, #wp-calendar #today, .thn_post_wrap .more-link:hover, .moretag:hover, .search_term #searchsubmit, .error_msg #searchsubmit, #searchsubmit, .optimizer_pagenav a:hover, .nav-box a:hover .left_arro, .nav-box a:hover .right_arro, .pace .pace-progress, .homeposts_title .menu_border, span.widget_border, .ast_login_widget #loginform #wp-submit, .prog_wrap, .lts_layout1 a.image, .lts_layout2 a.image, .lts_layout3 a.image, .rel_tab:hover .related_img, .wpcf7-submit, .nivoinner .slide_button_wrap .lts_button, #accordion .slide_button_wrap .lts_button, .img_hover, p.form-submit #submit, .contact_form_wrap, .style2 .contact_form_wrap .contact_button, .style3 .contact_form_wrap .contact_button, .style4 .contact_form_wrap .contact_button, .optimizer_front_slider #opt_carousel .slidee li .acord_text .slide_button_wrap a, .hover_topborder .midrow_block:before, .acord_text p a{background-color:#0568bf;} 
+		
+		.share_active, .comm_auth a, .logged-in-as a, .citeping a, .lay3 h2 a:hover, .lay4 h2 a:hover, .lay5 .postitle a:hover, .nivo-caption p a, .org_comment a, .org_ping a, .no_contact_map .contact_submit input, .contact_submit input:hover, .widget_calendar td a, .ast_biotxt a, .ast_bio .ast_biotxt h3, .lts_layout2 .listing-item h2 a:hover, .lts_layout3 .listing-item h2 a:hover, .lts_layout4 .listing-item h2 a:hover, .lts_layout5 .listing-item h2 a:hover, .rel_tab:hover .rel_hover, .post-password-form input[type~=submit], .bio_head h3, .blog_mo a:hover, .ast_navigation a:hover, .lts_layout4 .blog_mo a:hover{color:#0568bf;}
+		#home_widgets .widget .thn_wgt_tt, #sidebar .widget .thn_wgt_tt, #footer .widget .thn_wgt_tt, .astwt_iframe a, .ast_bio .ast_biotxt h3, .ast_bio .ast_biotxt a, .nav-box a span{color:#0568bf;}
+		.pace .pace-activity{border-top-color: #0568bf!important;border-left-color: #0568bf!important;}
+		.pace .pace-progress-inner{box-shadow: 0 0 10px #0568bf, 0 0 5px #0568bf;
+		  -webkit-box-shadow: 0 0 10px #0568bf, 0 0 5px #0568bf;
+		  -moz-box-shadow: 0 0 10px #0568bf, 0 0 5px #0568bf;}
+		
+		.fotorama__thumb-border, .ast_navigation a:hover{ border-color:#0568bf!important;}
+		
+		.hover_colorbg .midrow_block:before{ background-color:rgba(5,104,191, 0.3);}
+		
+		/*Text Color on BASE COLOR Element*/
+		.icon_round a, #wp-calendar #today, .moretag:hover, .search_term #searchsubmit, .error_msg #searchsubmit, .optimizer_pagenav a:hover, .ast_login_widget #loginform #wp-submit, #searchsubmit, .prog_wrap, .rel_tab .related_img i, .lay1 h2.postitle a, .nivoinner .slide_button_wrap .lts_button, #accordion .slide_button_wrap .lts_button, .lts_layout1 .icon_wrap a, .lts_layout2 .icon_wrap a, .lts_layout3 .icon_wrap a, .lts_layout1 .icon_wrap a:hover, .lts_layout2 .icon_wrap a:hover, .lts_layout3 .icon_wrap a:hover, .optimizer_front_slider #opt_carousel .slidee li .acord_text .slide_button_wrap a{color:#d6d6d6;}
+		.thn_post_wrap .listing-item .moretag:hover, body .lts_layout1 .listing-item .title, .lts_layout2 .img_wrap .optimizer_plus, .img_hover .icon_wrap a, #footer .widgets .widget .img_hover .icon_wrap a, body .thn_post_wrap .lts_layout1 .icon_wrap a, .wpcf7-submit, p.form-submit #submit, .optimposts .type-product a.button.add_to_cart_button, .optimposts .type-product span.onsale, .style2 .contact_form_wrap .contact_button, .style3 .contact_form_wrap .contact_button, .style4 .contact_form_wrap .contact_button, .lay3.portfolio_wrap .post_content .catag_list, .lay3.portfolio_wrap .post_content .catag_list a, .lay3.portfolio_wrap h2 a{color:#d6d6d6;}
+		.hover_colorbg .midrow_block:before, .hover_colorbg .midrow_block:hover .block_content, .hover_colorbg .midrow_block:hover h2, .hover_colorbg .midrow_block:hover h3, .hover_colorbg .midrow_block:hover h4, .hover_colorbg .midrow_block:hover a, .contact_form_wrap .contact_button, .contact_buttn_spinner, .acord_text p a{color:#d6d6d6!important;}		
+		
+
+
+
+
+/*Sidebar Widget Background Color */
+#sidebar .widget{ background-color:#f2f2f2;}
+/*Widget Title Color */
+#sidebar .widget .widgettitle, #sidebar .widget .widgettitle a{color:#515151;}
+#sidebar .widget li a, #sidebar .widget, #sidebar .widget .widget_wrap{ color:#001d47;}
+#sidebar .widget .widgettitle, #sidebar .widget .widgettitle a, #sidebar .home_title{font-size:16px;}
+
+#footer .widgets .widgettitle, #copyright a{color:#ffffff;}
+
+/*FOOTER WIDGET COLORS*/
+#footer{background-color: #222222; }
+#footer .widgets .widget a, #footer .widgets{color:#666666;}
+#footer .widgets .ast_scoial.social_style_round_text a span{color:#666666;}
+/*COPYRIGHT COLORS*/
+#copyright{background-color: #1c1c1c;  background-size: cover;}
+#copyright a, #copyright{color: #ffffff;}
+.foot_soc .social_bookmarks a{color:#ffffff}
+.foot_soc .social_bookmarks.bookmark_hexagon a:before {border-bottom-color: rgba(255,255,255, 0.3);}
+.foot_soc .social_bookmarks.bookmark_hexagon a i {background-color:rgba(255,255,255, 0.3);}
+.foot_soc .social_bookmarks.bookmark_hexagon a:after { border-top-color:rgba(255,255,255, 0.3);}
+
+
+
+/*-------------------------------------TYPOGRAPHY--------------------------------------*/
+
+
+/*Post Titles, headings and Menu Font*/
+h1, h2, h3, h4, h5, h6, #topmenu ul li a, .postitle, .product_title{ font-family:serif; }
+
+#topmenu ul li a, .midrow_block h3, .lay1 h2.postitle, .more-link, .moretag, .single_post .postitle, .related_h3, .comments_template #comments, #comments_ping, #reply-title, #submit, #sidebar .widget .widgettitle, #sidebar .widget .widgettitle a, .search_term h2, .search_term #searchsubmit, .error_msg #searchsubmit, #footer .widgets .widgettitle, .home_title, body .lts_layout1 .listing-item .title, .lay4 h2.postitle, .lay2 h2.postitle a, #home_widgets .widget .widgettitle, .product_title, .page_head h1{ text-transform:uppercase;}
+
+#topmenu ul li a{font-size:14px;}
+#topmenu ul li {line-height: 14px;}
+
+.single .single_post_content .postitle, .single-product h1.product_title, .single-product h2.product_title{font-size:32px;}
+
+.page .page_head .postitle, .page .single_post .postitle, .archive .single_post .postitle{font-size:32px;}
+
+
+
+/*Body Text Color*/
+body, .home_cat a, .comment-form-comment textarea, .single_post_content .tabs li a, .thn_post_wrap .listing-item .moretag{ color:#7a7a7a;}
+	
+	
+
+/*Post Title */
+.postitle, .postitle a, .nav-box a, h3#comments, h3#comments_ping, .comment-reply-title, .related_h3, .nocomments, .lts_layout2 .listing-item h2 a, .lts_layout3 .listing-item h2 a, .lts_layout4 .listing-item h2 a, .lts_layout5 .listing-item h2 a, .author_inner h5, .product_title, .woocommerce-tabs h2, .related.products h2, .lts_layout4 .blog_mo a, .optimposts .type-product h2.postitle a, .woocommerce ul.products li.product h3, .portfolio_wrap .hover_style_5 h2 a, .portfolio_wrap .hover_style_5 .post_content .catag_list a, .portfolio_wrap .hover_style_5 .post_content .catag_list{ text-decoration:none; color:#000000;}
+
+/*Headings Color in Post*/
+.thn_post_wrap h1, .thn_post_wrap h2, .thn_post_wrap h3, .thn_post_wrap h4, .thn_post_wrap h5, .thn_post_wrap h6{color:#666666;}
+
+
+
+
+
+
+
+
+
+
+.lay4 .ast_navigation .alignleft i:after, .lay5 .ast_navigation .alignleft i:after {content: "Previous Posts";}
+.lay4 .ast_navigation .alignright i:after, .lay5 .ast_navigation .alignright i:after {content: "Next Posts";}
+.lay4 .ast_navigation .alignleft i:after, .lay5 .ast_navigation .alignleft i:after , .lay4 .ast_navigation .alignright i:after, .lay5 .ast_navigation .alignright i:after{ font-family:Noto Sans;}
+
+
+.sidr{ background-color:#222222}
+
+
+@media screen and (max-width: 480px){
+body.home.has_trans_header .header .logo h1 a, body.home.has_trans_header .header .desc{ color:#555555!important;}
+body.home.has_trans_header .header #simple-menu, body.has_trans_header.home #topmenu ul li a{color:#FFFFFF!important;}
+}
+
+
+
+@media screen and (max-width: 1024px) and (min-width: 481px){.logobefore, .logoafter{width: calc(50% - 382px);} }
+
+
+/*CUSTOM FONT---------------------------------------------------------*/
+/*CUSTOM CSS*/
+.logo img { max-height: 70px; width:auto;}</style>
+
+<!--[if IE 9]>
+<style type="text/css">
+.text_block_wrap, .postsblck .center, .home_testi .center, #footer .widgets, .clients_logo img{opacity:1!important;}
+#topmenu ul li.megamenu{ position:static!important;}
+</style>
+<![endif]-->
+<!--[if IE]>
+#searchsubmit{padding-top:12px;}
+<![endif]-->
+    
+            
+<link rel="icon" href="https://www.cbaia.org.uk/wp-content/uploads/2019/07/cropped-Screen-Shot-2019-07-30-at-11.33.29-32x32.png" sizes="32x32">
+<link rel="icon" href="https://www.cbaia.org.uk/wp-content/uploads/2019/07/cropped-Screen-Shot-2019-07-30-at-11.33.29-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.cbaia.org.uk/wp-content/uploads/2019/07/cropped-Screen-Shot-2019-07-30-at-11.33.29-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.cbaia.org.uk/wp-content/uploads/2019/07/cropped-Screen-Shot-2019-07-30-at-11.33.29-270x270.png">
+<script src="https://www.cbaia.org.uk/wp-includes/js/wp-emoji-release.min.js" defer=""></script><style>#wpfront-scroll-top-container{display:none;position:fixed;cursor:pointer;z-index:9999;opacity:0}#wpfront-scroll-top-container div.text-holder{padding:3px 10px;border-radius:3px;-webkit-border-radius:3px;-webkit-box-shadow:4px 4px 5px 0 rgba(50,50,50,.5);-moz-box-shadow:4px 4px 5px 0 rgba(50,50,50,.5);box-shadow:4px 4px 5px 0 rgba(50,50,50,.5)}#wpfront-scroll-top-container a{outline-style:none;box-shadow:none;text-decoration:none}#wpfront-scroll-top-container {right: 20px;bottom: 20px;}        #wpfront-scroll-top-container img {
+            width: auto;
+            height: auto;
+        }
+        </style></head>
+
+<body class="post-template-default single single-post postid-1785 single-format-standard site_full has_trans_header soc_pos_footer has_sticky_header not_frontpage single_style_default elementor-default elementor-kit-2151  not-ios touchon pace-done"><div class="pace  pace-inactive"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+
+<!--HEADER-->
+	        <div class="header_wrap layer_wrapper">
+            
+<!--HEADER STARTS-->
+    <div id="sticky-wrapper" class="sticky-wrapper" style="height: 107px;"><div class="header logo_left has_mobile_hamburger " style="width: 1024px;">
+    
+    
+    <!--TOP HEADER-->
+        <!--TOP HEADER END-->
+        
+    
+        <div class="center">
+            <div class="head_inner">
+            <!--LOGO START-->
+                                                    <div class="logo  hide_sitetagline">
+                	
+					                    	                        <a class="logoimga" title="中英人工智能协会 China-Britain Artificial Intelligence Association" href="https://www.cbaia.org.uk/"><img src="http://www.cbaia.org.uk/wp-content/uploads/2019/07/cbaia_w.png" alt="中英人工智能协会 China-Britain Artificial Intelligence Association" width="362" height="131"></a>
+                                                <span class="desc logoimg_desc">China-Britain Artificial Intelligence Association</span>
+                        
+                                    </div>
+               
+            <!--LOGO END-->
+            
+            <!--MENU START--> 
+                            <!--MOBILE MENU START-->
+                                	<a id="simple-menu" class="" href="#sidr"><i class="fa fa-bars"></i></a>                	                                <!--MOBILE MENU END--> 
+                
+                
+                
+                
+                <div id="topmenu" class="menu_style_1 mobile_hamburger ">
+                <div class="menu-header"><ul id="menu-main" class="menu"><li id="menu-item-1656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1656"><a href="https://www.cbaia.org.uk/%e6%89%a7%e8%a1%8c%e5%a7%94%e5%91%98%e4%bc%9a/">执行理事会</a></li>
+<li id="menu-item-1657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1657"><a href="https://www.cbaia.org.uk/advisory-board/">顾问委员会</a></li>
+<li id="menu-item-1969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1969"><a href="https://www.cbaia.org.uk/category/%e5%8a%a8%e6%80%81/">动态</a></li>
+<li id="menu-item-1650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1650"><a href="https://www.cbaia.org.uk/category/%e6%b4%bb%e5%8a%a8/">活动</a></li>
+<li id="menu-item-1784" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1784"><a href="https://www.cbaia.org.uk/category/course/">课程培训</a></li>
+<li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a target="_blank" rel="noopener" href="https://www.cbaia.org.uk/join-cbaia/">加入我们</a></li>
+<li id="menu-item-1658-zh" class="lang-item lang-item-25 lang-item-zh current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1658-zh"><a href="https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/" hreflang="zh-CN" lang="zh-CN">中文</a></li>
+<li id="menu-item-1658-en" class="lang-item lang-item-28 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-1658-en"><a href="https://www.cbaia.org.uk/en/" hreflang="en-GB" lang="en-GB">Eng</a></li>
+<li id="menu-item-2016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2016"><a href="https://www.cbaia.org.uk/en/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2393"><a href="https://www.cbaia.org.uk/%e5%b7%a5%e4%bd%9c%e6%9c%ba%e4%bc%9a/">工作机会</a></li>
+</ul></div>                
+                
+                <!--LOAD THE HEADR SOCIAL LINKS-->
+					<div class="head_soc">
+						                    </div>
+                    
+              <!--Header SEARCH-->
+                <div class="header_s head_search headrsearch_off">
+                    <form role="search" method="get" action="https://www.cbaia.org.uk/" style="width: 0px;">
+                        <input placeholder="搜索..." type="text" value="" name="s" id="s">
+                    </form>
+                    <i class="fa fa-search" style="display: none;"></i>
+                </div>
+                
+                </div>
+                
+                
+                
+			            <!--MENU END-->
+            
+            <!--LEFT HEADER CONTENT-->
+                        
+            
+            </div>
+    </div>
+    </div></div>
+<!--HEADER ENDS-->        </div>
+        
+    
+<!--Header END-->
+
+	<!--Slider START-->
+	
+		 
+	
+      <!--Slider END-->
+
+<div class="post_wrap layer_wrapper">
+
+	<div id="content">
+        
+		<div class="center">
+           <!--POST START-->
+				           
+			<div class="single_wrap ">
+				<div class="single_post">
+
+                                       <div class="post-1785 post type-post status-publish format-standard hentry category-course" id="post-1785"> 
+
+                    <!--EDIT BUTTON START-->
+						    				<!--EDIT BUTTON END-->
+                    
+                    <!--POST START-->
+                        <div class="single_post_content has_share_pos_after">
+                        <!--FEATURED IMAGE-->
+                                                <!--FEATURED IMAGE END-->
+                        
+                        <!--POST TITLE START-->
+						                            <h1 class="postitle entry-title">在线课程：《人工智能在各行业的应用场景和案例》</h1>
+						                        <!--POST TITLE END-->
+                        
+                            <!--POST INFO START-->
+								                            <!--POST INFO END-->
+                            
+                            <!--SOCIAL SHARE POSTS START-->
+                                                                                        
+                              
+                            <!--SOCIAL SHARE POSTS END-->
+                            
+                            <!--POST CONTENT START-->
+                                <div class="thn_post_wrap">
+																			
+<p>2021年8月4日</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="750" height="422" src="http://www.cbaia.org.uk/wp-content/uploads/2021/09/image-1.png" alt="" class="wp-image-1787" srcset="https://www.cbaia.org.uk/wp-content/uploads/2021/09/image-1.png 750w, https://www.cbaia.org.uk/wp-content/uploads/2021/09/image-1-300x169.png 300w" sizes="(max-width: 750px) 100vw, 750px"></figure>
+
+
+
+<p>随着大数据、云计算、互联网、物联网等信息技术的发展，人工智能技术成功跨越科学与应用之间的“技术鸿沟”，如愿迎来发展的春天,医疗健康、设备制造、家电制造、智能驾驶、无人机、金融服务业…一系列具有广阔应用前景的人工智能技术相继突破从“不能用、不好用”到“可以用”的技术拐点，成为推动新一轮科技和产业革命的重要驱动力。</p>
+
+
+
+<p>本课程是由&nbsp;<em><strong>西利企源联合中英人工智能协会</strong></em>众多&nbsp;<strong><em>华人科学家&nbsp;</em></strong>共同打造的线上精品课程，将会对&nbsp;<em><strong>人工智能行业应用场景&nbsp;</strong></em>进行全方位的覆盖，以及对&nbsp;<em><strong>行业落地&nbsp;</strong></em>过程中的挑战与创新展开讨论。所有模块的课程内容均由在该领域有深入研究的学者或行业专家提供。</p>
+
+
+
+<p><strong>课程特色/课程价值</strong></p>
+
+
+
+<ul><li><em><strong>理论与实际&nbsp;</strong></em>——形成对人工智能历史、当下发展趋势、未来发展潜力以及本身的限制的理解，对人工智能的应用有更切实准确的预期。</li></ul>
+
+
+
+<ul><li><em><strong>研究与应用</strong></em>——师从领域内的中外名师，对话拥有海内外人工智能行业第一线实操经验的资深从业人员，学习前沿的人工智能科技，增强运用科技解决实际问题的能力。<br></li><li><em><strong>运营与战略</strong></em>——拓展人工智能应用的国际化视野，掌握人工智能在各行业的发展布局，进而制定可持续发展的人工智能企业战略，以运用于企业决策和企业的数字化转型。<br><br></li><li><em><strong>机遇与挑战</strong></em>——借鉴海外人工智能赋能企业转型的成功案例，关注运营和管理人工智能团队所带来商业机会的同时着眼于应对人工智能带来的挑战，成为未来在人工智能领域的商业领导者。</li></ul>
+
+
+
+<p><strong>课程受众</strong></p>
+
+
+
+<ul><li>各学科背景，未来有意向在人工智能、数字商业分析领域求职，渴望提升就业竞争力</li></ul>
+
+
+
+<ul><li>统计、商业分析、数据科学等专业的学生对人工智能领域有强烈兴趣的<br></li><li>有工作经验，想通过学习增强专业能力或转入人工智能领域的人群<br></li><li>处于企业智能化和数字化转型的关键阶段的企业与机构负责人<br></li><li>对于人工智能、大数据、云计算等新兴技术如何应用于各个行业及如何带来生产力和现代企业管理效率提升感兴趣的企业管理人员<br></li><li>希望了解人工智能赋能企业现状的银行、保险、资产管理等金融机构中高层管理人员<br></li></ul>
+
+
+
+<p><strong>内容大纲</strong></p>
+
+
+
+<p><strong>0</strong><strong>1</strong></p>
+
+
+
+<p><strong>系统了解人工智能方法与应用</strong></p>
+
+
+
+<p><strong>第0讲</strong>&nbsp; 引语：AI的意义在于行业应用</p>
+
+
+
+<p><strong>第1讲</strong>&nbsp;&nbsp;AI基本原理和发展史</p>
+
+
+
+<p><strong>第2讲</strong>&nbsp; AI典型方法和应用概述</p>
+
+
+
+<p><strong>第3讲</strong>&nbsp; 强化学习 – 像AlphaGo一样做投资决策</p>
+
+
+
+<p><strong>02</strong></p>
+
+
+
+<p><strong>人工智能在非金融产业中的应用</strong></p>
+
+
+
+<p><strong>第4讲</strong>&nbsp; 医疗健康企业如何应用AI掘金</p>
+
+
+
+<p><strong>第5讲</strong>&nbsp;&nbsp;边缘AI助力工业全产业链数字化升级</p>
+
+
+
+<p><strong>第6讲</strong>&nbsp; 人工智能在设备制造行业的应用</p>
+
+
+
+<p><strong>第7讲</strong>&nbsp; 人工智能在家电制造行业的应用</p>
+
+
+
+<p><strong>第8讲</strong>&nbsp; AI为汽车行业带来前所未有之变局</p>
+
+
+
+<p><strong>第9讲</strong>&nbsp; 智能驾驶的商业化之路</p>
+
+
+
+<p><strong>第10讲</strong>&nbsp; 人工智能在无人机的应用</p>
+
+
+
+<p><strong>第11讲&nbsp;</strong>&nbsp;关联分析 – 实体零售的第二春</p>
+
+
+
+<p><strong>第12讲</strong>&nbsp; 实体零售的数据革新和智能转型</p>
+
+
+
+<p><strong>第13讲</strong>&nbsp; 图分析与图谱 – 供应链智能2.0</p>
+
+
+
+<p><strong>03</strong></p>
+
+
+
+<p><strong>人工智能在金融服务业中的应用</strong></p>
+
+
+
+<p><strong>第14讲</strong>&nbsp; 自然语言处理 – 资本市场4.0一块金矿</p>
+
+
+
+<p><strong>第15讲</strong>&nbsp; 强化学习赋能知识图谱 – 打造智能金融基石</p>
+
+
+
+<p><strong>第16讲</strong>&nbsp;人工智能在金融衍生产品计价中的应用</p>
+
+
+
+<p><strong>第17讲&nbsp;</strong>人工智能在压力测试中的应用</p>
+
+
+
+<p><strong>第18讲</strong>&nbsp;使用人工智能优化金融资产配置组合</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="http://www.cbaia.org.uk/wp-content/uploads/2021/09/image-1.png" alt="This image has an empty alt attribute; its file name is image-1.png"></figure>
+
+
+
+<p><a href="https://appkztw21sd4869.h5.xiaoeknow.com/v1/goods/goods_detail/p_6108e205e4b0cce271b92f42?type=3">《人工智能在各行业的应用场景和案例》 (xiaoeknow.com)</a></p>
+
+
+
+<p> 课程<strong>报名</strong>咨询请扫图中二维码</p>
+
+
+
+<p> 课程<strong>合作</strong>请扫图中二维码联系或询问project@cbaia.org.uk </p>
+                                                                    </div>
+                                	<div style="clear:both"></div>
+                                <div class="thn_post_wrap wp_link_pages">
+									                                </div>
+                            <!--POST CONTENT END-->
+                            
+                            
+                            
+                            <!--POST FOOTER START-->
+                                <div class="post_foot">
+                                    <div class="post_meta">
+										                                     </div>
+                               </div>
+                           <!--POST FOOTER END-->
+                            
+                        <div class="share_foot share_pos_after ">
+									
+<div class="share_this social_square"> 
+   <div class="social_buttons">
+            
+    <span class="share_label">Share This</span>
+
+                <div class="lgn_fb">
+                        <a target="_blank" href="https://facebook.com/share.php?u=https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/&amp;amp;t=%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B%EF%BC%9A%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E5%90%84%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%92%8C%E6%A1%88%E4%BE%8B%E3%80%8B" title="在facebook共享"><i class="fa-facebook"></i></a>
+                </div>
+
+                <div class="lgn_twt">
+                    <a target="_blank" href="https://twitter.com/home?status=Reading:%20%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B%EF%BC%9A%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E5%90%84%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%92%8C%E6%A1%88%E4%BE%8B%E3%80%8B%20https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/" title="Tweet This"><i class="fa-twitter"></i></a>
+                </div>
+
+				<div class="lgn_gplus">
+                    <a target="_blank" title="Plus One This" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/"><i class="fa-google-plus"></i></a>
+                </div>
+
+                <div class="lgn_pin">
+                    <a target="_blank" title="Pin This" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i class="fa-pinterest"></i></a>
+                </div>
+
+                <div class="lgn_linkedin">
+                    <a target="_blank" title="在Linkedin共享" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/&amp;title=%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B%EF%BC%9A%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E5%90%84%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%92%8C%E6%A1%88%E4%BE%8B%E3%80%8B"><i class="fa-linkedin"></i></a>
+                </div>
+
+                <div class="lgn_stmbl">
+                     <a target="_blank" title="Stumble This" href="https://www.stumbleupon.com/submit?url=https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/&amp;title=%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B%EF%BC%9A%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E5%90%84%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%92%8C%E6%A1%88%E4%BE%8B%E3%80%8B"><i class="fa fa-stumbleupon"></i></a>
+                </div>
+
+                <div class="lgn_digg">
+                    <a target="_blank" href="https://digg.com/submit?phase=2&amp;amp;url=https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/&amp;amp;title=%E5%9C%A8%E7%BA%BF%E8%AF%BE%E7%A8%8B%EF%BC%9A%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E5%90%84%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%92%8C%E6%A1%88%E4%BE%8B%E3%80%8B" title="Digg This"><i class="fa fa-digg"></i></a>
+                </div>
+
+                <div class="lgn_email">
+                    <a target="_blank" onclick="window.location.href='mailto:?subject='+document.title+'&amp;body='+escape(window.location.href);" title="发送这个"><i class="fa fa-envelope-o"></i></a>
+                </div> 
+
+                <div class="lgn_print">
+                    <a target="_blank" onclick="window.print();" title="打印本页"><i class="fa fa-print"></i></a>
+                </div>    
+                
+                
+  </div>           
+</div>                                </div></div>
+                    <!--POST END-->
+                    </div>
+                        
+             
+       
+                        
+								<!--NEXT AND PREVIOUS POSTS START--> 
+												  
+        <div id="ast_nextprev" class="navigation ">
+        
+			<span class="div_middle"><i class="fa fa-stop"></i></span> 
+            
+                            <div class="nav-box ast-prev navbox-noimg">
+                                <a href="https://www.cbaia.org.uk/2021/08/29/%e5%af%b9%e8%af%9d%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%9c%ba%e5%99%a8%e4%ba%ba/" rel="prev"><i class="fa fa-angle-left"></i>前一篇帖子<br><span>【研究员云分享会】对话人工智能机器人</span></a>                  <div class="prev_cat_name">
+                  <a href="https://www.cbaia.org.uk/category/course/" rel="category tag">课程培训</a>                  </div>
+                </div>
+                                        <div class="nav-box ast-next navbox-noimg">
+                                <a href="https://www.cbaia.org.uk/2021/09/02/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e7%9a%84%e5%ba%95%e5%b1%82%e9%80%bb%e8%be%91%e4%b8%8e%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%ef%bc%88%e5%88%9d%e7%ba%a7%ef%bc%89/" rel="next"><i class="fa fa-angle-right"></i>下一篇帖子<br><span>人工智能的底层逻辑与应用场景（初级）</span></a>                  <div class="next_cat_name">
+                  <a href="https://www.cbaia.org.uk/category/course/" rel="category tag">课程培训</a>                  </div>
+                </div>
+                    </div>
+                                                            <!--NEXT AND PREVIOUS POSTS END-->          
+                                
+                <!--ABOUT AUTHOR BOX-->
+				   
+                <!--ABOUT AUTHOR BOX END-->
+        
+            <!--RELATED POSTS START-->   
+				                    
+    <div id="ast_related_wrap" class="">
+    	<!--Related Posts Title-->
+    	<h3 class="related_h3">相关帖子</h3><span class="widget_border"></span>
+        
+    <!--RELATED POSTS START-->    
+    <div id="ast_related">
+		<div class="panel-container rel_eq">        <div id="rel_1820" class="rel_tab">
+        
+                                                <div class="related_img">
+                        <a href="https://www.cbaia.org.uk/2021/09/15/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e4%b8%8e%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e8%bf%9b%e9%98%b6%e7%8f%ad/" rel="bookmark" title="人工智能机器学习与应用场景进阶班" class="hasimg">
+                            <i class="fa-plus"></i>
+                            <img alt="人工智能机器学习与应用场景进阶班" src="http://www.cbaia.org.uk/wp-content/uploads/2021/10/image.png">
+                        </a>
+                        </div>
+						<a class="rel_hover" href="https://www.cbaia.org.uk/2021/09/15/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e4%b8%8e%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e8%bf%9b%e9%98%b6%e7%8f%ad/" rel="bookmark" title="人工智能机器学习与应用场景进阶班">人工智能机器学习与应用场景进阶班</a>
+                        
+                                
+        
+        </div>
+        
+                        <div id="rel_1796" class="rel_tab">
+        
+                                                <div class="related_img">
+                        <a href="https://www.cbaia.org.uk/2021/09/02/%e7%ae%97%e6%b3%95%e5%8f%8a%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84%e5%ae%9e%e6%88%98%e7%8f%ad%ef%bc%88%e5%88%9d%e3%80%81%e4%b8%ad%e7%ba%a7%ef%bc%89/" rel="bookmark" title="算法及数据结构实战班（初、中级）" class="hasimg">
+                            <i class="fa-plus"></i>
+                            <img alt="算法及数据结构实战班（初、中级）" src="http://www.cbaia.org.uk/wp-content/uploads/2021/09/算法课程海报-740x1024.jpg">
+                        </a>
+                        </div>
+						<a class="rel_hover" href="https://www.cbaia.org.uk/2021/09/02/%e7%ae%97%e6%b3%95%e5%8f%8a%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84%e5%ae%9e%e6%88%98%e7%8f%ad%ef%bc%88%e5%88%9d%e3%80%81%e4%b8%ad%e7%ba%a7%ef%bc%89/" rel="bookmark" title="算法及数据结构实战班（初、中级）">算法及数据结构实战班（初、中级）</a>
+                        
+                                
+        
+        </div>
+        
+                        <div id="rel_1790" class="rel_tab">
+        
+                                                <div class="related_img">
+                        <a href="https://www.cbaia.org.uk/2021/09/02/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e7%9a%84%e5%ba%95%e5%b1%82%e9%80%bb%e8%be%91%e4%b8%8e%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%ef%bc%88%e5%88%9d%e7%ba%a7%ef%bc%89/" rel="bookmark" title="人工智能的底层逻辑与应用场景（初级）" class="hasimg">
+                            <i class="fa-plus"></i>
+                            <img alt="人工智能的底层逻辑与应用场景（初级）" src="http://www.cbaia.org.uk/wp-content/uploads/2021/09/IMG_5857-410x1024.jpg">
+                        </a>
+                        </div>
+						<a class="rel_hover" href="https://www.cbaia.org.uk/2021/09/02/%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e7%9a%84%e5%ba%95%e5%b1%82%e9%80%bb%e8%be%91%e4%b8%8e%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%ef%bc%88%e5%88%9d%e7%ba%a7%ef%bc%89/" rel="bookmark" title="人工智能的底层逻辑与应用场景（初级）">人工智能的底层逻辑与应用场景（初级）</a>
+                        
+                                
+        
+        </div>
+        
+                        <div id="rel_496" class="rel_tab">
+        
+                                                <div class="related_img">
+                        <a href="https://www.cbaia.org.uk/2019/05/21/%e5%8c%97%e5%a4%a7%e9%ab%98%e7%ae%a1%e5%9f%b9%e8%ae%ad%e8%af%be%e7%a8%8b/" rel="bookmark" title="协会与北京大学汇丰商学院英国校区成功开设高管培训课程" class="hasimg">
+                            <i class="fa-plus"></i>
+                            <img alt="协会与北京大学汇丰商学院英国校区成功开设高管培训课程" src="http://www.cbaia.org.uk/wp-content/uploads/2019/06/IMG_7968-1-1024x683.jpg">
+                        </a>
+                        </div>
+						<a class="rel_hover" href="https://www.cbaia.org.uk/2019/05/21/%e5%8c%97%e5%a4%a7%e9%ab%98%e7%ae%a1%e5%9f%b9%e8%ae%ad%e8%af%be%e7%a8%8b/" rel="bookmark" title="协会与北京大学汇丰商学院英国校区成功开设高管培训课程">协会与北京大学汇丰商学院英国校区成功开设高管培训课程</a>
+                        
+                                
+        
+        </div>
+        
+                </div>    	</div>
+        <!--RELATED POSTS END--> 
+        
+	</div>                    
+            <!--RELATED POSTS END-->
+
+            <!--COMMENT START: Calling the Comment Section. If you want to hide comments from your posts, remove the line below-->     
+				 
+            <!--COMMENT END-->
+
+
+			</div>
+	</div>
+            
+            <!--SIDEBAR START--> 
+                        	
+    <!--HOME SIDEBAR STARTS--> 
+        <!--HOME SIDEBAR ENDS-->
+            
+    <!--PAGE SIDEBAR STARTS-->
+         <!--PAGE SIDEBAR ENDS-->
+     
+    <!--SINGLE SIDEBAR STARTS-->
+    					                <div id="sidebar" class="single_sidebar custom_sidebar ">
+                    <div class="widgets">          
+                            
+		<div id="recent-posts-4" class="widget_col_ widget_visbility_ widget widget_recent_entries" data-widget-id="recent-posts-4"><div class="widget_wrap">
+		<h4 class="widgettitle">近期文章</h4><span class="widget_border"></span>
+		<ul>
+											<li>
+					<a href="https://www.cbaia.org.uk/2024/07/07/cbaia-%e7%a0%94%e7%a9%b6%e5%91%98%e5%88%86%e4%ba%ab%e4%bc%9a-ai-%e8%a1%8c%e4%b8%9a%e5%ba%94%e7%94%a8/"><i class="fa-angle-double-right" style="opacity: 0.5;"></i> CBAIA 研究员分享会 – AI 行业应用</a>
+									</li>
+											<li>
+					<a href="https://www.cbaia.org.uk/2024/05/04/%e6%ac%a7%e6%b4%b2%e5%8d%8e%e4%ba%ba%e5%be%8b%e5%b8%88%e5%8d%8f%e4%bc%9a%e5%b9%b4%e4%bc%9a%e6%9a%a8%e4%b8%ad%e8%8b%b1%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%8d%8f%e4%bc%9aai%e6%b3%95-2/"><i class="fa-angle-double-right" style="opacity: 0.5;"></i> 欧洲华人律师协会年会暨中英人工智能协会“AI+法律+投融资”论坛圆满落幕</a>
+									</li>
+											<li>
+					<a href="https://www.cbaia.org.uk/2024/04/21/%e3%80%8a%e6%98%93%e7%bb%8f%e3%80%8b%e7%9a%84%e6%9d%a5%e9%be%99%e5%8e%bb%e8%84%89%e5%8f%8a%e5%85%b6%e7%a7%91%e5%ad%a6%e5%8e%9f%e7%90%86/"><i class="fa-angle-double-right" style="opacity: 0.5;"></i> 《易经》的来龙去脉及其科学原理</a>
+									</li>
+											<li>
+					<a href="https://www.cbaia.org.uk/2023/12/06/%e6%b5%b7%e8%a7%92%e7%a7%91%e6%8a%80%e4%b9%8b2023%e5%b9%b4cbaia%e7%a7%91%e6%8a%80%e5%88%9b%e4%b8%9a%e8%80%85%e5%9c%a3%e8%af%9e%e4%ba%a4%e6%b5%81%e4%bc%9a%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e/"><i class="fa-angle-double-right" style="opacity: 0.5;"></i> 海角科技之2023年CBAIA科技创业者圣诞交流会成功举办</a>
+									</li>
+											<li>
+					<a href="https://www.cbaia.org.uk/2023/07/02/%e5%8a%a9%e5%8a%9b%e5%8c%97%e8%b7%a8%ef%bc%8c%e8%bf%99%e5%9c%ba%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e8%ae%ba%e5%9d%9b%e4%b8%8d%e4%b8%80%e8%88%ac%ef%bc%81/"><i class="fa-angle-double-right" style="opacity: 0.5;"></i> 助力北跨，这场人工智能论坛不一般！</a>
+									</li>
+					</ul>
+
+		<span class="widget_corner"></span></div></div>                     </div>
+                 </div>
+                        <!--SINGLE SIDEBAR ENDS--> 
+
+             
+            <!--SIDEBAR END--> 
+
+
+
+		</div><!--center class END-->
+	</div><!--#content END-->
+</div><!--layer_wrapper class END-->
+
+
+		
+    <a class="to_top "><i class="fa-angle-up fa-2x"></i></a>
+    
+
+<!--Footer Start-->
+<div class="footer_wrap layer_wrapper ">
+
+    <div id="footer">
+        <div class="center">
+                    <!--Footer Widgets START-->
+            <div class="widgets">
+                <ul>
+                    <li id="text-10" class="widget_col_1 widget_visbility_1 widget widget_text" data-widget-id="text-10"><div class="widget_wrap"><h4 class="widgettitle">Partners / 合作伙伴</h4>			<div class="textwidget"><p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1989" src="http://www.cbaia.org.uk/wp-content/uploads/2022/04/Picture1.png" alt="" width="164" height="133"></p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1988" src="http://www.cbaia.org.uk/wp-content/uploads/2022/04/1563695743.png" alt="" width="261" height="39"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-1986" src="http://www.cbaia.org.uk/wp-content/uploads/2022/04/logo.png" alt="" width="250" height="53"></p>
+<p>&nbsp;</p>
+<p><a href="https://ai-everything.com/"><img loading="lazy" decoding="async" class="alignnone wp-image-1440 " style="font-size: 16px;" src="http://www.cbaia.org.uk/wp-content/uploads/2020/02/Ai-everything-2020-logo-portrait-1.png" alt="" width="174" height="189"></a></p>
+<p><img loading="lazy" decoding="async" class="attachment-large " src="http://www.cbaia.org.uk/wp-content/uploads/2019/06/singaporefintech.jpeg" alt="" width="180" height="104"></p>
+</div>
+		</div></li><li id="custom_html-6" class="widget_text widget_col_1 widget_visbility_1 widget widget_custom_html" data-widget-id="custom_html-6"><div class="widget_text widget_wrap"><h4 class="widgettitle">Contact us / 联系我们</h4><div class="textwidget custom-html-widget"><img class="alignnone wp-image-317 size-thumbnail" src="http://www.cbaia.org.uk/wp-content/uploads/2021/05/qrcode_for_gh_092a87b573b4_344.jpg" alt="" width="150" height="150"><br>
+WECHAT / 微信: AIChinaUK<br>
+<div class="textwidget custom-html-widget">Email: <a href="mailto: info@cbaia.org.uk">info@cbaia.org.uk</a></div></div></div></li><li id="text-13" class="widget_col_1 widget_visbility_1 widget widget_text" data-widget-id="text-13"><div class="widget_wrap"><h4 class="widgettitle">Office at Oxford, UK / 英国牛津办公室</h4>			<div class="textwidget"><p><img loading="lazy" decoding="async" class="alignnone wp-image-1863" src="http://www.cbaia.org.uk/wp-content/uploads/2021/10/IMG_6748-300x225.jpg" alt="" width="170" height="128" srcset="https://www.cbaia.org.uk/wp-content/uploads/2021/10/IMG_6748-300x225.jpg 300w, https://www.cbaia.org.uk/wp-content/uploads/2021/10/IMG_6748-768x576.jpg 768w, https://www.cbaia.org.uk/wp-content/uploads/2021/10/IMG_6748-1024x768.jpg 1024w" sizes="(max-width: 170px) 100vw, 170px"></p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-1862" src="http://www.cbaia.org.uk/wp-content/uploads/2021/10/IMG_6756-300x225.jpg" alt="" width="170" height="128" srcset="https://www.cbaia.org.uk/wp-content/uploads/2021/10/IMG_6756-300x225.jpg 300w, https://www.cbaia.org.uk/wp-content/uploads/2021/10/IMG_6756-768x576.jpg 768w, https://www.cbaia.org.uk/wp-content/uploads/2021/10/IMG_6756-1024x768.jpg 1024w" sizes="(max-width: 170px) 100vw, 170px"></p>
+<p>Due to COVID-19, please contact us before visiting our office</p>
+<p>因疫情原因，访问办公室前请先与我们联系</p>
+</div>
+		</div></li>                </ul>
+            </div>
+            <!--Footer Widgets END-->
+          
+	</div>
+            <!--Copyright Footer START-->
+                <div id="copyright" class="soc_right">
+                    <div class="center">
+                    
+                        <!--Site Copyright Text START-->
+                                <div class="copytext"><p>© 2022 <a href="http://www.cbaia.org.uk/">中英人工智能协会 China-Britain Artificial Intelligence Association</a></p></div>
+                            
+                        <!--Site Copyright Text END-->
+                   
+                   <div class="foot_right_wrap">  
+                        <!--FOOTER MENU START-->   
+                                                <div id="footer_menu" class=""><div class="menu-footer"><ul id="menu-main-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1656"><a href="https://www.cbaia.org.uk/%e6%89%a7%e8%a1%8c%e5%a7%94%e5%91%98%e4%bc%9a/">执行理事会</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1657"><a href="https://www.cbaia.org.uk/advisory-board/">顾问委员会</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1969"><a href="https://www.cbaia.org.uk/category/%e5%8a%a8%e6%80%81/">动态</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1650"><a href="https://www.cbaia.org.uk/category/%e6%b4%bb%e5%8a%a8/">活动</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1784"><a href="https://www.cbaia.org.uk/category/course/">课程培训</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a target="_blank" rel="noopener" href="https://www.cbaia.org.uk/join-cbaia/">加入我们</a></li>
+<li class="lang-item lang-item-25 lang-item-zh current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1658-zh"><a href="https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/" hreflang="zh-CN" lang="zh-CN">中文</a></li>
+<li class="lang-item lang-item-28 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-1658-en"><a href="https://www.cbaia.org.uk/en/" hreflang="en-GB" lang="en-GB">Eng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2016"><a href="https://www.cbaia.org.uk/en/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2393"><a href="https://www.cbaia.org.uk/%e5%b7%a5%e4%bd%9c%e6%9c%ba%e4%bc%9a/">工作机会</a></li>
+</ul></div></div>
+                                                <!--FOOTER MENU END-->
+                        
+                        <!--SOCIAL ICONS START-->
+                            
+                            <div class="foot_soc">
+<div class="social_bookmarks bookmark_simple bookmark_size_normal">
+	  	                                                                      
+            </div></div>
+                            
+                        <!--SOCIAL ICONS END-->
+                    </div>
+                    
+                    </div><!--Center END-->
+    
+                </div>
+            <!--Copyright Footer END-->
+    </div>
+
+
+</div><!--layer_wrapper class END-->
+<!--Footer END-->
+
+
+
+
+
+		
+
+<script type="text/javascript">
+	jQuery(window).bind('load', function(){
+        if (jQuery("body").hasClass('admin-bar')) {
+			if (jQuery(window).width() > 601) {  
+				jQuery(".header").sticky({topSpacing:27}); 
+				resizeStickyLogo()
+			}else{  
+				jQuery(".header").sticky({topSpacing:0});
+				resizeStickyLogo() 
+			}
+		}else {
+			jQuery(".header").sticky({topSpacing:0});
+			resizeStickyLogo()
+		}
+		jQuery('body.site_boxed .header, body .header_wrap .sticky-wrapper .header').css({"width":jQuery('.header_wrap').width()});
+    });
+	jQuery(window).on('resize',optimizerStickyResize);
+
+	 function optimizerStickyResize(){
+			//Sticky Header width for Boxed Layout
+			jQuery('body.site_boxed .header, body .header_wrap .sticky-wrapper .header').css({"width":jQuery('.header_wrap').width()});		
+	 }
+	 function resizeStickyLogo(){
+											jQuery('.header').on('sticky-start', function() { jQuery('.logo img').animate({"height": "60px"}, 300 ) }); 
+				jQuery('.header').on('sticky-end', function() { jQuery('.logo img').animate({"height": "131px"}, 300 ) });  
+						}
+	 
+</script>
+
+
+
+<script type="text/javascript">
+
+//Hide Slider until its loaded
+jQuery('#zn_nivo, .nivo-controlNav').css({"display":"none"});	
+
+	//Midrow Blocks Equal Width
+	if(jQuery('.midrow_block').length == 4){ jQuery('.midrow_blocks').addClass('fourblocks'); }
+	if(jQuery('.midrow_block').length == 3){ jQuery('.midrow_blocks').addClass('threeblocks'); }
+	if(jQuery('.midrow_block').length == 2){ jQuery('.midrow_blocks').addClass('twoblocks'); }
+	if(jQuery('.midrow_block').length == 1){ jQuery('.midrow_blocks').addClass('oneblock'); }
+
+
+
+	
+
+
+
+					
+
+jQuery(window).bind('load', function(){
+	jQuery('.stat_has_slideshow').css({"maxHeight":"none"});
+	jQuery('.static_gallery').nivoSlider({effect: 'fade', directionNav: false, controlNav: false, pauseOnHover:false, slices:6, pauseTime:6000});
+});
+
+jQuery(document).ready(function() {
+	jQuery('.pd_flick_gallery li img').addClass('hasimg');
+});
+
+
+
+jQuery(window).bind('load', function(){
+	jQuery('.single-product .single_post .thumbnails').looper({interval: false});
+	jQuery('.archive.woocommerce-page.woo_archive_layout4 ul.products li.product').matchHeight({ property: 'min-height', byRow: 'height'});
+	jQuery('.woocommerce.single.woo_single_layout1 .yith-wcwl-add-to-wishlist').insertBefore('div[itemprop="offers"]');
+	jQuery('.woocommerce.single.woo_single_layout4 #content .onsale').prependTo('.woocommerce.single.woo_single_layout4 #content .product .images');
+});
+</script> 
+
+
+        		<script type="text/javascript" src="https://www.cbaia.org.uk/wp-content/themes/optimizer_pro/assets/js/optimizer.js" id="optimizer_js-js"></script>
+<script type="text/javascript" id="optimizer_otherjs-js-extra">
+/* <![CDATA[ */
+var optimo = {"smoothscroll":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cbaia.org.uk/wp-content/themes/optimizer_pro/assets/js/other.js" id="optimizer_otherjs-js"></script>
+<script type="text/javascript" id="optimizer_core-js-extra">
+/* <![CDATA[ */
+var optim = {"ajaxurl":"https:\/\/www.cbaia.org.uk\/wp-admin\/admin-ajax.php","sent":"\u6d88\u606f\u53d1\u9001\u6210\u529f\uff01","day":"\u5929","hour":"\u5c0f\u65f6","mins":"\u5206\u949f","sec":"\u79d2","redirect":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cbaia.org.uk/wp-content/themes/optimizer_pro/assets/js/core.js" id="optimizer_core-js"></script>
+<script type="text/javascript" src="https://www.cbaia.org.uk/wp-content/themes/optimizer_pro/assets/js/magnific-popup.js" id="optimizer_lightbox-js"></script>
+<script type="text/javascript" src="https://www.cbaia.org.uk/wp-includes/js/comment-reply.min.js" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" id="wpfront-scroll-top-js-extra">
+/* <![CDATA[ */
+var wpfront_scroll_top_data = {"data":{"css":"#wpfront-scroll-top-container{display:none;position:fixed;cursor:pointer;z-index:9999;opacity:0}#wpfront-scroll-top-container div.text-holder{padding:3px 10px;border-radius:3px;-webkit-border-radius:3px;-webkit-box-shadow:4px 4px 5px 0 rgba(50,50,50,.5);-moz-box-shadow:4px 4px 5px 0 rgba(50,50,50,.5);box-shadow:4px 4px 5px 0 rgba(50,50,50,.5)}#wpfront-scroll-top-container a{outline-style:none;box-shadow:none;text-decoration:none}#wpfront-scroll-top-container {right: 20px;bottom: 20px;}        #wpfront-scroll-top-container img {\n            width: auto;\n            height: auto;\n        }\n        ","html":"<div id=\"wpfront-scroll-top-container\"><img src=\"https:\/\/www.cbaia.org.uk\/wp-content\/plugins\/wpfront-scroll-top\/images\/icons\/1.png\" alt=\"\" title=\"\" \/><\/div>","data":{"hide_iframe":false,"button_fade_duration":200,"auto_hide":false,"auto_hide_after":2,"scroll_offset":100,"button_opacity":0.4,"button_action":"top","button_action_element_selector":"","button_action_container_selector":"html, body","button_action_element_offset":"0","scroll_duration":400}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.cbaia.org.uk/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js" id="wpfront-scroll-top-js"></script>
+
+<div id="sidr-main" class="sidr right"><div class="pad_menutitle"><i class="fa fa-bars"></i><span><i class="fa-times"></i></span></div><div class="sidr-inner">
+                <div class="sidr-class-menu-header"><ul id="sidr-id-menu-main" class="sidr-class-menu"><li id="sidr-id-menu-item-1656" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-1656"><a href="https://www.cbaia.org.uk/%e6%89%a7%e8%a1%8c%e5%a7%94%e5%91%98%e4%bc%9a/">执行理事会</a></li>
+<li id="sidr-id-menu-item-1657" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-1657"><a href="https://www.cbaia.org.uk/advisory-board/">顾问委员会</a></li>
+<li id="sidr-id-menu-item-1969" class="sidr-class-menu-item sidr-class-menu-item-type-taxonomy sidr-class-menu-item-object-category sidr-class-menu-item-1969"><a href="https://www.cbaia.org.uk/category/%e5%8a%a8%e6%80%81/">动态</a></li>
+<li id="sidr-id-menu-item-1650" class="sidr-class-menu-item sidr-class-menu-item-type-taxonomy sidr-class-menu-item-object-category sidr-class-menu-item-1650"><a href="https://www.cbaia.org.uk/category/%e6%b4%bb%e5%8a%a8/">活动</a></li>
+<li id="sidr-id-menu-item-1784" class="sidr-class-menu-item sidr-class-menu-item-type-taxonomy sidr-class-menu-item-object-category sidr-class-current-post-ancestor sidr-class-current-menu-parent sidr-class-current-post-parent sidr-class-menu-item-1784"><a href="https://www.cbaia.org.uk/category/course/">课程培训</a></li>
+<li id="sidr-id-menu-item-329" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-329"><a target="_blank" rel="noopener" href="https://www.cbaia.org.uk/join-cbaia/">加入我们</a></li>
+<li id="sidr-id-menu-item-1658-zh" class="sidr-class-lang-item sidr-class-lang-item-25 sidr-class-lang-item-zh sidr-class-current-lang sidr-class-lang-item-first sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-1658-zh"><a href="https://www.cbaia.org.uk/2021/09/02/%e5%9c%a8%e7%ba%bf%e8%af%be%e7%a8%8b%ef%bc%9a%e3%80%8a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%9c%a8%e5%90%84%e8%a1%8c%e4%b8%9a%e7%9a%84%e5%ba%94%e7%94%a8%e5%9c%ba%e6%99%af%e5%92%8c%e6%a1%88%e4%be%8b/" hreflang="zh-CN" lang="zh-CN">中文</a></li>
+<li id="sidr-id-menu-item-1658-en" class="sidr-class-lang-item sidr-class-lang-item-28 sidr-class-lang-item-en sidr-class-no-translation sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-1658-en"><a href="https://www.cbaia.org.uk/en/" hreflang="en-GB" lang="en-GB">Eng</a></li>
+<li id="sidr-id-menu-item-2016" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-2016"><a href="https://www.cbaia.org.uk/en/privacy-policy/">Privacy Policy</a></li>
+<li id="sidr-id-menu-item-2393" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-2393"><a href="https://www.cbaia.org.uk/%e5%b7%a5%e4%bd%9c%e6%9c%ba%e4%bc%9a/">工作机会</a></li>
+</ul></div>                
+                
+                <!--LOAD THE HEADR SOCIAL LINKS-->
+					<div class="sidr-class-head_soc">
+						                    <div class="head_soc">
+						                    </div></div>
+                    
+              <!--Header SEARCH-->
+                <div class="sidr-class-header_s sidr-class-head_search sidr-class-headrsearch_off">
+                    <form role="search" method="get" action="https://www.cbaia.org.uk/">
+                        <input placeholder="搜索..." type="text" value="" name="s" id="sidr-id-s">
+                    </form>
+                    <i class="sidr-class-fa sidr-class-fa-search"></i>
+                </div>
+                
+                </div></div><div id="sidr-topbar" class="sidr right"><div class="pad_menutitle"><i class="fa fa-bars"></i><span><i class="fa-times"></i></span></div><div class="sidr-inner">undefined</div></div><div id="miniTip"><div id="miniTip_t"></div><div id="miniTip_c"></div><div id="miniTip_a"></div></div><div id="wpfront-scroll-top-container"><img src="https://www.cbaia.org.uk/wp-content/plugins/wpfront-scroll-top/images/icons/1.png" alt="" title=""></div></body></html>

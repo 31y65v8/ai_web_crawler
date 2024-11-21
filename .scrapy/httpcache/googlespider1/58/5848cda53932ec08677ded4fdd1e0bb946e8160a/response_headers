@@ -1,0 +1,35 @@
+Date: Thu, 14 Nov 2024 05:55:23 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Ray: 8e24c0949a444685-SIN
+Cf-Cache-Status: HIT
+Age: 78727
+Cache-Control: max-age=14400, must-revalidate
+Content-Language: zh-cn
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Last-Modified: Tue, 12 Nov 2024 00:07:31 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cf-Apo-Via: tcache
+Cf-Edge-Cache: cache,platform=wordpress
+Host-Header: 6b7412fb82ca5edfd0917e3957f05d89
+Host-Header: 6b7412fb82ca5edfd0917e3957f05d89
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=5WDAjv0yUstS%2FZQZGh5qTlRpCExdHE%2FIu2mQ41h628j75VdOstx0Vg5YHbQgbn%2Bhuw3OmaGJOBrsbVYALEATuJlMV0NY5ayakGd3APK9E70PFuj0D%2BCednX0gDD1XQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server-Timing: cfL4;desc="?proto=TCP&rtt=4448&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2815&recv_bytes=843&delivery_rate=648164&cwnd=251&unsent_bytes=0&cid=64e886bb1b3f8ed8&ts=27&x=0"
+Server-Timing: cfL4;desc="?proto=TCP&rtt=990&sent=3&recv=5&lost=0&retrans=0&sent_bytes=2814&recv_bytes=1067&delivery_rate=2787295&cwnd=227&unsent_bytes=0&cid=d7481ddc19241ef0&ts=143&x=0"
+X-Cache-Enabled: False
+X-Gt-Cache-Age: 23909
+X-Gt-Cache-Status: HIT-TRANS
+X-Gt-Delivered-By: GTranslate v8.2.6 in 0ms visit https://gtranslate.io
+X-Gt-Origurl: /10-best-ai-apps/
+X-Gt-Server: ani
+X-Httpd-Modphp: 1
+X-Httpd-Modphp: 1
+X-Proxy-Cache: MISS
+X-Proxy-Cache: MISS
+X-Proxy-Cache-Info: W NC:000000 UP:SKIP_CACHE_SET_COOKIE
+X-Proxy-Cache-Info: W NC:000000 UP:
+Speculation-Rules: "/cdn-cgi/speculation"
+Server: cloudflare
+Content-Encoding: br
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,669 @@
+<!DOCTYPE html><html lang="zh-Hans"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+	
+<link rel="icon" href="https://www.guanjihuan.com/wp-content/uploads/2021/03/1.jpg" sizes="16x16" type="image/jpg"> 
+	
+<script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="https://hm.baidu.com/hm.js?83f42b8e34c641d04c67247529c77ca6"></script><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?83f42b8e34c641d04c67247529c77ca6";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>	
+	
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+	
+<script>window.koko_analytics = {"url":"https:\/\/www.guanjihuan.com\/koko-analytics-collect.php","site_url":"https:\/\/www.guanjihuan.com","post_id":39031,"use_cookie":1,"cookie_path":"\/"};</script><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>人工智能的大事件记录 - Ji-Huan Guan</title>
+	<link rel="canonical" href="https://www.guanjihuan.com/archives/39031">
+	<meta property="og:locale" content="zh_CN">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="人工智能的大事件记录 - Ji-Huan Guan">
+	<meta property="og:description" content="这里记录人工智能的大事件，内容可能不完整，将不定期补充和更新： 其他参考资料： [1] 深度学习（Deep L… Continue reading 人工智能的大事件记录">
+	<meta property="og:url" content="https://www.guanjihuan.com/archives/39031">
+	<meta property="og:site_name" content="Ji-Huan Guan">
+	<meta property="article:published_time" content="2024-03-26T04:31:20+00:00">
+	<meta property="article:modified_time" content="2024-10-09T09:37:31+00:00">
+	<meta name="author" content="guanjihuan">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="作者">
+	<meta name="twitter:data1" content="guanjihuan">
+	<meta name="twitter:label2" content="预计阅读时间">
+	<meta name="twitter:data2" content="1 分">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.guanjihuan.com/archives/39031#article","isPartOf":{"@id":"https://www.guanjihuan.com/archives/39031"},"author":{"name":"guanjihuan","@id":"https://www.guanjihuan.com/#/schema/person/7a940c0836242479143f0c07da7df6bc"},"headline":"人工智能的大事件记录","datePublished":"2024-03-26T04:31:20+00:00","dateModified":"2024-10-09T09:37:31+00:00","mainEntityOfPage":{"@id":"https://www.guanjihuan.com/archives/39031"},"wordCount":239,"commentCount":0,"publisher":{"@id":"https://www.guanjihuan.com/#/schema/person/7a940c0836242479143f0c07da7df6bc"},"articleSection":["学术","机器学习"],"inLanguage":"zh-Hans","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.guanjihuan.com/archives/39031#respond"]}]},{"@type":"WebPage","@id":"https://www.guanjihuan.com/archives/39031","url":"https://www.guanjihuan.com/archives/39031","name":"人工智能的大事件记录 - Ji-Huan Guan","isPartOf":{"@id":"https://www.guanjihuan.com/#website"},"datePublished":"2024-03-26T04:31:20+00:00","dateModified":"2024-10-09T09:37:31+00:00","breadcrumb":{"@id":"https://www.guanjihuan.com/archives/39031#breadcrumb"},"inLanguage":"zh-Hans","potentialAction":[{"@type":"ReadAction","target":["https://www.guanjihuan.com/archives/39031"]}]},{"@type":"BreadcrumbList","@id":"https://www.guanjihuan.com/archives/39031#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.guanjihuan.com/"},{"@type":"ListItem","position":2,"name":"人工智能的大事件记录"}]},{"@type":"WebSite","@id":"https://www.guanjihuan.com/#website","url":"https://www.guanjihuan.com/","name":"Ji-Huan Guan","description":"欢迎访问我的个人网站","publisher":{"@id":"https://www.guanjihuan.com/#/schema/person/7a940c0836242479143f0c07da7df6bc"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.guanjihuan.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"zh-Hans"},{"@type":["Person","Organization"],"@id":"https://www.guanjihuan.com/#/schema/person/7a940c0836242479143f0c07da7df6bc","name":"guanjihuan","image":{"@type":"ImageObject","inLanguage":"zh-Hans","@id":"https://www.guanjihuan.com/#/schema/person/image/","url":"https://www.guanjihuan.com/wp-content/uploads/2021/03/1.jpg","contentUrl":"https://www.guanjihuan.com/wp-content/uploads/2021/03/1.jpg","width":500,"height":500,"caption":"guanjihuan"},"logo":{"@id":"https://www.guanjihuan.com/#/schema/person/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.guanjihuan.com">
+<link rel="alternate" type="application/rss+xml" title="Ji-Huan Guan » Feed" href="https://www.guanjihuan.com/feed">
+<link rel="alternate" type="application/rss+xml" title="Ji-Huan Guan » 评论 Feed" href="https://www.guanjihuan.com/comments/feed">
+<link rel="alternate" type="application/rss+xml" title="Ji-Huan Guan » 人工智能的大事件记录 评论 Feed" href="https://www.guanjihuan.com/archives/39031/feed">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.guanjihuan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="wp-quicklatex-format-css" href="https://www.guanjihuan.com/wp-content/plugins/wp-quicklatex/css/quicklatex-format.css?ver=6.7" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.guanjihuan.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="wise-chat-libs-css" href="https://www.guanjihuan.com/wp-content/plugins/wise-chat/assets/css/wise-chat-libs.min.css?ver=3.2" type="text/css" media="all">
+<link rel="stylesheet" id="wise-chat-core-css" href="https://www.guanjihuan.com/wp-content/plugins/wise-chat/assets/css/wise-chat.min.css?ver=3.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp-ulike-css" href="https://www.guanjihuan.com/wp-content/plugins/wp-ulike/assets/css/wp-ulike.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://www.guanjihuan.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="dara-style-css" href="https://www.guanjihuan.com/wp-content/themes/dara/style.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="genericons-css" href="https://www.guanjihuan.com/wp-content/themes/dara/assets/genericons/genericons.css?ver=3.4.1" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://www.guanjihuan.com/wp-content/plugins/burst-statistics/helpers/timeme/timeme.min.js?ver=1.7.2" id="burst-timeme-js"></script>
+<script type="text/javascript" id="burst-js-extra">
+/* <![CDATA[ */
+var burst = {"cookie_retention_days":"30","beacon_url":"https:\/\/www.guanjihuan.com\/wp-content\/plugins\/burst-statistics\/endpoint.php","options":{"beacon_enabled":1,"enable_cookieless_tracking":0,"enable_turbo_mode":0,"do_not_track":0,"track_url_change":0},"goals":[],"goals_script_url":"https:\/\/www.guanjihuan.com\/wp-content\/plugins\/burst-statistics\/\/assets\/js\/build\/burst-goals.js?v=1.7.2"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="" src="https://www.guanjihuan.com/wp-content/plugins/burst-statistics/assets/js/build/burst.min.js?ver=1.7.2" id="burst-js"></script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-content/plugins/truncate-comments/inc/jquery.collapser.min.js?ver=6.7" id="jcollapser-js"></script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-content/plugins/wp-quicklatex/js/wp-quicklatex-frontend.js?ver=1.0" id="wp-quicklatex-frontend-js"></script>
+<link rel="https://api.w.org/" href="https://www.guanjihuan.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.guanjihuan.com/wp-json/wp/v2/posts/39031"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.guanjihuan.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7">
+<link rel="shortlink" href="https://www.guanjihuan.com/?p=39031">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.guanjihuan.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.guanjihuan.com%2Farchives%2F39031">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.guanjihuan.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.guanjihuan.com%2Farchives%2F39031&amp;format=xml">
+<script>
+	function expand(param) {
+		param.style.display = (param.style.display == "none") ? "block" : "none";
+	}
+	function read_toggle(id, more, less) {
+		el = document.getElementById("readlink" + id);
+		el.innerHTML = (el.innerHTML == more) ? less : more;
+		expand(document.getElementById("read" + id));
+	}
+	</script><link rel="preload" as="style" href="https://www.guanjihuan.com/wp-content/plugins/code-prettify/prettify/prettify.css"><style type="text/css">
+
+*[id^='readlink'] {
+ font-weight: normal;
+ color: #15b6b8;
+ background: #ffffff;
+ padding: 0px;
+ border-bottom: 1px solid #ffffff;
+ -webkit-box-shadow: none !important;
+ box-shadow: none !important;
+ -webkit-transition: none !important;
+}
+
+*[id^='readlink']:hover {
+ font-weight: normal;
+ color: #a8a6a1;
+ padding: 0px;
+ border-bottom: 1px solid #ffffff;
+}
+
+*[id^='readlink']:focus {
+ outline: none;
+ color: #15b6b8;
+}
+
+</style>
+		<style type="text/css" id="wp-custom-css">
+			/* 字体 */
+*:not([class*="icon"]):not(i){font-family: Times New Roman, SimHei, Microsoft YaHei !important;}
+
+
+/* 样式 */
+h1,h2,h3{
+	color: #000000!important;
+}
+a, .fn>a{
+	color: #004e4e;
+}
+.read-link{
+	color: #004e4e!important;
+}
+ul>li>ul{
+	 list-style: square;
+}
+ul>li>ul>li>ul{
+		list-style: circle;
+}
+img{
+	margin-bottom:35px;
+}
+
+
+/* 最近发布内部插件 */
+.wp-block-latest-posts__list{
+	list-style-type: disc !important;
+}
+.wp-block-latest-posts__post-date{
+	font-size:unset;
+	display: inline;
+}
+.wp-block-latest-posts__post-date:before { content: " 发布于 "; }
+
+
+/* 目录 */
+.lwptoc_i{
+	padding-left:0px!important;
+	padding-top:0px!important;
+}
+.lwptoc_title{
+	font-size:25px;
+}
+
+
+/* 底部留白 */
+.content-wrapper{
+	padding-bottom:10px!important;
+}
+ .entry-content{
+	 margin-bottom:10px!important
+}		</style>
+		<link rel="stylesheet" type="text/css" href="https://www.guanjihuan.com/wp-content/plugins/code-prettify/prettify/prettify.css"><script src="https://www.guanjihuan.com/wp-includes/js/wp-emoji-release.min.js?ver=6.7" defer=""></script></head>
+
+<body class="post-template-default single single-post postid-39031 single-format-standard not-multi-author display-header-text">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		
+				<div class="site-branding">
+										<p class="site-title"><a href="https://www.guanjihuan.com/" rel="home" data-wpel-link="internal" target="_self">Ji-Huan Guan</a></p>
+							<p class="site-description">欢迎访问我的个人网站</p>
+			
+					</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+	<button class="menu-toggle" aria-controls="top-menu" aria-expanded="false">Menu</button>
+	<div class="menu-%e6%88%91%e7%9a%84%e8%8f%9c%e5%8d%95-container"><ul id="top-menu" class="menu nav-menu" aria-expanded="false"><li id="menu-item-25723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-25723"><a href="https://www.guanjihuan.com/" data-wpel-link="internal" target="_self">首页</a></li>
+<li id="menu-item-25759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25759"><a href="#">文章</a>
+<ul class="sub-menu">
+	<li id="menu-item-25739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25739"><a href="#">分类</a>
+	<ul class="sub-menu">
+		<li id="menu-item-25740" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-25740"><a href="https://www.guanjihuan.com/archives/category/languages" data-wpel-link="internal" target="_self">语言</a>
+		<ul class="sub-menu">
+			<li id="menu-item-25744" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25744"><a href="https://www.guanjihuan.com/archives/category/languages/python" data-wpel-link="internal" target="_self">Python专题</a></li>
+			<li id="menu-item-25743" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25743"><a href="https://www.guanjihuan.com/archives/category/languages/fortran" data-wpel-link="internal" target="_self">Fortran专题</a></li>
+			<li id="menu-item-25742" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25742"><a href="https://www.guanjihuan.com/archives/category/languages/latex" data-wpel-link="internal" target="_self">Latex专题</a></li>
+			<li id="menu-item-25741" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25741"><a href="https://www.guanjihuan.com/archives/category/languages/english" data-wpel-link="internal" target="_self">英语专题</a></li>
+			<li id="menu-item-25745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25745"><a href="https://www.guanjihuan.com/archives/category/languages/other-languages" data-wpel-link="internal" target="_self">其他语言</a></li>
+		</ul>
+</li>
+		<li id="menu-item-25746" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-25746"><a href="https://www.guanjihuan.com/archives/category/academic" data-wpel-link="internal" target="_self">学术</a>
+		<ul class="sub-menu">
+			<li id="menu-item-25747" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25747"><a href="https://www.guanjihuan.com/archives/category/academic/models-and-bands" data-wpel-link="internal" target="_self">模型和能带</a></li>
+			<li id="menu-item-25748" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25748"><a href="https://www.guanjihuan.com/archives/category/academic/topological-invariant" data-wpel-link="internal" target="_self">拓扑不变量</a></li>
+			<li id="menu-item-25750" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25750"><a href="https://www.guanjihuan.com/archives/category/academic/density-of-states" data-wpel-link="internal" target="_self">电子态密度</a></li>
+			<li id="menu-item-25749" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25749"><a href="https://www.guanjihuan.com/archives/category/academic/quantum-transport" data-wpel-link="internal" target="_self">量子输运</a></li>
+			<li id="menu-item-25751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25751"><a href="https://www.guanjihuan.com/archives/category/academic/landau-levels" data-wpel-link="internal" target="_self">朗道能级</a></li>
+			<li id="menu-item-38841" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-38841"><a href="https://www.guanjihuan.com/archives/category/academic/machine-learning" data-wpel-link="internal" target="_self">机器学习</a></li>
+			<li id="menu-item-25753" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25753"><a href="https://www.guanjihuan.com/archives/category/academic/other-notes" data-wpel-link="internal" target="_self">其他笔记</a></li>
+		</ul>
+</li>
+		<li id="menu-item-25754" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-25754"><a href="https://www.guanjihuan.com/archives/category/life" data-wpel-link="internal" target="_self">生活</a>
+		<ul class="sub-menu">
+			<li id="menu-item-25757" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25757"><a href="https://www.guanjihuan.com/archives/category/life/softwares" data-wpel-link="internal" target="_self">软件使用</a></li>
+			<li id="menu-item-42984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42984"><a href="https://www.guanjihuan.com/archives/category/life/calculations" data-wpel-link="internal" target="_self">科学计算</a></li>
+			<li id="menu-item-42391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42391"><a href="https://www.guanjihuan.com/archives/category/life/views" data-wpel-link="internal" target="_self">个人观点</a></li>
+			<li id="menu-item-39023" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39023"><a href="https://www.guanjihuan.com/archives/category/life/other-records" data-wpel-link="internal" target="_self">其他记录</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-26927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26927"><a href="#">查看</a>
+	<ul class="sub-menu">
+		<li id="menu-item-25724" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-25724"><a href="https://www.guanjihuan.com/recent" data-wpel-link="internal" target="_self">最近发布</a></li>
+		<li id="menu-item-25728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25728"><a href="https://www.guanjihuan.com/modified" data-wpel-link="internal" target="_self">最近修改</a></li>
+		<li id="menu-item-25727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25727"><a href="https://www.guanjihuan.com/like" data-wpel-link="internal" target="_self">最多点赞</a></li>
+		<li id="menu-item-25729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25729"><a href="https://www.guanjihuan.com/archive" data-wpel-link="internal" target="_self">归档时间</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-33188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-33188"><a href="#">更多</a>
+<ul class="sub-menu">
+	<li id="menu-item-28632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28632"><a href="#">页面</a>
+	<ul class="sub-menu">
+		<li id="menu-item-25732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25732"><a href="https://www.guanjihuan.com/navigation" data-wpel-link="internal" target="_self">学术导航</a></li>
+		<li id="menu-item-25735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25735"><a href="https://www.guanjihuan.com/music" data-wpel-link="internal" target="_self">音乐列表</a></li>
+		<li id="menu-item-25734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25734"><a href="https://www.guanjihuan.com/saying" data-wpel-link="internal" target="_self">说说语录</a></li>
+		<li id="menu-item-25733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25733"><a href="https://www.guanjihuan.com/fund" data-wpel-link="internal" target="_self">个人基金</a></li>
+		<li id="menu-item-30454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30454"><a href="https://www.guanjihuan.com/support" data-wpel-link="internal" target="_self">赞赏支持</a></li>
+		<li id="menu-item-25737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25737"><a href="https://www.guanjihuan.com/comment" data-wpel-link="internal" target="_self">在线留言</a></li>
+	</ul>
+</li>
+	<li id="menu-item-28629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28629"><a href="#">子域</a>
+	<ul class="sub-menu">
+		<li id="menu-item-36673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36673"><a href="https://chat.guanjihuan.com" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">对话模型 chat.guanjihuan.com</a></li>
+		<li id="menu-item-28450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28450"><a href="https://py.guanjihuan.com" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">开源代码 py.guanjihuan.com</a></li>
+		<li id="menu-item-34446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34446"><a href="https://cloud.guanjihuan.com/d/dbde71ac59834687818f/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">云盘文件 cloud.guanjihuan.com /d/dbde71ac59834687818f/</a></li>
+		<li id="menu-item-43220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43220"><a href="https://cloudreve.guanjihuan.com/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Cloudreve服务 cloudreve.guanjihuan.com</a></li>
+		<li id="menu-item-43206" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43206"><a href="https://gitlab.guanjihuan.com/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">GitLab服务 gitlab.guanjihuan.com</a></li>
+		<li id="menu-item-43134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43134"><a href="https://jupyter.guanjihuan.com" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Jupyter服务 jupyter.guanjihuan.com</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-25738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25738"><a href="#">关于</a>
+<ul class="sub-menu">
+	<li id="menu-item-25725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25725"><a href="https://www.guanjihuan.com/about" data-wpel-link="internal" target="_self">关于我</a></li>
+	<li id="menu-item-25726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25726"><a href="https://www.guanjihuan.com/about-english-version" data-wpel-link="internal" target="_self">About Me</a></li>
+</ul>
+</li>
+</ul></div>	</nav>
+
+	</header>
+
+		
+<!-- 	guan -->
+	
+<div id="page" class="site">
+	
+
+	<div id="content" class="site-content">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-39031" class="post-39031 post type-post status-publish format-standard hentry category-academic category-machine-learning without-featured-image">
+	
+	<header class="entry-header">
+		<span class="cat-links"><a href="https://www.guanjihuan.com/archives/category/academic" rel="category tag" data-wpel-link="internal" target="_self">学术</a>, <a href="https://www.guanjihuan.com/archives/category/academic/machine-learning" rel="category tag" data-wpel-link="internal" target="_self">机器学习</a></span><h1 class="entry-title">人工智能的大事件记录</h1>	</header>
+
+	<div class="entry-body">
+							<div class="entry-meta">
+			<span class="posted-on">发布时间：<a href="https://www.guanjihuan.com/archives/39031" rel="bookmark" data-wpel-link="internal" target="_self"><time class="entry-date published" datetime="2024-03-26T12:31:20+08:00">2024年3月26日</time><time class="updated" datetime="2024-10-09T17:37:31+08:00">2024年10月9日</time></a></span><span class="posted-on"><p class="post-modified-info">最近修改时间：2024年10月9日</p></span>		</div><!-- .entry-meta -->
+
+
+
+				
+		
+		<div class="entry-content">
+			
+<p>这里记录人工智能的大事件，内容可能不完整，将不定期补充和更新：</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1943年</mark></strong>：Warren S. McCulloch&nbsp;和&nbsp;Walter Pitts 提出了<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">人工神经元模型</mark>。论文链接：<a href="https://link.springer.com/article/10.1007/BF02478259" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">A Logical Calculus of the Ideas Immanent in Nervous Activity</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1950年</mark></strong>：A. M. Turing 提出了著名的<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">图灵测试</mark>。论文链接：<a href="https://academic.oup.com/mind/article/LIX/236/433/986238" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Computing Machinery and Intelligence</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1956年</mark></strong>：<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">达特茅斯会议 Dartmouth workshop</mark>。会议上对人工智能的概念进行了明确定义，并提出了一系列解决复杂问题的方法和算法。尽管达特茅斯会议并未立即引起广泛的关注，但它标志着人工智能作为一个独立领域的开始。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1957年</mark></strong>：Rosenblatt, F. 提出了第一个可以学习的神经网络模型，称为<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">感知器（Perceptron）</mark>。论文链接：&nbsp;<a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0042519" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">The perceptron: A probabilistic model for information storage and organization in the brain</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1982年</mark></strong>：J. J. Hopfield 提出 Hopfield 网络。论文链接：<a href="https://www.pnas.org/doi/abs/10.1073/pnas.79.8.2554" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Neural networks and physical systems with emergent collective computational abilities</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1985年</mark></strong>：David H. Ackley，Geoffrey E. Hinton 和 Terrence J. Sejnowski 提出<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">玻尔兹曼机（boltzmann machine）</mark>。论文链接：<a href="https://www.sciencedirect.com/science/article/abs/pii/S0364021385800124" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">A learning algorithm for boltzmann machines</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1986年</mark></strong>：David E. Rumelhart，Geoffrey E. Hinton 和 Ronald J. Williams 给出<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">反向传播算法</mark>。论文链接：<a href="https://www.nature.com/articles/323533a0" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Learning representations by back-propagating errors</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1997年</mark></strong>：IBM的<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">深蓝计算机</mark>击败国际象棋世界冠军加里·卡斯帕罗夫。论文链接：<a href="https://www.sciencedirect.com/science/article/pii/S0004370201001291" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Deep Blue</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">1998年</mark></strong>：Lecun等人提出 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">LeNet-5</mark>，用于手写数字识别任务，是最早的卷积神经网络之一，为许多后续的深度学习架构奠定了基础。论文链接：<a href="https://ieeexplore.ieee.org/document/726791" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Gradient-based learning applied to document recognition</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2009年</mark></strong>：李飞飞教授发布 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">ImageNet</mark> 项目。这个项目对于推动深度学习、卷积神经网络等技术的发展起到了重要作用，成为了许多机器学习研究的基准数据集之一。论文链接：<a href="https://ieeexplore.ieee.org/document/5206848" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">ImageNet: A large-scale hierarchical image database</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2012年</mark></strong>：Alex Krizhevsky、Ilya Sutskever和 Geoffrey Hinton 提出 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">AlexNet</mark> 卷积神经网络。该模型利用深度卷积神经网络取得了 ImageNet 图像分类竞赛（ILSVRC）的胜利，标志着深度学习在计算机视觉领域的崛起。论文链接：<a href="https://dl.acm.org/doi/10.1145/3065386" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">ImageNet classification with deep convolutional neural networks</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2014年</mark></strong>：Goodfellow 等人提出<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">生成对抗网络（GAN）</mark>，使得人工智能可以生成逼真的图像、视频和音频等内容。论文链接：<a href="https://arxiv.org/abs/1406.2661" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Generative Adversarial Networks</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2015年</mark></strong>：何恺明等人提出 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">ResNet</mark>（Residual Neural Network）模型，通过引入残差学习块解决了深度神经网络训练中的梯度消失问题，成为了图像分类任务中的重要模型。论文链接：<a href="https://ieeexplore.ieee.org/document/7780459" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Deep Residual Learning for Image Recognition</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2016年</mark></strong>：DeepMind 的 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">AlphaGo</mark> 击败李世石和柯洁，这标志着人工智能在复杂游戏中的突破。论文链接：<a href="https://www.nature.com/articles/nature16961" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Mastering the game of Go with deep neural networks and tree search</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2017年</mark></strong>：DeepMind 的 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">AlphaGo Zero 和 AlphaZero</mark> 通过自我学习在围棋、国际象棋和将棋领域击败了先前的AlphaGo版本，显示了强化学习在人工智能中的潜力。AlphaGo Zero 论文链接：<a href="https://www.nature.com/articles/nature24270" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Mastering the game of Go without human knowledge</a>。AlphaZero 论文链接：<a href="https://www.science.org/doi/10.1126/science.aar6404" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2017年</mark></strong>：&nbsp;Google 发布了 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Transformer 模型</mark>，这是一种革命性的自注意力机制模型，用于处理序列到序列的自然语言处理任务。论文链接：<a href="https://arxiv.org/abs/1706.03762" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Attention Is All You Need</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2018年</mark></strong>：Google 发布了 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">BERT 模型</mark>，这是一种预训练的自然语言处理模型，大大提升了自然语言理解的能力。论文链接：<a href="https://aclanthology.org/N19-1423/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2018年</mark></strong>：OpenAI发布 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">GPT-1 模型</mark>。论文链接：<a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Improving Language Understanding by Generative Pre-Training</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2019年</mark></strong>：OpenAI 发布 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">GPT-2 模型</mark>。论文链接：<a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Language Models are Unsupervised Multitask Learners</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2020年</mark></strong>：OpenAI 发布 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">GPT-3 模型</mark>。论文链接：<a href="https://arxiv.org/abs/2005.14165" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Language Models are Few-Shot Learners</a>。</li>
+
+
+
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color">2022年11月30日</mark></strong>：OpenAI 发布 <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">ChatGPT</mark>。它在自然语言处理领域表现出色，被认为是人工智能发展历史上的重要里程碑之一。</li>
+
+
+
+<li><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-purple-color"><strong>2024年</strong></mark>：John J. Hopfield 和 Geoffrey E. Hinton 获得2024年<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">诺贝尔物理学奖</mark>。新闻链接：<a href="https://www.nobelprize.org/prizes/physics/2024/press-release/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">https://www.nobelprize.org/prizes/physics/2024/press-release/</a>。</li>
+
+
+
+<li>……</li>
+</ol>
+
+
+
+<p>其他参考资料：</p>
+
+
+
+<p>[1] <a href="https://mp.weixin.qq.com/s/I2MwpTSCf0nWMbj-_wBVyQ" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">深度学习（Deep Learning）发展史</a></p>
+		<div class="wpulike wpulike-heart "><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button" aria-label="Like Button" data-ulike-id="39031" data-ulike-nonce="edcff4c6f9" data-ulike-type="post" data-ulike-template="wpulike-heart" data-ulike-display-likers="" data-ulike-likers-style="popover" class="wp_ulike_btn wp_ulike_put_image wp_post_btn_39031"></button><span class="count-box wp_ulike_counter_up" data-ulike-counter-value="+2">+2</span>			</div></div>
+	<!-- wp:paragraph -->211 次浏览<br><br><p>【说明：本站主要是个人的一些笔记和代码分享，内容可能会不定期修改。为了使全网显示的始终是最新版本，这里的文章未经同意请勿转载。引用请注明出处：<a href="https://www.guanjihuan.com" data-wpel-link="internal" target="_self">https://www.guanjihuan.com</a>】</p><!-- /wp:paragraph -->		</div>
+
+			<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+
+		
+<div class="entry-author">
+	<div class="author-avatar">
+		<img src="https://www.guanjihuan.com/wp-content/uploads/2021/03/1-150x150.jpg" srcset="https://www.guanjihuan.com/wp-content/uploads/2021/03/1-150x150.jpg 2x" width="60" height="60" alt="头像" class="avatar avatar-60 wp-user-avatar wp-user-avatar-60 photo avatar-default">	</div><!-- .author-avatar -->
+	
+	<div class="author-heading">
+		<h2 class="author-title">Published by <span class="author-name">guanjihuan</span></h2>
+	</div><!-- .author-heading -->
+
+	<p class="author-bio">
+				<a class="author-link" href="https://www.guanjihuan.com/archives/author/guanjihuan" rel="author" data-wpel-link="internal" target="_self">
+			View all posts by guanjihuan		</a>
+	</p><!-- .author-bio -->
+</div><!-- .entry-auhtor -->
+
+	</div><!-- .entry-body -->
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" aria-label="文章">
+		<h2 class="screen-reader-text">文章导航</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.guanjihuan.com/archives/39025" rel="prev" data-wpel-link="internal" target="_self"><span class="title">Previous post</span>神经网络的主要调参内容和顺序</a></div><div class="nav-next"><a href="https://www.guanjihuan.com/archives/39029" rel="next" data-wpel-link="internal" target="_self"><span class="title">Next post</span>神经网络中常见的激活函数</a></div></div>
+	</nav>
+
+<div id="comments" class="comments-area">
+
+		
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">发表评论 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/archives/39031#respond" style="display:none;" data-wpel-link="internal" target="_self">取消回复</a></small></h3><form action="https://www.guanjihuan.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate=""><p class="comment-notes"><span id="email-notes">您的邮箱地址不会被公开。</span> <span class="required-field-message">必填项已用 <span class="required">*</span> 标注</span></p><p class="comment-form-comment"><label for="comment">评论 <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required=""></textarea></p><p class="comment-form-author"><label for="author">显示名称</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name"></p>
+<p class="comment-form-email"><label for="email">邮箱</label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email"></p>
+<p class="comment-form-url"><label for="url">网站</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url"></p>
+<p class="form-captcha">
+		<img alt="Captcha Code" id="micaptcha" src="https://www.guanjihuan.com/wp-content/plugins/mimi-captcha/captcha.php?rand=0.01435182073200969" style="max-width: 100%;">
+		<span style="display: block; clear: both;"></span>
+		<label>看不清？点击图片刷新！</label>
+		<span style="display: block; clear: both;"></span><script>
+		(function() {
+			window.addEventListener("load", function() {
+				var captcha = document.getElementById("micaptcha");
+				captcha.src = "https://www.guanjihuan.com/wp-content/plugins/mimi-captcha/captcha.php?rand=" + Math.random();
+				captcha.onclick = function() {
+					captcha.src = "https://www.guanjihuan.com/wp-content/plugins/mimi-captcha/captcha.php?rand=" + Math.random();
+				}
+			});
+		})();
+		</script><label for="url">验证码 <span class="required">*</span></label>
+		<!-- Don`t Ask Why Not `for="captcha_code"`. You are Not Expected to Understand This. -->
+		<input id="captcha_code" name="captcha_code" type="text" size="30" maxlength="200" autocomplete="off" style="display: block;">
+		</p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="发表评论"> <input type="hidden" name="comment_post_ID" value="39031" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+		</main>
+	</div>
+
+<aside id="secondary" class="widget-area" role="complementary">
+	<aside id="block-69" class="widget widget_block widget_search"><form role="search" method="get" action="https://www.guanjihuan.com/" class="wp-block-search__button-outside wp-block-search__icon-button wp-block-search"><label class="wp-block-search__label" for="wp-block-search__input-1">搜索</label><div class="wp-block-search__inside-wrapper "><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required=""><button aria-label="搜索" class="wp-block-search__button has-icon wp-element-button" type="submit"><svg class="search-icon" viewBox="0 0 24 24" width="24" height="24">
+					<path d="M13 5c-3.3 0-6 2.7-6 6 0 1.4.5 2.7 1.3 3.7l-3.8 3.8 1.1 1.1 3.8-3.8c1 .8 2.3 1.3 3.7 1.3 3.3 0 6-2.7 6-6S16.3 5 13 5zm0 10.5c-2.5 0-4.5-2-4.5-4.5s2-4.5 4.5-4.5 4.5 2 4.5 4.5-2 4.5-4.5 4.5z"></path>
+				</svg></button></div></form></aside><aside id="block-65" class="widget widget_block">
+<h4 class="wp-block-heading has-text-align-center">- AI 对话 -</h4>
+</aside><aside id="block-66" class="widget widget_block">
+<ul class="wp-block-list">
+<li><a href="https://chat.guanjihuan.com" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">https://chat.guanjihuan.com</a></li>
+</ul>
+</aside><aside id="block-63" class="widget widget_block">
+<h4 class="wp-block-heading has-text-align-center">- 个人信息 -</h4>
+</aside><aside id="block-64" class="widget widget_block">
+<ul class="wp-block-list">
+<li><a href="https://www.guanjihuan.com/about" data-wpel-link="internal" target="_self">关于我</a>&nbsp;|&nbsp;<a href="https://www.guanjihuan.com/about-english-version" data-wpel-link="internal" target="_self">About Me</a></li>
+</ul>
+</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">文章分类</h3>
+			<ul>
+					<li class="cat-item cat-item-53"><a href="https://www.guanjihuan.com/archives/category/languages" data-wpel-link="internal" target="_self">语言</a> (45)
+<ul class="children">
+	<li class="cat-item cat-item-3"><a href="https://www.guanjihuan.com/archives/category/languages/python" data-wpel-link="internal" target="_self">Python专题</a> (15)
+</li>
+	<li class="cat-item cat-item-8"><a href="https://www.guanjihuan.com/archives/category/languages/fortran" data-wpel-link="internal" target="_self">Fortran专题</a> (5)
+</li>
+	<li class="cat-item cat-item-17"><a href="https://www.guanjihuan.com/archives/category/languages/latex" data-wpel-link="internal" target="_self">Latex专题</a> (11)
+</li>
+	<li class="cat-item cat-item-49"><a href="https://www.guanjihuan.com/archives/category/languages/english" data-wpel-link="internal" target="_self">英语专题</a> (6)
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.guanjihuan.com/archives/category/languages/other-languages" data-wpel-link="internal" target="_self">其他语言</a> (8)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-64"><a href="https://www.guanjihuan.com/archives/category/academic" data-wpel-link="internal" target="_self">学术</a> (134)
+<ul class="children">
+	<li class="cat-item cat-item-57"><a href="https://www.guanjihuan.com/archives/category/academic/models-and-bands" data-wpel-link="internal" target="_self">模型和能带</a> (24)
+</li>
+	<li class="cat-item cat-item-58"><a href="https://www.guanjihuan.com/archives/category/academic/topological-invariant" data-wpel-link="internal" target="_self">拓扑不变量</a> (23)
+</li>
+	<li class="cat-item cat-item-56"><a href="https://www.guanjihuan.com/archives/category/academic/density-of-states" data-wpel-link="internal" target="_self">电子态密度</a> (8)
+</li>
+	<li class="cat-item cat-item-65"><a href="https://www.guanjihuan.com/archives/category/academic/quantum-transport" data-wpel-link="internal" target="_self">量子输运</a> (11)
+</li>
+	<li class="cat-item cat-item-66"><a href="https://www.guanjihuan.com/archives/category/academic/landau-levels" data-wpel-link="internal" target="_self">朗道能级</a> (8)
+</li>
+	<li class="cat-item cat-item-75"><a href="https://www.guanjihuan.com/archives/category/academic/machine-learning" data-wpel-link="internal" target="_self">机器学习</a> (24)
+</li>
+	<li class="cat-item cat-item-60"><a href="https://www.guanjihuan.com/archives/category/academic/other-notes" data-wpel-link="internal" target="_self">其他笔记</a> (36)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-54"><a href="https://www.guanjihuan.com/archives/category/life" data-wpel-link="internal" target="_self">生活</a> (100)
+<ul class="children">
+	<li class="cat-item cat-item-50"><a href="https://www.guanjihuan.com/archives/category/life/softwares" data-wpel-link="internal" target="_self">软件使用</a> (27)
+</li>
+	<li class="cat-item cat-item-80"><a href="https://www.guanjihuan.com/archives/category/life/calculations" data-wpel-link="internal" target="_self">科学计算</a> (20)
+</li>
+	<li class="cat-item cat-item-79"><a href="https://www.guanjihuan.com/archives/category/life/views" data-wpel-link="internal" target="_self">个人观点</a> (27)
+</li>
+	<li class="cat-item cat-item-76"><a href="https://www.guanjihuan.com/archives/category/life/other-records" data-wpel-link="internal" target="_self">其他记录</a> (26)
+</li>
+</ul>
+</li>
+			</ul>
+
+			</aside><aside id="block-55" class="widget widget_block">
+<h4 class="wp-block-heading has-text-align-center">- 文章查看 -</h4>
+</aside><aside id="block-44" class="widget widget_block">
+<ul class="wp-block-list">
+<li><a href="https://www.guanjihuan.com/recent" data-wpel-link="internal" target="_self">最近发布</a> | <a href="https://www.guanjihuan.com/modified" data-wpel-link="internal" target="_self">最近修改</a></li>
+
+
+
+<li><a href="https://www.guanjihuan.com/like" data-wpel-link="internal" target="_self">最多点赞</a> | <a href="https://www.guanjihuan.com/archive" data-wpel-link="internal" target="_self">归档时间</a></li>
+</ul>
+</aside><aside id="block-67" class="widget widget_block">
+<h4 class="wp-block-heading has-text-align-center">- 最近发布 -</h4>
+</aside><aside id="block-68" class="widget widget_block widget_recent_entries"><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://www.guanjihuan.com/archives/43292" data-wpel-link="internal" target="_self">常见的相近学术词汇对比</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://www.guanjihuan.com/archives/43080" data-wpel-link="internal" target="_self">使用AI润色文章的一些小技巧</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://www.guanjihuan.com/archives/42726" data-wpel-link="internal" target="_self">Python变量的格式化输出</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://www.guanjihuan.com/archives/42769" data-wpel-link="internal" target="_self">高陈数的蜂窝双层系统中的拓扑隐藏相变 Topological hidden phase transition in honeycomb bilayers with a high Chern number</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://www.guanjihuan.com/archives/42543" data-wpel-link="internal" target="_self">事情的选择和优先级</a></li>
+</ul></aside><aside id="randompostforwidget-3" class="widget RandomPostForWidget"><h3 class="widget-title">随机文章</h3><ul><li><a href="https://www.guanjihuan.com/archives/40592" data-wpel-link="internal" target="_self">Kolmogorov-Arnold Networks的优势和局限性</a></li><li><a href="https://www.guanjihuan.com/archives/5205" data-wpel-link="internal" target="_self">手征对称性 Chiral Symmetry</a></li><li><a href="https://www.guanjihuan.com/archives/23414" data-wpel-link="internal" target="_self">独立博客的建设</a></li><li><a href="https://www.guanjihuan.com/archives/22009" data-wpel-link="internal" target="_self">在本地使用Git实现文件的版本控制</a></li><li><a href="https://www.guanjihuan.com/archives/12185" data-wpel-link="internal" target="_self">六角格子的佩尔斯替换和石墨烯条带的Hofstadter蝴蝶（附Python代码）</a></li><li><a href="https://www.guanjihuan.com/archives/21126" data-wpel-link="internal" target="_self">几种长度（平均自由程、相位相干长度等）</a></li><li><a href="https://www.guanjihuan.com/archives/6545" data-wpel-link="internal" target="_self">群论的基础概念</a></li><li><a href="https://www.guanjihuan.com/archives/4396" data-wpel-link="internal" target="_self">格林函数中Dyson方程的数值验证（附Python代码）</a></li><li><a href="https://www.guanjihuan.com/archives/39565" data-wpel-link="internal" target="_self">科学计算中进程并行和线程并行的区别</a></li><li><a href="https://www.guanjihuan.com/archives/41449" data-wpel-link="internal" target="_self">科学计算任务CPU并行和GPU并行的选择</a></li><li><a href="https://www.guanjihuan.com/archives/5375" data-wpel-link="internal" target="_self">方格子模型在实空间中的哈密顿量形式</a></li><li><a href="https://www.guanjihuan.com/archives/4829" data-wpel-link="internal" target="_self">Kane-Mele模型的哈密顿量和能带图（不考虑Rashba自旋轨道耦合的情况，附Python/Matlab代码）</a></li><li><a href="https://www.guanjihuan.com/archives/3364" data-wpel-link="internal" target="_self">泡利矩阵以及泡利矩阵的张量积</a></li><li><a href="https://www.guanjihuan.com/archives/42459" data-wpel-link="internal" target="_self">在机器学习模型训练中Epoch的大概取值范围</a></li><li><a href="https://www.guanjihuan.com/archives/3932" data-wpel-link="internal" target="_self">陈数Chern number的计算（定义法，附Python/Matlab代码）</a></li></ul></aside></aside>
+
+	</div>
+
+</div>
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+		<div>版权所有 ©2024&nbsp;Ji-Huan Guan</div>
+		
+					</footer>
+
+<div class="codeCopyTooltip" style="display: inline-block; background: #333; color: white; padding: 0 8px; font-size: 14px; border-radius: 2px; border: 1px solid #111; position:absolute; display: none;">双击复制</div>
+<script type="text/javascript">
+	function getElementPosition(el) {
+		var rect = el.getBoundingClientRect(),
+		scrollLeft = window.pageXOffset || document.documentElement.scrollLeft,
+		scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+		return { top: rect.top + scrollTop - 30, left: rect.left + scrollLeft }
+	}
+
+	function applyCodeCopy(element) {
+		element.addEventListener("dblclick", function() {
+			event.stopPropagation();
+			const el = document.createElement('textarea');
+			el.value = element.textContent;
+			document.body.appendChild(el);
+			el.select();
+			document.execCommand('copy');
+			document.body.removeChild(el);
+			codeCopyTooltip.innerHTML = '已复制!'
+		});
+		element.addEventListener("mouseover", function() {
+			event.stopPropagation();
+			var position = getElementPosition(element);
+			codeCopyTooltip.innerHTML = '双击复制';
+			codeCopyTooltip.style.display = 'inline-block';
+			codeCopyTooltip.style.top = position.top + 'px';
+			codeCopyTooltip.style.left = position.left + 'px';
+		});
+		element.addEventListener("mouseout", function() {
+			event.stopPropagation();
+			var position = getElementPosition(element);
+			codeCopyTooltip.style.display = 'none';
+			codeCopyTooltip.style.top ='9999px';
+		});
+	}
+
+	var codeCopyTooltip = document.querySelector('.codeCopyTooltip');
+
+	document.querySelectorAll("code").forEach(function(element) {
+		applyCodeCopy(element);
+	});
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    jQuery('.tc-collapser-comment').collapser({
+        mode: 'words',
+        truncate: 30,
+        ellipsis: '…',
+        showText: '点击展开',
+        speed: 1000,
+        controlBtn: 'commentMoreLink',
+        hideText: '点击隐藏',
+            });
+    
+});     
+</script>
+<script type="text/javascript" defer="" src="https://www.guanjihuan.com/wp-content/plugins/koko-analytics/assets/dist/js/script.js?ver=1.4.4" id="koko-analytics-js"></script>
+<script type="text/javascript" id="code-prettify-js-before">
+/* <![CDATA[ */
+var codePrettifyLoaderBaseUrl = "https:\/\/www.guanjihuan.com\/wp-content\/plugins\/code-prettify\/prettify";
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-content/plugins/wise-chat/assets/js/wise-chat.min.js?ver=3.2" id="wisechat-js"></script>
+<script type="text/javascript" id="wp-postviews-cache-js-extra">
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"https:\/\/www.guanjihuan.com\/wp-admin\/admin-ajax.php","nonce":"154fe0add9","post_id":"39031"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.68" id="wp-postviews-cache-js"></script>
+<script type="text/javascript" id="wp_ulike-js-extra">
+/* <![CDATA[ */
+var wp_ulike_params = {"ajax_url":"https:\/\/www.guanjihuan.com\/wp-admin\/admin-ajax.php","notifications":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-content/plugins/wp-ulike/assets/js/wp-ulike.min.js?ver=4.7.5" id="wp_ulike-js"></script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-content/themes/dara/assets/js/navigation.js?ver=20151215" id="dara-navigation-js"></script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-content/themes/dara/assets/js/skip-link-focus-fix.js?ver=20151215" id="dara-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://www.guanjihuan.com/wp-includes/js/comment-reply.min.js?ver=6.7" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+
+
+
+
+<!-- Dynamic page generated in 1.282 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2024-11-14 11:50:46 -->
+
+<!-- super cache --></body></html>

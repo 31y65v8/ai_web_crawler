@@ -1,0 +1,9 @@
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+Date: Thu, 14 Nov 2024 04:34:14 GMT
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjZQYkloSGlSRDRkSGNrQVdwaXhLdGc9PSIsInZhbHVlIjoiRU5oR1NnRWg2ZzUrdU5ySU9KQ0hRdllvQWYyNTgzM3hzWXBPZ0JYV3pXNGZPQXFvQVpWOGJmb3dzKzg0M1MrMWptUmVZQzlKYStucXpzNzVMbUZXWVJITkJRSWo0YnA3QlVheVhFa3N3UFhpc0Q3NUY2UzgxNldrTUIzSVdGZWwiLCJtYWMiOiJhOTUzYjVjYWY4MTgzMzM3ZjBhY2UwNDdhYzMxOGNmODFkNDk4ZjI4OTIxOGNiMmQ5YjAxM2MzN2ZkZWE5MjIyIn0%3D; expires=Thu, 14-Nov-2024 06:34:14 GMT; Max-Age=7200; path=/; domain=.infoobs.com
+Set-Cookie: infoobs_session=eyJpdiI6IjlUXC9ZMnNJdWx5TER6YmxXRTZyVld3PT0iLCJ2YWx1ZSI6Ing0cWpiNjhOQ2EwbUROM3VtTHFqUWJGWHZ6OUlQa3psWE5TZDFUc0xCbE42SUl0REVObGpMZ3hwVE5pOXpGYlpPQzVVVndEOFhZWlIwSk9pMkFvbFRMK3ZMdGhOMXNtMGZwcEdkXC8xb3Z3NzVNc1NVS3ZtZVNJMWNPNUFkT0t0biIsIm1hYyI6ImM4N2QwYTRlZjk3N2NhYTVhYmFmOGQ5NzRmMjNlODc5MzQzYTgzZTUxNzkyZGJjMmVmZGUwYmY5ZGY2OWYyMDkifQ%3D%3D; expires=Thu, 14-Nov-2024 06:34:14 GMT; Max-Age=7200; path=/; domain=.infoobs.com; httponly
+Strict-Transport-Security: max-age=15768000
+Content-Encoding: gzip

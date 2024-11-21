@@ -1,0 +1,1425 @@
+<!DOCTYPE html><html class="off_canvas js-off_canvas"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+            <meta http-equiv="Content-Security-Policy" content="block-all-mixed-content">
+            <title>從人工智慧、機器學習到深度學習，你不容錯過的人工智慧簡史 - INSIDE</title>
+            <meta name="HandheldFriendly" content="true">
+            <meta name="MobileOptimized" content="width">
+            <meta name="apple-mobile-web-app-capable" content="yes">
+            <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+            
+            <link rel="dns-prefetch" href="//www.inside.com.tw">
+            <link rel="dns-prefetch" href="//www.w3.org">
+            <link rel="dns-prefetch" href="//ogp.me">
+            <link rel="dns-prefetch" href="//www.google-analytics.com">
+            <link rel="dns-prefetch" href="//www.googletagmanager.com">
+            <link rel="dns-prefetch" href="//www.facebook.com">
+            
+                            <link rel="canonical" href="https://www.inside.com.tw/feature/ai/9854-ai-history">
+                        
+                                        <link rel="alternate" hreflang="zh-Hant" href="https://www.inside.com.tw/feature/ai/9854-ai-history">
+                        <link rel="alternate" type="application/rss+xml" title="INSIDE" hreflang="zh-Hant" href="https://www.inside.com.tw/feed/rss">
+            <meta name="copyright" content="TNL Media Group">
+                            <meta name="author" content="Lynn">
+                        <meta name="description" content="到底什麼是人工智慧？什麼是機器學習？什麼是深度學習？三者的差異在哪？要解決的又是什麼問題呢？今天就讓我們來聊聊，未來十年內將會真正改變你我生活的新世代技術。#硬塞科技字典,人工智慧專題報導,人工智慧,機器學習,深度學習 (ai-history)">
+            <meta name="keywords" content="硬塞科技字典,人工智慧專題報導,人工智慧,機器學習,深度學習">
+            <meta name="robots" content="all">
+            <meta property="fb:app_id" content="520754591819646">
+            <meta property="fb:pages" content="159425621565">
+            <meta property="og:type" content="article">
+            <meta property="og:url" content="https://www.inside.com.tw/feature/ai/9854-ai-history">
+            <meta property="og:site_name" content="INSIDE">
+            <meta property="og:title" content="從人工智慧、機器學習到深度學習，你不容錯過的人工智慧簡史 - INSIDE">
+            <meta property="og:description" content="到底什麼是人工智慧？什麼是機器學習？什麼是深度學習？三者的差異在哪？要解決的又是什麼問題呢？今天就讓我們來聊聊，未來十年內將會真正改變你我生活的新世代技術。">
+            <meta property="og:image" content="https://bucket-image.inkmaginecms.com/version/social/cabinet/files/consoles/1/teams/1/2022/10/NQ4BvQZYhFuz9zzWcFF1tyBxTWyJAnobDCPBAn1D.png">
+                                                <meta property="og:see_also" content="https://www.inside.com.tw/article/36777-amd-layoffs">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/feature/2019aws/36705-AWS">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/feature/2019aws/36704-AWS">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/article/36762-nvidia-teams-up-with-japanese-companies-to-propel-japan-as-a-global-ai-leader">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/feature/2019aws/36693-AWS">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/article/36748-reddit-ai-wave">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/feature/2019aws/36690-AWS">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/feature/2019aws/36689-AWS">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/article/36725-nvidia-surpasses-36-trillion-market-value-after-trump-win">
+                                    <meta property="og:see_also" content="https://www.inside.com.tw/feature/2019aws/36675-AWS">
+                                                    <meta property="article:tag" content="硬塞科技字典">
+                                    <meta property="article:tag" content="人工智慧專題報導">
+                                    <meta property="article:tag" content="人工智慧">
+                                    <meta property="article:tag" content="機器學習">
+                                    <meta property="article:tag" content="深度學習">
+                                <meta property="article:publisher" content="https://www.facebook.com/cyberbuzz/">
+                <meta property="article:section" content="Technology">
+                                    <meta property="article:author" content="https://www.facebook.com/cyberbuzz/">
+                                <meta property="article:modified_time" content="2017-07-10T14:17:09+08:00">
+                <meta property="article:published_time" content="2024-10-11T18:50:16+08:00">
+                        <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="@insideCyberbuzz">
+            <meta name="twitter:title" content="從人工智慧、機器學習到深度學習，你不容錯過的人工智慧簡史 - INSIDE">
+            <meta name="twitter:description" content="到底什麼是人工智慧？什麼是機器學習？什麼是深度學習？三者的差異在哪？要解決的又是什麼問題呢？今天就讓我們來聊聊，未來十年內將會真正改變你我生活的新世代技術。">
+            <meta name="twitter:creator" content="@insideCyberbuzz">
+            <meta name="twitter:image" content="https://bucket-image.inkmaginecms.com/version/social/cabinet/files/consoles/1/teams/1/2022/10/NQ4BvQZYhFuz9zzWcFF1tyBxTWyJAnobDCPBAn1D.png">
+            <link rel="shortcut icon" href="https://www.inside.com.tw/favicon.ico" type="image/x-icon">
+            <link rel="icon" href="https://www.inside.com.tw/favicon.ico" type="image/x-icon">
+            
+            <meta name="theme-color" content="#fffff">
+            <meta name="msapplication-TileColor" content="#fffff">
+            <link href="https://www.inside.com.tw/assets/css/style-B2Ir2dbB.css" rel="stylesheet">
+
+                        
+            <script async="" src="https://ad-specs.guoshipartners.com/static/js/onead-pixel.min.js?_t=5771853"></script><script type="text/javascript" async="" src="https://cdn.lndata.com/collect.js"></script><script async="" crossorigin="anonymous" src="https://sdk.ocmhood.com/sdk/ht.js?tag=NjY4seBuNKu71zQ2DxkxNDY4MjE0NtSE"></script><script src="https://connect.facebook.net/signals/config/664028690679129?v=2.9.176&amp;r=stable&amp;domain=www.inside.com.tw&amp;hme=872f04a0547459b3285cb03b0d7a47bfde40628f4b386809918a621e2688602f&amp;ex_m=70%2C121%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C172%2C175%2C187%2C183%2C184%2C186%2C29%2C101%2C53%2C77%2C185%2C167%2C170%2C180%2C181%2C188%2C131%2C41%2C189%2C190%2C34%2C143%2C15%2C50%2C195%2C194%2C133%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C168%2C171%2C140%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113" async=""></script><script async="" src="https://connect.facebook.net/zh_TW/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="application/json" id="source-material">{"advertising":["0"],"cabinet":["166032"],"page":{"key":"feature","name":"feature"},"terms":[{"type":"category","key":"dictionary","name":"\u786c\u585e\u79d1\u6280\u5b57\u5178"},{"type":"feature","key":"ai","name":"\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e"},{"type":"tag","key":1256,"name":"\u4eba\u5de5\u667a\u6167"},{"type":"tag","key":1362,"name":"\u6a5f\u5668\u5b78\u7fd2"},{"type":"tag","key":2384,"name":"\u6df1\u5ea6\u5b78\u7fd2"}],"authors":[{"key":157,"name":"Lynn"}],"infinite":[]}</script>
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FK4WVJ8FK6&amp;l=ga4DataLayer"></script>
+<script>
+    window.ga4DataLayer = window.ga4DataLayer || [];
+    function ga4_tag(){ga4DataLayer.push(arguments);}
+    // let cmp_data = localStorage.getItem('tnlmediagene-cmp')
+    // if (cmp_data === null) {
+    //     ga4_tag('consent', 'default', {
+    //         'ad_storage': 'denied',
+    //         'analytics_storage': 'denied',
+    //         'functionality_storage': 'denied',
+    //         'personalization_storage': 'denied',
+    //         'security_storage': 'denied'
+    //     });
+    // } else {
+    //     ga4_tag('consent', 'default', JSON.parse(cmp_data))
+    // }
+
+    ga4_tag('js', new Date());
+    ga4_tag('config', 'G-FK4WVJ8FK6');
+    (function () {
+        try {
+            window.Inside = {}
+            if (!window.Inside.sourceMaterial) {
+                window.Inside.sourceMaterial = JSON.parse(document.getElementById('source-material').textContent)
+            }
+            let source = window.Inside?.sourceMaterial
+            source.authors.forEach(function (value){
+                ga4_tag('event', 'Counter-Author', {
+                    'action': 'trigger',
+                    'label': value.name
+                })
+            })
+            source.terms.forEach(function (value){
+                ga4_tag('event', 'Counter-Term', {
+                    'action': 'trigger',
+                    'label': value.name
+                })
+            })
+        } catch (e) {}
+    })();
+
+    document.addEventListener("DOMContentLoaded", function() {
+        // ga4 gtm-track
+        var gtmTrack = document.querySelectorAll(".gtm-track");
+        for (var i = 0; i < gtmTrack.length; i++) {
+            gtmTrack[i].addEventListener('click', function(event) {
+                ga4_tag('event', this.getAttribute('data-gtm-category'), {
+                    'action': 'click',
+                    'label': this.getAttribute('data-gtm-label')
+                });
+            });
+        }
+    });
+</script>
+
+
+<script>
+    window.BrandGtmDataLayer = window.BrandGtmDataLayer || [];
+    window.DaexGtmDataLayer = window.DaexGtmDataLayer || [];
+    window.TNLMGTagDataLayer = window.TNLMGTagDataLayer || [];
+    DaexGtmDataLayer.push({'ID' : 'D-100006'});
+
+    (function () {
+        try {
+            let source = window.Inside?.sourceMaterial
+            BrandGtmDataLayer.push({'analyticsAuthors': source.authors})
+            BrandGtmDataLayer.push({'analyticsTerms': source.terms})
+            DaexGtmDataLayer.push({'analyticsAuthors': source.authors})
+            DaexGtmDataLayer.push({'analyticsTerms': source.terms})
+
+            
+            //BrandGtmDataLayer.push({'event': 'UserLoaded'})
+            //DaexGtmDataLayer.push({'event': 'UserLoaded'})
+            TNLMGTagDataLayer.push({
+                event: 'config',
+                config_id: '142a9c26a9ec1a2a078a2c6ae12bf515f52aeef91c6f3e175e16623d12ceb284',
+            });
+            let memberId = localStorage.getItem('member_id');
+            if (memberId) {
+                TNLMGTagDataLayer.push({
+                    event: 'set_member_id',
+                    member_id: memberId,
+                });
+            }
+            TNLMGTagDataLayer.push({event: 'pageview'});
+        } catch (e) {}
+
+                try {
+            let articleId = window.location.pathname.split('/').pop();
+            
+            articleId && TNLMGTagDataLayer.push({event: 'view_article', view_article_payload: {article_id: articleId}});
+        } catch (e) { console.log(e); }
+            })();
+
+    // BRAND
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','BrandGtmDataLayer','GTM-5HRDDHG');
+    // Inkmagine
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','inkmagineDataLayer','GTM-MGHRKMRV');
+    // DAEX
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','DaexGtmDataLayer','GTM-5THSZR9');
+    /* TNLMGTag */
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','TNLMGTagDataLayer','GTM-5HR8SM3V');
+</script>
+
+
+
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "17728543" });
+    (function() {
+        var s = document.createElement("script"), el =
+            document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" :
+            "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+
+
+
+
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/zh_TW/fbevents.js');
+    fbq('init', '664028690679129');
+    fbq('track', 'PageView');
+</script>
+
+<script>
+    fbq('track', 'ViewContent');
+</script>
+
+
+<script async="" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type="text/javascript">
+  (function() {
+
+    var sections = [];
+    var authors = [];
+
+    try {
+        window.inside = {}
+        if (!window.inside.sourceMaterial) {
+            window.inside.sourceMaterial = JSON.parse(document.getElementById('source-material').textContent)
+        }
+        let source = window.inside?.sourceMaterial
+        // console.log(source);
+
+        source.authors.forEach(function (value){
+            authors.push(value.name);
+        })
+        source.terms.forEach(function (value){
+            if (value.type == 'category') {
+                sections.push(value.name);
+            }
+        })
+    } catch (e) {}
+
+
+    /** CONFIGURATION START **/
+    var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+    _sf_async_config.uid = 61305;
+    _sf_async_config.domain = 'www.inside.com.tw'; //CHANGE THIS TO THE ROOT DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.useCanonicalDomain = true;
+    _sf_async_config.sections = sections.join(','); // CHANGE THIS TO YOUR SECTION NAME(s)
+    _sf_async_config.authors = authors.join(','); // CHANGE THIS TO YOUR AUTHOR NAME(s)
+    /** CONFIGURATION END **/
+    function loadChartbeat() {
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat.js';;
+        n.parentNode.insertBefore(e, n);
+    }
+    loadChartbeat();
+  })();
+</script>
+
+
+            
+            <script>
+          window.pbjs = window.pbjs || {que: []};
+                window.googletag = window.googletag || {cmd: []};
+      </script>
+  <script async="" src="https://flux-cdn.com/client/1000265/inside_01584.min.js"></script>
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.fluxtag = {
+      readyBids: {prebid: false, amazon: false, google: false},
+      failSafeTimeout: 3000,
+      isFn: function (object) {
+        var _t = 'Function';
+        var toString = Object.prototype.toString;
+        return toString.call(object) === '[object ' + _t + ']';
+      },
+      launchAdServer: function () {
+        if (!fluxtag.readyBids.prebid || !fluxtag.readyBids.amazon) {
+          return;
+        }
+        fluxtag.requestAdServer();
+      },
+      requestAdServer: function () {
+        if (!fluxtag.readyBids.google) {
+          fluxtag.readyBids.google = true;
+          googletag.cmd.push(function () {
+            if (!!(pbjs.setTargetingForGPTAsync) && fluxtag.isFn(pbjs.setTargetingForGPTAsync)) {
+              pbjs.que.push(function () { pbjs.setTargetingForGPTAsync(); });
+            }
+            googletag.pubads().refresh();
+          });
+        }
+      },
+      renderAds: function (lines, failSafeTimeout) {
+        googletag.cmd.push(function () {
+          var failSafeTimeout = failSafeTimeout || window.fluxtag.failSafeTimeout;
+          var bidRequestTimeout = (failSafeTimeout - 500) > 0 ? failSafeTimeout - 500 : failSafeTimeout;
+          var refreshLines = [];
+          var params = (function () {
+            var readyBids = {amazon: false, google: false, prebid: false};
+            var definedSlots = [];
+            var adsInfo = {
+              gpt: {slots: [], displayDivIds: []},
+              aps: {slots: [], divIds: []},
+              pb: {divIds: []},
+            };
+            var getSizeList = function (width, height, sizeMappings) {
+              const sizeMapping = sizeMappings.filter(function (mappingObject) {
+                return mappingObject[0][0] <= width && mappingObject[0][1] <= height;
+              }).reduce(function (a, b) {
+                return (Math.abs(b[0][0] - width) <= Math.abs(a[0][0] - width) && Math.abs(b[0][1] - height) <= Math.abs(a[0][1] - height)) ? b : a;
+              });
+              if (!sizeMapping[1].length) {
+                sizeMapping[1].push([]);
+              }
+              return sizeMapping[1];
+            };
+            googletag.pubads().getSlots().forEach(function (slot) {
+              definedSlots[slot.getSlotElementId()] = slot;
+            });
+            lines.forEach(function (line) {
+              var divId = line.divId;
+              adsInfo.pb.divIds.push(divId);
+              refreshLines.push({code: line.gpt.unitCode, id: divId});
+              if (definedSlots[divId]) {
+                adsInfo.gpt.slots.push(definedSlots[divId]);
+              } else {
+                var slot = googletag.defineSlot(line.gpt.unitCode, line.gpt.sizes, divId).addService(googletag.pubads());
+                if (line.gpt.sizeMapping && line.gpt.sizeMapping.length > 0) {
+                  var sizeMapping = googletag.sizeMapping();
+                  line.gpt.sizeMapping.forEach(function (size) {
+                    sizeMapping.addSize(size[0], size[1]);
+                  });
+                  slot.defineSizeMapping(sizeMapping.build());
+                }
+                if (line.gpt.keyValues && line.gpt.keyValues.length > 0) {
+                  line.gpt.keyValues.forEach(function (param) {
+                    slot.setTargeting(param.key, param.value);
+                  });
+                }
+                adsInfo.gpt.slots.push(slot);
+                adsInfo.gpt.displayDivIds.push(divId);
+              }
+              if (!!line.aps) {
+                if (line.gpt.sizeMapping && line.gpt.sizeMapping.length > 0) {
+                  line.aps.sizes = getSizeList(window.innerWidth, window.innerHeight, line.gpt.sizeMapping);
+                }
+                adsInfo.aps.slots.push({
+                  slotID: divId,
+                  slotName: line.aps.slotName,
+                  sizes: line.aps.sizes,
+                });
+                adsInfo.aps.divIds.push(divId);
+              }
+            });
+            if (adsInfo.aps.slots.length === 0) {
+              readyBids.amazon = true;
+            }
+            var adServerSend = function () {
+              if (!readyBids.amazon || !readyBids.prebid) {
+                return;
+              }
+              if (!readyBids.google) {
+                readyBids.google = true;
+                adsInfo.gpt.displayDivIds.forEach(function (divId) {
+                  googletag.display(divId);
+                });
+                if (!!(pbjs.setTargetingForGPTAsync) && fluxtag.isFn(pbjs.setTargetingForGPTAsync)) {
+                  pbjs.que.push(function () {
+                    pbjs.setTargetingForGPTAsync(adsInfo.pb.divIds);
+                  });
+                }
+                if (adsInfo.aps.slots.length > 0 && !!(window.apstag) && fluxtag.isFn(window.apstag.fetchBids)) {
+                  window.apstag.setDisplayBids(adsInfo.aps.divIds);
+                }
+                googletag.pubads().refresh(adsInfo.gpt.slots);
+              }
+            };
+            var apsCallback = function () {
+              readyBids.amazon = true;
+              adServerSend();
+            };
+            var pbCallback = function () {
+              readyBids.prebid = true;
+              adServerSend();
+            };
+            setTimeout(function () {
+              readyBids.amazon = true;
+              readyBids.prebid = true;
+              adServerSend();
+            }, failSafeTimeout);
+            return {aps: {slots: adsInfo.aps.slots, callback: apsCallback}, prebid: {callback: pbCallback}};
+          })();
+          if (!!(window.pbFlux) && window.pbFlux.refresh && fluxtag.isFn(window.pbFlux.refresh)) {
+            pbjs.que.push(function () {
+              window.pbFlux.refresh({
+                lines: refreshLines,
+                callback: params.prebid.callback,
+                timeout: bidRequestTimeout,
+              });
+            });
+          } else {
+            params.prebid.callback();
+          }
+          if (params.aps.slots.length > 0 && !!(window.apstag) && fluxtag.isFn(window.apstag.fetchBids)) {
+            window.apstag.fetchBids({
+              slots: params.aps.slots,
+              timeout: bidRequestTimeout,
+            }, function (bids) { params.aps.callback(); });
+          } else {
+            params.aps.callback();
+          }
+        });
+      },
+    };
+  </script>
+  <script>
+    googletag.cmd.push(function () {
+      googletag.pubads().enableSingleRequest();
+      googletag.pubads().disableInitialLoad();
+      googletag.pubads().enableAsyncRendering();
+      googletag.pubads().collapseEmptyDivs();
+                  googletag.pubads().addEventListener('slotRenderEnded', function (event) {window.hideAd(event);});
+                  googletag.enableServices();
+    });
+  </script>
+  <script>
+    window.tmgad = {
+      serial: 0,
+      loaded: false,
+      scan: function () {
+        googletag.cmd.push(function () {
+          let list = document.querySelectorAll('.tmgad-new');
+          for (let i = 0; i < list.length; i++) {
+            tmgad.build(list[i]);
+          }
+        });
+        if (!tmgad.loaded) {
+          document.addEventListener('DOMContentLoaded', function () {
+            tmgad.scan();
+          });
+          tmgad.loaded = true;
+        }
+      },
+      build: function (target) {
+        if (!target.classList.contains('tmgad-new')) {
+          console.log('TMGAD build: Pass ' + target.getAttribute('class'));
+          return;
+        }
+        try { target.classList.remove('tmgad-new'); } catch (e) {}
+        let attributes = {id: '', name: '', slot: '', type: 'general', size: [], mapping: [], targeting: {}};
+        try {
+          attributes = Object.assign(attributes, JSON.parse(target.querySelector('script').textContent.trim()));
+          tmgad.serial++;
+          attributes.id = 'tmgad-' + attributes.name + '-' + tmgad.serial;
+          target.setAttribute('id', attributes.id);
+          switch (attributes.type) {
+            case 'flux':
+              let flux = {
+                divId: attributes.id,
+                gpt: {
+                  unitCode: attributes.slot,
+                  sizes: attributes.size,
+                  sizeMapping: attributes.mapping,
+                  keyValues: [],
+                },
+              };
+              for (let targeting in attributes.targeting) {
+                if (!attributes.targeting[targeting].length) {
+                  continue;
+                }
+                flux.gpt.keyValues.push({key: targeting, value: attributes.targeting[targeting]});
+              }
+              window.fluxtag.renderAds([flux]);
+              return;
+          }
+          let mapping = googletag.sizeMapping();
+          for (let i = 0; i < attributes.mapping.length; i++) {
+            if (!attributes.mapping[i][1].length) {
+              continue;
+            }
+            mapping = mapping.addSize(attributes.mapping[i][0], attributes.mapping[i][1]);
+          }
+          let service = googletag.pubads();
+          for (let targeting in attributes.targeting) {
+            if (!attributes.targeting[targeting].length) {
+              continue;
+            }
+            service.setTargeting(targeting, attributes.targeting[targeting]);
+          }
+          googletag.cmd.push(function () {
+            let slot;
+            switch (attributes.type) {
+              case 'oop':
+                slot = googletag.defineOutOfPageSlot(attributes.slot, attributes.id)
+                  .addService(service);
+                break;
+              default:
+                slot = googletag.defineSlot(attributes.slot, attributes.size, attributes.id)
+                  .defineSizeMapping(mapping.build()).addService(service);
+                break;
+            }
+            googletag.display(attributes.id);
+            googletag.pubads().refresh([slot]);
+          });
+        } catch (e) {
+          console.warn('TMGAD build: [' + attributes.id + ']' + e.message);
+          return false;
+        }
+      },
+    };
+  </script>
+
+
+            
+            <script type="module" src="https://www.inside.com.tw/assets/js/member-xyjmdXXn.js" async=""></script>
+
+                <script src=" https://cdn.taboola.com/webpush/publishers/1486961/taboola-push-sdk.js"></script>
+
+            
+                            <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"\u5f9e\u4eba\u5de5\u667a\u6167\u3001\u6a5f\u5668\u5b78\u7fd2\u5230\u6df1\u5ea6\u5b78\u7fd2\uff0c\u4f60\u4e0d\u5bb9\u932f\u904e\u7684\u4eba\u5de5\u667a\u6167\u7c21\u53f2","mainEntityOfPage":"https:\/\/www.inside.com.tw\/feature\/ai\/9854-ai-history","datePublished":"2017-07-10T14:17:09+08:00","dateModified":"2024-10-11T18:50:16+08:00","author":[{"@type":"Person","name":"Lynn","url":"https:\/\/www.inside.com.tw\/author\/lynn"}],"keywords":["\u786c\u585e\u79d1\u6280\u5b57\u5178","\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e","\u4eba\u5de5\u667a\u6167","\u6a5f\u5668\u5b78\u7fd2","\u6df1\u5ea6\u5b78\u7fd2"],"image":{"@type":"ImageObject","url":"https:\/\/bucket-image.inkmaginecms.com\/version\/hd\/cabinet\/files\/consoles\/1\/teams\/1\/2022\/10\/NQ4BvQZYhFuz9zzWcFF1tyBxTWyJAnobDCPBAn1D.png","width":940,"height":537},"description":"\u5230\u5e95\u4ec0\u9ebc\u662f\u4eba\u5de5\u667a\u6167\uff1f\u4ec0\u9ebc\u662f\u6a5f\u5668\u5b78\u7fd2\uff1f\u4ec0\u9ebc\u662f\u6df1\u5ea6\u5b78\u7fd2\uff1f\u4e09\u8005\u7684\u5dee\u7570\u5728\u54ea\uff1f\u8981\u89e3\u6c7a\u7684\u53c8\u662f\u4ec0\u9ebc\u554f\u984c\u5462\uff1f\u4eca\u5929\u5c31\u8b93\u6211\u5011\u4f86\u804a\u804a\uff0c\u672a\u4f86\u5341\u5e74\u5167\u5c07\u6703\u771f\u6b63\u6539\u8b8a\u4f60\u6211\u751f\u6d3b\u7684\u65b0\u4e16\u4ee3\u6280\u8853\u3002","articleBody":"\u672c\u7bc7\u662f\u300a\u6a5f\u5668\u5b78\u7fd2\u5c08\u984c\u300b\u7684\u7b2c\u4e09\u7bc7\u6587\u3002\u7b2c\u4e00\u96c6\uff1a \u96f2\u7aef\u904b\u7b97\u662f\u4ec0\u9ebc\uff1fAmazon\u3001Google\u3001Microsoft \u7b49\u5927\u5ee0\u722d\u76f8\u4f48\u5c40\uff0c\u6703\u5982\u4f55\u6539\u8b8a\u4eba\u985e\u751f\u6d3b\uff1f \u7b2c\u4e8c\u96c6\uff1a \u5927\u6578\u64da\u5230\u5e95\u662f\u4ec0\u9ebc\u610f\u601d\uff1f\u4e8b\u5be6\u4e0a\uff0c\u5b83\u662f\u4e00\u7a2e\u7cbe\u795e\uff01\u5f9e Google AlphaGo \u5230 Chatbot \u804a\u5929\u6a5f\u5668\u4eba\u3001\u667a\u6167\u7406\u5c08\u3001\u7cbe\u6e96\u91ab\u7642\u3001\u6a5f\u5668\u7ffb\u8b6f\u2026 \u8fd1\u5e74\u4f86\u6642\u800c\u807d\u5230\u4eba\u5de5\u667a\u6167\u3001\u6a5f\u5668\u5b78\u7fd2\u7684\u76f8\u95dc\u6d88\u606f\uff0c\u4e00\u5915\u4e4b\u9593\u9019\u9805\u6280\u8853\u653b\u5360\u4e86\u5404\u5927\u5a92\u9ad4\u7248\u9762\u3002\u4e0d\u4f46 Google\u3001Facebook\u3001\u5fae\u8edf\u3001\u767e\u5ea6\u3001IBM \u7b49\u5de8\u982d\u7d1b\u7d1b\u9032\u8ecd\u8a72\u9818\u57df\uff0cNVIDIA \u57f7\u884c\u9577\u9ec3\u4ec1\u52f3\u4ea6\u5ba3\u7a31\u5c07\u7531\u986f\u793a\u5361\u8f49\u578b\u6210\u4eba\u5de5\u667a\u6167\u904b\u7b97\u516c\u53f8\uff0c\u5f37\u8abf\u4eba\u5de5\u667a\u6167\u6d6a\u6f6e\u7684\u4f86\u81e8\u30022016 \u5e74\u521d\uff0cAlphago \u4ee5 4:1 \u7684\u597d\u6210\u7e3e\u6253\u6557\u5357\u97d3\u570d\u68cb\u9078\u624b\u674e\u4e16\u4e6d\u30022016 \u5e74\u5e95\uff0c\u53c8\u4ee5 Master \u7684\u4ee3\u7a31\u5728\u7db2\u8def\u4e0a\u6230\u52dd\u8076\u885b\u5e73\uff0c\u8c6a\u53d6 59 \u52dd\u3002\u8b1b\u5230\u4eba\u5de5\u667a\u6167\uff0c\u4f60\u7684\u60f3\u50cf\u662f\u4ec0\u9ebc\uff1f\u4e00\u822c\u4eba\u5c0d\u4eba\u5de5\u667a\u6167\u7684\u60f3\u50cf\uff0c\u4e0d\u5916\u4e4e\u662f\u5f71\u5287\u4e2d\u7684\u6a5f\u5668\u4eba\u5f62\u8c61\u3002\u5f9e\u53f2\u8482\u82ac\u00b7\u53f2\u5339\u67cf\u5c0e\u6f14\u7684\u300aAI \u4eba\u5de5\u667a\u6167\u300b\u4e2d\u53ef\u611b\u7684\u7537\u5b69\u3001\u300a\u6a5f\u68b0\u516c\u6575\u300b\u4e2d\u60f3\u63a7\u5236\u4eba\u985e\u7d71\u6cbb\u4e16\u754c\u7684\u6a5f\u5668\u4eba\u3001\u300a\u6a5f\u68b0\u59ec\u300b\u4e2d\u80fd\u9a19\u904e\u4eba\u985e\u60c5\u611f\u7684\u4eba\u9020\u610f\u8b58... \u3002\u4e0d\u904e\u6487\u9664\u9019\u4e9b\uff0c\u4f86\u770b\u770b\u6211\u5011\u6bcf\u65e5\u5728\u7528\u7684\u8cc7\u8a0a\u7522\u54c1\uff1aGMAIL \u4e2d\u5783\u573e\u4fe1\u4ef6\u6703\u81ea\u52d5\u88ab\u4e1f\u5165\u5783\u573e\u6876Google \u76f8\u7c3f\u7684\u5716\u50cf\u8fa8\u8b58\u9019\u500b\u66f4\u731b\u4e86\uff0c\u662f\u5716\u50cf\u8fa8\u8b58\u52a0\u4e0a\u81ea\u52d5\u7ffb\u8b6f\u3002\u5f9e\u5783\u573e\u4fe1\u4ef6\u81ea\u52d5\u5206\u985e\u3001\u5716\u50cf\u8fa8\u8b58\u3001\u81ea\u52d5\u7ffb\u8b6f... \u4f60\u77e5\u9053\u5167\u90e8\u5c31\u5df2\u7d93\u5305\u542b\u4e86\u4eba\u5de5\u667a\u6167\u7684\u6280\u8853\u55ce\uff1f\u4e0d\u904e\u5177\u9ad4\u4f86\u8aaa\uff0c\u6211\u5011\u6703\u628a\u9019\u6a23\u7684\u6280\u8853\u7a31\u70ba\u300c\u6a5f\u5668\u5b78\u7fd2\u300d\u3002\u5230\u5e95\u4ec0\u9ebc\u662f\u4eba\u5de5\u667a\u6167\uff1f\u4ec0\u9ebc\u662f\u6a5f\u5668\u5b78\u7fd2\uff1f\u4ec0\u9ebc\u662f\u6df1\u5ea6\u5b78\u7fd2\uff1f\u4e09\u8005\u7684\u5dee\u7570\u5728\u54ea\uff1f\u8981\u89e3\u6c7a\u7684\u53c8\u662f\u4ec0\u9ebc\u554f\u984c\u5462\uff1f\u4eca\u5929\u5c31\u8b93\u6211\u5011\u4f86\u804a\u804a\uff0c\u672a\u4f86\u5341\u5e74\u5167\u5c07\u6703\u771f\u6b63\u6539\u8b8a\u4f60\u6211\u751f\u6d3b\u7684\u65b0\u4e16\u4ee3\u6280\u8853\u3002\u4eba\u5de5\u667a\u6167\uff1a\u5982\u4f55\u4ee5\u96fb\u8166\u89e3\u6c7a\u554f\u984c\u4eba\u985e\u81ea\u5f9e\u767c\u660e\u96fb\u8166\u4ee5\u4f86\uff0c\u4fbf\u59cb\u7d42\u6e34\u671b\u8457\u80fd\u8b93\u96fb\u8166\u64c1\u6709\u985e\u4f3c\u4eba\u985e\u7684\u667a\u6167\u3002\u4e00\u63d0\u5230\u4eba\u5de5\u667a\u6167\uff0c\u5f88\u5bb9\u6613\u4ee4\u4eba\u60f3\u5230\u96fb\u5f71\u8207\u79d1\u5e7b\u5c0f\u8aaa\u4e2d\u5e38\u898b\u6703\u804a\u5929\u3001\u6703\u716e\u98ef\uff0c\u9084\u6703\u7a81\u7136\u9593\u60f3\u6bc0\u6ec5\u4eba\u985e\u53d6\u800c\u4ee3\u4e4b\u7684\u6a5f\u5668\u4eba\u5f62\u8c61\u3002\u7a76\u7adf\u4ec0\u9ebc\u7b97\u4f5c\u300c\u667a\u6167\u300d\uff1f\u82e5\u96fb\u8166\u80fd\u91dd\u5c0d\u6211\u5011\u7684\u554f\u984c\u6e96\u78ba\u5730\u4f5c\u56de\u7b54\u3001\u6216\u5b78\u6703\u4e0b\u68cb\u548c\u6ce1\u5496\u5561\uff0c\u5982\u6b64\u5c31\u80fd\u78ba\u5b9a\u96fb\u8166\u64c1\u6709\u667a\u6167\u55ce\uff1f\u8981\u600e\u9ebc\u78ba\u5b9a\u5b83\u771f\u6b63\u64c1\u6709\u610f\u8b58\u3001\u7406\u89e3\u60c5\u611f\uff1f\u7576\u5e74 AI \u6280\u8853\u5c1a\u672a\u771f\u6b63\u767c\u5c55\u8d77\u4f86\uff0c\u54f2\u5b78\u5bb6\u8207\u4eba\u6587\u5b78\u5bb6\u5df2\u5c31\u9019\u500b\u554f\u984c\u505a\u904e\u8a31\u591a\u5ee3\u6cdb\u7684\u8a0e\u8ad6\u3002\u6839\u64da\u9019\u500b\u554f\u984c\uff0c\u7f8e\u570b\u54f2\u5b78\u5bb6\u7d04\u7ff0\uff0e\u745f\u723e\uff08John Searle\uff09\u4fbf\u63d0\u51fa\u4e86\u300c\u5f37\u4eba\u5de5\u667a\u6167\u300d\uff08Strong A.I.\uff09\u548c\u300c\u5f31\u4eba\u5de5\u667a\u6167\u300d\uff08Weak A.I.\uff09\u7684\u5206\u985e\uff0c\u4e3b\u5f35\u5169\u7a2e\u61c9\u5340\u5225\u958b\u4f86\u3002\u5f37\u4eba\u5de5\u667a\u6167\u53d7\u5230\u96fb\u5f71\u8207\u79d1\u5e7b\u5c0f\u8aaa\u7684\u5f71\u97ff\uff0c\u5f37\u8abf\u96fb\u8166\u5c07\u80fd\u64c1\u6709\u81ea\u89ba\u610f\u8b58\u3001\u6027\u683c\u3001\u60c5\u611f\u3001\u77e5\u89ba\u3001\u793e\u4ea4\u7b49\u4eba\u985e\u7684\u7279\u5fb5\u3002\u53e6\u4e00\u65b9\u9762\uff0c\u5f31\u4eba\u5de5\u667a\u6167\u4e3b\u5f35\u6a5f\u5668\u53ea\u80fd\u6a21\u64ec\u4eba\u985e\u5177\u6709\u601d\u7dad\u7684\u884c\u70ba\u8868\u73fe\uff0c\u800c\u4e0d\u662f\u771f\u6b63\u61c2\u5f97\u601d\u8003\u3002\u4ed6\u5011\u8a8d\u70ba\u6a5f\u5668\u50c5\u80fd\u6a21\u64ec\u4eba\u985e\uff0c\u4e26\u4e0d\u5177\u610f\u8b58\u3001\u4e5f\u4e0d\u7406\u89e3\u52d5\u4f5c\u672c\u8eab\u7684\u610f\u7fa9\u3002\u7c21\u55ae\u4f86\u8aaa\u82e5\u6709\u4e00\u96bb\u9e1a\u9d61\u88ab\u8a13\u7df4\u5230\u80fd\u56de\u7b54\u4eba\u985e\u6240\u6709\u7684\u554f\u984c\uff0c\u4e26\u4e0d\u4ee3\u8868\u9e1a\u9d61\u672c\u8eab\u77ad\u89e3\u554f\u984c\u672c\u8eab\u8207\u7b54\u6848\u7684\u610f\u7fa9\u3002Ex Machina \u96fb\u5f71\u4e2d\u7531\u7537\u4e3b\u89d2\u5c0d\u6a5f\u5668\u4eba\u9032\u884c Turing Test \u7684\u4e00\u5e55\u3002\u5728\u5716\u9748\u6240\u63d0\u51fa\u7684\u5716\u9748\u6e2c\u8a66\uff08Turing Test\uff09\u4e2d\uff0c\u5982\u679c\u4e00\u53f0\u6a5f\u5668\u8207\u4eba\u985e\u5c0d\u8a71\u3001\u800c\u4e0d\u88ab\u8fa8\u5225\u51fa\u5df1\u65b9\u7684\u6a5f\u5668\u8eab\u5206\u6642\uff0c\u4fbf\u80fd\u5ba3\u7a31\u8a72\u6a5f\u5668\u64c1\u6709\u667a\u6167\u3002\u9019\u53ef\u4ee5\u7b97\u662f\u4eba\u5de5\u667a\u6167\u7684\u4e00\u7a2e\u6aa2\u6e2c\u65b9\u5f0f\uff0c\u7136\u800c\u5f37\u4eba\u5de5\u667a\u6167\u64c1\u8b77\u8005\u53ef\u80fd\u6703\u53cd\u99c1\u2500\u2500\u8868\u73fe\u51fa\u300c\u667a\u6167\u300d\u7684\u884c\u70ba\u4e0d\u4ee3\u8868\u5b83\u771f\u6b63\u64c1\u6709\u667a\u6167\u3001\u77ad\u89e3\u5c0d\u8a71\u7684\u610f\u7fa9\u3002\u7576\u7136\u5f31\u4eba\u5de5\u667a\u6167\u64c1\u8b77\u8005\u4e5f\u53ef\u4ee5\u53cd\u99c1\uff1a\u6211\u5011\u6c38\u9060\u4e0d\u53ef\u80fd\u77e5\u9053\u53e6\u4e00\u500b\u4eba\u7684\u60f3\u6cd5\uff0c\u6bd4\u5982\u6211\u5728\u548c\u4e00\u500b\u4eba\u5c0d\u8a71\u6642\u3001\u4e26\u4e0d\u77e5\u9053\u5c0d\u65b9\u662f\u5426\u548c\u6211\u9032\u884c\u4e00\u6a23\u7684\u601d\u8003\u65b9\u5f0f\uff0c\u56e0\u6b64\u6211\u5011\u4e0d\u80fd\u5426\u5b9a\u9019\u53f0\u6a5f\u5668\u5b58\u5728\u667a\u6167\u7684\u53ef\u80fd\u3002\u662f\u5426\u6709\u9ede\u985e\u4f3c\u838a\u5b50\u548c\u60e0\u5b50\u7684\u300c\u5b50\u975e\u9b5a\uff0c\u5b89\u77e5\u9b5a\u4e4b\u6a02\u300d\u7684\u5c0d\u8a71\u4e86\u5462\uff1f\u6709\u8208\u8da3\u7684\u8b80\u8005\u80fd\u518d\u5c31\u4e0a\u8ff0\u554f\u984c\u6301\u7e8c\u6df1\u5165\u8a0e\u8ad6\u601d\u8003\u3002\u4e0d\u904e\u5728\u96fb\u8166\u79d1\u5b78\u754c\uff0c\u76f4\u81f3\u76ee\u524d\u70ba\u6b62\u5c1a\u4e0d\u9808\u6df1\u5165\u7cfe\u7d50\u5728\u9019\u500b\u554f\u984c\u5c64\u9762\u3002\u96fb\u8166\u79d1\u5b78\u5bb6\u5728\u610f\u7684\u662f\u2500\u2500\u6211\u5011\u80fd\u7528\u4eba\u5de5\u667a\u6167\u89e3\u6c7a\u4ec0\u9ebc\u6a23\u7684\u554f\u984c\uff1f\u9084\u8a18\u5f97\u6211\u5011\u5728 \u96fb\u8166\u662f\u600e\u9ebc\u4f86\u7684\uff1f \u4e00\u6587\u4e2d\u63d0\u904e\uff0c\u6700\u65e9\u7684\u99ae\u7d10\u66fc\u67b6\u69cb\u901a\u7528\u96fb\u8166\u662f\u5728 1945 \u5e74\u88ab\u958b\u767c\u51fa\u4f86\u30021950 \u5e74\u4ee3\u7684\u96fb\u8166\u79d1\u5b78\u525b\u8d77\u6b65\uff0c\u5f9e\u79d1\u5b78\u5bb6\u5230\u4e00\u822c\u5927\u773e\uff0c\u90fd\u5c0d\u65bc\u96fb\u8166\u5145\u6eff\u7121\u76e1\u7684\u60f3\u50cf\u3002\u4eba\u5de5\u667a\u6167\uff08Artificial Intelligence\uff09\u4e00\u8a5e\u6700\u65e9\u662f\u5728 1956 \u5e74\u8209\u8fa6\u65bc\u9054\u7279\u8305\u65af\uff08Dartmouth\uff09\u7684\u4e00\u5834\u50b3\u5947\u7814\u8a0e\u6703\uff0c\u8207\u6703\u8005\u5305\u62ec\u4e86\u5e7e\u4f4d\u7576\u4ee3\u6578\u4e00\u6578\u4e8c\u7684\u5b78\u8005\u3002\u7576\u6642\uff0c\u5168\u4e16\u754c\u7b2c\u4e00\u53f0\u901a\u7528\u96fb\u8166 EDVAC \u554f\u4e16\u525b\u6eff\u5341\u5e74\uff0c\u4efb\u4f55\u4eba\u53ea\u8981\u770b\u5230\u904e\u96fb\u8166\u7684\u8d85\u5f37\u904b\u7b97\u80fd\u529b\uff0c\u60f3\u7576\u7136\u723e\u90fd\u6703\u8a8d\u70ba\u96fb\u8166\u6709\u4e00\u5929\u6703\u6bd4\u4eba\u985e\u9084\u8070\u660e\u3001\u751a\u81f3\u662f\u8d85\u8d8a\u4eba\u985e\u7684\u5b58\u5728\u3002\u5176\u4e2d\u7d10\u5384\u723e\uff08Newell\uff09\u3001\u897f\u8499\uff08Simon\uff09\u66f4\u7576\u5834\u5c55\u793a\u4e86\u6709\u300c\u5168\u4e16\u754c\u7b2c\u4e00\u500b\u4eba\u5de5\u667a\u6167\u7a0b\u5f0f\u300d\u4e4b\u7a31\u7684\u908f\u8f2f\u7406\u8ad6\u5bb6\uff08Logic Theorist\uff09\uff0c\u9019\u662f\u4e00\u500b\u6703\u81ea\u52d5\u8b49\u660e\u5b9a\u7406\u7684\u7a0b\u5f0f\u3002\u5728\u5404\u754c\u7684\u9ad8\u5ea6\u671f\u76fc\u4e0b\uff0c\u4e0d\u4f46\u85dd\u8853\u754c\u76db\u8208\u76f8\u95dc\u984c\u6750\uff0c\u5305\u62ec\u5927\u5c0e\u6f14\u5f17\u88e1\u8328\u30fb\u6717\uff08Fritz Lang\uff09\u7684\u5927\u90fd\u6703\u3001\u79d1\u5e7b\u4f5c\u5bb6\u827e\u897f\u83ab\u592b\uff08Isaac Asimov\uff09\u7684\u6a5f\u5668\u4eba\u4e09\u5927\u6cd5\u5247\u7b49\u7b49\uff0c\u4e3b\u6d41\u79d1\u5b78\u754c\u4e5f\u90fd\u9810\u4f30 20 \u5230 30 \u5e74\u5de6\u53f3\u7684\u6642\u9593\uff0c\u4fbf\u53ef\u4ee5\u6210\u529f\u5275\u9020\u51fa\u8207\u4eba\u985e\u667a\u80fd\u540c\u6a23\u9ad8\u5ea6\u7684\u4eba\u5de5\u667a\u6167\u3002\u7136\u800c\u4eba\u5de5\u667a\u6167\u7684\u7814\u7a76\u5f88\u5feb\u4fbf\u9762\u81e8\u4e86\u74f6\u9838\u3002\u5982\u679c\u4f60\u6709\u770b\u904e \u96fb\u8166\u662f\u600e\u9ebc\u4f86\u7684\uff1f \u4e00\u6587\uff0c\u4f60\u53ef\u4ee5\u5f88\u660e\u78ba\u5730\u611f\u53d7\u5230\u2500\u2500\u767c\u660e\u96fb\u8166\u7684\u6578\u5b78\u6a21\u578b\u57fa\u790e\u548c\u601d\u60f3\uff0c\u662f\u5efa\u7acb\u5728\u908f\u8f2f\u904b\u7b97\u4e0a\u3002\u5f9e\u5eb7\u6258\u723e\u7684\u96c6\u5408\u8ad6\u3001\u5230\u5e0c\u723e\u4f2f\u7279\u7684\u53ef\u6578\u7121\u9650\u96c6\u3001\u54e5\u5fb7\u723e\u4e0d\u5b8c\u5099\u5b9a\u7406\u3001\u5716\u9748\u4ee5\u5716\u9748\u6a5f\u4f86\u6f14\u7e79\u54e5\u5fb7\u723e\u4e0d\u5b8c\u5099\u5b9a\u7406... \u7b49\u7b49\uff0c\u90fd\u662f\u5229\u7528\u7b26\u865f\u4f86\u8868\u9054\u7684\u5f62\u5f0f\u7cfb\u7d71\uff0c\u518d\u7528\u6709\u9650\u7684\u6578\u5b78\u5f0f\u53bb\u8b49\u660e\u9019\u500b\u7cfb\u7d71\u4e0d\u6703\u51fa\u73fe\u77db\u76fe\u3002\u53ef\u60f3\u800c\u77e5\uff0c\u9019\u4f7f\u5f97\u7576\u4ee3\u4eba\u5c0d\u65bc\u4eba\u5de5\u667a\u6167\u7684\u7814\u7a76\u65b9\u5411\u4e5f\u662f\u4ee5\u300c\u908f\u8f2f\u7b26\u865f\u63a8\u5c0e\u300d\u70ba\u51fa\u767c\u9ede\u3002\u89e3\u7684\u554f\u984c\u5305\u62ec\u5229\u7528 Search Tree \u4f86\u8d70\u51fa\u8ff7\u5bae\u3001\u6216\u6cb3\u5167\u5854\uff08Hanoi\uff09\u554f\u984c\u3002\u6cb3\u5167\u5854\u554f\u984c\uff1a\u50b3\u8aaa\u5370\u5ea6\u67d0\u9593\u5bfa\u9662\u6709\u4e09\u6839\u67f1\u5b50\uff0c\u4e0a\u4e32 64 \u500b\u91d1\u76e4\u3002\u5bfa\u9662\u88e1\u7684\u50e7\u4fb6\u4ee5\u4e0b\u8ff0\u898f\u5247\uff0c\u5c07\u9019\u4e9b\u76e4\u5b50\u5f9e\u7b2c\u4e00\u6839\u79fb\u52d5\u81f3\u7b2c\u4e09\u6839\uff1a\u76e4\u7684\u5c3a\u5bf8\u7531\u4e0b\u5230\u4e0a\u4f9d\u6b21\u8b8a\u5c0f\u3002\u6bcf\u6b21\u53ea\u80fd\u79fb\u52d5\u4e00\u500b\u5713\u76e4\uff1b\u5927\u76e4\u4e0d\u80fd\u758a\u5728\u5c0f\u76e4\u4e0a\u9762\u3002\u50b3\u8aaa\u7576\u9019\u4e9b\u76e4\u5b50\u79fb\u52d5\u5b8c\u7562\u7684\u90a3\u4e00\u523b\uff0c\u4e16\u754c\u5c31\u6703\u6ec5\u4ea1\u3002\u82e5\u50b3\u8aaa\u5c6c\u5be6\uff0c\u50e7\u4fb6\u5011\u9700\u8981 \u6b65\u624d\u80fd\u5b8c\u6210\u9019\u500b\u4efb\u52d9\uff1b\u82e5\u4ed6\u5011\u6bcf\u79d2\u53ef\u5b8c\u6210\u4e00\u500b\u76e4\u5b50\u7684\u79fb\u52d5\uff0c\u5c31\u9700\u8981 5849 \u5104\u5e74\u624d\u80fd\u5b8c\u6210\u3002\u6574\u500b\u5b87\u5b99\u73fe\u5728\u4e5f\u4e0d\u904e 137 \u5104\u5e74\u3002\u4e0d\u904e\u82e5\u7528\u96fb\u8166\u7684\u905e\u8ff4\u89e3\uff0c\u5f88\u5feb\u5c31\u80fd\u505a\u5b8c\u4e86\u3002\u7b2c\u4e00\u6b21\u4eba\u5de5\u667a\u6167\u6ce1\u6cab\u5f8c\uff0c\u7814\u7a76\u9818\u57df\u8f49\u70ba\u300c\u6a5f\u5668\u5b78\u7fd2\u300d\u7136\u800c\u554f\u984c\u4f86\u4e86\u2500\u2500\u6a5f\u5668\u7a0b\u5e8f\u662f\u7531\u4eba\u985e\u64b0\u5beb\u51fa\u4f86\u7684\uff0c\u7576\u4eba\u985e\u4e0d\u77e5\u9053\u4e00\u500b\u554f\u984c\u7684\u89e3\u7b54\u6642\u3001\u6a5f\u5668\u540c\u6a23\u4e0d\u80fd\u89e3\u6c7a\u4eba\u985e\u7121\u6cd5\u56de\u7b54\u7684\u554f\u984c\u3002\u53e6\u4e00\u500b\u554f\u984c\u662f\u7576\u6642\u96fb\u8166\u7684\u8a08\u7b97\u901f\u5ea6\u5c1a\u672a\u63d0\u5347\u3001\u5132\u5b58\u7a7a\u9593\u4e5f\u5c0f\u3001\u6578\u64da\u91cf\u66f4\u4e0d\u8db3\u5920\u3002\u65bc\u662f\u5c0d\u4eba\u5de5\u667a\u6167\u7684\u7814\u7a76\u65b9\u5411\u5c40\u9650\u65bc\u908f\u8f2f\u6578\u5b78\u9818\u57df\u3001\u52a0\u4e0a\u786c\u9ad4\u74b0\u5883\u4e0a\u7684\u56f0\u5883\uff0c\u4f7f\u65e9\u671f\u4eba\u5de5\u667a\u6167\u53ea\u80fd\u89e3\u4e00\u4e9b\u4ee3\u6578\u984c\u548c\u6578\u5b78\u8b49\u660e\uff0c\u96e3\u4ee5\u5728\u5be6\u52d9\u4e0a\u6709\u6240\u61c9\u7528\u3002\u5728 1970 \u5e74\u4ee3\u672b\u6642\uff0c\u4e00\u4e9b\u77e5\u540d\u7814\u767c\u8a08\u756b\u5982\u7d10\u5384\u723e\u548c\u897f\u8499\u7684\u300c\u901a\u7528\u554f\u984c\u89e3\u6c7a\u6a5f\u300d\u548c\u65e5\u672c\u653f\u5e9c\u9818\u982d\u7684\u300c\u7b2c\u4e94\u4ee3\u96fb\u8166\u7cfb\u7d71\u300d\u9054\u4e0d\u5230\u9810\u671f\u6548\u679c\u6642\uff0c\u4eba\u5de5\u667a\u6167\u958b\u59cb\u88ab\u4eba\u5011\u8996\u70ba\u4e00\u5834\u73fe\u4ee3\u7149\u91d1\u8853\uff0c\u4f01\u696d\u8207\u653f\u5e9c\u7d1b\u7d1b\u64a4\u8cc7\u3001\u7814\u7a76\u57fa\u91d1\u88ab\u524a\u6e1b\u3001\u591a\u500b\u8a08\u756b\u88ab\u505c\u6b62\uff0c\u8fce\u4f86\u4e86\u4eba\u5de5\u667a\u6167\u7684\u7b2c\u4e00\u5834\u5bd2\u51ac\u671f\u3002\u96d6\u7136\u6b64\u6642\u4eba\u5de5\u667a\u6167\u7684\u7814\u7a76\u9081\u5165\u4e86\u74f6\u9838\uff0c\u4f46\u662f\u96fb\u8166\u786c\u9ad4\u537b\u662f\u4ee5\u6307\u6578\u578b\u7684\u65b9\u5f0f\u9032\u6b65\u30021965 \u5e74 Intel \u5275\u59cb\u4eba\u6469\u723e\u89c0\u5bdf\u5230\u534a\u5c0e\u9ad4\u6676\u7247\u4e0a\u7684\u96fb\u6676\u9ad4\u6bcf\u4e00\u5e74\u90fd\u80fd\u7ffb\u4e00\u500d\uff1b\u5230\u4e86 1975 \u5e74\uff0c\u9019\u500b\u901f\u5ea6\u8abf\u6574\u6210\u6bcf\u5169\u5e74\u589e\u52a0\u4e00\u500d\uff0c\u96fb\u8166\u7684\u904b\u7b97\u80fd\u529b\u8207\u5132\u5b58\u80fd\u529b\u540c\u6642\u8ddf\u8457\u6469\u723e\u5b9a\u5f8b\u9ad8\u901f\u589e\u6f32\u3002\u5982\u4eca\uff0c\u96fb\u8166\u7684\u904b\u7b97\u80fd\u529b\u7d04\u70ba 30 \u5e74\u524d\u7684 100 \u842c\u500d\u3002\uff08\u6b64\u6bb5\u4ecb\u7d39\u6b61\u8fce\u53c3\u8003 \u6676\u5713\u4ee3\u5de5\u722d\u9738\u6230\uff1a\u534a\u5c0e\u9ad4\u77e5\u8b58 \u4e00\u6587\uff09\u6211\u5011\u4e0a\u9762\u63d0\u5230\uff0c\u65e9\u671f\u7684\u4eba\u5de5\u667a\u6167\u7814\u7a76\u805a\u7126\u5728\u908f\u8f2f\u63a8\u8ad6\u7684\u65b9\u6cd5\uff0c\u5c08\u6ce8\u65bc\u6a21\u4eff\u4eba\u985e\u63a8\u7406\u904e\u7a0b\u7684\u601d\u8003\u6a21\u5f0f\uff0c\u9700\u8981\u767e\u5206\u4e4b\u767e\u78ba\u5b9a\u7684\u4e8b\u5be6\u914d\u5408\uff0c\u5be6\u52d9\u4e0a\u61c9\u7528\u56f0\u96e3\u3002\u4f46\uff0c\u6709\u6c92\u6709\u53ef\u80fd\u63db\u4e00\u500b\u601d\u8003\u6a21\u5f0f\uff0c\u6bd4\u5982\u7528\u7d71\u8a08\u6a5f\u7387\u5b78\u4f86\u8655\u7406\u4eba\u5de5\u667a\u6167\u7684\u554f\u984c\u5462\uff1f\u5047\u8a2d\u4e00\u500b\u547d\u984c\u70ba\uff1a\u300c\u67d0\u500b\u7279\u5b9a\u4e8b\u4ef6\u6703\u767c\u751f\u55ce\uff1f\u300d\u540c\u6a23\u662f\u5224\u65b7\u300c\u662f\u300d\u6216\u300c\u5426\u300d\u7684\u4e8c\u5206\u6cd5\uff0c\u6578\u5b78\u908f\u8f2f\u7684\u601d\u8003\u65b9\u5f0f\u662f\u8b49\u660e TRUE \u6216 FLASE\u3002\u4f46\u6211\u5011\u4e5f\u80fd\u7528\u6a5f\u7387\u4f86\u91cf\u5316\u5c0d\u65bc\u67d0\u4e9b\u4e0d\u78ba\u5b9a\u547d\u984c\u7684\u60f3\u6cd5\uff0c\u60f3\u6cd5\u6539\u70ba\uff1a\u300c\u6211\u5011\u53ef\u4ee5\u591a\u78ba\u5b9a\u9019\u500b\u4e8b\u4ef6\u6703\u767c\u751f\uff1f\u300d\u78ba\u5b9a\u7684\u7a0b\u5ea6\u53ef\u4ee5\u7528 0 \u5230 1 \u4e4b\u9593\u7684\u6578\u503c\u4f86\u8868\u793a\u3002\u5982\u679c\u4f60\u4e00\u8def\u8b80\u5b8c\u96fb\u8166\u79d1\u5b78\u9818\u57df\u7684\u521d\u59cb\u767c\u5c55\u3001\u77e5\u9053\u5716\u9748\u3001\u99ae\u7d10\u66fc\u7b49\u5de8\u982d\uff0c\u8207\u7d10\u5384\u723e\u7b49\u65e9\u671f\u5716\u9748\u734e\uff08\u96fb\u8166\u79d1\u5b78\u754c\u6700\u9ad8\u69ae\u8b7d\uff09\u5f97\u4e3b\u7684\u7814\u7a76\u65b9\u5411\uff0c\u5230\u5982\u4eca\u4eba\u5011\u5c0d\u65bc\u4eba\u5de5\u667a\u6167\u7814\u7a76\u7684\u601d\u60f3\u8f49\u8b8a\uff0c\u6703\u767c\u73fe...... \u9019\u53ef\u662f\u591a\u5927\u7684\u7a81\u7834\uff01\u9019\u5c31\u662f\u6642\u4e0b\u71b1\u9580\u7684\u8a71\u984c\u300c\u6a5f\u5668\u5b78\u7fd2\u300d\uff08Machine Learning\uff09\u300c\u6a5f\u5668\u5b78\u7fd2\u300d\u662f\u4e00\u9580\u6db5\u84cb\u96fb\u8166\u79d1\u5b78\u3001\u7d71\u8a08\u5b78\u3001\u6a5f\u7387\u8ad6\u3001\u535a\u5f08\u8ad6\u7b49\u591a\u9580\u9818\u57df\u7684\u5b78\u79d1\uff0c\u5f9e 1980 \u958b\u59cb\u84ec\u52c3\u8208\u8d77\u3002\u6a5f\u5668\u5b78\u7fd2\u4e4b\u6240\u4ee5\u80fd\u8208\u8d77\uff0c\u4e5f\u6b78\u529f\u65bc\u786c\u9ad4\u5132\u5b58\u6210\u672c\u4e0b\u964d\u3001\u904b\u7b97\u80fd\u529b\u589e\u5f37\uff08\u5305\u62ec\u672c\u6a5f\u7aef\u8207\u96f2\u7aef\u904b\u7b97\uff09\uff0c\u52a0\u4e0a\u5927\u91cf\u7684\u6578\u64da\u80fd\u505a\u8655\u7406\u3002\u96fb\u8166\u5f9e\u5927\u91cf\u7684\u8cc7\u6599\u4e2d\u627e\u51fa\u898f\u5f8b\u4f86\u300c\u5b78\u7fd2\u300d\uff0c\u7a31\u70ba\u300c\u6a5f\u5668\u5b78\u7fd2\u300d\uff0c\u4e5f\u662f\u300c\u8cc7\u6599\u79d1\u5b78\u300d\uff08Data Science\uff09\u7684\u71b1\u9580\u6280\u8853\u4e4b\u4e00\u3002\u6700\u65e9\u7814\u7a76\u6a5f\u5668\u5b78\u7fd2\u7684\u7406\u8ad6\u90fd\u662f\u7d71\u8a08\u5b78\u5bb6\u6216\u6a5f\u7387\u5b78\u5bb6\u6240\u767c\u8868\u7684\uff0c\u5230\u5f8c\u4f86\u96fb\u8166\u79d1\u5b78\u754c\u7684\u4eba\u767c\u73fe\uff1a\u300c\u5662\uff0c\u9019\u4e9b\u7406\u8ad6\u53ef\u4ee5\u5e6b\u52a9\u6211\u5011\u4f86\u89e3\u6c7a\u4e00\u4e9b\u554f\u984c\uff01\u300d\u53c8\u52a0\u9032\u4f86\u7814\u7a76\uff0c\u53ef\u4ee5\u8aaa\u662f\u300c\u8cc7\u5de5+\u7d71\u8a08\u300d\u7684\u96d9\u91cd Domain Knowhow\u3002\u53e6\u5916\uff0c\u9019\u4e5f\u662f\u70ba\u4ec0\u9ebc\u300c\u6a5f\u5668\u5b78\u7fd2\u300d\u6703\u88ab\u7a31\u4e4b\u70ba\u4eba\u5de5\u667a\u6167\u9818\u57df\u7684\u4e00\u652f\u3002\u8981\u5be6\u73fe\u4eba\u5de5\u667a\u6167\u7684\u65b9\u5f0f\u6709\u5f88\u591a\uff0c\u50cf\u65e9\u671f\u7684\u7b26\u865f\u908f\u8f2f\u5b78\u4e5f\u662f\u4eba\u5de5\u667a\u6167\u7684\u5be6\u8e10\u65b9\u5411\u3002\u6240\u4ee5\u8aaa\u5225\u518d\u8aaa\u73fe\u5728\u7d05\u7684\u662f\u300c\u4eba\u5de5\u667a\u6167\u300d\u5566\uff01\u4eba\u5de5\u667a\u6167\u9818\u57df\u5f88\u591a\u5143\u4e5f\u5f88\u5ee3\u6cdb\uff0c\u65e9\u5728 1950 \u5e74\u4ee3\u5c31\u5df2\u7d93\u7d05\u904e\u4e86\u3002\u4ec0\u9ebc\u662f\u6df1\u5ea6\u5b78\u7fd2\uff1f\u6a5f\u5668\u5b78\u7fd2\u7684\u4e00\u500b\u5206\u652f\u4e0d\u904e\u9664\u4e86\u6a5f\u5668\u5b78\u7fd2\uff0c\u6700\u8fd1\u5e38\u807d\u5230\u7684\u300c\u6df1\u5ea6\u5b78\u7fd2\u300d\u53c8\u662f\u4ec0\u9ebc\u610f\u601d\u5462\uff1f\u985e\u795e\u7d93\u7db2\u8def\u3001\u6df1\u5ea6\u795e\u7d93\u7db2\u8def\u548c\u6df1\u5ea6\u5b78\u7fd2\u662f\u4e0d\u4e00\u6a23\u7684\u6771\u897f\u55ce\uff1f\u5716\u7247\u4f86\u6e90\uff1aNVIDIA\u96d6\u7136\u6709\u9ede\u7e5e\u53e3\u4ee4\uff0c\u4e0d\u904e\u8acb\u8ddf\u6211\u5538\u4e00\u6b21\uff1a\u6df1\u5ea6\u5b78\u7fd2\u662f\u6a5f\u5668\u5b78\u7fd2\u7684\u4e00\u500b\u5206\u652f\uff0c\u6a5f\u5668\u5b78\u7fd2\u662f\u4eba\u5de5\u667a\u6167\u7684\u4e00\u500b\u5206\u652f\u3002\u4e5f\u5c31\u662f\u8aaa\u4eba\u5de5\u667a\u6167\u5305\u5728\u6700\u5916\u5c64\u3001\u6a5f\u5668\u5b78\u7fd2\u5728\u7b2c\u4e8c\u5c64\u3001\u6df1\u5ea6\u5b78\u7fd2\u662f\u6700\u88e1\u9762\u7684\u7b2c\u4e09\u5c64\u30022013 \u5e74 7 \u6708\uff0cGoogle \u6536\u8cfc\u4e86\u4e00\u5bb6\u624d\u5275\u7acb\u4e00\u5e74\u3001\u53eb\u505a DNNresearch \u7684\u516c\u53f8\u3002\u751a\u81f3\uff0c\u9019\u5bb6\u516c\u53f8\u50c5\u6709\u4e09\u500b\u4eba\uff0c\u5305\u62ec\u591a\u502b\u591a\u5927\u5b78\u6559\u6388 Geoffrey Hinton \u6559\u6388\u548c\u4ed6\u7684\u5169\u4f4d\u5b78\u751f\u3002\u662f\u4ec0\u9ebc\u9b54\u529b\uff0c\u8b93 Google \u9858\u610f\u7838\u5927\u9322\u5728\u4e00\u5bb6\u540d\u4e0d\u898b\u7d93\u50b3\u7684\u516c\u53f8\uff1f\u4f60\u53ef\u80fd\u6c92\u807d\u904e DNNresearch\u3001\u6216\u4e0d\u8a8d\u8b58\u8a72\u516c\u53f8\u7684\u5275\u8fa6\u4eba Geoffrey Hinton\uff0c\u4f46\u4f60\u4e0d\u80fd\u4e0d\u77e5\u9053\u7684\u4e8b\u60c5\u662f\uff0cGoogle \u773c\u995e\u7684\u3001\u6b63\u662f\u80cc\u5f8c\u7684\u6df1\u5ea6\u5b78\u7fd2\uff08Deep Learning\uff09\u6280\u8853\u3002\u53ef\u4ee5\u8aaa\u5f8c\u7e8c AlphaGo \u7684\u51fa\u73fe\uff0c\u9664\u4e86\u4e3b\u5c0e\u7814\u767c\u7684 DeepMind \u4e4b\u5916\uff0c\u9084\u6709 Hinton \u7684\u5354\u52a9\u3002\u4ec0\u9ebc\u662f\u6df1\u5ea6\u5b78\u7fd2\uff1f\u70ba\u4f55\u5404\u7522\u696d\u70ba\u4e4b\u98a8\u9761\uff1f\u9019\u5c31\u8b93\u6211\u5011\u4f86\u804a\u804a\u6df1\u5ea6\u5b78\u7fd2\u767c\u5c55\u7684\u524d\u8eab\u300c\u985e\u795e\u7d93\u7db2\u8def\u300d\uff08Neural Network\uff09\u5566\uff01\u985e\u795e\u7d93\u7db2\u8def\uff08Neural Network\uff09\u5728\u672c\u6587\u7684\u524d\u534a\u6bb5\uff0c\u6211\u5011\u53ea\u5f88\u7c21\u55ae\u8aaa\u660e\u4e86\uff0c1950 \u5e74\u4ee3\u96fb\u8166\u767c\u660e\u7684\u6642\u5019\u4eba\u985e\u5c31\u5bc4\u671b\u3001\u80fd\u51fa\u73fe\u6bd4\u4eba\u985e\u904b\u7b97\u80fd\u529b\u66f4\u5f37\u3001\u66f4\u8070\u660e\u7684\u6a5f\u5668\u51fa\u73fe\uff0c\u7a31\u70ba\u4eba\u5de5\u667a\u6167\u3002\u5728 1950 \u5e74\u4ee3\u4ee5\u6578\u7406\u908f\u8f2f\u7684\u70ba\u4e3b\u8981\u7814\u7a76\u65b9\u5411\u3002\u6a5f\u5668\u5b78\u7fd2\u662f\u7531\u7d71\u8a08\u6a5f\u7387\u5b78\u3001\u52a0\u4e0a\u96fb\u8166\u79d1\u5b78\u65b9\u6cd5\u7684\u4e00\u500b\u5ef6\u4f38\u5b78\u79d1\uff0c\u5728\u6578\u7406\u908f\u8f2f\u7814\u7a76\u65b9\u5411\u5931\u6557\u5f8c\uff0c\u6a5f\u5668\u5b78\u7fd2\u5728 1980 \u5e74\u4ee3\u5230 2006 \u5e74\u9593\u6210\u70ba\u7814\u7a76\u4e3b\u6d41\u3002\u4f46\u6a5f\u5668\u5b78\u7fd2\u7684\u7406\u8ad6\u6709\u5f88\u591a\uff0c\u5305\u62ec\u652f\u63f4\u5411\u91cf\u6a5f\uff08SVM\uff09\u3001\u6c7a\u7b56\u6a39\uff08Decision Tree\uff09\u3001AdaBoost\u3001\u96a8\u6a5f\u68ee\u6797...\uff08\u6c7a\u7b56\u6a39\u7684\u539f\u7406\u76f8\u7576\u597d\u7406\u89e3\uff0c\u6b61\u8fce\u53c3\u8003 \u6b64\u89e3\u8aaa\uff09\u5176\u4e2d\u6709\u4e00\u500b\u5206\u652f\u5728 1980 \u5e74\u521d\u7684\u6642\u5019\u4e00\u5ea6\u8208\u8d77\uff0c\u53eb\u300c\u985e\u795e\u7d93\u7db2\u8def\u300d\uff08Artificial Neural Network\uff09\u3002\u985e\u795e\u7d93\u7db2\u8def\u7684\u8870\u9839\u3001\u8207\u6dfa\u5c64\u6a5f\u5668\u5b78\u7fd2\u65b9\u6cd5\u8208\u8d771943 \u5e74\u5c31\u6709\u5b78\u8005\u7528\u6578\u5b78\u6a21\u578b\u4f86\u6a21\u64ec\u751f\u7269\u5927\u8166\u7684\u795e\u7d93\u7db2\u8def\u3002\u9019\u500b\u7814\u7a76\u5f8c\u7e8c\u5206\u6210\u4e86\u5169\u6d3e\uff0c\u4e00\u6d3e\u8f49\u5411\u4e86\u751f\u7269\u795e\u7d93\u5b78\u3001\u4e00\u6d3e\u8f49\u5411\u4e86\u4eba\u5de5\u667a\u6167\u30021980 \u5e74\u4ee3\uff0c\u7576\u6642\u7684\u8afe\u8c9d\u723e\u91ab\u5b78\u734e\u5f97\u4e3b\u7814\u7a76\u4e86\u5927\u8166\u5167\u90e8\u7684\u795e\u7d93\u8ff4\u8def\u800c\u8f5f\u52d5\u4e00\u6642\u3002\u4e5f\u8b93\u79d1\u5b78\u5bb6\u5011\u5c0d\u300c\u6a21\u64ec\u4eba\u985e\u5927\u8166\u7684\u904b\u7b97\u6a21\u578b\u300d\u62b1\u6301\u4e86\u9ad8\u5ea6\u671f\u5f85\u30021986 \u5e74\uff0cRumelhar \u548c Hinton \u7b49\u5b78\u8005\u63d0\u51fa\u4e86\u53cd\u5411\u50b3\u64ad\u7b97\u6cd5\uff08Back Propagation\uff09\uff0c\u89e3\u6c7a\u4e86\u795e\u7d93\u7db2\u8def\u6240\u9700\u8981\u7684\u8907\u96dc\u8a08\u7b97\u91cf\u554f\u984c\uff0c\u5f9e\u800c\u5e36\u52d5\u4e86\u795e\u7d93\u7db2\u8def\u7684\u7814\u7a76\u71b1\u6f6e\u3002\u7136\u800c\u904e\u4e86\u4e0d\u4e45\u5c31\u767c\u73fe\u53cd\u5411\u50b3\u64ad\u6cd5\u9047\u5230\u4e86\u74f6\u9838\u2500\u2500\u53cd\u5411\u50b3\u64ad\u7684\u512a\u5316\uff08\u627e\u51fa\u8aa4\u5dee\u7684\u6700\u5c0f\u503c\uff09\u6703\u767c\u751f\u68af\u5ea6\u6d88\u5931\u554f\u984c\uff0c\u4f7f\u5f97\u795e\u7d93\u7db2\u8def\u53ea\u8981\u8d85\u904e 3 \u5c64\u4ee5\u4e0a\u5c31\u5e7e\u4e4e\u6c92\u6709\u6548\u679c\u3002\u7531\u65bc\u672c\u7bc7\u65e8\u5728\u8b1b\u89e3\u4eba\u5de5\u667a\u6167\u767c\u5c55\u7c21\u53f2\uff0c\u95dc\u65bc\u4ec0\u9ebc\u662f\u300c\u53cd\u5411\u50b3\u64ad\u300d\u3001\u300c\u8aa4\u5dee\u6700\u5c0f\u503c\u300d\u3001\u300c\u68af\u5ea6\u6d88\u5931\u300d\uff0c\u6703\u5728\u65e5\u5f8c\u53e6\u767c\u4e00\u7bc7\u6587\u8b1b\u89e3\u985e\u795e\u7d93\u7db2\u8def\u539f\u7406\uff0c\u8b80\u8005\u53ea\u8981\u5148\u8a18\u5f97\u4e00\u500b\u6982\u5ff5\u5c31\u597d\uff1a\u6b64\u6642\u7684\u591a\u5c64\u795e\u7d93\u7db2\u8def\u5ba3\u544a\u5931\u6557\u3002\u5982\u679c\u795e\u7d93\u7db2\u8def\u7121\u6cd5\u9054\u5230\u591a\u5c64\u7684\u904b\u7b97\uff0c\u76f8\u8f03\u4e4b\u4e0b\u4e0d\u5982\u63a1\u7528\u5176\u5b83\u6dfa\u5c64\uff08\u5c0f\u65bc 3\uff09\u4e14\u6548\u679c\u53c8\u66f4\u597d\u7684\u6a5f\u5668\u5b78\u7fd2\u7b97\u6cd5\uff0c\u6bd4\u5982 SVM\u3001\u96a8\u6a5f\u68ee\u6797\u7b49\uff0c\u6b64\u6642 SVM \u706b\u71b1\u4e86\u4e00\u6bb5\u6642\u9593\uff0c\u5728\u5783\u573e\u4fe1\u4ef6\u5206\u985e\u4e0a\u505a\u5f97\u7279\u5225\u597d\u3002\u540c\u6642\u9593\uff0c\u5b78\u8853\u754c\u4e00\u5ea6\u653e\u68c4\u985e\u795e\u7d93\u7db2\u8def\u7684\u7814\u7a76\u65b9\u5411\uff0c\u751a\u81f3\u53ea\u8981\u6709\u8ad6\u6587\u6216\u7814\u7a76\u6a19\u660e\u300cNeural Network\u300d\uff0c\u5e7e\u4e4e\u4e0d\u9858\u610f\u82b1\u5fc3\u601d\u95b1\u89bd\u6216\u520a\u51fa\u30022006 \u5e74 HINTON \u6210\u529f\u8a13\u7df4\u591a\u5c64\u795e\u7d93\u7db2\u8def\u3001\u7a31\u70ba\u6df1\u5ea6\u5b78\u7fd2\u6b64\u6642\u7684 Hinton \u9084\u5f88\u5e74\u8f15\uff0c\u4ecd\u4e0d\u96e2\u4e0d\u68c4\u5c0d\u65bc\u795e\u7d93\u7db2\u8def\u7684\u7814\u7a76\u3002\u4e5f\u6b63\u662f\u9019\u80a1\u71b1\u60c5\uff0c\u4f7f\u4ed6\u6574\u6574\u529b\u6490 30 \u5e74\uff0c\u7d42\u65bc\u5728 2006 \u5e74\u627e\u5230\u4e86\u89e3\u65b9\u3001\u63d0\u51fa\u9650\u5236\u73bb\u723e\u8332\u66fc\u6a5f\uff08RBM\uff09\u6a21\u578b\u6210\u529f\u8a13\u7df4\u591a\u5c64\u795e\u7d93\u7db2\u8def\u3002\u9019\u5e36\u4f86\u4e86\u985e\u795e\u7d93\u7db2\u8def\u6a21\u578b\u5fa9\u7526\u7684\u53c8\u4e00\u6625\u3002\u7531\u65bc Neural Network \u9577\u4e45\u4ee5\u4f86\u592a\u904e\u60e1\u540d\u662d\u5f70\uff0cHinton \u6c7a\u5b9a\u628a\u591a\u5c64\u7684\u795e\u7d93\u7db2\u8def\uff08Deep Neural Network\uff09\u91cd\u547d\u540d\u70ba\u6df1\u5ea6\u5b78\u7fd2\uff08Deep Learning\uff09\u3002\uff08\u540c\u6642\uff0c\u4ed6\u53c8\u7528\u6709\u9ede\u8af7\u523a\u610f\u5473\u7684\u8aaa\u6cd5\uff0c\u5c07 Deep Neural Network \u4ee5\u5916\u5c64\u6578\u5c0f\u65bc 3 \u7684\u6a5f\u5668\u5b78\u7fd2\u65b9\u6cd5\uff0c\u5305\u62ec SVM \u7b49\u7a31\u70ba\u300c\u6dfa\u5c64\u5b78\u7fd2\u300d\uff08Shallow Learning\uff09\uff0c\u53ef\u80fd\u662f\u60f3\u4e00\u96ea\u9577\u4e45\u4ee5\u4f86\u88ab SVM \u58d3\u5728\u982d\u9802\u4e0a\u7684\u4e0d\u723d\u5427\uff08\u00b4_\u309d`\uff09...\uff09\uff08\u8b1b\u767d\u9ede\uff0c\u4eba\u5de5\u667a\u6167\u5c31\u4e00\u500b buzz word... \u7528\u96fb\u8166\u6a21\u578b\u904b\u7b97\u4f86\u89e3\u554f\u984c\uff0c\u5225\u518d\u554f\uff1a\u4eba\u5de5\u667a\u6167\u6709\u4e00\u5929\u6703\u4e0d\u6703\u8ddf\u4eba\u985e\u8ac7\u6200\u611b\u6709\u610f\u8b58\u60f9\uff08\u00b4_\u309d`\uff09Hinton \u56e0\u6b64\u88ab\u7a31\u70ba\u300c\u6df1\u5ea6\u5b78\u7fd2\u4e4b\u7236\u300d\u3002\u4e5f\u5c31\u662f\u8aaa\uff0c\u9019\u662f\u4e00\u500b\u52f5\u5fd7\u6545\u4e8b\u3002\u7576\u5927\u5bb6\u90fd\u653e\u68c4\u6642\u3001\u518d\u6490 30 \u5e74\u9084\u662f\u6703\u6709\u8f49\u6a5f\u7684\uff01\uff08\u54b3\u54b3...\uff09\u5118\u7ba1\u5982\u6b64\uff0c Hinton \u5c31\u7b97\u5728 2006 \u5e74\u5c31\u63d0\u51fa\u4e86 RBM \u6a21\u578b\uff0c\u6df1\u5ea6\u5b78\u7fd2\u9084\u662f\u6c92\u6709\u7d05\u8d77\u4f86\u3002\u5927\u5bb6\u53ea\u662f\u77e5\u9053\uff1a\u300c\u5662\uff01\u985e\u795e\u7d93\u7db2\u8def\u4e5f\u4e0d\u662f\u5b8c\u5168\u6c92\u7528\u561b...\u300d\u7531\u65bc\u7fd2\u65bc\u5ffd\u8996\u5df2\u4e45\uff0c\u52a0\u4e0a\u904b\u7b97\u91cf\u904e\u65bc\u9f90\u5927\u3002\u7576\u6642\u90fd\u662f\u63a1\u7528 CPU \u4f86\u904b\u7b97\u3002\u597d\u4e0d\u5bb9\u6613\u8017\u8cbb 5 \u5929\u624d\u7d42\u65bc\u8dd1\u5b8c\u4e00\u500b\u6a21\u578b\uff0c\u7d50\u679c\u767c\u73fe\u6709\u554f\u984c\u3001\u6539\u500b\u6a21\u578b\u53c3\u6578\u53c8\u8981\u518d\u7b49 5 \u5929... \u7b49\u771f\u6b63\u8a13\u7df4\u597d\u7684\u6642\u5019\u90fd\u5df2\u7d93\u4e0d\u77e5\u4f55\u65e5\u4e86\u3002\u53ea\u80fd\u8aaa 2006 \u5e74\u7684\u7a81\u7834\u53ea\u662f\u5e36\u4f86\u4e00\u7d72\u66d9\u5149\u3002\u771f\u6b63\u7684\u8f49\u6298\u9ede\uff0c\u9084\u662f\u8981\u5230 2012 \u5e74\u3002\u90a3\u5e74 10 \u2f49\uff0c\u6a5f\u5668\u5b78\u7fd2\u754c\u767c\u2f63\u4e86\u2f00\u9805\u2f24\u4e8b\u3002\u6df1\u5ea6\u5b78\u7fd2+GPU \u4e00\u6230\u6210\u540d\uff0c\u7206\u767c\u4eba\u5de5\u667a\u6167\u71b1\u6f6eImageNet \u662f\u5168\u4e16\u754c\u6700\u5927\u7684\u5716\u50cf\u8b58\u5225\u8cc7\u6599\u5eab\u3002\u6bcf\u5e74\uff0c\u53f2\u4e39\u4f5b\u5927\u5b78\u90fd\u6703\u8209\u8fa6 ImageNet \u5716\u50cf\u8b58\u5225\u7af6\u8cfd\uff0c\u53c3\u52a0\u8005\u5305\u62ec\u4e86 Google\u3001\u5fae\u8edf\u3001\u767e\u5ea6\u7b49\u5927\u578b\u4f01\u696d\uff0c\u9664\u4e86\u5728\u6bd4\u8cfd\u4e2d\u722d\u596a\u5716\u50cf\u8b58\u5225\u5bf6\u5ea7\u3001\u540c\u6642\u6e2c\u8a66\u81ea\u5bb6\u7cfb\u7d71\u7684\u6548\u80fd\u8207\u6975\u9650\u3002\u5176\u5be6\u5f9e 2007 \u5e74 ImageNet \u6bd4\u8cfd\u5275\u8fa6\u4ee5\u4f86\uff0c\u6bcf\u5e74\u7684\u6bd4\u8cfd\u7d50\u679c\u3001\u6bcf\u5bb6\u90fd\u5dee\u4e0d\u591a\uff0c\u932f\u8aa4\u7387\u5927\u81f4\u843d\u5728 30%\u300129%\u300128%... \u74f6\u9838\u4e00\u76f4\u7121\u6cd5\u7a81\u7834\u3002\u7d50\u679c 2012 \u5e74 Hinton \u7684\u5169\u500b\u5b78\u751f\u4ee5 SuperVision \u7684\u968a\u4f0d\u540d\u53c3\u8cfd\uff0c\u4ee5 16.42% \u7684\u932f\u8aa4\u7387\u9060\u52dd\u7b2c\u4e8c\u540d\u7684 26.22%\uff0c\u7528\u7684\u6b63\u662f\u6df1\u5ea6\u5b78\u7fd2\u6280\u8853\u3002\u8cc7\u6599\u4f86\u6e90\uff1aImageNet \u0026amp; Danny Bickson\u6b64\u666f\u4e00\u51fa\uff0c\u5927\u5bb6\u90fd\u760b\u4e86\uff01\u5f9e\u6b64\u7206\u767c\u6df1\u5ea6\u5b78\u7fd2\u71b1\u6f6e\u3002\u5148\u662f Google \u5728 2013 \u5e74\u4eba\u624d\u6536\u8cfc\u4e86 Hinton \u548c\u4ed6\u7684\u5169\u4f4d\u5b78\u751f\uff0c\u63a5\u4e0b\u4f86\u4e00\u5806\u4f01\u696d\u722d\u76f8\u6295\u5165\u6df1\u5ea6\u5b78\u7fd2\u7684\u7814\u7a76\u9818\u57df\u3002\u5f8c\u4f86\uff0c2015 \u5e74\u7684\u51a0\u8ecd Microsoft \uff0c\u5df2\u4ee5 3.5% \u7684\u932f\u8aa4\u7387\u8d0f\u5f97\u51a0\u8ecd\uff0c\u8d85\u8d8a\u2f08\u985e 5%\uff0c\u767c\u5c55\u53ef\u8b02\u4e00\u65e5\u5343\u91cc\u3002\u6df1\u5ea6\u5b78\u7fd2\u4e4b\u6240\u4ee5\u5728 2006 \u5e74\u9084\u6c92\u771f\u6b63\u706b\u71b1\u8d77\u4f86\uff0c\u554f\u984c\u5728\u65bc\u786c\u9ad4\u904b\u7b97\u80fd\u529b\u4e0d\u8db3\u2500\u2500\u50b3\u7d71\u5927\u5bb6\u90fd\u662f\u7528 CPU \u4f86\u904b\u7b97\uff0c\u7136\u800c\u901f\u5ea6\u7de9\u6162\u3002\u6df1\u5ea6\u5b78\u7fd2\u6703\u5927\u91cf\u7528\u5230\u77e9\u9663\u904b\u7b97\uff0c\u6700\u5408\u9069\u7684\u786c\u9ad4\u4e8b\u5be6\u4e0a\u662f\u8ca0\u8cac\u5716\u5f62\u8655\u7406\u7684 GPU\u3002\u76f4\u5230 2012 \u5e74 Hinton \u7684\u5169\u4f4d\u5b78\u751f\u5229\u7528\u300c\u6df1\u5ea6\u5b78\u7fd2 + GPU\u300d\u7684\u7d44\u5408\uff0c\u624d\u771f\u6b63\u767c\u63ee GPU \u7684\u5a01\u529b\u3002\u4f46\u70ba\u4ec0\u9ebc\u9019\u9ebc\u9577\u4ee5\u4f86\u7684\u6642\u9593\uff0c\u90fd\u6c92\u6709\u4eba\u7528 GPU \u4f86\u904b\u7b97\u5462\uff1f\u56e0\u70ba\u7de8\u8b6f\u6709\u5176\u96e3\u5ea6\u3002\u6211\u5011\u4e4b\u6240\u4ee5\u80fd\u7528 CPU \u505a\u904b\u7b97\uff0c\u662f\u56e0\u70ba CPU \u6709\u7de8\u8b6f\u5668\uff08Compiler\uff09\u9019\u6a23\u7684\u8a2d\u8a08\uff0c\u80fd\u8b93\u5de5\u7a0b\u5e2b\u5beb\u5b8c\u7a0b\u5f0f\u5f8c\u3001\u7d93\u904e\u7de8\u8b6f\u5668\u7684\u8f49\u8b6f\u3001\u6210\u70ba CPU \u770b\u5f97\u61c2\u7684\u6a5f\u68b0\u78bc\u3002\u7136\u800c\u4e00\u822c GPU \u4e26\u6c92\u6709\u985e\u4f3c\u7684\u8a2d\u8a08\uff0c\u56e0\u6b64\u5de5\u7a0b\u5e2b\u96e3\u4ee5\u76f4\u63a5\u5beb\u7a0b\u5f0f\u8b93 GPU \u4f86\u904b\u7b97\u3002\u76f4\u5230 NVIDIA \u5728 2006 -- 2007 \u5e74\u9593\u63a8\u51fa\u5168\u65b0\u904b\u7b97\u67b6\u69cb CUDA \u2014\u2014NVIDIA \u6210\u70ba\u6df1\u5ea6\u5b78\u7fd2\u904b\u7b97\u5fc5\u7528\u786c\u9ad4\u7684\u95dc\u9375\u3002\u4f7f\u7528\u8005\u53ef\u4ee5\u64b0\u5beb C \u8a9e\u8a00\u3001\u518d\u900f\u904e CUDA \u5e95\u5c64\u67b6\u69cb\u8f49\u8b6f\u6210 GPU \u770b\u5f97\u61c2\u7684\u8a9e\u8a00\u3002\u9019\u4e5f\u662f\u81ea GPU \u53ef\u4ee5\u62ff\u4f86\u505a\u5927\u898f\u6a21\u904b\u7b97\u7684\u6982\u5ff5\u63a8\u51fa\u4e4b\u5f8c\uff0c\u9996\u6b21\u53ef\u4ee5\u8b93\u4eba\u4f7f\u7528 C \u8a9e\u8a00\u4f86\u904b\u7528 GPU \u860a\u85cf\u5df2\u4e45\u7684\u5f37\u5927\u904b\u7b97\u80fd\u529b\uff0c\u6545 NVIDIA \u5f9e GeForce 8 \u7cfb\u5217\u4e4b\u5f8c\u7684\u986f\u793a\u5361\u5168\u958b\u59cb\u652f\u63f4 CUDA \u6280\u8853\u3002CUDA \u7684\u6210\u529f\uff0c\u66f4\u76f4\u63a5\u5c0e\u81f4\u4e86\u6df1\u5ea6\u5b78\u7fd2\u7684\u904b\u7b97\u5168\u90e8\u90fd\u4f7f\u7528 NVIDIA \u5bb6\u7684 GPU\u3002\u9019\u7a2e\u9a5a\u4eba\u7684\u5f71\u97ff\u529b\uff0c\u4e0d\u8ad6\u662f\u6df1\u5ea6\u5b78\u7fd2\u3001\u6a5f\u5668\u5b78\u7fd2\u3001\u81ea\u52d5\u8eca\u3001\u865b\u64ec\u5be6\u5883\uff08VR\uff09\u3001\u96fb\u7af6\u904a\u6232\uff0c\u6bcf\u4e00\u9805\u90fd\u8ddf NVIDIA \u7fd2\u7fd2\u76f8\u95dc\u3002\u9019\u4e5f\u8b93 NVIDIA \u7684 GPU \u5f9e\u6b64\u4e00\u98db\u6c96\u5929\uff0c\u80a1\u50f9\u4e5f\u96a8\u4e4b\u9ad8\u6f32\u2500\u2500NVIDIA \u5f9e\u53bb\u5e74 12 \u6708\u958b\u59cb\u9023\u7e8c 9 \u500b\u4ea4\u6613\u65e5\u5275\u6b77\u53f2\u6536\u76e4\u65b0\u9ad8\u3001\u5230\u5e74\u5e95\u70ba\u6b62\u6f32\u5e45\u9ad8\u9054 255.95%\u3002MarketWatch \u4e5f\u5831\u5c0e\uff0cNVIDIA \u662f 2016 \u5e74 S\u0026amp;P 500 \u6307\u6578\u8868\u73fe\u6700\u597d\u7684\u6210\u5206\u80a1\u30022016 \u5e74 8 \u6708\uff0cNVIDIA \u5728\u5176\u6bcf\u5e74\u8209\u8fa6\u7684 GTC \u5927\u6703\u4e0a\uff08GPU Technology Conference\uff0c\u4fd7\u7a31\u8001\u9ec3\u7684\u50b3\u6559\u5927\u6703\uff09\uff0c\u57f7\u884c\u9577\u9ec3\u4ec1\u52f3\u5f37\u8abf NVIDIA \u5728\u4eba\u5de5\u667a\u6167\u9818\u57df\u4e0a\u7684\u6df1\u8015\u3001\u80fd\u63d0\u4f9b\u6700\u5b8c\u6574\u7684\u8edf\u786c\u9ad4\u89e3\u6c7a\u65b9\u6848\u30022016 NVIDIA GTC \u5927\u6703\u4ee5\u6df1\u5ea6\u5b78\u7fd2\u70ba\u4e3b\u8ef8\u6574\u5834\u5927\u6703\u4ee5\u6df1\u5ea6\u5b78\u7fd2\u70ba\u91cd\u8981\u4e3b\u89d2\uff0c\u540c\u6642\u5ba3\u4f48\u63a8\u51fa\u5168\u4e16\u754c\u7b2c\u4e00\u500b\u5c08\u9580\u7528\u4f86\u904b\u7b97\u6df1\u5ea6\u5b78\u7fd2\u7684\u8d85\u7d1a\u96fb\u8166\u2014\u2014DGX-1 \u4f3a\u670d\u5668\uff0c\u552e\u50f9 129,000 \u7f8e\u91d1\u3002\u4eca\u5e74 5 \u6708\uff0cNVIDIA \u518d\u5ea6\u5ba3\u5e03\u63a8\u51fa\u5168\u65b0 DGX \u5de5\u4f5c\u7ad9\uff0c\u6700\u5927\u8ce3\u9ede\u83ab\u904e\u65bc\u642d\u914d\u4e86\u63a1\u7528 Vota \u67b6\u69cb\u7684 Tesla V100\uff0c\u53ef\u5728\u55ae\u81fa\u7cfb\u7d71\u5167\uff0c\u642d\u914d\u56db\u81fa Tesla V100\uff0c\u63d0\u4f9b\u76f8\u7576\u65bc 400 \u9846 CPU \u7684\u6548\u80fd\u3002\u7d50\u8a9e\u4eca\u5929\uff0c\u6211\u5011\u8b1b\u89e3\u4e86\u4eba\u5de5\u667a\u6167\u3001\u6a5f\u5668\u5b78\u7fd2\u548c\u6df1\u5ea6\u5b78\u7fd2\u7684\u7531\u4f86\u3002\u518d\u5e6b\u5927\u5bb6\u56de\u9867\u4e00\u6b21\u9019\u5f35\u5716\uff1a\u5716\u7247\u4f86\u6e90\uff1aNVIDIA\u4e09\u8005\u7684\u5305\u542b\u95dc\u4fc2\u70ba\uff1a\u4eba\u5de5\u667a\u6167 \u0026gt; \u6a5f\u5668\u5b78\u7fd2 \u0026gt; \u6df1\u5ea6\u5b78\u7fd21950 \u5e74\uff0c\u4eba\u5de5\u667a\u6167\u767c\u5c55\uff0c\u4ee5\u6578\u7406\u908f\u8f2f\u70ba\u57fa\u790e1980 \u5e74\uff0c\u591a\u5c64\u985e\u795e\u7d93\u7db2\u8def\u5931\u6557\uff0c\u6dfa\u5c64\u6a5f\u5668\u5b78\u7fd2\u65b9\u6cd5\uff08SVM \u7b49\uff09\u8208\u8d772006 \u5e74\uff0cHinton \u6210\u529f\u8a13\u7df4\u591a\u5c64\u795e\u7d93\u7db2\u8def\uff0c\u547d\u540d\u70ba\u6df1\u5ea6\u5b78\u7fd22012 \u5e74\uff0c\u56e0 ImageNet \u6bd4\u8cfd\u8b93\u6df1\u5ea6\u5b78\u7fd2\u91cd\u56de\u5b78\u754c\u8996\u91ce\uff0c\u540c\u6642\u958b\u555f NVIDIA GPU \u4f5c\u70ba\u904b\u7b97\u4e0d\u53ef\u6216\u7f3a\u786c\u9ad4\u7684\u5927\u9580\u4eca\u5929\u7684\u4eba\u5de5\u667a\u6167\u7c21\u53f2\u5c31\u5230\u9019\u908a\u7d50\u675f\u4e86\u3002\u63a5\u4e0b\u4f86\u7684\u5e7e\u7bc7\uff0c\u6703\u7528\u66f4\u6df1\u5165\u7684\u65b9\u5f0f\u5c07\u672c\u6587\u4e2d\u7684\u6a21\u578b\u8207\u6545\u4e8b\u6558\u8ff0\u5f97\u66f4\u70ba\u8a73\u7d30\u3002\u6b61\u8fce\u5927\u5bb6\u7e7c\u7e8c\u6536\u770b :\uff09","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https:\/\/www.inside.com.tw\/assets\/images\/logo.png","width":120,"height":48},"name":"INSIDE"},"commentCount":0,"comment":[]}</script>
+                            <script type="application/ld+json">[]</script>
+                            <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","legalName":"INSIDE","url":"https:\/\/www.inside.com.tw","logo":"https:\/\/www.inside.com.tw\/assets\/images\/logo.png","contactPoint":{"@type":"ContactPoint","telephone":"+886-2-66385108","contactType":"customer service","areaServed":"TW","availableLanguage":["Chinese","English"]},"sameAs":["https:\/\/www.facebook.com\/cyberbuzz","https:\/\/twitter.com\/insideCyberbuzz","https:\/\/line.me\/ti\/p\/@paq1370n","https:\/\/www.youtube.com\/channel\/UC5MwBnaH11q1nO2r4hiv5BQ","https:\/\/www.instagram.com\/inside.tw\/","https:\/\/zh.wikipedia.org\/wiki\/INSIDE_%E7%A1%AC%E5%A1%9E%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%B6%A8%E5%8B%A2%E8%A7%80%E5%AF%9F"]}</script>
+                            <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.inside.com.tw","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.inside.com.tw\/search\/{search_term_string}","query-input":"required name=search_term_string"}}</script>
+                            <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebPage","name":"\u5f9e\u4eba\u5de5\u667a\u6167\u3001\u6a5f\u5668\u5b78\u7fd2\u5230\u6df1\u5ea6\u5b78\u7fd2\uff0c\u4f60\u4e0d\u5bb9\u932f\u904e\u7684\u4eba\u5de5\u667a\u6167\u7c21\u53f2 - INSIDE","description":"\u5230\u5e95\u4ec0\u9ebc\u662f\u4eba\u5de5\u667a\u6167\uff1f\u4ec0\u9ebc\u662f\u6a5f\u5668\u5b78\u7fd2\uff1f\u4ec0\u9ebc\u662f\u6df1\u5ea6\u5b78\u7fd2\uff1f\u4e09\u8005\u7684\u5dee\u7570\u5728\u54ea\uff1f\u8981\u89e3\u6c7a\u7684\u53c8\u662f\u4ec0\u9ebc\u554f\u984c\u5462\uff1f\u4eca\u5929\u5c31\u8b93\u6211\u5011\u4f86\u804a\u804a\uff0c\u672a\u4f86\u5341\u5e74\u5167\u5c07\u6703\u771f\u6b63\u6539\u8b8a\u4f60\u6211\u751f\u6d3b\u7684\u65b0\u4e16\u4ee3\u6280\u8853\u3002#\u786c\u585e\u79d1\u6280\u5b57\u5178,\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e,\u4eba\u5de5\u667a\u6167,\u6a5f\u5668\u5b78\u7fd2,\u6df1\u5ea6\u5b78\u7fd2 (ai-history)","keywords":["\u786c\u585e\u79d1\u6280\u5b57\u5178","\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e","\u4eba\u5de5\u667a\u6167","\u6a5f\u5668\u5b78\u7fd2","\u6df1\u5ea6\u5b78\u7fd2"],"dateCreated":"2017-07-10T14:17:09+08:00","dateModified":"2024-10-11T18:50:16+08:00","primaryImageOfPage":{"@type":"ImageObject","contentUrl":"https:\/\/bucket-image.inkmaginecms.com\/version\/hd\/cabinet\/files\/consoles\/1\/teams\/1\/2022\/10\/NQ4BvQZYhFuz9zzWcFF1tyBxTWyJAnobDCPBAn1D.png"},"breadcrumb":{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.inside.com.tw","name":"INSIDE","url":"https:\/\/www.inside.com.tw"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.inside.com.tw\/category\/dictionary","name":"\u786c\u585e\u79d1\u6280\u5b57\u5178","url":"https:\/\/www.inside.com.tw\/category\/dictionary"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/www.inside.com.tw\/feature\/ai\/9854-ai-history","name":"\u5f9e\u4eba\u5de5\u667a\u6167\u3001\u6a5f\u5668\u5b78\u7fd2\u5230\u6df1\u5ea6\u5b78\u7fd2\uff0c\u4f60\u4e0d\u5bb9\u932f\u904e\u7684\u4eba\u5de5\u667a\u6167\u7c21\u53f2","url":"https:\/\/www.inside.com.tw\/feature\/ai\/9854-ai-history"}}],"itemListOrder":"Ascending","numberOfItems":3}}</script>
+                        
+            <script>
+                var ln_data_setting = {
+                    account: '3f85070',
+                    domain: 'inside.com.tw',
+                    cm_tid: '4099'
+                }
+                var _smq = _smq || []
+                _smq.push(['_setAccount', ln_data_setting['account'], new Date()])
+                _smq.push(['_setDomainName', ln_data_setting['domain']])
+                _smq.push(['pageview']);
+                (function () {
+                    var sm = document.createElement('script')
+                    sm.type = 'text/javascript'
+                    sm.async = true
+                    sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.lndata.com/collect.js'
+                    var s = document.getElementsByTagName('script')[0]
+                    s.parentNode.insertBefore(sm, s)
+                })()
+            </script>
+            
+            <script>
+                (function () {
+                    var s = document.createElement('script'), el = document.getElementsByTagName('script')[0]
+                    s.async = true
+                    s.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//ad-specs.guoshipartners.com/static/js/onead-pixel.min.js?_t=' + Math.floor((new Date).getTime() / 300000)
+                    el.parentNode.insertBefore(s, el)
+                })()
+                var onead_pixel = onead_pixel || []
+            </script>
+
+            
+            <script src="https://resource.tnlmediagene.com/assets/v1/js/tnlmedia-header-footer.js" defer=""></script>
+        </head>
+                <body>
+            
+            <noscript>
+                &lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M756VB8" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+            </noscript>
+            <noscript>
+                &lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTDW7N3" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+            </noscript>
+
+            
+            <div class="page page-feature">
+                                    <nav class="js_nav">
+
+    <!-- Menu group 集團 menu -->
+    <!-- 引入 Menu group 集團 menu -->
+    <tnlmedia-header theme="styleLight" lang="zh-tw" style="height:56px;display: block;"></tnlmedia-header>
+    <!-- TNLMedia header end -->
+
+    <div class="header js_header Specialtopic">
+        <div class="container">
+            <div class="header_inner">
+                <div class="logo">
+                    <a href="https://www.inside.com.tw">INSIDE 硬塞的網路趨勢觀察</a>
+                </div>
+
+                <div class="menu js_menu_category">
+                    <div role="search" method="get" class="search_form js_header_search_form">
+                        <input class="js-search_input search_input" id="search" placeholder="搜尋" type="text" name="s" value="">
+                        <button class="js-search_submit search_submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                    </div>
+                    <!-- route -->
+
+                    <ul class="primary_nav">
+                        <li class="primary_nav_item primary_nav_item-dropdown dropdown">
+                            <a class="primary_nav_item_title dropdown_trigger" href="#">報導</a>
+                            <div class="primary_nav_item_content dropdown_content">
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/feature/side-chat" target="_self">塞掐 Side Chat：最科技的Podcast節目</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/feature/rmn" target="_self">RMN：電商與媒體的未來之道</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/category/headline" target="_self">頭條</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/category/breaking" target="_self">快訊</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/category/opinion" target="_self">評論</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/category/column" target="_self">專欄</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/features" target="_self">專題</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/category/interview" target="_self">人物專訪</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/category/event" target="_self">活動採訪</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/category/unboxing" target="_self">產品評測</a>
+                                                            </div>
+                        </li>
+                        <li class="primary_nav_item primary_nav_item-dropdown dropdown">
+                            <a class="primary_nav_item_title dropdown_trigger" href="#">數位轉型</a>
+                            <div class="primary_nav_item_content dropdown_content">
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E8%B3%87%E5%AE%89" target="_self">資安</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/AI" target="_self">AI</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/IOT" target="_self">IOT</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/5G" target="_self">5G</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E9%9B%B2%E7%AB%AF" target="_self">雲端</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E5%8D%80%E5%A1%8A%E9%8F%88" target="_self">區塊鏈</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E8%83%BD%E6%BA%90" target="_self">能源科技</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E9%87%8F%E5%AD%90" target="_self">量子運算</a>
+                                                            </div>
+                        </li>
+                        <li class="primary_nav_item primary_nav_item-dropdown dropdown">
+                            <a class="primary_nav_item_title dropdown_trigger" href="#">半導體</a>
+                            <div class="primary_nav_item_content dropdown_content">
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E5%8F%B0%E7%A9%8D%E9%9B%BB" target="_self">台積電</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E8%81%AF%E9%9B%BB" target="_self">聯電</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E8%81%AF%E7%99%BC%E7%A7%91" target="_self">聯發科</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E9%AB%98%E9%80%9A" target="_self">高通</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/ASML" target="_self">ASML</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/AMD" target="_self">AMD</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/Intel" target="_self">Intel</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/NVIDIA" target="_self">NVIDIA</a>
+                                                            </div>
+                        </li>
+                        <li class="primary_nav_item primary_nav_item-dropdown dropdown">
+                            <a class="primary_nav_item_title dropdown_trigger" href="#">網路</a>
+                            <div class="primary_nav_item_content dropdown_content">
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/Apple" target="_self">Apple</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/Amazon" target="_self">Amazon</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/Facebook" target="_self">Facebook</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/Google" target="_self">Google</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/Microsoft" target="_self">Microsoft</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E9%81%8A%E6%88%B2" target="_self">遊戲</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E4%B8%B2%E6%B5%81%E5%BD%B1%E9%9F%B3" target="_self">串流</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E8%A1%8C%E9%8A%B7" target="_self">行銷</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E7%A4%BE%E7%BE%A4" target="_self">社群</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E9%9B%BB%E5%95%86" target="_self">電商</a>
+                                                            </div>
+                        </li>
+                        <li class="primary_nav_item primary_nav_item-dropdown dropdown">
+                            <a class="primary_nav_item_title dropdown_trigger" href="#">商業</a>
+                            <div class="primary_nav_item_content dropdown_content">
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E5%89%B5%E6%A5%AD" target="_self">創業</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E8%81%B7%E5%A0%B4" target="_self">職場</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E7%AE%A1%E7%90%86" target="_self">管理</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/ESG" target="_self">ESG</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/IPO" target="_self">IPO</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E4%BD%B5%E8%B3%BC" target="_self">併購</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E5%8B%9F%E8%B3%87" target="_self">募資</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/tag/%E8%B2%A1%E5%A0%B1" target="_self">財報</a>
+                                                            </div>
+                        </li>
+                        <li class="primary_nav_item primary_nav_item-dropdown dropdown">
+                            <a class="primary_nav_item_title dropdown_trigger" href="#">焦點</a>
+                            <div class="primary_nav_item_content dropdown_content">
+                                                                    <a class="primary_nav_child_item" href="https://activity.tnlmedia.com/2024/paris-olympics?utm_source=INSIDE&amp;utm_medium=menu" target="_blank">巴黎奧運系列專題</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/insidepossible/" target="_self">硬塞小聚 INSIDE POSSIBLE</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/feature/2019aws" target="_self">雲端服務趨勢</a>
+                                                            </div>
+                        </li>
+                        <li class="primary_nav_item primary_nav_item-dropdown dropdown">
+                            <a class="primary_nav_item_title dropdown_trigger" href="#">會員專屬</a>
+                            <div class="primary_nav_item_content dropdown_content">
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/feature/member-exclusive?utm_source=website&amp;utm_medium=Bar" target="_self">會員免費內容</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/feature/inside-pay-per-view-project-electric-vehicle?utm_source=INSIDE&amp;utm_medium=Bar" target="_self">電動車大未來</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.inside.com.tw/feature/inside-pay-per-view-digital-transformation?utm_source=INSIDE&amp;utm_medium=Bar" target="_self">數位轉型專刊</a>
+                                                                    <a class="primary_nav_child_item" href="https://www.thenewslens.com/subscription?utm_source=INSIDE&amp;utm_medium=Bar" target="_blank">TNL集團通用｜無廣告體驗</a>
+                                                            </div>
+                        </li>
+                    </ul>
+
+                    <div class="secondary_block">
+                        <div class="header_translation_block" onclick="translatePage()">
+                            <span class="lanText-tw">繁</span> / <span class="lanText-cn">簡</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="dropdown js-check-isDropdown" data-dropdown_content="js_menu_category_mobile">
+                    <button class="menu_btn dropdown_trigger" aria-label="category menu">
+                        <span class="menu_btn_icon"><span></span></span>
+                    </button>
+                    <div class="dropdown_content off_canvas_menu_container js_menu_category_mobile js-off_canvas_menu_container"></div>
+                </div>
+                <div class="dropdown dropdown_menu_member js_dropdown_menu_member js-check-isDropdown" data-dropdown_content="js_menu_member">
+                    <a class="menu_btn menu_btn_user no_isLogin" rel="nofollow" href="https://www.inside.com.tw/member?redirect=https%3A%2F%2Fwww.inside.com.tw%2Ffeature%2Fai%2F9854-ai-history">
+                        <div class="menu_btn_icon icon-user">登入</div>
+                    </a>
+                    <button class="menu_btn menu_btn_user dropdown_trigger js_user_dropdown_trigger" aria-label="user menu">
+                        <div class="menu_btn_icon icon-user-check">
+                            <div class="avatars js_user_avatar">
+                                <span class="avatar_name"></span>
+                                
+                                <img class="avatar_img" src="" alt="User Icon">
+                            </div>
+                        </div>
+                    </button>
+                    <div class="menu_member js_menu_member dropdown_content">
+                        <!-- menu KV start -->
+                        <!-- ==== menu member dropdown block login and unlogin start ====-->
+                        <!-- user login start -->
+                        <div class="menu_user_lists">
+                            <div class="menu_list menu_member_profiles">
+                                <div class="menu_member_profile">
+                                    <div classs="header_member_name">Hi, <span class="js_user_name">User Name</span>
+                                    </div>
+                                    <div class="js_user_mail header_user_mail small">user@mail.com</div>
+                                </div>
+                            </div>
+                            <ul class="sec_nav">
+                                <li class="sec_nav_item">
+                                    <a class="sec_nav_item_title" rel="nofollow" target="_blank" href="https://www.inside.com.tw/member/profile"><i class="fas fa-user-circle"></i>會員中心</a>
+                                </li>
+                                <li class="sec_nav_item">
+                                    <a class="sec_nav_item_title" rel="nofollow" target="_blank" href="https://www.inside.com.tw/member/subscription"><i class="fas fa-donate"></i>付費訂閱資料</a>
+                                </li>
+                                <li class="sec_nav_item">
+                                    <a class="sec_nav_item_title" rel="nofollow" href="https://www.inside.com.tw/insider/newsletter"><i class="fas fa-envelope"></i>電子報</a>
+                                </li>
+                                <li class="sec_nav_item">
+                                    <a class="sec_nav_item_title btn-logout" rel="nofollow" href="https://www.inside.com.tw/member/logout">登出</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- user login end -->
+                        <!-- ==== menu member dropdown block login and unlogin end ====-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+                
+                    <div class="Independent_content">
+        <div class="ad-content pc" style="min-height:294px;">
+                    <div class="tmgad tmgad-type-flux tmgad-new">
+  <script type="application/json">{"type":"flux","slot":"\/21870649235\/in_a_top","size":[[970,250],[1,1]],"mapping":[[[1210,0],[[970,250],[1,1]]],[[0,0],[]]],"targeting":{"advertising":["0"],"cabinet":["166032"],"page_key":["feature"],"page_name":["feature"],"author_key":["157"],"author_name":["Lynn"],"category_key":["dictionary"],"category_name":["\u786c\u585e\u79d1\u6280\u5b57\u5178"],"feature_key":["ai"],"feature_name":["\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e"],"tag_key":["1256","1362","2384"],"tag_name":["\u4eba\u5de5\u667a\u6167","\u6a5f\u5668\u5b78\u7fd2","\u6df1\u5ea6\u5b78\u7fd2"]},"name":"in_a_top"}</script>
+</div>
+
+            </div>
+
+<article class="project_article " data-ad2trk-observe="Main Article">
+  
+<div class="container post post_header_wrapper feature_post">
+                    <div class="post_content_wrapper">
+                <div class="post_content article feature-top">
+                    <figure>
+                                                <picture>
+                            <source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/NQ4BvQZYhFuz9zzWcFF1tyBxTWyJAnobDCPBAn1D.png" type="image/png" media="(max-width: 749px)">
+                            <img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/NQ4BvQZYhFuz9zzWcFF1tyBxTWyJAnobDCPBAn1D.png" alt="" title="" width="750" height="428" style="width: 100%;">
+                                                    </picture>
+                    </figure>
+                </div>
+            </div>
+        
+        <div class="post_header js-post_header">
+                            <a class="post_category badge badge-large" style="background-color: #7eb326" href="https://www.inside.com.tw/category/dictionary">硬塞科技字典</a>
+            
+            <h1 class="post_header_title js-auto_break_title">從人工智慧、機器學習到深度學習，你不容錯過的人工智慧簡史</h1>
+
+            <div class="post_author_g">
+                <span class="post_author">
+                                                                    <!-- <i class="fa-solid fa-user"></i> -->
+                        <a href="https://www.inside.com.tw/author/lynn" title="Posts by Lynn" class="author url fn" rel="author">Lynn</a>
+                                    </span>
+            </div>
+            <ul class="post_meta">
+                <li class="post_date">
+                    <span>2017/07/10</span>
+                </li>
+
+                <li>
+                                                                    <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1256-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7">人工智慧</a>
+                                                                        、                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1362-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92">機器學習</a>
+                                                                        、                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2384-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92">深度學習</a>
+                                    </li>
+            </ul>
+
+                            <div class="Supported">
+                    <h4>自製專題 Supported By</h4>
+            <span class="supported-box-img">
+            <img src="https://bucket-image.inkmaginecms.com/cabinet/files/consoles/1/teams/1/2022/9/5c5xk22hsNtsvHZFZnbnLwMxXnFenpQJJ7YonHSG.jpg">
+        </span>
+                    </div>
+            
+                            <div class="post_introduction">
+                    到底什麼是人工智慧？什麼是機器學習？什麼是深度學習？三者的差異在哪？要解決的又是什麼問題呢？今天就讓我們來聊聊，未來十年內將會真正改變你我生活的新世代技術。
+                </div>
+            
+            <div class="post_toolbox post_toolbox-">
+        <div class="post_toolbox_action">
+        <a class="post_toolbox_item fb-share sharer" data-sharer="facebook" data-url="https://www.inside.com.tw/feature/ai/9854-ai-history"><i class="fab fa-facebook-f"></i></a>
+        <a class="post_toolbox_item twitter-share sharer" data-sharer="twitter" data-url="https://www.inside.com.tw/feature/ai/9854-ai-history"><i class="fab fa-x-twitter"></i></a>
+        <a class="post_toolbox_item line-share sharer" data-sharer="line" data-url="https://www.inside.com.tw/feature/ai/9854-ai-history"><i class="fab fa-line"></i></a>
+    </div>
+</div>
+        </div>
+
+    </div>
+        <div class="container post mobile">
+        <div class="ad-content" style="min-height:348px;">
+                            <div class="tmgad tmgad-type-flux tmgad-new">
+  <script type="application/json">{"type":"flux","slot":"\/21870649235\/in_a_p0","size":[[300,250],[1,1]],"mapping":[[[0,0],[[300,250],[1,1]]]],"targeting":{"advertising":["0"],"cabinet":["166032"],"page_key":["feature"],"page_name":["feature"],"author_key":["157"],"author_name":["Lynn"],"category_key":["dictionary"],"category_name":["\u786c\u585e\u79d1\u6280\u5b57\u5178"],"feature_key":["ai"],"feature_name":["\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e"],"tag_key":["1256","1362","2384"],"tag_name":["\u4eba\u5de5\u667a\u6167","\u6a5f\u5668\u5b78\u7fd2","\u6df1\u5ea6\u5b78\u7fd2"]},"name":"in_a_p0"}</script>
+</div>
+
+                    </div>
+    </div>
+    
+    <div class="container post">
+        <div class="post_content_wrapper first-content">
+            <div class="post_content article">
+                <div class="post_toolbox post_toolbox-sticky">
+            <a class="post_toolbox_logo js-post_toolbox_logo" href="https://www.inside.com.tw"></a>
+            <div class="post_toolbox_action">
+        <a class="post_toolbox_item fb-share sharer" data-sharer="facebook" data-url="https://www.inside.com.tw/feature/ai/9854-ai-history"><i class="fab fa-facebook-f"></i></a>
+        <a class="post_toolbox_item twitter-share sharer" data-sharer="twitter" data-url="https://www.inside.com.tw/feature/ai/9854-ai-history"><i class="fab fa-x-twitter"></i></a>
+        <a class="post_toolbox_item line-share sharer" data-sharer="line" data-url="https://www.inside.com.tw/feature/ai/9854-ai-history"><i class="fab fa-line"></i></a>
+    </div>
+</div>
+
+                <div id="article_content" data-article-id="9854" class=" post_content_wrapper post-content-section ">
+                    <section class="js-article-content-body">
+                        <p>本篇是《機器學習專題》的第三篇文。</p><p style="padding-left: 30px">第一集： <a href="https://www.inside.com.tw/feature/ai/9730-cloud-computing" target="_self">雲端運算是什麼？Amazon、Google、Microsoft 等大廠爭相佈局，會如何改變人類生活？</a><br> 第二集： <a href="https://www.inside.com.tw/feature/ai/9745-big-data" target="_self">大數據到底是什麼意思？事實上，它是一種精神！</a></p><div class="ad-content" style="min-height:294px"><div class="tmgad tmgad-type-flux tmgad-new">
+  <script type="application/json">{"type":"flux","slot":"\/21870649235\/in_a_p2","size":[[640,360],[640,480],[300,250],[1,1]],"mapping":[[[1210,0],[[640,360],[640,480],[1,1]]],[[0,0],[[300,250],[1,1]]]],"targeting":{"advertising":["0"],"cabinet":["166032"],"page_key":["feature"],"page_name":["feature"],"author_key":["lynn"],"author_name":["Lynn"],"category_key":["dictionary"],"category_name":["\u786c\u585e\u79d1\u6280\u5b57\u5178"],"feature_key":["ai"],"feature_name":["\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e"],"tag_key":["1256","1362","2384"],"tag_name":["\u4eba\u5de5\u667a\u6167","\u6a5f\u5668\u5b78\u7fd2","\u6df1\u5ea6\u5b78\u7fd2"]},"name":"in_a_p2"}</script>
+</div>
+</div><p>從 Google AlphaGo 到 Chatbot 聊天機器人、智慧理專、精準醫療、機器翻譯… 近年來時而聽到人工智慧、機器學習的相關消息，一夕之間這項技術攻占了各大媒體版面。</p><p>不但 Google、Facebook、微軟、百度、IBM 等巨頭紛紛進軍該領域，NVIDIA 執行長黃仁勳亦宣稱將由顯示卡轉型成人工智慧運算公司，強調人工智慧浪潮的來臨。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/ej8GQFznqr1YM4yaiI6wK1M7UCPgc7hXrjkTN1RB.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/ej8GQFznqr1YM4yaiI6wK1M7UCPgc7hXrjkTN1RB.png" alt="" title="" width="750" height="422"></picture><figcaption class="wp-caption-text">2016 年初，Alphago 以 4:1 的好成績打敗南韓圍棋選手李世乭。2016 年底，又以 Master 的代稱在網路上戰勝聶衛平，豪取 59 勝。</figcaption></figure><h2>講到人工智慧，你的想像是什麼？</h2><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/APwxun3IW4lDTwZuiMPeFeYWwQcodk1YabKawbk9.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/APwxun3IW4lDTwZuiMPeFeYWwQcodk1YabKawbk9.png" alt="" title="" width="750" height="539"></picture></figure><p>一般人對人工智慧的想像，不外乎是影劇中的機器人形象。從史蒂芬·史匹柏導演的《AI 人工智慧》中可愛的男孩、《機械公敵》中想控制人類統治世界的機器人、《機械姬》中能騙過人類情感的人造意識... 。</p><p>不過撇除這些，來看看我們每日在用的資訊產品：</p><div class="ad-content" style="min-height:294px"><div class="tmgad tmgad-type-general tmgad-new">
+  <script type="application/json">{"type":"general","slot":"\/21870649235\/in_a_p6_special","size":[[640,360],[640,480],[300,250],[320,480],[1,1]],"mapping":[[[1210,0],[[640,360],[640,480],[1,1]]],[[0,0],[[300,250],[320,480],[1,1]]]],"targeting":{"advertising":["0"],"cabinet":["166032"],"page_key":["feature"],"page_name":["feature"],"author_key":["lynn"],"author_name":["Lynn"],"category_key":["dictionary"],"category_name":["\u786c\u585e\u79d1\u6280\u5b57\u5178"],"feature_key":["ai"],"feature_name":["\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e"],"tag_key":["1256","1362","2384"],"tag_name":["\u4eba\u5de5\u667a\u6167","\u6a5f\u5668\u5b78\u7fd2","\u6df1\u5ea6\u5b78\u7fd2"]},"name":"in_a_p6_special"}</script>
+</div>
+</div><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/IQt4xIboAdCvxYk3twDb7ttLXuc2MIcUZYS8CfCb.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/IQt4xIboAdCvxYk3twDb7ttLXuc2MIcUZYS8CfCb.png" alt="" title="" width="750" height="409"></picture><figcaption class="wp-caption-text">GMAIL 中垃圾信件會自動被丟入垃圾桶</figcaption></figure><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/HnOTWuWmfWZX4TXKVINGIMRynwfDyJ5MI1KtoYB2.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/HnOTWuWmfWZX4TXKVINGIMRynwfDyJ5MI1KtoYB2.png" alt="" title="" width="750" height="381"></picture><figcaption class="wp-caption-text">Google 相簿的圖像辨識</figcaption></figure><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/kZLkFIfSvjwUHREqgjPwhphbanh0d37E9LDGRWYH.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/kZLkFIfSvjwUHREqgjPwhphbanh0d37E9LDGRWYH.png" alt="" title="" width="750" height="399"></picture><figcaption class="wp-caption-text">這個更猛了，是圖像辨識加上自動翻譯。</figcaption></figure><p>從垃圾信件自動分類、圖像辨識、自動翻譯... 你知道內部就已經包含了人工智慧的技術嗎？不過具體來說，我們會把這樣的技術稱為「機器學習」。</p><p>到底什麼是人工智慧？什麼是機器學習？什麼是深度學習？三者的差異在哪？要解決的又是什麼問題呢？</p><p>今天就讓我們來聊聊，未來十年內將會真正改變你我生活的新世代技術。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/NQ4BvQZYhFuz9zzWcFF1tyBxTWyJAnobDCPBAn1D.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/NQ4BvQZYhFuz9zzWcFF1tyBxTWyJAnobDCPBAn1D.png" alt="" title="" width="750" height="428"></picture></figure><h2>人工智慧：如何以電腦解決問題</h2><p>人類自從發明電腦以來，便始終渴望著能讓電腦擁有類似人類的智慧。一提到人工智慧，很容易令人想到電影與科幻小說中常見會聊天、會煮飯，還會突然間想毀滅人類取而代之的機器人形象。</p><div class="ad-content" style="min-height:294px"><div class="tmgad tmgad-type-flux tmgad-new">
+  <script type="application/json">{"type":"flux","slot":"\/21870649235\/in_a_p10","size":[[640,360],[640,480],[300,250],[1,1]],"mapping":[[[1210,0],[[640,360],[640,480],[1,1]]],[[0,0],[[300,250],[1,1]]]],"targeting":{"advertising":["0"],"cabinet":["166032"],"page_key":["feature"],"page_name":["feature"],"author_key":["lynn"],"author_name":["Lynn"],"category_key":["dictionary"],"category_name":["\u786c\u585e\u79d1\u6280\u5b57\u5178"],"feature_key":["ai"],"feature_name":["\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e"],"tag_key":["1256","1362","2384"],"tag_name":["\u4eba\u5de5\u667a\u6167","\u6a5f\u5668\u5b78\u7fd2","\u6df1\u5ea6\u5b78\u7fd2"]},"name":"in_a_p10"}</script>
+</div>
+</div><p>究竟什麼算作「智慧」？若電腦能針對我們的問題準確地作回答、或學會下棋和泡咖啡，如此就能確定電腦擁有智慧嗎？要怎麼確定它真正擁有意識、理解情感？</p><p>當年 AI 技術尚未真正發展起來，哲學家與人文學家已就這個問題做過許多廣泛的討論。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/NE9MQfArIg3qsXLeWgQUP7woRDsj71WhzRTY2JPo.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/NE9MQfArIg3qsXLeWgQUP7woRDsj71WhzRTY2JPo.png" alt="" title="" width="750" height="405"></picture></figure><p>根據這個問題，美國哲學家約翰．瑟爾（John Searle）便提出了「強人工智慧」（Strong A.I.）和「弱人工智慧」（Weak A.I.）的分類，主張兩種應區別開來。</p><p>強人工智慧受到電影與科幻小說的影響，強調電腦將能擁有自覺意識、性格、情感、知覺、社交等人類的特徵。</p><p>另一方面，弱人工智慧主張機器只能模擬人類具有思維的行為表現，而不是真正懂得思考。他們認為機器僅能模擬人類，並不具意識、也不理解動作本身的意義。</p><p>簡單來說若有一隻鸚鵡被訓練到能回答人類所有的問題，並不代表鸚鵡本身瞭解問題本身與答案的意義。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/vVmn3S8tCa5FlMRxCnMtPdNbr76eHHRLH0MdqHoo.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/vVmn3S8tCa5FlMRxCnMtPdNbr76eHHRLH0MdqHoo.png" alt="" title="" width="750" height="373"></picture><figcaption class="wp-caption-text">Ex Machina 電影中由男主角對機器人進行 Turing Test 的一幕。</figcaption></figure><p>在圖靈所提出的圖靈測試（Turing Test）中，如果一台機器與人類對話、而不被辨別出己方的機器身分時，便能宣稱該機器擁有智慧。</p><p>這可以算是人工智慧的一種檢測方式，然而強人工智慧擁護者可能會反駁──表現出「智慧」的行為不代表它真正擁有智慧、瞭解對話的意義。</p><p>當然弱人工智慧擁護者也可以反駁：</p><blockquote><p>我們永遠不可能知道另一個人的想法，比如我在和一個人對話時、並不知道對方是否和我進行一樣的思考方式，因此我們不能否定這台機器存在智慧的可能。</p></blockquote><p>是否有點類似莊子和惠子的「子非魚，安知魚之樂」的對話了呢？</p><p>有興趣的讀者能再就上述問題持續深入討論思考。不過在電腦科學界，直至目前為止尚不須深入糾結在這個問題層面。電腦科學家在意的是──我們能用人工智慧解決什麼樣的問題？</p><p>還記得我們在 <a href="https://hellolynn.hpd.io/2017/02/20/%E9%9B%BB%E8%85%A6%E6%98%AF%E6%80%8E%E9%BA%BC%E4%BE%86%E7%9A%84%EF%BC%9F%E6%80%9D%E8%80%83%E8%A8%93%E7%B7%B4/" target="_self">電腦是怎麼來的？</a> 一文中提過，最早的馮紐曼架構通用電腦是在 1945 年被開發出來。1950 年代的電腦科學剛起步，從科學家到一般大眾，都對於電腦充滿無盡的想像。</p><p>人工智慧（Artificial Intelligence）一詞最早是在 1956 年舉辦於達特茅斯（Dartmouth）的一場傳奇研討會，與會者包括了幾位當代數一數二的學者。</p><p>當時，全世界第一台通用電腦 EDVAC 問世剛滿十年，任何人只要看到過電腦的超強運算能力，想當然爾都會認為電腦有一天會比人類還聰明、甚至是超越人類的存在。</p><p>其中紐厄爾（Newell）、西蒙（Simon）更當場展示了有「全世界第一個人工智慧程式」之稱的邏輯理論家（Logic Theorist），這是一個會自動證明定理的程式。</p><p>在各界的高度期盼下，不但藝術界盛興相關題材，包括大導演弗裡茨・朗（Fritz Lang）的大都會、科幻作家艾西莫夫（Isaac Asimov）的機器人三大法則等等，主流科學界也都預估 20 到 30 年左右的時間，便可以成功創造出與人類智能同樣高度的人工智慧。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/U3spgWlsmHBYbG93MHVD47j4Vs0EopTSVQCNmDrz.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/U3spgWlsmHBYbG93MHVD47j4Vs0EopTSVQCNmDrz.png" alt="" title="" width="750" height="356"></picture></figure><p>然而人工智慧的研究很快便面臨了瓶頸。如果你有看過 <a href="https://hellolynn.hpd.io/2017/02/20/%E9%9B%BB%E8%85%A6%E6%98%AF%E6%80%8E%E9%BA%BC%E4%BE%86%E7%9A%84%EF%BC%9F%E6%80%9D%E8%80%83%E8%A8%93%E7%B7%B4/" target="_self">電腦是怎麼來的？</a> 一文，你可以很明確地感受到──發明電腦的數學模型基礎和思想，是建立在邏輯運算上。</p><p>從康托爾的集合論、到希爾伯特的可數無限集、哥德爾不完備定理、圖靈以圖靈機來演繹哥德爾不完備定理... 等等，都是利用符號來表達的形式系統，再用有限的數學式去證明這個系統不會出現矛盾。</p><p>可想而知，這使得當代人對於人工智慧的研究方向也是以「邏輯符號推導」為出發點。解的問題包括利用 Search Tree 來走出迷宮、或河內塔（Hanoi）問題。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/sYBrHr1A4ecETQZY3GUalHdz0hkXEgr3DEOQBaJR.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/sYBrHr1A4ecETQZY3GUalHdz0hkXEgr3DEOQBaJR.png" alt="" title="" width="750" height="569"></picture></figure><p style="padding-left: 30px">河內塔問題：傳說印度某間寺院有三根柱子，上串 64 個金盤。寺院裡的僧侶以下述規則，將這些盤子從第一根移動至第三根：</p><ul><li style="padding-left: 30px">盤的尺寸由下到上依次變小。</li><li style="padding-left: 30px">每次只能移動一個圓盤；</li><li style="padding-left: 30px">大盤不能疊在小盤上面。</li></ul><figure class="wp-caption aligncenter" style="padding-left: 30px"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/9/tmYeEZrpYdUMIj79tFzC4WICxDmgb4GUH52zX9vM.jpg" type="image/jpeg" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/9/tmYeEZrpYdUMIj79tFzC4WICxDmgb4GUH52zX9vM.jpg" alt="" title="" width="750" height="394"></picture><figcaption class="wp-caption-text">傳說當這些盤子移動完畢的那一刻，世界就會滅亡。若傳說屬實，僧侶們需要 步才能完成這個任務；若他們每秒可完成一個盤子的移動，就需要 5849 億年才能完成。整個宇宙現在也不過 137 億年。</figcaption></figure><p style="padding-left: 30px">不過若用電腦的遞迴解，很快就能做完了。</p><h2>第一次人工智慧泡沫後，研究領域轉為「機器學習」</h2><p>然而問題來了──機器程序是由人類撰寫出來的，當人類不知道一個問題的解答時、機器同樣不能解決人類無法回答的問題。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/xq08L6oup5zWDRSpBkRTLRy2LBiWTwq5Qlvpdpmn.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/xq08L6oup5zWDRSpBkRTLRy2LBiWTwq5Qlvpdpmn.png" alt="" title="" width="750" height="382"></picture></figure><p>另一個問題是當時電腦的計算速度尚未提升、儲存空間也小、數據量更不足夠。於是對人工智慧的研究方向局限於邏輯數學領域、加上硬體環境上的困境，使早期人工智慧只能解一些代數題和數學證明，難以在實務上有所應用。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/dAsb3duOUS5n3FUkZW33drmeX3gGVUvElnu5E4vu.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/dAsb3duOUS5n3FUkZW33drmeX3gGVUvElnu5E4vu.png" alt="" title="" width="750" height="517"></picture></figure><p>在 1970 年代末時，一些知名研發計畫如紐厄爾和西蒙的「通用問題解決機」和日本政府領頭的「第五代電腦系統」達不到預期效果時，人工智慧開始被人們視為一場現代煉金術，企業與政府紛紛撤資、研究基金被削減、多個計畫被停止，迎來了人工智慧的第一場寒冬期。</p><p>雖然此時人工智慧的研究邁入了瓶頸，但是電腦硬體卻是以指數型的方式進步。</p><p>1965 年 Intel 創始人摩爾觀察到半導體晶片上的電晶體每一年都能翻一倍；到了 1975 年，這個速度調整成每兩年增加一倍，電腦的運算能力與儲存能力同時跟著摩爾定律高速增漲。</p><p>如今，電腦的運算能力約為 30 年前的 100 萬倍。（此段介紹歡迎參考 <a href="https://hellolynn.hpd.io/2017/03/24/%E6%95%B8%E4%BD%8D%E6%99%82%E4%BB%A3%E7%9A%84%E5%9F%BA%E7%9F%B3%EF%BC%9A%E5%8D%8A%E5%B0%8E%E9%AB%94/" target="_self">晶圓代工爭霸戰：半導體知識 一文</a>）</p><p>我們上面提到，早期的人工智慧研究聚焦在邏輯推論的方法，專注於模仿人類推理過程的思考模式，需要百分之百確定的事實配合，實務上應用困難。</p><p>但，有沒有可能換一個思考模式，比如用統計機率學來處理人工智慧的問題呢？假設一個命題為：「某個特定事件會發生嗎？」同樣是判斷「是」或「否」的二分法，數學邏輯的思考方式是證明 TRUE 或 FLASE。</p><p>但我們也能用機率來量化對於某些不確定命題的想法，想法改為：「我們可以多確定這個事件會發生？」確定的程度可以用 0 到 1 之間的數值來表示。</p><p>如果你一路讀完電腦科學領域的初始發展、知道圖靈、馮紐曼等巨頭，與紐厄爾等早期圖靈獎（電腦科學界最高榮譽）得主的研究方向，到如今人們對於人工智慧研究的思想轉變，會發現...... 這可是多大的突破！</p><h3>這就是時下熱門的話題「機器學習」（Machine Learning）</h3><p>「機器學習」是一門涵蓋電腦科學、統計學、機率論、博弈論等多門領域的學科，從 1980 開始蓬勃興起。機器學習之所以能興起，也歸功於硬體儲存成本下降、運算能力增強（包括本機端與雲端運算），加上大量的數據能做處理。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/M5r3E7bqtCgeO77JrMbB4zfTADgEptTpxKGhXfdQ.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/M5r3E7bqtCgeO77JrMbB4zfTADgEptTpxKGhXfdQ.png" alt="" title="" width="750" height="391"></picture></figure><p>電腦從大量的資料中找出規律來「學習」，稱為「機器學習」，也是「資料科學」（Data Science）的熱門技術之一。</p><p>最早研究機器學習的理論都是統計學家或機率學家所發表的，到後來電腦科學界的人發現：「噢，這些理論可以幫助我們來解決一些問題！」又加進來研究，可以說是「資工+統計」的雙重 Domain Knowhow。</p><p>另外，這也是為什麼「機器學習」會被稱之為人工智慧領域的一支。要實現人工智慧的方式有很多，像早期的符號邏輯學也是人工智慧的實踐方向。</p><p>所以說別再說現在紅的是「人工智慧」啦！人工智慧領域很多元也很廣泛，早在 1950 年代就已經紅過了。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/i73yG1qZ0DBksi2RtDzXNJVml4Kc46eXrafBceFt.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/i73yG1qZ0DBksi2RtDzXNJVml4Kc46eXrafBceFt.png" alt="" title="" width="750" height="382"></picture></figure><h2>什麼是深度學習？機器學習的一個分支</h2><p>不過除了機器學習，最近常聽到的「深度學習」又是什麼意思呢？類神經網路、深度神經網路和深度學習是不一樣的東西嗎？</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/jf4tLS21tSAT8N44vL8hSwlucBV6Wb9Zuy1okoCP.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/jf4tLS21tSAT8N44vL8hSwlucBV6Wb9Zuy1okoCP.png" alt="" title="" width="750" height="404"></picture><figcaption class="wp-caption-text">圖片來源：NVIDIA</figcaption></figure><p>雖然有點繞口令，不過請跟我唸一次：深度學習是機器學習的一個分支，機器學習是人工智慧的一個分支。</p><p>也就是說人工智慧包在最外層、機器學習在第二層、深度學習是最裡面的第三層。</p><p>2013 年 7 月，Google 收購了一家才創立一年、叫做 DNNresearch 的公司。甚至，這家公司僅有三個人，包括多倫多大學教授 Geoffrey Hinton 教授和他的兩位學生。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/rvAvg3OjYjdU88HRIfKmS5S57iWtQjNOqiTUtTUZ.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/rvAvg3OjYjdU88HRIfKmS5S57iWtQjNOqiTUtTUZ.png" alt="" title="" width="750" height="464"></picture></figure><p>是什麼魔力，讓 Google 願意砸大錢在一家名不見經傳的公司？你可能沒聽過 DNNresearch、或不認識該公司的創辦人 Geoffrey Hinton，但你不能不知道的事情是，Google 眼饞的、正是背後的深度學習（Deep Learning）技術。</p><p>可以說後續 AlphaGo 的出現，除了主導研發的 DeepMind 之外，還有 Hinton 的協助。</p><p>什麼是深度學習？為何各產業為之風靡？這就讓我們來聊聊深度學習發展的前身「類神經網路」（Neural Network）啦！</p><h3>類神經網路（Neural Network）</h3><p>在本文的前半段，我們只很簡單說明了，1950 年代電腦發明的時候人類就寄望、能出現比人類運算能力更強、更聰明的機器出現，稱為人工智慧。在 1950 年代以數理邏輯的為主要研究方向。</p><p>機器學習是由統計機率學、加上電腦科學方法的一個延伸學科，在數理邏輯研究方向失敗後，機器學習在 1980 年代到 2006 年間成為研究主流。</p><p>但機器學習的理論有很多，包括支援向量機（SVM）、決策樹（Decision Tree）、AdaBoost、隨機森林...（決策樹的原理相當好理解，歡迎參考 <a href="http://www.r2d3.us/%E5%9C%96%E8%A7%A3%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%AC%AC%E4%B8%80%E7%AB%A0/" target="_self">此解說</a>）</p><p>其中有一個分支在 1980 年初的時候一度興起，叫「類神經網路」（Artificial Neural Network）。</p><h3>類神經網路的衰頹、與淺層機器學習方法興起</h3><p>1943 年就有學者用數學模型來模擬生物大腦的神經網路。這個研究後續分成了兩派，一派轉向了生物神經學、一派轉向了人工智慧。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/2u7n7HjGV0F7A5aa3kTEIksMQ762cz1QXZpvxoHZ.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/2u7n7HjGV0F7A5aa3kTEIksMQ762cz1QXZpvxoHZ.png" alt="" title="" width="750" height="436"></picture></figure><p>1980 年代，當時的諾貝爾醫學獎得主研究了大腦內部的神經迴路而轟動一時。也讓科學家們對「模擬人類大腦的運算模型」抱持了高度期待。</p><p>1986 年，Rumelhar 和 Hinton 等學者提出了反向傳播算法（Back Propagation），解決了神經網路所需要的複雜計算量問題，從而帶動了神經網路的研究熱潮。</p><p>然而過了不久就發現反向傳播法遇到了瓶頸──反向傳播的優化（找出誤差的最小值）會發生梯度消失問題，使得神經網路只要超過 3 層以上就幾乎沒有效果。</p><p>由於本篇旨在講解人工智慧發展簡史，關於什麼是「反向傳播」、「誤差最小值」、「梯度消失」，會在日後另發一篇文講解類神經網路原理，讀者只要先記得一個概念就好：</p><blockquote><p>此時的多層神經網路宣告失敗。</p></blockquote><p>如果神經網路無法達到多層的運算，相較之下不如採用其它淺層（小於 3）且效果又更好的機器學習算法，比如 SVM、隨機森林等，此時 SVM 火熱了一段時間，在垃圾信件分類上做得特別好。</p><p>同時間，學術界一度放棄類神經網路的研究方向，甚至只要有論文或研究標明「Neural Network」，幾乎不願意花心思閱覽或刊出。</p><h3>2006 年 HINTON 成功訓練多層神經網路、稱為深度學習</h3><p>此時的 Hinton 還很年輕，仍不離不棄對於神經網路的研究。也正是這股熱情，使他整整力撐 30 年，終於在 2006 年找到了解方、提出限制玻爾茲曼機（RBM）模型成功訓練多層神經網路。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/v408xF92BAU5yLDV7e5kZqFJz0BjiOKJlDnOpccO.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/v408xF92BAU5yLDV7e5kZqFJz0BjiOKJlDnOpccO.png" alt="" title="" width="750" height="405"></picture></figure><p>這帶來了類神經網路模型復甦的又一春。由於 Neural Network 長久以來太過惡名昭彰，Hinton 決定把多層的神經網路（Deep Neural Network）重命名為深度學習（Deep Learning）。</p><p>（同時，他又用有點諷刺意味的說法，將 Deep Neural Network 以外層數小於 3 的機器學習方法，包括 SVM 等稱為「淺層學習」（Shallow Learning），可能是想一雪長久以來被 SVM 壓在頭頂上的不爽吧（´_ゝ`）...）</p><p>（講白點，人工智慧就一個 buzz word... 用電腦模型運算來解問題，別再問：人工智慧有一天會不會跟人類談戀愛有意識惹（´_ゝ`）</p><p>Hinton 因此被稱為「深度學習之父」。也就是說，這是一個勵志故事。當大家都放棄時、再撐 30 年還是會有轉機的！（咳咳...）</p><p>儘管如此， Hinton 就算在 2006 年就提出了 RBM 模型，深度學習還是沒有紅起來。大家只是知道：「噢！類神經網路也不是完全沒用嘛...」由於習於忽視已久，加上運算量過於龐大。</p><p>當時都是採用 CPU 來運算。好不容易耗費 5 天才終於跑完一個模型，結果發現有問題、改個模型參數又要再等 5 天... 等真正訓練好的時候都已經不知何日了。</p><p>只能說 2006 年的突破只是帶來一絲曙光。真正的轉折點，還是要到 2012 年。那年 10 ⽉，機器學習界發⽣了⼀項⼤事。</p><h2>深度學習+GPU 一戰成名，爆發人工智慧熱潮</h2><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/ZnSFDQwFGFK425upJV1q59HrYo8XoWtloT67HmkY.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/ZnSFDQwFGFK425upJV1q59HrYo8XoWtloT67HmkY.png" alt="" title="" width="750" height="502"></picture></figure><p><a href="http://www.image-net.org/" target="_self">ImageNet</a> 是全世界最大的圖像識別資料庫。每年，史丹佛大學都會舉辦 ImageNet 圖像識別競賽，參加者包括了 Google、微軟、百度等大型企業，除了在比賽中爭奪圖像識別寶座、同時測試自家系統的效能與極限。</p><p>其實從 2007 年 ImageNet 比賽創辦以來，每年的比賽結果、每家都差不多，錯誤率大致落在 30%、29%、28%... 瓶頸一直無法突破。</p><p>結果 2012 年 Hinton 的兩個學生以 SuperVision 的隊伍名參賽，以 16.42% 的錯誤率遠勝第二名的 26.22%，用的正是深度學習技術。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/80spd8aaxXEJWKw8bzYeelCTqhT2ZT19wJy74oTX.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/80spd8aaxXEJWKw8bzYeelCTqhT2ZT19wJy74oTX.png" alt="" title="" width="750" height="407"></picture><figcaption class="wp-caption-text">資料來源：ImageNet &amp; Danny Bickson</figcaption></figure><p>此景一出，大家都瘋了！從此爆發深度學習熱潮。先是 Google 在 2013 年人才收購了 Hinton 和他的兩位學生，接下來一堆企業爭相投入深度學習的研究領域。</p><p>後來，2015 年的冠軍 Microsoft ，已以 3.5% 的錯誤率贏得冠軍，超越⼈類 5%，發展可謂一日千里。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/bQhfEjUiytW2TpfQxp4NGhjkhnQbKrr31ZaXrnti.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/bQhfEjUiytW2TpfQxp4NGhjkhnQbKrr31ZaXrnti.png" alt="" title="" width="750" height="361"></picture></figure><p>深度學習之所以在 2006 年還沒真正火熱起來，問題在於硬體運算能力不足──傳統大家都是用 CPU 來運算，然而速度緩慢。</p><p>深度學習會大量用到矩陣運算，最合適的硬體事實上是負責圖形處理的 GPU。直到 2012 年 Hinton 的兩位學生利用「深度學習 + GPU」的組合，才真正發揮 GPU 的威力。</p><p>但為什麼這麼長以來的時間，都沒有人用 GPU 來運算呢？因為編譯有其難度。</p><p>我們之所以能用 CPU 做運算，是因為 CPU 有編譯器（Compiler）這樣的設計，能讓工程師寫完程式後、經過編譯器的轉譯、成為 CPU 看得懂的機械碼。</p><p>然而一般 GPU 並沒有類似的設計，因此工程師難以直接寫程式讓 GPU 來運算。直到 NVIDIA 在 2006 -- 2007 年間推出全新運算架構 CUDA ——NVIDIA 成為深度學習運算必用硬體的關鍵。</p><p>使用者可以撰寫 C 語言、再透過 CUDA 底層架構轉譯成 GPU 看得懂的語言。</p><p>這也是自 GPU 可以拿來做大規模運算的概念推出之後，首次可以讓人使用 C 語言來運用 GPU 蘊藏已久的強大運算能力，故 NVIDIA 從 GeForce 8 系列之後的顯示卡全開始支援 CUDA 技術。</p><blockquote><p>CUDA 的成功，更直接導致了深度學習的運算全部都使用 NVIDIA 家的 GPU。這種驚人的影響力，不論是深度學習、機器學習、自動車、虛擬實境（VR）、電競遊戲，每一項都跟 NVIDIA 習習相關。</p></blockquote><p>這也讓 NVIDIA 的 GPU 從此一飛沖天，股價也隨之高漲──NVIDIA 從去年 12 月開始連續 9 個交易日創歷史收盤新高、到年底為止漲幅高達 255.95%。MarketWatch 也報導，NVIDIA 是 2016 年 S&amp;P 500 指數表現最好的成分股。</p><p>2016 年 8 月，NVIDIA 在其每年舉辦的 GTC 大會上（GPU Technology Conference，俗稱老黃的傳教大會），執行長黃仁勳強調 NVIDIA 在人工智慧領域上的深耕、能提供最完整的軟硬體解決方案。</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/QpmxNmVTyaRbNkdceWyUCSKrO29s1isSq9hBOfUO.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/QpmxNmVTyaRbNkdceWyUCSKrO29s1isSq9hBOfUO.png" alt="" title="" width="750" height="349"></picture><figcaption class="wp-caption-text">2016 NVIDIA GTC 大會以深度學習為主軸</figcaption></figure><p>整場大會以深度學習為重要主角，同時宣佈推出全世界第一個專門用來運算深度學習的超級電腦——DGX-1 伺服器，售價 129,000 美金。</p><p>今年 5 月，NVIDIA 再度宣布推出全新 DGX 工作站，最大賣點莫過於搭配了採用 Vota 架構的 Tesla V100，可在單臺系統內，搭配四臺 Tesla V100，提供相當於 400 顆 CPU 的效能。</p><h2>結語</h2><p>今天，我們講解了人工智慧、機器學習和深度學習的由來。再幫大家回顧一次這張圖：</p><figure class="wp-caption aligncenter"><picture><source srcset="https://bucket-image.inkmaginecms.com/version/mobile/cabinet/files/consoles/1/teams/1/2022/10/jf4tLS21tSAT8N44vL8hSwlucBV6Wb9Zuy1okoCP.png" type="image/png" media="(max-width: 500px)"><img src="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/jf4tLS21tSAT8N44vL8hSwlucBV6Wb9Zuy1okoCP.png" alt="" title="" width="750" height="404"></picture><figcaption class="wp-caption-text">圖片來源：NVIDIA</figcaption></figure><ul><li>三者的包含關係為：人工智慧 &gt; 機器學習 &gt; 深度學習</li><li>1950 年，人工智慧發展，以數理邏輯為基礎</li><li>1980 年，多層類神經網路失敗，淺層機器學習方法（SVM 等）興起</li><li>2006 年，Hinton 成功訓練多層神經網路，命名為深度學習</li><li>2012 年，因 ImageNet 比賽讓深度學習重回學界視野，同時開啟 NVIDIA GPU 作為運算不可或缺硬體的大門</li></ul><p>今天的人工智慧簡史就到這邊結束了。接下來的幾篇，會用更深入的方式將本文中的模型與故事敘述得更為詳細。歡迎大家繼續收看 :）</p>
+                    </section>
+
+                                            <section class="article-content-mention">
+                            <p><strong>最新發展：</strong></p>
+                            <ul>
+                                                                    <li><a href="https://www.inside.com.tw/article/15944-turing-award-and-1-million-given-to-3-ai-pioneers">電腦界諾貝爾獎 人工智慧 3 先驅獲圖靈獎</a></li>
+                                                                    <li><a href="https://www.inside.com.tw/article/15210-ai-alzheimers-predicttion">比診斷早 6 年！AI 偵測阿茲海默研究準確率破九成</a></li>
+                                                                    <li><a href="https://www.inside.com.tw/article/11555-2017-top-10-ai">硬塞 2017 十大 AI 報導：從恐懼被取代到思考如何人機合作的一年</a></li>
+                                                                    <li><a href="https://www.inside.com.tw/article/9945-machine-learning">監督式學習？增強學習？聽不懂的話，一定要看這篇入門的機器學習名詞解釋！</a></li>
+                                                            </ul>
+                        </section>
+                    
+                    
+                                            <div class="nextpost">
+                                                            <div class="standard-container red-bg">
+                                    <h3>特別報導下則文章：</h3>
+                                    <h1>
+                                        <a href="https://www.inside.com.tw/feature/ai/9745-big-data">大數據到底是什麼意思？事實上，它是一種精神！</a>
+                                    </h1>
+                                </div>
+                                                        <div class="standard-container">
+                                <h1>人工智慧專題報導</h1>
+                                <p>人工智慧技術上的大突破，不只是AlphaGo在下棋和遊戲贏了人類，人臉辨識和語音辨識更是讓我們的生活有了重大的改變。還想了解更多人工智慧的發展嗎？</p>
+                                <a class="btn btn-primary" href="https://www.inside.com.tw/feature/ai">看完整特別報導</a>
+                                <a class="btn btn-outline" href="https://www.inside.com.tw/features">其他特別報導</a>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+
+
+        </div>
+
+    </div>
+
+</article>
+
+
+
+
+    </div>
+
+                <footer>
+                    <div class="footer">
+                        <div class="footer_top">
+                            <div class="container">
+                                <div class="footer_post_list_group">
+            <div class="footer_post_list">
+            <a class="footer_post_list_title badge badge-large" style="background-color: #1cafd7" href="https://www.inside.com.tw/category/column">
+                專欄
+            </a>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/24720-electric-vehicle-gearbox">【電車世代】電動車到底該不該裝變速箱？</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/08/27</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/chris" title="Posts by Chris" class="author url fn" rel="author">Chris</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1008-%E9%9B%BB%E5%8B%95%E8%BB%8A">電動車</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2174-porsche">porsche</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/9496-Taycan">Taycan</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/14468-%E8%AE%8A%E9%80%9F%E7%AE%B1">變速箱</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/35555-opportunities-and-challenges-of-stablecoins-why-they-remain-a-focus-in-2024">【Web3 元觀察】穩定幣的機會與挑戰：為何在 2024 年仍是焦點？</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/07/09</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/kordan" title="Posts by 歐曜瑋（Kordan）" class="author url fn" rel="author">歐曜瑋（Kordan）</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/80-%E7%9B%A3%E7%AE%A1">監管</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/7060-%E7%A9%A9%E5%AE%9A%E5%B9%A3">穩定幣</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/9941-DeFi">DeFi</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/16066-CBDC">CBDC</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25863-%E6%97%A5%E6%9C%AC%E7%A9%A9%E5%AE%9A%E5%B9%A3">日本穩定幣</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/35469-japan-ai">【Web3 元觀察】日本穩定幣法案周年回顧與展望</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/07/01</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/kordan" title="Posts by 歐曜瑋（Kordan）" class="author url fn" rel="author">歐曜瑋（Kordan）</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/430-%E6%97%A5%E6%9C%AC">日本</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1728-%E5%8D%80%E5%A1%8A%E9%8F%88">區塊鏈</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/7060-%E7%A9%A9%E5%AE%9A%E5%B9%A3">穩定幣</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/19054-%E9%87%91%E8%9E%8D%E5%89%B5%E6%96%B0">金融創新</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25790-%E6%97%A5%E5%9C%93%E7%A9%A9%E5%AE%9A%E5%B9%A3">日圓穩定幣</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25791-%E7%A9%A9%E5%AE%9A%E5%B9%A3%E6%B3%95%E6%A1%88">穩定幣法案</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25792-%E6%97%A5%E6%9C%AC%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80">日本金融科技</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/34438-has-the-cryptocurrency-bull-market-really-arrived-price-vs-value">【Web3 元觀察】加密貨幣的牛市真的來了嗎？價格 v.s. 價值</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/03/11</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/kordan" title="Posts by 歐曜瑋（Kordan）" class="author url fn" rel="author">歐曜瑋（Kordan）</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1000-%E6%AF%94%E7%89%B9%E5%B9%A3">比特幣</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1728-%E5%8D%80%E5%A1%8A%E9%8F%88">區塊鏈</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/4493-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3">加密貨幣</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/9941-DeFi">DeFi</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/15529-Web3">Web3</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/34241-the-future-of-crypto-consumer-apps">【Web3 元觀察】探索 2024 年：加密消費者應用的未來發展</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/02/20</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/kordan" title="Posts by 歐曜瑋（Kordan）" class="author url fn" rel="author">歐曜瑋（Kordan）</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/32-%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F">應用程式</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1728-%E5%8D%80%E5%A1%8A%E9%8F%88">區塊鏈</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/6280-%E9%8C%A2%E5%8C%85">錢包</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/15781-web3.0">web3.0</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/24491-%E6%B6%88%E8%B2%BB%E8%80%85%E9%AB%94%E9%A9%97">消費者體驗</a>
+                                                    </li>
+                    </ul>
+                </div>
+                    </div>
+            <div class="footer_post_list">
+            <a class="footer_post_list_title badge badge-large" style="background-color: #ea5496" href="https://www.inside.com.tw/category/trend">
+                趨勢
+            </a>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/36715-germany-4-day-work-week-experiment">德國「一週工作四天」實驗結果出爐：員工身心健康改善、公司效率提升</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/11/07</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/inside-blog" title="Posts by INSIDE 硬塞的網路趨勢觀察" class="author url fn" rel="author">INSIDE 硬塞的網路趨勢觀察</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/982-%E8%81%B7%E5%A0%B4">職場</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1602-%E5%BE%B7%E5%9C%8B">德國</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/27208-%E5%91%A8%E4%BC%91">周休</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/36662-tgi-friday-s-becomes-latest-casual-dining-chain-to-go-bankrupt">撐不下去了！TGI Fridays&nbsp;美國總部正式聲請破產</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/11/02</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/inside-blog" title="Posts by INSIDE 硬塞的網路趨勢觀察" class="author url fn" rel="author">INSIDE 硬塞的網路趨勢觀察</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/18741-%E7%A0%B4%E7%94%A2%E4%BF%9D%E8%AD%B7">破產保護</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/27139-TGI%20Friday%E2%80%99s">TGI Friday’s</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/27140-%E9%96%8B%E5%B1%95%E9%A4%90%E9%A3%B2%E9%9B%86%E5%9C%98">開展餐飲集團</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/36576-starlux-ipo">星宇航空今天正式掛牌上市！股價一度飆漲 45%</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/10/25</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/chris" title="Posts by Chris" class="author url fn" rel="author">Chris</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2712-IPO">IPO</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/27018-%E6%98%9F%E5%AE%87">星宇</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/27019-%E5%BC%B5%E5%9C%8B%E7%85%92">張國煒</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/36565-niq-gfk-consumer-channels">NIQ-GfK、Rakuten Insight 2024 消費通路調查: MOMO 和蝦皮心佔率顯著提升！</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/10/24</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/inside-blog" title="Posts by INSIDE 硬塞的網路趨勢觀察" class="author url fn" rel="author">INSIDE 硬塞的網路趨勢觀察</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2045-%E7%B7%9A%E4%B8%8A">線上</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/3262-%E8%9D%A6%E7%9A%AE">蝦皮</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/4886-momo">momo</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/8245-%E6%B6%88%E8%B2%BB%E8%80%85">消費者</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/12546-%E6%B6%88%E8%B2%BB%E6%80%A7%E9%9B%BB%E5%AD%90%E7%94%A2%E5%93%81">消費性電子產品</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/14495-%E5%AF%A6%E9%AB%94">實體</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/36523-starbucks-refreshers-coffee-brian-niccol-coffee">星巴克創新過度？分析師建議應放慢腳步，強調長期策略</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/10/18</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/inside-blog" title="Posts by INSIDE 硬塞的網路趨勢觀察" class="author url fn" rel="author">INSIDE 硬塞的網路趨勢觀察</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/309-%E6%98%9F%E5%B7%B4%E5%85%8B">星巴克</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/5451-%E5%88%86%E6%9E%90%E5%B8%AB">分析師</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/8208-%E4%BF%83%E9%8A%B7">促銷</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/12045-%E6%8A%98%E6%89%A3">折扣</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26961-%E6%9E%9C%E6%B1%81">果汁</a>
+                                                    </li>
+                    </ul>
+                </div>
+                    </div>
+            <div class="footer_post_list">
+            <a class="footer_post_list_title badge badge-large" style="background-color: #999" href="https://www.inside.com.tw/category/interview">
+                人物專訪
+            </a>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/36070-exclusive-interview-with-the-director-of-the-brand-exhibition-at-the-2024-taiwan-creative-expo">【2024&nbsp;文博會】專訪 2024 台灣文博會商展總監黃昱禎：有感媒合到數位商展，如何將台灣品牌推向海外</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/08/30</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/sherlock" title="Posts by Sherlock" class="author url fn" rel="author">Sherlock</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25908-%E5%AF%B6%E5%B3%B6%E7%99%BE%E9%9D%A2">寶島百面</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26303-2024%20%E6%96%87%E5%8D%9A%E6%9C%83">2024 文博會</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26377-%E7%B7%9A%E4%B8%8A%E5%95%86%E5%B1%95">線上商展</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26378-%E5%95%86%E5%B1%95%E7%B8%BD%E7%9B%A3">商展總監</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26379-%E9%BB%83%E6%98%B1%E7%A6%8E">黃昱禎</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26380-%E5%93%81%E7%89%8C%E5%AA%92%E5%90%88">品牌媒合</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/36045-exclusive-interview-with-the-curator-of-the-technology-exhibition-and-art-performance-at-the-2024-cultural-expo">【2024&nbsp;文博會】專訪 2024&nbsp;文博會科技展演藝術策展人馮建彰：視覺藝術與科技下的一筆一畫</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/08/29</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/sherlock" title="Posts by Sherlock" class="author url fn" rel="author">Sherlock</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25908-%E5%AF%B6%E5%B3%B6%E7%99%BE%E9%9D%A2">寶島百面</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25911-2024%20%E8%87%BA%E7%81%A3%E6%96%87%E5%8D%9A%E6%9C%83">2024 臺灣文博會</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26224-%E8%A3%B8%E8%A6%96%203D">裸視 3D</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26353-FREE%27S">FREE'S</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26354-%E9%A6%AE%E5%BB%BA%E5%BD%B0">馮建彰</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26356-FREE%27S%C2%A0%E8%87%AA%E7%94%B1%E7%9A%84%E8%A8%AD%E8%A8%88">FREE'S&nbsp;自由的設計</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/26357-%E7%9C%A0%E6%9C%88%E7%B7%9A">眠月線</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/feature/side-chat/35405-side-chat-e251">中指通：百萬 YouTuber 暨成人內容推廣師 | 競爭激烈、政策緊縮下的求生之道【塞掐 Side Chat】E251</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/06/24</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/mia" title="Posts by Mia" class="author url fn" rel="author">Mia</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/687-%E5%95%86%E6%A5%AD%E6%A8%A1%E5%BC%8F">商業模式</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1045-VR">VR</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1999-YouTuber">YouTuber</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2474-%E5%89%B5%E4%BD%9C%E8%80%85">創作者</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/17863-%E6%88%90%E4%BA%BA%E5%85%A7%E5%AE%B9">成人內容</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25747-%E4%B8%AD%E6%8C%87%E9%80%9A">中指通</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/feature/ai-new-chip-war/34813-neuchips-interview">專訪 Neuchips 創鑫：台灣新創怎緊抓生成式 AI 大浪？</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/05/29</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/sisley" title="Posts by Sisley" class="author url fn" rel="author">Sisley</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1321-AI">AI</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2354-GPU">GPU</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/19367-%E7%94%9F%E6%88%90%E5%BC%8FAI">生成式AI</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/19712-LLM">LLM</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/20309-AI%20%E6%99%B6%E7%89%87">AI 晶片</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25364-%E8%83%BD%E6%95%88">能效</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25365-%E8%BB%9F%E9%AB%94%E4%BA%BA%E6%89%8D">軟體人才</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/25366-Neuchips">Neuchips</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/34472-liang-sheng-lin">黃明志破億神曲《東京盆踊》背後的男人，專訪 Cool Japan TV 共同創辦人林良升</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/03/14</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/tnl" title="Posts by TNL" class="author url fn" rel="author">TNL</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/84-%E8%A1%8C%E9%8A%B7">行銷</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/197-Youtube">Youtube</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1021-%E5%BD%B1%E9%9F%B3">影音</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2001-%E7%B6%B2%E7%B4%85">網紅</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/4600-%E5%89%B5%E4%BD%9C">創作</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/5492-%E8%87%AA%E5%AA%92%E9%AB%94">自媒體</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/15035-%E9%BB%83%E6%98%8E%E5%BF%97">黃明志</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/24796-Cool%20Japan%20TV">Cool Japan TV</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/24797-%E6%9E%97%E8%89%AF%E5%8D%87">林良升</a>
+                                                    </li>
+                    </ul>
+                </div>
+                    </div>
+            <div class="footer_post_list">
+            <a class="footer_post_list_title badge badge-large" style="background-color: #e4ad00" href="https://www.inside.com.tw/category/opinion">
+                評論
+            </a>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/35766-elta-rebroadcast">奧運直播被愛爾達「獨佔」？不，這是耕耘 15 年的故事與困境</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/07/30</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/206092005" title="Posts by 精選轉貼" class="author url fn" rel="author">精選轉貼</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/146-%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1">中華電信</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1108-%E4%B8%B2%E6%B5%81">串流</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1126-%E7%9B%B4%E6%92%AD">直播</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/6866-%E6%84%9B%E7%88%BE%E9%81%94">愛爾達</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/35756-learn-from-sbf">麥可路易士《無限風暴》：幣圈神棍後浪推前浪，因此我們必須向 SBF 這樣的壞人「學習」</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/07/30</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/tnl" title="Posts by TNL" class="author url fn" rel="author">TNL</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/999-bitcoin">bitcoin</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1000-%E6%AF%94%E7%89%B9%E5%B9%A3">比特幣</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1728-%E5%8D%80%E5%A1%8A%E9%8F%88">區塊鏈</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/4493-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3">加密貨幣</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/10672-FTX">FTX</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/18628-SBF">SBF</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/20006-Sam%20Bankman-Fried">Sam Bankman-Fried</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/35745-another-failure-for-intel">Intel 的失敗又添一筆！基辛格還有機會取回市場信任嗎？</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/07/29</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/ericlin" title="Posts by 林宗輝" class="author url fn" rel="author">林宗輝</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/649-Intel">Intel</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1913-CPU">CPU</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/3431-%E8%8B%B1%E7%89%B9%E7%88%BE">英特爾</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/13514-Pat%20Gelsinger">Pat Gelsinger</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/14868-%E5%9F%BA%E8%BE%9B%E6%A0%BC">基辛格</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/35561-threads-meta-one-year-anniversary">Threads 一週年：一個文字友好的社交場所，找到了它的受眾</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/07/10</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/chris" title="Posts by Chris" class="author url fn" rel="author">Chris</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/3-Facebook">Facebook</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/534-instagram">instagram</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/3014-Meta">Meta</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/21206-Threads">Threads</a>
+                                                    </li>
+                    </ul>
+                </div>
+                            <div class="footer_post_list_item">
+                    <h5 class="post_title">
+                        <a class="js-auto_break_title" href="https://www.inside.com.tw/article/35524-why-did-elon-musk-retrieve-charges-against-openai">馬斯克為何悄悄撤告 Open AI，背後可能有哪些考量？</a>
+                    </h5>
+                    <ul class="post_meta">
+                        <li class="post_date">
+                            <span>2024/07/08</span>
+                        </li>
+                        <li>
+                                                                                            <a href="https://www.inside.com.tw/author/abby" title="Posts by Abby" class="author url fn" rel="author">Abby</a>
+                                                    </li>
+                        <li>
+                                                                                            <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/128-%E8%98%8B%E6%9E%9C">蘋果</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1256-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7">人工智慧</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/1420-%E9%A6%AC%E6%96%AF%E5%85%8B">馬斯克</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2189-%E6%B3%95%E5%BE%8B">法律</a>
+                                                                                                、                                                                <a class="hero_slide_tag" href="https://www.inside.com.tw/tag/2724-OpenAI">OpenAI</a>
+                                                    </li>
+                    </ul>
+                </div>
+                    </div>
+    </div>
+                            </div>
+
+                        </div>
+
+                        <div class="footer_bottom">
+                            <div class="container">
+                                <div class="subscribe_block footer_subscribe_block">
+    <div class="subscribe_block_title">訂閱 INSIDE</div>
+    <div class="subscribe_block_description js-auto_break_text">隨時關注最新創業、科技、網路、工作訊息。</div>
+    <div class="subscribe_block_action">
+        <div class="subscribe_block_social_list">
+            <a class="subscribe_block_social_item" href="https://www.facebook.com/cyberbuzz" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
+            <a class="subscribe_block_social_item" href="https://twitter.com/insideCyberbuzz" target="_blank" rel="noopener noreferrer"><i class="fab fa-x-twitter"></i></a>
+            <a class="subscribe_block_social_item" href="https://line.me/ti/p/@paq1370n" target="_blank" rel="noopener noreferrer"><i class="fab fa-line"></i></a>
+            <a class="subscribe_block_social_item" href="https://www.youtube.com/channel/UC5MwBnaH11q1nO2r4hiv5BQ?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-youtube"></i></a>
+            <a class="subscribe_block_social_item gtm-track" data-gtm-category="Footer" data-gtm-label="Newsletter" rel="nofollow" href="https://www.inside.com.tw/insider/newsletter"><i class="fas fa-envelope"></i></a>
+        </div>
+    </div>
+    <ul class="footer_links">
+        <li>
+            <a href="https://www.tnlmediagene.com/zh-tw/media/inside" target="_blank">關於 INSIDE</a>
+        </li>
+    </ul>
+</div>
+<div class="contactus_block">
+    <span class="contactus_title">聯絡我們</span>
+    <ul>
+        <li><a target="_blank" href="mailto:sales@inside.com.tw">廣告採購、授權詢問、業務相關合作：<span>sales@inside.com.tw</span></a>
+        </li>
+        <li><a target="_blank" href="mailto:partnership@inside.com.tw">非業務相關的行銷合作洽詢：<span>partnership@inside.com.tw</span></a>
+        </li>
+    </ul>
+    <ul>
+        <li><a target="_blank" href="mailto:pr@inside.com.tw">新聞稿、書訊等內容合作：<span>pr@inside.com.tw</span></a>
+        </li>
+        <li><a target="_blank" href="mailto:contact@inside.com.tw">新聞採訪、內容檢舉、投稿發文相關問題：<span>contact@inside.com.tw</span></a>
+        </li>
+    </ul>
+</div>
+                            </div>
+                            <tnlmedia-footer theme="styleLight" lang="zh-tw"></tnlmedia-footer>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+            
+                            <div class="ad-content">
+                    <div class="tmgad tmgad-type-general tmgad-new">
+  <script type="application/json">{"type":"general","slot":"\/21870649235\/in_all_bottom_mobile_special","size":[[320,100],[1,1]],"mapping":[[[0,0],[[320,100],[1,1]]]],"targeting":{"advertising":["0"],"cabinet":["166032"],"page_key":["feature"],"page_name":["feature"],"author_key":["157"],"author_name":["Lynn"],"category_key":["dictionary"],"category_name":["\u786c\u585e\u79d1\u6280\u5b57\u5178"],"feature_key":["ai"],"feature_name":["\u4eba\u5de5\u667a\u6167\u5c08\u984c\u5831\u5c0e"],"tag_key":["1256","1362","2384"],"tag_name":["\u4eba\u5de5\u667a\u6167","\u6a5f\u5668\u5b78\u7fd2","\u6df1\u5ea6\u5b78\u7fd2"]},"name":"in_all_bottom_mobile_special"}</script>
+</div>
+
+                </div>
+
+            
+            
+            
+            <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/photon.min-p3iExkvb.js"></script>
+            <script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js"></script>
+            <script src="https://stats.wp.com/e-201833.js" async="" defer=""></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/hammer-CsEdN7pH.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/sharer.min-B6d8lRT4.js"></script>
+
+
+            
+            <script type="module" src="https://www.inside.com.tw/assets/js/global-BG43lEK-.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/off-canvas-1Gaq7iql.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/dropdown-C5MCDvfU.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/post-sticky-CE4bLXBH.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/index-hero-CNv3hd7L.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/search-CStTr8Xz.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/common-B5D5IrSa.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/job-DCdKK1cs.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/toggle-lan-DZb5uqlX.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/carousel-CZ859lcE.js"></script>
+            <script type="module" src="https://www.inside.com.tw/assets/js/article-continue-Bxz2cawX.js"></script>
+                <script src="https://www.inside.com.tw/assets/js/bigfoot-Bcj5kEy9.js"></script>
+    <script type="module" src="https://www.inside.com.tw/assets/js/article-B-6UI7Bp.js"></script>
+    <script type="module" src="https://www.inside.com.tw/assets/js/article-authorization-DJBhiTH7.js"></script>
+
+
+    <div class="legal container-fluid wine-legal-disable" variant="fixed">
+    <div class="row">
+        <div class="legal unit" modifier="centered">
+            <div id="warning" class="warning">
+                <span>-</span> 禁 止 酒 駕 <img src="../assets/images/legal/icon_warning.png" alt=""> 未 滿 十 八 歲 禁 止 飲 酒 <span>-</span> 
+            </div>
+            <div id="warning_s"> <img src="../assets/images/legal/txt_warn.png"></div>
+        </div>
+    </div>
+</div>        
+    
+</body></html>

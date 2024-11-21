@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "acw_tc=0aef342417315552865406441e0037fb63060b3a36c2f42d926d8004c04cc2",
+        "Referer": "https://proapi.jingjiribao.cn/readnews.html?id=315488",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://proapi.jingjiribao.cn/readnews.html?id=315488",
+    "wait": 6
+}

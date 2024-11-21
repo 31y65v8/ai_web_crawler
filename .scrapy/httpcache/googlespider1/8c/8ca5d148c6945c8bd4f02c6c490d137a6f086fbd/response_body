@@ -1,0 +1,6203 @@
+<!DOCTYPE html><html lang="zh-hans"><head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>AI Agent的发展简史是什么？ · 构建你的智能应用，使用蓝莺Chat AI SDK</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="本文详细探讨AI Agent从起源到现代发展的完整历程，包含关键技术突破和应用场景。">
+        <meta name="generator" content="GitBook 3.2.3">
+        <meta name="author" content="jinhai">
+        
+        
+    
+    <style class="anchorjs"></style><link rel="stylesheet" href="../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-prism/prism-base16-ateliersulphurpool.light.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-lanying-code-snippet/lanying-code-snippet.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-search-plus/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-advanced-emoji/emoji-website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-tbfed-pagefooter/footer.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-versions-select/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-terminal/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-code/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-splitter/splitter.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-auto-scroll-table/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-intopic-toc/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-lanying-grow-ai-expandable-chapters/expandable-chapters-small.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-lanying-grow-ai-image-captions/image-captions.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../assets/styles/website.css">
+        
+    
+
+        
+    
+    
+    
+    
+    
+        <meta name="keywords" content="AI Agent,发展历史, 智能体,AI智能体">
+    
+    
+    
+    
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    
+    <link rel="next" href="ai-agent-trading-strategy-40-20240710-6-15-1720613338.html">
+    
+    
+    <link rel="prev" href="ai-agent-info-40-20240710-6-13-1720613251.html">
+    
+
+
+    <link rel="canonical" href="https://docs.lanyingim.com/quest/ai-agent-development-history-40-20240710-6-14-1720613287.html">
+
+    
+        <link rel="shortcut icon" href="../assets/favicon.ico" type="image/x-icon">
+    
+    
+        <link rel="bookmark" href="../assets/favicon.ico" type="image/x-icon">
+    
+    
+        <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+    
+    
+
+    <style>
+    @media only screen and (max-width: 640px) {
+        .book-header .hidden-mobile {
+            display: none;
+        }
+    }
+    </style>
+    <script src="https://hm.baidu.com/hm.js?21ea229c06c9f14fe8d731724a98bfb1"></script><script>
+        window["gitbook-plugin-github-buttons"] = {"repo":"maxim-top/im.gitbook","types":["star"],"size":"small"};
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"></head>
+    <body>
+        
+<div class="book without-animation with-summary font-size-2 font-family-1">
+    <div class="book-summary" style="width: 300px; left: 0px; position: absolute;"><a href="https://www.lanyingim.com" class="book-logo-root"><div class="book-logo" style="text-align: center; padding: 20px;"><img src="/assets/lanying-logo-color.png" style="height: 35px;align:left;"></div></a>
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="输入并搜索">
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary"><li class="versions-select"><div><select><option selected="selected" value="/">简体中文</option><option value="/en/">English</option></select></div></li>
+    
+    
+
+    
+
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+    
+    
+        
+    
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    即时通讯开发指南（IM）
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+                
+            
+        
+            
+        
+    
+    
+        
+    
+    
+        <li class="chapter " data-level="1.2" data-path="../quick-start/">
+            
+                <a href="../quick-start/">
+            
+                    
+                    开发
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+    
+    
+        
+    
+    
+        <li class="chapter " data-level="1.3" data-path="../reference/">
+            
+                <a href="../reference/">
+            
+                    
+                    参考
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+    
+    
+        
+    
+    
+        <li class="chapter " data-level="1.4" data-path="../articles/">
+            
+                <a href="../articles/">
+            
+                    
+                    博客
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+    
+    
+        
+    
+    
+        <li class="chapter " data-level="1.5" data-path="../faq/">
+            
+                <a href="../faq/">
+            
+                    
+                    FAQ
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+
+    
+        
+        <li class="header">行业资讯</li>
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.1" data-path="../news/">
+            
+                <a href="../news/">
+            
+                    
+                    新闻
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+    
+    
+    
+        <li class="chapter expanded" data-level="2.2" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    问答
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+                
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.1" data-path="latest/">
+            
+                <a href="latest/">
+            
+                    
+                    最新
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.2" data-path="20240721/">
+            
+                <a href="20240721/">
+            
+                    
+                    20240721
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.3" data-path="20240720/">
+            
+                <a href="20240720/">
+            
+                    
+                    20240720
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.4" data-path="20240713/">
+            
+                <a href="20240713/">
+            
+                    
+                    20240713
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.5" data-path="20240712/">
+            
+                <a href="20240712/">
+            
+                    
+                    20240712
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+    
+    
+    
+        <li class="chapter expanded" data-level="2.2.6" data-path="20240710/">
+            
+                <a href="20240710/">
+            
+                    
+                    20240710
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+                
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.1" data-path="ai-agent-writing-applications-40-20240710-7-1-1720616400.html">
+            
+                <a href="ai-agent-writing-applications-40-20240710-7-1-1720616400.html">
+            
+                    
+                    AI Agent在写作中的应用是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.2" data-path="ai-agent-technology-introduction-40-20240710-7-2-1720616430.html">
+            
+                <a href="ai-agent-technology-introduction-40-20240710-7-2-1720616430.html">
+            
+                    
+                    AI Agent的技术介绍？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.3" data-path="ai-agent-usage-examples-40-20240710-7-3-1720616461.html">
+            
+                <a href="ai-agent-usage-examples-40-20240710-7-3-1720616461.html">
+            
+                    
+                    AI Agent的典型使用例子有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.4" data-path="generative-ai-and-ai-agent-relationship-40-20240710-7-4-1720616514.html">
+            
+                <a href="generative-ai-and-ai-agent-relationship-40-20240710-7-4-1720616514.html">
+            
+                    
+                    生成式AI与AI Agent的关系？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.5" data-path="ai-agent-core-functions-40-20240710-7-5-1720616549.html">
+            
+                <a href="ai-agent-core-functions-40-20240710-7-5-1720616549.html">
+            
+                    
+                    AI Agent的核心功能有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.6" data-path="im-development-time-cost-40-20240710-7-6-1720723138.html">
+            
+                <a href="im-development-time-cost-40-20240710-7-6-1720723138.html">
+            
+                    
+                    开发一个即时通讯要多久，需要花费多少？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.7" data-path="is-developing-im-very-difficult-40-20240710-7-7-1720723168.html">
+            
+                <a href="is-developing-im-very-difficult-40-20240710-7-7-1720723168.html">
+            
+                    
+                    自已开发IM有那么难吗？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.8" data-path="how-to-develop-a-simple-chat-app-40-20240710-7-8-1720723202.html">
+            
+                <a href="how-to-develop-a-simple-chat-app-40-20240710-7-8-1720723202.html">
+            
+                    
+                    如何开发一个简单的聊天APP?
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.9" data-path="how-to-develop-mobile-chat-app-40-20240710-7-9-1720723242.html">
+            
+                <a href="how-to-develop-mobile-chat-app-40-20240710-7-9-1720723242.html">
+            
+                    
+                    怎么开发一个手机聊天软件?
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.10" data-path="how-to-build-chat-app-and-why-40-20240710-7-10-1720723288.html">
+            
+                <a href="how-to-build-chat-app-and-why-40-20240710-7-10-1720723288.html">
+            
+                    
+                    如何构建聊天应用以及为什么你应该这样做?
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.11" data-path="best-ai-chat-software-40-20240710-7-11-1720723314.html">
+            
+                <a href="best-ai-chat-software-40-20240710-7-11-1720723314.html">
+            
+                    
+                    AI聊天软件哪个最火?
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.12" data-path="what-is-private-deployment-chat-software-40-20240710-7-12-1720779815.html">
+            
+                <a href="what-is-private-deployment-chat-software-40-20240710-7-12-1720779815.html">
+            
+                    
+                    什么是私有化部署聊天软件？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.13" data-path="im-chat-software-private-deployment-40-20240710-7-13-1720779841.html">
+            
+                <a href="im-chat-software-private-deployment-40-20240710-7-13-1720779841.html">
+            
+                    
+                    IM聊天软件如何进行私有化部署？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.14" data-path="why-enterprises-need-private-deployment-chat-software-40-20240710-7-14-1720779881.html">
+            
+                <a href="why-enterprises-need-private-deployment-chat-software-40-20240710-7-14-1720779881.html">
+            
+                    
+                    为什么企业需要私有化部署聊天软件？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.15" data-path="private-deployment-chat-software-steps-40-20240710-7-15-1720779912.html">
+            
+                <a href="private-deployment-chat-software-steps-40-20240710-7-15-1720779912.html">
+            
+                    
+                    私有化部署聊天软件的主要步骤是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.16" data-path="which-chat-software-support-on-premises-40-20240710-7-16-1720779937.html">
+            
+                <a href="which-chat-software-support-on-premises-40-20240710-7-16-1720779937.html">
+            
+                    
+                    哪些聊天软件支持私有化部署？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.17" data-path="how-to-choose-private-chat-software-40-20240710-7-17-1720779967.html">
+            
+                <a href="how-to-choose-private-chat-software-40-20240710-7-17-1720779967.html">
+            
+                    
+                    如何选择适合企业的私有化部署聊天软件？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.18" data-path="advantages-of-private-deployment-chat-software-40-20240710-7-18-1720779995.html">
+            
+                <a href="advantages-of-private-deployment-chat-software-40-20240710-7-18-1720779995.html">
+            
+                    
+                    私有化部署聊天软件的优势有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.19" data-path="private-deploy-chat-software-issues-40-20240710-7-19-1720780031.html">
+            
+                <a href="private-deploy-chat-software-issues-40-20240710-7-19-1720780031.html">
+            
+                    
+                    私有化部署聊天软件的常见问题是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.20" data-path="private-deployment-chat-software-40-20240710-7-20-1720780053.html">
+            
+                <a href="private-deployment-chat-software-40-20240710-7-20-1720780053.html">
+            
+                    
+                    办公聊天软件私有化部署的含义是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.21" data-path="ai-agent-vs-rpa-40-20240710-6-1-1720612800.html">
+            
+                <a href="ai-agent-vs-rpa-40-20240710-6-1-1720612800.html">
+            
+                    
+                    AI Agent与RPA（机器人过程自动化）的区别？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.22" data-path="ai-agent-development-status-40-20240710-6-2-1720612833.html">
+            
+                <a href="ai-agent-development-status-40-20240710-6-2-1720612833.html">
+            
+                    
+                    AI Agent的发展现状如何？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.23" data-path="choose-ai-agent-framework-40-20240710-6-3-1720612882.html">
+            
+                <a href="choose-ai-agent-framework-40-20240710-6-3-1720612882.html">
+            
+                    
+                    如何评估和选择AI Agent框架？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.24" data-path="successful-ai-agent-case-studies-40-20240710-6-4-1720612906.html">
+            
+                <a href="successful-ai-agent-case-studies-40-20240710-6-4-1720612906.html">
+            
+                    
+                    有哪些成功的AI Agent商业案例？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.25" data-path="ai-agent-algorithm-classification-40-20240710-6-5-1720612942.html">
+            
+                <a href="ai-agent-algorithm-classification-40-20240710-6-5-1720612942.html">
+            
+                    
+                    AI Agent的算法分类有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.26" data-path="how-to-apply-ai-agent-in-iot-40-20240710-6-6-1720612977.html">
+            
+                <a href="how-to-apply-ai-agent-in-iot-40-20240710-6-6-1720612977.html">
+            
+                    
+                    如何在物联网（IoT）中应用AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.27" data-path="how-to-learn-ai-agent-quickly-40-20240710-6-7-1720613014.html">
+            
+                <a href="how-to-learn-ai-agent-quickly-40-20240710-6-7-1720613014.html">
+            
+                    
+                    如何快速学习AI Agent的技术？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.28" data-path="how-to-develop-ai-agent-application-40-20240710-6-8-1720613037.html">
+            
+                <a href="how-to-develop-ai-agent-application-40-20240710-6-8-1720613037.html">
+            
+                    
+                    如何开发一个AI Agent的应用程序？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.29" data-path="ai-agent-in-e-commerce-40-20240710-6-9-1720613070.html">
+            
+                <a href="ai-agent-in-e-commerce-40-20240710-6-9-1720613070.html">
+            
+                    
+                    AI Agent在电商领域的应用实例？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.30" data-path="how-to-develop-ai-agent-using-flowise-40-20240710-6-10-1720613107.html">
+            
+                <a href="how-to-develop-ai-agent-using-flowise-40-20240710-6-10-1720613107.html">
+            
+                    
+                    如何使用Flowise开发AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.31" data-path="ai-agent-typical-use-cases-40-20240710-6-11-1720613165.html">
+            
+                <a href="ai-agent-typical-use-cases-40-20240710-6-11-1720613165.html">
+            
+                    
+                    AI Agent的典型应用案例有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.32" data-path="ai-agent-in-customer-service-40-20240710-6-12-1720613208.html">
+            
+                <a href="ai-agent-in-customer-service-40-20240710-6-12-1720613208.html">
+            
+                    
+                    智能客服中的AI Agent如何工作？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.33" data-path="ai-agent-info-40-20240710-6-13-1720613251.html">
+            
+                <a href="ai-agent-info-40-20240710-6-13-1720613251.html">
+            
+                    
+                    AI Agent的官网信息是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        
+    
+    
+    
+        <li class="chapter active expanded" data-level="2.2.6.34" data-path="ai-agent-development-history-40-20240710-6-14-1720613287.html">
+            
+                <a href="ai-agent-development-history-40-20240710-6-14-1720613287.html">
+            
+                    
+                    AI Agent的发展简史是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.35" data-path="ai-agent-trading-strategy-40-20240710-6-15-1720613338.html">
+            
+                <a href="ai-agent-trading-strategy-40-20240710-6-15-1720613338.html">
+            
+                    
+                    AI Agent在交易策略中的应用？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.36" data-path="ai-agent-chinese-name-40-20240710-6-16-1720613378.html">
+            
+                <a href="ai-agent-chinese-name-40-20240710-6-16-1720613378.html">
+            
+                    
+                    AI Agent的中文名称是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.37" data-path="recommended-ai-agent-tools-40-20240710-6-17-1720613404.html">
+            
+                <a href="recommended-ai-agent-tools-40-20240710-6-17-1720613404.html">
+            
+                    
+                    推荐一些好用的AI Agent工具？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.38" data-path="ai-agent-large-model-applications-40-20240710-6-18-1720613441.html">
+            
+                <a href="ai-agent-large-model-applications-40-20240710-6-18-1720613441.html">
+            
+                    
+                    AI Agent的大模型应用有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.39" data-path="ai-agent-data-analysis-40-20240710-6-19-1720613461.html">
+            
+                <a href="ai-agent-data-analysis-40-20240710-6-19-1720613461.html">
+            
+                    
+                    AI Agent在数据分析中的作用？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.40" data-path="how-to-register-ai-agent-account-40-20240710-6-20-1720613495.html">
+            
+                <a href="how-to-register-ai-agent-account-40-20240710-6-20-1720613495.html">
+            
+                    
+                    如何注册一个AI Agent账号？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.41" data-path="ai-agent-user-interaction-40-20240710-5-1-1720609200.html">
+            
+                <a href="ai-agent-user-interaction-40-20240710-5-1-1720609200.html">
+            
+                    
+                    AI Agent如何实现用户互动？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.42" data-path="ai-agent-in-food-delivery-40-20240710-5-2-1720609265.html">
+            
+                <a href="ai-agent-in-food-delivery-40-20240710-5-2-1720609265.html">
+            
+                    
+                    AI Agent在外卖行业中的应用是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.43" data-path="how-to-design-adjust-ai-agent-framework-40-20240710-5-3-1720609305.html">
+            
+                <a href="how-to-design-adjust-ai-agent-framework-40-20240710-5-3-1720609305.html">
+            
+                    
+                    如何设计和调整AI Agent的框架？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.44" data-path="how-to-create-ai-agent-40-20240710-5-4-1720609362.html">
+            
+                <a href="how-to-create-ai-agent-40-20240710-5-4-1720609362.html">
+            
+                    
+                    如何动手制作一个AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.45" data-path="application-of-visual-ai-agent-40-20240710-5-5-1720609395.html">
+            
+                <a href="application-of-visual-ai-agent-40-20240710-5-5-1720609395.html">
+            
+                    
+                    视觉AI Agent的应用场景有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.46" data-path="ai-agent-implementation-40-20240710-5-6-1720609446.html">
+            
+                <a href="ai-agent-implementation-40-20240710-5-6-1720609446.html">
+            
+                    
+                    AI Agent Flow的定义和实现？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.47" data-path="agent-ai-stock-market-applications-40-20240710-5-7-1720609486.html">
+            
+                <a href="agent-ai-stock-market-applications-40-20240710-5-7-1720609486.html">
+            
+                    
+                    Agent AI在股市中的应用是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.48" data-path="ai-agent-paradigm-40-20240710-5-8-1720609526.html">
+            
+                <a href="ai-agent-paradigm-40-20240710-5-8-1720609526.html">
+            
+                    
+                    AI Agent的范式（Paradigm）是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.49" data-path="focused-companies-ai-agent-40-20240710-5-9-1720609569.html">
+            
+                <a href="focused-companies-ai-agent-40-20240710-5-9-1720609569.html">
+            
+                    
+                    有哪些公司专注于AI Agent开发？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.50" data-path="how-to-develop-an-ai-agent-solution-40-20240710-5-10-1720609607.html">
+            
+                <a href="how-to-develop-an-ai-agent-solution-40-20240710-5-10-1720609607.html">
+            
+                    
+                    如何开发一个基于AI Agent的解决方案？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.51" data-path="open-ai-ai-agent-products-40-20240710-5-11-1720609651.html">
+            
+                <a href="open-ai-ai-agent-products-40-20240710-5-11-1720609651.html">
+            
+                    
+                    Open AI推出了哪些AI Agent产品？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.52" data-path="ai-agent-funding-situation-40-20240710-5-12-1720609679.html">
+            
+                <a href="ai-agent-funding-situation-40-20240710-5-12-1720609679.html">
+            
+                    
+                    AI Agent的融资情况如何？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.53" data-path="how-to-capture-ai-agent-data-40-20240710-5-13-1720609724.html">
+            
+                <a href="how-to-capture-ai-agent-data-40-20240710-5-13-1720609724.html">
+            
+                    
+                    如何捕获和处理AI Agent的数据？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.54" data-path="ai-agent-concept-40-20240710-5-14-1720609752.html">
+            
+                <a href="ai-agent-concept-40-20240710-5-14-1720609752.html">
+            
+                    
+                    什么是AI Agent的概念（Concept）？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.55" data-path="ai-agent-workflow-40-20240710-5-15-1720609811.html">
+            
+                <a href="ai-agent-workflow-40-20240710-5-15-1720609811.html">
+            
+                    
+                    AI Agent的工作流程（Workflow）是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.56" data-path="open-source-ai-agent-frameworks-40-20240710-5-16-1720609853.html">
+            
+                <a href="open-source-ai-agent-frameworks-40-20240710-5-16-1720609853.html">
+            
+                    
+                    开源的AI Agent框架有哪些选择？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.57" data-path="ai-agent-disaster-warning-40-20240710-5-17-1720609889.html">
+            
+                <a href="ai-agent-disaster-warning-40-20240710-5-17-1720609889.html">
+            
+                    
+                    AI Agent可以进行灾害预警吗？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.58" data-path="ai-agent-manufacturing-examples-40-20240710-5-18-1720609922.html">
+            
+                <a href="ai-agent-manufacturing-examples-40-20240710-5-18-1720609922.html">
+            
+                    
+                    AI Agent在制造业中的应用实例？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.59" data-path="ai-agent-main-goals-40-20240710-5-19-1720609963.html">
+            
+                <a href="ai-agent-main-goals-40-20240710-5-19-1720609963.html">
+            
+                    
+                    AI Agent的主要目标是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.60" data-path="ai-agent-and-artificial-intelligence-relation-40-20240710-5-20-1720609994.html">
+            
+                <a href="ai-agent-and-artificial-intelligence-relation-40-20240710-5-20-1720609994.html">
+            
+                    
+                    AI Agent与人工智能（AI）的关系？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.61" data-path="ai-agent-role-in-ai-40-20240710-4-1-1720605600.html">
+            
+                <a href="ai-agent-role-in-ai-40-20240710-4-1-1720605600.html">
+            
+                    
+                    AI Agent在AI领域中的作用是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.62" data-path="how-to-market-ai-agent-40-20240710-4-2-1720605637.html">
+            
+                <a href="how-to-market-ai-agent-40-20240710-4-2-1720605637.html">
+            
+                    
+                    如何进行AI Agent的营销推广？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.63" data-path="how-to-use-ai-agent-sales-40-20240710-4-3-1720605667.html">
+            
+                <a href="how-to-use-ai-agent-sales-40-20240710-4-3-1720605667.html">
+            
+                    
+                    销售行业中如何利用AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.64" data-path="ai-agent-framework-options-40-20240710-4-4-1720605711.html">
+            
+                <a href="ai-agent-framework-options-40-20240710-4-4-1720605711.html">
+            
+                    
+                    AI Agent框架有哪些选择？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.65" data-path="ai-agent-platform-features-40-20240710-4-5-1720605745.html">
+            
+                <a href="ai-agent-platform-features-40-20240710-4-5-1720605745.html">
+            
+                    
+                    AI Agent平台的主要功能是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.66" data-path="ai-agent-report-content-40-20240710-4-6-1720605781.html">
+            
+                <a href="ai-agent-report-content-40-20240710-4-6-1720605781.html">
+            
+                    
+                    AI Agent的报告包括哪些内容？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.67" data-path="how-to-learn-ai-agent-40-20240710-4-7-1720605824.html">
+            
+                <a href="how-to-learn-ai-agent-40-20240710-4-7-1720605824.html">
+            
+                    
+                    如何学习AI Agent的教程？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.68" data-path="ai-agent-development-basics-40-20240710-4-8-1720605852.html">
+            
+                <a href="ai-agent-development-basics-40-20240710-4-8-1720605852.html">
+            
+                    
+                    AI Agent开发的基本流程是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.69" data-path="agent-ai-companies-40-20240710-4-9-1720605875.html">
+            
+                <a href="agent-ai-companies-40-20240710-4-9-1720605875.html">
+            
+                    
+                    哪些公司专注于Agent AI业务？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.70" data-path="ai-agent-stock-performance-40-20240710-4-10-1720605929.html">
+            
+                <a href="ai-agent-stock-performance-40-20240710-4-10-1720605929.html">
+            
+                    
+                    AI Agent的股票表现如何？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.71" data-path="ai-agent-definition-40-20240710-4-11-1720605966.html">
+            
+                <a href="ai-agent-definition-40-20240710-4-11-1720605966.html">
+            
+                    
+                    AI-Agent究竟是指什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.72" data-path="ai-agent-tech-translations-40-20240710-4-12-1720605998.html">
+            
+                <a href="ai-agent-tech-translations-40-20240710-4-12-1720605998.html">
+            
+                    
+                    AI Agent翻译了哪些技术？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.73" data-path="ai-agent-stock-market-performance-40-20240710-4-13-1720606062.html">
+            
+                <a href="ai-agent-stock-market-performance-40-20240710-4-13-1720606062.html">
+            
+                    
+                    AI Agent股票市场表现如何？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.74" data-path="develop-ai-agent-tools-40-20240710-4-14-1720606093.html">
+            
+                <a href="develop-ai-agent-tools-40-20240710-4-14-1720606093.html">
+            
+                    
+                    开发AI Agent时常用的工具有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.75" data-path="ai-agent-robot-working-principle-40-20240710-4-15-1720606124.html">
+            
+                <a href="ai-agent-robot-working-principle-40-20240710-4-15-1720606124.html">
+            
+                    
+                    AI Agent Robot的工作原理是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.76" data-path="ai-agent-case-studies-40-20240710-4-16-1720606170.html">
+            
+                <a href="ai-agent-case-studies-40-20240710-4-16-1720606170.html">
+            
+                    
+                    AI Agent案例分析有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.77" data-path="how-to-monitor-ai-agent-status-40-20240710-4-17-1720606211.html">
+            
+                <a href="how-to-monitor-ai-agent-status-40-20240710-4-17-1720606211.html">
+            
+                    
+                    如何监控AI Agent的运行状态？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.78" data-path="ai-agent-backend-principle-40-20240710-4-18-1720606257.html">
+            
+                <a href="ai-agent-backend-principle-40-20240710-4-18-1720606257.html">
+            
+                    
+                    AI Agent背后的原理是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.79" data-path="ai-agent-stock-trading-40-20240710-4-19-1720606284.html">
+            
+                <a href="ai-agent-stock-trading-40-20240710-4-19-1720606284.html">
+            
+                    
+                    AI Agent可以用于炒股吗？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.80" data-path="successful-ai-agent-examples-40-20240710-4-20-1720606323.html">
+            
+                <a href="successful-ai-agent-examples-40-20240710-4-20-1720606323.html">
+            
+                    
+                    有哪些成功的AI Agent实例？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.81" data-path="ai-agent-future-prospects-40-20240710-3-1-1720602000.html">
+            
+                <a href="ai-agent-future-prospects-40-20240710-3-1-1720602000.html">
+            
+                    
+                    AI Agent的未来前景如何？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.82" data-path="ai-react-agent-concept-40-20240710-3-2-1720602040.html">
+            
+                <a href="ai-react-agent-concept-40-20240710-3-2-1720602040.html">
+            
+                    
+                    AI React Agent的概念是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.83" data-path="ai-agent-design-development-40-20240710-3-3-1720602095.html">
+            
+                <a href="ai-agent-design-development-40-20240710-3-3-1720602095.html">
+            
+                    
+                    AI Agent如何进行设计和开发？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.84" data-path="ai-agent-opportunities-40-20240710-3-4-1720602123.html">
+            
+                <a href="ai-agent-opportunities-40-20240710-3-4-1720602123.html">
+            
+                    
+                    AI Agent创业的机会在哪里？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.85" data-path="how-to-demonstrate-an-ai-agent-functionality-40-20240710-3-5-1720602166.html">
+            
+                <a href="how-to-demonstrate-an-ai-agent-functionality-40-20240710-3-5-1720602166.html">
+            
+                    
+                    如何演示一个AI Agent的功能？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.86" data-path="ai-revolution-agent-meaning-40-20240710-3-6-1720602218.html">
+            
+                <a href="ai-revolution-agent-meaning-40-20240710-3-6-1720602218.html">
+            
+                    
+                    AI Revolution Agent的含义是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.87" data-path="xue-xi-ai-agent-yao-zhang-wo-na-xie-zhi-shi-40-20240710-3-7-1720602246.html">
+            
+                <a href="xue-xi-ai-agent-yao-zhang-wo-na-xie-zhi-shi-40-20240710-3-7-1720602246.html">
+            
+                    
+                    学习AI Agent需要掌握哪些知识？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.88" data-path="what-is-rag-ai-agent-40-20240710-3-8-1720602359.html">
+            
+                <a href="what-is-rag-ai-agent-40-20240710-3-8-1720602359.html">
+            
+                    
+                    什么是RAG AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.89" data-path="ai-agent-in-practice-40-20240710-3-9-1720602387.html">
+            
+                <a href="ai-agent-in-practice-40-20240710-3-9-1720602387.html">
+            
+                    
+                    AI Agent在实践中的应用如何？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.90" data-path="how-to-plan-ai-agent-40-20240710-3-10-1720602408.html">
+            
+                <a href="how-to-plan-ai-agent-40-20240710-3-10-1720602408.html">
+            
+                    
+                    如何制定AI Agent的规划（Plan）？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.91" data-path="how-to-choose-and-evaluate-ai-agent-products-40-20240710-3-11-1720602437.html">
+            
+                <a href="how-to-choose-and-evaluate-ai-agent-products-40-20240710-3-11-1720602437.html">
+            
+                    
+                    如何选择和评估AI Agent产品？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.92" data-path="ai-agent-setup-steps-40-20240710-3-12-1720602483.html">
+            
+                <a href="ai-agent-setup-steps-40-20240710-3-12-1720602483.html">
+            
+                    
+                    AI Agent的搭建步骤是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.93" data-path="ai-agent-standard-definition-40-20240710-3-13-1720602518.html">
+            
+                <a href="ai-agent-standard-definition-40-20240710-3-13-1720602518.html">
+            
+                    
+                    AI Agent的标准定义是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.94" data-path="how-to-define-ai-agent-product-40-20240710-3-14-1720602572.html">
+            
+                <a href="how-to-define-ai-agent-product-40-20240710-3-14-1720602572.html">
+            
+                    
+                    如何定义AI Agent的产品（Product）？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.95" data-path="how-to-create-ai-agent-40-20240710-3-15-1720602631.html">
+            
+                <a href="how-to-create-ai-agent-40-20240710-3-15-1720602631.html">
+            
+                    
+                    如何创建一个新的AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.96" data-path="ai-agent-in-government-40-20240710-3-16-1720602668.html">
+            
+                <a href="ai-agent-in-government-40-20240710-3-16-1720602668.html">
+            
+                    
+                    政务领域的AI Agent应用有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.97" data-path="ai-agent-features-40-20240710-3-17-1720602695.html">
+            
+                <a href="ai-agent-features-40-20240710-3-17-1720602695.html">
+            
+                    
+                    AI Agent的主要特点是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.98" data-path="ai-agent-costs-40-20240710-3-18-1720602731.html">
+            
+                <a href="ai-agent-costs-40-20240710-3-18-1720602731.html">
+            
+                    
+                    开发和维护AI Agent的费用是多少？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.99" data-path="ai-agent-system-architecture-40-20240710-3-19-1720602752.html">
+            
+                <a href="ai-agent-system-architecture-40-20240710-3-19-1720602752.html">
+            
+                    
+                    AI Agent的系统架构是怎样的？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.100" data-path="what-is-devv-ai-agent-40-20240710-3-20-1720602788.html">
+            
+                <a href="what-is-devv-ai-agent-40-20240710-3-20-1720602788.html">
+            
+                    
+                    什么是Devv AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.101" data-path="ai-agent-programming-languages-40-20240710-2-1-1720598400.html">
+            
+                <a href="ai-agent-programming-languages-40-20240710-2-1-1720598400.html">
+            
+                    
+                    AI Agent的编程语言有哪些选择？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.102" data-path="how-ai-agents-implemented-in-games-40-20240710-2-2-1720598439.html">
+            
+                <a href="how-ai-agents-implemented-in-games-40-20240710-2-2-1720598439.html">
+            
+                    
+                    游戏中的AI Agent是如何实现的？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.103" data-path="how-to-build-ai-agent-from-scratch-40-20240710-2-3-1720598472.html">
+            
+                <a href="how-to-build-ai-agent-from-scratch-40-20240710-2-3-1720598472.html">
+            
+                    
+                    怎样从零开始搭建一个AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.104" data-path="ai-agent-leading-companies-40-20240710-2-4-1720598513.html">
+            
+                <a href="ai-agent-leading-companies-40-20240710-2-4-1720598513.html">
+            
+                    
+                    AI Agent的龙头企业有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.105" data-path="how-to-use-ai-agent-in-customer-service-40-20240710-2-5-1720598549.html">
+            
+                <a href="how-to-use-ai-agent-in-customer-service-40-20240710-2-5-1720598549.html">
+            
+                    
+                    客服系统中如何利用AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.106" data-path="how-to-create-ai-agent-character-in-novels-40-20240710-2-6-1720598595.html">
+            
+                <a href="how-to-create-ai-agent-character-in-novels-40-20240710-2-6-1720598595.html">
+            
+                    
+                    AI小说中的AI Agent角色如何塑造？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.107" data-path="find-ai-agent-community-resources-40-20240710-2-7-1720598641.html">
+            
+                <a href="find-ai-agent-community-resources-40-20240710-2-7-1720598641.html">
+            
+                    
+                    哪里可以找到AI Agent的社区资源？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.108" data-path="how-companies-adopt-ai-agent-technology-40-20240710-2-8-1720598666.html">
+            
+                <a href="how-companies-adopt-ai-agent-technology-40-20240710-2-8-1720598666.html">
+            
+                    
+                    企业如何采用AI Agent技术？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.109" data-path="ai-agent-books-recommendation-40-20240710-2-9-1720598708.html">
+            
+                <a href="ai-agent-books-recommendation-40-20240710-2-9-1720598708.html">
+            
+                    
+                    有哪些关于AI Agent的书籍推荐？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.110" data-path="how-to-use-ai-agent-smart-search-40-20240710-2-10-1720598739.html">
+            
+                <a href="how-to-use-ai-agent-smart-search-40-20240710-2-10-1720598739.html">
+            
+                    
+                    如何使用AI Agent进行智能搜索？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.111" data-path="ai-agent-main-functions-40-20240710-2-11-1720598775.html">
+            
+                <a href="ai-agent-main-functions-40-20240710-2-11-1720598775.html">
+            
+                    
+                    AI Agent助手的主要功能有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.112" data-path="recommended-ai-agent-books-40-20240710-2-12-1720598796.html">
+            
+                <a href="recommended-ai-agent-books-40-20240710-2-12-1720598796.html">
+            
+                    
+                    市面上有哪些推荐的AI Agent书籍？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.113" data-path="domestic-ai-agent-companies-40-20240710-2-13-1720598833.html">
+            
+                <a href="domestic-ai-agent-companies-40-20240710-2-13-1720598833.html">
+            
+                    
+                    国内有哪些知名的AI Agent公司？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.114" data-path="famous-ai-agents-40-20240710-2-14-1720598889.html">
+            
+                <a href="famous-ai-agents-40-20240710-2-14-1720598889.html">
+            
+                    
+                    哪些AI Agent在行业内非常著名？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.115" data-path="ai-agent-device-types-40-20240710-2-15-1720598921.html">
+            
+                <a href="ai-agent-device-types-40-20240710-2-15-1720598921.html">
+            
+                    
+                    AI Agent终端设备有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.116" data-path="ai-agent-in-copilot-40-20240710-2-16-1720598955.html">
+            
+                <a href="ai-agent-in-copilot-40-20240710-2-16-1720598955.html">
+            
+                    
+                    AI Agent在Copilot中的应用是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.117" data-path="agent-ai-architecture-design-40-20240710-2-17-1720598995.html">
+            
+                <a href="agent-ai-architecture-design-40-20240710-2-17-1720598995.html">
+            
+                    
+                    Agent AI的架构是如何设计的？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.118" data-path="ai-agent-landscape-40-20240710-2-18-1720599052.html">
+            
+                <a href="ai-agent-landscape-40-20240710-2-18-1720599052.html">
+            
+                    
+                    AI Agent landscape是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.119" data-path="ai-agent-in-music-field-40-20240710-2-19-1720599099.html">
+            
+                <a href="ai-agent-in-music-field-40-20240710-2-19-1720599099.html">
+            
+                    
+                    音乐领域中AI Agent的应用有哪些？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.120" data-path="how-to-use-ai-agent-simulation-40-20240710-2-20-1720599132.html">
+            
+                <a href="how-to-use-ai-agent-simulation-40-20240710-2-20-1720599132.html">
+            
+                    
+                    沙盘推演中如何利用AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.121" data-path="beginner-guide-ai-agent-40-20240710-1-1-1720594800.html">
+            
+                <a href="beginner-guide-ai-agent-40-20240710-1-1-1720594800.html">
+            
+                    
+                    初学者如何入门AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.122" data-path="ai-agent-common-uses-40-20240710-1-2-1720594841.html">
+            
+                <a href="ai-agent-common-uses-40-20240710-1-2-1720594841.html">
+            
+                    
+                    AI Agent插件有哪些常见用途？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.123" data-path="how-ai-agents-are-used-in-industrial-fields-40-20240710-1-3-1720594871.html">
+            
+                <a href="how-ai-agents-are-used-in-industrial-fields-40-20240710-1-3-1720594871.html">
+            
+                    
+                    工业领域中AI Agent如何应用？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.124" data-path="ai-agent-industry-use-cases-40-20240710-1-4-1720594902.html">
+            
+                <a href="ai-agent-industry-use-cases-40-20240710-1-4-1720594902.html">
+            
+                    
+                    AI Agent在哪些行业中比较常见？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.125" data-path="python-ai-agent-steps-40-20240710-1-5-1720594952.html">
+            
+                <a href="python-ai-agent-steps-40-20240710-1-5-1720594952.html">
+            
+                    
+                    Python编写AI Agent的基本步骤是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.126" data-path="why-ai-agent-so-popular-40-20240710-1-6-1720595007.html">
+            
+                <a href="why-ai-agent-so-popular-40-20240710-1-6-1720595007.html">
+            
+                    
+                    为什么AI Agent在最近如此火爆？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.127" data-path="examples-of-ai-agents-40-20240710-1-7-1720595036.html">
+            
+                <a href="examples-of-ai-agents-40-20240710-1-7-1720595036.html">
+            
+                    
+                    能否举一些AI Agent的实际例子？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.128" data-path="ai-agent-impact-society-40-20240710-1-8-1720595060.html">
+            
+                <a href="ai-agent-impact-society-40-20240710-1-8-1720595060.html">
+            
+                    
+                    AI Agent的来临对社会有何影响？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.129" data-path="open-source-ai-agent-projects-40-20240710-1-9-1720595091.html">
+            
+                <a href="open-source-ai-agent-projects-40-20240710-1-9-1720595091.html">
+            
+                    
+                    有哪些开源的AI Agent项目？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.130" data-path="how-to-choose-ai-agent-packaging-40-20240710-1-10-1720595127.html">
+            
+                <a href="how-to-choose-ai-agent-packaging-40-20240710-1-10-1720595127.html">
+            
+                    
+                    如何选择合适的AI Agent包装方案？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.131" data-path="agent-ai-plugin-install-configure-40-20240710-1-11-1720595158.html">
+            
+                <a href="agent-ai-plugin-install-configure-40-20240710-1-11-1720595158.html">
+            
+                    
+                    Agent AI插件的安装和配置方法是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.132" data-path="definition-and-uses-of-ai-agent-40-20240710-1-12-1720595186.html">
+            
+                <a href="definition-and-uses-of-ai-agent-40-20240710-1-12-1720595186.html">
+            
+                    
+                    AI Agent的定义和用途是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.133" data-path="where-to-watch-ai-agent-videos-40-20240710-1-13-1720595209.html">
+            
+                <a href="where-to-watch-ai-agent-videos-40-20240710-1-13-1720595209.html">
+            
+                    
+                    哪里可以观看AI Agent的相关视频？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.134" data-path="open-source-ai-agent-projects-40-20240710-1-14-1720595243.html">
+            
+                <a href="open-source-ai-agent-projects-40-20240710-1-14-1720595243.html">
+            
+                    
+                    有哪些知名的开源AI Agent项目？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.135" data-path="how-to-build-ai-agent-platform-40-20240710-1-15-1720595278.html">
+            
+                <a href="how-to-build-ai-agent-platform-40-20240710-1-15-1720595278.html">
+            
+                    
+                    如何在自营平台上搭建AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.136" data-path="how-to-deploy-ai-agent-40-20240710-1-16-1720595306.html">
+            
+                <a href="how-to-deploy-ai-agent-40-20240710-1-16-1720595306.html">
+            
+                    
+                    实战中如何部署AI Agent？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.137" data-path="ai-agent-town-concept-40-20240710-1-17-1720595336.html">
+            
+                <a href="ai-agent-town-concept-40-20240710-1-17-1720595336.html">
+            
+                    
+                    AI Agent小镇的概念是什么？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.138" data-path="ai-agent-market-price-40-20240710-1-18-1720595366.html">
+            
+                <a href="ai-agent-market-price-40-20240710-1-18-1720595366.html">
+            
+                    
+                    AI Agent的市场报价大概是多少？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.139" data-path="ai-agent-system-components-40-20240710-1-19-1720595405.html">
+            
+                <a href="ai-agent-system-components-40-20240710-1-19-1720595405.html">
+            
+                    
+                    AI Agent系统由哪些部分构成？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+        
+            
+                
+            
+        
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.6.140" data-path="how-to-conduct-ai-agent-advertising-40-20240710-1-20-1720595429.html">
+            
+                <a href="how-to-conduct-ai-agent-advertising-40-20240710-1-20-1720595429.html">
+            
+                    
+                    如何进行AI Agent的广告投放？
+            
+                </a>
+            
+            
+        </li>
+    
+    
+
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.7" data-path="20240705/">
+            
+                <a href="20240705/">
+            
+                    
+                    20240705
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.8" data-path="20240702/">
+            
+                <a href="20240702/">
+            
+                    
+                    20240702
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.9" data-path="20240629/">
+            
+                <a href="20240629/">
+            
+                    
+                    20240629
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.10" data-path="20240628/">
+            
+                <a href="20240628/">
+            
+                    
+                    20240628
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.11" data-path="20240627/">
+            
+                <a href="20240627/">
+            
+                    
+                    20240627
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.12" data-path="20240626/">
+            
+                <a href="20240626/">
+            
+                    
+                    20240626
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.13" data-path="20240625/">
+            
+                <a href="20240625/">
+            
+                    
+                    20240625
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.14" data-path="20240624/">
+            
+                <a href="20240624/">
+            
+                    
+                    20240624
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.15" data-path="20240622/">
+            
+                <a href="20240622/">
+            
+                    
+                    20240622
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.16" data-path="20240621/">
+            
+                <a href="20240621/">
+            
+                    
+                    20240621
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.17" data-path="20240619/">
+            
+                <a href="20240619/">
+            
+                    
+                    20240619
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.18" data-path="20240618/">
+            
+                <a href="20240618/">
+            
+                    
+                    20240618
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.19" data-path="20240617/">
+            
+                <a href="20240617/">
+            
+                    
+                    20240617
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.2.20" data-path="20240615/">
+            
+                <a href="20240615/">
+            
+                    
+                    20240615
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+        
+            
+                
+            
+        
+    
+    
+    
+        <li class="chapter " data-level="2.3" data-path="../wiki/">
+            
+                <a href="../wiki/">
+            
+                    
+                    百科
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+
+    
+        
+        <li class="header">电子书</li>
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+            
+                
+            
+        
+            
+                
+            
+        
+    
+    
+        
+    
+    
+        <li class="chapter " data-level="3.1" data-path="../enterprise-im-book/">
+            
+                <a href="../enterprise-im-book/">
+            
+                    
+                    企业级即时通讯系统：设计与实现
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+                
+            
+        
+            
+        
+    
+    
+        
+    
+    
+        <li class="chapter " data-level="3.2" data-path="../imsdk-top-100/">
+            
+                <a href="../imsdk-top-100/">
+            
+                    
+                    关于即时通讯IM SDK的100个问题
+            
+                <i class="exc-trigger fa"></i></a>
+            
+            
+            <ul class="articles">
+                
+            </ul>
+            
+        </li>
+    
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.lanyingim.com" target="blank" class="gitbook-link">
+            本文档由 蓝莺GrowAI 发布
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    <div class="divider-content-summary"><div class="divider-content-summary__icon"><i class="fa fa-ellipsis-v"></i></div></div></div>
+
+    <div class="book-body" style="left: 300px; position: absolute;">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <a class="btn pull-left js-toolbar-action" aria-label="" href="#"><i class="fa fa-align-justify"></i></a><a class="btn pull-left js-toolbar-action" aria-label="" href="#"><i class="fa fa-edit"></i> 在GitHub上编辑</a><div class="dropdown pull-left font-settings js-toolbar-action"><a class="btn toggle-dropdown" aria-label="Font Settings" href="#"><i class="fa fa-font"></i></a><div class="dropdown-menu dropdown-right"><div class="dropdown-caret"><span class="caret-outer"></span><span class="caret-inner"></span></div><div class="buttons"><button class="button size-2 font-reduce">A</button><button class="button size-2 font-enlarge">A</button></div><div class="buttons"><button class="button size-2 ">Serif</button><button class="button size-2 ">Sans</button></div><div class="buttons"><button class="button size-3 ">White</button><button class="button size-3 ">Sepia</button><button class="button size-3 ">Night</button></div></div></div><div class="dropdown pull-right js-toolbar-action"><a class="btn toggle-dropdown" aria-label="Share" href="#"><i class="fa fa-share-alt"></i></a><div class="dropdown-menu dropdown-left"><div class="dropdown-caret"><span class="caret-outer"></span><span class="caret-inner"></span></div><div class="buttons"><button class="button size-13 ">Facebook</button><button class="button size-13 ">Google+</button><button class="button size-13 ">Twitter</button><button class="button size-13 ">新浪微博</button><button class="button size-13 ">instapaper</button><button class="button size-13 ">Linkedin</button><button class="button size-13 ">Pocket</button><button class="button size-13 ">StumbleUpon</button><button class="button size-13 ">QQ</button><button class="button size-13 ">QQ空间</button><button class="button size-13 ">豆瓣</button><button class="button size-13 ">LINE</button><button class="button size-13 ">WhatsApp</button></div></div></div><a class="btn pull-right js-toolbar-action" aria-label="" href="#"><i class="fa fa-share"></i></a><a class="btn pull-right js-toolbar-action" aria-label="" href="#"><i class="fa fa-qq"></i></a><a class="btn pull-right js-toolbar-action" aria-label="" href="#"><i class="fa fa-weibo"></i></a><a class="btn pull-right hidden-mobile" aria-label="github">
+        <iframe style="display:inline-block;vertical-align:middle;" src="https://ghbtns.com/github-btn.html?user=maxim-top&amp;repo=im.gitbook&amp;type=star&amp;count=true&amp;size=small" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+        </a><h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="..">AI Agent的发展简史是什么？</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="ai-agent的发展简史是什么？"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#ai-agent的发展简史是什么？" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>AI Agent的发展简史是什么？</h1>
+<h2 id="摘要"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#摘要" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>摘要</h2>
+<p>AI Agent的发展历程丰富而复杂，本文将从<strong>1、起源背景</strong>、<strong>2、技术进步</strong>、<strong>3、应用场景</strong>、<strong>4、未来展望</strong>四个角度进行详细解读。在技术进步方面，AI Agent经历了从简单的规则基础向复杂的机器学习算法的演变。例如早期的专家系统是基于预定义规则工作的，而现代的AI Agent则利用深度学习等方法实现更智能、自主的行为决策。</p>
+<h2 id="一、起源背景"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#一、起源背景" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>一、起源背景</h2>
+<h3 id="11-早期人工智能：概念与起点"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#11-早期人工智能：概念与起点" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>1.1 早期人工智能：概念与起点</h3>
+<p>AI Agent的概念最早可追溯到20世纪50年代，当时研究者们开始探索如何通过计算机模拟人类智力活动。艾伦·图灵的著名论文《计算机器与智能》提出了“机器能否思考”的问题，激发了大量关于人工智能的研究。</p>
+<h3 id="12-专家系统的兴起：规则驱动"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#12-专家系统的兴起：规则驱动" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>1.2 专家系统的兴起：规则驱动</h3>
+<p>在20世纪70年代和80年代，专家系统成为AI Agent领域的主要表现形式之一。专家系统是基于规则的推理系统，能够模拟人类专家在特定领域的决策过程。这些系统通常包含一个知识库和一个推理引擎，通过预定义的规则集进行问题求解。</p>
+<h2 id="二、技术进步"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#二、技术进步" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>二、技术进步</h2>
+<h3 id="21-机器学习：从规则到数据"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#21-机器学习：从规则到数据" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>2.1 机器学习：从规则到数据</h3>
+<p>随着计算能力的提升和数据积累，机器学习成为AI Agent发展的重要里程碑。机器学习算法让AI Agent可以从大量数据中自动学习模式和规律，减少了对专家规则的依赖。例如，神经网络和深度学习技术的应用大大提升了AI Agent在自然语言处理、图像识别等领域的性能。</p>
+<h3 id="22-强化学习：自主行为的实现"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#22-强化学习：自主行为的实现" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>2.2 强化学习：自主行为的实现</h3>
+<p>强化学习是一种通过奖励机制训练AI Agent的技术，使其能够在复杂环境中自主学习最佳策略。通过试错和奖励反馈，AI Agent可以不断优化其行为决策，从而实现高度自主的任务执行。谷歌DeepMind的AlphaGo便是这种技术的典型应用，其打败围棋世界冠军的壮举标志着AI Agent技术的新高度。</p>
+<h2 id="三、应用场景"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#三、应用场景" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>三、应用场景</h2>
+<h3 id="31-智能客服与个人助手"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#31-智能客服与个人助手" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>3.1 智能客服与个人助手</h3>
+<p>AI Agent在日常生活中的应用越来越广泛。智能客服系统如Chatbot和个人助理如Siri、Alexa，都是AI Agent的成功实例。它们利用自然语言处理和机器学习技术，提供用户友好的交互体验，自动完成信息查询、任务安排和问题解决。</p>
+<h3 id="32-工业与商业自动化" class="active"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#32-工业与商业自动化" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>3.2 工业与商业自动化</h3>
+<p>在工业和商业领域，AI Agent被用于优化生产流程、供应链管理和市场分析等方面。例如，预测性维护系统利用AI Agent实时监控设备状态，提前预警可能的故障，从而减少停机时间和维护成本。</p>
+<h3 id="33-自主驾驶与机器人"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#33-自主驾驶与机器人" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>3.3 自主驾驶与机器人</h3>
+<p>自主驾驶汽车和机器人是AI Agent技术应用的另一个重要领域。通过组合传感器数据、地图信息和机器学习算法，自主驾驶汽车能够在复杂的道路环境中安全行驶。而在工业机器人中，AI Agent技术使机器具备高精度的任务执行能力和灵活的操作性，广泛应用于制造业和物流行业。</p>
+<h2 id="四、未来展望"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#四、未来展望" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>四、未来展望</h2>
+<h3 id="41-多agent协作"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#41-多agent协作" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>4.1 多Agent协作</h3>
+<p>未来的AI Agent发展将注重多Agent系统的协作能力。多个AI Agent之间的高效协作能够解决单个Agent难以应对的复杂任务。例如，在智能城市管理中，不同领域的AI Agent需要协同工作，以优化交通流量、能源消耗和公共安全。</p>
+<h3 id="42-更强的自主学习能力"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#42-更强的自主学习能力" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>4.2 更强的自主学习能力</h3>
+<p>未来的AI Agent将具备更强的自主学习能力和适应性，能够在动态环境中自我进化和优化。强化学习和迁移学习技术的发展将进一步提升AI Agent的智能化水平，使其在各种未知和变化的环境中表现出色。</p>
+<h3 id="43-倫理與法規的考量"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#43-倫理與法規的考量" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>4.3 倫理與法規的考量</h3>
+<p>隨著AI Agent的應用範圍不斷擴大，倫理和法規問題也變得愈加重要。未來的發展將更加註重AI Agent的透明度、公平性和責任歸屬，確保其在遵守法律和道德規範的框架下運行。</p>
+<h2 id="推荐阅读提示词："><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#推荐阅读提示词：" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>推荐阅读提示词：</h2>
+<p><strong>1. AI Agent如何实现自主学习？</strong></p>
+<p>AI Agent通过强化学习和监督学习等机器学习技术，实现自主学习。这些技术通过不断优化奖励函数，逐步提高AI Agent在各种环境中的决策能力。</p>
+<p><strong>2. AI Agent在工业领域有哪些实际应用？</strong></p>
+<p>AI Agent在工业领域被广泛应用于预测性维护、质量控制和供应链优化。通过实时数据分析和自主决策，AI Agent能够提高生产效率和降低运营成本。</p>
+<p><strong>3. 多Agent系统未来发展方向是什么？</strong></p>
+<p>多Agent系统未来的发展将集中在协作和自治能力的提升上。通过复杂环境中的集体智能，多Agent系统能够实现更高效和灵活的任务执行。</p>
+<h2 id="总结"><a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#总结" style="font-style: normal; font-variant-caps: normal; font-weight: normal; font-size: 1em; line-height: inherit; font-family: anchorjs-icons; position: absolute; margin-left: -1em; padding-right: 0.5em;"></a>总结</h2>
+<p>AI Agent的发展历史体现了人工智能技术的不断演进和创新。从早期基于规则的专家系统，到现代复杂的机器学习和强化学习算法，AI Agent在各个应用领域取得了显著成就。展望未来，多Agent协作、自主学习的增强以及伦理与法规的考量，将推动AI Agent继续向前发展，为人类社会带来更多的便利和创新。</p>
+<p>了解更多关于AI Agent和智能聊天云服务的信息，可以参考蓝莺IM的解决方案。蓝莺IM是一款新一代智能聊天云服务，整合企业级ChatAI SDK，帮助开发者快速构建智能应用。</p>
+<div class="code-wrapper"><pre class="language-"><code class="lang-markdown"><span class="code-line"><span class="token front-matter-block"><span class="token punctuation">---</span></span>
+<span class="code-line"><span class="token front-matter yaml language-yaml">title: "AI Agent的发展简史是什么？"</span>
+<span class="code-line">description: "本文详细探讨AI Agent从起源到现代发展的完整历程，包含关键技术突破和应用场景。"</span>
+<span class="code-line">keywords: "AI Agent,发展历史"</span>
+<span class="code-line">url: "ai-agent-development-history"</span>
+<span class="code-line">extra_keywords: "智能体,AI智能体"</span></span>
+<span class="code-line"><span class="token punctuation">---</span></span></span></code><i class="fa fa-clone t-copy"></i></pre></div>
+<p>以上内容为本文的元数据。</p>
+<p><em><code>本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于蓝莺IM）介绍内容仅为参考，具体产品和功能特性以官网开通为准。</code></em></p>
+<p></p><footer class="page-footer"><span class="copyright">© 2019-2024 美信拓扑 | <a href="https://www.lanyingim.com" style="text-decoration:none!important;" target="_blank">官网</a> | <a href="../sitemap.xml" style="text-decoration:none!important;" target="_blank">网站地图</a> </span><span class="footer-modification">该文件修订时间：
+2024-09-26 03:17:35
+</span></footer><p></p>
+<script src="https://lanying.link/support/3qur4g" charset="utf-8" async="" defer=""></script>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class="search-results-count"></span> results matching "<span class="search-query"></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class="search-query"></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    <nav class="intopic-toc nested"><h3>内容</h3><ul class="nav navbar-nav level-0"><li><a class="nav-link" href="#摘要">摘要</a></li><li><a class="nav-link" href="#一、起源背景">一、起源背景</a><ul class="nav navbar-nav level-1"><li><a class="nav-link" href="#11-早期人工智能：概念与起点">1.1 早期人工智能：概念与起点</a></li><li><a class="nav-link" href="#12-专家系统的兴起：规则驱动">1.2 专家系统的兴起：规则驱动</a></li></ul></li><li><a class="nav-link" href="#二、技术进步">二、技术进步</a><ul class="nav navbar-nav level-1"><li><a class="nav-link" href="#21-机器学习：从规则到数据">2.1 机器学习：从规则到数据</a></li><li><a class="nav-link" href="#22-强化学习：自主行为的实现">2.2 强化学习：自主行为的实现</a></li></ul></li><li class="active"><a class="nav-link" href="#三、应用场景">三、应用场景</a><ul class="nav navbar-nav level-1"><li><a class="nav-link" href="#31-智能客服与个人助手">3.1 智能客服与个人助手</a></li><li class="active"><a class="nav-link" href="#32-工业与商业自动化">3.2 工业与商业自动化</a></li><li><a class="nav-link" href="#33-自主驾驶与机器人">3.3 自主驾驶与机器人</a></li></ul></li><li><a class="nav-link" href="#四、未来展望">四、未来展望</a><ul class="nav navbar-nav level-1"><li><a class="nav-link" href="#41-多agent协作">4.1 多Agent协作</a></li><li><a class="nav-link" href="#42-更强的自主学习能力">4.2 更强的自主学习能力</a></li><li><a class="nav-link" href="#43-倫理與法規的考量">4.3 倫理與法規的考量</a></li></ul></li><li><a class="nav-link" href="#推荐阅读提示词：">推荐阅读提示词：</a></li><li><a class="nav-link" href="#总结">总结</a></li></ul></nav></div>
+                
+            </div>
+
+            
+                
+                <a href="ai-agent-info-40-20240710-6-13-1720613251.html" class="navigation navigation-prev " aria-label="Previous page: AI Agent的官网信息是什么？">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="ai-agent-trading-strategy-40-20240710-6-15-1720613338.html" class="navigation navigation-next " aria-label="Next page: AI Agent在交易策略中的应用？" style="margin-right: 0px;">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"description":"本文详细探讨AI Agent从起源到现代发展的完整历程，包含关键技术突破和应用场景。","keywords":"AI Agent,发展历史, 智能体,AI智能体","title":"AI Agent的发展简史是什么？","level":"2.2.6.34","depth":3,"next":{"title":"AI Agent在交易策略中的应用？","level":"2.2.6.35","depth":3,"path":"quest/ai-agent-trading-strategy-40-20240710-6-15-1720613338.md","ref":"quest/ai-agent-trading-strategy-40-20240710-6-15-1720613338.md","articles":[]},"previous":{"title":"AI Agent的官网信息是什么？","level":"2.2.6.33","depth":3,"path":"quest/ai-agent-info-40-20240710-6-13-1720613251.md","ref":"quest/ai-agent-info-40-20240710-6-13-1720613251.md","articles":[]},"dir":"ltr"},"config":{"plugins":["github-buttons@2.1.0","edit-link@^2.0.2","fontsettings@^2.0.0","-sharing","sharing-plus@^0.0.2","-highlight","prism@^2.1.0","prism-themes@^0.0.2","-lunr","-search","lanying-code-snippet@^1.1.12","search-plus@^0.0.11","advanced-emoji@^0.2.1","tbfed-pagefooter@^0.0.1","versions-select@^0.1.1","terminal@^0.3.2","code@^0.1.0","splitter@^0.0.8","favicon@^0.0.2","canonical-link@^2.0.3","auto-scroll-table@^0.0.5","logo@^0.0.2","intopic-toc@^1.1.1","lanying-grow-ai-meta@^0.1.16","3-ba@^0.9.0","ga4@^1.0.1","lanying-grow-ai@^1.0.6","lanying-grow-ai-theme@^1.0.9","lanying-grow-ai-expandable-chapters@^0.1.8","lanying-grow-ai-image-captions@^3.1.1","lanying-grow-ai-image-captions@^3.1.1"],"root":".","styles":{"website":"assets/styles/website.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"© 2019-2024 美信拓扑 | <a href='https://www.lanyingim.com' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>","modify_label":"该文件修订时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"prism":{"css":["prism-themes/themes/prism-base16-ateliersulphurpool.light.css"]},"language-picker":{"grid-columns":3},"intopic-toc":{"isCollapsed":false,"isScrollspyActive":true,"label":"内容","maxDepth":3,"mode":"nested","selector":".markdown-section h1, .markdown-section h2, .markdown-section h3","visible":true},"meta":{"data":[{"name":"keywords","content":"IM SDK,即时通讯SDK,APP内聊天功能,IM开源,IM云服务,PUSH SDK,第三方推送,RTC SDK,实时音视频,Chat AI SDK,企业级AI,AI Agent,AI智能体"}]},"simple-page-toc":{"maxDepth":3,"skipFirstH1":true},"splitter":{},"lanying-code-snippet":{"showLink":true,"reindent":true,"maxLine":20,"maxSnippetCount":8,"repositories":[{"name":"lanying-im-web","url":"https://github.com/maxim-top/lanying-im-web.git","branch":"master","cacheDir":"../cache/lanying-im-web"},{"name":"lanying-im-android","url":"https://github.com/maxim-top/lanying-im-android.git","branch":"master","cacheDir":"../cache/lanying-im-android"},{"name":"lanying-im-embedded","url":"https://github.com/maxim-top/lanying-im-embedded.git","branch":"master","cacheDir":"../cache/lanying-im-embedded"},{"name":"lanying-im-ios","url":"https://github.com/maxim-top/lanying-im-ios.git","branch":"master","cacheDir":"../cache/lanying-im-ios"}]},"lanying-grow-ai-expandable-chapters":{},"logo":{"logo":"/assets/lanying-logo-color.png","logoStyle":"width: 200px;align: left;","url":"https://www.lanyingim.com/"},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"auto-scroll-table":{},"code":{"copyButtons":true},"versions-select":{"type":"branches"},"github-tables":{"myConfigKey":"it's the default value"},"fontsettings":{"family":"sans","size":2,"theme":"white"},"canonical-link":{"baseURL":"https://docs.lanyingim.com"},"lanying-grow-ai-theme":{"showLevel":false,"styles":{"ebook":"styles/ebook.css","epub":"styles/epub.css","mobi":"styles/mobi.css","pdf":"styles/pdf.css","print":"styles/print.css","website":"styles/website.css"}},"favicon":{"shortcut":"/assets/favicon.ico","bookmark":"/assets/favicon.ico","appleTouch":"/assets/apple-touch-icon.png"},"lanying-grow-ai-image-captions":{},"prism-themes":{},"lanying-grow-ai":{"lanying_link":"https://lanying.link/3qur4g","sitemap_hostname":"https://docs.lanyingim.com/","sitemap_default_language":"zh-hans","friendship_links_prefix":"**友情链接：**","friendship_links":"[极客时间](https://time.geekbang.org/?utm_source=lanyingim&utm_medium=lanyingim&utm_campaign=lanyingim&utm_content=lanyingim&utm_term=lanyingim) | [InfoQ](https://www.infoq.cn/?utm_source=lanyingim&utm_medium=lanyingim&utm_campaign=lanyingim&utm_content=lanyingim&utm_term=lanyingim) | [小红花·文摘](https://xhh.club/#lanyim)","friendship_links_position":"homepage","footer_note":"本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于蓝莺IM）介绍内容仅为参考，具体产品和功能特性以官网开通为准。","footer_note_path_list":["readmore/","news/","quest/","wiki/"]},"github-buttons":{"repo":"maxim-top/im.gitbook","types":["star"],"size":"small"},"3-ba":{"configuration":"auto","token":"21ea229c06c9f14fe8d731724a98bfb1"},"ga4":{"anonymize_ip":false,"cookie_domain":null,"tag":"G-HJZXZWNVFW"},"versions":{"type":"languages","options":[{"value":"/","text":"简体中文"},{"value":"/en/","text":"English"}]},"lanying-grow-ai-meta":{"content":"","data":[],"name":""},"advanced-emoji":{"embedEmojis":false},"include-codeblock":{"template":"ace","unindent":true,"edit":true},"sharing":{"qq":true,"all":["facebook","google","twitter","weibo","instapaper","linkedin","pocket","stumbleupon","qq","qzone","douban","line","whatsapp"],"douban":true,"facebook":false,"weibo":true,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":false,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"terminal":{"copyButtons":true,"fade":false,"style":"flat"},"edit-link":{"label":"在GitHub上编辑","base":"https://github.com/maxim-top/im.gitbook/blob/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{},"image-captions":{"caption":"_CAPTION_"}},"theme":"default","author":"jinhai","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"构建你的智能应用，使用蓝莺Chat AI SDK","language":"zh-hans","output.name":"site","gitbook":"3.2.3","description":"API文档及文章分享"},"file":{"path":"quest/ai-agent-development-history-40-20240710-6-14-1720613287.md","mtime":"2024-09-26T03:17:35.452Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"0000-00-00T00:00:00.000Z"},"basePath":"..","book":{"language":"zh-hans"}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../gitbook/gitbook.js"></script>
+    <script src="../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../gitbook/gitbook-plugin-github-buttons/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-edit-link/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-sharing-plus/buttons.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search-plus/jquery.mark.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search-plus/search.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-versions-select/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-terminal/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-code/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-splitter/splitter.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-auto-scroll-table/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-intopic-toc/anchor.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-intopic-toc/gumshoe.polyfills.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-intopic-toc/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-3-ba/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-ga4/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lanying-grow-ai-expandable-chapters/expandable-chapters-small.js"></script>
+        
+    
+
+    
+
+
+<textarea id="t-textarea"></textarea><textarea id="code-textarea"></textarea><iframe src="https://lanying.link/iframe/3qur4g" id="lanying_chat_iframe" scrolling="no" frameborder="0" allowtransparency="true" style="position: fixed; z-index: 2000000100; box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 40px; border-radius: 4px; right: 10px; bottom: 10px; width: 0px; display: block; height: 0px;"></iframe></body></html>

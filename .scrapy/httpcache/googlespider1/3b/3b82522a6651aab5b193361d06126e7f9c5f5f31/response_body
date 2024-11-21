@@ -1,0 +1,1179 @@
+<!DOCTYPE html><html><head><script src="//hm.baidu.com/hm.js?9535c3ea6eb286566c2c14dc19269572"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <title>人工智能的十个里程碑事件，你知道几个？_科普中国网</title>
+<meta name="Keywords" content="科普中国,神经网络;人工智能;诞生;IBM;猫科动物">
+<meta name="Description" content="科普中国提供科学、权威、准确的科普信息内容和相关资讯，让科技知识在网上和生活中流行，主要包含科学头条、前沿科技、科普大超市、健康科普、真相揭秘等版块以及优秀科普网站、科普栏目、移动端科普等。">
+<meta name="AUTHOR" content="科普中国">
+    
+    <link rel="stylesheet" type="text/css" href="https://img1.kepuchina.cn/css/2017/layout.css">
+    <link rel="stylesheet" type="text/css" href="https://img1.kepuchina.cn/css/2018/layout.css">
+<link rel="stylesheet" type="text/css" href="https://img1.kepuchina.cn/css/2017/detail.css">
+    <link rel="stylesheet" href="https://img1.kepuchina.cn/css/2017/mobileList.css" id="mobileList">
+    <script type="text/javascript" src="https://img1.kepuchina.cn/js/jquery-1.8.3.min.js"></script>
+    <script src="https://img1.kepuchina.cn/js/2017/kepu-menu.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="//static.kepuchina.cn/lib/plugin/social-share/css/share.min.css">
+    <script src="//static.kepuchina.cn/lib/plugin/social-share/js/social-share.min.js"></script>
+  </head>
+  <body>
+    <style>
+    .a_hover:hover a{
+        color: #0096ff !important;
+    }
+</style>
+<div class="header">
+    <div class="topbar">
+        <div class="inner">
+            <div class="sponsor">中国科协主办</div>
+            <div class="sponsor a_hover" style="margin-left: 30px;">
+                <a href="https://www.kepuchina.cn" style="color: #999;">点击前往新网站</a>
+            </div>
+            <ul class="right-nav">
+                <li style="display:none">
+                    <a href="http://diaocha.kepuchina.cn/s/YrIn2qH/" target="_blank" class="inve code">“科普中国”公众满意度调查问卷</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" class="app code">
+                        <span><img src="https://img1.kepuchina.cn/images/2018/code_app.jpg"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" class="wx code">
+                        <span><img src="https://img1.kepuchina.cn/images/2018/code_wx.jpg"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" class="wb code">
+                        <span><img src="https://img1.kepuchina.cn/images/2018/code_wb.jpg"></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.kepuchina.cn/public/201710/t20171031_253123.shtml" target="_blank">科普中国云客服</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header_in">
+        <div class="logo">
+            <a href="/"><img src="https://img3.kepuchina.cn/images/2018/logo.png"></a>
+        </div>
+        <div class="menu">
+            <ul>
+                
+                    <li>
+                        <a href="/">首页</a>
+                    </li>
+                
+                    <li>
+                        <a href="/tech">前沿</a>
+                    </li>
+                
+                    <li>
+                        <a href="/health">健康</a>
+                    </li>
+                
+                    <li>
+                        <a href="/wiki">百科</a>
+                    </li>
+                
+                    <li>
+                        <a href="/mil">军事</a>
+                    </li>
+                
+                    <li>
+                        <a href="/fiction">科幻</a>
+                    </li>
+                
+                    <li>
+                        <a href="/security">安全</a>
+                    </li>
+                
+                    <li>
+                        <a href="/person">人物</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://piyao.kepuchina.cn">辟谣</a>
+                    </li>
+                
+                    <li>
+                        <a href="/zn/">智农</a>
+                    </li>
+                
+                <li class="main-nav-more _mainNavMore">
+                    <a>地区</a>
+                    <div class="nav-more-list _moreList">
+                        <div class="triangle"></div>
+                        
+                            <a href="/qinghai/">青海</a>
+                        
+                            <a href="/sx/">陕西</a>
+                        
+                    </div>
+                </li>
+                <!-- <li class="main-nav-more _mainNavMore">
+                    <a>•••</a>
+                    <div class="nav-more-list _moreList">
+                        <div class="triangle"></div>
+                        
+                    </div>
+                </li> -->
+            </ul>
+        </div>
+        <div class="seach">
+            <form action="https://search.kepuchina.cn/search/list" method="get" target="_blank">
+                <input type="text" class="text" name="s" value="">
+                <input type="submit" class="seach_btn" name="" value="">
+            </form>
+        </div>
+    </div>
+</div>
+<div class="mobile-header">
+        <div class="logo_box">
+            <a class="logo" href="/">
+                <img src="https://img3.kepuchina.cn/images/2021/home/logo.png">
+            </a>
+        </div>
+        <div class="main-nav">
+            <div class="inner">
+                <ul>
+                    
+                        <li>
+                            <a href="/">首页</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/tech">前沿</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/health">健康</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/wiki">百科</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/mil">军事</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/fiction">科幻</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/security">安全</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/person">人物</a>
+                        </li>
+                    
+                        <li>
+                            <a href="https://piyao.kepuchina.cn">辟谣</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/zn/">智农</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/qinghai/">青海</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/sx/">陕西</a>
+                        </li>
+                    
+                </ul>
+               
+            </div>
+        </div>
+</div>
+    <div class="content_main">
+      <div class="content_left">
+        <div class="heading">
+          <div class="title">
+            
+            <table>
+              <tbody><tr>
+                
+                <td>
+                  <h1>人工智能的十个里程碑事件，你知道几个？</h1>
+                  
+                  <p class="tips">
+                    <span>网易科技</span>
+                    <span>2017-09-27</span>
+                    
+                  </p>
+                </td>
+              </tr>
+            </tbody></table>
+            
+          </div>
+        </div>
+        <div class="content_detail">
+          <div class="TRS_Editor"><p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179915603.jpg" src="./W020170927362179915603.jpg"></p>
+<p>　　人工智能是一个非常重要和复杂的领域。关于人工智能的里程碑式事件，这里我们盘点了你应该知道的十个。</p>
+<p>　　将人工智能（AI）压缩到10个“需要记忆的时刻”并不容易。在数以百计的研究实验室和数千名计算机科学家的帮助下，编制一份每一项具有里程碑意义的成就的清单，都将是一份智能算法的工作。然而，我们已经仔细研究了历史书籍，为你带来了人工智能历史上最重要的10个里程碑式的发展。</p>
+<p><strong>　　一、神经网络的诞生</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179913998.jpg" src="./W020170927362179913998.jpg"></p>
+<p>　　你可能已经听说过神经网络，在当今最先进的人工智能背后，是大脑激发的人工智能工具。你可能已经听说过神经网络，这是一种当今前沿人工智能背后受大脑启发的人工智能工具。虽然像深度学习这样的概念是比较新的，但它们背后的理论体系可以追溯到1943年的一个数学理论。</p>
+<p>　　Warren McCulloch和Walter Pitts的《 神经活动内在想法的逻辑演算 》可能听起来非常的普通，但它与计算机科学一样重要（甚至超过计算机科学）。其中，《 PageRank引文排名 》一文，催生了谷歌的诞生。在在《逻辑微积分》中， McCulloch和Pitts描述了如何让人造神经元网络实现逻辑功能。至此，AI的大门正式打开。</p>
+<p><strong>　　二、人工智能的名字由来</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179911215.jpg" src="./W020170927362179911215.jpg"></p>
+<p>　　如果要提到人工智能的真正开端，那就要追溯到1955年8月31日。当时，研究人员John McCarthy、Marvin Minsky、Nathaniel Rochester和Claude Shannon提交了一份《2个月，10个人的人工智能研究》的提案，第一次提出了“人工智能”的概念。而其中John McCarthy被后人尊称为“人工智能之父”。</p>
+<p>　　1956年，会议在达特茅斯学院占地269英亩的庄园举行。不幸的是，他们对于人工智能的发展有点过于乐观了。他们写到：“我们认为，如果一个精心挑选的科学家团队努力工作一个夏天，那我们就能取得重大进展。”然而事实证明，时间花得远比想象中的要多很多。</p>
+<p><strong>　　三、反向传播算法（BACKPROP）的出现</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179929175.jpg" src="./W020170927362179929175.jpg"></p>
+<p>　　反向传播（英语：Backpropagation，缩写为BP），有时缩写为“BP”，是机器学习历史上最重要的算法之一。尽管该算法成为机器学习的主流算法是在20世纪80年代，但该算法第一次被提出是在1969年。这是一种与最优化方法（如梯度下降法）结合使用的，用来训练人工神经网络的常见方法。该方法计算对网络中所有权重计算损失函数的梯度。这个梯度会反馈给最优化方法，用来更新权值以最小化损失函数。</p>
+<p>　　反向传播要求有对每个输入值想得到的已知输出，来计算损失函数梯度。因此，它通常被认为是一种监督式学习方法，虽然它也用在一些无监督网络（如自动编码器）中。它是多层前馈网络的Delta规则的推广，可以用链式法则对每层迭代计算梯度。反向传播要求人工神经元（或“节点”）的激励函数可微。简而言之，这意味着创作者可以通过在犯错时纠正错误来训练他们的网络。完成后，道具会修改神经网络中的不同连接，确保下次遇到同样问题时能得到正确的答案。</p>
+<p><strong>　　四、语言助手的诞生</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179923264.jpg" src="./W020170927362179923264.jpg"></p>
+<p>　　提及亚马逊的Alexa、谷歌助手和苹果的Siri大家一定都不陌生。早在20世纪60年代中期，麻省理工学院的一名研究人员就发明了一个名为ELIZA的计算机心理治疗师，可以实现与用户之间的“智能”对话。在当时，ELIZA的发明者就指出，用户如此愿意以这种方式与机器交谈，这让他们感到非常惊讶。</p>
+<p><strong>　　五、科技奇点的提出</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179920411.jpg" src="./W020170927362179920411.jpg"></p>
+<p>　　1993年，作家兼计算机科学家Vernor Vinge发表了一篇文章，这篇文章首次提到了人工智能的“奇点”。而这里所指的“奇点”并不是广义上的，而是指未来某一天机器将变得比人类更聪明，甚至会取代人类，主宰人类世界。但在1993年，作家兼计算机科学家Vernor Vinge发表了一篇文章，这篇文章推广了这个想法。</p>
+<p>　　被称为“即将到来的技术奇点”，Vinge预测，在未来30年内，人类将拥有创造超级人工智能的能力。他写到：“不久之后，人类时代就会结束。”这是一个警告，和现如今特斯拉CEO马斯克所担心的一样。</p>
+<p><strong>　　六、第一辆自动驾驶汽车诞生</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179927512.jpg" src="./W020170927362179927512.jpg"></p>
+<p>　　你认为谷歌开发了世界上第一辆自动驾驶汽车吗？错！早在1986年，德国联邦国防军大学的研究人员就在一辆奔驰面包车上安装了摄像头和智能传感器，成功地在空无一人的街道上行驶。</p>
+<p>　　几年后，一位名叫Dean Pomerleau的卡内基梅隆大学的研究人员建造了一辆自动驾驶的庞蒂克运输小货车，并沿海岸线从宾夕法尼亚州的匹兹堡到加州的圣地亚哥,共行驶了2797英里。相较于当今的自动驾驶技术，当时的这项技术像是小儿科，但是至少它证明了无人驾驶是可以实现的。</p>
+<p><strong>　　七、IBM“深蓝”战胜国际象棋冠军</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179926272.jpg" src="./W020170927362179926272.jpg"></p>
+<p>　　对于人工智能来说，1997年是一个标志性的年份，IBM的“深蓝”超级计算机在一场人机大战中战胜国际象棋冠军Garry Kasparov。尽管毫无疑问，深蓝的处理信息比人类更快，但真正的问题是，它是否更有策略地思考。事实证明这是可以的！</p>
+<p>　　这一结果可能并没有证明人工智能有能力在有明确规则的问题上表现得异常出色，它仍然是人工智能领域的巨大飞跃。</p>
+<p><strong>　　八、IBM“沃森”在智力竞赛节目中大获全胜</strong></p>
+<p>　　就像深蓝与Garry Kasparov的比赛一样，IBM的人工智能在2011年面临着另一个巨大的挑战——沃森人工智能在著名的智力竞赛节目“Jeopardy”中击败了对手布拉德·拉特和肯·詹宁斯，成功赢取了100万美元的大奖。比赛结束后，肯·詹尼斯打趣道：“欢迎我们的新机器人霸主。”人工智能的再次胜利 ，又一次向世界证明了人工智能比人脑更快。</p>
+<p><strong>　　九、AI也爱猫？通过深度学习算法识别猫科动物</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179928152.jpg" src="./W020170927362179928152.jpg"></p>
+<p>　　2012年6月，谷歌研究人员Jeff Dean和吴恩达从YouTube视频中提取了1000万个未标记的图像，训练了一个由16,000个电脑处理器组成的庞大神经网络。尽管没有给出有关它们的识别信息，但人工智能还是能够通过深度学习算法来识别猫科动物的照片。</p>
+<p>　　事实证明，就像我们一样，即使是令人印象深刻的智能AI，也喜欢看视频，而且尤其喜欢猫科动物。</p>
+<p><strong>　　十、谷歌AlphaGo战胜世界围棋冠军李世石</strong></p>
+<p style="text-align: center"><img alt="人工智能的十个里程碑事件，你知道几个？" oldsrc="W020170927362179921142.jpg" src="./W020170927362179921142.jpg"></p>
+<p>　　2016年3月，继IBM深蓝之后，谷歌DeepMind的AlphaGo在四场比赛中击败了国际围棋世界冠军李世石，而这场激烈的人机大战吸引了来自世界各地的6000万人的观看。同样，2017年的升级版AlphaGo再次击败了国际围棋大师柯洁，引发了全世界的关注。（选自：digitaltrends 翻译：网易见外智能编译平台 审校：抹茶）</p>
+<p align="center"><strong>本文由科普中国专家北京工业大学教授、博士生导师，中国人工智能学会科普工作委员会秘书长于乃功进行科学性把关<br>
+</strong></p></div>
+        </div>
+        <div class="create_page">
+              <script language="JavaScript">
+                function createPageHTML(_nPageCount, _nCurrIndex, _sPageName, _sPageExt) {
+                  if(_nPageCount == null || _nPageCount <= 1) {
+                    return;
+                  }
+                  //首页和上一页以及第一页的代码
+                  document.write("<span>共");
+                  document.write(_nPageCount);
+                  document.write("页</span>");
+                  //var fyn;
+                  var nStep = 5
+                  var nCurrIndex = _nCurrIndex || 0;
+                  if(nCurrIndex < 0) return;
+                  if(nCurrIndex > 0)
+                    document.write("<a href=\"" + _sPageName + "." + _sPageExt + "\">首 页</a>");
+                  else
+                    document.write("<span>首 页</span>");
+
+                  if(nCurrIndex > 0) {
+                    if(nCurrIndex == 1) {
+                      document.write("<a href=\"" + _sPageName + "." + _sPageExt + "\">上一页</a>");
+                    } else {
+                      document.write("<a href=\"" + _sPageName + "_" + (nCurrIndex - 1) + "." + _sPageExt + "\">上一页</a>");
+                    }
+                  } else {
+                    document.write("<span>上一页</span>");
+                  }
+                  //首页和上一页以及第一页的代码
+                  if(_nPageCount <= 4) { //_nPageCount小于等于4的情况
+                    if(nCurrIndex == 0)
+                      document.write("<span class='active'>1</span>");
+                    else
+                      document.write("<a href=\"" + _sPageName + "." + _sPageExt + "\">1</a>");
+                    for(var i = 1; i < _nPageCount; i++) {
+                      if(nCurrIndex == i)
+                        document.write("<span class='active'>"+(i + 1) + "</span>");
+                      else
+                        document.write("<a href=\"" + _sPageName + "_" + i + "." + _sPageExt + "\">" + (i + 1) + "</a>");
+                    }
+                  } else { //_nPageCount小于等于4的情况end
+                    //下面这个IF是判断是小于步长的一半的情况的;
+                    if(nCurrIndex < Math.ceil(nStep / 2)) {
+                      var xxxx = Math.ceil(nStep / 2);
+                      //alert("步长一半的数值:  "+xxxx+" nCurrIndex: "+nCurrIndex);
+                      for(i = nCurrIndex; i < nCurrIndex + nStep; i++) {
+                        if(i == 0 && nCurrIndex == 0) {
+                          document.write("<span>1</span>");
+                        }
+                        if(i == 0 && nCurrIndex != 0) {
+                          document.write("<a href=\"" + _sPageName + "." + _sPageExt + "\">1</a>");
+                        }
+                        if(i > 0 && i <= _nPageCount) {
+                          if(i == nCurrIndex)
+                            document.write("<span>" + (i + 1) + "</span>");
+                          else
+                            document.write("<a href=\"" + _sPageName + "_" + i + "." + _sPageExt + "\">" + (i + 1) + "</a>");
+                        }
+                      }
+                      var nextOver = _nPageCount - nCurrIndex; //翻页到极限时候;
+                      if(nCurrIndex < (_nPageCount - 1))
+                        document.write("<a href=\"" + _sPageName + "_" + (nCurrIndex + 1) + "." + _sPageExt + "\">下一页</a>");
+                      else if(nextOver <= nStep) {
+                        document.write("<span>下一页</span>nbsp;");
+                      }
+                      if(nCurrIndex != (_nPageCount - 1))
+                        document.write("<a href=\"" + _sPageName + "_" + (_nPageCount - 1) + "." + _sPageExt + "\">末 页</a>");
+                      else
+                        document.write("<span>末 页</span>");
+                      return false;
+                    }
+                    for(i = Math.ceil(nCurrIndex - nStep / 2); i < Math.ceil(nCurrIndex + nStep / 2); i++) {
+                      var ssssss = Math.ceil(nStep / 2);
+                      if(i > 0 && i < _nPageCount) {
+                        if(i == nCurrIndex)
+                          document.write("<span class='active'>" + (i + 1) + "</span>");
+                        else
+                          document.write("<a href=\"" + _sPageName + "_" + i + "." + _sPageExt + "\">" + (i + 1) + "</a>");
+                      }
+                    }
+                  }
+                  //下一页和末页的设置
+                  var nextOver = _nPageCount - nCurrIndex; //翻页到极限时候;
+                  if(nCurrIndex < (_nPageCount - 1))
+                    document.write("<a href=\"" + _sPageName + "_" + (nCurrIndex + 1) + "." + _sPageExt + "\">下一页</a>");
+                  else if(nextOver <= nStep) {
+                    document.write("<span>下一页</span>");
+                  }
+                  if(nCurrIndex != (_nPageCount - 1))
+                    document.write("<a href=\"" + _sPageName + "_" + (_nPageCount - 1) + "." + _sPageExt + "\">末 页</a>");
+                  else
+                    document.write("<span>末 页</span>");
+                  //下一页和末页的设置 
+                } //函数结束符
+                //WCM置标
+                createPageHTML(1, 0, "t20170927_229130", "shtml");
+                //-->
+              </script>
+            </div>
+        <div class="content_tips">
+          <div class="share">
+              <div class="social-share-title">分享到：</div>
+              <div id="socialShare" class="social-share share-component" data-sites="wechat, qq, qzone, weibo, douban"><a class="social-share-icon icon-wechat" href="javascript:"><div class="wechat-qrcode"><h4>微信扫一扫：分享</h4><div class="qrcode" title="https://www.kepuchina.cn/qykj/rgzn/201709/t20170927_229130.shtml"><canvas width="100" height="100" style="display: none;"></canvas><img alt="Scan me!" src="data:image/png;base64,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" style="display: block;"></div><div class="help"><p>微信里点“发现”，扫一下</p><p>二维码便可将本文分享至朋友圈。</p></div></div></a><a class="social-share-icon icon-qq" href="http://connect.qq.com/widget/shareqq/index.html?url=https%3A%2F%2Fwww.kepuchina.cn%2Fqykj%2Frgzn%2F201709%2Ft20170927_229130.shtml&amp;title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F&amp;source=https%3A%2F%2Fwww.kepuchina.cn&amp;desc=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F%E4%BD%A0%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E5%90%AC%E8%AF%B4%E8%BF%87%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%9C%A8%E5%BD%93%E4%BB%8A%E6%9C%80%E5%85%88%E8%BF%9B%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%83%8C%E5%90%8E%EF%BC%8C%E6%98%AF%E5%A4%A7%E8%84%91%E6%BF%80%E5%8F%91%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7%E3%80%82%E5%85%B3%E6%B3%A8%E7%BD%91%E6%98%93%E6%99%BA%E8%83%BD%E5%85%AC%E4%BC%97%E5%8F%B7...&amp;pics=&amp;summary=&quot;%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F%E4%BD%A0%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E5%90%AC%E8%AF%B4%E8%BF%87%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%9C%A8%E5%BD%93%E4%BB%8A%E6%9C%80%E5%85%88%E8%BF%9B%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%83%8C%E5%90%8E%EF%BC%8C%E6%98%AF%E5%A4%A7%E8%84%91%E6%BF%80%E5%8F%91%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7%E3%80%82%E5%85%B3%E6%B3%A8%E7%BD%91%E6%98%93%E6%99%BA%E8%83%BD%E5%85%AC%E4%BC%97%E5%8F%B7...&quot;" target="_blank"></a><a class="social-share-icon icon-qzone" href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fwww.kepuchina.cn%2Fqykj%2Frgzn%2F201709%2Ft20170927_229130.shtml&amp;title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F&amp;desc=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F%E4%BD%A0%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E5%90%AC%E8%AF%B4%E8%BF%87%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%9C%A8%E5%BD%93%E4%BB%8A%E6%9C%80%E5%85%88%E8%BF%9B%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%83%8C%E5%90%8E%EF%BC%8C%E6%98%AF%E5%A4%A7%E8%84%91%E6%BF%80%E5%8F%91%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7%E3%80%82%E5%85%B3%E6%B3%A8%E7%BD%91%E6%98%93%E6%99%BA%E8%83%BD%E5%85%AC%E4%BC%97%E5%8F%B7...&amp;summary=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F%E4%BD%A0%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E5%90%AC%E8%AF%B4%E8%BF%87%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%9C%A8%E5%BD%93%E4%BB%8A%E6%9C%80%E5%85%88%E8%BF%9B%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%83%8C%E5%90%8E%EF%BC%8C%E6%98%AF%E5%A4%A7%E8%84%91%E6%BF%80%E5%8F%91%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7%E3%80%82%E5%85%B3%E6%B3%A8%E7%BD%91%E6%98%93%E6%99%BA%E8%83%BD%E5%85%AC%E4%BC%97%E5%8F%B7...&amp;site=https%3A%2F%2Fwww.kepuchina.cn&amp;pics=" target="_blank"></a><a class="social-share-icon icon-weibo" href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fwww.kepuchina.cn%2Fqykj%2Frgzn%2F201709%2Ft20170927_229130.shtml&amp;title=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F&amp;pic=&amp;appkey=" target="_blank"></a><a class="social-share-icon icon-douban" href="http://shuo.douban.com/!service/share?href=https%3A%2F%2Fwww.kepuchina.cn%2Fqykj%2Frgzn%2F201709%2Ft20170927_229130.shtml&amp;name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F&amp;text=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E5%8D%81%E4%B8%AA%E9%87%8C%E7%A8%8B%E7%A2%91%E4%BA%8B%E4%BB%B6%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%87%A0%E4%B8%AA%EF%BC%9F%E4%BD%A0%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E5%90%AC%E8%AF%B4%E8%BF%87%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%9C%A8%E5%BD%93%E4%BB%8A%E6%9C%80%E5%85%88%E8%BF%9B%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%83%8C%E5%90%8E%EF%BC%8C%E6%98%AF%E5%A4%A7%E8%84%91%E6%BF%80%E5%8F%91%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7%E3%80%82%E5%85%B3%E6%B3%A8%E7%BD%91%E6%98%93%E6%99%BA%E8%83%BD%E5%85%AC%E4%BC%97%E5%8F%B7...&amp;image=&amp;starid=0&amp;aid=0&amp;style=11" target="_blank"></a></div>
+              <script>
+                  socialShare("#socialShare", {
+                      url: location.href,
+                      title: '人工智能的十个里程碑事件，你知道几个？',
+                      description: '人工智能的十个里程碑事件，你知道几个？你可能已经听说过神经网络，在当今最先进的人工智能背后，是大脑激发的人工智能工具。关注网易智能公众号...',
+                      source: 'https://www.kepuchina.cn',
+                      wechatQrcodeTitle: '微信扫一扫：分享',
+                      wechatQrcodeHelper: '<p>微信里点“发现”，扫一下</p><p>二维码便可将本文分享至朋友圈。</p>'
+                  });
+              </script>
+          </div>
+          <p class="editor">责任编辑：王超</p>
+        </div>
+        <!--<div class="mobile_down">
+          <a href="#">一键安装科普中国APP</a>
+        </div>-->
+        <div class="next_pre">
+          <p>
+            上一篇：<a href="./t20170927_229136.shtml" title="对于未来互联网：AI创造与毁灭了什么">对于未来互联网：AI创造与毁灭了什么</a>
+          </p>
+          <p>
+            下一篇：<a href="./t20170926_228918.shtml" title="机器人进驻酒厂都干了啥？">机器人进驻酒厂都干了啥？</a>
+          </p>
+        </div>
+        
+        <div class="detail_code">
+          <em><img src="https://img1.kepuchina.cn/images/2018/code_app.jpg">科普中国APP</em>
+          <em><img src="https://img1.kepuchina.cn/images/2018/code_wx.jpg">科普中国微信</em>
+          <em><img src="https://img1.kepuchina.cn/images/2018/code_wb.jpg">科普中国微博</em>
+        </div>
+        <!--精彩推荐结束-->
+        <div class="recommend">
+	<div class="recommend_title">
+		<h2>精彩推荐</h2>
+	</div>
+	<div class="list">
+		<ul>
+			
+				<li>
+					<a href="https://www.kepuchina.cn/more/202109/t20210916_3034899.shtml" target="_blank"><img src="https://www.kepuchina.cn/more/202109/W020210916414284599559.png"></a>
+					<p>
+						<a href="https://www.kepuchina.cn/more/202109/t20210916_3034899.shtml" target="_blank">这个技术很有来头——三维GIS</a>
+					</p>
+				</li>
+			
+				<li>
+					<a href="https://www.kepuchina.cn/more/202109/t20210915_3033892.shtml" target="_blank"><img src="https://www.kepuchina.cn/more/202109/W020210915500096953701.png"></a>
+					<p>
+						<a href="https://www.kepuchina.cn/more/202109/t20210915_3033892.shtml" target="_blank">你不知道的航天新知识——立方体卫星技术</a>
+					</p>
+				</li>
+			
+				<li>
+					<a href="https://www.kepuchina.cn/more/202109/t20210914_3033505.shtml" target="_blank"><img src="https://www.kepuchina.cn/more/202109/W020210914513289226186.png"></a>
+					<p>
+						<a href="https://www.kepuchina.cn/more/202109/t20210914_3033505.shtml" target="_blank">双乙酸钠对人体有害吗？</a>
+					</p>
+				</li>
+			
+				<li>
+					<a href="https://www.kepuchina.cn/more/202109/t20210910_3031692.shtml" target="_blank"><img src="https://www.kepuchina.cn/more/202109/W020210910535783266373.png"></a>
+					<p>
+						<a href="https://www.kepuchina.cn/more/202109/t20210910_3031692.shtml" target="_blank">蚝油瓶的设计为什么一直不改进？</a>
+					</p>
+				</li>
+			
+				<li>
+					<a href="https://www.kepuchina.cn/more/202109/t20210906_3029170.shtml" target="_blank"><img src="https://www.kepuchina.cn/more/202109/W020210906528802587614.jpg"></a>
+					<p>
+						<a href="https://www.kepuchina.cn/more/202109/t20210906_3029170.shtml" target="_blank">你知道吗？水下也有三角洲</a>
+					</p>
+				</li>
+			
+				<li>
+					<a href="https://www.kepuchina.cn/more/202109/t20210906_3029164.shtml" target="_blank"><img src="https://www.kepuchina.cn/more/202109/W020210906532981316846.png"></a>
+					<p>
+						<a href="https://www.kepuchina.cn/more/202109/t20210906_3029164.shtml" target="_blank">你听说过农业气象灾害监测预测技术吗？</a>
+					</p>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+      </div>
+      <div class="content_right">
+        <div class="content_source">
+          <div class="source_top"></div>
+          <div class="source_bot"></div>
+          <div class="source_logo"><img src="/images/2017/source/32.jpg" id="source_logo"></div>
+          <div class="source_title" id="source_title">网易科技</div>
+          <div class="source_tips" id="source_tips">网易科技,以独特视角呈现科技圈内大事小事,内容包括互联网、IT业界、通信、趋势、科技访谈等。</div>
+        </div>
+        <div class="layout-xglj">
+	<div class="layout_title">
+		<h2>最新文章</h2>
+	</div>
+	<ul class="new_list">
+		
+			<li>
+			<h2><a href="https://www.kepuchina.cn/more/202109/t20210929_3056404.shtml" target="_blank">为何太阳系所有行星都在同一平面上旋转？</a></h2>
+			<p class="tips">
+				<span class="source">新浪科技</span>
+				<span class="time">2021-09-29</span>
+			</p>
+			</li>
+		
+			<li>
+			<h2><a href="https://www.kepuchina.cn/more/202109/t20210929_3056402.shtml" target="_blank">我国学者揭示早期宇宙星际间重元素起源之谜</a></h2>
+			<p class="tips">
+				<span class="source">中国科学报</span>
+				<span class="time">2021-09-29</span>
+			</p>
+			</li>
+		
+			<li>
+			<h2><a href="https://www.kepuchina.cn/more/202109/t20210929_3056400.shtml" target="_blank">比“胖五”更能扛！我国新一代载人运载火箭要来了</a></h2>
+			<p class="tips">
+				<span class="source"><a href="http://www.stdaily.com/" title="科技日报">科技日报</a></span>
+				<span class="time">2021-09-29</span>
+			</p>
+			</li>
+		
+			<li>
+			<h2><a href="https://www.kepuchina.cn/more/202109/t20210928_3054565.shtml" target="_blank">5G演进已开始，6G研究正进行</a></h2>
+			<p class="tips">
+				<span class="source">光明日报</span>
+				<span class="time">2021-09-28</span>
+			</p>
+			</li>
+		
+			<li>
+			<h2><a href="https://www.kepuchina.cn/more/202109/t20210928_3054506.shtml" target="_blank">“早期暗能量”或让宇宙年轻10亿岁</a></h2>
+			<p class="tips">
+				<span class="source"><a href="http://www.stdaily.com/" title="科技日报">科技日报</a></span>
+				<span class="time">2021-09-28</span>
+			</p>
+			</li>
+		
+			<li>
+			<h2><a href="https://www.kepuchina.cn/more/202109/t20210928_3054505.shtml" target="_blank">5G、大数据、人工智能，看看现代交通的创新元素</a></h2>
+			<p class="tips">
+				<span class="source"><a href="http://www.xinhuanet.com" title="新华网">新华网</a></span>
+				<span class="time">2021-09-28</span>
+			</p>
+			</li>
+		
+	</ul>
+</div>
+        <div class="layout-xglj">
+          <div class="layout_title">
+            <h2>猜你喜欢</h2>
+          </div>
+          
+          
+          <ul class="list" id="jpts-cont">
+            <li>
+              <em></em>
+              <p>
+                <a href="" target="_blank"></a>
+              </p>
+            </li>
+            <li>
+              <em></em>
+              <p>
+                <a href="" target="_blank"></a>
+              </p>
+            </li>
+            <li>
+              <em></em>
+              <p>
+                <a href="" target="_blank"></a>
+              </p>
+            </li>
+            <li>
+              <em></em>
+              <p>
+                <a href="" target="_blank"></a>
+              </p>
+            </li>
+            <li>
+              <em></em>
+              <p>
+                <a href="" target="_blank"></a>
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--返回顶部
+    <div class="back_top_code">
+      <a href="#" class="code"><img src="https://img1.kepuchina.cn/images/2017/code_113.png" /></a>
+      <a href="#" class="top"></a>
+    </div>
+    -->
+    <a class="btn-end">
+      <img src="https://img1.kepuchina.cn/images/2017/btn-end.png">
+    </a>
+    <a class="btn-home">
+      <img src="https://img1.kepuchina.cn/images/2017/btn-home.png">
+    </a>
+    <script type="text/javascript">
+      $(document).scroll(function() {
+        var top = $(document).scrollTop();
+        if(top >= 175) {
+          $(".back_top_code").show();
+        } else {
+          $(".back_top_code").hide();
+        }
+      });
+      $(".back_top_code .top").click(function() {
+        $('html,body').animate({
+          scrollTop: "0"
+        }, 600);
+        return false;
+      });
+      $(".back_top_code .code").click(function() {
+        return false;
+      });
+    </script>
+    <script type="text/javascript">
+        function source(value) {
+        var source = {
+          "360教育": "1",
+          "IT168": "2",
+          "爱范儿": "3",
+          "宝葫芦娃": "4",
+          "北京时间": "5",
+          "博物": "6",
+          "大象公会": "7",
+          "丁香园": "8",
+          "飞碟说": "9",
+          "凤凰网科技": "10",
+          "光明网": "11",
+          "国际在线创新": "12",
+          "和讯科技": "13",
+          "环球科学": "14",
+          "环球网": "15",
+          "混子曰": "16",
+          "科技北斗": "17",
+          "科技日报": "18",
+          "科学世界": "19",
+          "蝌蚪五线谱": "20",
+          "快科技": "21",
+          "雷锋网": "22",
+          "六一儿童网": "23",
+          "美通社": "24",
+          "泡泡网": "25",
+          "千龙科技": "26",
+          "人民日报": "27",
+          "人民网": "28",
+          "赛先生": "29",
+          "生物360": "30",
+          "腾讯科学": "31",
+          "网易科技": "32",
+          "微科普": "33",
+          "维他狗营养家": "34",
+          "未来网": "35",
+          "新华网": "36",
+          "新浪科技": "37",
+          "央广网科技": "38",
+          "壹读": "39",
+          "知视TV": "40",
+          "中国国家地理": "41",
+          "经济网 ": "42",
+          "中国科技传媒网": "43",
+          "中国科普网": "44",
+          "中国青年网": "45",
+          "中国少年报": "46",
+          "中国数字科技馆": "47",
+          "中国天文快讯": "48",
+          "中国网科技": "49",
+          "中国网科学中国": "50",
+          "中华网军事": "51",
+          "中科院物理研究所": "52",
+          "中青网财经": "53",
+          "新华社":"54",
+          "科普中国":"55",
+          "科学传播网":"56",
+          "cnBeta.COM":"57",
+          "中国药学会":"58",
+          "视知TV ":"59",
+          "中国经济网":"60",
+          "cnBeta.COM":"61"
+        }
+//        value = key.toString();
+//        var eValue = eval('source.' + key);
+        for(var key in source)
+        {
+        if(value in source) {
+          if(key == value){
+            $("#source_logo").attr("src", "/images/2017/source/" + source[key] + ".jpg");
+            $("#source_tips").load("/images/2017/source_html/" + source[key] + ".html");
+          }
+        } 
+        else {
+          $("#source_logo").attr("src", "/images/2017/source/55.jpg");
+          $("#source_tips").load("/images/2017/source_html/55.html");
+          $("#source_title").html("科普中国");
+        }
+        }
+      }
+        source('网易科技');
+    </script>
+    <!-- 底部 -->
+    <style type="text/css">
+    @font-face {
+        font-family: 'fontello';
+        src: url('/css/2017/font/fontello.eot?75305128');
+        src: url('/css/2017/font/fontello.eot?75305128#iefix') format('embedded-opentype'), url('/css/2017/font/fontello.woff?75305128') format('woff'), url('/css/2017/font/fontello.ttf?75305128') format('truetype'), url('/css/2017/font/fontello.svg?75305128#fontello') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    .btn-end,
+    .btn-home {
+        display: none;
+    }
+    
+    .foot .topArea {
+        height: auto;
+    }
+    
+    .foot .topArea .link-right {
+        height: auto;
+    }
+    
+    .head_1120 .logo a {
+        display: block;
+        width: 222px;
+        height: 42px;
+    }
+    
+    .layoutRight .layout-rdph .list .txt h2 {
+        height: 40px;
+        overflow: hidden;
+    }
+    .mobile-header,.mobile-footer{
+        display: none;
+    }
+    .footer,.header{
+        display: block;
+    }
+    @media screen and (max-width: 750px) {
+        .mobile-header{
+            display: flex;
+        }
+        .mobile-footer{
+            display: block;
+        }
+        .footer,.header{
+            display: none;
+        }
+        .content_detail img {
+            height: auto;
+        }
+        .head_100 {
+            background: none;
+        }
+        .layoutLeft .dialog .txt p {
+            height: 26px;
+            overflow: hidden;
+            font-size: 12px;
+        }
+        .layoutLeft .dialog .txt p em {
+            display: none;
+        }
+        .layoutLeft .dialog .txt h2 {
+            overflow: hidden;
+            margin-bottom: 0px;
+            height: 40px;
+        }
+    }
+    
+    .content_left .recommend .list li p {
+        height: 60px
+    }
+    .tel_phone {
+        background: linear-gradient(180deg, #45aff0 0%, #4873FC 100%);
+        width: 242px;
+        font-size: 32px;
+        color: transparent;
+        font-weight: bolder;
+        line-height: normal;
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        -ms-background-clip: text;
+        background-clip: text;
+    }
+</style>
+<div class="footer">
+    <div class="footer_main">
+        <div class="footer_left">
+            <div class="footer_menu">
+                科普中国系列品牌网站
+            </div>
+            <ul class="footer_list">
+                
+                    <li>
+                        <a href="http://kpzgkjqydst.xinhuanet.com/" target="_blank">科技前沿大师谈</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://kpzgkxylydt.xinhuanet.com/" target="_blank">科学原理一点通</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://junshi.gmw.cn/index.htm" target="_blank">军事科技前沿</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://lxjk.people.cn/GB/index.html" target="_blank">乐享健康</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://video.kepuchina.cn/" target="_blank">V视快递</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://piyao.kepuchina.cn/" target="_blank">科学辟谣</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.china-safety.org/lilunyanjiu/0.html" target="_blank">应急安全科普资源建设和传播项目</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://kepu.gmw.cn/node_139891.htm" target="_blank">繁星追梦-我眼中的中国科学家</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://zone.guokr.com/area/scientist-zone/" target="_blank">我是科学家</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.kepuchina.cn/" target="_blank">科普中国网</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://cloud.kepuchina.cn/" target="_blank">科普中国服务云</a>
+                    </li>
+                
+            </ul>
+            <div class="footer_menu">
+                合作媒体
+            </div>
+            <ul class="footer_list">
+                
+                    <li>
+                        <a href="http://www.cctv.com/" target="_blank">央视网</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://tech.chinadaily.com.cn/" target="_blank">中国日报网</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.taiwan.cn/" target="_blank">中国台湾网</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://tech.ce.cn/" target="_blank">中国经济网科技</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://science.china.com.cn/" target="_blank">中国网科学中国</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://www.thepaper.cn/channel_36079" target="_blank">澎湃新闻·湃客</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.dili360.com/" target="_blank">中国国家地理</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.qxkp.net/" target="_blank">中国气象科普网</a>
+                    </li>
+                
+                <!-- <li>
+                    <a href="/line/mt/" target="_blank">更多</a>
+                </li> -->
+            </ul>
+            <div class="footer_menu">
+                合作机构
+            </div>
+            <ul class="footer_list">
+                
+                    <li>
+                        <a href="http://www.nimrf.net.cn/" target="_blank">国家岩矿化石标本资源共享平台</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.ckcest.cn/" target="_blank">中国工程科技知识中心</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://www.cdstm.cn/" target="_blank">中国数字科技馆</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.centv.cn/" target="_blank">中国教育网络电视台</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.airchina.com.cn/" target="_blank">中国国际航空公司</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.weathertv.cn/" target="_blank">中国气象频道</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.cheaa.com/" target="_blank">中国家电网</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.bast.net.cn/" target="_blank">北京市科学技术协会</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.chinaott.net/" target="_blank">CNTV-未来电视</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://www.cibn.cc/index.html" target="_blank">CIBN</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.1905.com/" target="_blank">电影频道</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.jdair.net/" target="_blank">首都航空</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.mtr.bj.cn/index.html" target="_blank">京港地铁</a>
+                    </li>
+                
+                <!-- <li>
+                    <a href="/line/hzjg/" target="_blank">更多</a>
+                </li> -->
+            </ul>
+        </div>
+        <div class="footer_right">
+            <div class="footer_menu">
+                联系我们
+            </div>
+            <div class="small_menu">
+                电话/TEL
+            </div>
+            <div class="tel_phone">4006790966</div>
+            <div class="small_menu">
+                地址/ADDRESS
+            </div>
+            <div class="address">
+                北京市西城区白纸坊东街2号经济日报社综合业务楼A座
+            </div>
+            <div class="f_ico">
+                <ul>
+                    <li>
+                        <a href="javascript:void(0)">
+                            <em class="app"></em>
+                            <p>
+                                <img src="https://img1.kepuchina.cn/images/2018/code_app.jpg"> 科普中国APP
+                            </p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0)">
+                            <em class="wx"></em>
+                            <p>
+                                <img src="https://img1.kepuchina.cn/images/2018/code_wx.jpg"> 科普中国
+                            </p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0)">
+                            <em class="wb"></em>
+                            <p>
+                                <img src="https://img1.kepuchina.cn/images/2018/code_wb.jpg"> 科普中国
+                            </p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="bottomArea">
+        <a href="/gywm/" target="_blank">关于我们</a>
+        <a href="/lxwm/" target="_blank">联系我们</a>
+        <a href="##" target="_blank">招贤纳士</a>
+        <a href="##" target="_blank">法律声明</a>
+        <a href="##" target="_blank">网站地图</a>
+    </div>
+    <div style="width: 100%;text-align: center;padding-top: 20px;">
+        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202008423" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+            <p style="line-height:20px;color: #989cb8;">
+                <img src="/images/jing-icon.png" style="vertical-align: middle; width: 15px; position: relative; top: -2px;">
+                京公网安备11010202008423号
+            </p>
+        </a>
+        <a target="_blank" href="https://beian.miit.gov.cn" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+          <p style="line-height:20px;color: #989cb8;">
+               京ICP备16016202号-1
+          </p>
+      </a>
+    </div>
+
+    <a id="_pingansec_bottomimagelarge_shiming" class="img-smrz-a" href="https://si.trustutn.org/info?sn=624161223026064016066&amp;certType=1" target="_blank"><img src="https://v.trustutn.org/images/cert/bottom_large_img.png" class="img-smrz"></a>
+</div>
+<div class="mobile-footer">
+    <div class="yjfk">
+        <img src="https://img3.kepuchina.cn/images/2021/home/ft_yjfk.png" alt="">
+    </div>
+    <div class="phone">
+        <a href="tel:010-63581731"><img src="https://img3.kepuchina.cn/images/2021/home/ft_phone.png" alt=""></a>
+    </div>
+    <div class="contact"></div>
+    <p>许可证及证号：京ICP备16016202号-1</p>
+    <p>版权所有：中国科协</p>
+    <!-- <div class="btn-box">
+        <a href="" id="switch_PC">切换电脑端</a>
+    </div> -->
+    <div class="arrow" id="back_top" style="display: none;">
+        <img src="https://img3.kepuchina.cn/images/2021/home/arrow.png">
+    </div>
+    <script type="text/javascript">
+        $("#back_top").fadeOut(0);
+            $(window).scroll(function(){  
+                if ($(window).scrollTop()>200){ //大于100行才出现跳转箭头 
+                    $("#back_top").fadeIn(500);  //大于1500行时跳转箭头慢慢透明显示
+                }  
+                else{  
+                    $("#back_top").fadeOut(500);  //大于1500行时跳转箭头慢慢透明消失
+                }  
+            });   
+            $("#switch_PC").click(function() {
+                $.cookie('switch_PC', 'p', {
+                    expires: 7,
+                    path: '/'
+                });
+                location.href = "/";
+                return false;
+            });
+            $("#back_top").click(function() {
+                $("html,body").animate({"scrollTop":"0"},300);
+                return false;
+            });
+    </script>
+</div>
+<a class="btn-end">
+    <img src="https://img1.kepuchina.cn/images/2017/btn-end.png">
+</a>
+<a class="btn-home">
+    <img src="https://img1.kepuchina.cn/images/2017/btn-home.png">
+</a>
+<script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+<script type="text/javascript">
+    function getAbsoluteUrl(url) {
+        var img = new Image();
+        img.src = url; // 设置相对路径给Image, 此时会发送出请求
+        url = img.src; // 此时相对路径已经变成绝对路径
+        img.src = null; // 取消请求
+        return url;
+    }
+    var has_img = $(".TRS_Editor").find("img");
+    var trs_img = "https://img3.kepuchina.cn/images/2018/shareH5.png";
+    if(has_img.length > 0) {
+        trs_img = getAbsoluteUrl($(".TRS_Editor img:first").attr("src"));
+    }
+    if (!window.wxShare) {
+      $.ajax({
+          url: "https://backend.kepuchina.cn/gettoken",
+          dataType: "jsonp",
+          type: "get",
+          data: {
+              "url": document.location.href.split('#')[0]
+          },
+          success: function(res) {
+              wx.config({
+                  debug: false,
+                  appId: res.appId,
+                  timestamp: res.timestamp,
+                  nonceStr: res.noncestr,
+                  signature: res.signature,
+                  jsApiList: ['updateAppMessageShareData', 'updateTimelineShareData']
+              });
+              wx.ready(function() {
+  
+                  wx.updateTimelineShareData({
+                      desc:"科普中国网_让科技知识在网上和生活中流行",
+                      title: document.title, // 分享标题
+                      imgUrl: trs_img, // 分享图标
+                      link: document.location.href.split('#')[0], // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+                      success: function() {
+                          // 用户确认分享后执行的回调函数
+                      },
+                      cancel: function() {
+                          // 用户取消分享后执行的回调函数
+                      }
+                  });
+                  wx.updateAppMessageShareData({
+                      desc:"科普中国网_让科技知识在网上和生活中流行",
+                      title: document.title, // 分享标题
+                      imgUrl: trs_img, // 分享图标
+                      link: document.location.href.split('#')[0], // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+                      success: function() {
+                          // 用户确认分享后执行的回调函数
+                      },
+                      cancel: function() {
+                          // 用户取消分享后执行的回调函数
+                      }
+                  });
+              });
+              wx.error(function(err) {});
+          },
+          error: function(res) {}
+      });
+    }
+</script>
+<!-- <script type="text/javascript">
+    document.onreadystatechange = loadingChange; //当页面加载状态改变的时候执行这个方法. 
+    function loadingChange() {
+        if(document.readyState == "complete") { //当页面加载状态为完全结束时进入
+            $("body").append("<script src='https://fenxi.kepuchina.cn/webengine/newstat/www.kepuchina.cn.3.js'><\/script>")
+        }
+    }
+</script> -->
+<!--<script src='https://180.76.155.245:8090/webengine/newstat/www.kepuchina.cn.js'></script>-->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?9535c3ea6eb286566c2c14dc19269572";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<script type="text/javascript">
+    (function () {
+        var sidebarTitle = $(".layout-left-nav h2");
+        var areaTitle = $(".menu-title .title h2");
+        var navList = $(".header .menu li");
+
+
+        $.each(navList, function () {
+            var $this = $(this);
+            var menuText = $.trim($this.text());
+
+            if(
+                (sidebarTitle.length && menuText == $.trim(sidebarTitle.text())) 
+                || (sidebarTitle.length && menuText == '辟谣' && $.trim(sidebarTitle.text()) == '科学辟谣')
+            ) {
+                $this.find("a").addClass("active");
+            }
+        });
+
+        $(document)
+            .on('mouseenter mouseleave', '._mainNavMore', function (e) {
+                var $list = $(this).find('._moreList');
+
+                if (e.type == 'mouseenter') {
+                    $list.show();
+                } else {
+                    $list.hide();
+                }
+            });
+    }());
+</script>
+<script src="//static.kepuchina.cn/h5/dist/sma.js"></script>
+    <script src="//static.scimall.org.cn/h5/dist/share.js"></script>
+    <script>
+        $(function () {
+            //分享
+            sharePrize = function(){
+                var title = '人工智能的十个里程碑事件，你知道几个？',      // 标题
+                    source = '网易科技',            // 来源，即描述
+                    cover = '';           // 封面
+
+
+                sciShare({
+                    wxNum: 2,
+                    title: title,   // 必传
+                    desc: source,     // 必传
+                    imgUrl: cover == '' ? 'https://img3.kepuchina.cn/images/2018/logo.png' : cover,   // 必传
+                    link: '',     // 不是必传，默认为 location.href
+                    callback: function () {},   // 不是必传，用于分享成功后回调
+                    app: {
+                        callbackId: '',
+                        callbackFunction: '',
+                        platform: [2, 3]
+                    }
+                });
+            }
+            sharePrize()
+        })
+    </script>
+    <script type="text/javascript">
+        
+      
+        function isWeiXin() {
+          var ua = window.navigator.userAgent.toLowerCase();
+          if(ua.match(/MicroMessenger/i) == 'micromessenger') {
+            return true;
+          } else {
+            return false;
+          }
+        }
+        if(navigator.userAgent.indexOf('scienceChina')>-1 || isWeiXin()){
+          $('.mobileWrap,.m-navlist,#back_pc').hide();
+        }
+    </script>
+  
+
+</body></html>

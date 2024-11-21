@@ -1,0 +1,5 @@
+C:\Users\wxl>docker run -d --cpus="5" --memory="2g" -p 8050:8050 scrapinghub/splash
+5b35d6ec386d03f64cfb9599d611c499d55d534a84342107740cc7b34cf892c1
+
+C:\Users\wxl>docker run -d --cpus="5" --memory="2g" -p 8051:8050 scrapinghub/splash
+cb7e6ff5c45469662197605c10a33d51b6fe60ba2020620cd1589d3419148da5

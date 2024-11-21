@@ -1,0 +1,23 @@
+Date: Thu, 14 Nov 2024 04:46:41 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Ray: 8e245bf2acde9c39-SIN
+Cf-Cache-Status: DYNAMIC
+Cache-Control: public, max-age=0, s-maxage=86340, stale-if-error=0
+Content-Encoding: gzip
+Link: </>; rel=preconnect; crossorigin=""
+Strict-Transport-Security: max-age=31536000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding
+Cache-Tag: release-10.9.960,site:site_LRCsu
+Cf-Placement: remote-SJC
+Content-Security-Policy: default-src 'self' ; script-src 'self' 'nonce-YjQxOTRjZjktMjc4YS00YWZlLWE3ZmItMTBkMzFhOTAzZGE0' 'strict-dynamic' 'unsafe-inline' 'unsafe-eval' https://integrations.gitbook.com https://cdn.iframe.ly; style-src 'self' fonts.googleapis.com 'unsafe-inline'; img-src * 'self' blob: data: files.gitbook.com https://ka-p.fontawesome.com; connect-src * 'self' integrations.gitbook.com app.gitbook.com api.gitbook.com srv.buysellads.com https://ka-p.fontawesome.com; font-src 'self' fonts.gstatic.com ; frame-src *; object-src 'none'; base-uri 'self' ; form-action 'self' ; frame-ancestors https:;
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: no-referrer-when-downgrade
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=iPDjTHlPToSUGTLQanclx%2FO%2FA4aVm9GG7Qfq%2Ffav1Lxj0nUgBPt1eU7%2FLIJ5mko%2FfeBsBQVur%2BLN2qKb3rYXE5p7OlG2o0igR%2BpQLkbCR%2B323mXsbea87iDYETYYScGoLYjBlk305itACZKwGOGE"}],"group":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+X-Edge-Runtime: 1
+X-Gitbook-Cache: miss
+X-Gitbook-Cache-Tag: release-10.9.960,site:site_LRCsu
+X-Gitbook-Version: 7c71363
+X-Matched-Path: /[[...pathname]]
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

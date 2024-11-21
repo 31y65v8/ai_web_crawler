@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "acw_tc=0aef811617315552087508545e00394cc34a2ac1e79dce44e25c264dcea073; connect.sid=s%3AvnNJg-rpbqjbm1Lj-sVyy87wv4JzqieE.4FAKGxJqrignSXm8s7DX3tDZnHE0A3AqSuRC2zrMRyk",
+        "Referer": "https://m.yicai.com/news/100029868.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://m.yicai.com/news/100029868.html",
+    "wait": 6
+}

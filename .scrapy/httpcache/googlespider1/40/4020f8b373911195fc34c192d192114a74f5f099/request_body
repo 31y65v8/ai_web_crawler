@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "lexology.Browsing=5c1eba73-a420-4107-a7ba-9cde42f7a17f; AspxAutoDetectCookieSupport=1; __cf_bm=izTuW5gFN0gTKckbZ8S8GFgjPWUNUQNg.T5KnIhPvZ8-1731555244-1.0.1.1-B2kpeOQIVlNO8AaiEjsIUs_VDmbi0DTJS.ZG9cT8XJ0XQ7J7HORA8zOCaFJuyHX41OuHhrlZNhhodLhXv_IqWg",
+        "Referer": "https://www.lexology.com/library/detail.aspx?g=fcc860fb-372f-4c5c-a536-27e056d471eb",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.lexology.com/library/detail.aspx?g=fcc860fb-372f-4c5c-a536-27e056d471eb",
+    "wait": 6
+}

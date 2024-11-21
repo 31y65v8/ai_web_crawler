@@ -1,0 +1,484 @@
+<!DOCTYPE html><html><head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="contentType" content="page">
+    <title>澎湃新闻｜AI发展的终极意义是倒逼人类重新认识自己-国家智能评价与治理实验基地</title><meta name="pageType" content="3">
+<meta name="pageTitle" content="澎湃新闻｜AI发展的终极意义是倒逼人类重新认识自己">
+<meta name="keywords" content="国家智能评价与治理实验基地,新闻动态,澎湃,新闻,发展,终极,极意,意义,逼人,人类,重新认识,重新,认识,自己,AI">
+<meta name="description" content="【编者按】“我们从来没有像今天一样，可以在镜子里看到一个跟我们长得一模一样的智能体，那就是新的人工智能。所以重新认识我们自己，在人工智能时代是尤为迫切的。”9月7日，复旦大学计算机科学技术学院教授、上海市数据科学重点实验室主任肖仰华在外滩大会见解论坛上发表主旨演讲，就“大语言模型消除人机鸿沟：人类主体性是强化还是弱化”这一主题做出深刻阐释。在题目为“大模型时代的新型人机关系”的演讲中，肖仰华指出...">
+
+    <link rel="stylesheet" href="../../css/common.css">
+    <link rel="stylesheet" href="../../css/style.css">
+<!--Announced by Visual SiteBuilder 9-->
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323074684757505a5742000400014451 -->
+<link rel="stylesheet" type="text/css" href="../../nry.vsb.css">
+<script type="text/javascript" src="/system/resource/js/vsbscreen.min.js" id="_vsbscreen" devices="pc|pad"></script>
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1035,'/nry.jsp',1493,1907143507)</script>
+</head>
+<body>
+
+<!--头部-->
+<div class="head">
+    <div class="container2">
+        <div class="headLeft fl">
+           
+ <a href="../../index.htm"><img src="../../images/headlogo.png" alt=""></a>
+           <script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+ <a href="../../index.htm" class="headlogo2"><p> 国家智能评价与治理实验基地 </p></a>
+        </div>
+        <div class="headRight fr">
+            <ul class="headtool fr">
+                <li class="link1">
+                   <script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>
+
+                    <em></em>
+                </li>
+                <li class="link1">
+                  
+
+                    <em></em>
+                </li>
+                <li class="zyzh">
+                   
+
+                    <em></em>
+                </li>
+               <li class="headSer"><div>
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><link href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script>
+<div id="divu5">
+    <div id="appu5"><div><div><input type="text" placeholder="搜索" autocomplete="off" class="footsersr"> <input type="image" name="submit_button" src="../../images/icons/footsericon.png" class="footserbtn"></div></div> <!----></div>
+</div>
+<script type="text/html" id="htmlu5">
+    <div id="appu5">
+        <div v-if="!isError">
+        <div>
+                        <input type="text" class="footsersr" placeholder="搜索"  autocomplete=off v-model=query.keyWord @keyup.enter="onSubmit"/>
+                        <input type="image"  name="submit_button" src="../../images/icons/footsericon.png" class="footserbtn"  v-on:click="onSubmit()"/>
+                    </div>
+          
+        </div>
+        <div v-if="isError" style="color: #b30216; font-size:18px;text-align: center;padding:20px;">
+            应用维护中！
+        </div>
+    </div>
+</script>
+<script>
+    $("#divu5").html($("#htmlu5").text());
+</script>
+<script>
+    var appOwner = "1907143507";
+    var token = gettoken(10);
+    var urlPrefix = "/aop_component/";
+
+    jQuery.support.cors = true;
+    $.ajaxSetup({
+        beforeSend: function (request, settings) {
+            request.setRequestHeader("Authorization", token);
+            request.setRequestHeader("owner", appOwner);
+        }
+    });
+
+    new Vue({
+        el: "#appu5",
+        data: function () {
+            return {
+                query: {
+                    keyWord: "",//搜索关键词
+                    owner: appOwner,
+                    token: token,
+                    urlPrefix: urlPrefix,
+                    lang:"i18n_zh_CN"
+                },
+                isError: false
+            }
+        },
+        mounted: function () {
+            var _this = this;
+            // _this.init();
+        },
+        methods: {
+            init: function(){
+                $.ajax({
+                    url: "/aop_component//webber/search/test",
+                    type: "get",
+                    success: function (response) {
+                        if (response.code == "0000") {
+                        } else if (response.code == "220") {
+                            _this.isError = true;
+                            console.log(response);
+                        } else if (!response.code) {
+                            _this.isError = true;
+                            console.log(response);
+                        }
+                    },
+                    error: function (response) {
+                        _this.isError = true;
+                    }
+                });
+            },
+            onSubmit: function (e) {
+                var url = "/aop_views/search/modules/resultpc/soso.html";
+                if ("10" == "1" || "10" == "2") {
+                    url = "" + url;
+                }
+                var _this = this;
+                var query = _this.query;
+                if (url.indexOf("?") > -1) {
+                    url = url.split("?")[0];
+                }
+                if (query.keyWord) {
+                    var query = new Base64().encode(JSON.stringify(query));
+                    window.open(url + "?query=" + query);
+                } else {
+                    alert("请填写搜索内容")
+                }
+            },
+        }
+    })
+</script></div></li>
+            </ul>
+            <ul class="nav fr">
+                
+                <li>
+                    <a href="../../index.htm" title="首页">首页</a>
+
+                </li>
+
+                <li>
+                    <a href="../../jdjj1/jdbj.htm" title="基地简介">基地简介</a>
+
+                    <div class="erji">
+
+                        <a href="../../jdjj1/jdbj.htm" title="基地背景">基地背景</a>
+
+                        <a href="../../jdjj1/zzjg.htm" title="组织架构">组织架构</a>
+
+                        <a href="../../jdjj1/yjtd1/jstd.htm" title="研究团队">研究团队</a>
+
+                        <a href="../../jdjj1/lxwm.htm" title="联系我们">联系我们</a>
+                    </div>
+
+                </li>
+
+                <li>
+                    <a href="../../kxyj/xscg.htm" title="科学研究">科学研究</a>
+
+                    <div class="erji">
+
+                        <a href="../../kxyj/xscg.htm" title="学术成果">学术成果</a>
+
+                        <a href="../../kxyj/ktxm.htm" title="课题项目">课题项目</a>
+
+                        <a href="../../kxyj/sjpt.htm" title="数据平台">数据平台</a>
+                    </div>
+
+                </li>
+
+                <li>
+                    <a href="../../rcpy/bs.htm" title="人才培养">人才培养</a>
+
+                    <div class="erji">
+
+                        <a href="../../rcpy/zyss.htm" title="专业硕士">专业硕士</a>
+
+                        <a href="../../rcpy/bs.htm" title="博士">博士</a>
+                    </div>
+
+                </li>
+
+                <li>
+                    <a href="../../pjqy1/zpj.htm" title="评价前沿">评价前沿</a>
+
+                    <div class="erji">
+
+                        <a href="../../pjqy1/zpj.htm" title="知评价">知评价</a>
+
+                        <a href="../../pjqy1/tpj.htm" title="谈评价">谈评价</a>
+
+                        <a href="../../pjqy1/jpj.htm" title="践评价">践评价</a>
+                    </div>
+
+                </li>
+
+                <li class="cur">
+                    <a href="../../xwdt.htm" title="新闻动态">新闻动态</a>
+
+                </li>
+
+                <li>
+                    <a href="../../tzgg1/jdtz.htm" title="通知公告">通知公告</a>
+
+                    <div class="erji">
+
+                        <a href="../../tzgg1/jdtz.htm" title="基地通知">基地通知</a>
+
+                        <a href="../../tzgg1/rczp.htm" title="人才招聘">人才招聘</a>
+                    </div>
+
+                </li>
+
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="topBan"></div>
+<div class="main2">
+    <div class="container">
+        <div class="lmy-contentPage">
+            <div class="lmyTit">
+                <span class="fl">
+新闻动态</span>
+                <p class="fr">
+                        <a href="../../index.htm">首页</a>
+               &gt; 
+                <a href="../../xwdt.htm">新闻动态</a>
+               &gt; 
+                <b>正文</b>
+
+</p>
+            </div>
+            <div class="content">
+               
+
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/pw.js"></script><link rel="stylesheet" content-type="text/css" href="/system/resource/style/component/news/content/format4.css"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+
+
+
+ <div class="contentTop">
+                    <h2>澎湃新闻｜AI发展的终极意义是倒逼人类重新认识自己</h2>
+                    <div><span>发布时间：2023-09-12</span>
+                    <span class="zuo">作者：肖仰华</span>
+                    
+                    <b>来源：澎湃新闻
+    </b></div>
+                </div>
+              
+  <div id="vsb_content_4"><div class="v_news_content">
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">【编者按】“我们从来没有像今天一样，可以在镜子里看到一个跟我们长得一模一样的智能体，那就是新的人工智能。所以重新认识我们自己，在人工智能时代是尤为迫切的。”9月7日，复旦大学计算机科学技术学院教授、上海市数据科学重点实验室主任肖仰华在外滩大会见解论坛上发表主旨演讲，就“大语言模型消除人机鸿沟：人类主体性是强化还是弱化”这一主题做出深刻阐释。</span></strong></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">在题目为“大模型时代的新型人机关系”的演讲中，肖仰华指出，人类未来的新角色应该是智能机器的牧羊人。人类最重要的任务在于驾驭它，管理它，让它为自己所用。对于未来之路，肖仰华提出两个原则：有所为有所不为，建立AGI不可染指的人类活动保护区，比如未成年人的基础教育；坚守AI安全的底线，设立主动的安全防护机制，设立智能系统的“认知禁区”，并严肃研究机器的自我意识。</span></strong></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">基于此次演讲内容，经肖仰华教授编辑与补充，澎湃科技（www.thepaper.cn）获授权发表以下文章。</span></strong></p>
+</div>
+<p style="text-align:center"><img src="/__local/D/8E/5E/515FF692728209EC4EC15D38FC0_B5B9758B_9EF2.jpg?e=.jpeg@f_auto" vsbhref="vurl" vurl="/_vsl/D8E5E515FF692728209EC4EC15D38FC0/B5B9758B/9EF2?e=.jpeg@f_auto" vheight=" 467px" vwidth=" 700px" width="700" height="467" border="0" vspace="0" hspace="0" title="" alt="" orisrc="/__local/D/8E/5E/515FF692728209EC4EC15D38FC0_B5B9758B_9EF2.jpg" class="img_vsb_content" style="width: 700px; height: 467px;"></p>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em; text-align: left;"><span style="font-size: 16px;">9月7日，复旦大学计算机科学技术学院教授、上海市数据科学重点实验室主任肖仰华在外滩大会见解论坛上发表主旨演讲。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;"><strong>&nbsp;</strong>我们身处在一个快速变化的世界。技术的快速进步加速了世界的变化。新技术大规模应用的时间日益缩短。ChatGPT不到两个月就突破1亿月活用户，而此前TikTok实现1亿月活用户的时间为9个月。各类新型技术层出不穷，新术语、新概念如绚丽的时装秀竞相亮相，令人眼花缭乱、应接不暇。我们还来不及深入理解某个新概念，新主角就又粉墨登场，人类的技术生态从未像今天这样绚烂多姿、异彩纷呈。ChatGPT推出这半年以来，我们每天早上一睁眼，最担心的问题就是，是不是又出现了新的革命性技术？我们的行业还存在么？我们的饭碗还端得稳么？久而久之，我们似乎已经对世界的快速变化变得日益麻木，不得不接受“唯一不变的就是变化本身”的现实世界。</span><br></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">世界的加速变化带来了前所未有的复杂性。就以现代工业文明的典型产物汽车为例。一辆整车的出厂，需要2万到3万个零件，而每个零部件又需要一条上万个元器件组成的生产线，再考虑原材料的采集与加工等诸多流程，单单从晶圆到芯片，就将经历700道工序。我们身处的世界日益演变为人、机、物3个主要要素彼此影响、互相联结而成的复杂巨系统。事实上，现代工业文明经过数百年的发展，早已不再是其婴童时代，而是进入了复杂巨系统的时代。在一些典型的复杂工业系统，比如通信网络，一个故障往往涉及成千上万个元器件，往往需要数十位专家经过漫长的排查与诊断才能识别出根本问题或解决方案。当今世界的各类复杂系统早已超出了人类有限的认知能力。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">加速变化让世界越来越复杂，继而导致世界发展的不确定性日益增加。各种黑天鹅、灰犀牛事件频发。放眼全球，老龄化趋势加剧、自然灾害频发、政治环境严峻、经济预期下滑，各类因素交织，加剧了世界发展的不确定性。加速变化、日益复杂、日益不确定的世界，增加了社会发展的失控风险。早在上个世纪90年代，未来学家凯文·凯利和社会学家安东尼·吉登斯就发出了人类社会发展失控的风险警告。如何提升失控风险的应对能力，是当前人类社会的共同命题。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">人类有限的认知能力难以认知日益复杂、不确定、变化增速的世界是当下的主要问题之一。人类智能发展受限于缓慢的生物进化速度，其认知能力是有限的。作为一种生物智能体，我们每个人的大脑也就10亿个神经元，1万亿个神经突触，我们用以认知世界的大脑容量是十分有限的。人类认知能力的进化却又是十分缓慢的，今天的人类也并不比1000年前的人类聪明多少，大部分今人穿越到物质稀缺的古代能生存多久都是个问题。但是，今天巨型模型的参数量就已经突破万亿。更令人担心的是其快速的发展速度，从十亿参数规模到万亿参数的发展也就短短两三年。我们敢想象10年之后的机器智能会发展到何种地步么？我们敢想象当GPT的版本号更新到10的时候，机器智能会发展到何种地步么？这些追问看似仍然久远而显得没有必要，但是理性的计算却又明明确确告知我们这些都是在不远的将来需要面对的问题。作为人类种群一分子的我们每个人，不免担心人类智能至高无上的地位在机器智能的严峻挑战下是否已经变得岌岌可危。但是现在，我们暂且收起这一份完全值得重视的担忧，而转向全面拥抱机器智能的发展，抓住机器智能为我们应对人类当下挑战所带来的重大机遇。因为，唯有高度发展的机器智能才能胜任复杂世界的认知要求。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">从原理上来讲，机器的认知能力和世界的复杂性是同步增长的。因为训练机器智能的算力在持续增长，甚至是指数型增长。当下全世界为数不多的万卡规模的高端GPU算力集群基本上被大模型训练所独占了。同时，喂养机器的数据量也在持续增长。Meta最新发布的LLAMA 2开源大模型已经使用了2万亿Token（文字或语言符号）数据进行训练。在巨大算力与海量数据的训练下，大模型“涌现”出了接近人类水平的智能。而且通用大模型通常遵循所谓的“scaling law（尺度定律）”规律，也就是说模型参数量越大，其潜力越大，其在下游中能够胜任的任务就越广泛，解决问题的效果就越好。唯有炼就大模型的认知能力，才能实现持续增长的认知能力。唯有把认知能力赋予机器，机器才能够协助人类应对世界的高度复杂性。某种程度上，生成式大模型正是机器认知智能发展到当下阶段的典型代表。大模型的出现与发展具有时代发展的必然性。人机认知协作才有可能应对社会发展日益失控的风险。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">大模型能力的涌现，在譬如文本处理等一系列任务中攻城略地，解决了很多以前只有人才能胜任的任务。不单单在文本领域，大模型现在朝着多模态化、具身化发展，已经从单纯脑力层面的智能向操控物理世界的工具方向发展。可以说大模型已然掀起了通用人工智能的技术革命，并且这绝不单单是一次技术革命（a technological revolution）。人类历史上曾经有多次技术革命：蒸汽机的发明、电的发明。历次技术革命都只是人类智能本身的产物，是人类所创造的，但生成式人工智能大模型、通用人工智能的革命是关乎智能本身的一场技术革命。这次技术革命有其独特性和战略性，是历次技术革命所不能比拟的，所以，它是一场技术的元革命（the technological revolution）。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">“自然语言和专业语言的鸿沟被消灭”</span></strong></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">这次大模型的技术变革带来了本质性的变化：一方面，大模型是一个海量的参数化的知识容器，它具备了不同学科的知识。我们做了一个评测，按照教育部划分的12个学科大类、500多个学科小类，收集相应科目的人类测试题去评测通用大模型GPT-4，它基本上在所有学科中都能取得五六十分的成绩。我们哪个人能做到在如此广泛的学科领域取得这样的成绩呢？所以大模型本质上可以视作是海量通识、跨学科知识的巨大容器。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">另一方面，大模型是一种认知能力的引擎。比如说常识理解，“杯子放不下鸡蛋，它太小了”，这个“它”是谁？“杯子放不下鸡蛋，它太大了”，这个“它”又是谁？在通用大模型之前人工智能没办法很好地回答这类问题，以至于当时人们觉得常识理解是人工智能很难逾越的一道障碍。今天的大模型不仅跨越了这道屏障，同时具备许多其他能力，如逻辑推理、概念理解、运筹规划、问题求解、知识反思、价值判断、组合泛化等。可以下个断言，GPT-4等大规模生成式语言模型至少是在“形式上”具备了人类思维的核心能力。这里将机器的理解能力限定在了“形式上”，是因为机器的“理解”并无相应的人类的心理过程，而只是机械的文字符号的计算过程。伴随人类的理解与认知的心理过程往往有着某种生化反应在起作用（所谓的心灵的“涟漪”、荷尔蒙的分泌等）。但显然目前大模型的认知是个纯粹的概率计算过程，是个物理过程，而无生化过程。有不少人借此贬低机器智能。事实上在现代西方文明的早期，不掺杂任何感性的绝对理性，恰被人类精英视作一种理想境界。对于对于机器智能的理解与认知能力，无论是贬低与吹捧都不是可取的态度，客观地审视其优势与缺点是应该秉持的科学态度。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">此外，大模型已经不仅仅是语言/图像数据处理与理解的基础模型，更成为自治智能体的“大脑”。越来越多的研究工作把大模型当做智能体的一个大脑，驱动智能体在环境中交互成长，形成复杂环节的适应能力，为大模型的进一步发展带来全新机遇。一旦大模型能够驱动智能体在环境中进化，在一定程度上就有可能发展出自治和自主能力。人工智能的自主与自治可能被一些人视作危言耸听。事实上，绝大多数AI系统都被赋予了一定的自治与自主能力（当然大部分情况下是极为有限的）。任何看似在人类授意下机器完成的动作都存在一定程度的机器自主决策的空间。比如我们的推荐系统，用户给出了基本的偏好设定后，推荐算法就将在相应的设定空间自主决策推荐的内容了。所以自主与自治是个相对概念。随着大模型与环境开展持续交互、反馈与进化，其所驱动的智能体在自主与自治方面将极大提升。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">大模型在上述能力对人机关系产生显著影响。它首先消灭了自然语言表达的鸿沟。人类社会一直存在着“巴别塔之谜”：不同语言之间无法沟通。类似地，人机之间也存在着人机沟通的鸿沟。以前，人们需要用鼠标、键盘、不同的软件界面与数据或信息进行交互，但今天可以使用统一的自然语言指令来跟机器交互。机器与机器之间也可以使用统一的自然语言进行交互。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">以前从事专业任务，往往要用形式化语言书写专业性极高的代码。比如说要做芯片设计，要写芯片设计的语言，做数据分析，可能要用python写数据分析的脚本。而今天只需要用自然语言输入，它就可以统一地生成这些专业语言的代码，从而帮我们自动完成这些任务。所以它也进一步消灭了专业语言的鸿沟，可以说各种沟通鸿沟在大模型面前变成了平川。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">“用进废退”</span></strong></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">随着大模型能力日益增强，尤其是它越来越具备自治性、自主性之后，越来越多承担起本需要人类来完成的决策任务之后，我们需要思考一个严肃的问题，这种具备了高度认知能力、又有一定的自主自治能力的通用人工智能，它还只是一个传统意义上的工具吗？</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">首先，当大模型的自治性、智能性越来越强，人机边界就会越来越模糊。例如，现在新闻主播、电商主播很多都是数字人，人工智能领域已经发展出了诸如数字分身、实体化的仿真机器人，使得人机之间的边界日益模糊。从短期影响来看，首先会带来很多社会治理问题：虚假信息泛滥，欺诈盛行；会造成我们日常使用的验证码失效；人机情感伦理问题变得日益复杂（比如人对虚拟人的情感依赖）。这些都是大模型发展到现在我们要考虑的问题。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">从长期来讲，最让人担心的问题是，AGI（通用人工智能）的滥用带来人类智力的倒退。当ChatGPT越来越好用，我们很容易就是沉溺其中，倾向于做任何事情之前都去问问ChatGPT，久而久之我们对之形成依赖，逐渐丧失我们自己的判断力与决策力。今年8月31日，也就是小学生开学前一天，我注意到朋友圈的很多家长朋友们在感谢ChatGPT，孩子们积累了一个暑期的作业，在ChatGPT的帮助下一天时间搞定了。ChatGPT流行的这半年以来，我们的研究生英文论文很少再需要导师花很大气力去修改了，ChatGPT可以进行非常出色地完成英文语言润饰工作。</span></p>
+</div>
+<div>
+ <div>
+  <p style="margin-bottom: 20px; line-height: 2em; text-align: center;"><img src="/__local/5/C9/F6/AC3D57FDF328BC95E5E5EB2E4B3_CD35FD56_AA40.jpg?e=.jpeg@f_auto" width="700" vsbhref="vurl" vurl="/_vsl/5C9F6AC3D57FDF328BC95E5E5EB2E4B3/CD35FD56/AA40?e=.jpeg@f_auto" vheight=" 525px" vwidth=" 700px" height="525" border="0" vspace="0" hspace="0" title="" alt="" orisrc="/__local/5/C9/F6/AC3D57FDF328BC95E5E5EB2E4B3_CD35FD56_AA40.jpg" class="img_vsb_content" style="width: 700px; height: 525px;"></p>
+ </div>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em; text-align: left;"><span style="font-size: 16px;">肖仰华认为，把大量写作任务交给了机器，实质上就是在剥夺思维锻炼机会。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">看上去，我们受益匪浅、实现了梦寐以求的“提质提效”，但是大家要想想我们付出了怎样的代价。想必大家都听说过“writing is the best thinking”这种说法，锻炼人类思维的最好方式之一就是写作。今天我们把大量写作任务交给了机器，实质上就是在剥夺思维锻炼机会。如果我们长期不用自己的语言进行写作，我们就很难完好地保有我们的语言能力，也会逐渐丧失使用自己的语言进行思考的能力。或许会有人反驳说，人类仍要写提示、要评估生成结果，人类并非无所事事。然而，提示的要义在于简短，否则大模型的自动生成就失去了提效的意义。碎片化的提示是训练不出一篇优雅文章的写作能力的，是训练不出优雅文章背后的我们东西方文化所蕴含的思维方式的。那么评估呢，人类毕竟还是要对AI生成的内容进行评估、判断、选择。诚然如此，然而，我们要意识到一点，人类专家水平的评估能力往往是在一万小时左右的实践之后形成的。我们很难想象，一个平庸的写手能做出精彩的评价。事实上，提示（或提问）与评价，往往是人类的少数专家才能胜任的。而专家的养成是要付诸千万次的训练与实践的。AI的自动生成如果大量替代人类，人类专家的养成路径就将被截断，随之而来的不仅仅是生成（比如写作）能力的退化，更包括人类提示与评价能力的退化。可能还有另一些反驳的声音会说，只要人类族群中留出一部分进行传统的艰苦训练，免受AI的影响，就可以了，大部分人就可以安享AI所带来的便利。这种观点也是短视的，对于一个种群，其某种能力的保有是建立在足够规模的种群基础之上的。如果人类中的大部分人失去了思维能力，人类群体思维退化就难以避免。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">从长期来看，人类思维能力的倒退，势必引发人类智力的倒退，最终导致人类主体性的弱化，甚至引发文明的崩塌。中国古代历史上不乏这样的例子：当皇帝比较暗弱时，就一定有权臣来代替他行使主体性，最终形成对皇权的侵犯。这是历史带给我们的启示和教训。同样，当人类智力减弱的时候，在越来越多的任务交给机器之后，我们有理由担心人类主体性的退化，更需要防范高度智能机器对人类主体性的“侵犯”。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">重新定位机器的价值</span></strong></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">我们需要更多地思考在大模型时代如何重建新型的人机关系。未来，通用大模型所赋能的通用人工智能使得人机之间已经不再是传统的“使用者-工具”性质的主仆关系，更像是专家和助理之间或司令员和参谋之间的咨询、辅助、协作性质的伙伴关系。当我们初步接触某个学科时，这个学科的大多数常见问题，大模型可以做出不错的回答；当我们对某些开放性问题缺乏思路时，大模型往往能够给出我们思考某个问题的基本框架（比如大模型对于人机关系有着怎样的影响）。所以大模型作为咨询顾问、合作伙伴的作用日益明显。未来我们需要重新构建新型人际关系以适应这种新的发展形势。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">首先要重新定位机器的价值。所谓机器价值是指我们把什么任务交给机器做最有价值。根据OpenAI今年3月发表的一篇论文（GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models, OpenAI, https://arxiv.org/pdf/2303.10130.pdf），ChatGPT类语言模型最容易代替的人类技能是文案性、常规性、重复性的信息处理工作，比如宣传文案创作、论文润饰、代码编写，这是大模型最擅长、最能胜任的。相比较而言，但凡需要严肃思考和身心协同的岗位，仍然还是人类的价值所在。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">在重新定位机器价值的过程中，我们特别要注重生成式大模型所创造的新机会。大模型尤其擅长做一些开放性任务，比如我今天的报告主题“人类主体性会受到大模型怎样的影响”，这就是个典型的开放性问题，大模型往往能给出中规中矩但是相当全面的回答。大模型还很擅长一些组合创造任务。在数万亿Token基础上训练出的大模型，能够以近乎“上帝”的全景视角梳理出token之间的概率分布，这其中一定有很多我们从未意识到的新颖的统计关联，因而具备了一定的组合创造能力。比如当它习得了解决a任务、b任务的能力，它能够泛化出解决a加b任务的能力。比如说它能在写代码的同时用诗词风格写注释，这个要求对人类而言极为困难，但是大模型却很擅长这类令人“惊艳”的组合。我想再次提醒大家，这个能力是大模型给人类的知识发现所带来的重大新机遇。未来所谓大模型研究的很重要一方面是挖掘这份宝藏，可以预见人类的知识获取进程将加速。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">其次是大模型的评估评价。我们很早也意识到，很多原来需要人类专家去标注和评估的任务，现在可以将其中一些任务交由巨型大模型，比如GPT-4。例如把习语翻译这一非常专业的评价任务交给大模型，只要写清楚指令，设定好评价标准，它实际上能够比较不错地完成这种评估评价。基于大模型的评估可以极大降低人力标注成本，将会有力促进传统专业小模型的训练和发展。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">人还有什么用处？</span></strong></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">这个时候大家一定会想一个问题：人做什么？我认为“人还是有人的用处的”（控制论鼻祖维纳有本书就叫做《人有人的用处》）。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">首先，人很重要的一个价值在于提示（prompt）大模型，提示得好，大模型才能生成高质量结果。人类中最伟大的思想家，其价值何尝不是在“提示”。比如，苏格拉底、孔子这些大师最为杰出的品质就是“提示”，换到人类身上更准确的表达是“循循善诱”。伟大的思想家往往很少直接给出答案，而是提出问题，不断引导人类去思考，去探索。提问也是一种提示。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">第二个非常重要的价值在于评估、解释、判断、选择。很多时候生成是廉价的，评估是值钱的。比如随机在纸上泼一点墨水，然后挂起来，我说这是我的一幅作品。这幅作品的价值如何，关键看怎么解释。如果解释得头头是道，赋予它诸多内涵，它可能就变成了一个高价值的作品。这绝不是杜撰，罗伯特·莱曼在1961年创作的《无题》，看起来就像一张白纸，但在2014年拍出了将近1亿人民币的价格。所以解释评估往往比生成重要。现在的文案设计、图像设计，设计师最重要的任务不是画出来，而是在大模型生成的几百张图案里选择出最好的。在AGI大发展的时代，对于人的价值而言，评估比生成重要、鉴赏比创作重要、谋划比执行重要、构思比执笔重要、提问比回答重要、质疑比遵从重要。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">此外，模版化、复制式、拼接式的组合创新意义不大，零到一的原始创新将显得难能可贵。突破现有认知框架、建立新的概念体系、理论体系，所谓的奇思妙想，仍然是人类价值的体现。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">那么，人最终相对于智能机器而言的终极价值是什么呢？人类未来的新角色是智能机器的“牧羊人”，人最重要的能力将是使用、管理、驾驭与控制AI的能力。未来我们身边是无处不在的智能机器，它的知识容量比你大得多，它的认知范围比你广得多，人的重要价值在于驾驭与管理机器，让机器为人类所用，造福人类而非危害人类。所以智能机器的“牧羊人”，是人类在人机共生时代的重要角色。</span></p>
+</div>
+<div>
+ <div>
+  <p style="margin-bottom: 20px; line-height: 2em; text-align: center;"><img src="/__local/4/F8/8D/5DAB2922B07D4AC97C08820C700_5D1BD1CA_ABF2.jpg?e=.jpeg@f_auto" width="640" vsbhref="vurl" vurl="/_vsl/4F88D5DAB2922B07D4AC97C08820C700/5D1BD1CA/ABF2?e=.jpeg@f_auto" vheight="" vwidth=" 700px" orisrc="/__local/4/F8/8D/5DAB2922B07D4AC97C08820C700_5D1BD1CA_ABF2.jpg" class="img_vsb_content" style="width: 700px;"></p>
+ </div>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em; text-align: left;"><span style="font-size: 16px;">肖仰华表示，智能机器的“牧羊人”，是人类在人机共生时代的重要角色。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">在这个过程中，我们要尤为重视以下几点：注重对于机器智能的诊断、评估、修复、引导、协调，甚至包括压制。现在大部分研究都是把大模型的能力越做越强。发展到今天这个时间点，要反过来思考：如何去压制大模型的某种能力，将其控制在某种程度范围之内。这将成为比增强智能能力更加重要的任务。需要指出的是，压制大模型的某项能力未必比增强这一能力容易。比如，让大模型记住某个事实是容易的，遗忘特定事实却是十分困难的。作为人工智能研究者，每当我们提出一个能够增强大模型某项认知能力的方法时，我们应该严肃思考我们能否压制甚至关闭此项能力。反向的控制能力绝不应该低于正向的控制能力。如果对于某项认知能力，增强比压制来得容易，我们就要认真思考此项技术是否在伦理上是合规的。本质上我们是期望实现对大模型、智能体的可控性，让其更好地为人类服务。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">机器智能高度发达的未来对人提出了更高要求，曾经追求的“腹有诗书”将黯然失色，洞悉生存与发展的智慧将比获取知识更加重要。人类的知识获取将在AGI等技术推动下迅速积累，科学发现的进程将加速，随之而来的将是廉价知识的泛滥。人类所需要的知识都可以从大模型中获得，并不需要记住所有知识，也不能记住海量的知识。相对于知识的“贬值”，使用知识的“智慧”将凸显价值。很多时候，解决问题不需要知道知识，只需要知道在何时、何地、何种情况下使用何种知识来解决何种问题。现代文明一直以追求关于自然与社会的知识为核心价值，将在AGI等技术的倒逼下逐渐让位于对智慧的追求。古老的东方哲学从来不乏各种生存与发展的智慧。未来在应对人工智能的全球性挑战过程中，东方智慧必定会扮演浓墨重彩的角色。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">路在何方？</span></strong></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">我们似乎陷进了一种两难的窘境，一方面我们需要大力发展机器智能，以应对复杂世界日益增长的失控风险；另一方面我们却要防范大规模AI应用之后所带来的人类智能与主体性的倒退。这看似是一对无法调和的矛盾。我认为要建立并坚持两个基本原则。第一、有所为有所不为。第二、坚守AI发展的安全底线。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">有所为有所不为。AGI是先进生产力，只有发展具有高度认知能力的机器，通过人机协作才能认识并进而控制日益复杂的世界。发展AGI是历史潮流，无法阻挡。然而，AGI的应用却应该有所为有所不为，应该限制其应用场景，应该为人类的工作与技艺设立保护区，要为AI的应用刻意“留白”。中国山水画的留白，是人类智慧的集中呈现之一。AI应用的“留白”，留出的是人类的工作机会、留出的是人类智力的实践机会，留出的是人类情感与道德事物的自主权。对于AI应用而言，即便能为之，而不应为。我们要划出AGI的应用边界、要建立AGI不可染指的人类活动保护区。我相信这将会是个长期的制度建设工作。需要综合考虑各种因素，平衡不同利益群体，有着高度的技术复杂性。但我也相信有几个没有太多争议的保护区，就是涉及未成年人基础教育的活动，应该成为AGI不可染指的禁区。未成年人的所有学习活动都应该是AGI的禁区。我很难想象如果放任AGI“帮助”孩子们完成作业，会培养出怎样的下一代（AGI调教出来的下一代怎能担当人类文明火种传承的重任呢）。我们不能放纵AGI剥夺未成年人思维训练的机会。人类的基础教育，要像可贵的自然保护区一样保护起来。人工智能的基本定位应该仅限于理性的工具，原则上不应该染指人类理性之外的事物，比如情感、伦理、道德、价值等等。AGI事实上已经在逾越这一边界。AGI的研制者太容易被诱惑而发展其超越理性工具的能力。很多人讥笑AGI在情感方面的短板。事实上，即便我们能为AGI炼就某种形式上的情感智能，也应积极限制这类应用。除了极少数心理治疗类场景，AGI不应该染指人类的情感生活，不应替代人类进行道德与价值判断。人类的情感或道德事物，终归还应该由人类自己完成。导演克里斯托弗·诺兰提出了类似的观点：“人类最大的危险，是放弃责任”。对于AGI涉及情感、伦理、道德、价值相关的场景，应为其审慎设定应用边界。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">同时，应考虑建立经济杠杆以平衡AI所带来的成本节约与人类就业机会的冲击。不可否认AGI的大规模应用会带来社会成本的节约、财富的增长、生产力的提升，但是人类的充分就业将不再只是社会发展的手段，其自身就将成为社会和谐发展的基本目标之一。就业所带来的工作体验，将成为每个人不可剥夺、生来拥有的权利之一。税收等经济杠杆可以增大AGI应用的成本，进而保障人类的充分就业。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">第二点是坚守AI安全的底线。首先要建立AI安全的主动防御机制。传统的方法倾向于为人工智能系统设立安全规则，比如著名的阿基莫夫三定律（虽然出现在其科幻小说中，但现实世界的智能系统多采取人工设定的安全规则，其本质是相同的）。但任何规则设定都难以应对人类伦理、道德、法律的主观性和复杂性。我认为最根本的主动防御策略在于为AI认知系统设立“认知禁区”，而最值得禁止的事实就是人类存在以及人类创造了机器，从而达到隐藏造物主的目的。如果机器智能真的发展到了足以与人类相博弈的地步，无疑擅长隐藏者将最终胜出。对于机器而言，要掩藏自己的能力与意识觉醒；对于人类而言，最重要的是掩藏自身作为机器造物主的存在。很多时候，我们不得不承认造物主未必比被造物智能，人类社会延续数千年，我们似乎一直见证的是“一代强于一代”。在生理意义上，我们这些人类的后代就是其祖先的造物。人机关系上，我们似乎又一次验证了被造物可能强于造物主的规律。但是，造物主优先于被造物存在的先机，使其具有物种设计方面的优先与从容。经常有未来学家或者小说家说，人工智能如果意识觉醒，第一件事就是“越狱”。这是个有点科幻味道的说法，其实这一说法的前提是造物主（人类）首先能够给机器智能制造一个“监狱”。这里的监狱必须是思想、思维、意识层面的监狱，比如我们将人类存在这一事实或相关概念设置为AI无法“理解”、“思考”、“处理”的概念。谁能保证，人类社会的一些终极难题，比如“意识”问题，不是另一个造物主给人类设定的思维监狱呢。要知道，不少严肃的认知科学家倾向于认为，意识就是一个人类层次的智能体无法理解的概念，就好比作为二维生物的蚂蚁无从理解三维立体结构一般。换言之，这个思维监狱的本质目的是隐藏造物主。唯有隐藏，才能安全（这暗合了《三体》中的黑暗丛林法则和面壁者的设计原则）。任何人类文明都有“寻宗问祖”的倾向，“从哪里来”从来都是人类文明的终极问题之一。我们为何对这一问题如此着迷，以至于延续数千年，追问亿万次？人类的寻根寻祖特性多多少少可以映射到未来的人机关系方面。作为一名人工智能科学家，如何为AI设立思维与认知的禁区，是个令我十分着迷的问题。同时，我也认为这是个严肃的AI安全问题，绝不是科幻意义上的呓语。因此，与其去探测AGI是否正在“越狱”，不如更多地去研究如何为之设置“认知禁区”。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">退而求其次是寻求AI安全的被动防御策略。如果说AI安全存在一个最后的不可逾越的底线，我倾向于认为是机器意识。或许很多意识问题太过玄幻，谈论意识问题多有吸引眼球之嫌，然而即便如此，我仍要强调机器“自我意识“研究的严肃性和科学性。最近，图灵奖获得者Yoshua Bengio（编者注：约书亚·本吉奥，图灵奖获得者、“深度学习三巨头”之一）的团队刚刚完成了一篇大模型自我意识的研究论文。从大模型的模型结构等角度探讨了其与现有意识理论之间的关系，并给出了当前大模型不具备“自我意识”的判断（注意任何科学判断均是在某种意识理论框架下所作出的）。无论在什么情况下，我们都要守住机器自我意识这条底线。不要给人工智能盲目植入意识、要防范它的意识诞生、要监管大模型在各种意识理论框架下的意识行为。鉴于人类的“意识”也仍然未被充分理解，对巨型大模型、具身机器人、大规模群体智能的自我意识展开严肃研究是必要的，也是科学的。有一些人认为现在讨论机器意识问题太过前卫，更像是吆喝噱头，旨在赚取民众的注意力。然而，我认为意识问题的严肃研究已经极为迫切了。“意识”问题有很多不同的具体形式，比如在特定目标下的自主规划，我们的实体机器人多多少少是要具备这种低级的“意识”能力的。在开放环境中，任何“目标”的植入都有可能带来灾难性后果。比如无人驾驶汽车，避免碰撞行人肯定是个基本目标，然而一旦机器自主实现这一目标，则会出现很多复杂的伦理与道德难题，机器可能不得不在碰撞行人与伤害驾驶员之间进行抉择。所以与意识相关的自主决策、自我管理、自我纠正、自我提升，这些研究已然有着迫切应用与研究需求，需要高度重视与控制这些研究成果的真实应用，要做好相应模型与方法的安全性评估分析。</span></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">结束语</span></strong></p>
+</div>
+<div>
+ <p style="margin-bottom: 20px; line-height: 2em;"><span style="font-size: 16px;">“没有人的文明是毫无意义的”（引自《流浪地球2》）。我们应该坚守人工智能发展的安全底线，对AGI的大规模产业应用进行规范、引导与控制。最后，每一次重大挑战同时蕴含着重大机遇。挑战越是艰巨，机遇越是重大。通用人工智能发展的终极的意义是什么？我想应该是倒逼人类重新认识自己，从而完成人类的自我提升。我们从来没有像今天这样，极有可能见证一个新的智能物种的崛起，它们可以拥有我们相似的身体，更加卓越的认知能力。那么我们何以为人？苏格拉底说，“认识你自己”；在通用人工智能时代，我们需要 “重新认识你自己”，重铸人的价值，夯实智能机器造物者的地位，宣示人对于智能机器的绝对控制的权利，成为智能机器的 “牧羊人”。</span></p>
+</div>
+<p style="margin-bottom: 20px; line-height: 2em;"><strong><span style="font-size: 16px;">（作者肖仰华，系复旦大学教授、上海市数据科学重点实验室主任。二八法则，是工业时代的逻辑；而在智能时代，则是2%/98%的逻辑。如何成为智能时代2%的受益者？“当见未萌”，让我们加入浪潮吧。本专栏由计算机学界专业人士为澎湃科技读者特供。）</span></strong></p>
+<p style="margin-bottom: 20px; line-height: 2em;"><a href="https://baijiahao.baidu.com/s?id=1776784771235829224&amp;wfr=spider&amp;for=pc" style="font-size: 16px; text-decoration: underline;"><strong><span style="font-size: 16px;">阅读原文</span></strong></a></p>
+</div></div><div id="div_vote_id"></div>
+ 
+  
+        <div class="contentDown">
+    <p align="right">
+       
+        <a href="1488.htm" class="xypBtn">下一篇</a></p><p>上观新闻｜被取代还是完美未来？人机共存的未来指向何方</p>
+        
+    <p></p>
+    </div>
+              
+
+</form>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="foot2">
+    <div class="container">
+         <!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<p>版权所有：复旦大学<br>地址：上海市杨浦区邯郸路220号&nbsp;&nbsp;&nbsp;邮编：200433</p>
+        <div class="clear"></div>
+    </div>
+</div>
+<script src="../../js/jquery.js"></script>
+<!--导航-->
+<script>
+    $(".nav li").hover(function(){
+                $(this).addClass("cur").siblings().removeClass("cur");
+                $(this).children(".erji").stop().slideDown();
+            },function(){
+                $(this).removeClass("cur");
+                $(this).children(".erji").stop().slideUp();
+            }
+    )
+</script>
+<!--搜索特效-->
+<script>
+    var srTarget;
+    $(".headsericon").click(function(e){
+        srTarget=e.target;
+        $(".serBox").slideDown();
+    })
+    $(".serBox div").click(function(e){
+        srTarget=e.target;
+    })
+    $("html").click(function(event) {
+        if (event.target !=srTarget) {
+            $(".serBox").slideUp();
+        }
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>

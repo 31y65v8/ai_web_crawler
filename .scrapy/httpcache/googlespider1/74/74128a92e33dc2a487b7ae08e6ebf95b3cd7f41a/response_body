@@ -1,0 +1,410 @@
+<!DOCTYPE html><html data-log-pv="{&quot;mpc&quot;:30}"><head>
+        <title>必知！4张图看尽AI发展史重大里程碑_人工智能</title>
+        <meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved.">
+<meta name="mediaid" content="大数据mp媒体号">
+<meta property="og:type" content="news">
+<meta property="og:image" content="//5b0988e595225.cdn.sohucs.com/images/20191004/f629ce41300748b78587fab8259e1aeb.jpeg">
+<meta property="og:url" content="www.sohu.com/a/345024508_464033">
+<meta property="og:release_date" content="2019-10-04 21:15">
+<meta itemprop="dateUpdate" content="2019-10-04 21:15">
+<meta itemprop="datePublished" content="2019-10-04 21:15">
+<link rel="canonical" href="https://www.sohu.com/a/345024508_464033">
+<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/345024508_464033">
+
+<meta name="keywords" content="发展史,张图,人工智能,深度,ImageNet,问题,AutoML,计算机,能力,人类,人工智能,神经,深度,机器学习,AutoDL">
+<meta name="description" content="早期的人工智能大多是通过固定指令来执行特定的问题，并不具备真正的学习和思考能力，问题一旦变复杂，人工智能程序就不堪重负，变得不智能了。 同年，由于人工神经网络的不断发展，“深度学习”的概念被提出，之后，深…">
+<meta property="og:description" content="早期的人工智能大多是通过固定指令来执行特定的问题，并不具备真正的学习和思考能力，问题一旦变复杂，人工智能程序就不堪重负，变得不智能了。 同年，由于人工神经网络的不断发展，“深度学习”的概念被提出，之后，深…">
+<meta property="og:title" content="必知！4张图看尽AI发展史重大里程碑_人工智能">
+        <meta charset="utf-8"><meta name="data-spm" content="smpc"><meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="dns-prefetch" href="//statics.itc.cn"><link rel="dns-prefetch" href="//g1.itc.cn"><link rel="dns-prefetch" href="//js.sohu.com"><link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png"><link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png"><link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png"><link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png"><link rel="preload" href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" as="style"><link href="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/css/main_article-52447d.css" rel="stylesheet">    <script type="text/javascript" async="" src="https://pos.baidu.com/auto_dup?di=0&amp;uuid=15d05f8d9e96e941&amp;dri=0&amp;dis=0&amp;dai=0&amp;ps=0x0&amp;enu=encoding&amp;exps=110011&amp;ant=0&amp;psi=537ce5dfb211cf27&amp;dcb=___baidu_union_callback&amp;dtm=AUTO_JSONP&amp;dvi=0.0&amp;dci=-1&amp;dpt=none&amp;tpr=1731560406539&amp;ti=%E5%BF%85%E7%9F%A5%EF%BC%814%E5%BC%A0%E5%9B%BE%E7%9C%8B%E5%B0%BDAI%E5%8F%91%E5%B1%95%E5%8F%B2%E9%87%8D%E5%A4%A7%E9%87%8C%E7%A8%8B%E7%A2%91_%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;ari=2&amp;ver=1107&amp;kws=%E5%8F%91%E5%B1%95%E5%8F%B2%2C%E5%BC%A0%E5%9B%BE%2C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%2C%E6%B7%B1%E5%BA%A6%2CImageNet%2C%E9%97%AE%E9%A2%98%2CAut&amp;dps=%E6%97%A9%E6%9C%9F%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E5%A4%9A%E6%98%AF%E9%80%9A%E8%BF%87%E5%9B%BA%E5%AE%9A%E6%8C%87%E4%BB%A4%E6%9D%A5%E6%89%A7%E8%A1%8C%E7%89%B9%E5%AE%9A%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%B9%B6%E4%B8%8D%E5%85%B7%E5%A4%87%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%EF%BC%8C%E9%97%AE%E9%A2%98%E4%B8%80%E6%97%A6%E5%8F%98%E5%A4%8D%E6%9D%82%EF%BC%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A8%8B%E5%BA%8F%E5%B0%B1%E4%B8%8D%E5%A0%AA%E9%87%8D%E8%B4%9F%EF%BC%8C&amp;dbv=0&amp;drs=3&amp;pcs=1024x768&amp;pss=1180x6540&amp;cfv=0&amp;cpl=1&amp;chi=1&amp;cce=true&amp;cec=UTF-8&amp;tlm=1731560406&amp;prot=2&amp;rw=768&amp;ltu=https%3A%2F%2Fwww.sohu.com%2Fa%2F345024508_464033&amp;ltr=https%3A%2F%2Fwww.sohu.com%2Fa%2F345024508_464033&amp;ecd=1&amp;dft=0&amp;uc=1024x768&amp;pis=-1x-1&amp;sr=1024x768&amp;tcn=1731560407&amp;dc=4&amp;aa=1"></script><script src="https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42" id="ttzz"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="//pv.sohu.com/suv/?t?=1731560406484128_1024_768?r?=https%3A%2F%2Fwww.sohu.com%2Fa%2F345024508_464033?url?=https%3A%2F%2Fwww.sohu.com%2Fa%2F345024508_464033?SUV?=?mpc?=30"></script></head>
+            <body class="article-page" data-region="154" data-spm="content" data-newsid="345024508">
+        <div class="wrapper-box">
+            <header id="main-header" class="error-head">
+	<div class="head-container">
+		<div class="head-nav" data-spm="nav">
+			<ul>
+			    <li class="index">
+					<a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com">
+						<span class="sohu-logo"></span>
+					</a>
+				</li>
+														<li class="nav-item"><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
+																			<li class="nav-item"><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
+																																																																																																																									<li class="nav-item more-nav">
+					<div class="more-tag" href="javascript:void(0)">
+						<span>更多</span>
+						<div class="cor"></div>
+					</div>
+					<more-nav id="moreNav"></more-nav>
+				</li>
+				
+			</ul>
+		</div>
+		<head-right id="headRight"></head-right>
+	</div>
+</header>            <div class="location-without-nav"></div>
+            <div class="area clearfix" id="article-container">
+                <div class="column left">
+	                    <div class="user-info" id="user-info" data-spm="author">
+            <div class="user-pic">
+            <!-- fromWhere为10是马甲号作者不可点击进入个人页面 -->
+                            <a href="https://mp.sohu.com/profile?xpt=aHpkYXNodWp1QHNvaHUuY29t" target="_blank">
+                    <img data-src="http://img.mp.itc.cn/upload/20160727/999505a3e2d7403bb7195fd591b35e1d_th.jpg" alt="">
+                </a>
+                    </div>
+        <h4>
+                    <a href="https://mp.sohu.com/profile?xpt=aHpkYXNodWp1QHNvaHUuY29t" target="_blank">大数据mp媒体号</a>
+                    </h4>
+    <!-- 积分 -->
+        <dl class="user-num">
+        <dd><span class="value" data-value="0" data-role="info-article-num"><em class="num"></em></span>文章</dd>
+        <dd><span class="value" data-value="" data-role="info-read-num"><em class="num"></em></span>总阅读</dd>
+    </dl>
+
+    <!-- 企业认证 -->
+            <ul class="company">
+                    </ul>
+    
+    <!-- 非马甲号作者 -->
+            <div class="user-more">
+            <a href="https://mp.sohu.com/profile?xpt=aHpkYXNodWp1QHNvaHUuY29t" target="_blank">查看TA的文章&gt;</a>
+        </div>
+    </div>        		<div class="article-do" id="article-do" data-spm="share">
+		<div class="article-done">
+    <div class="title">评论</div>
+    <dl>
+        <dd class="comment-do" id="leftComment">
+            <a href="javascript:void(0)" data-spm-acode="8089">
+                <em class="comment-icon icon"></em>
+                <span class="num" data-role="comment-count"></span>
+            </a>
+        </dd>
+    </dl>
+</div>
+		<div id="share">
+			<share>
+		</share></div>
+	</div>
+</div>
+                <div class="left main">
+                    <div data-spm="content">
+                        <div class="text">
+                            
+<div class="text-title">
+    <h1>
+                    必知！4张图看尽AI发展史重大里程碑                <span class="article-tag">
+                 </span>
+    </h1>
+            <div class="article-info">
+        <span class="time" id="news-time" data-val="1570194900000">
+                        2019-10-04 21:15        </span>
+                                    </div>
+</div>
+
+<article class="article" id="mp-editor">
+    <!-- 政务处理 -->
+                      <p><strong><span>导读：</span></strong><span>本文主要是人工智能的基本概述，包括人工智能的起源和发展，以及基于机器学习和深度学习的下一代人工智能。</span></p> 
+<p><span style="font-size: 16px;">4张配图（图1至图4）是本文重点，是了解人工智能必备的基础知识。</span></p> 
+<p><span style="font-size: 16px;">作者：王健宗 瞿晓阳</span></p> 
+<p><span style="font-size: 16px;">来源：大数据DT（ID：bigdatadt）</span></p> 
+<p style="text-align: center;"><img data-src="15Dad0hum5pjRPFotVZzc5xUR/ar/PIFoxOLOXCFEmwV7VkBYM2SgEf9saMCiC9zpnw7OaXXpjdnQ8cXgvGHt5EyS+4X+vk2qWNatQp7bs/vCAL8P/VktfMdGcOV90/6"></p> 
+<p style="text-align: justify;"><strong><span style="font-size: 16px;">01 人工智能发展历程</span></strong></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">图1是人工智能发展情况概览。人工智能的发展经历了很长时间的历史积淀，<strong><span>早在1950年，阿兰·图灵就提出了图灵测试机</span></strong>，大意是将人和机器放在一个小黑屋里与屋外的人对话，如果屋外的人分不清对话者是人类还是机器，那么这台机器就拥有像人一样的智能。</span></p> 
+<p style="text-align: center;"><img data-src="15Dad0hum5pjRPFotVZzc5xUR/ar/PIFoxOLOXCFEmwV7VkBYM2SgEf9saMCiC9zwNg5C/29AV4qxdTw3b1E3tFLUWGMV7mlyHz1DQ+oXlam4PHCe7a9cap9s0jYrK0l"></p> 
+<p style="text-align: center;"><span style="font-size: 16px;">▲图1 人工智能起源及发展</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">随后，在1956年的达特茅斯会议上，“人工智能”的概念被首次提出。在之后的十余年内，人工智能迎来了发展史上的第一个小高峰，研究者们疯狂涌入，取得了一批瞩目的成就，比如</span><span style="font-size: 16px;"><strong><span>1959年，第一台工业机器人诞生；1964年，首台聊天机器人也诞生了。</span></strong></span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">但是，由于当时计算能力的严重不足，在20世纪70年代，人工智能迎来了第一个寒冬。早期的人工智能大多是通过固定指令来执行特定的问题，并不具备真正的学习和思考能力，问题一旦变复杂，人工智能程序就不堪重负，变得不智能了。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">虽然有人趁机否定人工智能的发展和价值，但是研究学者们并没有因此停下前进的脚步，终于在</span><span style="font-size: 16px;"><strong><span>1980年，卡内基梅隆大学设计出了第一套专家系统——XCON。</span></strong></span><span style="font-size: 16px;">该专家系统具有一套强大的知识库和推理能力，可以模拟人类专家来解决特定领域问题。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">从这时起，机器学习开始兴起，各种专家系统开始被人们广泛应用。不幸的是，随着专家系统的应用领域越来越广，问题也逐渐暴露出来。专家系统应用有限，且经常在常识性问题上出错，因此人工智能迎来了第二个寒冬。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;"><strong><span>1997年，IBM公司的“深蓝”计算机战胜了国际象棋世界冠军卡斯帕罗夫，成为人工智能史上的一个重要里程碑。</span></strong></span><span style="font-size: 16px;">之后，人工智能开始了平稳向上的发展。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;"><strong><span>2006年，李飞飞教授意识到了专家学者在研究算法的过程中忽视了“数据”的重要性，于是开始带头构建大型图像数据集—ImageNet，图像识别大赛由此拉开帷幕。</span></strong></span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">同年，由于人工神经网络的不断发展，“深度学习”的概念被提出，之后，深度神经网络和卷积神经网络开始不断映入人们的眼帘。深度学习的发展又一次掀起人工智能的研究狂潮，这一次狂潮至今仍在持续。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">图2列出了人工智能发展史上的一些重要事件。从诞生以来，机器学习经历了长足发展，现在已经被应用于极为广泛的领域，包括数据挖掘、计算机视觉、自然语言处理、生物特征识别、搜索引擎、医学诊断、检测信用卡欺诈、证券市场分析、DNA序列测序、语音和手写识别、战略游戏、艺术创作和机器人等，以及我们特别关注的机器学习和深度学习未来发展的一大趋势——自动化机器学习和深度学习（AutoML及AutoDL）。</span></p> 
+<p style="text-align: center;"><img data-src="15Dad0hum5pjRPFotVZzc5xUR/ar/PIFoxOLOXCFEmwV7VkBYM2SgEf9saMCiC9z1AduUcYMNfX6oKW+r1C++uIyKJWS01pzIHDju3iXd66VnGwpBx1WAL3/1U2nlpmw"></p> 
+<p style="text-align: center;"><span style="font-size: 16px;">▲图2 人工智能发展重大事件</span></p> 
+<p style="text-align: justify;"><strong><span style="font-size: 16px;">02 下一代人工智能</span></strong></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">我们首先通过图3来回顾一下人工智能的发展历程。</span></p> 
+<p style="text-align: center;"><img data-src="15Dad0hum5pjRPFotVZzc5xUR/ar/PIFoxOLOXCFEmwV7VkBYM2SgEf9saMCiC9zTtY9RjSVYg5WWBJl5Jlj7KgQ2UxLFURIk6AlsoM5LC3zIJWjj8zmOTUSDeZ6zXlK"></p> 
+<p style="text-align: center;"><span style="font-size: 16px;">▲图3 人工智能发展历程</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">到目前为止，人工智能按照总体向上的发展历程，可以</span><span style="font-size: 16px;"><strong><span>大致分为4个发展阶段</span></strong></span><span style="font-size: 16px;">，分别为</span><span style="font-size: 16px;"><strong><span>精耕细作的诞生期</span></strong></span><span style="font-size: 16px;">、</span><span style="font-size: 16px;"><strong><span>急功近利的产业期</span></strong></span><span style="font-size: 16px;">、</span><span style="font-size: 16px;"><strong><span>集腋成裘的爆发期</span></strong></span><span style="font-size: 16px;">，以及现在逐渐</span><span style="font-size: 16px;"><strong><span>用AutoML来自动产生神经网络的未来发展期</span></strong></span><span style="font-size: 16px;">。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">早期由于受到计算机算力的限制，机器学习处于慢速发展阶段，人们更注重于将逻辑推理能力和人类总结的知识赋予计算机。但随着计算机硬件的发展，尤其是GPU在机器学习中的应用，计算机可以从海量的数据中学习各种数据特征，从而很好地完成人类分配给它的各种基本任务。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">此时，深度学习开始在语音、图像等领域大获成功，各种深度学习网络层出不穷，完成相关任务的准确率也不断提升。同时，</span><span style="font-size: 16px;"><strong><span>深度学习神经网络朝着深度更深、结构更加巧妙复杂的方向推进，GPU的研发与应用也随着神经网络对算力要求的不断提高而持续快速向前推进。</span></strong></span><span style="font-size: 16px;">图4展示了近年来主要神经网络的发展。</span></p> 
+<p style="text-align: center;"><img data-src="15Dad0hum5pjRPFotVZzc5xUR/ar/PIFoxOLOXCFEmwV7VkBYM2SgEf9saMCiC9ziyqfoAQqtKOfSGH2iYm5JmeoXDvJyUNnPJPAP3tbtv+TmgvSl4YDTL4RNSuFMrHz"></p> 
+<p style="text-align: center;"><span style="font-size: 16px;">▲图4 主要深度神经网络的发展</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">2012年，AlexNet为了充分利用多个GPU的算力，创新性地将深度神经网络设计成两部分，使网络可以在两个GPU上进行训练。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">2013年，ZFNet又进一步解决了Feature Map可视化的问题，将深度神经网络的理解推进了一大步。2014年，VGGNet通过进一步增加网络的深度而获得了更高的准确率；同年，GoogLeNet的发明引入了重复模块Inception Model，使得准确率进一步提升。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">而2015年ResNet将重复模块的思想更深层次地发展，从而获得了超越人类水平的分辨能力。这时，由于深度神经网络层数的不断加深，需要训练的参数过于庞大，为了在不牺牲精度的同时减少需要训练的参数个数，2017年DenceNet应运而生。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">随着深度神经网络的不断发展，各种模型和新颖模块的不断发明利用，人们逐渐意识到开发一种新的神经网络结构越来越费时费力，为什么不让机器自己在不断的学习过程中创造出新的神经网络呢？</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">出于这个构思，</span><span style="font-size: 16px;"><strong><span>2017年Google推出了AutoML</span></strong></span><span style="font-size: 16px;">——一个能自主设计深度神经网络的AI网络，紧接着在2018年1月发布第一个产品，并将它作为云服务开放出来，称为Cloud AutoML。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">自此，人工智能又有了更进一步的发展，人们开始探索如何利用已有的机器学习知识和神经网络框架来让人工智能自主搭建适合业务场景的网络，人工智能的另一扇大门被打开。</span></p> 
+<p><span style="font-size: 16px;">关于作者：王健宗，大型金融集团科技公司深度学习平台和AutoML平台负责人，中国人工智能开源软件发展联盟副理事长，美国佛罗里达大学人工智能博士后，发表联邦学习、深度学习、云计算和大数据等领域国际论文30余篇，以及发明专利200余项。</span></p> 
+<p><span style="font-size: 16px;">瞿晓阳 ，华中科技大学计算机系统结构博士，美国中佛罗里达大学访问学者，大型金融集团科技公司资深算法工程师，一直从事机器学习、大数据、体系结构方面的研究工作，在AutoML平台、面向AI的云原生架构、高性能计算、高效能存储系统等方面经验丰富。</span></p> 
+<p><span style="font-size: 16px;">本文摘编自</span><span style="font-size: 16px;">《</span><span style="font-size: 16px;">深入理解AutoML和AutoDL：构建自动化机器学习与深度学习平台</span><span style="font-size: 16px;">》</span><span style="font-size: 16px;">，经出版方授权发布。</span><span style="font-size: 16px;"></span></p> 
+<p style="text-align: center;"><span style="font-size: 16px;">延伸阅读《</span><span style="font-size: 16px;">深入理解AutoML和AutoDL</span><span style="font-size: 16px;">》</span></p> 
+<p style="text-align: center;"><span style="font-size: 16px;">点击上图了解及购买</span></p> 
+<p style="text-align: center;"><span style="font-size: 16px;">转载请联系微信：DoctorData</span><span></span></p> 
+<p><span><strong><span style="font-size: 16px;">推荐语：</span></strong><span style="font-size: 16px;">这是一部从基础理论、核心原理、前沿算法等多个维度系统、全面讲解AutoML、AutoDL、AutoNAS和元学习的著作。作者是资深的人工智能专家，大型金融集团科技公司深度学习平台和AutoML平台负责人。本书得到了腾讯、阿里、字节跳动、微众银行、浙江大学、新智元等企业界、学术界、媒体界的8位资深专家联袂推荐。</span></span></p> 
+<p style="text-align: justify;"><strong><span style="font-size: 16px;">「大数据」内容合伙人之「鉴书小分队」上线啦！</span></strong></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">最近，你都在读什么书？有哪些心得体会想要跟大家分享？</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">数据叔最近搞了个大事——联合优质图书出版商机械工业出版社华章公司发起鉴书活动。</span></p> 
+<p style="text-align: justify;"><span style="font-size: 16px;">简单说就是：</span><strong><span style="font-size: 16px;">你可以免费读新书，你可以免费读新书的同时，顺手码一篇读书笔记就行。</span></strong><span style="font-size: 16px;">详情请在大数据公众号后台对话框回复<strong><span style="font-size: 16px;">合伙人</span></strong>查看。</span></p> 
+<p><strong><span style="font-size: 16px;">Q:</span></strong><span></span><span><strong><span style="font-size: 16px;">你对下一代AI有哪些期待？</span></strong></span></p> 
+<p><span style="font-size: 16px;">转载 / 投稿请联系：baiyu@hzbook.com</span></p> 
+<p><span style="font-size: 16px;">点击<span>阅读原文</span>，了解更多</span><a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>          <!-- 政务账号添加来源标示处理 -->
+      <!-- 政务账号添加来源标示处理 -->
+      <p data-role="editor-name">责任编辑：<span></span></p>
+</article>
+<div id="articleTransfer"><transfer></transfer></div>
+<!-- 评论禁言通知 -->
+<div id="bannedNotice"><banned-notice></banned-notice></div>
+  <div class="statement">平台声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>    <div class="bottom-relate-wrap clear type-3">
+            <div id="article-like" data-like-type="type-3">
+            <article-like>
+        </article-like></div>
+        <div class="read-wrap">
+        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
+    </div>
+    <div id="articleReport">
+        <report>
+    </report></div>
+</div>
+
+                            <div id="sohu-play-content"></div>
+                        </div>
+                    </div>
+                    <div data-spm="middle-banner-ad">
+                                            </div>
+                                            <div id="articleAllsee" style="height:629px"><all-see-list></all-see-list></div>
+                                        <div class="_0u4o3bh76zbp"></div>
+                    <div class="god-article-bottom" id="god_bottom_banner" data-spm="ad-text-bottom" style="display:block">
+</div>
+<div class="user-god clear" id="user-post" style="display:none">
+
+</div>                    <!-- 评论 -->
+                    <div id="meComment" style="min-height: 100px;">
+                        <me-comment>
+                    </me-comment></div>
+                    <div id="commentList">
+                        <comment-list></comment-list>
+                    </div>
+                    <div id="discuss"></div>
+                    <!-- 推荐阅读 -->
+                                        <div style="min-height:1500px" id="groomRead">
+                        <groom-read>
+                    </groom-read></div>
+                                    </div>
+                <!-- 右侧边栏 -->
+                <div class="sidebar right" id="right-side-bar" data-a="${isBaiDuAd}">
+                    <right-side-bar>
+                </right-side-bar></div>
+             </div>
+            <div id="float-btn"> <float-btn> </float-btn></div>
+            <div class="left-bottom-float-fullScreenSleepContainer" style="display:none;">
+    <div class="left-bottom-float-fullScreenSleep" style="display:none;" data-spm="ad-fullScreenSleep">
+        <div class="close-tag"></div>
+    </div>
+</div>
+<div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
+</div>        </div>
+        <script type="text/javascript">
+                        window.deployEnv = "prod"
+                    </script>
+        <script src="//js.sohu.com/pv.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/vendors-8717d0.js"></script><script src="https://g1.itc.cn/msfe-pcarti-prod/300000000000/assets/js/main_article-068610.js"></script>        <script>
+try{
+        window.sohu_mp.article({
+        channel_id: "30",
+        news_id: "345024508",
+        cms_id: "$mpNews.cmsId",
+        media_id: "464033",
+        passport: "hzdashuju@sohu.com",
+        weboUrl: "https://mp.sohu.com/profile?xpt=aHpkYXNodWp1QHNvaHUuY29t",
+        title: "必知！4张图看尽AI发展史重大里程碑",
+        channel_url:"//it.sohu.com",
+        integralLevel: "0",
+        categoryId:"880",
+        //abData_fd用于abtest
+        abData:"",
+        // abData_discuss:"4", // 讨论
+        abData_discuss:"", // 讨论
+        abData_fd:"",
+        abData_tw:"",
+        originalId:"0",
+        originalStatus:"0",
+        isBaiDuAd: "",
+        isPure: "${pure}",
+        reprint: false,
+        reprintSign: "",
+        secureScore: '100',
+        sGrade: '0',
+        editor:'',
+        hideAd:'',
+        keywords: "[发展史, 张图, 人工智能, 深度, ImageNet, 问题, AutoML, 计算机, 能力, 人类, 人工智能, 神经, 深度, 机器学习, AutoDL]",
+        mpNewsExt:{
+            "modelId":""
+        },
+        imgsList: [
+                                             {
+                    "url" : "http://5b0988e595225.cdn.sohucs.com/images/20191004/a97a7b151af84c36885aa7d6ed1eed0a.jpeg",
+                    "width" : "657",
+                    "height" : "500",
+                }
+                                                , {
+                    "url" : "http://5b0988e595225.cdn.sohucs.com/images/20191004/f629ce41300748b78587fab8259e1aeb.jpeg",
+                    "width" : "865",
+                    "height" : "485",
+                }
+                                                , {
+                    "url" : "http://5b0988e595225.cdn.sohucs.com/images/20191004/87e5063fac83461f9fb7d767ef0199d8.png",
+                    "width" : "907",
+                    "height" : "302",
+                }
+                                                , {
+                    "url" : "http://5b0988e595225.cdn.sohucs.com/images/20191004/65d9f30ee6fd451b8d9adc6e2b7aa803.jpeg",
+                    "width" : "934",
+                    "height" : "444",
+                }
+                                                , {
+                    "url" : "http://5b0988e595225.cdn.sohucs.com/images/20191004/25822ab9eec54f17a3e52004532f72ab.png",
+                    "width" : "936",
+                    "height" : "224",
+                }
+                                        ],
+        topNavigation: [
+                                             {
+                    "url" : "http://news.sohu.com/",
+                    "name" : "新闻",
+                }
+                                                , {
+                    "url" : "http://sports.sohu.com/",
+                    "name" : "体育",
+                }
+                                                , {
+                    "url" : "http://auto.sohu.com/",
+                    "name" : "汽车",
+                }
+                                                , {
+                    "url" : "http://www.focus.cn/",
+                    "name" : "房产",
+                }
+                                                , {
+                    "url" : "http://travel.sohu.com/",
+                    "name" : "旅游",
+                }
+                                                , {
+                    "url" : "http://learning.sohu.com/",
+                    "name" : "教育",
+                }
+                                                , {
+                    "url" : "http://fashion.sohu.com/",
+                    "name" : "时尚",
+                }
+                                                , {
+                    "url" : "http://it.sohu.com/",
+                    "name" : "科技",
+                }
+                                                , {
+                    "url" : "http://business.sohu.com/",
+                    "name" : "财经",
+                }
+                                                , {
+                    "url" : "http://yule.sohu.com/",
+                    "name" : "娱乐",
+                }
+                                                , {
+                    "url" : "http://baobao.sohu.com/",
+                    "name" : "母婴",
+                }
+                                                , {
+                    "url" : "https://healthnews.sohu.com/",
+                    "name" : "健康",
+                }
+                                                , {
+                    "url" : "http://history.sohu.com/",
+                    "name" : "历史",
+                }
+                                                , {
+                    "url" : "http://mil.sohu.com/",
+                    "name" : "军事",
+                }
+                                                , {
+                    "url" : "http://chihe.sohu.com/",
+                    "name" : "美食",
+                }
+                                                , {
+                    "url" : "http://cul.sohu.com/",
+                    "name" : "文化",
+                }
+                                                , {
+                    "url" : "http://astro.sohu.com/",
+                    "name" : "星座",
+                }
+                                                , {
+                    "url" : "https://www.sohu.com/xchannel/TURBd01EQXhPVGt5",
+                    "name" : "专题",
+                }
+                                                , {
+                    "url" : "http://game.sohu.com/",
+                    "name" : "游戏",
+                }
+                                                , {
+                    "url" : "http://fun.sohu.com/",
+                    "name" : "搞笑",
+                }
+                                                , {
+                    "url" : "http://acg.sohu.com/",
+                    "name" : "动漫",
+                }
+                                                , {
+                    "url" : "http://pets.sohu.com/",
+                    "name" : "宠物",
+                }
+                                        ],
+    });
+}
+catch(e){
+    var html = '<div class="err-js">' +
+                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
+                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
+                '><em class="icon-cached"></em>刷新</a></div>';
+    $(document.body).prepend(html);
+    console.error("发生错误",e);
+}
+</script>
+<!-- 文章安全分低于等于10分不执行seo优化 -->
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>
+        <!-- 头条SEO上报JS -->
+        <script>
+            (function(){
+                var el = document.createElement("script");
+                el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?2a4809d3df819205088b399807ab2dfb6008be35d3aa4b8fc28d959eee7f7b82c112ff4abe50733e0ff1e1071a0fdc024b166ea2a296840a50a5288f35e2ca42";
+                el.id = "ttzz";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(el, s);
+            })(window)
+        </script>
+    
+</body></html>

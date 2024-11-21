@@ -1,0 +1,28 @@
+Date: Thu, 14 Nov 2024 04:50:02 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+X-Content-Options: nosniff
+Cf-Mitigated: challenge
+Cf-Chl-Out: 81+amsAU/ONZAXO63k78V5xIRDyqoY/ixRUENTBzaL6Z3jBpj0WykmZQmiwcdRjsYRauCwoVTAlMA7UAfMXhYkL+gxBvor8k3W36f6f9vWddWC74Mm6OV94JBL/EIxT3DPlXUEzj1GGvlcse4O2d1Q==$JnWCv2DXEiV7EMj6naEXbA==
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=bhatnTp%2FUR4mfl9e3ZbdWNzmRGIcwuzFEeK%2BJ9PA%2BTRHhnS2s2TdZitsXhjX9WavL6eZYav3L8fTUsGgS46BDGi2Hb%2FBat80rgEwU56Ff0rT3CWf4hH%2Fxa111X8YdQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Content-Security-Policy-Report-Only: default-src 'self'; connect-src 'self' *.appmaster.io https://analytics.google.com https://*.analytics.google.com https://www.google-analytics.com  https://forms.hsforms.com https://maps.googleapis.com https://stats.g.doubleclick.net www.google.com; font-src 'self' data: https: ; img-src 'self' data: blob: https: ; media-src 'self' data: blob: https: ; object-src 'none'; frame-src 'self' *.appmaster.io *.recaptcha.net *.youtube.com widget.canny.io; base-uri 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' 'report-sample' *.appmaster.io *.hsforms.net https://maps.googleapis.com/maps/api/js https://www.googletagmanager.com/gtag/js https://www.gstatic.com/recaptcha/ *.recaptcha.net *.canny.io; manifest-src 'self'; script-src-elem 'self' 'unsafe-inline' *.appmaster.io *.hs-scripts.com *.hs-analytics.net *.hs-banner.com www.googletagmanager.com chat.appmaster.io;  style-src 'self' 'unsafe-inline' 'report-sample' *.appmaster.io https://fonts.googleapis.com; worker-src data: blob: studio.appmaster.io; report-uri https://s.appmaster.io/api/3/security/?sentry_key=f3a1f5e566804120856802b6ba1adda8; report-to apms;
+Reporting-Endpoints: apms="https://s.appmaster.io/api/3/security/?sentry_key=f3a1f5e566804120856802b6ba1adda8"
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Origin-Agent-Cluster: ?1
+Server: cloudflare
+Cf-Ray: 8e2460dd8c3c3fc2-SIN
+Content-Encoding: br
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=776&sent=3&recv=6&lost=0&retrans=0&sent_bytes=2826&recv_bytes=1067&delivery_rate=3708066&cwnd=251&unsent_bytes=0&cid=477d1fc49e9bb023&ts=168&x=0"

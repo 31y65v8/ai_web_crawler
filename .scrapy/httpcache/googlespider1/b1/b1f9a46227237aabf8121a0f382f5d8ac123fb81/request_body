@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "XSRF-TOKEN=eyJpdiI6IjZQYkloSGlSRDRkSGNrQVdwaXhLdGc9PSIsInZhbHVlIjoiRU5oR1NnRWg2ZzUrdU5ySU9KQ0hRdllvQWYyNTgzM3hzWXBPZ0JYV3pXNGZPQXFvQVpWOGJmb3dzKzg0M1MrMWptUmVZQzlKYStucXpzNzVMbUZXWVJITkJRSWo0YnA3QlVheVhFa3N3UFhpc0Q3NUY2UzgxNldrTUIzSVdGZWwiLCJtYWMiOiJhOTUzYjVjYWY4MTgzMzM3ZjBhY2UwNDdhYzMxOGNmODFkNDk4ZjI4OTIxOGNiMmQ5YjAxM2MzN2ZkZWE5MjIyIn0%3D; infoobs_session=eyJpdiI6IjlUXC9ZMnNJdWx5TER6YmxXRTZyVld3PT0iLCJ2YWx1ZSI6Ing0cWpiNjhOQ2EwbUROM3VtTHFqUWJGWHZ6OUlQa3psWE5TZDFUc0xCbE42SUl0REVObGpMZ3hwVE5pOXpGYlpPQzVVVndEOFhZWlIwSk9pMkFvbFRMK3ZMdGhOMXNtMGZwcEdkXC8xb3Z3NzVNc1NVS3ZtZVNJMWNPNUFkT0t0biIsIm1hYyI6ImM4N2QwYTRlZjk3N2NhYTVhYmFmOGQ5NzRmMjNlODc5MzQzYTgzZTUxNzkyZGJjMmVmZGUwYmY5ZGY2OWYyMDkifQ%3D%3D",
+        "Referer": "https://www.infoobs.com/article/20190116/29802.html",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.infoobs.com/article/20190116/29802.html",
+    "wait": 6
+}

@@ -1,0 +1,360 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head> 
+<meta http-equiv="X-UA-Compatible" content="IE=9" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />   
+<style>
+.caption named-content {
+    display: block;
+    text-align: right;
+    padding-right: 10px;}
+</style>
+
+
+<!-- 语言 -->
+<meta name="dc.language" content="cn" />
+<!-- 输出格式 default -->
+<meta name="dc.format" content="text/html" />
+<!-- 标题 -->
+<meta name="dc.title" content="浅谈人工智能的下一个十年" />
+<meta name="dc.title" xml:lang="en" content="On the next decade of artificial intelligence" />
+<!-- 摘要 -->
+<meta name="dc.description" content="" />
+<meta name="dc.description" xml:lang="en" content="" />
+<!-- 循环输出关键词 -->
+<!-- 循环输出作者 -->
+<meta name="dc.creator" content="唐杰" />
+<meta name="dc.creator" xml:lang="en" content="TANG jie" />
+<!-- 发布日期 -->
+<meta name="dc.date" content="2020-01-25" />
+<!-- doi -->
+<meta name="dc.identifier" content="" />
+<!-- 出版社 -->
+<meta name="dc.publisher" content="智能系统学报" />
+<meta name="dc.publisher" xml:lang="en" content="CAAI Transactions on Intelligent Systems" />
+<!-- licenses default -->
+<meta name="dc.rights" content="http://creativecommons.org/licenses/by/3.0/"/>
+<title>浅谈人工智能的下一个十年</title>
+
+<link rel="stylesheet" type="text/css" href="css_new/html_new.css" /> 
+<script type="text/javascript" src="js_new/jquery-1.7.2.min.js"></script> 
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$', '$'],  ['\\(', '\\)']]}});</script>
+<script type="text/javascript" src="http://120.27.31.57/platformTools/js/MathJax-master/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<style>
+    .table_top_border {border-top: 1px solid black; }
+    .table_top_border2 {border-top: 1px solid black; }
+    .table_bottom_border {border-bottom: 1px solid black; }
+    .table_bottom_border2 {border-bottom: 1px solid black; }
+    .table_left_border2 {border-left: 1px solid black; }
+    .table_right_border2 {border-right: 1px solid black; }
+    .table_border tr td {border: 1px solid black; }
+    underline {border-bottom: 1px solid black;}
+    .shadingborder {border: 1px solid black; padding: 1px; font-weight: normal; }
+    styled-content[style-type="shadingborder"]{border: 1px solid black; padding: 1px; font-weight: normal; }
+    p, .article_title_cn, .author_name_list, .affiliation_list, .abs, .key, .caption {word-wrap:break-word; }
+    .citation .ckwxbreak {word-wrap: break-word; display:block; max-width: 585px; }
+</style>
+</head> 
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"> 
+      <table width="1002" border="0" cellspacing="0" cellpadding="0" align="center"> 
+           <tbody>
+                <tr> 
+                 <td style="cursor: pointer;" colspan="2" class="td1"><iframe id="Top" border="0" src="top_new.htm" width="100%" scrolling="no" frameborder="0"></iframe></td> 
+                </tr> 
+           </tbody>
+      </table>
+  <div style="background-color:#f1f1f1;width:1002px;margin:0px auto;" class="jiansuo">
+  <form action="http://tis.hrbeu.edu.cn/oa/default.aspx?type=2&q=" method="post" name="frm_ks" target="_blank">
+  <table width="1002" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+<td width="259" style="text-align:left;padding-left:10px;"><a href="http://html.rhhz.net/tis/html/202005035.htm">«上一篇</a></td>
+<td width="484" align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="center" width="56" align="right"><img src="images_new/z_js.gif" width="36" height="30"></td>
+<td height="25" valign="center" width="90" align="right">文章快速检索</td>
+<td class="txt_lm" width="9">&nbsp;</td>
+<td height="25" width="202" align="middle"><input maxlength="30" size="25" name="ks_keyword"></td>
+<td width="8">&nbsp;</td>
+<td width="56"><input value=" GO " type="submit" name="Submit22"></td>
+<td height="25" width="78" align="left"><a href="http://tis.hrbeu.edu.cn/oa/default.aspx?type=2&q=" target="_blank">高级检索</a></td>
+</tr>
+</table>
+</td>
+<td width="259" style="text-align:right;padding-right:10px;"><a href="#">下一篇»</a></td>
+  </tr>
+</table>
+</form>
+  </div>
+  <table width="1002" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF"> 
+   <tbody>
+    <tr> 
+<td height="26" width="70%" align="left" class="td" style="border-left:1px solid #CCCCCE;">&nbsp;&nbsp;<a target="_blank" href="http://tis.hrbeu.edu.cn/default.aspx">智能系统学报</a>&nbsp;<img src="images_new/dao.gif"/>&nbsp;2020, Vol. 15<img src="images_new/dao.gif"/> <a target="_blank" href="http://tis.hrbeu.edu.cn/oa/oascriptissuelsit.aspx?kind=upissue&issuenolist=2020%C4%EA01%C6%DA">Issue (1)</a>: 187-192&nbsp;&nbsp;<img src="http://www.rhhz.net/HTML/click/readHtml.asp?Journal=ZNXTXB&FileNo=20200123" width=0 height=0 border=0>
+</td>
+
+<td align="right" width=30% class="td" valign=middle style="border-right:1px solid #CCCCCE;"><div class="bshare-custom" style="margin-top:2px;"><div class="bsPromo bsPromo2"></div><a title="分享到微信" class="bshare-weixin" href="javascript:void(0);"></a><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-apple"></a><span class="BSHARE_COUNT bshare-share-count" style="float: none;">0</span></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+</td>
+    </tr> 
+   </tbody>
+  </table> 
+  <div class="rich_html_content"> 
+   <div id="leftPaneInner"><div id="leftPanelTable"><div class="outline_td"><div class="nav-col"><div class="nav" id="nav-article-page"></div></div></div></div></div> 
+   <div id="main_article_body"> 
+    <div class="outline_switch_td"></div> 
+    <div id="pagebdy"> 
+     <div class="cf" id="article-block"> 
+      <div class="header" id="hdr-article"> 
+       <div class="article-kicker"></div> 
+      </div> 
+      <div id="haha"> 
+       <div id="youce"> 
+        <div id="youcebottom">          
+         <div id="bibliographicdiv" class="gongzuoquyue" kaiguan="1"> 
+          <dl class="citation">
+       <h3 style="margin-bottom:3px;">引用本文&nbsp;<img src="images_new/to.jpg"/>&nbsp;<a id="d_clip_button_full" href="javascript:void(0);" style="font-size:12px;"></a></h3>
+      <dd>        
+         <div class="yinyongbenwen" id="copy_CN">
+唐杰. 浅谈人工智能的下一个十年[J]. 智能系统学报, 2020, 15(1): 187-192.   <a id="d_clip_button_CN" href="javascript:void(0);"><img  class="copy_btn" title="复制到剪切板"  src="images_new/copy.gif" /></a></div>
+        
+        <div class="yinyongbenwen" id="copy_EN">
+TANG jie. On the next decade of artificial intelligence[J]. CAAI Transactions on Intelligent Systems, 2020, 15(1): 187-192. <a id="d_clip_button_EN" href="javascript:void(0);"><img  class="copy_btn" title="复制到剪切板"  src="images_new/copy.gif" /></a>
+</div>
+      </dd>
+          </dl> 
+              
+
+          <dl>
+           <dd> 
+            <h3 style="margin-bottom:3px;">作者简介</h3> 
+           </dd> 
+           <dd>
+      唐杰，教授，担任IEEE T. on Big Data、AI OPEN主编以及WWW’21、CIKM’16、WSDM’15的PC Chair，主要研究方向为认知图谱、数据挖掘、社交网络和机器学习。主持研发了研究者社会网络挖掘系统AMiner，杰出青年基金获得者，获北京市科技进步一等奖、人工智能学会一等奖、KDD杰出贡献奖。发表学术论文300余篇，引用15 000余次
+           </dd> 
+          </dl> 
+
+
+         </div> 
+        </div> 
+       </div> 
+       <div id="hahacontentyouce"> 
+        <div class="article_meta_info"> 
+         <span class="abs_title outline_anchor" level="0"></span> 
+         <div class="topzhanshi">
+<div class="AbsPdfFigTab" align="center">
+<span class="fulltextbut"><a target="_blank" href="http://tis.hrbeu.edu.cn/oa/oascriptissuelsit.aspx?kind=upissue&issuenolist=2020%C4%EA01%C6%DA"><b>Contents</b></a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="fulltextbut"><a href="http://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&id=20200123"><b>Abstract</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="fulltextbut"><a href="javascript:void(0)"><b>Full text</b></a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="figtab"><a href="javascript:void(0);"><b>Figures/Tables</b></a></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><a target="_blank" href="http://tis.hrbeu.edu.cn/oa/pdfdow.aspx?Sid=20200123"><b>PDF</b></a></span>
+</div>
+</div>
+        </div> 
+    <div class="fulltext">
+        <div class="article_title_cn">      
+      浅谈人工智能的下一个十年
+    </div>
+<!-- 中文作者 -->
+    <div class="author_name_list">
+                    <span class="author_CN" id="zuozhe1_CN">
+唐杰</span>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<a class="layout_arrows to_down"></a>
+</div>
+        <div class="layout_arrows_content">
+
+<div class="affiliation_list"><div>
+    <span class="danwei1_CN">
+    清华大学 计算机系</span></div></div>
+<div class="article_meta_other">
+
+
+
+    <div class="author">作者简介：唐杰，教授，担任IEEE T. on Big Data、AI OPEN主编以及WWW’21、CIKM’16、WSDM’15的PC Chair，主要研究方向为认知图谱、数据挖掘、社交网络和机器学习。主持研发了研究者社会网络挖掘系统AMiner，杰出青年基金获得者，获北京市科技进步一等奖、人工智能学会一等奖、KDD杰出贡献奖。发表学术论文300余篇，引用15 000余次.</div>
+
+</div>
+</div>
+<!-- 中文摘要 -->
+<!-- 中文关键词 -->
+ 
+
+<div class="article_title_cn">On the next decade of artificial intelligence</div>
+<!-- 英文作者 -->
+    <div class="author_name_list">
+                    <span class="author_EN" id="zuozhe1_EN">
+TANG jie</span>
+                    </div>
+    
+
+    <div class="layout_arrows_content">
+
+
+<div class="article_meta_other">
+
+
+
+
+
+</div>
+</div>
+<!-- 英文摘要 -->
+<!-- 英文关键词 -->
+ 
+
+<div class="article_body"> 
+
+                                              <p>近年来，人工智能掀起了第三次浪潮，各个国家纷纷制定了人工智能的发展战略。在我国，人工智能已上升为国家战略，2016年国务院发布《“十三五”国家科技创新规划》，明确将人工智能作为发展新一代信息技术的主要方向；2017年7月，国务院颁布《新一代人工智能发展规划》；2017年10月，人工智能被写入“十九大报告”；2020年，人工智能又作为“新基建”七大领域之一被列为重点发展领域。</p>
+                                                      <p>美国于2016年先后发布了《为人工智能的未来做好准备》和《国家人工智能研究与发展战略规划》两份报告，将人工智能提升到了国家战略的层面；2018年，白宫举办人工智能峰会，邀请业界、学术界和政府代表参与，并成立了人工智能特别委员会。日本、德国等多个国家也发布了相关的战略、计划，大力推进人工智能的发展。</p>
+                                                      <p>在这个时代背景下，本文浅谈人工智能历史并展望未来十年。首先，让我们从人工智能的发展历史中寻找灵感。</p>
+                                                        <span class="paragraph_title outline_anchor" level="1">1 AI的发展历史</span>
+                                        <p>下图给人工智能的历史和发展做了一个简单的梳理。</p>
+                                            <div class="figure outline_anchor">
+	  					<div class="caption_title" style="display: none;">
+	  						<span  class="FigText" id="Figure1"><b> &nbsp;</b></span>
+	  					</div>
+	  					<table id="Figure1">
+		  					<tr>
+		  					<td align="center" valign="middle">
+		  						<img src="PIC/znxtxb-15-1-tangjie-1.jpg" title="点击查看原图" width=200 original="PIC/znxtxb-15-1-tangjie-1.jpg"/>
+		  					</td>
+		  					<td align="left" valign="middle">	
+                                <div class="icontd">Download:</div>
+                                <div class="icontd">
+                                    <a href="PIC/znxtxb-15-1-tangjie-1.jpg" class="iconjpg">&nbsp;JPG&nbsp;</a>
+                                    <a href="PIC/znxtxb-15-1-tangjie-1.jpg">larger image</a>
+                                </div>
+
+							</td>
+							</tr>
+							<tr>
+		  					<td align="left" colspan="2">
+	  							<span class="caption"><span  class="FigText" id="Figure1"><b> &nbsp;</b></span> </span>
+																<span class="caption">人工智能发展简史(源图：https://www.aminer.cn/ai-history)</span>															</td>
+							
+							</tr>
+						</table>
+</div>
+
+                                        <p>人工智能的起源可以追溯到阿兰·图灵(Alan Turing)1936年发表的《论可计算数及其在判定问题中的应用》，后来随着克劳德·香农(Claude Shannon)在1950年提出计算机博弈，以及阿兰·图灵在1954年提出“图灵测试”，让机器产生智能这一想法开始进入人们的视野。1956年达特茅斯学院召开了一个研讨会，约翰·麦卡锡(John McCarthy)、马文·明斯基(Marvin Minsky)、纳撒尼尔·罗切斯特(Nathaniel Rochester)以及克劳德·香农(Claude Shannon)等正式提出“人工智能”这一概念。算法方面，1957年，弗兰克·罗森布拉特(Frank Rosenblatt )提出感知机算法Perceptron，这不仅开启了机器学习的浪潮，也成为后来神经网络的基础，如果追溯的话，神经网络研究可以追溯到1943年神经生理学家麦卡洛克(W. S. McCulloch)和皮茨(W. Pitts)的神经元模型。</p>
+                                                      <p>到了20世纪60年代，人工智能出现了第一次高潮，发展出了符号逻辑，解决了若干通用问题，自然语言处理和人机对话技术开始萌芽。其中的代表性事件是丹尼尔·博布罗(Daniel Bobrow)在1964年发表了Natural Language Input for a Computer Problem Solving System，以及约瑟夫·维森鲍姆(Joseph Weizenbaum)在1966年发表了ELIZA—A Computer Program for the Study of Natural Language Communication between Man and Machine。早期的人工智能更多地侧重描述逻辑和通用问题求解，到了60年代末，爱德华·费根鲍姆(Edward Feigenbaum)提出首个专家系统DENDRAL，并对知识库给出了初步的定义，这也孕育了后来的第二次人工智能浪潮。这个时期人们对人工智能的热情逐渐褪去，人工智能的发展也进入了一轮跨度将近10年的“寒冬”<sup><span class="xref"><a href="#pn1" ref-type="fn">①</a></span></sup>。</p>
+                                                      <p>20世纪70年代末、80年代初，人工智能进入了第二次浪潮，其中代表性的工作是1976年兰德尔·戴维斯(Randall Davis)构建和维护的大规模的知识库，1980年德鲁·麦狄蒙(Drew McDermott)和乔恩·多伊尔(Jon Doyle)提出的非单调逻辑，以及后期出现的机器人系统。1980年，汉斯·贝利纳(Hans Berliner)打造的计算机战胜双陆棋世界冠军成为标志性事件。随后，基于行为的机器人学在罗德尼·布鲁克斯(Rodney Brooks)和萨顿(R. Sutton)等的推动下快速发展，成为人工智能一个重要的发展分支。其中格瑞·特索罗(Gerry Tesauro)等打造的自我学习双陆棋程序又为后来的增强学习的发展奠定了基础。机器学习算法方面，这个时期可谓是百花齐放、百家争鸣。杰弗里·辛顿(Geoffrey Hinton)等提出的多层感知机，解决了Perceptron存在的不能做非线性分类的问题；朱迪亚·珀尔boer(Judea Pearl)倡导的概率方法和贝叶斯网络为后来的因果推断奠定了基础；以及机器学习方法在机器视觉等方向取得快速发展。</p>
+                                                      <p>20世纪90年代，AI出现了两个很重要的发展：一方面是蒂姆·伯纳斯·李(Tim Berners-Lee)在1998年提出的语义网，即以语义为基础的知识网或知识表示。后来又出现了OWL语言和其他一些相关知识描述语言，这为知识库的两个核心——问题知识表达和开放知识实体给出了一个可能的解决方案(尽管这一思路在后来一直没有得到广泛认可，直到2012年谷歌提出知识图谱的概念，才让这一方向有了明确的发展思路)。另一个重要的发展是统计机器学习理论，包括瓦普尼克·弗拉基米尔(Vapnik Vladimir)等提出的支持向量机、约翰·拉弗蒂(John Lafferty)等的条件随机场以及大卫·布雷(David Blei)和迈克尔·乔丹(Michael Jordan)等的话题模型LDA。总的来讲，这一时期的主旋律是AI平稳发展，人工智能相关的各个领域都取得了长足进步。</p>
+                                                      <p>第三次人工智能浪潮兴起的标志可能要数2006年，Hinton等提出的深度学习，或者说Hinton等吹响了这次浪潮的号角。与之前最大的不同在于这次引领浪潮冲锋的是企业：塞巴斯蒂安·特龙(Sebastian Thrun)在谷歌领导了自动驾驶汽车项目；IBM的沃森(Watson)于2011年在《危险边缘》(Jeopardy)中战胜人类、获得冠军；苹果在2011年推出了自然语言问答工具Siri等；2016年谷歌旗下DeepMind公司推出的阿尔法围棋(AlphaGo)战胜围棋世界冠军李世石等。可以说这次人工智能浪潮的影响是前所未有的，其中具体的进步与发展将在下文展开介绍。</p>
+                                                        <span class="paragraph_title outline_anchor" level="1">2 AI近十年的发展</span>
+                                        <p>深入分析AI近十年的发展，会逐渐看到一个重要的现象：人工智能在感知方面取得了重要进展。在语音处理、文本处理、视频处理等多个方面，人工智能处理的效率和效果都已经超越了人类。可以说人工智能在感知方面已经逐渐接近人类的水平。人工智能也从感知开始逐渐走向认知，如下图所示：</p>
+                                            <div class="figure outline_anchor">
+	  					<div class="caption_title" style="display: none;">
+	  						<span  class="FigText" id="Figure2"><b> &nbsp;</b></span>
+	  					</div>
+	  					<table id="Figure2">
+		  					<tr>
+		  					<td align="center" valign="middle">
+		  						<img src="PIC/znxtxb-15-1-tangjie-2.jpg" title="点击查看原图" width=200 original="PIC/znxtxb-15-1-tangjie-2.jpg"/>
+		  					</td>
+		  					<td align="left" valign="middle">	
+                                <div class="icontd">Download:</div>
+                                <div class="icontd">
+                                    <a href="PIC/znxtxb-15-1-tangjie-2.jpg" class="iconjpg">&nbsp;JPG&nbsp;</a>
+                                    <a href="PIC/znxtxb-15-1-tangjie-2.jpg">larger image</a>
+                                </div>
+
+							</td>
+							</tr>
+							<tr>
+		  					<td align="left" colspan="2">
+	  							<span class="caption"><span  class="FigText" id="Figure2"><b> &nbsp;</b></span> </span>
+																															</td>
+							
+							</tr>
+						</table>
+</div>
+
+                                        <p>首先来看看AI在感知方面做了哪些事情。在感知方面，AlphaGo、无人驾驶、文本和图片之间的跨媒体计算等取得了快速发展。总体来看，算法是感知时代最重要、最具统治力的内容。深度学习是近10年机器学习领域发展最快的一个分支，由于其重要性，3位教授(Geoffrey Hinton、Yann Lecun、Yoshua Bengio)因此同获图灵奖。如果把最近十年的深度学习相关的重要算法进行梳理归类，可以得到下图所示的发展脉络。</p>
+                                            <div class="figure outline_anchor">
+	  					<div class="caption_title" style="display: none;">
+	  						<span  class="FigText" id="Figure3"><b> &nbsp;</b></span>
+	  					</div>
+	  					<table id="Figure3">
+		  					<tr>
+		  					<td align="center" valign="middle">
+		  						<img src="PIC/znxtxb-15-1-tangjie-3.jpg" title="点击查看原图" width=200 original="PIC/znxtxb-15-1-tangjie-3.jpg"/>
+		  					</td>
+		  					<td align="left" valign="middle">	
+                                <div class="icontd">Download:</div>
+                                <div class="icontd">
+                                    <a href="PIC/znxtxb-15-1-tangjie-3.jpg" class="iconjpg">&nbsp;JPG&nbsp;</a>
+                                    <a href="PIC/znxtxb-15-1-tangjie-3.jpg">larger image</a>
+                                </div>
+
+							</td>
+							</tr>
+							<tr>
+		  					<td align="left" colspan="2">
+	  							<span class="caption"><span  class="FigText" id="Figure3"><b> &nbsp;</b></span> </span>
+																															</td>
+							
+							</tr>
+						</table>
+</div>
+
+                                        <p>总体来说，主要有4条发展脉络。</p>
+                                                      <p>第1条发展脉络(浅紫色区域)以计算机视觉和卷积网络为主。这个脉络的进展可以追溯到在1979年福岛邦彦(Kunihiko Fukushima)提出的Neocognitron。该研究给出了卷积和池化的思想。1986年杰弗里·辛顿提出了反向传播训练MLP(之前也有几个类似的研究)，该研究解决了感知机不能处理非线性学习的问题。1998年，以扬·勒丘恩(Yann LeCun)为首的研究人员实现了一个7层的卷积神经网络LeNet-5以识别手写数字。现在普遍把Yann LeCun的这个研究作为卷积网络的源头，但其实在当时由于SVM的迅速崛起，这些神经网络的方法还没有引起广泛关注。真正使得卷积神经网络荣耀登场的事件是，2012年Hinton组的AlexNet(一个设计精巧的CNN)在ImageNet上以巨大优势夺冠，这引发了深度学习的热潮。AlexNet在传统CNN的基础上加上了ReLU、Dropout等技巧，并且网络规模更大。这些技巧后来被证明非常有用，成为卷积神经网络的标配，被广泛发展。顺着AlexNet的思想，LeCun组在2013年提出了一个DropConnect，把error rate降低到了11%。而新加坡国立大学(NUS)的颜水成组则提出了一个重要的Network in Network(NIN)方法，NIN的思想是在原来的CNN结构中加入了一个1×1 conv层，NIN的应用2014年也实现了Imagine另一个突破——图像检测的冠军。Network in Network更加引发了人们对CNN结构改变的大胆创新。因此，两个新的架构Inception和VGG在2014年把网络加深到了20层左右，图像识别的error rate(越小越好)也大幅降低到6.7%，接近人类错误率的5.1%。2015年，微软亚洲研究院(MSRA)的任少卿、何恺明、孙剑等，尝试把Identity加入到卷积神经网络中并提出ResNet。最简单的Identity却出人意料的有效，直接使CNN能够深化到152层、1202层等，error rate也降到了3.6%。后来，ResNeXt、Residual-Attention、DenseNet、SENet等也各有贡献，各自引入了Group convolutio、Attention、Dense connection、Channelwise-attention等，最终ImageNet将error rate降到了2.2%，远远低于人类的错误率。现在，即使手机上的神经网络，也能达到超过人类的水平。而另一个突破——在图像检测中，任少卿、何恺明、孙剑等优化了原先的R-CNN、fast R-CNN等通过其他方法提出region proposal，然后用CNN去判断是否是object的方法，提出了faster R-CNN。Faster R-CNN的主要贡献是使用和图像识别相同的CNN feature，发现feature不仅可以识别图片内容，还可以用来识别图片的位置。也就是说，CNN的feature非常有用，包含了大量的信息，可以同时用来做不同的任务。这个创新立刻把图像检测的MAP也翻倍了。在短短的4年中，ImageNet图像检测的MAP(越大越好)从最初的0.22达到了0.73。何恺明后来还提出了Mask R-CNN，即给faster R-CNN又加了一个Mask Head，发现即使只在训练中使用Mask Head，其信息可以传递回原先的CNN feature中，获得了更精细的信息。由此，Mask R-CNN得到了更好的结果。何恺明在2009年就以一个简单有效的去雾算法得到了CVPR Best Paper，在计算机视觉领域声名鹊起。后来更是提出了ResNet和Faster R-CNN两大创新，直接颠覆了整个计算机视觉/机器学习领域。</p>
+                                                      <p>另一方面，CNN结构变得越来越复杂，很多结构都很难通过直觉来解释和设计。2017年，Hinton认为反向传播和传统神经网络还存在一定缺陷，因此提出Capsule Net，该模型增强了可解释性，但目前在CIFAR等数据集上效果一般，这个思路还需要继续验证和发展。谷歌提出了自动架构学习方法NasNet(neural architecture search network)来自动用Reinforcement Learning去搜索一个最优的神经网络结构。Nas是目前CV界一个主流的方向，可以自动寻找出最好的结构，以及给定参数数量/运算量下最好的结构(这样就可以应用于手机)，这是目前图像识别的一个重要发展方向。2019年4月何恺明发表了一篇论文，表示即使Random生成的网络连接结构(只要按某些比较好的Random方法)，都会取得非常好的效果，甚至比标准的好很多。Random和Nas哪个是真的正确的道路，这有待进一步的研究。最近，恺明等提出了动量对比度(MoCo)用于无监督的视觉表示学习。MoCo可以胜过在PASCAL VOC、COCO和其他数据集上进行监督的预训练对等任务中的检测/细分任务，有时会大大超过它。这表明在许多视觉任务中，无监督和有监督的表征学习之间的鸿沟已被大大消除。</p>
+                                                      <p>第2条发展脉络(浅绿色区域)以生成模型为主。传统的生成模型是要预测联合概率分布<i>P</i>(<i>x</i>, <i>y</i>)。机器学习方法中生成模型一直占据着非常重要的地位，但基于神经网络的生成模型一直没有引起广泛关注。Hinton在2006年的时候基于受限玻尔兹曼机(RBM，一个20世纪80年代左右提出的基于无向图模型的能量物理模型)设计了一个机器学习的生成模型，并且将其堆叠成为Deep Belief Network，使用逐层贪婪或者wake-sleep的方法训练，当时模型的效果其实并没有那么好。但值得关注的是，正是基于RBM模型，Hinton等开始设计深度框架，因此这也可以看做是深度学习的一个开端。Auto-Encoder也是20世纪80年代Hinton提出的模型，后来随着计算能力的进步也重新登上舞台。约书亚·本吉奥(Yoshua Bengio)等又提出了Denoise Auto-Encoder，主要针对数据中可能存在的噪音问题。麦克斯·威林(Max Welling，也是变分和概率图模型的高手)等后来使用神经网络训练一个有一层隐变量的图模型，由于使用了变分推断，并且和Auto-Encoder有点像，被称为Variational Auto-Encoder。此模型中可以通过隐变量的分布采样，经过后面的Decoder网络直接生成样本。生成对抗模型GAN(generative adversarial network)是2014年提出的非常受关注的模型，它是一个通过判别器和生成器进行对抗训练的生成模型，这个思路很有特色，模型直接使用神经网络G隐式建模样本整体的概率分布，每次运行相当于从分布中采样。随之而来引发了大量的研究，包括：DCGAN是一个相当好的卷积神经网络实现，WGAN是通过维尔斯特拉斯距离替换原来的JS散度来度量分布之间的相似性的工作，使得训练稳定。PGGAN逐层增大网络，生成逼真的人脸。</p>
+                                                      <p>第3条发展脉络(橙黄色区域)是序列模型。序列模型不是因为深度学习才有的，而是很早以前就有相关研究，例如有向图模型中的隐马尔可夫HMM以及无向图模型中的条件随机场模型CRF都是非常成功的序列模型。即使在神经网络模型中，1982年就提出了Hopfield Network，即在神经网络中加入了递归网络的思想。1997年于尔根·施密德胡伯(Jürgen Schmidhuber)发明了长短期记忆模型LSTM(long-short term memory)，这是一个里程碑式的工作。当然，真正让序列神经网络模型得到广泛关注的还是2013年Hinton组使用RNN做语音识别的工作，识别效果比传统方法显著提高。在文本分析方面，另一个图灵奖获得者Yoshua Bengio在SVM很受关注的时期提出了一种基于神经网络的语言模型(当然当时机器学习还是SVM和CRF的天下)，后来Google提出的word2vec(2013)也有一些反向传播的思想，最重要的是给出了一个非常高效的实现，从而引发了这方面研究的热潮。后来，在机器翻译等任务上逐渐出现了以RNN为基础的seq2seq模型，通过一个Encoder把一句话的语义信息压缩成向量再通过Decoder转换输出得到这句话的翻译结果，后来该方法被扩展到和注意力机制(Attention)相结合，也大大扩展了模型的表示能力和实际效果。再后来，大家发现使用以字符为单位的CNN模型在很多语言任务也有不俗的表现，而且时空消耗更少。Self-attention实际上就是采取一种结构去同时考虑同一序列局部和全局的信息，Google有一篇很有名的文章“Attention is All You Need”把基于Attention的序列神经模型推向高潮。当然2019年ACL上同样有另一篇文章给这一研究稍微降了降温。2018年底Google提出BERT模型，将GPT中的单向语言模型拓展为双向语言模型(masked language model)，并在预训练中引入了sentence prediction任务。BERT模型在11个任务中取得了最好的效果，是深度学习在NLP领域又一个里程碑式的工作。BERT自从在arXiv上发表以来获得了研究界和工业界的极大关注，仿佛打开了深度学习在NLP应用的潘多拉魔盒。随后涌现了一大批类似于“BERT”的预训练(pre-trained)模型，有引入BERT中双向上下文信息的广义自回归模型XLNet，也有改进BERT训练方式和目标的RoBERTa和SpanBERT，还有结合多任务以及知识蒸馏(knowledge distillation)强化BERT的MT-DNN等，这些被大家称为BERTology。</p>
+                                                      <p>第4条发展脉络(粉色区域)是增强学习。这个领域最出名的当属Deep Mind，图中标出的大卫·席尔瓦(David Silver)博士是一直研究RL的高管。Q-learning是很有名的传统RL算法，Deep Q-learning将原来的Q值表用神经网络代替，做了一个打砖块的任务。后来又被应用在许多游戏场景中，其成果发表在Nature上。Double Dueling对这个思路进行了一些扩展，主要是Q-Learning的权重更新时序上。DeepMind的其他工作如DDPG、A3C也非常有名，它们是基于Policy Gradient和神经网络结合的变种。大家都熟知的AlphaGo，里面其实既用了RL的方法也有传统的蒙特卡洛搜索技巧。Deep Mind后来提出了一个用AlphaGo框架、但通过主学习来玩不同(棋类)游戏的新算法Alpha Zero。</p>
+                                                      <p>总体来看，在这个深度学习算法引领的人工智能浪潮中，以神经网络为核心的机器学习算法取得了快速的进展。那么未来十年，AI将何去何从？</p>
+                                                        <span class="paragraph_title outline_anchor" level="1">3 展望未来十年</span>
+                                        <p>这里，我想首先引用张钹院士提出来的第三代人工智能的理论体系。2015年，张钹院士提出第三代人工智能体系的雏形。2017年，美国国防高级研究计划局(DARPA) 发起XAI项目，核心思想是从可解释的机器学习系统、人机交互技术以及可解释的心理学理论3个方面，全面开展可解释性AI系统的研究。2018年底，张钹院士正式公开提出第三代人工智能的理论框架体系，核心思想为：1)建立可解释、鲁棒性的人工智能理论和方法；2)发展安全、可靠、可信及可扩展的人工智能技术；3)推动人工智能创新应用。其中具体实施的路线图包括：1)与脑科学融合，发展脑启发的人工智能理论；2)数据与知识融合的人工智能理论与方法。这标志着人工智能从感知时代逐渐进入认知时代。</p>
+                                                      <p>Yoshua Bengio在NeuIPS 2019上的报告“From System a1 Deep Learning to System 2 Deep Learning”讨论了深度学习发展的方向，进一步肯定这一畅想。Bengio肯定了人工智能已经在“听、说、看”等感知智能领域达到甚至超越人类水准，但在需要外部知识、逻辑推理以及领域迁移的认知领域还处于初级阶段。认知智能将从认知心理学、脑科学中汲取灵感，并结合知识图谱、因果推理等技术，建立知识表示、推理的有效机制，实现从感知智能到认知智能的关键突破。Bengio介绍了人的认知系统包含两个子系统(这是认知理论中大家共识的观点)：System 1(子系统1)是直觉系统，主要负责快速、无意识、非语言的认知，比如当人被问到一个问题的时候，可能下意识地或者说习惯性地回答，这就属于System 1的范畴。Bengio认为目前深度学习主要就在做System 1的事情；System 2(子系统2)是逻辑分析系统，是有意识的、带逻辑、规划、推理以及可以语言表达的系统。人在通过System 2处理问题的时候，往往要收集相关数据、进行逻辑分析和推理，最终做出决策。目前的绝大多数人工智能系统都还没能实现System 2，Bengio提出这正是未来深度学习需要着重考虑的。当然Bengio也提到多智能体角度来实现AI、以及从计算机角度需要考虑的问题，比如更好的模型和知识搜索。对于如何用深度学习来实现System 2，Bengio提到对于计算机来说，最关键就是处理数据分布中的变化。对于System 2来说，基本的要素包括：注意力和意识。注意力(attention)的实现在深度学习模型中已经有大量的研究和探讨，比如GAT(图注意力机制)等，意识这部分是比较难的。</p>
+                                                      <p>笔者有幸在同一时期和Bengio课题组并行做了类似的认知工作，我们从2018年初开始研究认知计算，我们给他取了一个名字，叫做认知图谱(cognitive graph)，下图展示了我们提出的基于双通道处理理论的认知系统框架。System 1我们采用了BERT来实现，通过预训练可以得到每个实体的表示，在表示的基础上可以实现知识扩展；System 2则采用图神经网络，这是因为System 1扩展的信息都传递给System 2，使得System 2可以基于多方面的信息做决策。这个方法在推理方面还有所欠缺，但在多跳问题回答任务上取得了不错的结果，后续在推理方面可能还可以做很多有意思的扩展。相关论文发表在ACL 2019上。</p>
+                                            <div class="figure outline_anchor">
+	  					<div class="caption_title" style="display: none;">
+	  						<span  class="FigText" id="Figure4"><b> &nbsp;</b></span>
+	  					</div>
+	  					<table id="Figure4">
+		  					<tr>
+		  					<td align="center" valign="middle">
+		  						<img src="PIC/znxtxb-15-1-tangjie-4.jpg" title="点击查看原图" width=200 original="PIC/znxtxb-15-1-tangjie-4.jpg"/>
+		  					</td>
+		  					<td align="left" valign="middle">	
+                                <div class="icontd">Download:</div>
+                                <div class="icontd">
+                                    <a href="PIC/znxtxb-15-1-tangjie-4.jpg" class="iconjpg">&nbsp;JPG&nbsp;</a>
+                                    <a href="PIC/znxtxb-15-1-tangjie-4.jpg">larger image</a>
+                                </div>
+
+							</td>
+							</tr>
+							<tr>
+		  					<td align="left" colspan="2">
+	  							<span class="caption"><span  class="FigText" id="Figure4"><b> &nbsp;</b></span> </span>
+																															</td>
+							
+							</tr>
+						</table>
+</div>
+
+                                        <p>这是一个总体的思路，要真正实现知识和推理，其实还需要万亿级的常识知识库支持，来支撑深度学习的计算，这样才能真正实现未来的人工智能。这一次人工智能浪潮也许到终点还是没有推理能力，没有可解释能力。而下一波人工智能浪潮的兴起，就是实现具有推理、具有可解释性、具有认知的人工智能，这是人工智能下一个10年要发展、也一定会发展的一个重要方向。</p>
+                                                
+    
+
+        </div> 
+                <iframe id="Bottom" border="0" src="bottom_new.htm" scrolling="no" frameborder="0" width="100%"></iframe> 
+       </div> 
+      </div>
+    <div class="figandtab">
+    
+    </div>
+      </div> 
+     </div>
+    </div>
+   </div> 
+   <div id="pageftr"></div> 
+  </div> 
+  <script type="text/javascript" src="js_new/ZeroClipboard.js"></script> 
+  <script type="text/javascript" src="js_new/global-min_new2.js"></script>
+  <script type="text/javascript" src="js_new/html_new2.js"></script> 
+ </body>
+</html>

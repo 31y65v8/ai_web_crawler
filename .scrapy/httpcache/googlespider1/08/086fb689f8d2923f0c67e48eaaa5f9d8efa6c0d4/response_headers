@@ -1,0 +1,25 @@
+Date: Thu, 14 Nov 2024 04:47:38 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: L1n7O+VxRG2C6ZPI0tkwZF8BvvkOvzzAhtJUo/03NCA2o7PabGyKVGWItBsdEDSO8/a7SHsJsPefKpjTZKziSmxQ9WbPSucChcfvaho0ADV5T1FVkj1+vYq+vC+WFJbZGGfi3K4sz44vfFYnunX9tQ==$0+lm+YRqwJQf2WszCuUU8Q==
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=RClcizaaBirYI3ifE2tzM3PIYrzO7fPwKu1OgrSlhYFe3TRlbEgLvHEgg6qSCyfnxdcse44pXTUQcKubIv7AnKsN1jvzkngTWmlsMTUd9%2B8L2ne4NeOsr3r22DlErS4H%2FR5ypjW8TaE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552000; preload
+Server: cloudflare
+Cf-Ray: 8e245d59aaea897c-SIN
+Content-Encoding: br
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=708&sent=3&recv=5&lost=0&retrans=0&sent_bytes=2847&recv_bytes=1019&delivery_rate=4441717&cwnd=224&unsent_bytes=0&cid=d0fe217a15c17280&ts=131&x=0"

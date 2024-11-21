@@ -1,0 +1,16 @@
+Access-Control-Allow-Headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip
+Content-Type: text/html
+Date: Thu, 14 Nov 2024 03:42:35 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Cache: MISS
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: all
+X-Xss-Protection: 1

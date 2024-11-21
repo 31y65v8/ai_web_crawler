@@ -1,0 +1,22 @@
+Content-Length: 38069
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.mckinsey.com.cn/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.mckinsey.com.cn/wp-json/wp/v2/posts/9907>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.mckinsey.com.cn/?p=9907>; rel=shortlink
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: frame-ancestors 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://s.go-mpulse.net https://webcert.cnmstl.net https://www.googletagmanager.com; object-src 'none'; worker-src 'self';
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+X-Akamai-Transformed: 9 36449 0 pmb=mRUM,2
+Content-Encoding: gzip
+Expires: Thu, 14 Nov 2024 04:54:28 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 14 Nov 2024 04:54:28 GMT
+Server-Timing: edge; dur=45
+Server-Timing: origin; dur=245
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: ak_p; desc="1731560068528_462720053_9613219_28929_27498_27_47_-";dur=1

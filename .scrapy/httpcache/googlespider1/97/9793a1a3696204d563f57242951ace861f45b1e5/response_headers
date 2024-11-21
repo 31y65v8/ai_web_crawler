@@ -1,0 +1,22 @@
+Content-Type: text/html; charset=utf-8
+Date: Thu, 14 Nov 2024 04:34:53 GMT
+X-Frame-Options: DENY
+Permissions-Policy: geolocation=(), microphone=(), camera=()
+Etag: W/"220028bc3768db07c0dfd6533426544b"
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: default-src https: http:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdnjs.cloudflare.com https://www.google.com https://www.gstatic.com/; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; img-src data: blob: http: https:
+X-Request-Id: c0af684f-cd02-4845-8dbe-9982a39ddfb3
+X-Runtime: 0.188199
+Content-Encoding: gzip
+Via: 1.1 ae9942460bc2a5eb14623248b73a3c8a.cloudfront.net (CloudFront), 1.1 e356100ddad8d3e5373bcedb8e103884.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SIN2-P4
+X-Amz-Cf-Pop: SIN2-P5
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Origin
+X-Cache: Miss from cloudfront
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: OCd54PWGlfBWb-M3_tNTbORigPTDCCihhw6I1-UJE5oZ7HZL-WgISA==

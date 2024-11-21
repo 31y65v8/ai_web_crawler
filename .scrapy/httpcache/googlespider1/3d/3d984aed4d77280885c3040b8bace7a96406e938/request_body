@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.techwalker.com/2021/0819/3135859.shtml",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "timeout": 60,
+    "url": "https://www.techwalker.com/2021/0819/3135859.shtml",
+    "wait": 6
+}

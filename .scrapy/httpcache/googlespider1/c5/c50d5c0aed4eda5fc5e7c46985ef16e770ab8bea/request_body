@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=21946870&from=wifiKey",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=21946870&from=wifiKey",
+    "wait": 6
+}

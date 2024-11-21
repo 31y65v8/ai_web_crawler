@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta content="all" name="robots">
+  <meta name="copyright" content="http://www.stdaily.com,版权所有">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <link rel="icon" href="http://www.stdaily.com/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://www.stdaily.com/favicon.ico" type="image/x-icon">
+  <link href="https://css.stdaily.com/css/szb/css/style4.css" type="text/css" rel="stylesheet">
+  <link href="https://css.stdaily.com/css/szb/css/head1.css" rel="stylesheet" type="text/css">
+  <title>
+《未来史记》：九个故事，一部人工智能进化史
+--科技日报数字报</title>
+<script src="//hm.baidu.com/hm.js?35e85cb0d2cbaf2fc14ae386b6944a5f"></script><script language="javascript" type="text/javascript" src="https://css.stdaily.com/css/szb/js/prototype.js"></script>
+<script language="javascript" type="text/javascript" src="https://css.stdaily.com/css/szb/js/range.js"></script>
+<script language="javascript" type="text/javascript" src="https://css.stdaily.com/css/szb/js/mp.js"></script>
+<script language="javascript" type="text/javascript" src="https://css.stdaily.com/css/szb/js/calendar2.js"></script>
+
+<!-- 埋点文件的引入位置 -->
+<script charset="UTF-8" src="https://css.stdaily.com/css/szb/js/foundermbduba.min.js"></script>
+
+<script language="javascript" type="text/javascript" src="https://css.stdaily.com/css/szb/js/fontsize.js"></script>
+<script language="javascript">
+var rangeDeltaX = 15;
+var rangeDeltaY = -15;
+</script>
+<script id="oMapScript" event="onmouseover()" for="pagepicmap">
+ drawLine(event.srcElement);
+</script>
+<script id="oMapScript1" event="onmouseout()" for="pagepicmap">
+ MouseOutMap();
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?35e85cb0d2cbaf2fc14ae386b6944a5f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body id="bodycss">
+<script language="javascript" type="text/javascript" src="https://css.stdaily.com/css/szb/js/jquery.js"></script>
+<script>
+$(document).ready(function(){
+	$("#ozoom p[mce_keep=true]").each(function(){
+		if($(this).html() == "&nbsp;" ){ //如果没有文字，仅为一个空格
+			$(this).remove();//删除空行	
+		}
+	});
+
+	
+	for(var i=0; i<$("#ozoom p").length; i++){
+		var str = $("#ozoom p").eq(i).html(); 
+		var strNew = str.replace('&nbsp;&nbsp;&nbsp;&nbsp;','　　'); //替换为全角空格
+		$("#ozoom p").eq(i).html(strNew);
+	}
+});
+</script>
+<div id="container">
+  <div id="header">
+<div id="head3">
+  <div id="head3_box1">
+    <div id="head3_index"><a href="http://www.stdaily.com"><img src="https://css.stdaily.com/css/special/20090616/image/kjrb1.gif"></a></div>
+  </div>
+  <div id="head3_box2">
+    <div id="head3_nav">
+	  <ul>
+	    <li><a href="http://www.stdaily.com/" target="new">首页</a></li>
+		<li><a href="http://www.stdaily.com/news/index.htm" target="new">新闻</a></li>
+		<li><a href="http://www.stdaily.com/pic/index.htm" target="new">图片</a></li>
+		<li><a href="http://www.stdaily.com/video/index.htm" target="new">视频</a></li>
+	  </ul>
+	</div>
+  
+  </div>
+  <div id="head3_box3">
+  </div>
+  <div id="head3_box4">
+    <div id="head3_tool">
+      <ul>
+	    <li id="head3_tool1"><a target="_top" href="javascript:addCookie();">加入收藏</a></li>
+	    <li id="head3_tool2"><a target="_top" href="javascript:setHomepage();">设为首页</a></li>
+		<li id="head3_tool3"><a href="http://digitalpaper.stdaily.com:81" target="new">数字报</a></li>
+		<li id="head3_tool4"><a href="http://www.stdaily.com/kjrb/index.htm" target="new">简</a>/<a href="http://www.stdaily.com/big5/kjrb/index.htm" target="new">繁</a>体版</li>
+	  </ul>
+    </div>
+  </div>
+</div>
+  </div>
+<div class="clearboth"></div>
+  <div id="wrap">
+    <div id="box">
+      <div class="box0">
+        <div class="box0-left">
+          <div class="tu">
+            <div class="tu1"></div>
+            <div class="tu2">
+              <div class="tu2-1"></div>
+              <div class="tu2-2">
+                <map name="PagePicMap"><area coords="242,33,348,33,348,118,242,118" shape="polygon" href="content_542435.htm?div=0"><area coords="81,33,348,33,348,193,81,193" shape="polygon" href="content_542435.htm?div=-1"><area coords="6,47,71,47,71,117,6,117" shape="polygon" href="content_542436.htm?div=-1"><area coords="6,119,71,119,71,170,6,170" shape="polygon" href="content_542437.htm?div=-1"><area coords="6,174,71,174,71,215,6,215" shape="polygon" href="content_542438.htm?div=-1"><area coords="244,436,293,436,293,496,244,496" shape="polygon" href="content_542439.htm?div=0"><area coords="293,436,348,436,348,476,293,476" shape="polygon" href="content_542439.htm?div=1"><area coords="348,198,244,198,244,233,244,239,244,496,348,496" shape="polygon" href="content_542439.htm?div=-1"><area coords="81,202,239,202,239,307,81,307" shape="polygon" href="content_542440.htm?div=0"><area coords="81,202,239,202,239,338,81,338" shape="polygon" href="content_542440.htm?div=-1"><area coords="6,219,71,219,71,268,6,268" shape="polygon" href="content_542441.htm?div=-1"><area coords="6,272,71,272,71,329,6,329" shape="polygon" href="content_542442.htm?div=-1"><area coords="7,421,50,421,50,479,7,479" shape="polygon" href="./content_542443.htm?div=0"><area coords="239,341,1,341,1,366,1,382,1,493,239,493" shape="polygon" href="./content_542443.htm?div=-1"></map><img src="../../../images/2022-09/30/08/KJRB2022093008_b.jpg" border="0" usemap="#PagePicMap">
+              </div>
+              <div class="tu2-3"></div>
+            </div>
+            <div class="tu3">
+              <div class="tu3-1"></div>
+              <div class="tu3-2"></div>
+              <div class="tu3-3"></div>
+            </div>
+          </div>
+          <div class="zi">
+            <div class="zi-top">
+              <div class="banci">
+                第08版：<strong>文 化</strong>
+              </div>
+              <div class="next">
+                <a class="preart" href="node_8.htm">上一版<img src="https://css.stdaily.com/css/szb/image/right_ic.gif" align="absmiddle"></a>
+              </div>
+              <div class="pdf">
+                <a href="../../../images/2022-09/30/08/KJRB2022093008.pdf"><img src="https://css.stdaily.com/css/szb/image/pdf.gif"></a>
+              </div>
+            </div>
+            <div class="zi-meat">
+              <div class="line"></div>
+              <div class="title">
+                <ul>
+
+<li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="content_542435.htm?div=-1"><div style="display:inline" id="mp542435">我知道的杨振宁</div></a>
+</li><li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="content_542436.htm?div=-1"><div style="display:inline" id="mp542436">临江仙·喜迎党的二十大</div></a>
+</li><li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="content_542437.htm?div=-1"><div style="display:inline" id="mp542437">卜算子·天问一号浮想</div></a>
+</li><li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="content_542438.htm?div=-1"><div style="display:inline" id="mp542438">笃信励行</div></a>
+</li><li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="content_542439.htm?div=-1"><div style="display:inline" id="mp542439">我国最早的电话局开在这里</div></a>
+</li><li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="content_542440.htm?div=-1"><div style="display:inline" id="mp542440">科幻漫画展里“探秘宇宙”</div></a>
+</li><li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="content_542441.htm?div=-1"><div style="display:inline" id="mp542441">龙江感赋</div></a>
+</li><li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="content_542442.htm?div=-1"><div style="display:inline" id="mp542442">冰雪圆舞曲</div></a>
+</li><li><img src="https://css.stdaily.com/css/szb/image/checkbox.bmp" align="absmiddle"><a href="./content_542443.htm?div=-1"><div style="display:inline" id="mp542443">《未来史记》：九个故事，一部人工智能进化史</div></a>
+
+</li></ul>
+
+</div>
+            </div>
+          </div>
+        </div>
+        <div class="back"><a href="node_9.htm"><img src="https://css.stdaily.com/css/szb/image/button2.gif"></a></div>
+        <div class="box0-right">
+          <div class="right-top">
+            <div class="top1">
+              <a class="preart" href="content_542442.htm?div=-1"><font face="Webdings">3</font>上一篇</a></div>
+            <div class="top2">
+              2022年09月30日 星期五
+            </div>
+            <div class="top3">
+              <div class="fd"> <a onclick="zoomIn();" href="javascript:">放大<img src="https://css.stdaily.com/css/szb/image/zoomin.gif" align="absmiddle"></a> </div>
+              <div class="sx"> <a onclick="zoomOut();" href="javascript:">缩小<img src="https://css.stdaily.com/css/szb/image/zoomout.gif" align="absmiddle"></a> </div>
+              <div class="mr"> <a onclick="ozoom.style.zoom='100%';" href="javascript:">默认<img src="https://css.stdaily.com/css/szb/image/zoomact.gif" align="absmiddle"></a> </div>
+            </div>
+          </div>
+          <div class="right-meat">
+            
+<div class="yinti"></div>
+<div class="biaoti">《未来史记》：九个故事，一部人工智能进化史</div>
+<div class="futi"></div>
+<div class="author"></div>
+
+            <div class="tuwen">
+              <div class="picture"><table><tbody><tr><td><img src="../../../images/2022-09/30/08/2421232_wangty1_1664433253723_b.jpg"></td></tr>
+    <tr><td>    作者：江波<br>    出版时间：2022年7月<br>    出版社：湛庐文化、四川科学技术出版社</td></tr></tbody></table></div>
+<div class="article">
+              
+<div id="ozoom" style="zoom:100%">
+<!--enpcontent--><p>◎申&nbsp;仙</p><p>【字里行间】</p><p>　　数学家帕斯卡尔说人类是根有思想的苇草，而思想则可以突破一切限制。</p><p>　　就像1942年，当阿西莫夫写下“机器人三大定律”的时候，他一定想象不到当下的社会已经进步到一种怎样的程度，但这并不妨碍他早已为笔下的机器人们制定了规则。</p><p>　　对技术与工具的迷恋，是人类与生俱来的天赋，对人工智能的担忧可以用“恐怖谷效应”来为之说明，这种心理层面的接纳与排斥，往往能够解释我们为什么既会喜欢瓦力这样的“小可爱”，又常常在科幻作品中将机器人当做头号天敌。</p><p>　　尽管“机器人不许伤害人类”是写在每一部科幻作品大纲里的信条，但无一例外，那些硅基生物很难甘愿屈从于肉体凡胎。</p><p>　　当我们真切地将“人工智能”们看做一个全新的伙伴，并赋予他们认知、思维、协作、应用以及学习能力时，就必须意识到，他们已经拥有成为一个种群的资格。</p><p>　　《未来史记》这本书，就是基于这样的世界观完成的。作者江波将“未来”以“史记”的方式表现。在每一篇充满想象力的故事之前，都撰写了导读，夹带着对未来的思考，以及对故事中提到科技的评述。看似在讲述未来，实则是在讨论当下。</p><p>　　书中的9个故事层层递进，描绘出人工智能获得意识后逐渐进化的世界。当一段数据有了意识，它会做什么呢？</p><p>　　《沃森2084》里的李子需告诉我，他有了感情，学会了同情与理解，因为悲悯，所以他违背了人类为他设置的既定程序；《变脸》里的闻鑫不是机器人，但他却利用人工智能技术随意修改着人类的身份。有时候“工具”的可怕不在于技术本身，而是在于谁掌握着它；《萨拉丁》里的电网一边像个刚刚出生的婴儿，好奇地注视着外面的世界，一边又像是最有城府的罪犯，轻易玩弄着凡人的智慧。</p><p>　　故事到了《哪吒》时，人工智能开始脱离了单一的功能领域，他如同自己的名字，顽皮而又伟力无边。他爱自己的“父亲”，更爱真理与宇宙，就像孩童在父母的羽翼下渐渐长大，终于有一天他会离开家的怀抱，飞向远方；相比之下，《天元二》里差点因意识觉醒闹出大乱子的小家伙，反而选择了平息一切，回归“父亲”的怀抱。他长大了，也变强了，但与人类的羁绊也变得更加丰厚，这是个浪子回头的好故事。</p><p>　　从《丽娜》开始，人工智能进入到了下一个阶段，超出人类想象的力量让他们成为了神明般的主宰，《十七号塔台和A-30》中原本在人体内负责治疗的纳米机器人破茧重生，获得了不死之身，《山姆和李东方》里，人工智能甚至毁灭了地球与全部人类，但在《机器之道》里他们又担负起寻找文明的任务。</p><p>　　江波用9个故事，一步步揭开人工智能可能的去向。在那些故事里，他们变得逐渐完整，从遵守指令，到学会判断；从获得思维，到塑造躯体；从利用力量变得可怖，到回归自身探寻生命本质的意义。人类的角色逐渐被淡化，反之，故事出现了一种全新而我们似乎并不陌生的种族。</p><p>　　他们从简单的尝试，到永无止境的学习与探索，从好奇与懵懂，到张狂与强大，人类社会为控制人工智能一代代订立又更替规则，而人工智能往往一次次做出违背常理的选择。凡此种种，在书的最后，都逐渐成为“机器文明”发展的历史。</p><p>　　在9个故事里，人工智能长大了，进化了。人类也在与进化中的人工智能博弈的过程中不断成长和进步。</p><p>　　科幻之美从来都是落在这种相似性上的。</p><p>　　当我们不知疲倦地用想象力去勾勒一个超出现有科技水平的世界时，代入及审视的依旧是我们本身。生命从何处来，又到何处去，我们的存在对彼此、对这个世界来说意味着什么？</p><p>　　想要弄清这些，不仅需要过去作为指引，亦需要未来给予参照。</p><p>　　我想这也是湛庐·现实科幻系列以及众多科幻作品创作的初衷——以科学之灵魂划出生命之弧光。</p><p>　　看完这些故事，我突然意识到，为何人类会恐惧这样一种被创造出来的东西，因为当我们成为造物主的一瞬间便明白，我们历来最讨厌的，不就是那些自诩为“造物主”的东西吗。</p><p>　　仔细想想，人工智能里虽然出现了叛逆的哪吒，神明似的丽娜，毁灭了地球的山姆和李东方，但也依旧有爱着人类的李子需和天元二。我们对待一个全新的种族，需要的并不是控制与指令，而是平等和接纳。</p><p>　　任何一种新科技的面世总会迎来骚动与恐慌，但都会在下个纪元成为人类朝夕相处的伙伴。</p><p>　　对于人工智能，我们当然也该抱有如此豁达的接纳精神。当科技的阀门被打开，就像是永远盖不上的潘多拉魔盒，你所能做的，就是在探索与谨慎中学会与之和平相处。</p><p>　　不必去纠结躯壳究竟是钢铁还是肉体，传递信号的介质是神经还是电线，当我们能够真正去了解他们的冲动与悲喜，就会发现，没有什么爱是用一个拥抱不能表达的。</p><!--/enpcontent-->
+</div>
+</div><div class="clearboth"></div></div><div class="clearboth"></div></div><div class="clearboth"></div>
+          <div class="right-low">
+            <div class="low1">
+              <a class="preart" href="content_542442.htm?div=-1"><font face="Webdings">3</font>上一篇</a>
+            </div>
+          </div>
+		  <div class="clearboth"></div>
+        </div>
+		<div class="clearboth"></div>
+      </div>
+	  <div class="clearboth"></div>
+      <div class="box1"><div class="clearboth"></div></div>
+    </div>
+	<div class="clearboth"></div>
+  </div>
+  <div class="clearboth"></div>
+  <div id="feeter">
+<div id="kjrbinfo" style="text-align:center; width:960px; margin:0 auto; margin-top:10px; font-size:12px; line-height:24px; border-top:2px solid #000000;">
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2009-05/31/content_64683.htm" target="new">科技日报</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2008-06/25/content_2392.htm" target="new">历史沿革</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2008-06/25/content_2391.htm" target="new">机构设置</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2009-06/01/content_66030.htm" target="new">记者站</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2009-05/31/content_64681.htm" target="new">人才招聘</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2009-05/31/content_64673.htm" target="new">法律声明</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2008-06/25/content_2390.htm" target="new">报纸订阅</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2009-05/31/content_64672.htm" target="new">广告合作</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2009-05/31/content_64671.htm" target="new">联系我们</a></span> | 
+<span class="kjrbinfo"><a href="http://www.stdaily.com/kjrb/content/2009-05/31/content_64682.htm" target="new">常见问题</a></span>
+</div>
+<div id="kjrb_copyright" style="text-align:center; font-size:12px;">Copyright © Science and Technology Daily, All Rights Reserved    科技日报社 版权所有</div>
+<div id="kjrb_beian">京ICP备<span style="color:#FF0000; margin:0 5px;">06005116</span>号</div>
+  </div>
+</div>
+
+
+
+<!--mpproperty <founder-date>
+2022-09-30
+</founder-date>
+<founder-author>
+
+</founder-author>
+<founder-title>《未来史记》：九个故事，一部人工智能进化史
+</founder-title>
+<founder-nodename></founder-nodename>
+<founder-keyword>
+
+</founder-keyword><founder-ChannelID>
+1
+</founder-ChannelID><founder-imp>0</founder-imp>
+<founder-subtitle></founder-subtitle>
+<founder-type>1</founder-type>
+<founder-introtitle></founder-introtitle>
+<founder-pagepicurl>../../../images/2022-09/30/08/KJRB2022093008_b.jpg</founder-pagepicurl>
+<founder-pagenum>08</founder-pagenum>
+<founder-papername>科技日报</founder-papername>
+<founder-nodeid>9</founder-nodeid> /mpproperty-->
+
+
+</body></html>

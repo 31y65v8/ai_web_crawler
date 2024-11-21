@@ -1,0 +1,1208 @@
+<!DOCTYPE html><html lang="zh-Hans"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>入门必读！写给初学者的人工智能简史！ – 鲜枣课堂</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="鲜枣课堂 » Feed" href="http://www.xzclass.com/?feed=rss2">
+<link rel="alternate" type="application/rss+xml" title="鲜枣课堂 » 评论 Feed" href="http://www.xzclass.com/?feed=comments-rss2">
+<link rel="alternate" type="application/rss+xml" title="鲜枣课堂 » 入门必读！写给初学者的人工智能简史！ 评论 Feed" href="http://www.xzclass.com/?feed=rss2&amp;p=2203">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.xzclass.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="http://www.xzclass.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2" media="all">
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="ansar-import-css" href="http://www.xzclass.com/wp-content/plugins/ansar-import/public/css/ansar-import-public.css?ver=1.0.5" media="all">
+<link rel="stylesheet" id="newsup-fonts-css" href="//fonts.googleapis.com/css?family=Montserrat%3A400%2C500%2C700%2C800%7CWork%2BSans%3A300%2C400%2C500%2C600%2C700%2C800%2C900%26display%3Dswap&amp;subset=latin%2Clatin-ext" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="http://www.xzclass.com/wp-content/themes/newsup/css/bootstrap.css?ver=6.6.2" media="all">
+<link rel="stylesheet" id="newsup-style-css" href="http://www.xzclass.com/wp-content/themes/newsberg/style.css?ver=6.6.2" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="http://www.xzclass.com/wp-content/themes/newsup/css/font-awesome/css/all.min.css?ver=6.6.2" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="http://www.xzclass.com/wp-content/themes/newsup/css/font-awesome/css/v4-shims.min.css?ver=6.6.2" media="all">
+<link rel="stylesheet" id="owl-carousel-css" href="http://www.xzclass.com/wp-content/themes/newsup/css/owl.carousel.css?ver=6.6.2" media="all">
+<link rel="stylesheet" id="smartmenus-css" href="http://www.xzclass.com/wp-content/themes/newsup/css/jquery.smartmenus.bootstrap.css?ver=6.6.2" media="all">
+<link rel="stylesheet" id="newsup-custom-css-css" href="http://www.xzclass.com/wp-content/themes/newsup/inc/ansar/customize/css/customizer.css?ver=1.0" media="all">
+<link rel="stylesheet" id="newsup-style-parent-css" href="http://www.xzclass.com/wp-content/themes/newsup/style.css?ver=6.6.2" media="all">
+<link rel="stylesheet" id="newsberg-style-css" href="http://www.xzclass.com/wp-content/themes/newsberg/style.css?ver=1.0" media="all">
+<link rel="stylesheet" id="newsberg-default-css-css" href="http://www.xzclass.com/wp-content/themes/newsberg/css/colors/default.css?ver=6.6.2" media="all">
+<script src="http://www.xzclass.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="http://www.xzclass.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="http://www.xzclass.com/wp-content/plugins/ansar-import/public/js/ansar-import-public.js?ver=1.0.5" id="ansar-import-js"></script>
+<script src="http://www.xzclass.com/wp-content/themes/newsup/js/navigation.js?ver=6.6.2" id="newsup-navigation-js"></script>
+<script src="http://www.xzclass.com/wp-content/themes/newsup/js/bootstrap.js?ver=6.6.2" id="bootstrap-js"></script>
+<script src="http://www.xzclass.com/wp-content/themes/newsup/js/owl.carousel.min.js?ver=6.6.2" id="owl-carousel-min-js"></script>
+<script src="http://www.xzclass.com/wp-content/themes/newsup/js/jquery.smartmenus.js?ver=6.6.2" id="smartmenus-js-js"></script>
+<script src="http://www.xzclass.com/wp-content/themes/newsup/js/jquery.smartmenus.bootstrap.js?ver=6.6.2" id="bootstrap-smartmenus-js-js"></script>
+<script src="http://www.xzclass.com/wp-content/themes/newsup/js/jquery.marquee.js?ver=6.6.2" id="newsup-marquee-js-js"></script>
+<script src="http://www.xzclass.com/wp-content/themes/newsup/js/main.js?ver=6.6.2" id="newsup-main-js-js"></script>
+<link rel="https://api.w.org/" href="http://www.xzclass.com/index.php?rest_route=/"><link rel="alternate" title="JSON" type="application/json" href="http://www.xzclass.com/index.php?rest_route=/wp/v2/posts/2203"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.xzclass.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6.2">
+<link rel="canonical" href="http://www.xzclass.com/?p=2203">
+<link rel="shortlink" href="http://www.xzclass.com/?p=2203">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="http://www.xzclass.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Fwww.xzclass.com%2F%3Fp%3D2203">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="http://www.xzclass.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Fwww.xzclass.com%2F%3Fp%3D2203&amp;format=xml">
+<!-- Analytics by WP-Statistics v13.1.7 - https://wp-statistics.com/ -->
+<link rel="pingback" href="http://www.xzclass.com/xmlrpc.php"><style type="text/css" id="custom-background-css">
+    .wrapper { background-color: #eee; }
+</style>
+    <style type="text/css">
+            body .site-title a,
+        body .site-description {
+            color: ##143745;
+        }
+
+        .site-branding-text .site-title a {
+                font-size: px;
+            }
+
+            @media only screen and (max-width: 640px) {
+                .site-branding-text .site-title a {
+                    font-size: 40px;
+
+                }
+            }
+
+            @media only screen and (max-width: 375px) {
+                .site-branding-text .site-title a {
+                    font-size: 32px;
+
+                }
+            }
+
+        </style>
+    <script src="http://www.xzclass.com/wp-includes/js/wp-emoji-release.min.js?ver=6.6.2" defer=""></script></head>
+<body class="post-template-default single single-post postid-2203 single-format-standard wp-embed-responsive ta-hide-date-author-in-list">
+<div id="page" class="site">
+<a class="skip-link screen-reader-text" href="#content">
+跳至内容</a>
+    <div class="wrapper" id="custom-background-css">
+        <header class="mg-headwidget">
+            <!--==================== TOP BAR ====================-->
+
+                        <div class="clearfix"></div>
+                        <div class="mg-nav-widget-area-back" style="background-image: url(&quot;http://www.xzclass.com/wp-content/themes/newsberg/images/head-back.jpg&quot; );">
+                        <div class="overlay">
+              <div class="inner" style="background-color:rgba(32,47,91,0.4);"> 
+                <div class="container-fluid">
+                    <div class="mg-nav-widget-area">
+                        <div class="row align-items-center">
+                                                        <div class="col-md-3 text-center-xs">
+                                                                <div class="navbar-header">
+                                                                  <div class="site-branding-text">
+                                                                <p class="site-title"> <a href="http://www.xzclass.com/" rel="home">鲜枣课堂</a></p>
+                                                                <p class="site-description">通俗易懂的信息通信知识平台</p>
+                                </div>
+                             
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+              </div>
+              </div>
+          </div>
+    <div class="mg-menu-full">
+      <nav class="navbar navbar-expand-lg navbar-wp">
+        <div class="container-fluid">
+          <!-- Right nav -->
+                    <div class="m-header align-items-center">
+                                                <a class="mobilehomebtn" href="http://www.xzclass.com"><span class="fa-solid fa-house-chimney"></span></a>
+                        <!-- navbar-toggle -->
+                        <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#navbar-wp" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                          <span class="burger">
+                            <span class="burger-line"></span>
+                            <span class="burger-line"></span>
+                            <span class="burger-line"></span>
+                          </span>
+                        </button>
+                        <!-- /navbar-toggle -->
+                                                <div class="dropdown show mg-search-box pr-2">
+                            <a class="dropdown-toggle msearch ml-auto" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                               <i class="fas fa-search"></i>
+                            </a> 
+                            <div class="dropdown-menu searchinner" aria-labelledby="dropdownMenuLink">
+                                <form role="search" method="get" id="searchform" action="http://www.xzclass.com/">
+  <div class="input-group">
+    <input type="search" class="form-control" placeholder="搜索" value="" name="s">
+    <span class="input-group-btn btn-default">
+    <button type="submit" class="btn"> <i class="fas fa-search"></i> </button>
+    </span> </div>
+</form>                            </div>
+                        </div>
+                                              
+                    </div>
+                    <!-- /Right nav -->
+         
+          
+                  <div class="collapse navbar-collapse" id="navbar-wp">
+                    <div class="d-md-block">
+                      <ul id="menu-%e4%b8%bb%e9%a1%b5%e8%8f%9c%e5%8d%95" class="nav navbar-nav mr-auto" data-smartmenus-id="17315600008590896"><li class="active home"><a class="homebtn" href="http://www.xzclass.com"><span class="fa-solid fa-house-chimney"></span></a></li><li id="menu-item-1963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1963"><a class="nav-link" title="算力知识库" href="https://linjootech.feishu.cn/wiki/space/7342729641056026628?ccm_open_type=lark_wiki_spaceLink&amp;open_tab_from=wiki_home">算力知识库</a></li>
+<li id="menu-item-1962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1962"><a class="nav-link" title="通信知识库" href="https://linjootech.feishu.cn/wiki/space/7342491342368735235">通信知识库</a></li>
+<li id="menu-item-1983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1983 dropdown"><a class="nav-link has-submenu" title="通信" href="http://www.xzclass.com/?cat=472" id="sm-17315600008590896-1" aria-haspopup="true" aria-controls="sm-17315600008590896-2" aria-expanded="false">通信 <span class="sub-arrow"></span></a>
+<ul role="group" class=" dropdown-menu" id="sm-17315600008590896-2" aria-hidden="true" aria-labelledby="sm-17315600008590896-1" aria-expanded="false">
+	<li id="menu-item-989" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-989"><a class="dropdown-item" title="通信基础知识" href="http://www.xzclass.com/?cat=54">通信基础知识</a></li>
+	<li id="menu-item-1969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1969 dropdown"><a class="dropdown-item has-submenu" title="无线通信" href="http://www.xzclass.com/?cat=461" id="sm-17315600008590896-3" aria-haspopup="true" aria-controls="sm-17315600008590896-4" aria-expanded="false">无线通信<span class="sub-arrow"></span></a>
+	<ul role="group" class=" dropdown-menu" id="sm-17315600008590896-4" aria-hidden="true" aria-labelledby="sm-17315600008590896-3" aria-expanded="false">
+		<li id="menu-item-1971" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1971"><a class="dropdown-item" title="无线通信基础" href="http://www.xzclass.com/?cat=462">无线通信基础</a></li>
+		<li id="menu-item-979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-979"><a class="dropdown-item" title="无线接入网" href="http://www.xzclass.com/?cat=195">无线接入网</a></li>
+		<li id="menu-item-1970" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1970"><a class="dropdown-item" title="短距离无线通信" href="http://www.xzclass.com/?cat=463">短距离无线通信</a></li>
+		<li id="menu-item-983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-983"><a class="dropdown-item" title="物联网" href="http://www.xzclass.com/?cat=81">物联网</a></li>
+		<li id="menu-item-1972" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1972"><a class="dropdown-item" title="微波通信" href="http://www.xzclass.com/?cat=464">微波通信</a></li>
+		<li id="menu-item-973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-973"><a class="dropdown-item" title="5G" href="http://www.xzclass.com/?cat=11">5G</a></li>
+		<li id="menu-item-974" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-974"><a class="dropdown-item" title="6G" href="http://www.xzclass.com/?cat=126">6G</a></li>
+	</ul>
+</li>
+	<li id="menu-item-977" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-977"><a class="dropdown-item" title="承载网" href="http://www.xzclass.com/?cat=12">承载网</a></li>
+	<li id="menu-item-982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-982"><a class="dropdown-item" title="核心网" href="http://www.xzclass.com/?cat=25">核心网</a></li>
+	<li id="menu-item-987" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-987 dropdown"><a class="dropdown-item has-submenu" title="通信简史" href="http://www.xzclass.com/?cat=48" id="sm-17315600008590896-5" aria-haspopup="true" aria-controls="sm-17315600008590896-6" aria-expanded="false">通信简史<span class="sub-arrow"></span></a>
+	<ul role="group" class=" dropdown-menu" id="sm-17315600008590896-6" aria-hidden="true" aria-labelledby="sm-17315600008590896-5" aria-expanded="false">
+		<li id="menu-item-986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-986"><a class="dropdown-item" title="通信企业" href="http://www.xzclass.com/?cat=28">通信企业</a></li>
+		<li id="menu-item-988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-988"><a class="dropdown-item" title="通信名人" href="http://www.xzclass.com/?cat=52">通信名人</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1982" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-1982 dropdown"><a class="nav-link has-submenu" title="算力" href="http://www.xzclass.com/?cat=473" id="sm-17315600008590896-7" aria-haspopup="true" aria-controls="sm-17315600008590896-8" aria-expanded="false">算力 <span class="sub-arrow"></span></a>
+<ul role="group" class=" dropdown-menu" id="sm-17315600008590896-8" aria-hidden="true" aria-labelledby="sm-17315600008590896-7" aria-expanded="false">
+	<li id="menu-item-975" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-975"><a class="dropdown-item" title="算力基础知识" href="http://www.xzclass.com/?cat=45">算力基础知识</a></li>
+	<li id="menu-item-1974" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1974"><a class="dropdown-item" title="算力-硬件篇" href="http://www.xzclass.com/?cat=469">算力-硬件篇</a></li>
+	<li id="menu-item-1975" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1975"><a class="dropdown-item" title="算力-软件篇" href="http://www.xzclass.com/?cat=470">算力-软件篇</a></li>
+	<li id="menu-item-1976" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-1976 dropdown"><a class="dropdown-item has-submenu" title="算力-应用篇" href="http://www.xzclass.com/?cat=471" id="sm-17315600008590896-9" aria-haspopup="true" aria-controls="sm-17315600008590896-10" aria-expanded="false">算力-应用篇<span class="sub-arrow"></span></a>
+	<ul role="group" class=" dropdown-menu" id="sm-17315600008590896-10" aria-hidden="true" aria-labelledby="sm-17315600008590896-9" aria-expanded="false">
+		<li id="menu-item-976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-976"><a class="dropdown-item" title="云计算" href="http://www.xzclass.com/?cat=84">云计算</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1973"><a class="dropdown-item" title="算力简史" href="http://www.xzclass.com/?cat=468">算力简史</a></li>
+</ul>
+</li>
+<li id="menu-item-978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-978"><a class="nav-link" title="数字化转型" href="http://www.xzclass.com/?cat=68">数字化转型</a></li>
+<li id="menu-item-992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-992"><a class="nav-link" title="职业发展" href="http://www.xzclass.com/?cat=78">职业发展</a></li>
+<li id="menu-item-990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-990"><a class="nav-link" title="大学生指南" href="http://www.xzclass.com/?cat=93">大学生指南</a></li>
+<li id="menu-item-984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-984"><a class="nav-link" title="行业热点分析" href="http://www.xzclass.com/?cat=6">行业热点分析</a></li>
+<li id="menu-item-991" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-991"><a class="nav-link" title="行业展会" href="http://www.xzclass.com/?cat=72">行业展会</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-981"><a class="nav-link" title="枣君随笔" href="http://www.xzclass.com/?cat=36">枣君随笔</a></li>
+<li id="menu-item-1026" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1026"><a class="nav-link" title="好书推荐" href="http://www.xzclass.com/?cat=375">好书推荐</a></li>
+<li id="menu-item-2004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2004"><a class="nav-link" title="培训通告" href="http://www.xzclass.com/?cat=474">培训通告</a></li>
+<li id="menu-item-1051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1051"><a class="nav-link" title="用户登录" href="http://www.xzclass.com/wp-login.php">用户登录</a></li>
+<li id="menu-item-998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-998"><a class="nav-link" title="线上课程" href="http://www.xzclass.com/?page_id=50">线上课程</a></li>
+<li id="menu-item-2392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2392"><a class="nav-link" title="原创PPT合集" href="http://www.xzclass.com/?page_id=2390">原创PPT合集</a></li>
+</ul>                      </div>      
+                  </div>
+
+                    <!-- Right nav -->
+                    <div class="desk-header d-lg-flex pl-3 ml-auto my-2 my-lg-0 position-relative align-items-center">
+                        <!-- /navbar-toggle -->
+                                                <div class="dropdown show mg-search-box pr-2">
+                            
+
+                            <a class="dropdown-toggle msearch ml-auto" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                               <i class="fas fa-search"></i>
+                            </a>
+
+                            <div class="dropdown-menu searchinner" aria-labelledby="dropdownMenuLink">
+                                <form role="search" method="get" id="searchform" action="http://www.xzclass.com/">
+  <div class="input-group">
+    <input type="search" class="form-control" placeholder="搜索" value="" name="s">
+    <span class="input-group-btn btn-default">
+    <button type="submit" class="btn"> <i class="fas fa-search"></i> </button>
+    </span> </div>
+</form>                            </div>
+                        </div>
+                                          </div>
+                    <!-- /Right nav -->
+          </div>
+      </nav> <!-- /Navigation -->
+    </div>
+</header>
+<div class="clearfix"></div>
+ <!-- =========================
+     Page Content Section      
+============================== -->
+<main id="content" class="single-class content">
+    <!--container-->
+    <div class="container-fluid">
+      <!--row-->
+      <div class="row">
+        <!--col-md-->
+                                                <div class="col-lg-9 col-md-8">
+                    		                  <div class="mg-blog-post-box"> 
+              <div class="mg-header">
+                                <div class="mg-blog-category"> 
+                      <a class="newsup-categories category-color-1" href="http://www.xzclass.com/?cat=433" alt="查看 人工智能 中所有文章"> 
+                                 人工智能
+                             </a>                </div>
+                                <h1 class="title single"> <a title="永久链接：入门必读！写给初学者的人工智能简史！">
+                  入门必读！写给初学者的人工智能简史！</a>
+                </h1>
+                                <div class="media mg-info-author-block"> 
+                                    <a class="mg-author-pic" href="http://www.xzclass.com/?author=1">  </a>
+                                    <div class="media-body">
+                                        <h4 class="media-heading"><span>作者</span><a href="http://www.xzclass.com/?author=1">鲜枣课堂</a></h4>
+                                        <span class="mg-blog-date"><i class="fas fa-clock"></i> 
+                      7 月 17, 2024</span>
+                                        <span class="newsup-tags"><i class="fas fa-tag"></i>
+                       <a href="http://www.xzclass.com/?tag=ai">#AI</a>, <a href="http://www.xzclass.com/?tag=%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd">#人工智能</a>                    </span>
+                                    </div>
+                </div>
+                            </div>
+                            <article class="page-content-single small single">
+                <section style="margin-bottom: 0px;, Arial, sans-serif;letter-spacing: 0.544px"><span style="letter-spacing: 0.544px;font-size: 16px">最近这两年，随着AIGC大模型的崛起，整个社会掀起了一股强劲的AI浪潮。</span></section>
+<section style="margin-bottom: 0px;, Arial, sans-serif;letter-spacing: 0.544px"></section>
+<section style="margin-bottom: 0px;, Arial, sans-serif;letter-spacing: 0.544px"><span style="font-size: 16px">人们在关注AI，企业在拥抱AI，资本在追逐AI。凡是和AI有关的概念，都会吸引大量的目光。<br></span></section>
+<section style="margin-bottom: 0px;, Arial, sans-serif;letter-spacing: 0.544px"></section>
+<section style="margin-bottom: 0px;, Arial, sans-serif;letter-spacing: 0.544px"><span style="font-size: 16px">那么，AI是如何一步一步走到今天的呢？它经历了哪些发展阶段，又发生过哪些精彩的故事？</span></section>
+<section style="margin-bottom: 0px;, Arial, sans-serif;letter-spacing: 0.544px"></section>
+<section style="margin-bottom: 0px;, Arial, sans-serif;letter-spacing: 0.544px"><span style="font-size: 16px">今天这篇文章，我们就来仔细回顾一下，人类AI的发展历程。</span></section>
+<section style="margin-bottom: 0px;, Arial, sans-serif;letter-spacing: 0.544px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 17px"><span><strong>█</strong></span><strong> 萌芽阶段</strong></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">人类对人造智能体的追求和畅想，最早可以追溯到古希腊时代。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">在古希腊神话中，火与工匠之神赫菲斯托斯，曾经制作了一组金制的女机器人，“有心能解意，有嘴能说话，有手能使力，精通手工制造”。<br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">在中国的古代史籍中，也出现过“人工智能”的影子。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">《列子·汤问篇》中，偃师向周穆王进献了一个机械人，会唱歌、会跳舞，还会挑逗<span style="letter-spacing: 0.578px">周</span>穆王的嫔妃。周穆王醋意爆发，认为机械人是真人假扮，要杀掉偃师。偃师赶紧将机械人拆散，周穆公才罢休。<br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">上面的这些文字记载，显然都不靠谱。在遥远且漫长的古代，以人类当时的技术水平，肯定是造不出智能体的。能造出一些简单的机械（例如诸葛亮的木牛流马），都已经很了不起了。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">人们对智能体的寄望，很多都依托于鬼神等宗教信仰——将人的灵魂附身于机械，才能够实现“人工智能”。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">到了近现代，随着工业革命的爆发，人类开始逐渐进入机械计算、电气计算时代。计算能力的不断增长，使得通过“算力<span style="letter-spacing: 0.578px">”</span>来驱动“智能”，成为一种可行选项。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">17世纪，莱布尼茨、托马斯·霍布斯和笛卡儿等率先提出：是否可以将人类理性的思考系统，转化为代数学或几何学体系？</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">莱布尼茨认为：“人类的思想，可以简化成某种运算。<span style="letter-spacing: 0.578px">”</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">霍布斯也提出：“推理就是计算。”&nbsp;</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">这些伟大的思想，为后来的计算机和人工智能发展指明了方向。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">再后面的事情，大家都比较清楚了——</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">在查尔斯·巴贝奇（Charles Babbage）的分析机、赫尔曼·何乐礼（Herman Hollerith）的制表机、<span style="letter-spacing: 0.578px">阿兰·图灵（Alan Turing）的图灵机，以及Z3、珍妮机、Mark I、ENIAC等一系列发明的接力推动下，人类终于进入了数字电子计算机时代，也开启了波澜壮阔的信息技术革命。（不清楚的，看这里：<a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MzI1NTA0MDUyMA==&amp;mid=2456694992&amp;idx=1&amp;sn=57056a5b5f8c3492e2b2265a9cca3daf&amp;chksm=fda69db7cad114a14834f9160e2c4182fe4c99988b1744a13a0e26100f903bc5eaf7f1f9b80e&amp;scene=21#wechat_redirect" data-itemshowtype="0" data-linktype="2" rel="noopener">算力简史</a>）</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 17px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px"><strong>█</strong></span><strong style="letter-spacing: 0.578px">&nbsp;第一次高潮阶段</strong><strong style="letter-spacing: 0.578px"><strong style="font-size: 16px;letter-spacing: 0.578px"><span style=", sans-serif;letter-spacing: normal;text-align: start">（1950年-1973年）</span></strong></strong></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-weight: bold;font-size: 16px">
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><strong><span style="letter-spacing: 0.578px">图灵测试</span></strong><span style="letter-spacing: 0.578px"><br></span></span></section>
+</li>
+</ul>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">数字电子计算机正式诞生之后，很快就有科学家开始探索，是否可以通过计算机来实现“智能”。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1950年，阿兰·图灵在《心灵（Mind）》杂志上发表了一篇非常重要的论文，名叫《计算机器与智能（Computing Machinery and Intelligence）》。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215087" data-ratio="1.2742616033755274" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd437LHvgPo5WICQeN4EMGqoAlSdpDmwvNicA4knrAm9iaWgwYstdgvlr0KFW5RumMZxARkCibNfyLxXXSw/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="474" style="width: 144px;height: 183px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">阿兰·图灵（1912-1954）</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">在论文开头，他就提出了一个灵魂之问：</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="font-size: 16px"><em><span style="letter-spacing: 0.578px">“I propose to consider the question, ‘Can machines think?’”</span></em></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="font-size: 16px"><em><span style="letter-spacing: 0.578px">“我提议思考这样一个问题：‘机器可以思考吗？’”</span></em></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">图灵在论文中仔细讨论了创造“智能机器”的可能性。由于“智能”一词很难定义，他提出了著名的图灵测试（以下为大致意思）：<br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><em><span>“一个人在不接触对方的情况下，通过一种特殊的方式和对方进行一系列的问答。如果在相当长时间内，他无法根据这些问题判断对方是人还是计算机，那么，就可以认为这个计算机是智能的。<span style="letter-spacing: 0.578px">”</span></span></em></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215123" data-ratio="0.5268518518518519" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr91IicnF6KiblsF8qq0icVlwfbGfmrGvicJibS3NVz69saoyibjdtsP3d5mBXw/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080"></section>
+<p style="letter-spacing: 0.578px;margin-bottom: 0px;text-align: center"><span style="letter-spacing: 0.578px;font-size: 15px">图灵测试</span></p>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">图灵的论文，在学术界引起了广泛的反响。越来越多的学者被这个话题所吸引，参与到对“机器智能”的研究之中。其中，就包括达特茅斯学院的年轻数学助教约翰·麦卡锡（J. McCarthy），以及哈佛大学的年轻数学和神经学家马文·明斯基（M. L. Minsky）。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-size: 16px">
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><strong>达特茅斯会议</strong></span></section>
+</li>
+</ul>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1955年9月，<span style="letter-spacing: 0.578px">约翰·麦卡锡、马文·明斯基、克劳德·香农（C. E. Shannon）、纳撒尼尔·罗切斯特（N. Rochester）四人，共同提出了一个关于机器智能的研究项目。在项目中，首次引入了“Artificial Intelligence<span style="letter-spacing: 0.578px">”这个词，也就是人工智能。</span></span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1956年6月，在刚才那4个人的召集下，在洛克菲勒基金会的资助下，十余位<span style="letter-spacing: 0.578px">来自不同领域的</span>专家，聚集在美国新罕布什尔州汉诺威镇的<span style="letter-spacing: 0.578px">达特茅斯学院，召开了一场为期将近两月的学术研讨会，专门讨论机器智能。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">这次研讨会，就是著名的<span style="letter-spacing: 0.578px">达特茅斯</span>会议（Dartmouth workshop）。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-cropselx1="0" data-cropselx2="578" data-cropsely1="0" data-cropsely2="434" data-galleryid="" data-imgfileid="309215088" data-ratio="0.75" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd437LHvgPo5WICQeN4EMGqoAlyZIQZdMFbq7xNgExo1ypxSJJdgQASHkvATicJiaBPHaZw0W4mfEF0xmQ/640?wx_fmt=png&amp;from=appmsg" data-type="webp" data-w="1080" style="width: 578px;height: 433px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">参加会议的部分大佬</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><span style="letter-spacing: 0.578px">达特茅斯会议并没有得出什么重要的结论或宣言，但是认可了</span>“人工智能（<span style="letter-spacing: 0.578px">Artificial Intelligence</span>）”的命名，也大致明确了后续的研究方向。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">这次会议，标志着人工智能作为一个研究领域正式诞生，也被后人视为现代人工智能的起点。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-weight: bold;font-size: 16px">
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><strong>AI三大学派</strong><br></span></section>
+</li>
+</ul>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><span style="letter-spacing: 0.578px">达特茅斯会议</span>之后，人工智能进入了一个快速发展阶段。参与研究的人变得更多了，而且，也逐渐形成了几大学术派系。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">在这里，我们要提到人工智能最著名的三大学派——符号主义、联结主义（也叫联接主义、连结主义）、行为主义。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215090" data-ratio="0.4666666666666667" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd437LHvgPo5WICQeN4EMGqoAlgw5dG0m8c5JGXiacSYicItmandqDQNmeJvI5icXb4OE0IbticNoMc5Wzcg/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080" style="width: 352px;height: 164px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><strong><span style="letter-spacing: 0.578px">符号主义</span></strong><span style="letter-spacing: 0.578px">是当时最主流的一个学派。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">他们认为，世界中的实体、概念以及它们之间的关系，都可以用符号来表示。人类思维的基本单元，也是符号。如果计算机能像人脑一样，接收符号输入，对符号进行操作处理，然后产生符号输出，就可以表现出智能。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">这个思路，关键在于把知识进行编码，形成一个知识库，然后通过推理引擎和规则系统，进行推断，以此解决复杂的问题。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">符号主义早期的代表性成果，是1955年赫伯特·西蒙（Herbert A. Simon，也译为司马贺）和艾伦·纽维尔（Allen Newell）开发的一个名为“逻辑理论家（Logic Theorist）<span style="letter-spacing: 0.578px">”</span>的程序。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">“<span style="letter-spacing: 0.578px">逻辑理论家</span>”被认为是人类历史上第一个人工智能程序，并且在达特茅斯会议上进行了演示。它将每个问题都表示成一个树形模型，然后选择最可能得到正确结论的那条线，来求解问题。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1957年，<span style="letter-spacing: 0.578px">赫伯特·西蒙</span>等人在“逻辑理论家<span style="letter-spacing: 0.578px">”</span>的基础上，又推出了通用问题解决器<span style="letter-spacing: 0.578px">（General Problem Solver，GPS）</span>，也是符号主义的早期代表。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">进入1960年代，符号主义也进入了一个鼎盛时期。在自然语言理解、微世界推理、专家系统（注意这个词，后面会再次提到它）等领域，人工智能取得了突破性的进展，也逐渐成为公众关注的对象。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1958年，<span style="letter-spacing: 0.578px">约翰·麦卡锡</span>正式发布了自己开发的人工智能编程语言——LISP（<span style="letter-spacing: 0.578px">LIST PROCESSING，意思是”表处理”）</span>。后来的很多知名AI程序，都是基于LISP开发的。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-align: center"><span style="letter-spacing: 0.578px;font-size: 16px"><img decoding="async" class="rich_pages wxw-img" data-imgfileid="309215095" data-ratio="0.7496251874062968" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9p3jNMmsPQlnJlibLUHOr9sNrgFrcBNQSrftwrMEic3EGib6fFLNwAV0Zw/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="667" style="width: 268px;height: 201px"></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-align: center"><span style="letter-spacing: 0.578px;font-size: 15px">约翰·麦卡锡（1927-2011）</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><span style="letter-spacing: 0.578px">1966年，</span><span style=", 微软雅黑;letter-spacing: normal;text-align: start">美国麻省理工学院的魏泽鲍姆（Joseph Weizenbaum），发布了世界上第一个聊天机器人——ELIZA。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px">ELIZA的名字源于萧伯纳戏剧作品《卖花女》中的主角名。它<span style=", 微软雅黑;letter-spacing: 0.578px;text-align: start">只有200行程序代码和一个有限的对话库，可以</span>针对提问中的关键词，进行答复。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px">ELIZA其实没有任何智能性可言。它基于规则运作，既<span style=", 微软雅黑;letter-spacing: 0.578px;text-align: start">不理解对方的内容，也不知道自己在说什么</span>。但即便如此，它还是在当时引起了轰动。<span style=", 微软雅黑;letter-spacing: normal;text-align: start">ELIZA</span>可以说是现在Siri、小爱同学等问答交互工具的鼻祖。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215096" data-ratio="0.799074074074074" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9P0e2WBGSxXL9Q1yyvc7Sq5FXXzImJRuqiaPYWUmDkNxtbKvJndIVQLg/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080" style="width: 314px;height: 251px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 15px">魏泽鲍姆（坐者）正在与ELIZA对话</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">再来看看<strong>联结主义</strong>。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">联结主义，<span style="letter-spacing: 0.578px">强调模仿人脑的工作原理，建立神经元之间的联结模型，以此实现人工神经运算。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">大家可能会有点激动。没错，这就是现在非常热门的神经网络模型。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><span style="letter-spacing: 0.578px">神经网络的概念其实诞生得很早。</span>1943年，美国神经生理学家沃伦·麦卡洛克（Warren McCulloch<span style="letter-spacing: 0.578px">）</span>和数学家沃尔特·皮茨（Walter Pitts<span style="letter-spacing: 0.578px">）</span>，基于人类大脑的神经网络，创建了一个<span style="letter-spacing: 0.578px">形式神经元的</span>计算机模型，并将其取名为MCP（<span style="letter-spacing: 0.578px">McCulloch&amp;Pitts</span>）模型。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215097" data-ratio="0.6707482993197279" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9shv0tlsWnBOcH7PLXh8eod5Mm4D3yIT3qCSksrNTvGtQnGT8ibp8iaHw/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="735"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 15px">沃尔特·皮茨（左）和沃伦·麦卡洛克（右）</span></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 15px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215125" data-ratio="0.9925187032418953" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9HxdjgrFLqSUDbseLCudqrFnKro99Tq26tHlImtbVKu7lozU6Wm82xw/640?wx_fmt=webp&amp;from=appmsg" data-type="webp" data-w="401"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">MCP模型</span></section>
+<section style="text-align: center;margin-bottom: 0px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1951年，马文·明斯基（就是前面提到的那个）和<span style="letter-spacing: 0.578px">他的同学邓恩·埃德蒙（Dunn Edmund），</span>建造了第一台神经网络机SNARC。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.034em;font-size: 16px">1957年，美国康奈尔大学的心理学家<span style="letter-spacing: 0.578px">和计算机科学家</span>弗兰克·罗森布拉特（Frank Rosenblatt），在一台IBM-704计算机上，模拟实现了一种他发明的叫“感知机<span style="letter-spacing: 0.578px">&nbsp;(Perceptron)&nbsp;</span>”的神经网络模型。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.034em;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215098" data-ratio="0.8287292817679558" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr94giaQ49K0z5E3a93icWIIicW5ZDrwicC1xSV6iaOOBx4UXTibTdI4et7yfrg/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="543" style="width: 285px;height: 236px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="letter-spacing: 0.544px;font-size: 15px">弗兰克·罗森布拉特和他的感知机</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.034em;font-size: 16px">这个<span style="letter-spacing: 0.544px">“感知器”<span style="letter-spacing: 0.578px">包括三层结构，一端是<span style="letter-spacing: 0.578px">400个光探测器，模拟视网膜。<span style="letter-spacing: 0.578px">光探测器<span style="letter-spacing: 0.578px">多次连接一组512个电子触发器。<span style="letter-spacing: 0.578px">当它通过一个特定的可调节的兴奋阀值时，就会像神经元一样激发。这些触发器连接到最后一层，当一个物体与感知器受训见过的对象相互匹配时，它就会发出信号。</span></span></span></span></span></span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<p style="letter-spacing: 0.578px;margin-bottom: 0px;text-align: center"><span style="font-size: 16px;letter-spacing: 0.578px"><img decoding="async" class="rich_pages wxw-img" data-imgfileid="309215099" data-ratio="0.5962962962962963" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr95TxPIVzTNt13ZDjlWRib1S4mfUvSiavAibPye5PV4dytc0k60hP9WwvEg/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="1080" style="width: 408px;height: 243px"></span></p>
+<p style="letter-spacing: 0.578px;margin-bottom: 0px;text-align: center"><span style="letter-spacing: 0.578px;font-size: 15px">感知机的工作原理</span></p>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><span style="letter-spacing: 0.544px">“感知机</span>”是联结主义的一项重要成果，在人工智能发展史上具有里程碑式的意义。但是，后来的一盆冰水，彻底浇灭了联结主义的热情。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.034em;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1969年，马文·明斯基和西蒙·派珀特（Seymour Papert）写了一本书《感知机: 计算几何学导论》的书，对罗森布莱特的感知器提出了质疑。马文·明斯基认为：</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><em><span style="letter-spacing: 0.578px;font-size: 16px">“神经网络具有很大的局限性（单层感知机无法解决线性不可分问题），没有实际研究价值。”</span></em></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215100" data-ratio="0.9472222222222222" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9vh5Lymia8VcGNNqWgCj7V4k0ic0icuTOxp3lny41PEyAia50vXfwRFgp0Q/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="1080" style="width: 274px;height: 260px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">马文·明斯基（1927-2016）</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">来自大神的否定，等于直接宣判了神经网络（联结主义）路线的死刑。于是，这个非常有价值的研究方向，被中止了。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">罗森布莱特后来死于意外（也有人说是自杀），马文·明斯基也因为这个错误的判断，被一些学者抨击。</span><span style="font-size: 16px;letter-spacing: 0.578px">（需要注意，马文·明斯基虽然有误判，但他对人工智能事业的功远大于过，甚至也被誉为“人工智能之父”。）</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">等到神经网络（联结主义）重新崛起，已经是十多年后的事情了。我们待会再详细说。<br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">最后，说说<strong>行为主义</strong>。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">行为主义，也称为进化主义或控制论学派。他们认为，<span style="letter-spacing: 0.578px">通过与环境的互动来学习和适应，从而改进自身行为，就是行为主义认为的智能。</span>智能取决于感知和行动，不需要知识、表示和推理，只需要将智能行为表现出来就好。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">简单来说，行为主义AI系统基于“感知-动作<span style="letter-spacing: 0.578px">”</span>的闭环控制，<span style="letter-spacing: 0.578px">强调即时反馈和适应性学习</span>。智能体通过感知环境信息，基于这些信息执行动作，并根据动作结果调整后续行为。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">行为主义在后来的机器人学、自动化控制、游戏AI、自动驾驶汽车等领域有着重要应用。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">好了，以上是AI三大重要学派的介绍，作为学习AI的知识铺垫，也有助于阅读后面的文章。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">请大家注意，AI的学派和思想路线并不止这三个，还有一些小学派，例如进化计算、模糊逻辑、贝叶斯网络等。它们虽不构成独立的大学派，但在AI的某些子领域内有着重要的应用和影响。而且，AI学派之间，边界也比较模糊，有时候会互相融合。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-weight: bold">
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><strong><span style="font-size: 16px">其它重要成果</span></strong></section>
+</li>
+</ul>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">再简单介绍一下当时另外几项重要的研究成果。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">首先必须是亚瑟·塞缪尔（Arthur Samuel）的跳棋程序。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">1959年，IBM科学家<span style="letter-spacing: 0.578px">亚瑟·塞缪尔</span>在自家首台商用计算机IBM701上，成功编写了一套西洋跳棋程序。<span style="letter-spacing: 0.578px">这个程序具有“学习能力”，可以通过对大量棋局的分析，逐渐辨识出“好棋”和“坏棋”，从而提高自己的下棋水平。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">这个程序<span style="letter-spacing: 0.578px">很快就下赢了萨缪尔自己，后来，它还</span>战胜了当时的西洋跳棋大师罗伯特尼赖。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">因为首次提出了“机器学习（Machine Learning）”的概念，<span style="letter-spacing: 0.578px">亚瑟·塞缪尔</span>被后人誉为“机器学习之父”。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215101" data-ratio="0.5645161290322581" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9fic1DU4Aiay40iaJdU7XFwuPJjicn5OwGvS7QicoP9ceaM8T60nfWQIs5vw/640?wx_fmt=webp&amp;from=appmsg" data-type="webp" data-w="620"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 15px">亚瑟·塞缪尔（1901-1990）</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1959年，美国发明家乔治·德沃尔（George Devol）与约瑟夫·英格伯格（Joseph Engelberger）发明了人类首台工业机器人——Unimate。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><span style="letter-spacing: 0.578px">Unimate重达两吨，安装运行于通用汽车生产线。它可以</span>控制一台多自由度的机械臂，搬运和堆叠热压铸金属件。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215102" data-ratio="0.4898148148148148" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9mQaYEH8Z9k3phmtq1O9LTZZTAOfIdkvFovECFUibjJAn2m2BVR0zvfQ/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">左图为<span style="font-size: 16px;letter-spacing: 0.578px">Unimate</span></span></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">右图是<span style="letter-spacing: 0.578px;text-align: center">约瑟夫·英格伯格（左）、</span><span style="letter-spacing: 0.578px">乔治·德沃尔（右）</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">1966年，<span style="letter-spacing: 0.578px">查理·罗森（Charlie Rosen）领导的</span>美国斯坦福研究所（SRI），研发成功了<span style="letter-spacing: 0.578px">首台人工智能机器人——</span>Shakey。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><span style="letter-spacing: 0.578px">Shakey全面应用了人工智能技术，装备了电子摄像机、三角测距仪、碰撞传感器以及驱动电机，能简单解决感知、运动规划和控制问题。它</span><span style="letter-spacing: 0.578px">是第一个通用移动机器人，也被称为“第一个电子人<span style="letter-spacing: 0.578px">”</span>。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215103" data-ratio="0.6666666666666666" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9cPwibaPjwQWvgJbNExO3I2C4nLiatVax9Sabnke3Fs6YhXzprpSMWyjA/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="600"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">研究人员正在调测Shakey</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 17px"><strong><span style="letter-spacing: 0.578px">█</span>&nbsp;第一次低谷阶段<span style=", sans-serif;letter-spacing: normal;text-align: start">（1974年-1979年）</span></strong></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;text-align: start;letter-spacing: 0.578px;font-size: 16px">刚才说了，1960年代是符号主义的鼎盛时期。其实，在符号主义的带动下，当时整个人工智能研究都进入了一个高速发展的阶段，也被称为AI的<span style=", 微软雅黑;text-align: start;letter-spacing: 0.578px">黄金时代（Golden Time，1960-1973年）。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;text-align: start;letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;text-align: start;letter-spacing: 0.578px;font-size: 16px">那时，除了定理证明、人机互动、<span style=", 微软雅黑;letter-spacing: 0.578px;text-align: start">游戏博弈</span>和<span style=", 微软雅黑;letter-spacing: 0.578px;text-align: start">机器人</span>之外，人工智能很多领域都产出了不错的成果。加上冷战时期，美国政府愿意掏钱资助，使得AI研究变得异常火爆。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;text-align: start;letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;text-align: start;letter-spacing: 0.578px;font-size: 16px">在这一背景下，学术界对AI的预期，开始变得盲目乐观。有些研究者认为：</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;text-align: start;letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><em><span style=", 微软雅黑;text-align: start;letter-spacing: 0.578px;font-size: 16px">“二十年内，机器将能完成人能做到的一切工作。”</span></em></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px">1970年，马文·明斯基甚至放言：</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><em><span style=", 微软雅黑;letter-spacing: normal;text-align: start;font-size: 16px">“在未来3-8年内，会诞生和人类智慧相当的机器人，可能我们人类会成为AI的宠物。”</span></em></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">盲目的乐观，肯定不会有什么好结果。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">随着时间的推移，学者们逐渐发现，基于推理规则的“智能”，实际上能力非常有限。加上当时计算机的算力和存力尚处于早期阶段，系统根本达不到预期的效果。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">之前介绍的那些AI程序和工具，陆续开始出现瓶颈，甚至闹出笑话。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">以机器翻译为例。当时美国<span style="letter-spacing: 0.578px">政府投入了2000多万美元作为机器翻译的经费，结果相关团队研发多年，发现完全低估了这个项目的难度。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">翻译工具经常出现一些低级错误。例如，将“Out of sight，out of mind（眼不见，心不烦）”翻译成“又瞎又疯”，把“<span style="letter-spacing: 0.578px">The spirit is willing but the flesh is weak（</span>心有余而力不足<span style="letter-spacing: 0.578px">）</span>”翻译成“酒是好的，但肉变质了”，把“<span style="letter-spacing: 0.578px">Time flies like an arrow（</span>光阴似箭<span style="letter-spacing: 0.578px">）</span>”翻译成“苍蝇喜欢箭”。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">接二连三的失败，慢慢耗尽了政府金主的耐心。加上不久后美国经济出现了一些问题（1974-1975年出现历史上罕见的连续两年GDP负增长），政府开始决定“断粮”。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1973年，数学家莱特希尔（Lighthill）向英国政府提交了一份关于人工智能的研究报告（著名的《莱特希尔报告》）。报告对当时的机器人技术、语言处理技术和图像识别技术进行了严厉且猛烈的批评，指出人工智能那些看上去宏伟的目标根本无法实现，研究已经彻底失败。<br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">很快，<span style="letter-spacing: 0.578px">英国政府、美国国防部高级研究计划局（<span style="letter-spacing: 0.578px">DARPA</span>）和美国国家科学委员会等，开始</span>大幅削减甚至终止了对人工智能的投资。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">人工智能进入了第一个发展低谷，也被称为“AI Winter（AI之冬）”。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><strong><span style="font-size: 17px"><span style="letter-spacing: 0.578px">█</span>&nbsp;第二次高潮阶段（1980年-1987年）</span></strong></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<p style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 16px">AI之冬的持续时间其实并不是很久。六年后，</span><span style="font-size: 16px;letter-spacing: 0.578px">1980年，第二次AI发展高潮开始了。</span></p>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">第二次浪潮，其实还是符号主义掀起的。这次的主角，是符号主义的一个新阶段——专家系统<span style="letter-spacing: 0.578px">（Expert System）</span>。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-size: 16px">
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><strong>专家系统</strong></span></section>
+</li>
+</ul>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">专家系统，就是一个面向专业领域的超级“知识库+推理库<span style="letter-spacing: 0.578px">”</span>。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">它找来很多人，对大量的专家知识和经验进行整理<span style="letter-spacing: 0.578px">，分析并编写出海量的规则，导入系统。然后，系统根据这些基于知识整理出来的规则，进行逻辑推理，来模拟和延伸人类专家的决策能力，解决复杂的问题。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215120" data-ratio="0.412962962962963" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9Qn6pr91txXFU2n8jHkPIUksibU1V1M4716Qj2WRgTKejWw1xeHYcJOQ/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px">大家能看出来，专家系统</span>走的<span style="letter-spacing: 0.578px">仍然<span style="letter-spacing: 0.578px">是符号主义的</span></span>“规则”路线。所以，专家系统，<span style="letter-spacing: 0.578px">也叫做规则基础系统。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">1968年，美国科学家爱德华·费根鲍姆（Edward Feigenbaum）提出了第一个专家系统——DENDRAL，并对知识库给出了初步的定义。这标志着专家系统的诞生。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215104" data-ratio="0.6654929577464789" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9d239RFRgNjHh2q8ah8dnuLZ1jMMmz1wF5ibvsLO6pFUde7C1QMCphbQ/640?wx_fmt=webp&amp;from=appmsg" data-type="webp" data-w="568" style="width: 324px;height: 216px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 15px">爱德华·费根鲍姆（坐着的那位）</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><span style="letter-spacing: 0.578px">DENDRAL</span><span style="letter-spacing: 0.578px">面向的是化学行业。它可以帮助化学家判断物质的分子结构。系统推出之后，因为能够减少人力成本并且提升工作效率，受到了化学行业的欢迎和认可。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">和DENDRAL差不多时间出现的<span style="letter-spacing: 0.578px">专家系统</span>，还有<span style="letter-spacing: 0.578px">威廉·马丁（<span style="letter-spacing: 0.578px">William A. Martin<span style="letter-spacing: 0.578px">）开发的</span></span>Macsyma，以及<span style="letter-spacing: 0.578px">安东尼·赫恩（Anthony C. Hearn<span style="letter-spacing: 0.578px">）开发的<span style="letter-spacing: 0.578px">“Reduce”。</span></span></span></span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">这两套都是数学领域的专家系统（用于求解数学问题），都采用了约翰·麦卡锡的LISP语言进行开发。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1972年，美国医生兼科学家爱德华·H·肖特利夫（Edward H. Shortliffe）创建了<span style="letter-spacing: 0.578px">可以帮助进行医学诊断的专家系统——</span>MYCIN。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215105" data-ratio="0.7901234567901234" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr94vO91wdickgCgJpd2AYfhphqJFYEYfUy3tp65yQeIwFzlhlP2GkaCCQ/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="567" style="width: 270px;height: 213px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 15px">爱德华·H·肖特利夫</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">MYCIN也是基于LISP语言编写，拥有500多条规则，能够识别51种病菌，正确地处理23种抗菌素。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">它能够协助医生诊断、治疗细菌感染性血液病，为患者提供最佳处方。当时，它<span style="letter-spacing: 0.578px">成功地处理了数百个病例，并通过了严格的测试，显示出了较高的医疗水平。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">1977年，<span style="letter-spacing: 0.578px">爱德华·</span>费根鲍姆在第五届国际人工智能联合会议上，提出了“知识工程（Knowledge Engineering）”的概念，进一步推动了专家系统的普及。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">进入1980年代，<span style="letter-spacing: 0.578px">随着技术的演进，<span style="letter-spacing: 0.578px">计算机的计算和存储能力增加，<span style="letter-spacing: 0.578px">专家系统<span style="letter-spacing: 0.578px">开始</span>在各个行业爆发。</span></span></span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">1980年，卡耐基梅隆大学研发的专家系统XCON（eXpertCONfigurer）正式商用，为当时的计算机巨头公司DEC每年省下数千万美金。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1983年，通用电气公司搞出了柴油电力机车维修专家系统（DELTA）。这个系统封装了众多GE资深现场服务工程师的知识和经验，能够指导员工进行故障检修和维护。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">当时，美国运通公司也搞了一个信用卡认证辅助决策专家系统，据说每年可节省2700万美金。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">总而言之，那时候的专家系统，是大公司趋之若鹜的神器。它能够带来实实在在的经济效益，所以，行业用户愿意为之投资。这是第二次AI浪潮的根本原因。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><strong>我们也可以这么说，第一次AI浪潮，是政府投资带动的。第二次AI浪潮，是企业投资带动。AI，开始进入产业化的阶段。</strong></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px">企业投资的成效，反过来又让各国政府对AI恢复了一些信心。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px">1981年，经济高速增长的日本，率先<span style="letter-spacing: 0.578px">开始</span>对AI进行投入。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px">那一年，日本经济产业省拨款8.5亿美元，支持第五代计算机项目。这个项目的最终目的，是造出一台<span style="letter-spacing: 0.578px">人工智能计算机</span>，能够与人对话、翻译语言、解释图像、完成推理。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em">美国和英国政府，也很快采取了行动。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px">1983年，美国国防部高级研究计划局（DARPA<span style="letter-spacing: 0.578px">）</span>通过“战略计算促进会（Strategic Computing Initiative<span style="letter-spacing: 0.578px">）”，重启对</span>人工智能研究的资助。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px">同年，英国投资3.5亿英镑，启动了Alvey（阿尔维）计划，全面推进软件工程、人机接口、智能系统和超大规模集成电路等领域的研发。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px">关于专家系统，还有一个雄心勃勃的项目值得一提。那就是</span><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em">1984年启动的<span style="letter-spacing: 0.578px">Cyc项目。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em">Cyc项目由美国微电子与计算机技术公司发起，是一个“超级百科全书<span style="letter-spacing: 0.578px">”</span>项目。它试图将人类拥有的所有一般性知识都输入计算机，建立一个巨型数据库。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em">这个项目，据说到现在还在进行之中。</span></section>
+<section style="margin-bottom: 0px"></section>
+<section style="margin-bottom: 0px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 17px"><span style="letter-spacing: 0.578px"><strong>█</strong></span><strong style="letter-spacing: 0.578px">&nbsp;第二次低谷阶段（1987年-1993年）</strong></span></section>
+<p style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></p>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="letter-spacing: normal;text-decoration: none;font-size: 16px">好景不长，到了1980年代的后半段，人工智能又开始走下坡路了。</span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="letter-spacing: normal;text-decoration: none;font-size: 16px"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="letter-spacing: normal;text-decoration: none;font-size: 16px">原因是多方面的。</span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="letter-spacing: normal;text-decoration: none;font-size: 16px"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="letter-spacing: normal;text-decoration: none;font-size: 16px">首先，专家系统（符号主义）基于规则和已有知识的“检索+推理”，面对复杂的现实世界，显然还是有能力瓶颈。</span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="letter-spacing: normal;text-decoration: none;font-size: 16px"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="letter-spacing: normal;text-decoration: none;font-size: 16px">它的应用领域狭窄、缺乏常识性知识、<span style="letter-spacing: normal;text-align: left">知识获取困难、推理方法单一、缺乏分布式功能、难以与现有数据库兼容等……所有这些问题，都给它的进一步发展造成了困扰。</span><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="text-decoration: none;font-size: 16px;letter-spacing: normal;text-align: left"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="text-decoration: none;font-size: 16px;letter-spacing: normal;text-align: left">其次，<span style="letter-spacing: normal;text-align: left">80年代PC（个人电脑）技术革命的爆发，也给专家系统造成了冲击。</span></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="text-decoration: none;font-size: 16px;letter-spacing: normal;text-align: left"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="text-decoration: none;font-size: 16px;letter-spacing: normal;text-align: left">当时专家系统基本上都是用LISP语言编写的。系统采用的硬件，是<span style="letter-spacing: normal;text-align: left">Symbolics等厂商生产的人工智能专用计算机（也叫LISP机）。</span></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="text-decoration: none;font-size: 16px;letter-spacing: normal;text-align: left"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215106" data-ratio="0.6885245901639344" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9PQV5AegdpIRuheCP6QrSqt1Z5iboChibOZ892ahoQkCW4KxRr4V7Ic3g/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="854" style="width: 349px;height: 240px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">LISP系列主机</span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="text-decoration: none;font-size: 16px;letter-spacing: normal;text-align: left">1987年，苹果和IBM公司生产的台式机，在性能上已经超过了<span style="letter-spacing: normal;text-align: left">Symbolics的AI计算机，导致AI硬件市场需求土崩瓦解。</span></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: normal"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: normal">专家系统的维护和更新也存在很多问题。不仅操作复杂，价格也非常高昂。<br></span><span style="text-decoration: none;font-size: 16px;letter-spacing: normal;text-align: left"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: normal">结合以上种种原因，市场和用户逐渐对专家系统失去了兴趣。</span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: normal"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: normal">到了80年代晚期，战略计算促进会大幅削减对AI的资助。DARPA的新任领导也认为AI并非“下一个浪潮”，削减了对其的投资。</span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: normal"><br></span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: normal">AI，进入了第二次低谷阶段。</span></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"></section>
+<section style="line-height: 1.8em;text-align: left;margin: 0px;text-indent: 0em"><span style="text-indent: 0em;font-size: var(--articleFontsize);letter-spacing: 0.034em"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 17px"><span style="letter-spacing: 0.578px"><strong>█</strong></span><strong style="font-size: 16px;letter-spacing: 0.578px">&nbsp;第三次高潮阶段（1994年-现在）</strong></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">在进入1990年代之前，小枣君还是要再讲讲1980年代。<br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1980年代，专家系统掀起了第二次AI浪潮，也推动了AI技术的发展。但从上帝视角来看，真正对后来的AI发展产生深远影响的，其实不是专家系统，而是另外一个被遗忘了二十多年的赛道。<br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">没错，这个赛道，就是当年被马文·明斯基一句话给干废的“神经网络<span style="letter-spacing: 0.578px">”</span>赛道。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-size: 16px">
+<section style="letter-spacing: 0.578px"><strong><span style="letter-spacing: 0.578px">机器学习和神经网络</span></strong></section>
+</li>
+</ul>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">前文我们提到，神经网络是联结主义的一个代表性研究方向。但是，因为<span style="letter-spacing: 0.578px">马文·明斯基的否定，这个方向在1969年被打入冷宫。</span><br></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">1980年，越来越多的科学家意识到专家系统存在不足。符号主义这条路，很可能走不通。人们认为，人工智能想要实现真正的智能，就必须拥有自己的感知系统，能够自主学习。</span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">于是，倡导让<span style="letter-spacing: 0.578px">机器“自动地从数据中学习，并通过训练得到更加精准的预测和决策能力<span style="letter-spacing: 0.578px">”</span>的研究思想，开始逐渐活跃起来。这就是前面提到过的机器学习。</span></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">机器学习包含多种方法和理论学派。源于联结主义学派的神经网络，就在这一时期开始“复活”。</span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1982年，约翰·霍普菲尔德（<span style="letter-spacing: 0.578px">John Hopfield</span>）在自己的论文中重点介绍了Hopfield网络模型（模型原型早期由其他科学家提出）。这是一种具有记忆和优化功能的循环（递归）神经网络。</span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1986年，戴维·鲁梅尔哈特（David Rumelhart）、<strong>杰弗里·辛顿（Geoffrey Hinton，记住这个名字！）</strong>和罗纳德·威廉姆斯（Ronald Williams）等人共同发表了一篇名为《Learning representations by back-propagation errors（通过反向传播算法的学习表征）》的论文。</span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">在论文中，他们提出了一种适用于多层感知器（MLP<span style="letter-spacing: 0.578px">）</span>的算法，叫做<span style="letter-spacing: 0.578px">反向传播算法（Backpropagation，简称BP算法）。</span></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">该算法通过在输入层和输出层之间设定一个中间层（隐藏层），以反向传播的方式实现机器的自我学习。</span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></p>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215107" data-ratio="0.527681660899654" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr98Ovm4SHFVb0BibvTuGakiaJyPmTGY3aLrSoWczvy7PlXM2xnRyTibXGxg/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="578"></section>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">算法咱们以后再研究。大家只需要记住，BP算法不仅<span style="letter-spacing: 0.578px">为多层神经网络的发展奠定了基础，也打破</span>了马文·明斯基当年提出的“神经网络具有局限性<span style="letter-spacing: 0.578px">”</span>魔咒<span style="letter-spacing: 0.578px">，意义非常重大。</span></span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px"></p>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><strong><span style="font-size: 16px;letter-spacing: 0.578px">1980年代是人工智能研究方向发生重大转折的时期。机器学习和神经网络（联结主义）加速崛起，逐渐取代<span style="letter-spacing: 0.578px">专家系统（符号主义），成为人工智能的主要研究方向</span>。</span></strong></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><strong><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></strong></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><strong><span style="font-size: 16px;letter-spacing: 0.578px">我们也可以理解为，人工智能原本由知识驱动的方式，逐渐变成了由数据驱动。</span></strong></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215109" data-ratio="0.41203703703703703" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9ibQtryEWglnjicTWXOsgGGbIXrTnWcw3JfgMFJYfNB9BeDsR0iaTcPOyA/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">这张图，先剧透一下</span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px">机器学习的代表性算法包括决策树、支持向量机、随机森林等。</span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px">1995年，克里娜·柯尔特斯（Corinna Cortes<span style="letter-spacing: 0.578px">）</span>和弗拉基米尔·万普尼克（Vladimir Vapnik<span style="letter-spacing: 0.578px">）</span>开发了支持向量机（Support Vector Machine，SVM）。<span style="letter-spacing: 0.578px">支持向量机是一种映射和识别类似数据的系统，<span style="letter-spacing: 0.578px">可以视为在感知机基础上的改进。</span></span></span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px">神经网络方面，非常重要的CNN<span style="letter-spacing: 0.578px">（Convolutional Neural Network，卷积神经网络）</span>和RNN<span style="letter-spacing: 0.578px">（Recursive Neural Networks，递归神经网络）</span>，也在那一时期崛起了。</span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em"><br></span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em">1988年，贝尔实验室的Yann LeCun（他是法国人，网上翻译的中文名有很多：杨立昆、杨乐春、燕乐存、扬·勒丘恩）等人，提出了卷积神经网络。大家应该比较熟悉，这是一种专门用于处理图像数据的神经网络模型。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-align: center"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215110" data-ratio="1" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9IH5iaqvxZDzJbKQ3aNPH2YAeiagMCtlm3HAyWHSw9WEezp4NgluBvQiag/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="543" style="height: 206px;width: 206px"></section>
+<p style="letter-spacing: 0.578px;text-align: center;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 15px">Yann LeCun</span></p>
+<p style="letter-spacing: 0.578px;text-align: center;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 15px"><br></span></p>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px">1990年，美国认知科学家、心理语言学家杰弗里·艾尔曼（Jeffrey Elman）提出了<span style="letter-spacing: 0.578px">首个递归神经网络——</span>艾尔曼网络模型。递归神经网络能够在训练时维持数据本身的先后顺序性质，非常适合于自然语言处理领域的应用。</span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px">1997年，德国计算机科学家瑟普·霍克赖特（</span>Sepp Hochreiter<span style="letter-spacing: 0.578px">）及其导师</span>于尔根·施密德胡伯（Jürgen Schmidhuber<span style="letter-spacing: 0.578px">）</span>开发了用于递归神经网络的LSTM（长短期记忆网络）。</span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px">1998年，Yann LeCun等人提出了LeNet，一个用于手写数字识别的卷积神经网络，初步展示了神经网络在图像识别领域的潜力。</span></p>
+<p style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"></p>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px">总而言之，20世纪90年代，</span>神经网络在开始商用于文字图像识别、语音识别、数据挖掘以及金融预测。在模式识别、信号处理、控制工程等领域，也有尝试应用，尽管当时受到计算资源限制，应用范围和规模有限。</span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px">想要推动人工智能技术的进一步爆发，既需要算法模型的持续演进，也需要算力的深入增强。此外，还有一个短板，也需要补充，那就是数据。</span><br></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px">大家应该看出来了，AI的三要素，就是算法、算力和数据。</span></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><strong><span style="font-size: 16px;letter-spacing: 0.578px">深蓝</span></strong></section>
+</li>
+</ul>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1990年代最重要的AI事件，当然是1997年IBM超级电脑“深蓝（DEEP BLUE）<span style="letter-spacing: 0.578px">”</span>与国际象棋大师卡斯帕洛夫（KASPAROV）的世纪之战。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<p style="letter-spacing: 0.578px;margin-bottom: 0px;text-align: center"><span style="letter-spacing: 0.578px;font-size: 16px"><img decoding="async" class="rich_pages wxw-img" data-imgfileid="309215111" data-ratio="0.5625" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9t4ib9QJR1st2h8tNg6jxcFe8beaaqlEDZ01iad7icNILibmUicngsOZlUXA/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="640" style="width: 341px;height: 192px"></span></p>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px">此前的1996年2月，深蓝已经向<span style="font-size: 16px;letter-spacing: 0.578px">卡斯帕洛夫发起过一次挑战，结果以2-4败北。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">1997年5月3日至11日，<span style="letter-spacing: 0.578px">“深蓝”</span>再次挑战<span style="letter-spacing: 0.578px">卡斯帕罗夫</span>。在经过六盘大战后，最终“深蓝”以2胜1负3平的成绩，险胜卡斯帕罗夫，震惊了世界。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">这是AI发展史上，人工智能首次战胜人类。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">作为80后的小枣君，对这件事情也印象深刻。当时“深蓝<span style="letter-spacing: 0.578px">”</span>所引起的热潮，丝毫不亚于后来的ChatGPT。几乎所有的人都在想——人工智能时代是否真的到来了？人工智能，到底会不会取代人类？</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-weight: bold;font-size: 16px">
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><strong><span style="letter-spacing: 0.578px">深度学习</span></strong></span></section>
+</li>
+</ul>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">进入21世纪，得益于计算机算力的进一步飞跃，以及云计算、大数据的爆发，人工智能开始进入一个更加波澜壮阔的发展阶段。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">2006年，多伦多大学的杰弗里·辛顿（就是1986年发表论文的那个大神）在science期刊上，发表了重要的论文《Reducing the dimensionality of data with neural networks（</span><span style="font-size: 16px;letter-spacing: 0.578px">用神经网络降低数据维数</span><span style="font-size: 16px;letter-spacing: 0.578px">）》，提出深度信念网络（Deep Belief Networks，DBNs）。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-align: center"><span style="letter-spacing: 0.578px;font-size: 16px"><img decoding="async" class="rich_pages wxw-img" data-imgfileid="309215112" data-ratio="0.5633333333333334" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9MlqXpMDI1iaxUicZCpp22Z0vPwdKfsFBSicR5lnDKHb55drtOWYOK2yVQ/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="600" style="width: 302px;height: 170px"></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-align: center"><span style="letter-spacing: 0.578px;font-size: 15px">杰弗里·辛顿</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">深度学习<span style="letter-spacing: 0.578px">（Deeping Learning）</span>，正式诞生了。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">2006年被后人称为深度学习元年，杰弗里·辛顿也因此被称为“深度学习之父<span style="letter-spacing: 0.578px">”</span>。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">深度学习是机器学习的一个重要分支。更准确来说，机器学习底下有一条“神经网络”路线，而深度学习，是加强版的“神经网络”学习。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">经典机器学习算法使用的神经网络，具有输入层、一个或两个“隐藏”层和一个输出层。数据需要由人类专家进行结构化或标记（监督学习），以便算法能够从数据中提取特征。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><strong style="letter-spacing: 0.034em"></strong><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">深度学习算法使用“隐藏”层更多（数百个）的深度神经网络。它的能力更强，可以自动从海量的数据集中提取特征，不需要人工干预（无监督学习）。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215113" data-ratio="0.525" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9WkiaicWvPrBoKDvCrAibxowWy11zGwjc9mORv525B8JMrAcic5kQsT80Yw/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="1080"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">2006年，<span style="letter-spacing: 0.578px">在斯坦福任教的华裔科学家李飞飞，</span>意识到了业界在研究AI算法的过程中，没有一个强大的图片数据样本库提供支撑。于是，2007年，她<span style="letter-spacing: 0.578px">发起创建了ImageNet项目，号召<span style="letter-spacing: 0.578px">民众上传图像并标注图像内容。</span></span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">2009年，<span style="letter-spacing: 0.578px">大型图像数据集——ImageNet</span>，正式发布。这个数据库包括了<span style="letter-spacing: 0.578px">1400万张图片数据，超过2万个类别，为全球AI研究（神经网络训练）提供了强大支持。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215114" data-ratio="0.5" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9ONIYdCQMI2KbrYxZUic0dQY2Z4EyeOmR00Apu7OXHwj1P0thW3h0QHQ/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080" style="width: 367px;height: 184px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">李飞飞和<span style="letter-spacing: 0.578px">ImageNet</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">从2010年开始，ImageNet每年举行大规模视觉识别挑战赛，邀请全球开发者和研究机构参加，进行人工智能图像识别算法评比。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">2012年，<span style="letter-spacing: 0.578px">杰弗里·辛顿</span>和他的学生<span style="letter-spacing: 0.578px">伊利亚·苏茨克沃（Ilya Sutskever）和亚历克斯·克里切夫斯基（Alex Krizhevsky）参加了这个比赛。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215115" data-ratio="0.5662368112543963" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9aL0XrTHARMSibqZeECquosHlWssrhLbeTR53OJmsGIqrPGx6ZeXPwcw/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="853" style="width: 350px;height: 198px"></section>
+<section style="text-align: center;margin-bottom: 0px"><span style="font-size: 15px">师徒三人</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">他们设计的<span style="letter-spacing: 0.578px">深度神经网络模型</span>AlexNet在这次竞赛中大获全胜，<span style="letter-spacing: 0.578px">以压倒性优势获得第一名（<span style="letter-spacing: 0.578px">将Top-5错误率降到了15.3%，比第二名低10.8%</span>），引起了业界轰动，甚至一度被怀疑是作弊。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">值得一提的是，他们三人用于训练模型的，只是2张英伟达<span style="letter-spacing: 0.578px">GTX 580</span>显卡。GPU在深度神经网络训练上表现出的惊人能力，不仅让他们自己吓了一跳，也让黄仁勋和英伟达公司吓了一跳。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">作为对比，2012年的早些时候，谷歌“Google Brain”项目的研究人员吴恩达（华裔美国人，1976年生于伦敦）、杰夫·迪恩（<span style="letter-spacing: 0.578px">Jeff Dean</span>）等人，也捣鼓了一个神经网络（10亿参数），用来训练对猫的识别。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">他们的<span style="letter-spacing: 0.578px">训练数据是来自youtube的1000万个猫脸图片，用了1.6万个CPU，整整训练了3天。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-align: center"><span style="font-size: 16px;letter-spacing: 0.578px"><img decoding="async" class="rich_pages wxw-img" data-imgfileid="309215116" data-ratio="0.6390625" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9MibUMhxlVSOrvqcakYw7c04OyMuJSqdpIem2C0JP9g1NxqofzDXHHvA/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="640" style="width: 340px;height: 217px"></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-align: center"><span style="letter-spacing: 0.578px;font-size: 15px">吴恩达</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">“深度神经网络+GPU<span style="letter-spacing: 0.578px">”</span>的优势，显露无疑。很多人和很多公司的命运，从此改变了。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">2013年，辛顿师徒三人共同成立了一家名为DNNresearch的公司。后来，这个只有三个人且没有任何产品和计划的公司，被谷歌以几千万美元的价格竞购（百度也跑去买，和谷歌争到最后，没成功）。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-weight: bold">
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><strong><span style="font-size: 16px;letter-spacing: 0.578px">AlphaGo</span></strong></section>
+</li>
+</ul>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;text-decoration: none;font-size: 16px">2013年-2018年，谷歌是人工智能领域最活跃的公司。</span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;text-decoration: none;font-size: 16px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;text-decoration: none;font-size: 16px">2014年，谷歌公司收购了<span style="letter-spacing: 0.578px">专注于深度学习和强化学习技术的人工智能公司——</span>DeepMind公司。</span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;text-decoration: none;font-size: 16px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;text-decoration: none;font-size: 16px">2016年3月，<span style="letter-spacing: 0.578px">DeepMind开发的人工智能围棋程序</span>AlphaGo（阿尔法狗），对战世界围棋冠军、职业九段选手李世石，并以4:1的总比分获胜，震惊了全世界。</span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;text-decoration: none;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215117" data-ratio="0.741" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr96eFZN4y9RjGhQswwDkvEppq6jM1lfNMEpwov80ZxJGicTLz3o161iaHQ/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1000" style="width: 334px;height: 247px"></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="text-decoration: none;font-size: 16px;letter-spacing: 0.578px">AlphaGo<span style="letter-spacing: 0.578px">具有很强的自我学习能力，<span style="letter-spacing: 0.578px">能够搜集大量围棋对弈数据和名人棋谱，学习并模仿人类下棋。</span></span></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em">一年后，<span style="font-size: 16px;letter-spacing: 0.578px">AlphaGo的第四代版本<span style="letter-spacing: 0.578px">AlphaGoZero问世。<span style="letter-spacing: 0.578px">在无任何数据输入的情况下，仅用了3天时间自学围棋，就以100:0的巨大优势，横扫了第二代版本AlphaGo。学习40天后，<span style="letter-spacing: 0.578px">AlphaGoZero</span>又战胜了第三代版本AlphaGo。</span></span></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;text-decoration: none;font-size: 16px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="font-size: 16px">当时，全世界都在热议<span style="letter-spacing: 0.578px">AlphaGoZero的强悍自学能力，甚至一度引起了人类的恐慌情绪。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">谷歌在AI圈出尽风头，但他们估计也没有想到，一家在2015年悄然成立的公司（确切说，当时是非营利性组织），会很快取代他们的主角地位。这家公司（组织），就是如今大红大紫的OpenAI。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">OpenAI的创始人，除了埃隆·马斯克（Elon Musk）之外，还有萨姆·奥尔特曼（Sam Altman）、彼得·泰尔（Peter Thiel）、里德·霍夫曼（Reid Hoffman）。辛顿的那个徒弟，<span style="letter-spacing: 0.578px">伊利亚·苏茨克沃，也跑去当了研发主管。</span></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<ul class="list-paddingleft-1" style="list-style-type: disc">
+<li style="font-weight: bold">
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><strong><span style="font-size: 16px;letter-spacing: 0.578px">AIGC</span></strong></section>
+</li>
+</ul>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px">深度学习崛起之后，大家应该注意到，都是用于一些判别类的场景，判断猫、狗之类的。那么，深度学习，是否可以创造（生成）一些什么呢？</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;text-indent: 0em;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;text-indent: 0em;font-size: 16px">2014 年，<span style="text-indent: 0em;letter-spacing: 0.578px">蒙特利尔大学博士生</span>伊恩· 古德费洛（<span style="text-indent: 0em;letter-spacing: 0.578px">Ian Goodfellow</span>），从博弈论中的<span style="letter-spacing: 0.578px">“</span>二人零和博弈<span style="letter-spacing: 0.578px">”</span>得到启发，提出了生成对抗网络（GANs，Generative Adversarial Networks）。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="font-size: 16px;letter-spacing: 0.578px;text-indent: 0em"><span style="letter-spacing: 0.578px">生成对抗网络</span>用两个神经网络即生成器（Generator）和判别器（Discriminator）进行对抗。在两个神经网络的对抗和自我迭代中，GAN会逐渐演化出强大的能力。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215118" data-ratio="0.36673773987206826" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9PWIfTBrspPSuzAiccBjRXGOIdyVCiaic4Fk756eIDf9dPIs5icu0HzwSrg/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="938"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px;text-indent: 0em;line-height: 1.6em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px">生成对抗网络的出现，对无监督学习、图片生成等领域的研究，起到极大的促进作用，后来也拓展到计算机视觉的各个领域。</span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px">2017年12月，Google机器翻译团队在行业顶级会议NIPS上，丢下了一颗重磅炸弹。他们发表了一篇里程碑式的论文，名字叫做《Attention is all you need（你所需要的，就是注意力）》。</span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px">论文提出只使用“自我注意力（Self Attention）<span style="letter-spacing: 0.578px">”</span>机制来训练自然语言模型，并给这种架构起了个霸气的名字——Transformer（转换器、变压器，和“变形金刚”是一个词）。</span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px">所谓”自我注意力”机制，就是只关心输入信息之间的关系，而不再关注输入和对应输出的关系，<span style="letter-spacing: 0.578px">无需再进行昂贵的人工标注。</span>这是一个革命性的变化。</span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: 0.578px">Transformer的出现，彻底改变了深度学习的发展方向。它不仅<span style="letter-spacing: 0.578px">对序列到序列任务、机器翻译和其它自然语言处理任务产生了深远的影响，也为后来AIGC的崛起打下了坚实的基础。</span></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"><span style="font-size: 16px;letter-spacing: 0.578px">终于，AIGC的时代，要到来了。</span></section>
+<section style="line-height: 1.6em;text-align: justify;margin: 0px;text-indent: 0em"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">2018年6月，年轻的OpenAI，发布了第一版的GPT系列模型——GPT-1。同时，他们还发表了论文《Improving Language Understanding by Generative Pre-training（通过生成式预训练改进语言理解）》。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">GPT，就是<span style="letter-spacing: 0.578px">Generative Pre.trained Transfommer的缩写，<span style="letter-spacing: normal;text-align: start">生成式预训练变换器</span>。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">Generative（生成式），表示该模型<span style="letter-spacing: 0.578px">能够生成连续的、有逻辑的文本内容，比如完成对话、创作故事、编写代码或者写诗写歌等。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">Pre.trained（预训练），表示该模型会先在一个大规模未标注文本语料库上进行训练，学习语言的统计规律和潜在结构。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">Transfommer，刚才说过了，就是那个很厉害的转换器模型。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215124" data-ratio="0.43703703703703706" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9Y49h2wFsCicTM3LPGGCrMdiclPQGEIEjnAzAC6uy0xiaR2sjpWvDokVKg/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">谷歌紧随其后。2018年10月，他们发布了有<span style="letter-spacing: 0.578px">3亿参数的BERT（Bidirectional Encoder Representation from Transformers）模型，意思是“来自Transformers的双向编码表示<span style="font-size: 16px;letter-spacing: 0.578px">”</span>模型。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">GPT-1和BERT都使用了深度学习和注意力机制，具备较强的自然语言理解能力。两者的区别是，BERT使用文本的上下文来训练模型。而专注于<span style="letter-spacing: 0.578px">“</span>文本生成<span style="letter-spacing: 0.578px">”</span>的GPT-1，使用的是上文。基于<span style="letter-spacing: 0.578px">“</span>双向编码<span style="letter-spacing: 0.578px">”</span>的能力，BERT的性能在当时明显优异于GPT-1。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">谷歌的领先是暂时的。2019年和2020年，OpenAI接连发布了GPT-2和GPT-3。2022年11月，OpenAI发布了基于GPT模型的人工智能对话应用服务——ChatGPT（也可以理解为GPT-3.5），彻底引爆了全世界。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img js_insertlocalimg" data-imgfileid="309215119" data-ratio="0.6666666666666666" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_jpg/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9zyMAKgM9DuS1OQGbqKiahHZjb3QcWVzuSMdrHDyyGtJVpgaA1XJI3JQ/640?wx_fmt=jpeg&amp;from=appmsg" data-type="jpeg" data-w="1080" style="width: 245px;height: 163px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><span style="letter-spacing: 0.578px">ChatGPT</span>结合了人类生成的对话数据进行训练，展现出丰富的世界知识、复杂问题求解能力、多轮对话上下文追踪与建模能力，以及与人类价值观对齐的能力。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">它在人机对话方面的出色表现，引发了社会的高度关注，<span style="letter-spacing: 0.578px">在全球范围内掀起了一股AI巨浪。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">后面的事情，大家都比较清楚了。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">继ChatGPT后，OpenAI又发布了GPT-4、<span style="letter-spacing: 0.578px">GPT-4V、GPT-4 Turbo</span>、GPT-4o，形成了如今难以撼动的领导者地位。谷歌虽然也发布号称最强AI大模型的Gemini，但仍然难以在风头上盖过OpenAI。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215121" data-ratio="0.5722222222222222" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9hLul28LicTHIia8bGBHlrkyMDDqe8ImRTND3UIFmZNGl54xwdPMNBCrg/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">除了文本生成，生成式AI也积极向多模态发展，能够处理图像、音频、视频等多种媒体形式。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px">例如DALL-E、Stable Diffusion、<span style="letter-spacing: 0.578px">Midjourney</span>等图像生成模型，Suno、Jukebox音乐生成模型，以及<span style="letter-spacing: 0.578px">SoRa视频生成模型。</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: 0.578px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">全球面向各个垂直领域的“大模型之战<span style="letter-spacing: 0.578px">”</span>，仍在硝烟弥漫地进行之中。。。</span></section>
+<section style="margin-bottom: 0px"></section>
+<section style="margin-bottom: 0px"></section>
+<section style="letter-spacing: 0.578px;margin-bottom: 0px"><span style="letter-spacing: 0.578px;font-size: 17px"><span style="letter-spacing: 0.578px"><strong>█</strong></span><strong style="letter-spacing: 0.578px">&nbsp;结语</strong></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">写到这里，这篇洋洋洒洒一万多字的文章，终于要结束了。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">我总结一下：</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">人工智能起步于1950年代，早期主要是符号主义占主流，并引发了第一次（政府投资）和第二次AI浪潮（企业投资）。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">到1980年代，符号主义逐渐走弱，机器学习和神经网络开始崛起，成为主流。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">1994-现在，虽然叫做第三次AI浪潮，但也分两个阶段。1994-2006（其实是1980-2006），是机器学习、神经网络的早期积累阶段，打基础。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">2006年，神经网络进入深度学习阶段，就彻底开始了AI的爆发。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px">从2018年开始，人工智能逐渐进入了<span style="letter-spacing: 0.578px">Transformer和</span>大模型时代，能力有了巨大的提升，也掀起了AI巨浪。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px"><br></span></section>
+<section style="text-align: center;margin-bottom: 0px"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309215122" data-ratio="0.5564814814814815" data-s="300,640" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_png/pUm6Hxkd434TD0InwkaNMfvY70WicOdr9NSSdIkVlSrJx3Z5PhC7zMxYLibUR8iaF7lT8BroLAbaIA5kmeosVyTicA/640?wx_fmt=png&amp;from=appmsg" data-type="png" data-w="1080"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">如今的人工智能，已经是全世界关注的焦点，也处于一个前所未有的白金发展阶段。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: normal;text-align: left">随着深度学习、神经网络、生成式AI等技术的不断突破，人工智能已经在工业、教育、医疗、金融、交通、娱乐等几乎所有领域实现了落地。人工智能在计算机视觉、自然语言处理、机器人等方面所具备的能力，已经被应用到大量的垂直场景，并产生了可观的经济效益。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: normal;text-align: left"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 16px;letter-spacing: normal;text-align: left">在人工智能热潮的带动下，软件、半导体、通信等ICT产业，都获得了不错的商业机会。围绕人工智能的几家大公司，包括英伟达、微软、苹果、Alphabet（谷歌母公司）、亚马逊、Meta、特斯拉，目前在股票市场被誉为“七巨头”，市值屡破纪录。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">当然了，这股热潮究竟会走向何方，我们还不得而知。也许，它会继续增长一段时间，甚至长期持续下去，将人类彻底带入智能时代。也许，我们会进入第三次AI低谷，泡沫破碎，一地鸡毛，又进入一个新的周期。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px">未来如何，就让时间来告诉我们答案吧。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><strong><span style="letter-spacing: 0.578px;font-size: 15px">参考文献：</span></strong></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px">1、《人工智能简史》，尼克；</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px">2、《人工智能发展简史<span style="letter-spacing: 0.578px">》</span><span style="letter-spacing: 0.578px">孙凌云、孟辰烨、李泽健；</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px">3、《人工智能 60 年技术简史》，李理；</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px">4、《深度学习简史》，Keith D. Foote；</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px"><span style="letter-spacing: 0.578px">5、《</span>AI是什么 将带我们去哪儿？<span style="letter-spacing: 0.578px">》</span>，李开复；</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px"><span style="letter-spacing: 0.578px">6、《</span>人工智能的五个定义：哪个最不可取？<span style="letter-spacing: 0.578px">》</span>，李开复；</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px"><span style="letter-spacing: 0.578px">7、《</span>一文读懂人工智能发展史：从诞生，到实现产业化<span style="letter-spacing: 0.578px">》</span>，李弯弯；</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px"><span style="letter-spacing: 0.578px">8、《</span>你一定爱读的人工智能简史<span style="letter-spacing: 0.578px">》</span>，山本一成；</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px"><span style="letter-spacing: 0.578px">9、《</span>AlphaGo背后：深度学习的胜利<span style="letter-spacing: 0.578px">》</span>，曹玲；</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px">10、《三张图讲述一部AI进化史<span style="letter-spacing: 0.578px">》，产品二姐（知乎<span style="letter-spacing: 0.578px">）</span>；</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 15px">11、《GPT的背后，从命运多舛到颠覆世界，人工神经网络的跌宕80年<span style="letter-spacing: 0.578px">》，孙睿晨；</span></span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="font-size: 15px;letter-spacing: 0.578px">12、百度百科、维基百科等。</span></section>
+<section style="margin-bottom: 0px;letter-spacing: 0.578px"><span style="letter-spacing: 0.578px;font-size: 16px"><br></span></section>
+<p style="text-align: center"><img decoding="async" class="rich_pages wxw-img" data-galleryid="" data-imgfileid="309212699" data-ratio="0.55625" src="http://www.xzclass.com/img.php?img=https://mmbiz.qpic.cn/sz_mmbiz_gif/pUm6Hxkd434LfdamAgdP9NfiaG07ibSX4fq59icvFfr3CLvsEeZ6oKSqicc7AUYIAoT9EibJIUJ9ExoUOc1iaomDNfog/640?wx_fmt=gif&amp;from=appmsg" data-type="gif" data-w="640"></p><p></p>
+                                                     <script>
+    function pinIt()
+    {
+      var e = document.createElement('script');
+      e.setAttribute('type','text/javascript');
+      e.setAttribute('charset','UTF-8');
+      e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+      document.body.appendChild(e);
+    }
+    </script>
+                     <div class="post-share">
+                          <div class="post-share-icons cf">
+                           
+                              <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.xzclass.com%2F%3Fp%3D2203" class="link facebook" target="_blank">
+                                <i class="fab fa-facebook"></i></a>
+                            
+            
+                              <a href="http://twitter.com/share?url=http%3A%2F%2Fwww.xzclass.com%2F%3Fp%3D2203&amp;text=%E5%85%A5%E9%97%A8%E5%BF%85%E8%AF%BB%EF%BC%81%E5%86%99%E7%BB%99%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%80%E5%8F%B2%EF%BC%81" class="link x-twitter" target="_blank">
+                                <i class="fa-brands fa-x-twitter"></i></a>
+            
+                              <a href="mailto:?subject=入门必读！写给初学者的人工智能简史！&amp;body=http%3A%2F%2Fwww.xzclass.com%2F%3Fp%3D2203" class="link email" target="_blank">
+                                <i class="fas fa-envelope"></i></a>
+
+
+                              <a href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fwww.xzclass.com%2F%3Fp%3D2203&amp;title=%E5%85%A5%E9%97%A8%E5%BF%85%E8%AF%BB%EF%BC%81%E5%86%99%E7%BB%99%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%80%E5%8F%B2%EF%BC%81" class="link linkedin" target="_blank">
+                                <i class="fab fa-linkedin"></i></a>
+
+                             <a href="https://telegram.me/share/url?url=http%3A%2F%2Fwww.xzclass.com%2F%3Fp%3D2203&amp;text&amp;title=%E5%85%A5%E9%97%A8%E5%BF%85%E8%AF%BB%EF%BC%81%E5%86%99%E7%BB%99%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%80%E5%8F%B2%EF%BC%81" class="link telegram" target="_blank">
+                                <i class="fab fa-telegram"></i></a>
+
+                              <a href="javascript:pinIt();" class="link pinterest"><i class="fab fa-pinterest"></i></a>
+
+                              <a class="print-r" href="javascript:window.print()"> <i class="fas fa-print"></i></a>  
+                          </div>
+                    </div>
+
+                <div class="clearfix mb-3"></div>
+                
+	<nav class="navigation post-navigation" aria-label="文章">
+		<h2 class="screen-reader-text">文章导航</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://www.xzclass.com/?p=2200" rel="prev">四问四答，彻底看懂智算中心！ <div class="fa fa-angle-double-right"></div><span></span></a></div><div class="nav-next"><a href="http://www.xzclass.com/?p=2214" rel="next"><div class="fa fa-angle-double-left"></div><span></span> 【收藏】全网最详细的AI大事记！</a></div></div>
+	</nav>                          </article>
+            </div>
+		                 <div class="media mg-info-author-block">
+            <a class="mg-author-pic" href="http://www.xzclass.com/?author=1"></a>
+                <div class="media-body">
+                  <h4 class="media-heading">作者 <a href="http://www.xzclass.com/?author=1">鲜枣课堂</a></h4>
+                  <p></p>
+                </div>
+            </div>
+                          <div class="mg-featured-slider p-3 mb-4">
+                        <!--Start mg-realated-slider -->
+                        <div class="mg-sec-title">
+                            <!-- mg-sec-title -->
+                                                        <h4>相关文章</h4>
+                        </div>
+                        <!-- // mg-sec-title -->
+                           <div class="row">
+                                <!-- featured_post -->
+                                                                      <!-- blog -->
+                                  <div class="col-md-4">
+                                    <div class="mg-blog-post-3 minh back-img mb-md-0 mb-2" style="background-image: url('http://www.xzclass.com/wp-content/uploads/2024/08/下载-4.png');">
+                                      <div class="mg-blog-inner">
+                                                                                      <div class="mg-blog-category"> <a class="newsup-categories category-color-1" href="http://www.xzclass.com/?cat=433" alt="查看 人工智能 中所有文章"> 
+                                 人工智能
+                             </a>                                          </div>                                             <h4 class="title"> <a href="http://www.xzclass.com/?p=2238" title="Permalink to: AI人工智能思维导图">
+                                              AI人工智能思维导图</a>
+                                             </h4>
+                                            <div class="mg-blog-meta"> 
+                                                                                          <span class="mg-blog-date">
+                                                <i class="fas fa-clock"></i> 
+                                              
+                                              8 月 9, 2024
+                                               </span>
+                                                    <a class="auth" href="http://www.xzclass.com/?author=1">
+            <i class="fas fa-user-circle"></i>鲜枣课堂        </a>
+     </div>   
+                                        </div>
+                                    </div>
+                                  </div>
+                                    <!-- blog -->
+                                                                        <!-- blog -->
+                                  <div class="col-md-4">
+                                    <div class="mg-blog-post-3 minh back-img mb-md-0 mb-2" style="background-image: url('http://www.xzclass.com/wp-content/uploads/2024/08/下载-3.png');">
+                                      <div class="mg-blog-inner">
+                                                                                      <div class="mg-blog-category"> <a class="newsup-categories category-color-1" href="http://www.xzclass.com/?cat=433" alt="查看 人工智能 中所有文章"> 
+                                 人工智能
+                             </a>                                          </div>                                             <h4 class="title"> <a href="http://www.xzclass.com/?p=2217" title="Permalink to: 写给小白的AI入门科普">
+                                              写给小白的AI入门科普</a>
+                                             </h4>
+                                            <div class="mg-blog-meta"> 
+                                                                                          <span class="mg-blog-date">
+                                                <i class="fas fa-clock"></i> 
+                                              
+                                              8 月 1, 2024
+                                               </span>
+                                                    <a class="auth" href="http://www.xzclass.com/?author=1">
+            <i class="fas fa-user-circle"></i>鲜枣课堂        </a>
+     </div>   
+                                        </div>
+                                    </div>
+                                  </div>
+                                    <!-- blog -->
+                                                                        <!-- blog -->
+                                  <div class="col-md-4">
+                                    <div class="mg-blog-post-3 minh back-img mb-md-0 mb-2" style="background-image: url('http://www.xzclass.com/wp-content/uploads/2024/07/下载-2-1.png');">
+                                      <div class="mg-blog-inner">
+                                                                                      <div class="mg-blog-category"> <a class="newsup-categories category-color-1" href="http://www.xzclass.com/?cat=433" alt="查看 人工智能 中所有文章"> 
+                                 人工智能
+                             </a>                                          </div>                                             <h4 class="title"> <a href="http://www.xzclass.com/?p=2214" title="Permalink to: 【收藏】全网最详细的AI大事记！">
+                                              【收藏】全网最详细的AI大事记！</a>
+                                             </h4>
+                                            <div class="mg-blog-meta"> 
+                                                                                          <span class="mg-blog-date">
+                                                <i class="fas fa-clock"></i> 
+                                              
+                                              7 月 29, 2024
+                                               </span>
+                                                    <a class="auth" href="http://www.xzclass.com/?author=1">
+            <i class="fas fa-user-circle"></i>鲜枣课堂        </a>
+     </div>   
+                                        </div>
+                                    </div>
+                                  </div>
+                                    <!-- blog -->
+                                                                </div>
+                            
+                    </div>
+                    <!--End mg-realated-slider -->
+                  <div id="comments" class="comments-area mg-card-box padding-20 mb-md-0 mb-4">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">发表回复 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/?p=2203#respond" style="display:none;">取消回复</a></small></h3><p class="must-log-in">要发表评论，您必须先<a href="http://www.xzclass.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.xzclass.com%2F%3Fp%3D2203">登录</a>。</p>	</div><!-- #respond -->
+	</div><!-- #comments -->      </div>
+             <!--sidebar-->
+          <!--col-md-3-->
+            <aside class="col-lg-3 col-md-4">
+                  
+<aside id="secondary" class="widget-area" role="complementary">
+	<div id="sidebar-right" class="mg-sidebar">
+		<div id="search-3" class="mg-widget widget_search"><div class="mg-wid-title"><h6 class="wtitle">文章检索</h6></div><form role="search" method="get" id="searchform" action="http://www.xzclass.com/">
+  <div class="input-group">
+    <input type="search" class="form-control" placeholder="搜索" value="" name="s">
+    <span class="input-group-btn btn-default">
+    <button type="submit" class="btn"> <i class="fas fa-search"></i> </button>
+    </span> </div>
+</form></div><div id="block-3" class="mg-widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">近期文章</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="http://www.xzclass.com/?p=2370">原创PPT合集</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="http://www.xzclass.com/?p=2382">特朗普当选，会对国内通信产业造成什么影响？</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="http://www.xzclass.com/?p=2379">5G-A如何与AI融合发展？华为MBBF2024给出解答</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="http://www.xzclass.com/?p=2365">78页PPT，彻底看懂数据库！</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="http://www.xzclass.com/?p=2362">到底什么是“无网通信”？</a></li>
+</ul></div></div></div><div id="nav_menu-4" class="mg-widget widget_nav_menu"><div class="mg-wid-title"><h6 class="wtitle">文章分类</h6></div><div class="menu-%e4%b8%bb%e9%a1%b5%e8%8f%9c%e5%8d%95-container"><ul id="menu-%e4%b8%bb%e9%a1%b5%e8%8f%9c%e5%8d%95-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1963"><a href="https://linjootech.feishu.cn/wiki/space/7342729641056026628?ccm_open_type=lark_wiki_spaceLink&amp;open_tab_from=wiki_home">算力知识库</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1962"><a href="https://linjootech.feishu.cn/wiki/space/7342491342368735235">通信知识库</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1983"><a href="http://www.xzclass.com/?cat=472">通信</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-989"><a href="http://www.xzclass.com/?cat=54">通信基础知识</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1969"><a href="http://www.xzclass.com/?cat=461">无线通信</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1971"><a href="http://www.xzclass.com/?cat=462">无线通信基础</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-979"><a href="http://www.xzclass.com/?cat=195">无线接入网</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1970"><a href="http://www.xzclass.com/?cat=463">短距离无线通信</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-983"><a href="http://www.xzclass.com/?cat=81">物联网</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1972"><a href="http://www.xzclass.com/?cat=464">微波通信</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-973"><a href="http://www.xzclass.com/?cat=11">5G</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-974"><a href="http://www.xzclass.com/?cat=126">6G</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-977"><a href="http://www.xzclass.com/?cat=12">承载网</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-982"><a href="http://www.xzclass.com/?cat=25">核心网</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-987"><a href="http://www.xzclass.com/?cat=48">通信简史</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-986"><a href="http://www.xzclass.com/?cat=28">通信企业</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-988"><a href="http://www.xzclass.com/?cat=52">通信名人</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-1982"><a href="http://www.xzclass.com/?cat=473">算力</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-975"><a href="http://www.xzclass.com/?cat=45">算力基础知识</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1974"><a href="http://www.xzclass.com/?cat=469">算力-硬件篇</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1975"><a href="http://www.xzclass.com/?cat=470">算力-软件篇</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-1976"><a href="http://www.xzclass.com/?cat=471">算力-应用篇</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-976"><a href="http://www.xzclass.com/?cat=84">云计算</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1973"><a href="http://www.xzclass.com/?cat=468">算力简史</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-978"><a href="http://www.xzclass.com/?cat=68">数字化转型</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-992"><a href="http://www.xzclass.com/?cat=78">职业发展</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-990"><a href="http://www.xzclass.com/?cat=93">大学生指南</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-984"><a href="http://www.xzclass.com/?cat=6">行业热点分析</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-991"><a href="http://www.xzclass.com/?cat=72">行业展会</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-981"><a href="http://www.xzclass.com/?cat=36">枣君随笔</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1026"><a href="http://www.xzclass.com/?cat=375">好书推荐</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2004"><a href="http://www.xzclass.com/?cat=474">培训通告</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1051"><a href="http://www.xzclass.com/wp-login.php">用户登录</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-998"><a href="http://www.xzclass.com/?page_id=50">线上课程</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2392"><a href="http://www.xzclass.com/?page_id=2390">原创PPT合集</a></li>
+</ul></div></div><div id="tag_cloud-3" class="mg-widget widget_tag_cloud"><div class="mg-wid-title"><h6 class="wtitle">标签</h6></div><div class="tagcloud"><a href="http://www.xzclass.com/?tag=5g" class="tag-cloud-link tag-link-13 tag-link-position-1" style="font-size: 22pt;" aria-label="5G (90 项)">5G</a>
+<a href="http://www.xzclass.com/?tag=5g-a" class="tag-cloud-link tag-link-483 tag-link-position-2" style="font-size: 11.084745762712pt;" aria-label="5G-A (10 项)">5G-A</a>
+<a href="http://www.xzclass.com/?tag=6g" class="tag-cloud-link tag-link-127 tag-link-position-3" style="font-size: 8.8305084745763pt;" aria-label="6G (6 项)">6G</a>
+<a href="http://www.xzclass.com/?tag=2024%e5%b1%95%e4%bc%9a" class="tag-cloud-link tag-link-551 tag-link-position-4" style="font-size: 8.8305084745763pt;" aria-label="2024展会 (6 项)">2024展会</a>
+<a href="http://www.xzclass.com/?tag=ai" class="tag-cloud-link tag-link-98 tag-link-position-5" style="font-size: 14.64406779661pt;" aria-label="AI (21 项)">AI</a>
+<a href="http://www.xzclass.com/?tag=ipv6" class="tag-cloud-link tag-link-42 tag-link-position-6" style="font-size: 8pt;" aria-label="IPv6 (5 项)">IPv6</a>
+<a href="http://www.xzclass.com/?tag=mwc" class="tag-cloud-link tag-link-228 tag-link-position-7" style="font-size: 11.915254237288pt;" aria-label="MWC (12 项)">MWC</a>
+<a href="http://www.xzclass.com/?tag=ppt" class="tag-cloud-link tag-link-538 tag-link-position-8" style="font-size: 9.4237288135593pt;" aria-label="PPT (7 项)">PPT</a>
+<a href="http://www.xzclass.com/?tag=pt%e5%b1%95" class="tag-cloud-link tag-link-446 tag-link-position-9" style="font-size: 8.8305084745763pt;" aria-label="PT展 (6 项)">PT展</a>
+<a href="http://www.xzclass.com/?tag=sdn" class="tag-cloud-link tag-link-18 tag-link-position-10" style="font-size: 9.4237288135593pt;" aria-label="SDN (7 项)">SDN</a>
+<a href="http://www.xzclass.com/?tag=%e4%b8%ad%e5%85%b4" class="tag-cloud-link tag-link-222 tag-link-position-11" style="font-size: 11.559322033898pt;" aria-label="中兴 (11 项)">中兴</a>
+<a href="http://www.xzclass.com/?tag=%e4%ba%91%e8%ae%a1%e7%ae%97" class="tag-cloud-link tag-link-47 tag-link-position-12" style="font-size: 13.932203389831pt;" aria-label="云计算 (18 项)">云计算</a>
+<a href="http://www.xzclass.com/?tag=%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd" class="tag-cloud-link tag-link-193 tag-link-position-13" style="font-size: 11.559322033898pt;" aria-label="人工智能 (11 项)">人工智能</a>
+<a href="http://www.xzclass.com/?tag=%e4%bc%a0%e8%be%93%e7%bd%91" class="tag-cloud-link tag-link-139 tag-link-position-14" style="font-size: 11.084745762712pt;" aria-label="传输网 (10 项)">传输网</a>
+<a href="http://www.xzclass.com/?tag=%e5%85%89%e7%ba%a4" class="tag-cloud-link tag-link-19 tag-link-position-15" style="font-size: 11.084745762712pt;" aria-label="光纤 (10 项)">光纤</a>
+<a href="http://www.xzclass.com/?tag=%e5%85%89%e9%80%9a%e4%bf%a1" class="tag-cloud-link tag-link-164 tag-link-position-16" style="font-size: 12.389830508475pt;" aria-label="光通信 (13 项)">光通信</a>
+<a href="http://www.xzclass.com/?tag=%e5%8d%8e%e4%b8%ba" class="tag-cloud-link tag-link-30 tag-link-position-17" style="font-size: 13.338983050847pt;" aria-label="华为 (16 项)">华为</a>
+<a href="http://www.xzclass.com/?tag=%e5%8d%ab%e6%98%9f" class="tag-cloud-link tag-link-407 tag-link-position-18" style="font-size: 10.610169491525pt;" aria-label="卫星 (9 项)">卫星</a>
+<a href="http://www.xzclass.com/?tag=%e5%8d%ab%e6%98%9f%e9%80%9a%e4%bf%a1" class="tag-cloud-link tag-link-122 tag-link-position-19" style="font-size: 8.8305084745763pt;" aria-label="卫星通信 (6 项)">卫星通信</a>
+<a href="http://www.xzclass.com/?tag=%e5%8e%86%e5%8f%b2" class="tag-cloud-link tag-link-33 tag-link-position-20" style="font-size: 18.084745762712pt;" aria-label="历史 (42 项)">历史</a>
+<a href="http://www.xzclass.com/?tag=%e5%9f%ba%e7%ab%99" class="tag-cloud-link tag-link-145 tag-link-position-21" style="font-size: 11.084745762712pt;" aria-label="基站 (10 项)">基站</a>
+<a href="http://www.xzclass.com/?tag=%e5%a4%a7%e5%ad%a6%e7%94%9f" class="tag-cloud-link tag-link-136 tag-link-position-22" style="font-size: 13.932203389831pt;" aria-label="大学生 (18 项)">大学生</a>
+<a href="http://www.xzclass.com/?tag=%e5%a4%a9%e7%ba%bf" class="tag-cloud-link tag-link-185 tag-link-position-23" style="font-size: 9.4237288135593pt;" aria-label="天线 (7 项)">天线</a>
+<a href="http://www.xzclass.com/?tag=%e5%b1%95%e4%bc%9a" class="tag-cloud-link tag-link-73 tag-link-position-24" style="font-size: 8.8305084745763pt;" aria-label="展会 (6 项)">展会</a>
+<a href="http://www.xzclass.com/?tag=%e6%89%8b%e6%9c%ba" class="tag-cloud-link tag-link-97 tag-link-position-25" style="font-size: 10.016949152542pt;" aria-label="手机 (8 项)">手机</a>
+<a href="http://www.xzclass.com/?tag=%e6%89%bf%e8%bd%bd%e7%bd%91" class="tag-cloud-link tag-link-14 tag-link-position-26" style="font-size: 8pt;" aria-label="承载网 (5 项)">承载网</a>
+<a href="http://www.xzclass.com/?tag=%e6%8b%9b%e8%81%98" class="tag-cloud-link tag-link-377 tag-link-position-27" style="font-size: 8.8305084745763pt;" aria-label="招聘 (6 项)">招聘</a>
+<a href="http://www.xzclass.com/?tag=%e6%8e%a5%e5%85%a5%e7%bd%91" class="tag-cloud-link tag-link-184 tag-link-position-28" style="font-size: 8.8305084745763pt;" aria-label="接入网 (6 项)">接入网</a>
+<a href="http://www.xzclass.com/?tag=%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f" class="tag-cloud-link tag-link-542 tag-link-position-29" style="font-size: 8.8305084745763pt;" aria-label="操作系统 (6 项)">操作系统</a>
+<a href="http://www.xzclass.com/?tag=%e6%95%b0%e5%ad%97%e5%8c%96" class="tag-cloud-link tag-link-71 tag-link-position-30" style="font-size: 12.389830508475pt;" aria-label="数字化 (13 项)">数字化</a>
+<a href="http://www.xzclass.com/?tag=%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83" class="tag-cloud-link tag-link-7 tag-link-position-31" style="font-size: 10.610169491525pt;" aria-label="数据中心 (9 项)">数据中心</a>
+<a href="http://www.xzclass.com/?tag=%e6%97%a0%e7%ba%bf%e7%94%b5" class="tag-cloud-link tag-link-108 tag-link-position-32" style="font-size: 8pt;" aria-label="无线电 (5 项)">无线电</a>
+<a href="http://www.xzclass.com/?tag=%e6%a0%b8%e5%bf%83%e7%bd%91" class="tag-cloud-link tag-link-26 tag-link-position-33" style="font-size: 11.084745762712pt;" aria-label="核心网 (10 项)">核心网</a>
+<a href="http://www.xzclass.com/?tag=%e7%88%b1%e7%ab%8b%e4%bf%a1" class="tag-cloud-link tag-link-34 tag-link-position-34" style="font-size: 8.8305084745763pt;" aria-label="爱立信 (6 项)">爱立信</a>
+<a href="http://www.xzclass.com/?tag=%e7%89%a9%e8%81%94%e7%bd%91" class="tag-cloud-link tag-link-65 tag-link-position-35" style="font-size: 11.084745762712pt;" aria-label="物联网 (10 项)">物联网</a>
+<a href="http://www.xzclass.com/?tag=%e7%ae%97%e5%8a%9b" class="tag-cloud-link tag-link-269 tag-link-position-36" style="font-size: 13.932203389831pt;" aria-label="算力 (18 项)">算力</a>
+<a href="http://www.xzclass.com/?tag=%e8%81%8c%e5%9c%ba" class="tag-cloud-link tag-link-79 tag-link-position-37" style="font-size: 9.4237288135593pt;" aria-label="职场 (7 项)">职场</a>
+<a href="http://www.xzclass.com/?tag=%e8%8a%af%e7%89%87" class="tag-cloud-link tag-link-118 tag-link-position-38" style="font-size: 12.389830508475pt;" aria-label="芯片 (13 项)">芯片</a>
+<a href="http://www.xzclass.com/?tag=%e8%af%ba%e5%9f%ba%e4%ba%9a" class="tag-cloud-link tag-link-101 tag-link-position-39" style="font-size: 8pt;" aria-label="诺基亚 (5 项)">诺基亚</a>
+<a href="http://www.xzclass.com/?tag=%e8%bf%90%e8%90%a5%e5%95%86" class="tag-cloud-link tag-link-67 tag-link-position-40" style="font-size: 8.8305084745763pt;" aria-label="运营商 (6 项)">运营商</a>
+<a href="http://www.xzclass.com/?tag=%e9%80%9a%e4%bf%a1" class="tag-cloud-link tag-link-198 tag-link-position-41" style="font-size: 17.847457627119pt;" aria-label="通信 (40 项)">通信</a>
+<a href="http://www.xzclass.com/?tag=%e9%80%9a%e4%bf%a1%e5%b1%95%e4%bc%9a" class="tag-cloud-link tag-link-220 tag-link-position-42" style="font-size: 11.559322033898pt;" aria-label="通信展会 (11 项)">通信展会</a>
+<a href="http://www.xzclass.com/?tag=%e9%80%9a%e4%bf%a1%e5%b7%a5%e7%a8%8b%e5%b8%88" class="tag-cloud-link tag-link-131 tag-link-position-43" style="font-size: 8pt;" aria-label="通信工程师 (5 项)">通信工程师</a>
+<a href="http://www.xzclass.com/?tag=%e9%80%9a%e4%bf%a1%e8%a1%8c%e4%b8%9a" class="tag-cloud-link tag-link-51 tag-link-position-44" style="font-size: 10.016949152542pt;" aria-label="通信行业 (8 项)">通信行业</a>
+<a href="http://www.xzclass.com/?tag=%e9%aa%a8%e5%b9%b2%e7%bd%91" class="tag-cloud-link tag-link-110 tag-link-position-45" style="font-size: 8pt;" aria-label="骨干网 (5 项)">骨干网</a></div>
+</div><div id="nav_menu-2" class="mg-widget widget_nav_menu"><div class="mg-wid-title"><h6 class="wtitle">我们的其它平台</h6></div><div class="menu-%e5%b9%b3%e5%8f%b0%e8%8f%9c%e5%8d%95-container"><ul id="menu-%e5%b9%b3%e5%8f%b0%e8%8f%9c%e5%8d%95" class="menu"><li id="menu-item-1058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1058"><a href="https://space.bilibili.com/319527285">B站（哔哩哔哩）</a></li>
+<li id="menu-item-1059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1059"><a href="https://www.zhihu.com/people/xzclass">知乎</a></li>
+<li id="menu-item-1063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1063"><a href="https://weibo.com/u/6263709425?is_hot=1#1597919063718">微博</a></li>
+<li id="menu-item-1060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1060"><a href="https://www.toutiao.com/c/user/7210894103/#mid=1571520892837889">头条号</a></li>
+<li id="menu-item-1061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1061"><a href="https://xueqiu.com/u/7282046183">雪球号</a></li>
+<li id="menu-item-1062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1062"><a href="https://rmh.pdnews.cn/Pc/GovApi/govInfo?gov_id=290436">人民号</a></li>
+</ul></div></div>	</div>
+</aside><!-- #secondary -->
+            </aside>
+          <!--/col-md-3-->
+      <!--/sidebar-->
+          </div>
+  </div>
+</main>
+<!--==================== FOOTER AREA ====================-->
+        <footer> 
+            <div class="overlay" style="background-color: ;">
+                <!--Start mg-footer-widget-area-->
+                                 <!--End mg-footer-widget-area-->
+                <!--Start mg-footer-widget-area-->
+                <div class="mg-footer-bottom-area">
+                    <div class="container-fluid">
+                                                <div class="row align-items-center">
+                            <!--col-md-4-->
+                            <div class="col-md-6">
+                                                             <div class="site-branding-text">
+                              <p class="site-title-footer"> <a href="http://www.xzclass.com/" rel="home">鲜枣课堂</a></p>
+                              <p class="site-description-footer">通俗易懂的信息通信知识平台</p>
+                              </div>
+                                                          </div>
+
+                              
+                        </div>
+                        <!--/row-->
+                    </div>
+                    <!--/container-->
+                </div>
+                <!--End mg-footer-widget-area-->
+
+                <div class="mg-footer-copyright">
+                    <div class="container-fluid">
+                        <div class="row">
+                                                      <div class="col-md-6 text-xs">
+                                                            <p>
+                               <a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备2022042155号-1</a>
+								</p>
+                            </div>
+                                                        <div class="col-md-6 text-md-right text-xs">
+                                <ul id="menu-%e9%a1%b5%e8%84%9a%e8%8f%9c%e5%8d%95" class="info-right"><li id="menu-item-1053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1053"><a class="nav-link" title="首页" href="http://www.xzclass.com/">首页</a></li>
+<li id="menu-item-1054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1054"><a class="nav-link" title="关于我们" href="http://www.xzclass.com/?page_id=2">关于我们</a></li>
+<li id="menu-item-1055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1055"><a class="nav-link" title="线上课程" href="http://www.xzclass.com/?page_id=50">线上课程</a></li>
+<li id="menu-item-1056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1056"><a class="nav-link" title="用户登录" href="http://www.xzclass.com/wp-login.php">用户登录</a></li>
+</ul>                            </div>
+                                                  </div>
+                    </div>
+                </div>
+            </div>
+            <!--/overlay-->
+        </footer>
+        <!--/footer-->
+    </div>
+  </div>
+    <!--/wrapper-->
+    <!--Scroll To Top-->
+    <a href="#" class="ta_upscr bounceInup animated" style="display: none;"><i class="fas fa-angle-up"></i></a>
+    <!--/Scroll To Top-->
+<!-- /Scroll To Top -->
+<script src="http://www.xzclass.com/wp-includes/js/comment-reply.min.js?ver=6.6.2" id="comment-reply-js" async="" data-wp-strategy="async"></script>
+<script src="http://www.xzclass.com/wp-content/themes/newsup/js/custom.js?ver=6.6.2" id="newsup-custom-js"></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+</body></html>

@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "Accept-Language": "en-US,en;q=0.9",
+        "Cookie": "lexology.Browsing=5c1eba73-a420-4107-a7ba-9cde42f7a17f; AspxAutoDetectCookieSupport=1",
+        "Referer": "https://www.lexology.com/library/detail.aspx?g=fcc860fb-372f-4c5c-a536-27e056d471eb",
+        "User-Agent": "Scrapy/2.11.2 (+https://scrapy.org)"
+    },
+    "url": "https://www.lexology.com/library/detail.aspx?g=fcc860fb-372f-4c5c-a536-27e056d471eb",
+    "wait": 6
+}

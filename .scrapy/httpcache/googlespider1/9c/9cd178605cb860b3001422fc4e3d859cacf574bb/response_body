@@ -1,0 +1,104 @@
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<title>你知道人工智能发展史吗？ - 沃卡惠</title>
+<meta name="keywords" content="">
+<meta name="description" content="在20世纪和21世纪的无数技术进步中，最具影响力的无疑是AI。从重塑我们查找信息方式的搜索引擎算法，到亚马逊在消费领域的Alexa，AI已经成为推动整个科技行业走向未来的主要技术。无论是一家新兴的初创企业，还是像">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="/skin/themes/css/index.css" rel="stylesheet">
+<link rel="stylesheet" href="/skin/themes/css/swiper.min.css">
+<script src="https://hm.baidu.com/hm.js?b5ef35f6c6075f03a415b3abd2ea9c94"></script><script src="/skin/themes/js/jquery-1.8.3.min.js"></script>
+<script src="/skin/themes/js/main.js"></script>
+<script src="/skin/themes/js/swiper.min.js"></script>
+</head>
+<body>
+<header>
+<div class="topnav"><h2><a href="/"><img alt="沃卡logo" src="/skin/themes/images/logo.png" height="40px"></a></h2>
+<nav>
+<ul id="starlist">
+<li><a href="/">网站首页</a></li>
+<li><a href="/product/">产品介绍</a></li> 
+<li><a href="/solution/">解决方案</a></li> 
+<li><a href="/case/">成功案例</a></li> 
+<li><a href="/service/">客户服务</a></li>
+<li class="menu"><a href="/article/">最新资讯</a>
+<ul class="sub">
+<li><a href="/article/news/">新闻动态</a></li>
+<li><a href="/article/industry/" id="selected">行业资讯</a></li>
+<li><a href="/article/ask/">客户问答</a></li></ul><span></span></li>
+<li class="menu"><a href="/about/">关于我们</a>
+<ul class="sub">
+<li><a href="/company.html">企业风采</a></li>
+<li><a href="/honor.html">资质荣誉</a></li>
+<li><a href="/ly.html">在线留言</a></li></ul><span></span></li></ul></nav><h2 id="mnavh"><span class="navicon"></span></h2></div>
+  <div class="is-search"><section><i></i>请输入关键字词</section></div>
+  <div class="search-page">
+    <div class="go-left"></div>
+    <div class="search">
+      <form action="/e/search/index.php" method="post" name="searchform" id="searchform">
+        <input name="keyboard" id="keyboard" class="input_text" value="请输入关键字词" style="color: rgb(153, 153, 153);" onfocus="if(value=='请输入关键字词'){this.style.color='#000';value=''}" onblur="if(value==''){this.style.color='#999';value='请输入关键字词'}" type="text">
+        <input name="show" value="title" type="hidden">
+        <input name="tempid" value="2" type="hidden">
+        <input name="tbname" value="news" type="hidden">
+        <input name="Submit" class="input_submit" value="搜索" type="submit">
+      </form>
+    </div>
+  </div>
+</header>
+<div class="clear blank"></div>
+<article>
+  <div class="left-box">
+    <div class="whitebg">
+      <div class="newstext-box">
+       <div class="news-title"><h1 class="news-title-h1">你知道人工智能发展史吗？</h1>
+        <div class="picview-other"><span class="po-date">2022-07-26</span><span class="po-classname">来源：千家网</span></div></div>
+        <div class="newstext"><p style="text-align: center;"><img alt="" src="/d/file/article/industry/185fa7abeef25a172624533206744b40.jpg"></p><p>在20世纪和21世纪的无数技术进步中，最具影响力的无疑是AI。从重塑我们查找信息方式的搜索引擎算法，到亚马逊在消费领域的Alexa，AI已经成为推动整个科技行业走向未来的主要技术。</p><p>无论是一家新兴的初创企业，还是像微软这样的行业巨头，企业至少有一个部门在与AI或机器学习合作。根据某项研究表明，2021年全世界AI行业的估值为935亿美元。</p><p>AI作为科技行业的一股力量在本世纪头十年和2010年代爆发，但至少自1950年以来，AI就以某种形式或方式存在，并且可以说可以追溯到更远的地方。</p><p>AI历史的大致轮廓，譬如图灵测试和国际象棋计算机，在大众意识中根深蒂固，但丰富而密集的历史却存在于常识的表面之下。本文将从这段历史中提取精华，向各位展示AI怎样从神话般的想法到改变世界的现实道路。</p><p><strong>从民间传说到事实</strong></p><p>虽说AI通常被认为是一个前沿的概念，但几千年来，人类一直在想象AI，这些想象对当今该领域取得的进步产生了切实的影响。譬如青铜机器人塔洛斯，希腊克里特岛的保护者，以及文艺复兴时期的炼金术造人。《弗兰肯斯坦的怪物》、《2001太空漫游》中的HAL9000，以及《终结者》系列中的天网等角色只是我们在现代小说中描绘AI的一些方式。</p><p>在AI历史上影响最大的虚构概念之一是艾萨克·阿西莫夫的机器人三定律。当现实世界的研究人员和企业建立自己的机器人定律时，经常会引用这些定律。</p><p>事实上，当英国的工程和物理科学研究委员会、艺术和人文研究委员会为机器人的设计师、建造者和用户发布其5项原则时，它明确引用了阿西莫夫作为参考点，尽管指出阿西莫夫定律在实践中根本行不通。</p><p><strong>计算机、游戏和图灵测试</strong></p><p>20世纪40年代，当阿西莫夫撰写《三大定律》时，研究人员威廉·格雷·沃尔特正在开发一种初级的AI模拟版本。这些微型机器人被称为乌龟或海龟，它们可以探测光线并对其做出反应，并与它们的塑料外壳接触，它们可以在不使用计算机的情况下操作。</p><p>20世纪60年代后期，约翰霍普金斯大学制造了另一种无计算机自动机器人Beast，它可以通过声纳在大学的大厅里导航，并在电池电量不足时在特殊的墙壁插座上充电。</p><p>然则，我们今天所知道的AI会发现它的发展与计算机科学的发展有着千丝万缕的联系。图灵在1950年发表的论文《计算机器与智能》中提出了著名的图灵测试，至今仍有影响力。很多早期的AI程序都是为了玩游戏而开发的，譬如克里斯托弗·斯特雷奇为弗兰蒂马克I型计算机编写的跳棋程序。</p><p>1956年，马文·明斯基、约翰·麦卡锡、克劳德·香农和内森·罗彻斯特在达特茅斯研讨会上创造了“AI”一词。在会上，麦卡锡为这个新兴领域创造了这个名字。</p><p>这个研讨会也是艾伦·纽威尔和赫伯特·西蒙首次展示他们的逻辑理论家计算机程序的地方，这个程序是在计算机程序员克里夫·肖的帮助下开发的。“逻辑理论家”被设计成以人类数学家的方式来证明数学定理。</p><p>游戏和数学是早期AI的焦点，因为它们很容易应用“推理即搜索”原则。推理即搜索，也称为均数分析(MEA)，是一种解决问题的方法，它遵循三个基本步骤：</p><ul>	<li>确定你观察到的任何问题的持续状态。</li>	<li>确定最终目标(你不再感到饥饿)。</li>	<li>决定你需要采取的行动来解决问题。</li></ul><p>这是AI原理的早期先驱，假如行动没有解决问题，找到一组新的行动并重复，直到你解决了问题。</p><p><strong>神经网络和自然语言</strong></p><p>考虑到冷战时期的政府愿意在任何可能让他们比对方更有优势的事情上投入资金，AI研究在50年代和60年代经历了来自DARPA等组织的大量资金。</p><p>这项研究推动了机器学习的一系列进步。比如，在使用多目标进化算法的同时，生成启发式思维捷径，从而阻止AI可能探索的、不太可能达到预期结果的问题解决路径。</p><p>第一个人工神经网络起初在1940年代提出，于1958年发明，这要归功于美国海军研究办公室的资助。这一时期研究人员的一个主要重点是试图让AI理解人类语言。</p><p>1966年，Joseph Weizenbaum推出了第一个聊天机器人ELIZA，全世界的互联网用户都对此表示感谢。Roger Schank的概念依赖理论是AI研究中最具影响力的早期进展之一，该理论试图将句子转换为以一组简单关键字的基本概念。</p><p><strong>AI的第一个冬天</strong></p><p>20世纪70年代，50年代和60年代对AI研究普遍存在的乐观情绪开始消退。考虑到AI研究面临的无数现实问题招致资金枯竭。其中最主要的是计算能力的限制。</p><p>Bruce G.Buchanan在AI杂志的一篇文章中解释道：“早期的程序必然受到内存和处理器的大小和速度，以及早期操作系统和语言的相对笨拙的限制。”伴随资金的消失和乐观情绪的消退，这段时期被称为AI的冬天。</p><p>这一时期，AI研究人员遭遇了挫折，并出现了跨学科分歧。Marvin Minsky和Frank Rosenblatt在1969年出版的《感知器》彻底阻碍了神经网络领域的发展，直到20世纪80年代，该领域的研究才有所进展。</p><p>然后，就出现了所谓两大分类，一类倾向于使用逻辑和符号推理来训练和教育他们的AI。他们希望AI能够解决数学定理之类的逻辑问题。</p><p>John McCarthy在1959年的建议中引入了在AI中使用逻辑的想法。另外，由Alan Colmerauer和Phillipe Roussel于1972年开发的Prolog编程语言被专门设计为一种逻辑编程语言，至今仍在AI中使用。</p><p>与此同时，另一类的人试图让AI解决需要AI像人一样思考的问题。在1975年的一篇论文中，Marvin Minsky概述了研究人员常用的一种方法，称为“框架”。</p><p>框架是人类和AI理解世界的一种方式。当遇到一个新的人或事件时，我们可以运用类似的人或事件的记忆给个大致的想法，譬如当在一家新餐馆点菜时，但可能不知道菜单或服务你的人，于是可以根据过去在其他餐厅的经验大致了解怎样下订单。</p><p><strong>从学术界到工业界</strong></p><p>上世纪80年代标志着人们对AI热情的回归。比如日本的第五代计划试图建立在Prolog上运行的智能计算机，就像运行在代码上的普通计算机一样，这进一步激起了美国企业的兴趣。美国公司不愿落后，纷纷投入资金进行AI研究。</p><p>综上所述，人们对AI兴趣的增加和对工业研究的转移，招致AI行业的价值在1988年飙升至20亿美元。考虑到通货膨胀，2022年这一数字将接近50亿美元。</p><p><strong>AI的第二个冬天</strong></p><p>然则，在20世纪90年代，人们的兴趣开始减退，就像70年代一样。比如经过10年的发展，第五代计划未能实现其很多目标，伴随企业发现购买批量生产的通用芯片和将AI应用编程到软件中更便宜、更容易，专用的AI硬件市场，如LISP机器，崩盘并招致整体市场萎缩。</p><p>另外，在本世纪初证明了AI可行性的专家系统开始出现致命缺陷。伴随系统的持续使用，它会不断添加更多的规则来操作，并需要愈来愈大的知识库来处理。最终，维护和更新系统知识库所需的人力数量会不断增长，直到在财政上无法维持。这些因素和其他因素的结合招致了第二个AI冬天。</p><p><strong>进入新千年和AI的现代世界</strong></p><p>20世纪90年代末和21世纪初，有迹象表明AI的春天即将到来。AI的一些最古老的目标最终实现了，譬如1997年深蓝战胜当时的国际象棋世界冠军Gary Kasparov，这是AI具有里程碑意义的时刻。</p><p>更复杂的数学工具，以及与电子工程等领域的合作，使AI转变为一门更注重逻辑的科学学科。</p><p>与此同时，AI在很多新的行业领域得到了应用，譬如谷歌的搜索引擎算法、数据挖掘和语音识别等等。新的超级计算机和程序将发现自己在与人类顶级对手竞争，甚至获胜，譬如IBM的Watson赢得了Jeopardy。</p><p>近年来最具影响力的AI之一是Facebook的算法，它可以确定你在什么时候看到了什么帖子，试图为该平台的用户策划一种在线体验。类似功能的算法可以在Youtube和Netflix等网站上找到，它们会根据之前的历史预测观众接下来想看的内容。</p><p>有时，这些创新甚至不被认为是AI。正如Nick Brostrom在2006年接受CNN采访时所说：“很多前沿AI已经渗透到普遍应用中，通常不被称为AI，因为一旦某种东西变得足够有用、足够普遍，它就不再被贴上AI的标签。”</p><p>不将有用的AI称为AI的趋势并没有持续到2010年代。现在，初创企业和科技巨头都争相宣称他们的最新产品是由AI或机器学习推动的。在某些情况下，这种愿望是如此强大，以至于有些人会宣称他们的产品是由AI驱动的，即使AI的功能存在问题。</p><p>无论是通过前面提到的社交媒体算法，还是亚马逊Alexa这样的虚拟助手，AI已经进入了很多人的家庭。经历了寒冬和破灭的泡沫，AI领域一直在坚持，并成为现代生活中非常重要的一部分，并可能在未来几年呈指数级增长。</p>        <p style="color:#ccc">　　图片使用申明：原创文章图片源自‘Canva可画’平台免费版权图片素材；引用文章源自引用平台文章中所使用的原图。</p>
+        </div>
+        
+      </div>
+    </div>
+    <div class="clear blank"></div>
+    <div class="otherlink whitebg">
+      <div class="news-title"><h2>相关文章</h2></div>
+      <ul><li><a href="/article/industry/30.html" title="物联网跨平台设计的应对策略">物联网跨平台设计的应对策略</a></li><li><a href="/article/industry/1716.html" title="在大型组织中部署AI的最佳实践">在大型组织中部署AI的最佳实践</a></li><li><a href="/article/industry/882.html" title="工业机器人的局限性">工业机器人的局限性</a></li><li><a href="/article/industry/2247.html" title="75%的企业正在或拟永久性禁用ChatGPT">75%的企业正在或拟永久性禁用Cha</a></li><li><a href="/article/industry/2253.html" title="农业革命：农作物收割机器人在全球市场的崛起">农业革命：农作物收割机器人在全球</a></li><li><a href="/article/industry/610.html" title="居家办公之难：工作效率与员工幸福度如何兼顾？">居家办公之难：工作效率与员工幸福</a></li><li><a href="/article/industry/3146.html" title="语音识别技术在金融领域的兴起">语音识别技术在金融领域的兴起</a></li><li><a href="/article/industry/2870.html" title="数据中心治理：未来的重要议题和管理趋势">数据中心治理：未来的重要议题和管</a></li><li><a href="/article/industry/738.html" title="加速AI开发，企业如何利用MLOps提升生产效率？">加速AI开发，企业如何利用MLOps提</a></li><li><a href="/article/industry/2403.html" title="什么是人工智能中的计算机视觉">什么是人工智能中的计算机视觉</a></li></ul>
+    </div>
+</div>
+</article>
+<div class="blank clear"></div>
+<footer>
+  <div class="footer box">
+    <div class="wxbox">
+      <ul>
+        <!--<li><img alt="扫码关注我们" src="/skin/themes/images/gongzhognhao.jpg" /><span>扫码关注我们</span></li>
+        <li><img alt="扫码联系客服" src="/skin/themes/images/kehu.png" /><span>扫码联系客服</span></li>-->
+        <li><img alt="在线客服" src="/skin/themes/images/zxkf.png"><span>在线客服</span></li>
+        <li><img alt="企业微信客服" src="/skin/themes/images/qykf.png"><span>企业微信客服</span></li>
+      </ul>
+    </div>
+    <div class="endnav">
+      <p>增值电信业务经营许可证号：鄂B2-20200242</p>
+      <p>中国联通合作伙伴：沃卡惠（湖北）通信有限公司</p>
+      <p>备案号：<a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow">鄂ICP备18031228号-2</a>  <img alt="公安备案" src="/skin/themes/images/gaba.png" style="width:14px;height:auto;display:inline-block;"> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=42280102001149" rel="noreferrer" target="_blank">鄂公网安备42280102001149</a></p>
+    </div>
+  </div>
+</footer>
+
+<div class="endmenu">
+  <ul>
+    <li><a href="/"><i class="iconfont icon-shouye"></i>首页</a></li>
+    <li><a href="/product/"><i class="iconfont icon-fenlei"></i>产品</a></li>
+    <li><a href="/solution/"><i class="iconfont icon-navicon-wzgl"></i>方案</a></li>
+    <li><a href="/case/"><i class="iconfont icon-My"></i>案例</a></li>
+  </ul>
+</div>
+<a href="#" title="返回顶部" class="icon-top"></a>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b5ef35f6c6075f03a415b3abd2ea9c94";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</body></html>

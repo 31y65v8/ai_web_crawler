@@ -1,0 +1,15 @@
+Server: nginx
+Date: Thu, 14 Nov 2024 05:56:40 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Product: Z-BlogPHP 1.7.3
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1
+Upgrade-Insecure-Requests: 1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: origin-when-cross-referrer
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: master-only
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip

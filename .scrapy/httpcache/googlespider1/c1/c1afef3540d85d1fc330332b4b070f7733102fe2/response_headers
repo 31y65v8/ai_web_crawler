@@ -1,0 +1,10 @@
+Access-Control-Allow-Headers: Origin, No-Cache, X-Requested-With, If-Modified-Since, Pragma, Last-Modified, Cache-Control, Expires, Content-Type, X-E4M-With
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE
+Access-Control-Allow-Origin: *
+Access-Control-Max-Age: 3600
+Content-Language: en-US
+Content-Type: text/html;charset=UTF-8
+Date: Thu, 14 Nov 2024 03:47:35 GMT
+Server: nginx/1.22.1
+Set-Cookie: JSESSIONID=A8F1A573573E059CA66BECE153ADDA33.tomcat2; Path=/; HttpOnly
+X-Ua-Compatible: IE=Edge, chrome=1
