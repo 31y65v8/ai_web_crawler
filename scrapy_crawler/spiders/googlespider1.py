@@ -34,7 +34,7 @@ class GoogleSpiderSpider(scrapy.Spider):
     csv_file_path1 = 'spiders/data.csv'#中文结果
     csv_file_path2 = 'spiders/data_Eng.csv'#英文结果
     #关键词文件路径
-    keywords_file = 'spiders/keywords.json'
+    keywords_file = 'spiders/keywords1.json'
 
     # 初始化，检查文件是否存在，若存在则加载已有的标题以防止重复
     def __init__(self, *args, **kwargs):
@@ -321,7 +321,7 @@ class GoogleSpiderSpider(scrapy.Spider):
         #限制爬取搜索结果页数，每页10条
         page_number = response.meta.get('page_number', 1)  # 获取当前页码
 
-        if  page_number < 16:  # 限制爬取的最大页数
+        if  page_number < 21:  # 限制爬取的最大页数（前20页）
             # 获取下一页的链接
             #next_page = response.css('a#pnnext::attr(href)').get()  # 获取翻页链接（下一页）
             next_page = response.css('a[aria-label="Next page"]::attr(href)').get()
